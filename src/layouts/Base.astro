@@ -1,0 +1,80 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+}
+const { title, description = 'A cross-topic timeline of historical events.' } = Astro.props;
+const fullTitle = title ? `${title} · Espasa` : 'Espasa';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{fullTitle}</title>
+  </head>
+  <body>
+    <header class="site">
+      <a class="brand" href="/">Espasa</a>
+      <nav>
+        <a href="/">Timeline</a>
+        <a href="/compare/">Compare topics</a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --bg: #fbfaf7;
+    --fg: #1d1d1b;
+    --muted: #6b6b66;
+    --line: #dddbd3;
+    color-scheme: light dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #151514;
+      --fg: #ecebe6;
+      --muted: #9a9a93;
+      --line: #35342f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font: 16px/1.55 system-ui, sans-serif;
+  }
+  a { color: inherit; }
+  header.site {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid var(--line);
+  }
+  header.site .brand { font-weight: 700; text-decoration: none; letter-spacing: 0.04em; }
+  header.site nav { display: flex; gap: 1.25rem; }
+  header.site nav a { color: var(--muted); text-decoration: none; }
+  header.site nav a:hover { color: var(--fg); }
+  main { max-width: 56rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+  h1 { line-height: 1.2; }
+  .chip {
+    display: inline-block;
+    padding: 0.05rem 0.55rem;
+    border-radius: 999px;
+    border: 1px solid var(--chip, var(--line));
+    color: var(--chip, var(--fg));
+    font-size: 0.8rem;
+    text-decoration: none;
+  }
+  .date { color: var(--muted); font-variant-numeric: tabular-nums; }
+</style>

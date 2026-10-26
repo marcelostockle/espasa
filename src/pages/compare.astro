@@ -1,0 +1,112 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Compare topics" description="See several topics side by side on one chronology.">
+  <h1>Compare topics</h1>
+  <p class="date">Pick topics to see them in parallel. Rows follow shared chronological order.</p>
+  <div id="picker" class="picker" role="group" aria-label="Topics"></div>
+  <div id="grid" class="grid" aria-live="polite"></div>
+  <noscript><p>This view needs JavaScript. The <a href="/">full timeline</a> works without it.</p></noscript>
+</Base>
+
+<script>
+  interface Index {
+    tags: { id: string; label: string; color: string }[];
+    entries: { id: string; title: string; date: string; key: number; tags: string[] }[];
+  }
+
+  const picker = document.getElementById('picker')!;
+  const grid = document.getElementById('grid')!;
+  const selected = new Set(
+    (new URLSearchParams(location.search).get('tags') ?? '').split(',').filter(Boolean),
+  );
+
+  function syncUrl() {
+    history.replaceState(null, '', selected.size ? `?tags=${[...selected].join(',')}` : location.pathname);
+  }
+
+  function render(index: Index) {
+    const tags = index.tags.filter((t) => selected.has(t.id));
+    picker.replaceChildren(
+      ...index.tags.map((t) => {
+        const label = document.createElement('label');
+        label.className = 'chip pick';
+        label.style.setProperty('--chip', t.color);
+        const box = document.createElement('input');
+        box.type = 'checkbox';
+        box.checked = selected.has(t.id);
+        box.addEventListener('change', () => {
+          box.checked ? selected.add(t.id) : selected.delete(t.id);
+          syncUrl();
+          render(index);
+        });
+        label.append(box, ' ', t.label);
+        return label;
+      }),
+    );
+
+    if (!tags.length) {
+      grid.replaceChildren(Object.assign(document.createElement('p'), { textContent: 'Select at least one topic.' }));
+      return;
+    }
+
+    grid.style.setProperty('--cols', String(tags.length));
+    const head = [document.createElement('div'), ...tags.map((t) => {
+      const h = document.createElement('div');
+      h.className = 'colhead';
+      h.textContent = t.label;
+      h.style.color = t.color;
+      return h;
+    })];
+
+    const rows = index.entries
+      .filter((e) => e.tags.some((id) => selected.has(id)))
+      .flatMap((e) => {
+        const date = document.createElement('div');
+        date.className = 'date rowdate';
+        date.textContent = e.date;
+        const cells = tags.map((t) => {
+          const cell = document.createElement('div');
+          cell.className = 'cell';
+          if (e.tags.includes(t.id)) {
+            const a = document.createElement('a');
+            a.href = `/entries/${e.id}/`;
+            a.textContent = e.title;
+            a.style.borderLeftColor = t.color;
+            cell.append(a);
+          }
+          return cell;
+        });
+        return [date, ...cells];
+      });
+
+    grid.replaceChildren(...head, ...rows);
+  }
+
+  const res = await fetch('/timeline.json');
+  render((await res.json()) as Index);
+</script>
+
+<style is:global>
+  .picker { display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 1rem 0 1.5rem; }
+  .pick { cursor: pointer; }
+  .pick:has(input:checked) { background: color-mix(in srgb, var(--chip) 18%, transparent); }
+  .pick input { accent-color: var(--chip); }
+  .grid {
+    display: grid;
+    grid-template-columns: 9rem repeat(var(--cols, 1), minmax(9rem, 1fr));
+    gap: 0.5rem 0.75rem;
+    overflow-x: auto;
+  }
+  .colhead { font-weight: 700; padding-bottom: 0.25rem; border-bottom: 1px solid var(--line); }
+  .rowdate { padding-top: 0.35rem; }
+  .cell a {
+    display: block;
+    padding: 0.3rem 0.6rem;
+    border-left: 4px solid var(--line);
+    background: color-mix(in srgb, var(--fg) 5%, transparent);
+    text-decoration: none;
+  }
+  .cell a:hover { text-decoration: underline; }
+</style>

@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import EntryList from '../components/EntryList.astro';
+import { getSortedEntries, getTags } from '../lib/entries';
+
+const [entries, tags] = await Promise.all([getSortedEntries(), getTags()]);
+---
+
+<Base>
+  <h1>Timeline</h1>
+  <p class="intro">
+    Events from every topic in one chronological stream. Pick a topic to focus on it, or
+    <a href="/compare/">compare several side by side</a>.
+  </p>
+  <p class="filters">
+    {
+      tags.map((tag) => (
+        <a class="chip" style={`--chip:${tag.data.color}`} href={`/tags/${tag.id}/`}>
+          {tag.data.label}
+        </a>
+      ))
+    }
+  </p>
+  <EntryList entries={entries} tags={tags} />
+</Base>
+
+<style>
+  .intro { color: var(--muted); }
+  .filters { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+</style>

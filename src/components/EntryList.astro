@@ -1,0 +1,53 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { formatRange } from '../lib/time';
+
+interface Props {
+  entries: CollectionEntry<'entries'>[];
+  tags: CollectionEntry<'tags'>[];
+}
+const { entries, tags } = Astro.props;
+const tagById = new Map(tags.map((t) => [t.id, t]));
+---
+
+<ol class="entries">
+  {
+    entries.map((entry) => (
+      <li>
+        <div class="date">{formatRange(entry.data.date, entry.data.end)}</div>
+        <div>
+          <a class="title" href={`/entries/${entry.id}/`}>{entry.data.title}</a>
+          <p>{entry.data.summary}</p>
+          <div class="tags">
+            {entry.data.tags.map((ref) => {
+              const tag = tagById.get(ref.id)!;
+              return (
+                <a class="chip" style={`--chip:${tag.data.color}`} href={`/tags/${tag.id}/`}>
+                  {tag.data.label}
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      </li>
+    ))
+  }
+</ol>
+
+<style>
+  .entries { list-style: none; margin: 0; padding: 0; }
+  li {
+    display: grid;
+    grid-template-columns: 9.5rem 1fr;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-top: 1px solid var(--line);
+  }
+  .title { font-weight: 600; font-size: 1.1rem; text-decoration: none; }
+  .title:hover { text-decoration: underline; }
+  p { margin: 0.25rem 0 0.5rem; }
+  .tags { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+  @media (max-width: 36rem) {
+    li { grid-template-columns: 1fr; gap: 0.25rem; }
+  }
+</style>

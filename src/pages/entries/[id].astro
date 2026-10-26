@@ -1,0 +1,56 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { getSortedEntries, getTags } from '../../lib/entries';
+import { formatRange } from '../../lib/time';
+
+export async function getStaticPaths() {
+  const [entries, tags] = await Promise.all([getSortedEntries(), getTags()]);
+  return entries.map((entry, i) => ({
+    params: { id: entry.id },
+    props: { entry, tags, prev: entries[i - 1], next: entries[i + 1] },
+  }));
+}
+
+const { entry, tags, prev, next } = Astro.props;
+const { Content } = await render(entry);
+const tagById = new Map(tags.map((t) => [t.id, t]));
+---
+
+<Base title={entry.data.title} description={entry.data.summary}>
+  <article data-pagefind-body>
+    <p class="date">{formatRange(entry.data.date, entry.data.end)}</p>
+    <h1>{entry.data.title}</h1>
+    <p class="lede">{entry.data.summary}</p>
+    <div class="tags">
+      {
+        entry.data.tags.map((ref) => {
+          const tag = tagById.get(ref.id)!;
+          return (
+            <a class="chip" style={`--chip:${tag.data.color}`} href={`/tags/${tag.id}/`}>
+              {tag.data.label}
+            </a>
+          );
+        })
+      }
+    </div>
+    <Content />
+  </article>
+  <nav class="adjacent">
+    {prev ? <a href={`/entries/${prev.id}/`}>← {prev.data.title}</a> : <span />}
+    {next ? <a href={`/entries/${next.id}/`}>{next.data.title} →</a> : <span />}
+  </nav>
+</Base>
+
+<style>
+  .lede { font-size: 1.15rem; }
+  .tags { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+  .adjacent {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--line);
+  }
+</style>
