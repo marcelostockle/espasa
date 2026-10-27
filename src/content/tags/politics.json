@@ -1,1 +1,8 @@
-{ "label": "Politics", "color": "#4a9d5b", "description": "States, wars and governance." }
+{
+  "label": "Politics",
+  "color": "#4a9d5b",
+  "description": "States, wars and governance.",
+  "categories": [
+    "Society"
+  ]
+}

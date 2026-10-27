@@ -1,9 +1,10 @@
 ---
 import Base from '../layouts/Base.astro';
 import EntryList from '../components/EntryList.astro';
-import { getSortedEntries, getTags } from '../lib/entries';
+import { getSortedEntries, getTags, groupTagsByCategory } from '../lib/entries';
 
 const [entries, tags] = await Promise.all([getSortedEntries(), getTags()]);
+const groups = groupTagsByCategory(tags.map((t) => ({ id: t.id, ...t.data })));
 ---
 
 <Base>
@@ -12,19 +13,35 @@ const [entries, tags] = await Promise.all([getSortedEntries(), getTags()]);
     Events from every topic in one chronological stream. Pick a topic to focus on it, or
     <a href="/compare/">compare several side by side</a>.
   </p>
-  <p class="filters">
+  <div class="filters">
     {
-      tags.map((tag) => (
-        <a class="chip" style={`--chip:${tag.data.color}`} href={`/tags/${tag.id}/`}>
-          {tag.data.label}
-        </a>
+      groups.map((group) => (
+        <section>
+          <h2>{group.category}</h2>
+          <p>
+            {group.tags.map((tag) => (
+              <a class="chip" style={`--chip:${tag.color}`} href={`/tags/${tag.id}/`}>
+                {tag.label}
+              </a>
+            ))}
+          </p>
+        </section>
       ))
     }
-  </p>
+  </div>
   <EntryList entries={entries} tags={tags} />
 </Base>
 
 <style>
   .intro { color: var(--muted); }
-  .filters { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+  .filters { display: flex; gap: 0.5rem 2rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+  .filters h2 {
+    margin: 0 0 0.25rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+  }
+  .filters p { display: flex; gap: 0.4rem; flex-wrap: wrap; margin: 0; }
 </style>

@@ -12,7 +12,7 @@ import Base from '../layouts/Base.astro';
 
 <script>
   interface Index {
-    tags: { id: string; label: string; color: string }[];
+    tags: { id: string; label: string; color: string; categories: string[] }[];
     entries: { id: string; title: string; date: string; key: number; tags: string[] }[];
   }
 
@@ -28,21 +28,42 @@ import Base from '../layouts/Base.astro';
 
   function render(index: Index) {
     const tags = index.tags.filter((t) => selected.has(t.id));
+    const groups = new Map<string, Index['tags']>();
+    for (const t of index.tags) {
+      for (const c of t.categories.length ? t.categories : ['Other']) {
+        groups.set(c, [...(groups.get(c) ?? []), t]);
+      }
+    }
+    const ordered = [...groups].sort(([a], [b]) =>
+      a === 'Other' ? 1 : b === 'Other' ? -1 : a.localeCompare(b),
+    );
     picker.replaceChildren(
-      ...index.tags.map((t) => {
-        const label = document.createElement('label');
-        label.className = 'chip pick';
-        label.style.setProperty('--chip', t.color);
-        const box = document.createElement('input');
-        box.type = 'checkbox';
-        box.checked = selected.has(t.id);
-        box.addEventListener('change', () => {
-          box.checked ? selected.add(t.id) : selected.delete(t.id);
-          syncUrl();
-          render(index);
-        });
-        label.append(box, ' ', t.label);
-        return label;
+      ...ordered.map(([category, members]) => {
+        const group = document.createElement('div');
+        group.className = 'pickgroup';
+        const title = document.createElement('h2');
+        title.textContent = category;
+        const row = document.createElement('div');
+        row.className = 'pickrow';
+        row.append(
+          ...members.map((t) => {
+            const label = document.createElement('label');
+            label.className = 'chip pick';
+            label.style.setProperty('--chip', t.color);
+            const box = document.createElement('input');
+            box.type = 'checkbox';
+            box.checked = selected.has(t.id);
+            box.addEventListener('change', () => {
+              box.checked ? selected.add(t.id) : selected.delete(t.id);
+              syncUrl();
+              render(index);
+            });
+            label.append(box, ' ', t.label);
+            return label;
+          }),
+        );
+        group.append(title, row);
+        return group;
       }),
     );
 
@@ -89,7 +110,16 @@ import Base from '../layouts/Base.astro';
 </script>
 
 <style is:global>
-  .picker { display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 1rem 0 1.5rem; }
+  .picker { display: flex; gap: 0.75rem 2rem; flex-wrap: wrap; margin: 1rem 0 1.5rem; }
+  .pickgroup h2 {
+    margin: 0 0 0.25rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+  }
+  .pickrow { display: flex; gap: 0.5rem; flex-wrap: wrap; }
   .pick { cursor: pointer; }
   .pick:has(input:checked) { background: color-mix(in srgb, var(--chip) 18%, transparent); }
   .pick input { accent-color: var(--chip); }

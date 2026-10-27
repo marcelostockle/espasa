@@ -6,7 +6,7 @@ import { formatRange, sortKey } from '../lib/time';
 export const GET: APIRoute = async () => {
   const [entries, tags] = await Promise.all([getSortedEntries(), getTags()]);
   const body = {
-    tags: tags.map((t) => ({ id: t.id, label: t.data.label, color: t.data.color })),
+    tags: tags.map((t) => ({ id: t.id, label: t.data.label, color: t.data.color, categories: t.data.categories })),
     entries: entries.map((e) => ({
       id: e.id,
       title: e.data.title,

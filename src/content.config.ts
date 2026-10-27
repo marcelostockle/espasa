@@ -20,6 +20,8 @@ const tags = defineCollection({
     label: z.string(),
     color: z.string().regex(/^#[0-9a-fA-F]{6}$/, 'Use a #rrggbb color'),
     description: z.string().optional(),
+    // Free-form grouping labels; categories exist only by being named here.
+    categories: z.array(z.string().trim().min(1)).default([]),
   }),
 });
 

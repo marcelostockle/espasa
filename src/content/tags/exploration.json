@@ -1,1 +1,5 @@
-{ "label": "Exploration", "color": "#16a3a3", "description": "Voyages and contact between worlds." }
+{
+  "label": "Exploration",
+  "color": "#16a3a3",
+  "description": "Voyages and contact between worlds."
+}
