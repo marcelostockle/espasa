@@ -1,0 +1,49 @@
+{
+  "art": {
+    "label": "Art",
+    "color": "#c2398b",
+    "description": "Visual arts, literature and music.",
+    "categories": [
+      "Culture"
+    ]
+  },
+  "exploration": {
+    "label": "Exploration",
+    "color": "#16a3a3",
+    "description": "Voyages and contact between worlds."
+  },
+  "politics": {
+    "label": "Politics",
+    "color": "#4a9d5b",
+    "description": "States, wars and governance.",
+    "categories": [
+      "Society"
+    ]
+  },
+  "religion": {
+    "label": "Religion",
+    "color": "#8a5cd1",
+    "description": "Faith, institutions and reform.",
+    "categories": [
+      "Culture",
+      "Society"
+    ]
+  },
+  "science": {
+    "label": "Science",
+    "color": "#2a7de1",
+    "description": "Discoveries and the scientific method.",
+    "categories": [
+      "Knowledge"
+    ]
+  },
+  "technology": {
+    "label": "Technology",
+    "color": "#e08a1e",
+    "description": "Inventions and engineering.",
+    "categories": [
+      "Knowledge",
+      "Material culture"
+    ]
+  }
+}

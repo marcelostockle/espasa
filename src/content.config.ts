@@ -1,5 +1,5 @@
 import { defineCollection, reference } from 'astro:content';
-import { glob } from 'astro/loaders';
+import { file, glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
 // Historical years: negative = BCE, and there is no year 0 (1 BCE is -1, 1 CE is 1).
@@ -15,7 +15,8 @@ const historicalDate = z
   });
 
 const tags = defineCollection({
-  loader: glob({ pattern: '**/*.json', base: './src/content/tags' }),
+  // One file for all tags, keyed by tag id.
+  loader: file('src/content/tags.json'),
   schema: z.object({
     label: z.string(),
     color: z.string().regex(/^#[0-9a-fA-F]{6}$/, 'Use a #rrggbb color'),
