@@ -19,7 +19,7 @@ export function groupTagsByCategory<T extends { label: string; categories: strin
 ): { category: string; tags: T[] }[] {
   const groups = new Map<string, T[]>();
   for (const tag of tags) {
-    const cats = tag.categories.length ? tag.categories : [UNCATEGORIZED];
+    const cats = tag.categories?.length ? tag.categories : [UNCATEGORIZED];
     for (const c of cats) groups.set(c, [...(groups.get(c) ?? []), tag]);
   }
   return [...groups]

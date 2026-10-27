@@ -30,7 +30,7 @@ import Base from '../layouts/Base.astro';
     const tags = index.tags.filter((t) => selected.has(t.id));
     const groups = new Map<string, Index['tags']>();
     for (const t of index.tags) {
-      for (const c of t.categories.length ? t.categories : ['Other']) {
+      for (const c of t.categories?.length ? t.categories : ['Other']) {
         groups.set(c, [...(groups.get(c) ?? []), t]);
       }
     }
