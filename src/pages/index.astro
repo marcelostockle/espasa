@@ -1,47 +1,113 @@
 ---
+import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
-import EntryList from '../components/EntryList.astro';
+import Search from '../components/Search.astro';
 import { getSortedEntries, getTags, groupTagsByCategory } from '../lib/entries';
+import { getEraBuckets, formatEraRange } from '../lib/eras';
 
-const [entries, tags] = await Promise.all([getSortedEntries(), getTags()]);
-const groups = groupTagsByCategory(tags.map((t) => ({ id: t.id, ...t.data })));
+const [entries, tags, buckets, featured] = await Promise.all([
+  getSortedEntries(),
+  getTags(),
+  getEraBuckets(),
+  getCollection('featured'),
+]);
+
+const counts = new Map<string, number>();
+for (const e of entries) for (const t of e.data.tags) counts.set(t.id, (counts.get(t.id) ?? 0) + 1);
+
+const groups = groupTagsByCategory(
+  tags.map((t) => ({ id: t.id, ...t.data, count: counts.get(t.id) ?? 0 })),
+);
+const eras = buckets.filter((b) => b.entries.length);
+
+function compareUrl(f: (typeof featured)[number]) {
+  const params = new URLSearchParams({ tags: f.data.tags.map((t) => t.id).join(',') });
+  if (f.data.from !== undefined) params.set('from', String(f.data.from));
+  if (f.data.to !== undefined) params.set('to', String(f.data.to));
+  return `/compare/?${params}`;
+}
 ---
 
 <Base>
-  <h1>Timeline</h1>
+  <h1>History, side by side</h1>
   <p class="intro">
-    Events from every topic in one chronological stream. Pick a topic to focus on it, or
-    <a href="/compare/">compare several side by side</a>.
+    Events from every field of human activity, set against one another in time. Explore a topic,
+    or put several on the same timeline.
   </p>
-  <div class="filters">
-    {
-      groups.map((group) => (
-        <section>
-          <h2>{group.category}</h2>
-          <p>
-            {group.tags.map((tag) => (
-              <a class="chip" style={`--chip:${tag.color}`} href={`/tags/${tag.id}/`}>
-                {tag.label}
-              </a>
-            ))}
-          </p>
-        </section>
-      ))
-    }
-  </div>
-  <EntryList entries={entries} tags={tags} />
+
+  <Search />
+
+  {
+    featured.length > 0 && (
+      <section>
+        <h2>Start here</h2>
+        <ul class="featured">
+          {featured.map((f) => (
+            <li>
+              <a href={compareUrl(f)}>{f.data.title}</a>
+              <p>{f.data.description}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  <section>
+    <h2>Topics</h2>
+    <div class="groups">
+      {
+        groups.map((group) => (
+          <div>
+            <h3>{group.category}</h3>
+            <p>
+              {group.tags.map((tag) => (
+                <a class="chip" style={`--chip:${tag.color}`} href={`/tags/${tag.id}/`}>
+                  {tag.label} <span class="n">{tag.count}</span>
+                </a>
+              ))}
+            </p>
+          </div>
+        ))
+      }
+    </div>
+  </section>
+
+  <section>
+    <h2>By era</h2>
+    <ul class="eras">
+      {
+        eras.map(({ era, entries }) => (
+          <li>
+            <a href={`/eras/${era.id}/`}>{era.data.label}</a>
+            <span class="date">{formatEraRange(era)} · {entries.length}</span>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
 </Base>
 
 <style>
-  .intro { color: var(--muted); }
-  .filters { display: flex; gap: 0.5rem 2rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
-  .filters h2 {
-    margin: 0 0 0.25rem;
-    font-size: 0.75rem;
-    font-weight: 600;
+  .intro { color: var(--muted); font-size: 1.1rem; }
+  section { margin-top: 2.5rem; }
+  h2 {
+    font-size: 0.8rem;
     text-transform: uppercase;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.08em;
     color: var(--muted);
+    margin: 0 0 0.75rem;
   }
-  .filters p { display: flex; gap: 0.4rem; flex-wrap: wrap; margin: 0; }
+  h3 { margin: 0 0 0.25rem; font-size: 0.95rem; }
+  .featured { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.75rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+  .featured li { padding: 1rem; border: 1px solid var(--line); border-radius: 0.5rem; }
+  .featured a { font-weight: 600; }
+  .featured p { margin: 0.25rem 0 0; color: var(--muted); font-size: 0.9rem; }
+  .groups { display: flex; gap: 1rem 2.5rem; flex-wrap: wrap; }
+  .groups p { display: flex; gap: 0.4rem; flex-wrap: wrap; margin: 0; }
+  .n { opacity: 0.7; font-variant-numeric: tabular-nums; }
+  .eras { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; }
+  .eras li { display: flex; flex-direction: column; }
+  .eras a { font-weight: 600; text-decoration: none; }
+  .eras a:hover { text-decoration: underline; }
 </style>

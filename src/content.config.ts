@@ -37,4 +37,28 @@ const entries = defineCollection({
   }),
 });
 
-export const collections = { tags, entries };
+const eras = defineCollection({
+  // Hand-maintained, contiguous list: each era starts where the previous one ends.
+  loader: file('src/content/eras.json'),
+  schema: z
+    .object({
+      label: z.string(),
+      start: z.number().int(), // inclusive
+      end: z.number().int(), // exclusive
+    })
+    .refine((e) => e.start < e.end, { message: 'start must be before end' }),
+});
+
+// Hand-picked starting points for the compare view.
+const featured = defineCollection({
+  loader: file('src/content/featured.json'),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    tags: z.array(reference('tags')).min(2),
+    from: z.number().int().optional(),
+    to: z.number().int().optional(),
+  }),
+});
+
+export const collections = { tags, entries, eras, featured };

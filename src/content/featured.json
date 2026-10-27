@@ -1,0 +1,34 @@
+[
+  {
+    "id": "science-and-religion",
+    "title": "Science and religion, 1500–1700",
+    "description": "The Reformation and the Scientific Revolution unfold side by side.",
+    "tags": [
+      "science",
+      "religion"
+    ],
+    "from": 1500,
+    "to": 1700
+  },
+  {
+    "id": "the-press",
+    "title": "Art, religion and the press",
+    "description": "How printing reshaped what people read, believed and made.",
+    "tags": [
+      "art",
+      "religion",
+      "technology"
+    ],
+    "from": 1400,
+    "to": 1550
+  },
+  {
+    "id": "power-and-discovery",
+    "title": "Politics and exploration",
+    "description": "Empires reach outward, and the world rearranges around them.",
+    "tags": [
+      "politics",
+      "exploration"
+    ]
+  }
+]

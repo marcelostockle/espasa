@@ -1,0 +1,110 @@
+[
+  {
+    "id": "prehistory",
+    "label": "Prehistory",
+    "start": -1000000,
+    "end": -3000
+  },
+  {
+    "id": "antiquity",
+    "label": "Antiquity",
+    "start": -3000,
+    "end": 476
+  },
+  {
+    "id": "middle-ages",
+    "label": "Middle Ages",
+    "start": 476,
+    "end": 1500
+  },
+  {
+    "id": "early-modern",
+    "label": "Early Modern",
+    "start": 1500,
+    "end": 1800
+  },
+  {
+    "id": "19th-century",
+    "label": "19th century",
+    "start": 1800,
+    "end": 1900
+  },
+  {
+    "id": "1900s",
+    "label": "1900s",
+    "start": 1900,
+    "end": 1910
+  },
+  {
+    "id": "1910s",
+    "label": "1910s",
+    "start": 1910,
+    "end": 1920
+  },
+  {
+    "id": "1920s",
+    "label": "1920s",
+    "start": 1920,
+    "end": 1930
+  },
+  {
+    "id": "1930s",
+    "label": "1930s",
+    "start": 1930,
+    "end": 1940
+  },
+  {
+    "id": "1940s",
+    "label": "1940s",
+    "start": 1940,
+    "end": 1950
+  },
+  {
+    "id": "1950s",
+    "label": "1950s",
+    "start": 1950,
+    "end": 1960
+  },
+  {
+    "id": "1960s",
+    "label": "1960s",
+    "start": 1960,
+    "end": 1970
+  },
+  {
+    "id": "1970s",
+    "label": "1970s",
+    "start": 1970,
+    "end": 1980
+  },
+  {
+    "id": "1980s",
+    "label": "1980s",
+    "start": 1980,
+    "end": 1990
+  },
+  {
+    "id": "1990s",
+    "label": "1990s",
+    "start": 1990,
+    "end": 2000
+  },
+  {
+    "id": "2000s",
+    "label": "2000s",
+    "start": 2000,
+    "end": 2010
+  },
+  {
+    "id": "2010s",
+    "label": "2010s",
+    "start": 2010,
+    "end": 2020
+  },
+  {
+    "id": "2020s",
+    "label": "2020s",
+    "start": 2020,
+    "end": 2030
+  }
+]

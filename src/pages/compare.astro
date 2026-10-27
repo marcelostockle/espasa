@@ -5,6 +5,11 @@ import Base from '../layouts/Base.astro';
 <Base title="Compare topics" description="See several topics side by side on one chronology.">
   <h1>Compare topics</h1>
   <p class="date">Pick topics to see them in parallel. Rows follow shared chronological order.</p>
+  <div class="range">
+    <label>From year <input id="from" type="number" step="1" placeholder="any" /></label>
+    <label>To year <input id="to" type="number" step="1" placeholder="any" /></label>
+    <span class="date">Use negative numbers for BCE.</span>
+  </div>
   <div id="picker" class="picker" role="group" aria-label="Topics"></div>
   <div id="grid" class="grid" aria-live="polite"></div>
   <noscript><p>This view needs JavaScript. The <a href="/">full timeline</a> works without it.</p></noscript>
@@ -13,7 +18,7 @@ import Base from '../layouts/Base.astro';
 <script>
   interface Index {
     tags: { id: string; label: string; color: string; categories: string[] }[];
-    entries: { id: string; title: string; date: string; key: number; tags: string[] }[];
+    entries: { id: string; title: string; date: string; key: number; year: number; endYear: number; tags: string[] }[];
   }
 
   const picker = document.getElementById('picker')!;
@@ -22,8 +27,19 @@ import Base from '../layouts/Base.astro';
     (new URLSearchParams(location.search).get('tags') ?? '').split(',').filter(Boolean),
   );
 
+  const fromInput = document.getElementById('from') as HTMLInputElement;
+  const toInput = document.getElementById('to') as HTMLInputElement;
+  const params = new URLSearchParams(location.search);
+  fromInput.value = params.get('from') ?? '';
+  toInput.value = params.get('to') ?? '';
+
   function syncUrl() {
-    history.replaceState(null, '', selected.size ? `?tags=${[...selected].join(',')}` : location.pathname);
+    const p = new URLSearchParams();
+    if (selected.size) p.set('tags', [...selected].join(','));
+    if (fromInput.value !== '') p.set('from', fromInput.value);
+    if (toInput.value !== '') p.set('to', toInput.value);
+    const qs = p.toString();
+    history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
   }
 
   function render(index: Index) {
@@ -81,8 +97,10 @@ import Base from '../layouts/Base.astro';
       return h;
     })];
 
+    const from = fromInput.value === '' ? -Infinity : Number(fromInput.value);
+    const to = toInput.value === '' ? Infinity : Number(toInput.value);
     const rows = index.entries
-      .filter((e) => e.tags.some((id) => selected.has(id)))
+      .filter((e) => e.tags.some((id) => selected.has(id)) && e.endYear >= from && e.year <= to)
       .flatMap((e) => {
         const date = document.createElement('div');
         date.className = 'date rowdate';
@@ -105,8 +123,17 @@ import Base from '../layouts/Base.astro';
     grid.replaceChildren(...head, ...rows);
   }
 
+  let loaded: Index;
+  for (const input of [fromInput, toInput]) {
+    input.addEventListener('change', () => {
+      syncUrl();
+      render(loaded);
+    });
+  }
+
   const res = await fetch('/timeline.json');
-  render((await res.json()) as Index);
+  loaded = (await res.json()) as Index;
+  render(loaded);
 </script>
 
 <style is:global>
@@ -120,6 +147,16 @@ import Base from '../layouts/Base.astro';
     color: var(--muted);
   }
   .pickrow { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+  .range { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-top: 1rem; }
+  .range input {
+    width: 7rem;
+    padding: 0.3rem 0.5rem;
+    font: inherit;
+    color: inherit;
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 0.3rem;
+  }
   .pick { cursor: pointer; }
   .pick:has(input:checked) { background: color-mix(in srgb, var(--chip) 18%, transparent); }
   .pick input { accent-color: var(--chip); }

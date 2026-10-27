@@ -1,0 +1,36 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getEraBuckets, formatEraRange } from '../../lib/eras';
+
+const buckets = (await getEraBuckets()).filter((b) => b.entries.length);
+---
+
+<Base title="Eras">
+  <h1>Eras</h1>
+  <p class="date">Every topic in one chronological stream, one era at a time.</p>
+  <ol class="eras">
+    {
+      buckets.map(({ era, entries }) => (
+        <li>
+          <a href={`/eras/${era.id}/`}>{era.data.label}</a>
+          <span class="date">{formatEraRange(era)}</span>
+          <span class="count date">{entries.length}</span>
+        </li>
+      ))
+    }
+  </ol>
+</Base>
+
+<style>
+  .eras { list-style: none; margin: 1.5rem 0; padding: 0; }
+  li {
+    display: grid;
+    grid-template-columns: 1fr auto 3rem;
+    gap: 1rem;
+    padding: 0.75rem 0;
+    border-top: 1px solid var(--line);
+  }
+  li a { font-weight: 600; text-decoration: none; }
+  li a:hover { text-decoration: underline; }
+  .count { text-align: right; }
+</style>

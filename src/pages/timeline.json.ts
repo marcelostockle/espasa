@@ -12,6 +12,8 @@ export const GET: APIRoute = async () => {
       title: e.data.title,
       date: formatRange(e.data.date, e.data.end),
       key: sortKey(e.data.date),
+      year: e.data.date.year,
+      endYear: e.data.end?.year ?? e.data.date.year,
       tags: e.data.tags.map((t) => t.id),
     })),
   };

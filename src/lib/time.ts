@@ -26,3 +26,7 @@ export function formatDate(d: HistoricalDate): string {
 export function formatRange(start: HistoricalDate, end?: HistoricalDate): string {
   return end ? `${formatDate(start)} – ${formatDate(end)}` : formatDate(start);
 }
+
+export function formatYear(year: number): string {
+  return year < 0 ? `${-year} BCE` : String(year);
+}
