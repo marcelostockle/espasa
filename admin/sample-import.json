@@ -1,0 +1,33 @@
+{
+  "tags": {
+    "philosophy": {
+      "label": "Philosophy",
+      "color": "#b5651d",
+      "description": "Schools of thought and their founders.",
+      "categories": ["Knowledge"]
+    }
+  },
+  "entries": [
+    {
+      "title": "Death of Socrates",
+      "summary": "Athens executes the philosopher by hemlock after a trial for impiety.",
+      "date": { "year": -399 },
+      "tags": ["philosophy", "politics"],
+      "body": "Plato's dialogues preserve the account of the trial and the final hours."
+    },
+    {
+      "id": "peace-of-westphalia",
+      "title": "Peace of Westphalia",
+      "summary": "Treaties end the Thirty Years' War and sketch a system of sovereign states.",
+      "date": { "year": 1648, "month": 10, "day": 24 },
+      "tags": ["politics", "religion"]
+    },
+    {
+      "title": "Thirty Years' War",
+      "summary": "A religious and dynastic conflict devastates central Europe.",
+      "date": { "year": 1618, "month": 5, "day": 23 },
+      "end": { "year": 1648, "month": 10, "day": 24 },
+      "tags": ["politics", "religion"]
+    }
+  ]
+}

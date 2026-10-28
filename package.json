@@ -9,12 +9,15 @@
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "admin": "node admin/server.ts"
   },
   "dependencies": {
     "astro": "^7.4.2"
   },
   "devDependencies": {
-    "pagefind": "^1.5.2"
+    "@types/node": "^26.6.5",
+    "pagefind": "^1.5.2",
+    "yaml": "^2.9.1"
   }
 }
