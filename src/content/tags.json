@@ -12,6 +12,14 @@
     "color": "#16a3a3",
     "description": "Voyages and contact between worlds."
   },
+  "french-monarchy": {
+    "label": "French monarchy",
+    "color": "#1f3a93",
+    "description": "The kings of France and the institutions of the crown, from its origins to 1789.",
+    "categories": [
+      "Society"
+    ]
+  },
   "italian-renaissance": {
     "label": "Italian Renaissance",
     "color": "#a0522d",
@@ -60,6 +68,14 @@
     "categories": [
       "Knowledge",
       "Material culture"
+    ]
+  },
+  "war": {
+    "label": "War",
+    "color": "#b22222",
+    "description": "Major wars and campaigns.",
+    "categories": [
+      "Society"
     ]
   }
 }
