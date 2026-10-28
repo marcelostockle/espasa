@@ -20,6 +20,14 @@
       "Society"
     ]
   },
+  "french-revolution": {
+    "label": "French Revolution",
+    "color": "#d4a017",
+    "description": "The upheaval that ended the French monarchy and remade the state, 1789-1799.",
+    "categories": [
+      "Society"
+    ]
+  },
   "italian-renaissance": {
     "label": "Italian Renaissance",
     "color": "#a0522d",
