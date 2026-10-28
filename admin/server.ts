@@ -4,6 +4,7 @@ import { readFile } from 'node:fs/promises';
 import { createServer, type IncomingMessage, type ServerResponse } from 'node:http';
 import { join } from 'node:path';
 import { buildPlan, type OnConflict, type Plan } from './plan.ts';
+import { buildRetag, mentionedIds } from './retag.ts';
 import * as store from './store.ts';
 
 const PORT = Number(process.env.ADMIN_PORT ?? 4322);
@@ -92,6 +93,26 @@ function runImport(payload: unknown, opts: { dryRun: boolean; onConflict: OnConf
   });
 }
 
+/** Add or remove tags on existing entries; same all-or-nothing rules as import. */
+function runRetag(payload: unknown, dryRun: boolean) {
+  return exclusive(async () => {
+    const tags = await store.readTags();
+    const entries = new Map<string, store.StoredEntry | null>();
+    for (const id of mentionedIds(payload)) entries.set(id, await store.readEntry(id));
+    const plan = buildRetag(payload, new Set(Object.keys(tags)), entries);
+    if (plan.issues.length) {
+      throw new HttpError(422, 'Validation failed; nothing was written', { dryRun, issues: plan.issues });
+    }
+    if (!dryRun) for (const change of plan.changes) await store.writeEntryTags(change.entry);
+    return {
+      ok: true,
+      dryRun,
+      changed: plan.changes.map(({ entry, added, removed }) => ({ id: entry.id, added, removed })),
+      unchanged: plan.unchanged,
+    };
+  });
+}
+
 function parseConflict(value: string | null): OnConflict {
   if (value === null) return 'fail';
   if (value === 'fail' || value === 'skip' || value === 'overwrite') return value;
@@ -129,6 +150,11 @@ async function route(req: IncomingMessage, res: ServerResponse) {
     return send(res, 200, result);
   }
 
+  // --- bulk retag ---
+  if (path === '/api/retag' && method === 'POST') {
+    return send(res, 200, await runRetag(await readJson(req), url.searchParams.has('dry')));
+  }
+
   // --- tags ---
   if (path === '/api/tags' && method === 'GET') return send(res, 200, await store.readTags());
 
@@ -164,7 +190,7 @@ async function route(req: IncomingMessage, res: ServerResponse) {
       .filter((e): e is store.StoredEntry => e !== null)
       .filter((e) => !tag || e.tags.includes(tag))
       .filter((e) => !q || `${e.title} ${e.summary} ${e.body}`.toLowerCase().includes(q))
-      .map(({ id, title, date, end, tags }) => ({ id, title, date, end, tags }));
+      .map(({ id, title, summary, date, end, tags }) => ({ id, title, summary, date, end, tags }));
     return send(res, 200, list);
   }
   if (path === '/api/entries' && method === 'POST') {

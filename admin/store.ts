@@ -95,6 +95,21 @@ export async function writeEntry(e: StoredEntry) {
   await writeAtomic(entryPath(e.id), lines.join('\n'));
 }
 
+/**
+ * Change only an entry's tags, leaving the rest of the file byte-for-byte alone so the git diff
+ * is exactly the tag change. Falls back to a full rewrite if `tags:` isn't a single-line list.
+ */
+export async function writeEntryTags(e: StoredEntry) {
+  const path = entryPath(e.id);
+  const text = await readFile(path, 'utf8');
+  const line = /^tags:[ \t]*\[.*\][ \t]*(\r?)$/m;
+  if (line.test(text)) {
+    await writeAtomic(path, text.replace(line, (_m, cr) => `tags: ${J(e.tags)}${cr}`));
+  } else {
+    await writeEntry(e);
+  }
+}
+
 export async function deleteEntry(id: string): Promise<boolean> {
   try {
     await unlink(entryPath(id));

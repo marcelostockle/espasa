@@ -66,13 +66,23 @@ An entry's year must fall inside the span covered by `src/content/eras.json`, ma
 | `GET /api/tags` | All tags. |
 | `PUT /api/tags/:id` | Create or replace one tag (body is the tag object). |
 | `DELETE /api/tags/:id` | Delete a tag; `409` if any entry uses it. |
-| `GET /api/entries?tag=&q=` | List entries (no bodies), optionally filtered by tag or text. |
+| `GET /api/entries?tag=&q=` | List entries (id, title, summary, dates, tags; no bodies), optionally filtered by tag or text. |
+| `POST /api/retag` | Bulk add/remove tags on existing entries (see below). |
 | `GET /api/entries/:id` | One entry, with body. |
 | `POST /api/entries` | Create one entry (`409`-style conflict if the id exists). |
 | `PUT /api/entries/:id` | Replace one entry. |
 | `DELETE /api/entries/:id` | Delete one entry. |
 
-## Safety notes
+## Bulk retag
+
+`POST /api/retag` (add `?dry=1` to preview) with:
+
+```json
+{ "add": { "war": ["hundred-years-war", "battle-of-bouvines"] }, "remove": { "politics": ["some-entry"] } }
+```
+
+Same all-or-nothing rules as import: unknown tags or entries, an entry left with no tags, or the same tag both added and removed all return a `422` and write nothing. Entries that already have (or lack) the tag are reported as `unchanged`. Only the `tags:` line of each file changes, so `git diff` shows exactly the tag edit. The Import tab recognizes this shape too.
+
 
 - Only `Host: localhost:PORT` / `127.0.0.1:PORT` is served (blocks DNS rebinding).
 - Writes require `application/json` and no CORS headers are sent, so other websites open in your browser cannot call it.
@@ -84,3 +94,5 @@ An entry's year must fall inside the span covered by `src/content/eras.json`, ma
 ## Drafting with AI
 
 The project skill `/research-events <topic>` (see [.claude/skills/research-events/SKILL.md](../.claude/skills/research-events/SKILL.md)) researches a topic on the web, writes a draft to `admin/drafts/` (gitignored), and dry-runs it against this API. It never imports on its own; you review the draft and import it from the Import tab.
+
+The project skill `/retag <tag-id>` (see [.claude/skills/retag/SKILL.md](../.claude/skills/retag/SKILL.md)) is for the follow-up task: after a new tag is approved, it searches existing entries for plausible matches (cheap keyword and co-tag search, not a full sweep) and writes a retag draft to `admin/drafts/` for you to review and apply.
