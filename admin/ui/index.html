@@ -230,7 +230,7 @@ function chipPicker(selected, onChange) {
 
 async function openEntry(id) {
   currentEntry = id;
-  let e = { title: '', summary: '', date: null, end: null, tags: [], body: '' };
+  let e = { title: '', summary: '', date: null, end: null, tags: [], sources: [], body: '' };
   if (id) {
     const r = await api('GET', '/entries/' + encodeURIComponent(id));
     if (!r.ok) return say(r.data.error, 'err');
@@ -254,6 +254,8 @@ function renderEntryEditor(id, e) {
   summary.value = e.summary;
   const counter = h('span', { class: 'muted' }, `${e.summary.length}/280`);
   summary.addEventListener('input', () => { counter.textContent = `${summary.value.length}/280`; });
+  const sources = h('textarea', { id: 'f-sources', style: 'min-height:4rem', placeholder: 'https://…' });
+  sources.value = (e.sources ?? []).join('\n');
   const body = h('textarea', { id: 'f-body' }); body.value = e.body;
   const errors = h('div', { id: 'f-errors' });
 
@@ -261,6 +263,7 @@ function renderEntryEditor(id, e) {
     const payload = {
       title: title.value, summary: summary.value, date: readDate('start'),
       tags: [...selected], body: body.value,
+      sources: sources.value.split('\n').map((s) => s.trim()).filter(Boolean),
     };
     if (hasEnd.checked) payload.end = readDate('end');
     if (!id && idInput.value.trim()) payload.id = idInput.value.trim();
@@ -288,6 +291,7 @@ function renderEntryEditor(id, e) {
     h('label', {}, 'Date'), dateFields('start', e.date),
     h('label', {}, hasEnd, ' Has an end date'), endBox,
     h('label', {}, 'Topics'), chipPicker(selected, () => {}),
+    h('label', {}, 'Sources (one URL per line)'), sources,
     h('label', {}, 'Body (Markdown)'), body,
     errors,
     h('div', { class: 'actions' },

@@ -35,6 +35,22 @@ const tagById = new Map(tags.map((t) => [t.id, t]));
       }
     </div>
     <Content />
+    {
+      entry.data.sources.length > 0 && (
+        <section class="sources" data-pagefind-ignore>
+          <h2>Sources</h2>
+          <ul>
+            {entry.data.sources.map((url) => (
+              <li>
+                <a href={url} rel="noopener noreferrer" title={url}>
+                  {new URL(url).hostname.replace(/^www\./, '')}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
   </article>
   <nav class="adjacent">
     {prev ? <a href={`/entries/${prev.id}/`}>← {prev.data.title}</a> : <span />}
@@ -44,6 +60,9 @@ const tagById = new Map(tags.map((t) => [t.id, t]));
 
 <style>
   .lede { font-size: 1.15rem; }
+  .sources { margin-top: 2rem; font-size: 0.9rem; color: var(--muted); }
+  .sources h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; margin: 0 0 0.25rem; }
+  .sources ul { margin: 0; padding-left: 1.1rem; }
   .tags { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
   .adjacent {
     display: flex;

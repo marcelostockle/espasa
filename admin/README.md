@@ -37,6 +37,7 @@ Writes land in `src/content/` as ordinary files. Review with `git diff`, then co
 - `tags` is optional. Entries may reference tags declared in the same payload or tags that already exist.
 - `id` is optional; it defaults to a slug of the title. Ids are lowercase letters, digits and single hyphens, and become the filename and URL.
 - `date` / `end`: `year` (negative = BCE, no year 0), optional `month`, `day`, `circa`.
+- `sources` (optional): a list of http(s) URLs where the claim can be checked. They render as links at the bottom of the entry page.
 - Unknown keys are rejected, so typos fail instead of being dropped.
 
 **All-or-nothing:** the whole payload is validated first. If anything is wrong you get a `422` listing every problem with its path (`entries[3].date.year`), and nothing is written.
@@ -79,3 +80,7 @@ An entry's year must fall inside the span covered by `src/content/eras.json`, ma
 - Ids are validated before touching the filesystem, so they can't escape `src/content/entries/`.
 - The UI page is served with a CSP that allows no external resources and forbids framing, and it renders all data as text.
 - Deleting an era boundary or editing `eras.json` / `featured.json` is still done by hand.
+
+## Drafting with AI
+
+The project skill `/research-events <topic>` (see [.claude/skills/research-events/SKILL.md](../.claude/skills/research-events/SKILL.md)) researches a topic on the web, writes a draft to `admin/drafts/` (gitignored), and dry-runs it against this API. It never imports on its own; you review the draft and import it from the Import tab.

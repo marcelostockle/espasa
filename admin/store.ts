@@ -17,6 +17,7 @@ export interface StoredEntry {
   date: Record<string, unknown>;
   end?: Record<string, unknown>;
   tags: string[];
+  sources: string[];
   body: string;
 }
 
@@ -68,7 +69,7 @@ export async function readEntry(id: string): Promise<StoredEntry | null> {
   }
   const match = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
   if (!match) throw new Error(`${id}.md has no frontmatter`);
-  return { id, ...parse(match[1]), body: match[2].trim() };
+  return { id, sources: [], ...parse(match[1]), body: match[2].trim() };
 }
 
 // Frontmatter is written as JSON values, which is valid YAML and keeps escaping trivial.
@@ -84,6 +85,7 @@ export async function writeEntry(e: StoredEntry) {
     `date: ${J(compactDate(e.date))}`,
     ...(e.end ? [`end: ${J(compactDate(e.end))}`] : []),
     `tags: ${J(e.tags)}`,
+    ...(e.sources.length ? [`sources: ${J(e.sources)}`] : []),
     '---',
     '',
     e.body.trim(),

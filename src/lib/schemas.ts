@@ -28,6 +28,10 @@ export const entryFields = z.object({
   summary: z.string().max(280),
   date: historicalDate,
   end: historicalDate.optional(),
+  // Where the claim can be checked. http(s) only, because these render as links.
+  sources: z
+    .array(z.string().url().refine((u) => /^https?:\/\//i.test(u), 'Use an http(s) URL'))
+    .default([]),
 });
 
 export const eraFields = z
