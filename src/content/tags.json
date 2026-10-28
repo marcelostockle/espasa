@@ -12,6 +12,22 @@
     "color": "#16a3a3",
     "description": "Voyages and contact between worlds."
   },
+  "italian-renaissance": {
+    "label": "Italian Renaissance",
+    "color": "#a0522d",
+    "description": "Art, learning and politics in the Italian states, roughly 1400-1600.",
+    "categories": [
+      "Culture"
+    ]
+  },
+  "leonardo-da-vinci": {
+    "label": "Leonardo da Vinci",
+    "color": "#7a8b2e",
+    "description": "The life and work of Leonardo da Vinci (1452-1519).",
+    "categories": [
+      "People"
+    ]
+  },
   "politics": {
     "label": "Politics",
     "color": "#4a9d5b",
