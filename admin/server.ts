@@ -1,11 +1,14 @@
 // Local content admin: a small JSON API over src/content. Run with `npm run admin`.
 // It binds to 127.0.0.1 only and has no auth, so it must never be deployed or exposed.
+import { readFile } from 'node:fs/promises';
 import { createServer, type IncomingMessage, type ServerResponse } from 'node:http';
+import { join } from 'node:path';
 import { buildPlan, type OnConflict, type Plan } from './plan.ts';
 import * as store from './store.ts';
 
 const PORT = Number(process.env.ADMIN_PORT ?? 4322);
 const MAX_BODY = 50 * 1024 * 1024;
+const UI_FILE = join(import.meta.dirname, 'ui', 'index.html');
 
 class HttpError extends Error {
   status: number;
@@ -104,6 +107,18 @@ async function route(req: IncomingMessage, res: ServerResponse) {
   const method = req.method ?? 'GET';
   const path = url.pathname.replace(/\/+$/, '');
   const m = (pattern: RegExp) => path.match(pattern);
+
+  // --- UI (a single static page that talks to the API below, same origin) ---
+  if (path === '' && method === 'GET') {
+    res.writeHead(200, {
+      'Content-Type': 'text/html; charset=utf-8',
+      'Cache-Control': 'no-store',
+      // Same-origin only, and never embeddable in another site (clickjacking).
+      'Content-Security-Policy':
+        "default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; connect-src 'self'; frame-ancestors 'none'",
+    });
+    return res.end(await readFile(UI_FILE));
+  }
 
   // --- bulk import ---
   if (path === '/api/import' && method === 'POST') {

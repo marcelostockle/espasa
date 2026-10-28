@@ -1,10 +1,12 @@
 # Content admin
 
-A local-only JSON API for managing `src/content`. It is not part of the site build and must never be deployed: it has no auth and binds to `127.0.0.1`.
+A local-only UI and JSON API for managing `src/content`. It is not part of the site build and must never be deployed: it has no auth and binds to `127.0.0.1`.
 
 ```
 npm run admin          # http://localhost:4322  (override with ADMIN_PORT)
 ```
+
+Open http://localhost:4322 for the UI (entries, tags, and import with dry run). It is a single static page in [ui/index.html](ui/index.html) that calls the API below from the same origin: no build step, no extra port.
 
 Requires Node 22.18+ (it runs the TypeScript sources directly). It shares its schemas with the site ([src/lib/schemas.ts](../src/lib/schemas.ts)), so anything it accepts the build accepts too.
 
@@ -75,4 +77,5 @@ An entry's year must fall inside the span covered by `src/content/eras.json`, ma
 - Writes require `application/json` and no CORS headers are sent, so other websites open in your browser cannot call it.
 - Writes are serialized and each file is written through a temp file and renamed.
 - Ids are validated before touching the filesystem, so they can't escape `src/content/entries/`.
+- The UI page is served with a CSP that allows no external resources and forbids framing, and it renders all data as text.
 - Deleting an era boundary or editing `eras.json` / `featured.json` is still done by hand.

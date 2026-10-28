@@ -1,0 +1,402 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Espasa admin</title>
+<style>
+  :root { --bg:#fbfaf7; --fg:#1d1d1b; --muted:#6b6b66; --line:#dddbd3; --card:#fff; --accent:#2a7de1; --bad:#c0392b; --good:#2e7d4f; color-scheme: light dark; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#151514; --fg:#ecebe6; --muted:#9a9a93; --line:#35342f; --card:#1d1d1b; --accent:#5aa0f0; --bad:#ec7063; --good:#58b07a; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:15px/1.5 system-ui,sans-serif; }
+  header { display:flex; gap:1.5rem; align-items:center; padding:.75rem 1.25rem; border-bottom:1px solid var(--line); }
+  header strong { letter-spacing:.04em; }
+  nav { display:flex; gap:.25rem; }
+  nav button { border:0; background:none; color:var(--muted); padding:.35rem .8rem; border-radius:.4rem; cursor:pointer; font:inherit; }
+  nav button[aria-selected=true] { background:var(--card); color:var(--fg); box-shadow:0 0 0 1px var(--line); }
+  #status { margin-left:auto; font-size:.85rem; color:var(--muted); }
+  #status.ok { color:var(--good); } #status.err { color:var(--bad); }
+  main { padding:1.25rem; max-width:80rem; margin:0 auto; }
+  section[hidden] { display:none; }
+  .split { display:grid; grid-template-columns:minmax(16rem,22rem) 1fr; gap:1.25rem; align-items:start; }
+  @media (max-width:50rem) { .split { grid-template-columns:1fr; } }
+  .panel { background:var(--card); border:1px solid var(--line); border-radius:.6rem; padding:1rem; }
+  .toolbar { display:flex; gap:.5rem; margin-bottom:.75rem; flex-wrap:wrap; }
+  input, select, textarea, button { font:inherit; color:inherit; }
+  input[type=text], input[type=number], input[type=search], select, textarea { width:100%; padding:.4rem .55rem; background:transparent; border:1px solid var(--line); border-radius:.35rem; }
+  input[readonly] { opacity:.6; }
+  textarea { min-height:8rem; resize:vertical; }
+  label { display:block; font-size:.8rem; color:var(--muted); margin:.7rem 0 .2rem; }
+  button.btn { padding:.4rem .9rem; border:1px solid var(--line); background:transparent; border-radius:.4rem; cursor:pointer; }
+  button.primary { background:var(--accent); border-color:var(--accent); color:#fff; }
+  button.danger { color:var(--bad); }
+  .row { display:flex; gap:.6rem; align-items:end; flex-wrap:wrap; }
+  .row > div { flex:1; min-width:6rem; }
+  ul.list { list-style:none; margin:0; padding:0; max-height:70vh; overflow:auto; }
+  ul.list li button { display:block; width:100%; text-align:left; padding:.45rem .5rem; border:0; border-top:1px solid var(--line); background:none; cursor:pointer; }
+  ul.list li button:hover, ul.list li button[aria-current=true] { background:color-mix(in srgb, var(--accent) 12%, transparent); }
+  .muted { color:var(--muted); font-size:.85rem; }
+  .chips { display:flex; flex-wrap:wrap; gap:.35rem; margin-top:.35rem; }
+  .chip { padding:.1rem .6rem; border-radius:999px; border:1px solid var(--c,var(--line)); background:transparent; color:var(--c,var(--fg)); cursor:pointer; font-size:.85rem; }
+  .chip[aria-pressed=true] { background:var(--c,var(--accent)); color:#fff; }
+  .dot { display:inline-block; width:.6rem; height:.6rem; border-radius:50%; margin-right:.2rem; background:var(--c); }
+  .issues { margin:.75rem 0 0; padding:.6rem .9rem; border:1px solid var(--bad); border-radius:.4rem; color:var(--bad); font-size:.85rem; }
+  .issues ul { margin:.25rem 0 0; padding-left:1.1rem; }
+  pre { white-space:pre-wrap; background:var(--bg); border:1px solid var(--line); border-radius:.4rem; padding:.6rem; font-size:.8rem; max-height:24rem; overflow:auto; }
+  .actions { display:flex; gap:.5rem; margin-top:1rem; }
+  .actions .spacer { margin-left:auto; }
+</style>
+</head>
+<body>
+<header>
+  <strong>Espasa admin</strong>
+  <nav id="tabs">
+    <button data-tab="entries">Entries</button>
+    <button data-tab="tags">Tags</button>
+    <button data-tab="import">Import</button>
+  </nav>
+  <span id="status" role="status"></span>
+</header>
+<main>
+  <section id="entries" hidden>
+    <div class="split">
+      <div class="panel">
+        <div class="toolbar">
+          <input type="search" id="e-q" placeholder="Search…" />
+          <select id="e-tag"><option value="">All tags</option></select>
+          <button class="btn primary" id="e-new">New</button>
+        </div>
+        <div class="muted" id="e-count"></div>
+        <ul class="list" id="e-list"></ul>
+      </div>
+      <div class="panel" id="e-editor" hidden></div>
+    </div>
+  </section>
+
+  <section id="tags" hidden>
+    <div class="split">
+      <div class="panel">
+        <div class="toolbar"><button class="btn primary" id="t-new">New tag</button></div>
+        <ul class="list" id="t-list"></ul>
+      </div>
+      <div class="panel" id="t-editor" hidden></div>
+    </div>
+  </section>
+
+  <section id="import" hidden>
+    <div class="panel">
+      <p class="muted">Paste JSON shaped like <code>{ "tags": {…}, "entries": […] }</code>, or load a file. Always try a dry run first; nothing is written if any item is invalid.</p>
+      <textarea id="i-text" style="min-height:16rem" spellcheck="false"></textarea>
+      <div class="row" style="margin-top:.75rem">
+        <div style="flex:0 0 auto"><input type="file" id="i-file" accept=".json,application/json" /></div>
+        <div style="flex:0 0 12rem">
+          <label style="margin-top:0">If something already exists</label>
+          <select id="i-conflict">
+            <option value="fail">Fail (default)</option>
+            <option value="skip">Skip existing</option>
+            <option value="overwrite">Overwrite existing</option>
+          </select>
+        </div>
+        <div style="flex:0 0 auto" class="actions" id="i-actions">
+          <button class="btn" id="i-dry">Dry run</button>
+          <button class="btn primary" id="i-go">Import</button>
+        </div>
+      </div>
+      <div id="i-result"></div>
+    </div>
+  </section>
+</main>
+
+<script>
+'use strict';
+const $ = (id) => document.getElementById(id);
+
+// Minimal element builder. Children are appended as text, never as HTML.
+function h(tag, attrs = {}, ...kids) {
+  const el = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    // aria-* states must be the strings "true"/"false", not present/absent.
+    if (k.startsWith('aria-')) { el.setAttribute(k, String(v)); continue; }
+    if (v === false || v == null) continue;
+    if (k === 'class') el.className = v;
+    else if (k === 'style') el.setAttribute('style', v);
+    else if (k.startsWith('on')) el.addEventListener(k.slice(2), v);
+    else if (k in el && k !== 'list') el[k] = v;
+    else el.setAttribute(k, v === true ? '' : v);
+  }
+  for (const kid of kids.flat()) if (kid != null && kid !== false) el.append(kid);
+  return el;
+}
+
+async function api(method, path, body) {
+  const res = await fetch('/api' + path, {
+    method,
+    headers: body === undefined ? {} : { 'Content-Type': 'application/json' },
+    body: body === undefined ? undefined : JSON.stringify(body),
+  });
+  const data = await res.json().catch(() => ({}));
+  return { ok: res.ok, status: res.status, data };
+}
+
+let statusTimer;
+function say(text, kind = 'ok') {
+  const s = $('status');
+  s.textContent = text; s.className = kind;
+  clearTimeout(statusTimer);
+  statusTimer = setTimeout(() => { s.textContent = ''; s.className = ''; }, 4000);
+}
+
+function issuesBox(data) {
+  const list = data.issues?.length
+    ? h('ul', {}, data.issues.map((i) => h('li', {}, i.path ? `${i.path}: ${i.message}` : i.message)))
+    : null;
+  const extra = data.entries?.length ? h('div', {}, 'Used by: ' + data.entries.join(', ')) : null;
+  return h('div', { class: 'issues' }, data.error ?? 'Something went wrong', extra, list);
+}
+
+const fmtYear = (y) => (y < 0 ? `${-y} BCE` : String(y));
+const fmtDate = (d) => (d ? `${d.circa ? 'c. ' : ''}${fmtYear(d.year)}` : '');
+
+let tags = {};
+let entries = [];
+
+async function loadTags() {
+  const r = await api('GET', '/tags');
+  tags = r.data;
+  const sel = $('e-tag'), keep = sel.value;
+  sel.replaceChildren(h('option', { value: '' }, 'All tags'),
+    ...Object.entries(tags).map(([id, t]) => h('option', { value: id }, t.label)));
+  sel.value = keep;
+}
+
+// ---------------------------------------------------------------- entries
+let currentEntry = null; // id of the entry being edited, or null for a new one
+
+async function loadEntries() {
+  const p = new URLSearchParams();
+  if ($('e-q').value.trim()) p.set('q', $('e-q').value.trim());
+  if ($('e-tag').value) p.set('tag', $('e-tag').value);
+  const r = await api('GET', '/entries?' + p);
+  entries = (r.data || []).sort((a, b) => a.date.year - b.date.year);
+  $('e-count').textContent = `${entries.length} entr${entries.length === 1 ? 'y' : 'ies'}`;
+  $('e-list').replaceChildren(...entries.map((e) =>
+    h('li', {}, h('button', { 'aria-current': e.id === currentEntry, onclick: () => openEntry(e.id) },
+      h('div', { class: 'muted' }, fmtDate(e.date)), e.title))));
+}
+
+const slugify = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
+  .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 80);
+
+function dateFields(prefix, d) {
+  const month = h('select', { id: prefix + '-month' }, h('option', { value: '' }, '—'),
+    ...Array.from({ length: 12 }, (_, i) => h('option', { value: i + 1 },
+      new Date(2000, i).toLocaleString('en', { month: 'long' }))));
+  month.value = d?.month ?? '';
+  return h('div', { class: 'row' },
+    h('div', {}, h('label', {}, 'Year (negative = BCE)'),
+      h('input', { type: 'number', id: prefix + '-year', value: d?.year ?? '', step: 1 })),
+    h('div', {}, h('label', {}, 'Month'), month),
+    h('div', {}, h('label', {}, 'Day'),
+      h('input', { type: 'number', id: prefix + '-day', min: 1, max: 31, value: d?.day ?? '' })),
+    h('div', { style: 'flex:0 0 auto' }, h('label', {}, 'Circa'),
+      h('input', { type: 'checkbox', id: prefix + '-circa', checked: !!d?.circa })));
+}
+
+function readDate(prefix) {
+  const num = (id) => ($(prefix + '-' + id).value === '' ? undefined : Number($(prefix + '-' + id).value));
+  const out = { year: num('year') };
+  if (num('month') !== undefined) out.month = num('month');
+  if (num('day') !== undefined) out.day = num('day');
+  if ($(prefix + '-circa').checked) out.circa = true;
+  return out;
+}
+
+function chipPicker(selected, onChange) {
+  const filter = h('input', { type: 'search', placeholder: 'Filter tags…' });
+  const box = h('div', { class: 'chips' });
+  const draw = () => {
+    const q = filter.value.toLowerCase();
+    box.replaceChildren(...Object.entries(tags)
+      .filter(([id, t]) => selected.has(id) || `${id} ${t.label}`.toLowerCase().includes(q))
+      .map(([id, t]) => h('button', {
+        type: 'button', class: 'chip', style: `--c:${t.color}`, 'aria-pressed': selected.has(id),
+        onclick: () => { selected.has(id) ? selected.delete(id) : selected.add(id); onChange(); draw(); },
+      }, t.label)));
+  };
+  filter.addEventListener('input', draw);
+  draw();
+  return h('div', {}, filter, box);
+}
+
+async function openEntry(id) {
+  currentEntry = id;
+  let e = { title: '', summary: '', date: null, end: null, tags: [], body: '' };
+  if (id) {
+    const r = await api('GET', '/entries/' + encodeURIComponent(id));
+    if (!r.ok) return say(r.data.error, 'err');
+    e = r.data;
+  }
+  renderEntryEditor(id, e);
+  loadEntries();
+}
+
+function renderEntryEditor(id, e) {
+  const selected = new Set(e.tags);
+  const hasEnd = h('input', { type: 'checkbox', id: 'f-hasend', checked: !!e.end });
+  const endBox = h('div', { id: 'f-endbox' }, dateFields('end', e.end));
+  endBox.hidden = !e.end;
+  hasEnd.addEventListener('change', () => { endBox.hidden = !hasEnd.checked; });
+
+  const idInput = h('input', { type: 'text', id: 'f-id', value: id ?? '', readOnly: !!id,
+    placeholder: 'auto from title' });
+  const title = h('input', { type: 'text', id: 'f-title', value: e.title });
+  const summary = h('textarea', { id: 'f-summary', style: 'min-height:4rem' }, e.summary);
+  summary.value = e.summary;
+  const counter = h('span', { class: 'muted' }, `${e.summary.length}/280`);
+  summary.addEventListener('input', () => { counter.textContent = `${summary.value.length}/280`; });
+  const body = h('textarea', { id: 'f-body' }); body.value = e.body;
+  const errors = h('div', { id: 'f-errors' });
+
+  const save = async () => {
+    const payload = {
+      title: title.value, summary: summary.value, date: readDate('start'),
+      tags: [...selected], body: body.value,
+    };
+    if (hasEnd.checked) payload.end = readDate('end');
+    if (!id && idInput.value.trim()) payload.id = idInput.value.trim();
+    const r = id ? await api('PUT', '/entries/' + encodeURIComponent(id), payload) : await api('POST', '/entries', payload);
+    errors.replaceChildren();
+    if (!r.ok) { errors.append(issuesBox(r.data)); return say('Not saved', 'err'); }
+    const savedId = r.data.entries.created[0] ?? r.data.entries.overwritten[0];
+    say('Saved ' + savedId);
+    currentEntry = savedId;
+    await openEntry(savedId);
+  };
+  const del = async () => {
+    if (!confirm(`Delete "${e.title}"? This removes the file.`)) return;
+    const r = await api('DELETE', '/entries/' + encodeURIComponent(id));
+    if (!r.ok) return say(r.data.error, 'err');
+    say('Deleted ' + id); currentEntry = null;
+    $('e-editor').hidden = true; loadEntries();
+  };
+
+  $('e-editor').hidden = false;
+  $('e-editor').replaceChildren(
+    h('div', {}, h('label', { style: 'margin-top:0' }, 'Id (file name and URL)'), idInput),
+    h('label', {}, 'Title'), title,
+    h('label', {}, 'Summary ', counter), summary,
+    h('label', {}, 'Date'), dateFields('start', e.date),
+    h('label', {}, hasEnd, ' Has an end date'), endBox,
+    h('label', {}, 'Topics'), chipPicker(selected, () => {}),
+    h('label', {}, 'Body (Markdown)'), body,
+    errors,
+    h('div', { class: 'actions' },
+      h('button', { class: 'btn primary', onclick: save }, 'Save'),
+      h('button', { class: 'btn', onclick: () => { currentEntry = null; $('e-editor').hidden = true; loadEntries(); } }, 'Close'),
+      id ? h('button', { class: 'btn danger spacer', onclick: del }, 'Delete') : null));
+  if (!id) title.addEventListener('input', () => { if (!idInput.value || idInput.dataset.auto) { idInput.value = slugify(title.value); idInput.dataset.auto = '1'; } });
+  idInput.addEventListener('input', () => { delete idInput.dataset.auto; });
+}
+
+// ---------------------------------------------------------------- tags
+let currentTag = null;
+
+function drawTagList() {
+  $('t-list').replaceChildren(...Object.entries(tags).map(([id, t]) =>
+    h('li', {}, h('button', { 'aria-current': id === currentTag, onclick: () => openTag(id) },
+      h('span', { class: 'dot', style: `--c:${t.color}` }), t.label,
+      t.categories?.length ? h('span', { class: 'muted' }, '  ' + t.categories.join(', ')) : null))));
+}
+
+function openTag(id) {
+  currentTag = id;
+  const t = id ? tags[id] : { label: '', color: '#2a7de1', description: '', categories: [] };
+  const idInput = h('input', { type: 'text', value: id ?? '', readOnly: !!id, placeholder: 'e.g. philosophy' });
+  const label = h('input', { type: 'text', value: t.label });
+  const color = h('input', { type: 'color', value: t.color, style: 'width:4rem;height:2.2rem;padding:0' });
+  const desc = h('input', { type: 'text', value: t.description ?? '' });
+  const cats = h('input', { type: 'text', value: (t.categories ?? []).join(', '), placeholder: 'Comma-separated' });
+  const known = [...new Set(Object.values(tags).flatMap((x) => x.categories ?? []))].sort();
+  const errors = h('div');
+
+  const readCats = () => cats.value.split(',').map((s) => s.trim()).filter(Boolean);
+  const catChips = h('div', { class: 'chips' }, known.map((c) => h('button', {
+    type: 'button', class: 'chip',
+    onclick: () => { const cur = readCats(); if (!cur.includes(c)) cats.value = [...cur, c].join(', '); },
+  }, c)));
+
+  const save = async () => {
+    const payload = { label: label.value, color: color.value, categories: readCats() };
+    if (desc.value.trim()) payload.description = desc.value.trim();
+    const tagId = id ?? idInput.value.trim();
+    const r = await api('PUT', '/tags/' + encodeURIComponent(tagId), payload);
+    errors.replaceChildren();
+    if (!r.ok) { errors.append(issuesBox(r.data)); return say('Not saved', 'err'); }
+    say('Saved ' + tagId);
+    await loadTags(); currentTag = tagId; drawTagList(); openTag(tagId);
+  };
+  const del = async () => {
+    if (!confirm(`Delete tag "${t.label}"?`)) return;
+    const r = await api('DELETE', '/tags/' + encodeURIComponent(id));
+    if (!r.ok) { errors.replaceChildren(issuesBox(r.data)); return say('Not deleted', 'err'); }
+    say('Deleted ' + id); currentTag = null; $('t-editor').hidden = true;
+    await loadTags(); drawTagList();
+  };
+
+  $('t-editor').hidden = false;
+  $('t-editor').replaceChildren(
+    h('label', { style: 'margin-top:0' }, 'Id'), idInput,
+    h('label', {}, 'Label'), label,
+    h('label', {}, 'Color'), color,
+    h('label', {}, 'Description'), desc,
+    h('label', {}, 'Categories (existing ones below; exact spelling matters)'), cats, catChips,
+    errors,
+    h('div', { class: 'actions' },
+      h('button', { class: 'btn primary', onclick: save }, 'Save'),
+      id ? h('button', { class: 'btn danger spacer', onclick: del }, 'Delete') : null));
+  drawTagList();
+}
+
+// ---------------------------------------------------------------- import
+async function runImport(dry) {
+  const out = $('i-result');
+  let payload;
+  try { payload = JSON.parse($('i-text').value); }
+  catch (e) { out.replaceChildren(h('div', { class: 'issues' }, 'Not valid JSON: ' + e.message)); return; }
+  const p = new URLSearchParams({ onConflict: $('i-conflict').value });
+  if (dry) p.set('dry', '1');
+  const r = await api('POST', '/import?' + p, payload);
+  if (!r.ok) { out.replaceChildren(issuesBox(r.data)); return say('Nothing written', 'err'); }
+  const d = r.data;
+  out.replaceChildren(
+    h('p', {}, dry ? 'Dry run: nothing was written. This would happen:' : 'Imported.'),
+    h('pre', {}, JSON.stringify({ tags: d.tags, entries: d.entries }, null, 2)));
+  say(dry ? 'Dry run OK' : 'Imported');
+  if (!dry) { await loadTags(); await loadEntries(); drawTagList(); }
+}
+
+// ---------------------------------------------------------------- wiring
+function show(tab) {
+  for (const s of document.querySelectorAll('main > section')) s.hidden = s.id !== tab;
+  for (const b of document.querySelectorAll('#tabs button')) b.setAttribute('aria-selected', b.dataset.tab === tab);
+  history.replaceState(null, '', '#' + tab);
+}
+$('tabs').addEventListener('click', (ev) => { const t = ev.target.dataset?.tab; if (t) show(t); });
+$('e-new').onclick = () => openEntry(null);
+$('t-new').onclick = () => openTag(null);
+$('e-tag').onchange = loadEntries;
+let searchTimer;
+$('e-q').oninput = () => { clearTimeout(searchTimer); searchTimer = setTimeout(loadEntries, 200); };
+$('i-dry').onclick = () => runImport(true);
+$('i-go').onclick = () => runImport(false);
+$('i-file').onchange = async (ev) => { const f = ev.target.files[0]; if (f) $('i-text').value = await f.text(); };
+
+(async () => {
+  await loadTags();
+  await loadEntries();
+  drawTagList();
+  show(['entries', 'tags', 'import'].includes(location.hash.slice(1)) ? location.hash.slice(1) : 'entries');
+})();
+</script>
+</body>
+</html>
