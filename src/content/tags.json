@@ -10,9 +10,25 @@
   "austrian-empire": {
     "label": "Austrian Empire",
     "color": "#f48fb1",
-    "description": "The Habsburg monarchy and Holy Roman Empire, later the Austrian Empire.",
+    "description": "The Habsburg monarchy and the Austrian Empire (the Holy Roman Empire has its own tag).",
     "categories": [
       "States"
+    ]
+  },
+  "calvinism": {
+    "label": "Calvinism",
+    "color": "#6a1b4d",
+    "description": "Calvin and the Reformed tradition: Geneva, the Huguenots, the Dutch Reformed, Scottish Presbyterians and Puritans.",
+    "categories": [
+      "Culture"
+    ]
+  },
+  "counter-reformation": {
+    "label": "Counter-Reformation",
+    "color": "#90a4ae",
+    "description": "The Catholic response to Protestantism: Trent, the Jesuits and the Inquisition.",
+    "categories": [
+      "Culture"
     ]
   },
   "exploration": {
@@ -33,6 +49,23 @@
     "color": "#d4a017",
     "description": "The upheaval that ended the French monarchy and remade the state, 1789-1799.",
     "categories": [
+      "Society"
+    ]
+  },
+  "holy-roman-empire": {
+    "label": "Holy Roman Empire",
+    "color": "#ce93d8",
+    "description": "The Empire of the German lands and its emperors, to 1806.",
+    "categories": [
+      "States"
+    ]
+  },
+  "huguenots": {
+    "label": "Huguenots",
+    "color": "#3f51b5",
+    "description": "French Protestants, their wars, rights and persecution.",
+    "categories": [
+      "Culture",
       "Society"
     ]
   },
@@ -68,12 +101,28 @@
       "Society"
     ]
   },
+  "netherlands": {
+    "label": "Netherlands",
+    "color": "#4dd0e1",
+    "description": "The Low Countries and the Dutch Republic.",
+    "categories": [
+      "States"
+    ]
+  },
   "politics": {
     "label": "Politics",
     "color": "#4a9d5b",
     "description": "States, wars and governance.",
     "categories": [
       "Society"
+    ]
+  },
+  "protestant-reformation": {
+    "label": "Protestant Reformation",
+    "color": "#afb42b",
+    "description": "The 16th-century break with the Catholic Church and the new churches it created, from Luther onward.",
+    "categories": [
+      "Culture"
     ]
   },
   "prussia": {
@@ -90,6 +139,22 @@
     "description": "Faith, institutions and reform.",
     "categories": [
       "Culture",
+      "Society"
+    ]
+  },
+  "religious-persecution": {
+    "label": "Religious persecution",
+    "color": "#bf360c",
+    "description": "Violence, expulsion and legal repression of people for their faith, of any religion.",
+    "categories": [
+      "Society"
+    ]
+  },
+  "religious-toleration": {
+    "label": "Religious toleration",
+    "color": "#81c784",
+    "description": "Edicts, treaties and laws that granted religious freedoms or ended religious conflict.",
+    "categories": [
       "Society"
     ]
   },
