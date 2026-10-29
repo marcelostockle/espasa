@@ -15,6 +15,14 @@
       "States"
     ]
   },
+  "baroque-music": {
+    "label": "Baroque music",
+    "color": "#8d6e63",
+    "description": "Composers, works and institutions of Baroque music, from the first operas around 1600 to the death of Bach in 1750.",
+    "categories": [
+      "Culture"
+    ]
+  },
   "calvinism": {
     "label": "Calvinism",
     "color": "#6a1b4d",
