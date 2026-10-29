@@ -1,15 +1,19 @@
 // Bulk add/remove of tags on existing entries, without touching anything else in them.
 // Pure like plan.ts: it decides what to change; the server does the writing.
 import { z } from 'astro/zod';
+import { tagFields } from '../src/lib/schemas.ts';
 import type { Issue } from './plan.ts';
 import { SLUG, type StoredEntry } from './store.ts';
 
 const slug = z.string().regex(SLUG, 'Use lowercase letters, digits and single hyphens');
 const byTag = z.record(slug, z.array(slug)).default({});
-const input = z.object({ add: byTag, remove: byTag }).strict();
+const input = z
+  .object({ tags: z.record(slug, tagFields.strict()).default({}), add: byTag, remove: byTag })
+  .strict();
 
 export interface RetagPlan {
   issues: Issue[];
+  tags: { create: Record<string, object>; skip: string[] };
   changes: { entry: StoredEntry; added: string[]; removed: string[] }[];
   unchanged: { id: string; tag: string; op: 'add' | 'remove'; reason: string }[];
 }
@@ -30,10 +34,10 @@ export function mentionedIds(payload: unknown): string[] {
 
 export function buildRetag(
   payload: unknown,
-  knownTags: Set<string>,
+  existingTags: Record<string, Record<string, unknown>>,
   entries: Map<string, StoredEntry | null>,
 ): RetagPlan {
-  const plan: RetagPlan = { issues: [], changes: [], unchanged: [] };
+  const plan: RetagPlan = { issues: [], tags: { create: {}, skip: [] }, changes: [], unchanged: [] };
   const fail = (path: string, message: string) => plan.issues.push({ path, message });
 
   const parsed = input.safeParse(payload);
@@ -41,7 +45,21 @@ export function buildRetag(
     for (const i of parsed.error.issues) fail(i.path.join('.'), i.message);
     return plan;
   }
-  const { add, remove } = parsed.data;
+  const { tags: newTags, add, remove } = parsed.data;
+
+  // Tags declared in the payload may be used by add/remove in the same payload.
+  const knownTags = new Set(Object.keys(existingTags));
+  for (const [id, def] of Object.entries(newTags)) {
+    const existing = existingTags[id];
+    if (!existing) {
+      plan.tags.create[id] = def;
+      knownTags.add(id);
+    } else if (JSON.stringify(existing) === JSON.stringify(def)) {
+      plan.tags.skip.push(id); // identical re-declaration is not a conflict
+    } else {
+      fail(`tags.${id}`, 'Tag already exists with different content; edit it in the Tags tab instead');
+    }
+  }
 
   const added = new Set(Object.entries(add).flatMap(([tag, ids]) => ids.map((id) => `${tag}|${id}`)));
   const work = new Map<string, { entry: StoredEntry; tags: string[]; added: string[]; removed: string[] }>();

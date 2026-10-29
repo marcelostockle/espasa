@@ -81,6 +81,8 @@ An entry's year must fall inside the span covered by `src/content/eras.json`, ma
 { "add": { "war": ["hundred-years-war", "battle-of-bouvines"] }, "remove": { "politics": ["some-entry"] } }
 ```
 
+An optional `tags` block (same shape as import) creates new tags in the same step, so a new tag and its first uses are one reviewed, all-or-nothing change. A tag that already exists with different content is rejected.
+
 Same all-or-nothing rules as import: unknown tags or entries, an entry left with no tags, or the same tag both added and removed all return a `422` and write nothing. Entries that already have (or lack) the tag are reported as `unchanged`. Only the `tags:` line of each file changes, so `git diff` shows exactly the tag edit. The Import tab recognizes this shape too.
 
 
@@ -95,4 +97,4 @@ Same all-or-nothing rules as import: unknown tags or entries, an entry left with
 
 The project skill `/research-events <topic>` (see [.claude/skills/research-events/SKILL.md](../.claude/skills/research-events/SKILL.md)) researches a topic on the web, writes a draft to `admin/drafts/` (gitignored), and dry-runs it against this API. It never imports on its own; you review the draft and import it from the Import tab.
 
-The project skill `/retag <tag-id>` (see [.claude/skills/retag/SKILL.md](../.claude/skills/retag/SKILL.md)) is for the follow-up task: after a new tag is approved, it searches existing entries for plausible matches (cheap keyword and co-tag search, not a full sweep) and writes a retag draft to `admin/drafts/` for you to review and apply.
+The project skill `/retag <tag-id>` (see [.claude/skills/retag/SKILL.md](../.claude/skills/retag/SKILL.md)) is for applying a tag retroactively. Give it an existing tag, or `/retag new: <what it covers>` to have it design the tag as well. It searches existing entries for plausible matches (cheap keyword and co-tag search, not a full sweep, so best for specific tags) and writes one retag draft to `admin/drafts/` for you to review and apply.

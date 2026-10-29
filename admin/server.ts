@@ -99,14 +99,19 @@ function runRetag(payload: unknown, dryRun: boolean) {
     const tags = await store.readTags();
     const entries = new Map<string, store.StoredEntry | null>();
     for (const id of mentionedIds(payload)) entries.set(id, await store.readEntry(id));
-    const plan = buildRetag(payload, new Set(Object.keys(tags)), entries);
+    const plan = buildRetag(payload, tags, entries);
     if (plan.issues.length) {
       throw new HttpError(422, 'Validation failed; nothing was written', { dryRun, issues: plan.issues });
     }
-    if (!dryRun) for (const change of plan.changes) await store.writeEntryTags(change.entry);
+    if (!dryRun) {
+      // Tag first, so a partial failure can't leave entries pointing at a missing tag.
+      if (Object.keys(plan.tags.create).length) await store.writeTags({ ...tags, ...plan.tags.create });
+      for (const change of plan.changes) await store.writeEntryTags(change.entry);
+    }
     return {
       ok: true,
       dryRun,
+      tags: { created: Object.keys(plan.tags.create), skipped: plan.tags.skip },
       changed: plan.changes.map(({ entry, added, removed }) => ({ id: entry.id, added, removed })),
       unchanged: plan.unchanged,
     };

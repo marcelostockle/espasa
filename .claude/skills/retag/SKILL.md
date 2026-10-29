@@ -1,10 +1,10 @@
 ---
 name: retag
-description: After a new tag is approved, look through existing entries for ones it should also apply to and prepare a reviewable draft of tag additions. Uses a cheap keyword/co-tag candidate search, not a full sweep. Never applies changes on its own.
-argument-hint: <tag-id> [more tag ids, or "since <commit or date>"]
+description: Apply a tag retroactively. Either for an existing tag, or by designing a brand-new tag (best for specific ones: a person, a place) and finding existing entries it should cover. Prepares one reviewable draft. Uses a cheap keyword/co-tag candidate search, not a full sweep. Never applies changes on its own.
+argument-hint: <tag-id> | since <commit or date> | new: <what the new tag covers>
 ---
 
-You are preparing a **draft** of tag additions for existing entries, so a newly created tag also covers older entries that deserve it. The human reviews the draft before anything changes.
+You are preparing a **draft** of tag additions for existing entries, so a tag also covers older entries that deserve it. The human reviews the draft before anything changes. The tag may already exist, or you may be asked to design it (`new:`).
 
 Input: $ARGUMENTS
 
@@ -20,14 +20,18 @@ Input: $ARGUMENTS
 1. **Check the admin server.** `curl -s localhost:4322/api/tags`. If it does not answer, start it with `npm run admin` as a *background task* and stop that same background task when you finish. If port 4322 is taken by something that is not answering this API, use `ADMIN_PORT=<other>` and adjust the URLs. Never kill processes by name; other Node processes on this machine are not yours.
 
 2. **Resolve the target tags.**
+   - `new: <description>` (optionally with a suggested id or label): you design a **new tag**, described under "Designing a new tag" below, and it goes into the draft's `tags` block. Check first that no existing tag already covers it; if one does, say so and stop instead of creating a near-duplicate.
    - Tag ids given directly: confirm each exists in `GET /api/tags`. Stop and say so if one does not.
    - `since <commit|date>`: tags added since then are the keys of `src/content/tags.json` now that were not there at that point (`git show <rev>:src/content/tags.json`; for a date, use the parent of the oldest commit touching that file since the date via `git log --since=<date> --format=%H -- src/content/tags.json`). Ignore uncommitted state beyond what the user asked about.
    - Do not touch or commit anything under `src/content/`; the working tree may hold the owner's uncommitted work.
+
+   For a `new:` tag, if the request is broad (a whole field like "war" or "politics" rather than a specific person, place, or thing), still do it, but warn in the report that the candidate search is weak for broad tags with no existing members.
 
 3. **Understand each tag.** Read its `label`, `description` and `categories`. The description is your criterion. If it is missing or vague, say in the report how you interpreted the tag, so the owner can correct you.
 
 4. **Find candidates (per tag).**
    - Fetch the full list once: `GET /api/entries` (id, title, summary, date, tags).
+   - A **new** tag has no members to learn from, so the co-tag step below is unavailable. Rely on search terms from your own description (names, aliases, places, spellings and translations), and be correspondingly more generous with search terms.
    - Derive roughly 5-15 search terms from the tag: its label, synonyms, key people, places, institutions, typical vocabulary. Run `GET /api/entries?q=<term>` for each (URL-encode terms).
    - Add entries that share tags with entries already carrying the tag, when they also fall inside that tag's date span.
    - Remove entries that already have the tag.
@@ -40,7 +44,14 @@ Input: $ARGUMENTS
      ```json
      { "add": { "<tag-id>": ["entry-id-1", "entry-id-2"] } }
      ```
-     Several tags can share one file.
+     For a **new** tag, add a `tags` block with its definition. The tag is created and applied in one all-or-nothing step:
+     ```json
+     {
+       "tags": { "<tag-id>": { "label": "…", "color": "#aabbcc", "description": "…", "categories": ["People"] } },
+       "add": { "<tag-id>": ["entry-id-1"] }
+     }
+     ```
+     Several tags can share one file. A tag that already exists with different content is rejected; leave existing tags out of `tags`.
    - `admin/drafts/retag-<tag>.md`: a table for the human with entry id, title, date, confidence and reason, sorted high confidence first.
 
 7. **Dry-run.** `curl -s -X POST "localhost:4322/api/retag?dry=1" -H "Content-Type: application/json" --data-binary @admin/drafts/retag-<tag>.json`. Fix any issues and repeat until it passes. Entries reported as `unchanged` (already tagged) should be removed from the draft.
@@ -50,6 +61,16 @@ Input: $ARGUMENTS
    - how many entries you scanned or searched, how many candidates you reviewed, whether you truncated, and how many you propose (high vs medium);
    - the **medium-confidence** ones by name, since those need the human's judgment;
    - near-misses you rejected that the owner might disagree with, briefly;
+   - for a new tag, the **proposed definition first** (id, label, color, description, categories) so the owner approves the tag and its matches together;
    - how to apply: paste the `.json` into the Import tab at http://localhost:4322 (it recognizes retag drafts; run the dry run first), or `POST /api/retag`.
 
 Applying changes only the `tags:` line of each entry file, so `git diff` shows exactly the tags that changed.
+
+## Designing a new tag
+
+The description is both the public definition and your matching criterion, so write it deliberately: one sentence saying exactly what the tag covers and what it does not (for a person: who they are and their dates; for a place: which place and the period of interest).
+
+- **id**: lowercase letters, digits and single hyphens (`medici`, not `Medici Family`). **label**: how it reads in the UI.
+- **color**: `#rrggbb`, visibly different from existing tag colors (check `GET /api/tags`).
+- **categories**: reuse an existing category name **exactly** as spelled. Add a new category only if none fits, and mention it in the report.
+- Prefer specific tags (a person, a place, an institution). They are cheap to apply accurately.
