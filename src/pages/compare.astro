@@ -167,6 +167,10 @@ import Base from '../layouts/Base.astro';
     border: 1px solid var(--line);
     border-radius: 0.3rem;
   }
+  .range input[type="checkbox"] {
+    width: auto;
+    margin-right: 0.25rem;
+  }
   .pick { cursor: pointer; }
   .pick:has(input:checked) { background: color-mix(in srgb, var(--chip) 18%, transparent); }
   .pick input { accent-color: var(--chip); }
