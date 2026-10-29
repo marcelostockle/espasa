@@ -1,0 +1,102 @@
+# Content workflow
+
+How new content gets into Espasa, and the rules we follow. This is the human guide; the skills' own instructions live in `.claude/skills/*/SKILL.md` and are what Claude actually follows. **If you change a skill's behavior, update this page too.**
+
+## The loop
+
+Everything follows the same loop. Nothing is written to the site's content without a human looking at it first.
+
+1. **Draft.** A skill (or you) produces a JSON file in `admin/drafts/` (gitignored).
+2. **Dry run.** The admin API validates it and reports what would happen. Nothing is written.
+3. **Review.** You read the draft and the skill's report.
+4. **Apply.** Paste the JSON into the **Import** tab and import. Only then are files written to `src/content/`.
+5. **Check and commit.** `git diff`, `npm run build`, then commit.
+
+## Starting the admin tool
+
+```
+npm run admin            # UI and API at http://localhost:4322
+```
+
+- Local only. No auth. Never deploy it.
+- Port taken? Set `ADMIN_PORT=4333` (skills adapt if you tell them).
+- After code changes under `admin/`, **restart it**; it does not reload.
+- Tabs: **Entries** (browse, edit, delete), **Tags** (edit tags and categories), **Import** (paste or load a JSON draft, dry run, import).
+- Stop it with Ctrl+C in the terminal where it runs. Never kill Node processes by name: others on the machine may not be this project's.
+
+## Which skill when
+
+| I want to... | Use | Produces |
+|---|---|---|
+| Add events about a topic or person | `/research-events <topic and hints>` | `admin/drafts/<topic>.json`: new entries (and new tags if needed) |
+| Make an existing tag cover older entries | `/retag <tag-id>` | `admin/drafts/retag-<tag>.json` + a `.md` table of reasons |
+| Create a new tag and apply it to older entries | `/retag new: <what it covers>` | One draft containing the tag definition and the entries to tag |
+| Review tags added recently | `/retag since <commit or date>` | Retag drafts for the tags added since then |
+
+Both skills stop after the dry run and a report. **Neither imports anything unless you explicitly ask.**
+
+### `/research-events`
+- Free text after the command is read as instructions, so give direction: scope, count, period, tag preferences, source preferences. Example: `/research-events the life of Leonardo da Vinci, only his scientific work, about 8 entries`.
+- It reads the existing tags first and reuses them. It creates a new tag only when none fits.
+- Every entry needs at least one source URL.
+- Events it can't source are left out, not guessed.
+
+### `/retag`
+- Uses a **cheap candidate search** (keywords and shared tags), not a full sweep. Some misses are accepted.
+- It works best for **specific** tags (a person, a place, an institution). For broad tags (war, politics) it will miss more; the report says so.
+- The tag's **description is the matching criterion**. Write a clear one-sentence description when you create a tag.
+- It proposes additions only, unless you ask for removals.
+- Applying a retag changes only the `tags:` line of each entry, so `git diff` shows exactly what changed.
+
+## Rules for the content
+
+**Dates**
+- Years are historical: negative = BCE, there is **no year 0** (1 BCE is `-1`).
+- Give `month` and `day` only when sources agree. Otherwise use only the year.
+- Use `circa: true` for approximate or disputed dates and say so in the summary. For a process, use `date` for the start and `end` for the finish.
+- Every year must fall inside the span covered by `src/content/eras.json`. The build fails otherwise.
+
+**Entries**
+- One dated event, title and summary only (max 280 characters). No body is expected.
+- Each entry should make sense on its own, next to events from other fields: name the people and places.
+- Every entry has at least one tag and should have at least one `sources` URL (http/https only).
+- Ids are lowercase letters, digits and single hyphens; they become the file name and the URL.
+
+**Tags**
+- Reuse before creating. A near-duplicate tag splits the timeline.
+- A tag has a label, a `#rrggbb` color distinct from existing ones, a description, and optional categories.
+- **Categories are plain text matched exactly.** `Culture` and `culture` are different categories. Pick an existing one from the Tags tab whenever possible.
+- Specific tags are cheap to apply accurately. Broad tags are better created before entries are written than applied afterwards.
+
+## What to check in a draft before importing
+
+- **New tags** the skill proposes: names, descriptions, categories, colors.
+- **Uncertain items**: circa dates, entries where sources disagreed, weak sources. The report lists them.
+- **Medium-confidence** retag matches (listed by name in the report).
+- **Skipped** entries that already exist.
+- Spot-check a few dates against their source; the AI summarizes search results and can be wrong.
+
+## Files and what edits them
+
+| File | Edited by |
+|---|---|
+| `src/content/entries/*.md` | Import tab / API / hand |
+| `src/content/tags.json` | Tags tab, Import (via `tags`), retag with a `tags` block, or hand |
+| `src/content/eras.json` | **Hand only** (must be contiguous; the build checks it) |
+| `src/content/featured.json` | **Hand only** (curated comparisons on the home page) |
+| `admin/drafts/` | Skills; gitignored scratch space |
+
+## When something fails
+
+- **`422 Validation failed`**: the response lists every problem with a path (`entries[3].date.year`). Fix the JSON and dry-run again. Nothing was written.
+- **`Entry ... already exists`**: use `onConflict=skip` (leave existing) or `overwrite` in the Import tab's conflict setting.
+- **`Year ... is outside every era`**: extend `eras.json` by hand first.
+- **Build fails with a reference error**: an entry names a tag that doesn't exist. Create the tag first.
+- **Retag/new feature "not found"**: your admin server is running old code; restart it.
+
+## Known limits
+
+- Everything on a page is listed at once, so very large eras or tags get long. Split them when it matters.
+- Search is available only in the built site (`npm run build`), not under `astro dev`.
+- The retag search can miss entries that don't use the tag's keywords.
+- Applying a retag or import rewrites files through the tool; hand-written frontmatter on entries touched by a full replace is normalized to JSON-style values.

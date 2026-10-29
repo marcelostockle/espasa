@@ -1,43 +1,33 @@
-# Astro Starter Kit: Minimal
+# Espasa
 
-```sh
-npm create astro@latest -- --template minimal
+A read-only encyclopedic timeline. Entries are dated events from any field of human activity, shown in chronological order across topics, and tagged so visitors can follow one topic or compare several side by side.
+
+It is a static site ([Astro](https://astro.build)): entries and tags are plain files in `src/content/`, validated at build time, with no database and no user accounts.
+
+## Commands
+
+| Command | Does |
+|---|---|
+| `npm install` | Install dependencies |
+| `npm run dev` | Dev server (search is unavailable here) |
+| `npm run build` | Build the site to `dist/` and index it for search |
+| `npm run preview` | Serve the built site |
+| `npm run admin` | Local content admin at http://localhost:4322 (never deploy) |
+
+## Adding content
+
+Content goes in through reviewed drafts, using the admin tool and two Claude Code skills (`/research-events`, `/retag`). See:
+
+- [docs/content-workflow.md](docs/content-workflow.md): the workflow, rules and checklists
+- [admin/README.md](admin/README.md): the admin API reference
+
+## Layout
+
 ```
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+src/content/    entries/*.md, tags.json, eras.json, featured.json
+src/lib/        shared schemas, date helpers
+src/pages/      home, eras, tags, entries, compare view
+admin/          local admin server and UI (not part of the site)
+.claude/skills/ research-events, retag
+docs/           workflow guide
 ```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
