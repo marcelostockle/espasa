@@ -2,7 +2,7 @@ import type { APIRoute } from 'astro';
 import { getSortedEntries, getTags } from '../lib/entries';
 import { formatRange, sortKey } from '../lib/time';
 
-// Lightweight metadata index for client-side views (no bodies).
+// Lightweight index for client-side views (summaries included, no bodies).
 export const GET: APIRoute = async () => {
   const [entries, tags] = await Promise.all([getSortedEntries(), getTags()]);
   const body = {
@@ -10,6 +10,7 @@ export const GET: APIRoute = async () => {
     entries: entries.map((e) => ({
       id: e.id,
       title: e.data.title,
+      summary: e.data.summary,
       date: formatRange(e.data.date, e.data.end),
       key: sortKey(e.data.date),
       year: e.data.date.year,

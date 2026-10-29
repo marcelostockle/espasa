@@ -9,6 +9,7 @@ import Base from '../layouts/Base.astro';
     <label>From year <input id="from" type="number" step="1" placeholder="any" /></label>
     <label>To year <input id="to" type="number" step="1" placeholder="any" /></label>
     <span class="date">Use negative numbers for BCE.</span>
+    <label><input id="detail" type="checkbox" /> Show summaries</label>
   </div>
   <div id="picker" class="picker" role="group" aria-label="Topics"></div>
   <div id="grid" class="grid" aria-live="polite"></div>
@@ -18,7 +19,7 @@ import Base from '../layouts/Base.astro';
 <script>
   interface Index {
     tags: { id: string; label: string; color: string; categories: string[] }[];
-    entries: { id: string; title: string; date: string; key: number; year: number; endYear: number; tags: string[] }[];
+    entries: { id: string; title: string; summary: string; date: string; key: number; year: number; endYear: number; tags: string[] }[];
   }
 
   const picker = document.getElementById('picker')!;
@@ -32,12 +33,15 @@ import Base from '../layouts/Base.astro';
   const params = new URLSearchParams(location.search);
   fromInput.value = params.get('from') ?? '';
   toInput.value = params.get('to') ?? '';
+  const detailInput = document.getElementById('detail') as HTMLInputElement;
+  detailInput.checked = params.get('view') === 'detailed';
 
   function syncUrl() {
     const p = new URLSearchParams();
     if (selected.size) p.set('tags', [...selected].join(','));
     if (fromInput.value !== '') p.set('from', fromInput.value);
     if (toInput.value !== '') p.set('to', toInput.value);
+    if (detailInput.checked) p.set('view', 'detailed');
     const qs = p.toString();
     history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
   }
@@ -113,6 +117,12 @@ import Base from '../layouts/Base.astro';
             a.href = `/entries/${e.id}/`;
             a.textContent = e.title;
             a.style.borderLeftColor = t.color;
+            if (detailInput.checked) {
+              const s = document.createElement('span');
+              s.className = 'summary';
+              s.textContent = e.summary;
+              a.append(s);
+            }
             cell.append(a);
           }
           return cell;
@@ -124,7 +134,7 @@ import Base from '../layouts/Base.astro';
   }
 
   let loaded: Index;
-  for (const input of [fromInput, toInput]) {
+  for (const input of [fromInput, toInput, detailInput]) {
     input.addEventListener('change', () => {
       syncUrl();
       render(loaded);
@@ -175,5 +185,7 @@ import Base from '../layouts/Base.astro';
     background: color-mix(in srgb, var(--fg) 5%, transparent);
     text-decoration: none;
   }
+  .cell a:hover .summary { text-decoration: none; }
   .cell a:hover { text-decoration: underline; }
+  .summary { display: block; margin-top: 0.2rem; font-size: 0.85rem; color: var(--muted); }
 </style>
