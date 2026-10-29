@@ -1,4 +1,12 @@
 {
+  "al-andalus": {
+    "label": "Al-Andalus",
+    "color": "#ffd54f",
+    "description": "Muslim-ruled Iberia from the Umayyad conquest of 711 to the fall of the Emirate of Granada in 1492, including the Caliphate of Córdoba, the taifas and the Almoravid, Almohad and Nasrid states.",
+    "categories": [
+      "States"
+    ]
+  },
   "art": {
     "label": "Art",
     "color": "#c2398b",
@@ -90,6 +98,14 @@
     "description": "French Protestants, their wars, rights and persecution.",
     "categories": [
       "Culture",
+      "Society"
+    ]
+  },
+  "iberian-reconquista": {
+    "label": "Iberian Reconquista",
+    "color": "#ff6d00",
+    "description": "The Christian kingdoms' wars and settlement against Muslim-ruled al-Andalus, from Covadonga (c. 722) to the fall of Granada in 1492; the term 'Reconquista' is itself a later and debated label.",
+    "categories": [
       "Society"
     ]
   },
