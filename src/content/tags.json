@@ -47,6 +47,14 @@
       "Culture"
     ]
   },
+  "expansionism": {
+    "label": "Expansionism",
+    "color": "#00c853",
+    "description": "Conquests, invasions, annexations, colonisation and voyages of claim by which a state or people extends its rule over new territory; not defensive wars or treaties that only end a war.",
+    "categories": [
+      "Society"
+    ]
+  },
   "exploration": {
     "label": "Exploration",
     "color": "#16a3a3",
