@@ -93,6 +93,14 @@
       "Culture"
     ]
   },
+  "kublai-khan": {
+    "label": "Kublai Khan",
+    "color": "#00b0ff",
+    "description": "Kublai Khan (1215-1294), Great Khan of the Mongol Empire from 1260 and founder of the Yuan dynasty of China.",
+    "categories": [
+      "People"
+    ]
+  },
   "leonardo-da-vinci": {
     "label": "Leonardo da Vinci",
     "color": "#7a8b2e",
