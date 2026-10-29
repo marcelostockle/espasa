@@ -23,6 +23,14 @@
       "Culture"
     ]
   },
+  "byzantine-empire": {
+    "label": "Byzantine Empire",
+    "color": "#6a5acd",
+    "description": "The Eastern Roman Empire and its successor states and legacy, including the Palaiologan exiles and Moscow's claim to Byzantine heritage.",
+    "categories": [
+      "States"
+    ]
+  },
   "calvinism": {
     "label": "Calvinism",
     "color": "#6a1b4d",
@@ -121,6 +129,14 @@
     "label": "Netherlands",
     "color": "#4dd0e1",
     "description": "The Low Countries and the Dutch Republic.",
+    "categories": [
+      "States"
+    ]
+  },
+  "ottoman-empire": {
+    "label": "Ottoman Empire",
+    "color": "#e91e63",
+    "description": "The Ottoman state and its sultans, from the conquest of Constantinople in 1453 to the retreat from central Europe around 1700.",
     "categories": [
       "States"
     ]
