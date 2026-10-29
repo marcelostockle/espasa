@@ -101,6 +101,22 @@
       "People"
     ]
   },
+  "marco-polo": {
+    "label": "Marco Polo",
+    "color": "#aeea00",
+    "description": "Marco Polo (c. 1254-1324), Venetian merchant whose travels in Asia and book, the Travels, shaped European knowledge of the East.",
+    "categories": [
+      "People"
+    ]
+  },
+  "mongol-empire": {
+    "label": "Mongol Empire",
+    "color": "#1de9b6",
+    "description": "The Mongol Empire and its successor khanates, including Kublai Khan's Yuan dynasty in China, from the 13th to the 14th century.",
+    "categories": [
+      "States"
+    ]
+  },
   "music": {
     "label": "Music",
     "color": "#5e35b1",
