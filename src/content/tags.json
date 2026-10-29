@@ -7,6 +7,14 @@
       "Culture"
     ]
   },
+  "austrian-empire": {
+    "label": "Austrian Empire",
+    "color": "#f48fb1",
+    "description": "The Habsburg monarchy and Holy Roman Empire, later the Austrian Empire.",
+    "categories": [
+      "States"
+    ]
+  },
   "exploration": {
     "label": "Exploration",
     "color": "#16a3a3",
@@ -44,12 +52,36 @@
       "People"
     ]
   },
+  "napoleon-bonaparte": {
+    "label": "Napoleon Bonaparte",
+    "color": "#4e342e",
+    "description": "The life and career of Napoleon Bonaparte (1769-1821).",
+    "categories": [
+      "People"
+    ]
+  },
+  "napoleonic-wars": {
+    "label": "Napoleonic Wars",
+    "color": "#ff6f61",
+    "description": "The wars between Napoleonic France and the coalitions arrayed against it, 1803-1815.",
+    "categories": [
+      "Society"
+    ]
+  },
   "politics": {
     "label": "Politics",
     "color": "#4a9d5b",
     "description": "States, wars and governance.",
     "categories": [
       "Society"
+    ]
+  },
+  "prussia": {
+    "label": "Prussia",
+    "color": "#263238",
+    "description": "The Kingdom of Prussia.",
+    "categories": [
+      "States"
     ]
   },
   "religion": {
@@ -61,12 +93,28 @@
       "Society"
     ]
   },
+  "russian-empire": {
+    "label": "Russian Empire",
+    "color": "#9c27b0",
+    "description": "The Russian Empire and its tsars.",
+    "categories": [
+      "States"
+    ]
+  },
   "science": {
     "label": "Science",
     "color": "#2a7de1",
     "description": "Discoveries and the scientific method.",
     "categories": [
       "Knowledge"
+    ]
+  },
+  "spain": {
+    "label": "Spain",
+    "color": "#00695c",
+    "description": "The Spanish monarchy and its people.",
+    "categories": [
+      "States"
     ]
   },
   "technology": {
@@ -76,6 +124,14 @@
     "categories": [
       "Knowledge",
       "Material culture"
+    ]
+  },
+  "united-kingdom": {
+    "label": "United Kingdom",
+    "color": "#546e7a",
+    "description": "Great Britain and the United Kingdom as a European power.",
+    "categories": [
+      "States"
     ]
   },
   "war": {
