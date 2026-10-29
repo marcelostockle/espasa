@@ -85,6 +85,14 @@
       "People"
     ]
   },
+  "music": {
+    "label": "Music",
+    "color": "#5e35b1",
+    "description": "Composers, works, notation, instruments and institutions of music.",
+    "categories": [
+      "Culture"
+    ]
+  },
   "napoleon-bonaparte": {
     "label": "Napoleon Bonaparte",
     "color": "#4e342e",
