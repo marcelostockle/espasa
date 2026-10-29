@@ -83,7 +83,7 @@ An entry's year must fall inside the span covered by `src/content/eras.json`, ma
 
 An optional `tags` block (same shape as import) creates new tags in the same step, so a new tag and its first uses are one reviewed, all-or-nothing change. A tag that already exists with different content is rejected.
 
-Same all-or-nothing rules as import: unknown tags or entries, an entry left with no tags, or the same tag both added and removed all return a `422` and write nothing. Entries that already have (or lack) the tag are reported as `unchanged`. Only the `tags:` line of each file changes, so `git diff` shows exactly the tag edit. The Import tab recognizes this shape too.
+Same all-or-nothing rules as import: unknown tags or entries, an entry left with no tags, or the same tag both added and removed all return a `422` and write nothing. Entries that already have (or lack) the tag are reported as `unchanged`. Only the `tags:` line of each file changes, so `git diff` shows exactly the tag edit. The Import tab recognizes this shape too. The Tags tab has a review panel: it loads a retag draft, dry-runs it, lists each proposed change with a checkbox, and applies only the ticked ones (it sends a reduced payload to this endpoint, and drops declared new tags nothing is added to).
 
 
 - Only `Host: localhost:PORT` / `127.0.0.1:PORT` is served (blocks DNS rebinding).

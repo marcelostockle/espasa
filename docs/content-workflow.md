@@ -9,7 +9,7 @@ Everything follows the same loop. Nothing is written to the site's content witho
 1. **Draft.** A skill (or you) produces a JSON file in `admin/drafts/` (gitignored).
 2. **Dry run.** The admin API validates it and reports what would happen. Nothing is written.
 3. **Review.** You read the draft and the skill's report.
-4. **Apply.** Paste the JSON into the **Import** tab and import. Only then are files written to `src/content/`.
+4. **Apply.** Entry drafts: paste the JSON into the **Import** tab and import. Retag drafts: load the file in the **Tags** tab, which shows every proposed change with a checkbox; untick what you disagree with and apply the rest. Only then are files written to `src/content/`. (The Import tab also accepts retag drafts, all-or-nothing, without the checkboxes.)
 5. **Check and commit.** `git diff`, `npm run build`, then commit.
 
 ## Starting the admin tool
@@ -21,7 +21,7 @@ npm run admin            # UI and API at http://localhost:4322
 - Local only. No auth. Never deploy it.
 - Port taken? Set `ADMIN_PORT=4333` (skills adapt if you tell them).
 - After code changes under `admin/`, **restart it**; it does not reload.
-- Tabs: **Entries** (browse, edit, delete), **Tags** (edit tags and categories), **Import** (paste or load a JSON draft, dry run, import).
+- Tabs: **Entries** (browse, edit, delete), **Tags** (edit tags and categories; review and apply retag drafts), **Import** (paste or load a JSON draft, dry run, import).
 - Stop it with Ctrl+C in the terminal where it runs. Never kill Node processes by name: others on the machine may not be this project's.
 
 ## Which skill when

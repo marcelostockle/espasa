@@ -74,6 +74,15 @@
   </section>
 
   <section id="tags" hidden>
+    <div class="panel" style="margin-bottom:1.25rem">
+      <div class="row">
+        <div style="flex:0 0 auto">
+          <label style="margin-top:0">Apply a retag draft (JSON from <code>/retag</code>)</label>
+          <input type="file" id="r-file" accept=".json,application/json" />
+        </div>
+      </div>
+      <div id="r-result"></div>
+    </div>
     <div class="split">
       <div class="panel">
         <div class="toolbar"><button class="btn primary" id="t-new">New tag</button></div>
@@ -361,6 +370,80 @@ function openTag(id) {
   drawTagList();
 }
 
+// ---------------------------------------------------------------- retag draft review
+// Load a retag draft, dry-run it, let the user untick individual changes, then apply only the ticked ones.
+async function loadDraft(file) {
+  const out = $('r-result');
+  let payload;
+  try { payload = JSON.parse(await file.text()); }
+  catch (e) { return out.replaceChildren(h('div', { class: 'issues' }, 'Not valid JSON: ' + e.message)); }
+  const isRetag = payload && typeof payload === 'object' && !('entries' in payload) && ('add' in payload || 'remove' in payload);
+  if (!isRetag) {
+    return out.replaceChildren(h('div', { class: 'issues' }, 'Not a retag draft (expected "add" and/or "remove"). Entry drafts go in the Import tab.'));
+  }
+  const [dry, all] = await Promise.all([api('POST', '/retag?dry=1', payload), api('GET', '/entries')]);
+  if (!dry.ok) { out.replaceChildren(issuesBox(dry.data)); return say('Draft has problems', 'err'); }
+  const titles = Object.fromEntries((all.data || []).map((e) => [e.id, e.title]));
+  drawDraft(payload, dry.data, titles);
+}
+
+function drawDraft(payload, dry, titles) {
+  const out = $('r-result');
+  const skipped = new Map(dry.unchanged.map((u) => [`${u.op}|${u.tag}|${u.id}`, u.reason]));
+  const newTags = new Set(dry.tags.created);
+  const rows = []; // { op, tag, id, box }
+  const apply = h('button', { class: 'btn primary' });
+  const update = () => {
+    const n = rows.filter((r) => r.box.checked).length;
+    apply.textContent = `Apply ${n} change${n === 1 ? '' : 's'}`;
+    apply.disabled = n === 0;
+  };
+
+  const groups = [];
+  for (const op of ['add', 'remove']) {
+    for (const [tag, ids] of Object.entries(payload[op] ?? {})) {
+      const t = tags[tag] ?? payload.tags?.[tag];
+      const items = [...new Set(ids)].map((id) => {
+        const reason = skipped.get(`${op}|${tag}|${id}`);
+        const box = h('input', { type: 'checkbox', checked: !reason, disabled: !!reason, style: 'width:auto;margin-right:.5rem' });
+        box.addEventListener('change', update);
+        if (!reason) rows.push({ op, tag, id, box });
+        return h('li', { style: 'margin:.2rem 0' },
+          h('label', { style: `display:flex;align-items:baseline;margin:0;font-size:inherit;color:${reason ? 'var(--muted)' : 'var(--fg)'}` },
+            box, h('span', {}, titles[id] ?? id, h('span', { class: 'muted' }, `  ${id}` + (reason ? ` (${reason})` : '')))));
+      });
+      groups.push(h('div', { style: 'margin-top:1rem' },
+        h('strong', {}, h('span', { class: 'dot', style: `--c:${t?.color ?? '#999'}` }),
+          `${op === 'add' ? 'Add' : 'Remove'}: ${t?.label ?? tag}`,
+          newTags.has(tag) ? h('span', { class: 'muted' }, '  new tag, created on apply') : null),
+        newTags.has(tag) && t?.description ? h('div', { class: 'muted' }, t.description) : null,
+        h('ul', { style: 'list-style:none;margin:.25rem 0 0;padding:0' }, items)));
+    }
+  }
+
+  apply.onclick = async () => {
+    const body = { add: {}, remove: {} };
+    for (const { op, tag, id, box } of rows) if (box.checked) (body[op][tag] ??= []).push(id);
+    // Only declare new tags that something is actually being added to.
+    const declared = Object.entries(payload.tags ?? {}).filter(([id]) => body.add[id]?.length);
+    if (declared.length) body.tags = Object.fromEntries(declared);
+    const r = await api('POST', '/retag', body);
+    if (!r.ok) { out.prepend(issuesBox(r.data)); return say('Nothing written', 'err'); }
+    say(`Retagged ${r.data.changed.length} entr${r.data.changed.length === 1 ? 'y' : 'ies'}`);
+    out.replaceChildren(h('p', {}, `Applied. ${r.data.changed.length} entries changed` +
+      (r.data.tags.created.length ? `, new tags: ${r.data.tags.created.join(', ')}` : '') + '. Review with git diff, then commit.'));
+    $('r-file').value = '';
+    await loadTags(); await loadEntries(); drawTagList();
+  };
+  const cancel = h('button', { class: 'btn', onclick: () => { out.replaceChildren(); $('r-file').value = ''; } }, 'Discard');
+
+  out.replaceChildren(
+    h('p', { class: 'muted' }, 'Dry run passed. Untick anything you do not want; nothing is written until you apply.'),
+    ...groups,
+    h('div', { class: 'actions' }, apply, cancel));
+  update();
+}
+
 // ---------------------------------------------------------------- import
 async function runImport(dry) {
   const out = $('i-result');
@@ -396,6 +479,7 @@ let searchTimer;
 $('e-q').oninput = () => { clearTimeout(searchTimer); searchTimer = setTimeout(loadEntries, 200); };
 $('i-dry').onclick = () => runImport(true);
 $('i-go').onclick = () => runImport(false);
+$('r-file').onchange = (ev) => { const f = ev.target.files[0]; if (f) loadDraft(f); };
 $('i-file').onchange = async (ev) => { const f = ev.target.files[0]; if (f) $('i-text').value = await f.text(); };
 
 (async () => {
