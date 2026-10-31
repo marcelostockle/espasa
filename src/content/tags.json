@@ -197,6 +197,14 @@
       "Society"
     ]
   },
+  "portugal": {
+    "label": "Portugal",
+    "color": "#e040fb",
+    "description": "The Kingdom of Portugal and its overseas expansion, from its founding in the 12th century to the early modern empire.",
+    "categories": [
+      "States"
+    ]
+  },
   "protestant-reformation": {
     "label": "Protestant Reformation",
     "color": "#afb42b",
