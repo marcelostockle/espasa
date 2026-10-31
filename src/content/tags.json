@@ -153,6 +153,14 @@
       "People"
     ]
   },
+  "ming-dynasty": {
+    "label": "Ming dynasty",
+    "color": "#ef5350",
+    "description": "The Ming dynasty of China (1368-1644), its emperors, court and foreign relations.",
+    "categories": [
+      "States"
+    ]
+  },
   "mongol-empire": {
     "label": "Mongol Empire",
     "color": "#1de9b6",
@@ -313,6 +321,14 @@
     "description": "Major wars and campaigns.",
     "categories": [
       "Society"
+    ]
+  },
+  "zheng-he": {
+    "label": "Zheng He",
+    "color": "#9fa8da",
+    "description": "Zheng He (c. 1371-1433), Ming admiral and court eunuch who led the treasure voyages across the Indian Ocean.",
+    "categories": [
+      "People"
     ]
   }
 }
