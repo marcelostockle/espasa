@@ -266,6 +266,14 @@
       "Knowledge"
     ]
   },
+  "slave-trade": {
+    "label": "Slave trade",
+    "color": "#2e7d32",
+    "description": "The capture, sale and transport of enslaved people as a commerce, especially the Atlantic trade that began from West Africa in the 15th century, and the events that built or ended it; not slavery as a general condition.",
+    "categories": [
+      "Society"
+    ]
+  },
   "spain": {
     "label": "Spain",
     "color": "#00695c",
