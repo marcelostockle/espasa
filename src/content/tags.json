@@ -66,7 +66,11 @@
   "exploration": {
     "label": "Exploration",
     "color": "#16a3a3",
-    "description": "Voyages and contact between worlds."
+    "description": "Voyages and journeys made to reach, chart or learn about distant lands and peoples.",
+    "categories": [
+      "Knowledge",
+      "Society"
+    ]
   },
   "french-monarchy": {
     "label": "French monarchy",
