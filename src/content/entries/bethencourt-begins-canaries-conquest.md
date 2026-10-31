@@ -1,0 +1,9 @@
+---
+title: "Jean de Béthencourt and Gadifer de la Salle land in Lanzarote"
+summary: "The Norman knights Béthencourt and La Salle reach Lanzarote in 1402, and Henry III of Castile makes Béthencourt lord of the islands. Sources date the conquest of Lanzarote and Fuerteventura between 1402 and 1405."
+date: {"year":1402}
+tags: ["canary-islands","expansionism","spain","exploration"]
+sources: ["https://en.wikipedia.org/wiki/Jean_de_B%C3%A9thencourt","https://en.wikipedia.org/wiki/Lordship_of_the_Canary_Islands"]
+---
+
+

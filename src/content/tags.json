@@ -47,6 +47,14 @@
       "Culture"
     ]
   },
+  "canary-islands": {
+    "label": "Canary Islands",
+    "color": "#ffcc80",
+    "description": "The Canary Islands and their Indigenous peoples (Guanches and others), from the first European expeditions in the 14th century to the Castilian conquest completed in 1496.",
+    "categories": [
+      "States"
+    ]
+  },
   "counter-reformation": {
     "label": "Counter-Reformation",
     "color": "#90a4ae",
