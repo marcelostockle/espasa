@@ -3,108 +3,198 @@
     "id": "prehistory",
     "label": "Prehistory",
     "start": -1000000,
-    "end": -3000
+    "end": -3000,
+    "translations": {
+      "es": {
+        "label": "Prehistoria"
+      }
+    }
   },
   {
     "id": "antiquity",
     "label": "Antiquity",
     "start": -3000,
-    "end": 476
+    "end": 476,
+    "translations": {
+      "es": {
+        "label": "Antigüedad"
+      }
+    }
   },
   {
     "id": "middle-ages",
     "label": "Middle Ages",
     "start": 476,
-    "end": 1500
+    "end": 1500,
+    "translations": {
+      "es": {
+        "label": "Edad Media"
+      }
+    }
   },
   {
     "id": "early-modern",
     "label": "Early Modern",
     "start": 1500,
-    "end": 1800
+    "end": 1800,
+    "translations": {
+      "es": {
+        "label": "Edad Moderna"
+      }
+    }
   },
   {
     "id": "19th-century",
     "label": "19th century",
     "start": 1800,
-    "end": 1900
+    "end": 1900,
+    "translations": {
+      "es": {
+        "label": "Siglo XIX"
+      }
+    }
   },
   {
     "id": "1900s",
     "label": "1900s",
     "start": 1900,
-    "end": 1910
+    "end": 1910,
+    "translations": {
+      "es": {
+        "label": "Década de 1900s"
+      }
+    }
   },
   {
     "id": "1910s",
     "label": "1910s",
     "start": 1910,
-    "end": 1920
+    "end": 1920,
+    "translations": {
+      "es": {
+        "label": "Década de 1910s"
+      }
+    }
   },
   {
     "id": "1920s",
     "label": "1920s",
     "start": 1920,
-    "end": 1930
+    "end": 1930,
+    "translations": {
+      "es": {
+        "label": "Década de 1920s"
+      }
+    }
   },
   {
     "id": "1930s",
     "label": "1930s",
     "start": 1930,
-    "end": 1940
+    "end": 1940,
+    "translations": {
+      "es": {
+        "label": "Década de 1930s"
+      }
+    }
   },
   {
     "id": "1940s",
     "label": "1940s",
     "start": 1940,
-    "end": 1950
+    "end": 1950,
+    "translations": {
+      "es": {
+        "label": "Década de 1940s"
+      }
+    }
   },
   {
     "id": "1950s",
     "label": "1950s",
     "start": 1950,
-    "end": 1960
+    "end": 1960,
+    "translations": {
+      "es": {
+        "label": "Década de 1950s"
+      }
+    }
   },
   {
     "id": "1960s",
     "label": "1960s",
     "start": 1960,
-    "end": 1970
+    "end": 1970,
+    "translations": {
+      "es": {
+        "label": "Década de 1960s"
+      }
+    }
   },
   {
     "id": "1970s",
     "label": "1970s",
     "start": 1970,
-    "end": 1980
+    "end": 1980,
+    "translations": {
+      "es": {
+        "label": "Década de 1970s"
+      }
+    }
   },
   {
     "id": "1980s",
     "label": "1980s",
     "start": 1980,
-    "end": 1990
+    "end": 1990,
+    "translations": {
+      "es": {
+        "label": "Década de 1980s"
+      }
+    }
   },
   {
     "id": "1990s",
     "label": "1990s",
     "start": 1990,
-    "end": 2000
+    "end": 2000,
+    "translations": {
+      "es": {
+        "label": "Década de 1990s"
+      }
+    }
   },
   {
     "id": "2000s",
     "label": "2000s",
     "start": 2000,
-    "end": 2010
+    "end": 2010,
+    "translations": {
+      "es": {
+        "label": "Década de 2000s"
+      }
+    }
   },
   {
     "id": "2010s",
     "label": "2010s",
     "start": 2010,
-    "end": 2020
+    "end": 2020,
+    "translations": {
+      "es": {
+        "label": "Década de 2010s"
+      }
+    }
   },
   {
     "id": "2020s",
     "label": "2020s",
     "start": 2020,
-    "end": 2030
+    "end": 2030,
+    "translations": {
+      "es": {
+        "label": "Década de 2020s"
+      }
+    }
   }
 ]

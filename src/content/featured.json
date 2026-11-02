@@ -8,7 +8,13 @@
       "religion"
     ],
     "from": 1500,
-    "to": 1700
+    "to": 1700,
+    "translations": {
+      "es": {
+        "title": "Ciencia y religión, 1500–1700",
+        "description": "La Reforma y la Revolución científica se desarrollan una junto a otra."
+      }
+    }
   },
   {
     "id": "the-press",
@@ -20,7 +26,13 @@
       "technology"
     ],
     "from": 1400,
-    "to": 1550
+    "to": 1550,
+    "translations": {
+      "es": {
+        "title": "Arte, religión e imprenta",
+        "description": "Cómo la imprenta transformó lo que la gente leía, creía y creaba."
+      }
+    }
   },
   {
     "id": "power-and-discovery",
@@ -29,6 +41,12 @@
     "tags": [
       "politics",
       "exploration"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Política y exploración",
+        "description": "Los imperios se proyectan hacia fuera y el mundo se reordena a su alrededor."
+      }
+    }
   }
 ]

@@ -5,7 +5,13 @@
     "description": "Muslim-ruled Iberia from the Umayyad conquest of 711 to the fall of the Emirate of Granada in 1492, including the Caliphate of Córdoba, the taifas and the Almoravid, Almohad and Nasrid states.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Al-Ándalus",
+        "description": "La Iberia gobernada por musulmanes desde la conquista omeya de 711 hasta la caída del Emirato de Granada en 1492, incluidos el Califato de Córdoba, las taifas y los estados almorávide, almohade y nazarí."
+      }
+    }
   },
   "art": {
     "label": "Art",
@@ -13,7 +19,13 @@
     "description": "Visual arts, literature and music.",
     "categories": [
       "Culture"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Arte",
+        "description": "Artes visuales, literatura y música."
+      }
+    }
   },
   "austrian-empire": {
     "label": "Austrian Empire",
@@ -21,7 +33,13 @@
     "description": "The Habsburg monarchy and the Austrian Empire (the Holy Roman Empire has its own tag).",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio austríaco",
+        "description": "La monarquía de los Habsburgo y el Imperio austríaco (el Sacro Imperio Romano Germánico tiene su propia etiqueta)."
+      }
+    }
   },
   "baroque-music": {
     "label": "Baroque music",
@@ -29,7 +47,13 @@
     "description": "Composers, works and institutions of Baroque music, from the first operas around 1600 to the death of Bach in 1750.",
     "categories": [
       "Culture"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Música barroca",
+        "description": "Compositores, obras e instituciones de la música barroca, desde las primeras óperas hacia 1600 hasta la muerte de Bach en 1750."
+      }
+    }
   },
   "bartolome-de-las-casas": {
     "label": "Bartolomé de las Casas",
@@ -37,7 +61,13 @@
     "description": "Bartolomé de las Casas (1484-1566), Spanish colonist turned Dominican friar and bishop, chief critic of the treatment of Indigenous peoples in the Spanish Americas.",
     "categories": [
       "Figures"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Bartolomé de las Casas",
+        "description": "Bartolomé de las Casas (1484-1566), colono español convertido en fraile dominico y obispo, principal crítico del trato dado a los pueblos indígenas en la América española."
+      }
+    }
   },
   "byzantine-empire": {
     "label": "Byzantine Empire",
@@ -45,7 +75,13 @@
     "description": "The Eastern Roman Empire and its successor states and legacy, including the Palaiologan exiles and Moscow's claim to Byzantine heritage.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio bizantino",
+        "description": "El Imperio romano de Oriente, sus estados sucesores y su legado, incluidos los exiliados paleólogos y la pretensión de Moscú de heredar el legado bizantino."
+      }
+    }
   },
   "calvinism": {
     "label": "Calvinism",
@@ -53,7 +89,13 @@
     "description": "Calvin and the Reformed tradition: Geneva, the Huguenots, the Dutch Reformed, Scottish Presbyterians and Puritans.",
     "categories": [
       "Culture"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Calvinismo",
+        "description": "Calvino y la tradición reformada: Ginebra, los hugonotes, la Iglesia reformada neerlandesa, los presbiterianos escoceses y los puritanos."
+      }
+    }
   },
   "canary-islands": {
     "label": "Canary Islands",
@@ -61,7 +103,13 @@
     "description": "The Canary Islands and their Indigenous peoples (Guanches and others), from the first European expeditions in the 14th century to the Castilian conquest completed in 1496.",
     "categories": [
       "Peoples"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Islas Canarias",
+        "description": "Las islas Canarias y sus pueblos indígenas (guanches y otros), desde las primeras expediciones europeas en el siglo XIV hasta la conquista castellana completada en 1496."
+      }
+    }
   },
   "chile": {
     "label": "Chile",
@@ -69,7 +117,13 @@
     "description": "The territory of present-day Chile as a place: its coast, Spanish colonial rule and the Mapuche, from the Spanish arrival in 1536 to independence in 1818.",
     "categories": [
       "Places"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Chile",
+        "description": "El territorio del actual Chile como lugar: su costa, el dominio colonial español y los mapuches, desde la llegada de los españoles en 1536 hasta la independencia en 1818."
+      }
+    }
   },
   "christopher-columbus": {
     "label": "Christopher Columbus",
@@ -77,7 +131,13 @@
     "description": "Christopher Columbus (c. 1451-1506), Genoese navigator who led four Spanish voyages across the Atlantic from 1492.",
     "categories": [
       "Figures"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Cristóbal Colón",
+        "description": "Cristóbal Colón (h. 1451-1506), navegante genovés que encabezó cuatro viajes españoles a través del Atlántico a partir de 1492."
+      }
+    }
   },
   "counter-reformation": {
     "label": "Counter-Reformation",
@@ -85,7 +145,13 @@
     "description": "The Catholic response to Protestantism: Trent, the Jesuits and the Inquisition.",
     "categories": [
       "Culture"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Contrarreforma",
+        "description": "La respuesta católica al protestantismo: Trento, los jesuitas y la Inquisición."
+      }
+    }
   },
   "dominican-republic": {
     "label": "Dominican Republic",
@@ -93,7 +159,13 @@
     "description": "The eastern part of Hispaniola and the Dominican Republic: the Spanish colony of Santo Domingo after 1795, the Haitian occupation, independence in 1844 and the state's history through 1961.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "República Dominicana",
+        "description": "La parte oriental de La Española y la República Dominicana: la colonia española de Santo Domingo después de 1795, la ocupación haitiana, la independencia en 1844 y la historia del Estado hasta 1961."
+      }
+    }
   },
   "expansionism": {
     "label": "Expansionism",
@@ -101,7 +173,13 @@
     "description": "Conquests, invasions, annexations, colonisation and voyages of claim by which a state or people extends its rule over new territory; not defensive wars or treaties that only end a war.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Expansionismo",
+        "description": "Conquistas, invasiones, anexiones, colonizaciones y viajes de reclamación mediante los cuales un Estado o un pueblo extiende su dominio sobre nuevos territorios; no incluye guerras defensivas ni tratados que solo ponen fin a una guerra."
+      }
+    }
   },
   "exploration": {
     "label": "Exploration",
@@ -110,7 +188,13 @@
     "categories": [
       "Knowledge",
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Exploración",
+        "description": "Viajes y travesías realizados para alcanzar, cartografiar o conocer tierras y pueblos lejanos."
+      }
+    }
   },
   "francis-drake": {
     "label": "Francis Drake",
@@ -118,7 +202,13 @@
     "description": "Sir Francis Drake (c. 1540-1596), English privateer and naval commander who raided the Spanish Americas and circumnavigated the globe.",
     "categories": [
       "Figures"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Francis Drake",
+        "description": "Sir Francis Drake (h. 1540-1596), corsario y comandante naval inglés que saqueó la América española y circunnavegó el globo."
+      }
+    }
   },
   "french-monarchy": {
     "label": "French monarchy",
@@ -126,7 +216,13 @@
     "description": "The kings of France and the institutions of the crown, from its origins to 1789.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Monarquía francesa",
+        "description": "Los reyes de Francia y las instituciones de la corona, desde sus orígenes hasta 1789."
+      }
+    }
   },
   "french-revolution": {
     "label": "French Revolution",
@@ -134,7 +230,13 @@
     "description": "The upheaval that ended the French monarchy and remade the state, 1789-1799.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Revolución francesa",
+        "description": "La convulsión que puso fin a la monarquía francesa y rehízo el Estado, 1789-1799."
+      }
+    }
   },
   "haiti": {
     "label": "Haiti",
@@ -142,7 +244,13 @@
     "description": "The Haitian state from its independence in 1804 onward: its governments, its relations with France and the powers, and its rule over the whole of Hispaniola from 1822 to 1844.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Haití",
+        "description": "El Estado haitiano desde su independencia en 1804: sus gobiernos, sus relaciones con Francia y las potencias, y su dominio sobre toda La Española entre 1822 y 1844."
+      }
+    }
   },
   "haitian-independence-debt": {
     "label": "Haitian independence debt",
@@ -150,7 +258,13 @@
     "description": "The indemnity France demanded from Haiti in 1825 for recognising its independence, the loans taken to pay it, and the foreign banks and powers that profited from or controlled Haiti's finances until the debts ended in 1947.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Deuda de la independencia de Haití",
+        "description": "La indemnización que Francia exigió a Haití en 1825 por reconocer su independencia, los préstamos contraídos para pagarla y los bancos y potencias extranjeras que se beneficiaron de las finanzas haitianas o las controlaron hasta que las deudas terminaron en 1947."
+      }
+    }
   },
   "haitian-revolution": {
     "label": "Haitian Revolution",
@@ -158,7 +272,13 @@
     "description": "The slave uprising and revolution in French Saint-Domingue, from the free people of color's struggle for rights in 1790 to the independence of Haiti in 1804, including the French, Spanish and British interventions.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Revolución haitiana",
+        "description": "El levantamiento de esclavos y la revolución en la Saint-Domingue francesa, desde la lucha de los libres de color por sus derechos en 1790 hasta la independencia de Haití en 1804, incluidas las intervenciones francesa, española y británica."
+      }
+    }
   },
   "hispaniola": {
     "label": "Hispaniola",
@@ -166,7 +286,13 @@
     "description": "The island of Hispaniola (today Haiti and the Dominican Republic) as a place: Spanish Santo Domingo, French Saint-Domingue and the events that shaped and divided the island, from 1492 to 1844.",
     "categories": [
       "Places"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "La Española",
+        "description": "La isla de La Española (hoy Haití y República Dominicana) como lugar: el Santo Domingo español, la Saint-Domingue francesa y los hechos que moldearon y dividieron la isla, de 1492 a 1844."
+      }
+    }
   },
   "holy-roman-empire": {
     "label": "Holy Roman Empire",
@@ -174,7 +300,13 @@
     "description": "The Empire of the German lands and its emperors, to 1806.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Sacro Imperio Romano Germánico",
+        "description": "El Imperio de las tierras alemanas y sus emperadores, hasta 1806."
+      }
+    }
   },
   "huguenots": {
     "label": "Huguenots",
@@ -183,7 +315,13 @@
     "categories": [
       "Culture",
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Hugonotes",
+        "description": "Los protestantes franceses, sus guerras, derechos y persecución."
+      }
+    }
   },
   "iberian-reconquista": {
     "label": "Iberian Reconquista",
@@ -191,7 +329,13 @@
     "description": "The Christian kingdoms' wars and settlement against Muslim-ruled al-Andalus, from Covadonga (c. 722) to the fall of Granada in 1492; the term 'Reconquista' is itself a later and debated label.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Reconquista ibérica",
+        "description": "Las guerras y el poblamiento de los reinos cristianos frente al Al-Ándalus musulmán, desde Covadonga (h. 722) hasta la caída de Granada en 1492; el propio término «Reconquista» es una denominación posterior y discutida."
+      }
+    }
   },
   "italian-renaissance": {
     "label": "Italian Renaissance",
@@ -199,7 +343,13 @@
     "description": "Art, learning and politics in the Italian states, roughly 1400-1600.",
     "categories": [
       "Culture"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Renacimiento italiano",
+        "description": "Arte, saber y política en los estados italianos, aproximadamente entre 1400 y 1600."
+      }
+    }
   },
   "kublai-khan": {
     "label": "Kublai Khan",
@@ -207,7 +357,13 @@
     "description": "Kublai Khan (1215-1294), Great Khan of the Mongol Empire from 1260 and founder of the Yuan dynasty of China.",
     "categories": [
       "Figures"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Kublai Kan",
+        "description": "Kublai Kan (1215-1294), Gran Kan del Imperio mongol desde 1260 y fundador de la dinastía Yuan de China."
+      }
+    }
   },
   "leonardo-da-vinci": {
     "label": "Leonardo da Vinci",
@@ -215,7 +371,13 @@
     "description": "The life and work of Leonardo da Vinci (1452-1519).",
     "categories": [
       "Figures"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Leonardo da Vinci",
+        "description": "La vida y la obra de Leonardo da Vinci (1452-1519)."
+      }
+    }
   },
   "marco-polo": {
     "label": "Marco Polo",
@@ -223,7 +385,13 @@
     "description": "Marco Polo (c. 1254-1324), Venetian merchant whose travels in Asia and book, the Travels, shaped European knowledge of the East.",
     "categories": [
       "Figures"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Marco Polo",
+        "description": "Marco Polo (h. 1254-1324), mercader veneciano cuyos viajes por Asia y cuyo libro, los Viajes, marcaron el conocimiento europeo de Oriente."
+      }
+    }
   },
   "ming-dynasty": {
     "label": "Ming dynasty",
@@ -231,7 +399,13 @@
     "description": "The Ming dynasty of China (1368-1644), its emperors, court and foreign relations.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Dinastía Ming",
+        "description": "La dinastía Ming de China (1368-1644), sus emperadores, su corte y sus relaciones exteriores."
+      }
+    }
   },
   "mongol-empire": {
     "label": "Mongol Empire",
@@ -239,7 +413,13 @@
     "description": "The Mongol Empire and its successor khanates, including Kublai Khan's Yuan dynasty in China, from the 13th to the 14th century.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio mongol",
+        "description": "El Imperio mongol y los janatos que lo sucedieron, incluida la dinastía Yuan de Kublai Kan en China, entre los siglos XIII y XIV."
+      }
+    }
   },
   "music": {
     "label": "Music",
@@ -247,7 +427,13 @@
     "description": "Composers, works, notation, instruments and institutions of music.",
     "categories": [
       "Culture"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Música",
+        "description": "Compositores, obras, notación, instrumentos e instituciones de la música."
+      }
+    }
   },
   "napoleon-bonaparte": {
     "label": "Napoleon Bonaparte",
@@ -255,7 +441,13 @@
     "description": "The life and career of Napoleon Bonaparte (1769-1821).",
     "categories": [
       "Figures"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Napoleón Bonaparte",
+        "description": "La vida y la carrera de Napoleón Bonaparte (1769-1821)."
+      }
+    }
   },
   "napoleonic-wars": {
     "label": "Napoleonic Wars",
@@ -263,7 +455,13 @@
     "description": "The wars between Napoleonic France and the coalitions arrayed against it, 1803-1815.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerras napoleónicas",
+        "description": "Las guerras entre la Francia napoleónica y las coaliciones formadas contra ella, 1803-1815."
+      }
+    }
   },
   "netherlands": {
     "label": "Netherlands",
@@ -271,7 +469,13 @@
     "description": "The Low Countries and the Dutch Republic.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Países Bajos",
+        "description": "Los Países Bajos y la República de las Siete Provincias Unidas."
+      }
+    }
   },
   "ottoman-empire": {
     "label": "Ottoman Empire",
@@ -279,7 +483,13 @@
     "description": "The Ottoman state and its sultans, from the conquest of Constantinople in 1453 to the retreat from central Europe around 1700.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio otomano",
+        "description": "El Estado otomano y sus sultanes, desde la conquista de Constantinopla en 1453 hasta el repliegue de Europa central hacia 1700."
+      }
+    }
   },
   "politics": {
     "label": "Politics",
@@ -287,7 +497,13 @@
     "description": "States, wars and governance.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Política",
+        "description": "Estados, guerras y gobierno."
+      }
+    }
   },
   "portugal": {
     "label": "Portugal",
@@ -295,7 +511,13 @@
     "description": "The Kingdom of Portugal and its overseas expansion, from its founding in the 12th century to the early modern empire.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Portugal",
+        "description": "El Reino de Portugal y su expansión ultramarina, desde su fundación en el siglo XII hasta el imperio de la Edad Moderna."
+      }
+    }
   },
   "protestant-reformation": {
     "label": "Protestant Reformation",
@@ -303,7 +525,13 @@
     "description": "The 16th-century break with the Catholic Church and the new churches it created, from Luther onward.",
     "categories": [
       "Culture"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Reforma protestante",
+        "description": "La ruptura del siglo XVI con la Iglesia católica y las nuevas iglesias que surgieron de ella, desde Lutero en adelante."
+      }
+    }
   },
   "prussia": {
     "label": "Prussia",
@@ -311,7 +539,13 @@
     "description": "The Kingdom of Prussia.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Prusia",
+        "description": "El Reino de Prusia."
+      }
+    }
   },
   "religion": {
     "label": "Religion",
@@ -320,7 +554,13 @@
     "categories": [
       "Culture",
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Religión",
+        "description": "Fe, instituciones y reforma."
+      }
+    }
   },
   "religious-persecution": {
     "label": "Religious persecution",
@@ -328,7 +568,13 @@
     "description": "Violence, expulsion and legal repression of people for their faith, of any religion.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Persecución religiosa",
+        "description": "Violencia, expulsión y represión legal de personas por su fe, de cualquier religión."
+      }
+    }
   },
   "religious-toleration": {
     "label": "Religious toleration",
@@ -336,7 +582,13 @@
     "description": "Edicts, treaties and laws that granted religious freedoms or ended religious conflict.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Tolerancia religiosa",
+        "description": "Edictos, tratados y leyes que concedieron libertades religiosas o pusieron fin a conflictos religiosos."
+      }
+    }
   },
   "russian-empire": {
     "label": "Russian Empire",
@@ -344,7 +596,13 @@
     "description": "The Russian Empire and its tsars.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio ruso",
+        "description": "El Imperio ruso y sus zares."
+      }
+    }
   },
   "science": {
     "label": "Science",
@@ -352,7 +610,13 @@
     "description": "Discoveries and the scientific method.",
     "categories": [
       "Knowledge"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Ciencia",
+        "description": "Descubrimientos y método científico."
+      }
+    }
   },
   "slave-trade": {
     "label": "Slave trade",
@@ -360,7 +624,13 @@
     "description": "The capture, sale and transport of enslaved people as a commerce, especially the Atlantic trade that began from West Africa in the 15th century, and the events that built or ended it; not slavery as a general condition.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Trata de esclavos",
+        "description": "La captura, venta y transporte de personas esclavizadas como comercio, en especial la trata atlántica que comenzó en África occidental en el siglo XV, y los hechos que la construyeron o le pusieron fin; no la esclavitud como condición general."
+      }
+    }
   },
   "spain": {
     "label": "Spain",
@@ -368,7 +638,13 @@
     "description": "The Spanish monarchy and its people.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "España",
+        "description": "La monarquía española y su pueblo."
+      }
+    }
   },
   "taino": {
     "label": "Taíno",
@@ -376,7 +652,13 @@
     "description": "The Taíno, the Indigenous peoples of the Greater Antilles and the Bahamas, and their encounter with Spanish colonisation from 1492 to the mid-16th century.",
     "categories": [
       "Peoples"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Taínos",
+        "description": "Los taínos, pueblos indígenas de las Antillas Mayores y las Bahamas, y su encuentro con la colonización española desde 1492 hasta mediados del siglo XVI."
+      }
+    }
   },
   "technology": {
     "label": "Technology",
@@ -385,7 +667,13 @@
     "categories": [
       "Knowledge",
       "Material culture"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Tecnología",
+        "description": "Invenciones e ingeniería."
+      }
+    }
   },
   "toussaint-louverture": {
     "label": "Toussaint Louverture",
@@ -393,7 +681,13 @@
     "description": "Toussaint Louverture (c. 1743-1803), formerly enslaved general who led the Haitian Revolution and governed Saint-Domingue until his deportation to France in 1802.",
     "categories": [
       "Figures"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Toussaint Louverture",
+        "description": "Toussaint Louverture (h. 1743-1803), general antes esclavizado que dirigió la Revolución haitiana y gobernó Saint-Domingue hasta su deportación a Francia en 1802."
+      }
+    }
   },
   "united-kingdom": {
     "label": "United Kingdom",
@@ -401,7 +695,13 @@
     "description": "Great Britain and the United Kingdom as a European power.",
     "categories": [
       "States"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Reino Unido",
+        "description": "Gran Bretaña y el Reino Unido como potencia europea."
+      }
+    }
   },
   "war": {
     "label": "War",
@@ -409,7 +709,13 @@
     "description": "Major wars and campaigns.",
     "categories": [
       "Society"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra",
+        "description": "Grandes guerras y campañas."
+      }
+    }
   },
   "zheng-he": {
     "label": "Zheng He",
@@ -417,6 +723,12 @@
     "description": "Zheng He (c. 1371-1433), Ming admiral and court eunuch who led the treasure voyages across the Indian Ocean.",
     "categories": [
       "Figures"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "label": "Zheng He",
+        "description": "Zheng He (h. 1371-1433), almirante Ming y eunuco de la corte que dirigió los viajes del tesoro por el océano Índico."
+      }
+    }
   }
 }
