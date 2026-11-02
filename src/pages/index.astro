@@ -86,9 +86,34 @@ function compareUrl(f: (typeof featured)[number]) {
       }
     </ul>
   </section>
+
+  <aside class="disclaimer">
+    <h2>About this site</h2>
+    <ul>
+      <li>
+        <strong>Not an authoritative source.</strong> Espasa was built for educational purposes only. For
+        anything that matters, check primary sources and scholarly references.
+      </li>
+      <li>
+        <strong>Errors are possible.</strong> Some facts, dates and interpretations may be inaccurate or
+        incomplete, especially for ancient or disputed events.
+      </li>
+      <li>
+        <strong>Made with AI.</strong> Entries were drafted with the help of an AI model, checked against
+        web sources, and reviewed by a human before publication.
+      </li>
+      <li>
+        <strong>Corrections and new entries.</strong> There is no public submission process yet.
+      </li>
+    </ul>
+  </aside>
 </Base>
 
 <style>
+  .disclaimer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--line); }
+  .disclaimer ul { margin: 0; padding-left: 1.1rem; color: var(--muted); font-size: 0.9rem; max-width: 46rem; }
+  .disclaimer li + li { margin-top: 0.4rem; }
+  .disclaimer strong { color: var(--fg); font-weight: 600; }
   .intro { color: var(--muted); font-size: 1.1rem; }
   section { margin-top: 2.5rem; }
   h2 {
