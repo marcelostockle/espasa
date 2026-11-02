@@ -31,6 +31,14 @@
       "Culture"
     ]
   },
+  "bartolome-de-las-casas": {
+    "label": "Bartolomé de las Casas",
+    "color": "#bdbdbd",
+    "description": "Bartolomé de las Casas (1484-1566), Spanish colonist turned Dominican friar and bishop, chief critic of the treatment of Indigenous peoples in the Spanish Americas.",
+    "categories": [
+      "Figures"
+    ]
+  },
   "byzantine-empire": {
     "label": "Byzantine Empire",
     "color": "#6a5acd",
