@@ -1,19 +1,25 @@
 ---
-import Base from '../../layouts/Base.astro';
-import { getEraBuckets, formatEraRange } from '../../lib/eras';
+import Base from '../../../layouts/Base.astro';
+import { getEraBuckets, formatEraRange } from '../../../lib/eras';
+import { localePath, localeStaticPaths, t, toLocale } from '../../../lib/i18n';
+import { eraLabel } from '../../../lib/localize';
 
+export const getStaticPaths = localeStaticPaths;
+
+const locale = toLocale(Astro.currentLocale);
+const strings = t(locale);
 const buckets = (await getEraBuckets()).filter((b) => b.entries.length);
 ---
 
-<Base title="Eras">
-  <h1>Eras</h1>
-  <p class="date">Every topic in one chronological stream, one era at a time.</p>
+<Base title={strings.eras}>
+  <h1>{strings.eras}</h1>
+  <p class="date">{strings.erasIntro}</p>
   <ol class="eras">
     {
       buckets.map(({ era, entries }) => (
         <li>
-          <a href={`/eras/${era.id}/`}>{era.data.label}</a>
-          <span class="date">{formatEraRange(era)}</span>
+          <a href={localePath(locale, `/eras/${era.id}/`)}>{eraLabel(era, locale)}</a>
+          <span class="date">{formatEraRange(era, locale)}</span>
           <span class="count date">{entries.length}</span>
         </li>
       ))

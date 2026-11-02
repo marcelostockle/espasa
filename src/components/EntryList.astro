@@ -1,5 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { localePath, toLocale } from '../lib/i18n';
+import { entryText, tagText } from '../lib/localize';
 import { formatRange } from '../lib/time';
 
 interface Props {
@@ -7,30 +9,35 @@ interface Props {
   tags: CollectionEntry<'tags'>[];
 }
 const { entries, tags } = Astro.props;
+const locale = toLocale(Astro.currentLocale);
 const tagById = new Map(tags.map((t) => [t.id, t]));
 ---
 
 <ol class="entries">
   {
-    entries.map((entry) => (
+    entries.map((entry) => {
+      const text = entryText(entry, locale);
+      const lang = text.lang !== locale ? text.lang : undefined;
+      return (
       <li>
-        <div class="date">{formatRange(entry.data.date, entry.data.end)}</div>
+        <div class="date">{formatRange(entry.data.date, entry.data.end, locale)}</div>
         <div>
-          <a class="title" href={`/entries/${entry.id}/`}>{entry.data.title}</a>
-          <p>{entry.data.summary}</p>
+          <a class="title" href={localePath(locale, `/entries/${entry.id}/`)} lang={lang}>{text.title}</a>
+          <p lang={lang}>{text.summary}</p>
           <div class="tags">
             {entry.data.tags.map((ref) => {
               const tag = tagById.get(ref.id)!;
               return (
-                <a class="chip" style={`--chip:${tag.data.color}`} href={`/tags/${tag.id}/`}>
-                  {tag.data.label}
+                <a class="chip" style={`--chip:${tag.data.color}`} href={localePath(locale, `/tags/${tag.id}/`)}>
+                  {tagText(tag, locale).label}
                 </a>
               );
             })}
           </div>
         </div>
       </li>
-    ))
+      );
+    })
   }
 </ol>
 

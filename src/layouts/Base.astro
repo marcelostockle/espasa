@@ -1,52 +1,67 @@
 ---
+import { localeNames, localePath, locales, stripLocale, t, toLocale } from '../lib/i18n';
+
 interface Props {
   title?: string;
   description?: string;
 }
-const { title, description = 'A cross-topic timeline of historical events.' } = Astro.props;
+const locale = toLocale(Astro.currentLocale);
+const strings = t(locale);
+const { title, description = strings.tagline } = Astro.props;
 const fullTitle = title ? `${title} · Espasa` : 'Espasa';
+const path = stripLocale(Astro.url.pathname);
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={locale}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    {locales.map((l) => <link rel="alternate" hreflang={l} href={localePath(l, path)} />)}
     <title>{fullTitle}</title>
   </head>
   <body>
     <header class="site">
-      <a class="brand" href="/">Espasa</a>
+      <a class="brand" href={localePath(locale, '/')}>Espasa</a>
       <nav>
-        <a href="/eras/">Eras</a>
-        <a href="/compare/">Compare topics</a>
+        <a href={localePath(locale, '/eras/')}>{strings.eras}</a>
+        <a href={localePath(locale, '/compare/')}>{strings.compare}</a>
+        <span class="langs" aria-label={strings.language}>
+          {
+            locales.map((l) =>
+              l === locale ? (
+                <span aria-current="true" lang={l}>{localeNames[l]}</span>
+              ) : (
+                <a class="switch" href={localePath(l, path)} lang={l} hreflang={l}>{localeNames[l]}</a>
+              ),
+            )
+          }
+        </span>
       </nav>
     </header>
     <main>
       <slot />
     </main>
     <aside class="disclaimer">
-      <h2>About this site</h2>
+      <h2>{strings.aboutTitle}</h2>
       <ul>
-        <li>
-          <strong>Not an authoritative source.</strong> Espasa was built for educational purposes only. For
-          anything that matters, check primary sources and scholarly references.
-        </li>
-        <li>
-          <strong>Errors are possible.</strong> Some facts, dates and interpretations may be inaccurate or
-          incomplete, especially for ancient or disputed events.
-        </li>
-        <li>
-          <strong>Made with AI.</strong> Entries were drafted with the help of an AI model, checked against
-          web sources, and reviewed by a human before publication.
-        </li>
-        <li>
-          <strong>Corrections and new entries.</strong> There is no public submission process yet.
-        </li>
+        {
+          strings.about.map(([lead, rest]) => (
+            <li>
+              <strong>{lead}</strong> {rest}
+            </li>
+          ))
+        }
       </ul>
     </aside>
+    <script>
+      // Keep the page's query string (e.g. the Compare view's selection) when switching language.
+      document.querySelectorAll<HTMLAnchorElement>('a.switch').forEach((a) => {
+        a.href += location.search + location.hash;
+      });
+    </script>
   </body>
 </html>
 
@@ -85,6 +100,8 @@ const fullTitle = title ? `${title} · Espasa` : 'Espasa';
   header.site nav { display: flex; gap: 1.25rem; }
   header.site nav a { color: var(--muted); text-decoration: none; }
   header.site nav a:hover { color: var(--fg); }
+  header.site .langs { display: flex; gap: 0.6rem; padding-left: 1.25rem; border-left: 1px solid var(--line); font-size: 0.9rem; }
+  header.site .langs [aria-current] { color: var(--fg); font-weight: 600; }
   main { margin: 0 auto; padding: 1.5rem 4rem 4rem; }
   h1 { line-height: 1.2; }
   .disclaimer { margin: 0 4rem; padding: 1.5rem 0 3rem; border-top: 1px solid var(--line); }

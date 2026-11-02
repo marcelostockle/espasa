@@ -1,13 +1,20 @@
 ---
 import { getCollection } from 'astro:content';
-import Base from '../layouts/Base.astro';
-import Search from '../components/Search.astro';
-import { getSortedEntries, getTags, groupTagsByCategory } from '../lib/entries';
-import { getEraBuckets, formatEraRange } from '../lib/eras';
+import Base from '../../layouts/Base.astro';
+import Search from '../../components/Search.astro';
+import { getSortedEntries, getTags, groupTagsByCategory } from '../../lib/entries';
+import { getEraBuckets, formatEraRange } from '../../lib/eras';
+import { categoryName, localePath, localeStaticPaths, t, toLocale } from '../../lib/i18n';
+import { eraLabel, featuredText, tagText } from '../../lib/localize';
+
+export const getStaticPaths = localeStaticPaths;
+
+const locale = toLocale(Astro.currentLocale);
+const strings = t(locale);
 
 const [entries, tags, buckets, featured] = await Promise.all([
   getSortedEntries(),
-  getTags(),
+  getTags(locale),
   getEraBuckets(),
   getCollection('featured'),
 ]);
@@ -16,7 +23,8 @@ const counts = new Map<string, number>();
 for (const e of entries) for (const t of e.data.tags) counts.set(t.id, (counts.get(t.id) ?? 0) + 1);
 
 const groups = groupTagsByCategory(
-  tags.map((t) => ({ id: t.id, ...t.data, count: counts.get(t.id) ?? 0 })),
+  tags.map((tag) => ({ id: tag.id, ...tag.data, label: tagText(tag, locale).label, count: counts.get(tag.id) ?? 0 })),
+  locale,
 );
 const eras = buckets.filter((b) => b.entries.length);
 
@@ -24,15 +32,14 @@ function compareUrl(f: (typeof featured)[number]) {
   const params = new URLSearchParams({ tags: f.data.tags.map((t) => t.id).join(',') });
   if (f.data.from !== undefined) params.set('from', String(f.data.from));
   if (f.data.to !== undefined) params.set('to', String(f.data.to));
-  return `/compare/?${params}`;
+  return `${localePath(locale, '/compare/')}?${params}`;
 }
 ---
 
 <Base>
-  <h1>History, side by side</h1>
+  <h1>{strings.homeTitle}</h1>
   <p class="intro">
-    Events from every field of human activity, set against one another in time. Explore a topic,
-    or put several on the same timeline.
+    {strings.homeIntro}
   </p>
 
   <Search />
@@ -40,12 +47,12 @@ function compareUrl(f: (typeof featured)[number]) {
   {
     featured.length > 0 && (
       <section>
-        <h2>Start here</h2>
+        <h2>{strings.startHere}</h2>
         <ul class="featured">
           {featured.map((f) => (
             <li>
-              <a href={compareUrl(f)}>{f.data.title}</a>
-              <p>{f.data.description}</p>
+              <a href={compareUrl(f)}>{featuredText(f, locale).title}</a>
+              <p>{featuredText(f, locale).description}</p>
             </li>
           ))}
         </ul>
@@ -54,15 +61,15 @@ function compareUrl(f: (typeof featured)[number]) {
   }
 
   <section>
-    <h2>Topics</h2>
+    <h2>{strings.topics}</h2>
     <div class="groups">
       {
         groups.map((group) => (
           <div>
-            <h3>{group.category}</h3>
+            <h3>{categoryName(group.category, locale)}</h3>
             <p>
               {group.tags.map((tag) => (
-                <a class="chip" style={`--chip:${tag.color}`} href={`/tags/${tag.id}/`}>
+                <a class="chip" style={`--chip:${tag.color}`} href={localePath(locale, `/tags/${tag.id}/`)}>
                   {tag.label} <span class="n">{tag.count}</span>
                 </a>
               ))}
@@ -74,13 +81,13 @@ function compareUrl(f: (typeof featured)[number]) {
   </section>
 
   <section>
-    <h2>By era</h2>
+    <h2>{strings.byEra}</h2>
     <ul class="eras">
       {
         eras.map(({ era, entries }) => (
           <li>
-            <a href={`/eras/${era.id}/`}>{era.data.label}</a>
-            <span class="date">{formatEraRange(era)} · {entries.length}</span>
+            <a href={localePath(locale, `/eras/${era.id}/`)}>{eraLabel(era, locale)}</a>
+            <span class="date">{formatEraRange(era, locale)} · {entries.length}</span>
           </li>
         ))
       }

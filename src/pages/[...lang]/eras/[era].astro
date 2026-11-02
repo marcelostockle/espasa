@@ -1,0 +1,47 @@
+---
+import Base from '../../../layouts/Base.astro';
+import EntryList from '../../../components/EntryList.astro';
+import { getTags } from '../../../lib/entries';
+import { getEraBuckets, formatEraRange } from '../../../lib/eras';
+import { localePath, locales, toLocale } from '../../../lib/i18n';
+import { eraLabel } from '../../../lib/localize';
+
+export async function getStaticPaths() {
+  const buckets = await getEraBuckets();
+  const populated = buckets.filter((b) => b.entries.length);
+  return (
+    await Promise.all(
+      locales.map(async (locale) => {
+        const tags = await getTags(locale);
+        return populated.map((bucket, i) => ({
+          params: { lang: locale === 'en' ? undefined : locale, era: bucket.era.id },
+          props: { bucket, tags, prev: populated[i - 1]?.era, next: populated[i + 1]?.era },
+        }));
+      }),
+    )
+  ).flat();
+}
+
+const { bucket, tags, prev, next } = Astro.props;
+const locale = toLocale(Astro.currentLocale);
+---
+
+<Base title={eraLabel(bucket.era, locale)}>
+  <p class="date">{formatEraRange(bucket.era, locale)}</p>
+  <h1>{eraLabel(bucket.era, locale)}</h1>
+  <EntryList entries={bucket.entries} tags={tags} />
+  <nav class="adjacent">
+    {prev ? <a href={localePath(locale, `/eras/${prev.id}/`)}>← {eraLabel(prev, locale)}</a> : <span />}
+    {next ? <a href={localePath(locale, `/eras/${next.id}/`)}>{eraLabel(next, locale)} →</a> : <span />}
+  </nav>
+</Base>
+
+<style>
+  .adjacent {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--line);
+  }
+</style>

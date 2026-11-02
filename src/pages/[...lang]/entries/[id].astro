@@ -1,0 +1,78 @@
+---
+import { render } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import Nearby from '../../../components/Nearby.astro';
+import { getNearbyEntries, getSortedEntries, getTags } from '../../../lib/entries';
+import { localePath, locales, t, toLocale } from '../../../lib/i18n';
+import { entryText, tagText } from '../../../lib/localize';
+import { formatRange } from '../../../lib/time';
+
+export async function getStaticPaths() {
+  const entries = await getSortedEntries();
+  return (
+    await Promise.all(
+      locales.map(async (locale) => {
+        const tags = await getTags(locale);
+        return entries.map((entry) => ({
+          params: { lang: locale === 'en' ? undefined : locale, id: entry.id },
+          props: { entry, tags, nearby: getNearbyEntries(entry, entries) },
+        }));
+      }),
+    )
+  ).flat();
+}
+
+const { entry, tags, nearby } = Astro.props;
+const locale = toLocale(Astro.currentLocale);
+const strings = t(locale);
+const text = entryText(entry, locale);
+const textLang = text.lang !== locale ? text.lang : undefined;
+const { Content } = await render(entry);
+const tagById = new Map(tags.map((t) => [t.id, t]));
+---
+
+<Base title={text.title} description={text.summary}>
+  <article data-pagefind-body>
+    <p class="date">{formatRange(entry.data.date, entry.data.end, locale)}</p>
+    <h1 lang={textLang}>{text.title}</h1>
+    <p class="lede" lang={textLang}>{text.summary}</p>
+    <div class="tags">
+      {
+        entry.data.tags.map((ref) => {
+          const tag = tagById.get(ref.id)!;
+          return (
+            <a class="chip" style={`--chip:${tag.data.color}`} href={localePath(locale, `/tags/${tag.id}/`)}>
+              {tagText(tag, locale).label}
+            </a>
+          );
+        })
+      }
+    </div>
+    <Content />
+    {
+      entry.data.sources.length > 0 && (
+        <section class="sources" data-pagefind-ignore>
+          <h2>{strings.sources}</h2>
+          <ul>
+            {entry.data.sources.map((url) => (
+              <li>
+                <a href={url} rel="noopener noreferrer" title={url}>
+                  {new URL(url).hostname.replace(/^www\./, '')}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+  </article>
+  <Nearby current={entry} nearby={nearby} tagById={tagById} />
+</Base>
+
+<style>
+  .lede { font-size: 1.15rem; }
+  .sources { margin-top: 2rem; font-size: 0.9rem; color: var(--muted); }
+  .sources h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; margin: 0 0 0.25rem; }
+  .sources ul { margin: 0; padding-left: 1.1rem; }
+  .tags { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+</style>

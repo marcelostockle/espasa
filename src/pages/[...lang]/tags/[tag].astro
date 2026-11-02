@@ -1,0 +1,45 @@
+---
+import Base from '../../../layouts/Base.astro';
+import EntryList from '../../../components/EntryList.astro';
+import { getSortedEntries, getTags } from '../../../lib/entries';
+import { categoryName, localePath, locales, t, toLocale } from '../../../lib/i18n';
+import { tagText } from '../../../lib/localize';
+
+export async function getStaticPaths() {
+  const entries = await getSortedEntries();
+  return (
+    await Promise.all(
+      locales.map(async (locale) => {
+        const tags = await getTags(locale);
+        return tags.map((tag) => ({
+          params: { lang: locale === 'en' ? undefined : locale, tag: tag.id },
+          props: {
+            tag,
+            tags,
+            entries: entries.filter((e) => e.data.tags.some((t) => t.id === tag.id)),
+          },
+        }));
+      }),
+    )
+  ).flat();
+}
+
+const { tag, tags, entries } = Astro.props;
+const locale = toLocale(Astro.currentLocale);
+const strings = t(locale);
+const text = tagText(tag, locale);
+---
+
+<Base title={text.label} description={text.description}>
+  <h1 style={`color:${tag.data.color}`}>{text.label}</h1>
+  {text.description && <p class="date">{text.description}</p>}
+  {
+    tag.data.categories?.length > 0 && (
+      <p class="date">
+        {strings.category}: {tag.data.categories.map((c) => categoryName(c, locale)).join(', ')}
+      </p>
+    )
+  }
+  <p><a href={`${localePath(locale, '/compare/')}?tags=${tag.id}`}>{strings.compareWithOthers}</a></p>
+  <EntryList entries={entries} tags={tags} />
+</Base>

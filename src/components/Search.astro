@@ -1,9 +1,18 @@
+---
+import { t, toLocale } from '../lib/i18n';
+
+const strings = t(toLocale(Astro.currentLocale));
+---
+
 <div class="search">
-  <input id="q" type="search" placeholder="Search entries…" aria-label="Search entries" autocomplete="off" />
+  <input id="q" type="search" placeholder={strings.searchPlaceholder} aria-label={strings.searchLabel} autocomplete="off" />
   <ul id="results" aria-live="polite"></ul>
 </div>
 
 <script>
+  import { t, toLocale } from '../lib/i18n';
+
+  const strings = t(toLocale(document.documentElement.lang));
   const input = document.getElementById('q') as HTMLInputElement;
   const list = document.getElementById('results')!;
   let pagefind: any;
@@ -33,10 +42,10 @@
       list.replaceChildren();
       if (!q) return;
       const pf = await load();
-      if (!pf) return message('Search is available in the built site.');
+      if (!pf) return message(strings.searchUnavailable);
       const { results } = await pf.search(q);
       const top = await Promise.all(results.slice(0, 8).map((r: any) => r.data()));
-      if (!top.length) return message('No matches.');
+      if (!top.length) return message(strings.noMatches);
       for (const r of top) {
         const li = document.createElement('li');
         const a = Object.assign(document.createElement('a'), { href: r.url, textContent: r.meta.title ?? r.url });

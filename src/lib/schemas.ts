@@ -14,12 +14,17 @@ export const historicalDate = z
     message: 'A day requires a month',
   });
 
+/** Translations sit next to the English source, keyed by locale. English is the source of truth. */
+const translated = <T extends z.ZodRawShape>(shape: T) =>
+  z.object({ es: z.object(shape) }).partial().optional();
+
 export const tagFields = z.object({
   label: z.string(),
   color: z.string().regex(/^#[0-9a-fA-F]{6}$/, 'Use a #rrggbb color'),
   description: z.string().optional(),
   // Free-form grouping labels; categories exist only by being named here.
   categories: z.array(z.string().trim().min(1)).default([]),
+  translations: translated({ label: z.string(), description: z.string().optional() }),
 });
 
 /** Entry frontmatter minus `tags`, which the site validates as references. */
@@ -32,6 +37,7 @@ export const entryFields = z.object({
   sources: z
     .array(z.string().url().refine((u) => /^https?:\/\//i.test(u), 'Use an http(s) URL'))
     .default([]),
+  translations: translated({ title: z.string(), summary: z.string().max(280) }),
 });
 
 export const eraFields = z
@@ -39,6 +45,7 @@ export const eraFields = z
     label: z.string(),
     start: z.number().int(), // inclusive
     end: z.number().int(), // exclusive
+    translations: translated({ label: z.string() }),
   })
   .refine((e) => e.start < e.end, { message: 'start must be before end' });
 
@@ -47,4 +54,5 @@ export const featuredFields = z.object({
   description: z.string(),
   from: z.number().int().optional(),
   to: z.number().int().optional(),
+  translations: translated({ title: z.string(), description: z.string() }),
 });

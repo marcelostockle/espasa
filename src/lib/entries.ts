@@ -1,4 +1,6 @@
 import { getCollection } from 'astro:content';
+import { categoryName, type Locale } from './i18n';
+import { tagText } from './localize';
 import { sortKey } from './time';
 
 export async function getSortedEntries() {
@@ -26,9 +28,9 @@ export function getNearbyEntries(entry: Entry, entries: Entry[], count = 5): Ent
     .sort((a, b) => sortKey(a.data.date) - sortKey(b.data.date));
 }
 
-export async function getTags() {
+export async function getTags(locale: Locale = 'en') {
   const tags = await getCollection('tags');
-  return tags.sort((a, b) => a.data.label.localeCompare(b.data.label));
+  return tags.sort((a, b) => tagText(a, locale).label.localeCompare(tagText(b, locale).label, locale));
 }
 
 export const UNCATEGORIZED = 'Other';
@@ -36,6 +38,7 @@ export const UNCATEGORIZED = 'Other';
 /** Groups tags by category; a tag appears under each of its categories. */
 export function groupTagsByCategory<T extends { label: string; categories: string[] }>(
   tags: T[],
+  locale: Locale = 'en',
 ): { category: string; tags: T[] }[] {
   const groups = new Map<string, T[]>();
   for (const tag of tags) {
@@ -45,6 +48,6 @@ export function groupTagsByCategory<T extends { label: string; categories: strin
   return [...groups]
     .map(([category, tags]) => ({ category, tags }))
     .sort((a, b) =>
-      a.category === UNCATEGORIZED ? 1 : b.category === UNCATEGORIZED ? -1 : a.category.localeCompare(b.category),
+      a.category === UNCATEGORIZED ? 1 : b.category === UNCATEGORIZED ? -1 : categoryName(a.category, locale).localeCompare(categoryName(b.category, locale), locale),
     );
 }

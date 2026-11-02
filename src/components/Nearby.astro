@@ -1,34 +1,37 @@
 ---
+import { localePath, t, toLocale } from '../lib/i18n';
+import { entryText, tagText } from '../lib/localize';
 import { formatRange, sortKey } from '../lib/time';
 
 const { current, nearby, tagById } = Astro.props;
 
+const locale = toLocale(Astro.currentLocale);
 const currentKey = sortKey(current.data.date);
 const before = nearby.filter((e) => sortKey(e.data.date) < currentKey);
 const after = nearby.filter((e) => sortKey(e.data.date) >= currentKey);
 ---
 
 <aside class="nearby" data-pagefind-ignore>
-  <h2>Around that time…</h2>
+  <h2>{t(locale).nearby}</h2>
   <ul>
     {
       [...before, null, ...after].map((e) =>
         e === null ? (
           <li class="here" aria-current="true">
-            <span class="date">{formatRange(current.data.date, current.data.end)}</span>
-            <span class="title">{current.data.title}</span>
+            <span class="date">{formatRange(current.data.date, current.data.end, locale)}</span>
+            <span class="title">{entryText(current, locale).title}</span>
           </li>
         ) : (
           <li>
-            <span class="date">{formatRange(e.data.date, e.data.end)}</span>
-            <a class="title" href={`/entries/${e.id}/`}>{e.data.title}</a>
+            <span class="date">{formatRange(e.data.date, e.data.end, locale)}</span>
+            <a class="title" href={localePath(locale, `/entries/${e.id}/`)} lang={entryText(e, locale).lang !== locale ? entryText(e, locale).lang : undefined}>{entryText(e, locale).title}</a>
             <span class="tags">
               {e.data.tags.map((ref) => {
                 const tag = tagById.get(ref.id);
                 return (
                   tag && (
-                    <a class="chip" style={`--chip:${tag.data.color}`} href={`/tags/${tag.id}/`}>
-                      {tag.data.label}
+                    <a class="chip" style={`--chip:${tag.data.color}`} href={localePath(locale, `/tags/${tag.id}/`)}>
+                      {tagText(tag, locale).label}
                     </a>
                   )
                 );

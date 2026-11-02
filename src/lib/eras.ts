@@ -1,6 +1,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { formatYear } from './time';
 import { getSortedEntries } from './entries';
+import { t, type Locale } from './i18n';
 
 export interface EraBucket {
   era: CollectionEntry<'eras'>;
@@ -8,10 +9,10 @@ export interface EraBucket {
 }
 
 /** "476–1500", "3000 BCE – 476", or "before 3000 BCE" for open-ended beginnings. */
-export function formatEraRange(era: CollectionEntry<'eras'>): string {
+export function formatEraRange(era: CollectionEntry<'eras'>, locale: Locale = 'en'): string {
   const { start, end } = era.data;
-  if (start <= -100000) return `before ${formatYear(end)}`;
-  return `${formatYear(start)} – ${formatYear(end - 1)}`;
+  if (start <= -100000) return `${t(locale).before} ${formatYear(end, locale)}`;
+  return `${formatYear(start, locale)} – ${formatYear(end - 1, locale)}`;
 }
 
 /**
