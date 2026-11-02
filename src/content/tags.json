@@ -144,6 +144,14 @@
       "States"
     ]
   },
+  "haitian-independence-debt": {
+    "label": "Haitian independence debt",
+    "color": "#2962ff",
+    "description": "The indemnity France demanded from Haiti in 1825 for recognising its independence, the loans taken to pay it, and the foreign banks and powers that profited from or controlled Haiti's finances until the debts ended in 1947.",
+    "categories": [
+      "Society"
+    ]
+  },
   "haitian-revolution": {
     "label": "Haitian Revolution",
     "color": "#ffab00",

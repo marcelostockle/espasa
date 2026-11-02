@@ -1,0 +1,9 @@
+---
+title: "Haiti finishes paying the 1825 indemnity to France"
+summary: "Sources disagree on when the indemnity itself was settled: Wikipedia's text gives 1883 and notes France acknowledged the 90 million francs in 1888, while a BnF chronology says 1878. Haiti's later loans kept its debts going."
+date: {"year":1883,"circa":true}
+tags: ["haitian-independence-debt","haiti","french-monarchy"]
+sources: ["https://en.wikipedia.org/wiki/Haitian_independence_debt","https://heritage.bnf.fr/france-ameriques/en/haitis-independence-debt-slave-unit-account-1794-1922"]
+---
+
+
