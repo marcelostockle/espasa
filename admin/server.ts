@@ -194,8 +194,11 @@ async function route(req: IncomingMessage, res: ServerResponse) {
     const list = all
       .filter((e): e is store.StoredEntry => e !== null)
       .filter((e) => !tag || e.tags.includes(tag))
-      .filter((e) => !q || `${e.title} ${e.summary} ${e.body}`.toLowerCase().includes(q))
-      .map(({ id, title, summary, date, end, tags }) => ({ id, title, summary, date, end, tags }));
+      .filter((e) => !q || `${e.title} ${e.summary} ${e.body} ${Object.values(e.translations ?? {}).map((t) => `${t.title} ${t.summary}`).join(' ')}`.toLowerCase().includes(q))
+      .map(({ id, title, summary, date, end, tags, translations }) => ({
+        id, title, summary, date, end, tags,
+        translations, // per-locale { title, summary }; a locale is missing when the entry is untranslated
+      }));
     return send(res, 200, list);
   }
   if (path === '/api/entries' && method === 'POST') {

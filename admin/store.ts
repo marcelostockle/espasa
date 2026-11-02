@@ -18,6 +18,7 @@ export interface StoredEntry {
   end?: Record<string, unknown>;
   tags: string[];
   sources: string[];
+  translations?: Record<string, { title?: string; summary?: string }>;
   body: string;
 }
 
@@ -86,6 +87,7 @@ export async function writeEntry(e: StoredEntry) {
     ...(e.end ? [`end: ${J(compactDate(e.end))}`] : []),
     `tags: ${J(e.tags)}`,
     ...(e.sources.length ? [`sources: ${J(e.sources)}`] : []),
+    ...(e.translations && Object.keys(e.translations).length ? [`translations: ${J(e.translations)}`] : []),
     '---',
     '',
     e.body.trim(),
