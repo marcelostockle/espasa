@@ -39,7 +39,9 @@ Both skills stop after the dry run and a report. **Neither imports anything unle
 - Free text after the command is read as instructions, so give direction: scope, count, period, tag preferences, source preferences. Example: `/research-events the life of Leonardo da Vinci, only his scientific work, about 8 entries`.
 - It reads the existing tags first and reuses them. It creates a new tag only when none fits.
 - Every entry needs at least one source URL.
+- Every entry comes with its Spanish `translations.es` (title and summary), and every new tag with a Spanish label and description. See **Languages** below.
 - Events it can't source are left out, not guessed.
+- Writes the Spanish title and summary of every entry (and the Spanish label and description of any new tag) into the draft, and lists in its report any phrasing it was unsure of.
 
 ### `/retag`
 - Uses a **cheap candidate search** (keywords and shared tags), not a full sweep. Some misses are accepted.
@@ -47,6 +49,7 @@ Both skills stop after the dry run and a report. **Neither imports anything unle
 - The tag's **description is the matching criterion**. Write a clear one-sentence description when you create a tag.
 - It proposes additions only, unless you ask for removals.
 - Applying a retag changes only the `tags:` line of each entry, so `git diff` shows exactly what changed.
+- A new tag it designs includes its Spanish label and description. Matching is judged from the English text.
 
 ## Rules for the content
 
@@ -61,10 +64,19 @@ Both skills stop after the dry run and a report. **Neither imports anything unle
 - Each entry should make sense on its own, next to events from other fields: name the people and places.
 - Every entry has at least one tag and should have at least one `sources` URL (http/https only).
 - Ids are lowercase letters, digits and single hyphens; they become the file name and the URL.
+- Spanish text lives in the same file, in a `translations:` frontmatter line: `translations: {"es":{"title":"…","summary":"…"}}`. The English title and summary stay the source of truth.
+
+**Languages**
+- The site is English at the root and Spanish under `/es/`. Spanish text is stored beside the English: `translations.es` on entries (`title`, `summary` ≤ 280 chars), tags (`label`, `description`), eras (`label`) and featured items (`title`, `description`).
+- Anything without a Spanish version still shows on the Spanish pages, in English and marked `lang="en"`, so a missing translation never hides content.
+- Category names stay as plain English text in the data; their Spanish display names are in `src/lib/i18n.ts` (`categories`). A new category needs an entry there.
+- Interface text and the date format are in `src/lib/i18n.ts` and `src/lib/time.ts`.
+- Translations are drafted by the skills and reviewed by a native speaker; nothing about review is enforced by the tools.
+- `eras.json` and `featured.json` are hand-edited, so add their `translations.es` by hand too.
 
 **Tags**
 - Reuse before creating. A near-duplicate tag splits the timeline.
-- A tag has a label, a `#rrggbb` color distinct from existing ones, a description, and optional categories.
+- A tag has a label, a `#rrggbb` color distinct from existing ones, a description, optional categories, and a Spanish label and description.
 - **Categories are plain text matched exactly.** `Culture` and `culture` are different categories. Pick an existing one from the Tags tab whenever possible.
 - **Categories in use:**
   - `States`: governments and polities (kingdoms, empires, dynasties, caliphates).
@@ -83,6 +95,7 @@ Both skills stop after the dry run and a report. **Neither imports anything unle
 - **Uncertain items**: circa dates, entries where sources disagreed, weak sources. The report lists them.
 - **Medium-confidence** retag matches (listed by name in the report).
 - **Skipped** entries that already exist.
+- The Spanish text: facts, dates and caveats match the English, summaries fit in 280 characters, names use their usual Spanish forms.
 - Spot-check a few dates against their source; the AI summarizes search results and can be wrong.
 
 ## Files and what edits them

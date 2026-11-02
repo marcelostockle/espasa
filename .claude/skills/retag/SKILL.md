@@ -13,6 +13,7 @@ Input: $ARGUMENTS
 - **Cheap candidate search, not an exhaustive sweep.** Find plausible candidates with the API's text search and tag overlap, then judge only those. A few misses are acceptable, especially for very broad tags (war, politics); specific tags should match easily.
 - **Precision over recall.** A wrong tag is worse than a missing one. Add a tag only when the event is genuinely relevant to the topic, not merely mentioning it.
 - **Only titles and summaries**, read from the list endpoint. Read an entry's body (`GET /api/entries/:id`) only when title and summary are truly ambiguous.
+- Judge from the **English** title and summary; ignore the `translations` field the list endpoint may return.
 - Only propose **additions** unless the user explicitly asks for removals.
 
 ## Procedure
@@ -47,7 +48,7 @@ Input: $ARGUMENTS
      For a **new** tag, add a `tags` block with its definition. The tag is created and applied in one all-or-nothing step:
      ```json
      {
-       "tags": { "<tag-id>": { "label": "…", "color": "#aabbcc", "description": "…", "categories": ["Figures"] } },
+       "tags": { "<tag-id>": { "label": "…", "color": "#aabbcc", "description": "…", "categories": ["Figures"], "translations": { "es": { "label": "…", "description": "…" } } } },
        "add": { "<tag-id>": ["entry-id-1"] }
      }
      ```
@@ -73,4 +74,5 @@ The description is both the public definition and your matching criterion, so wr
 - **id**: lowercase letters, digits and single hyphens (`medici`, not `Medici Family`). **label**: how it reads in the UI.
 - **color**: `#rrggbb`, visibly different from existing tag colors (check `GET /api/tags`).
 - **categories**: reuse an existing category name **exactly** as spelled. Add a new category only if none fits, and mention it in the report.
+- **translations.es**: every new tag needs a Spanish `label` and `description` (natural Spanish, established forms of names, same scope as the English). The site is bilingual, and a tag without them shows its English label on the Spanish pages.
 - Prefer specific tags (a person, a place, an institution). They are cheap to apply accurately.

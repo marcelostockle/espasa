@@ -10,7 +10,7 @@ Topic: $ARGUMENTS
 
 ## What an entry is
 
-One historically relevant, dated event: **title, summary, date, tags, sources**. No article body. Entries across all topics share one chronology, so each must stand alone: a reader seeing "1503" next to events from other fields should understand it without the rest of the topic. Name people and places in the title or summary.
+One historically relevant, dated event: **title, summary, Spanish translation of both, date, tags, sources**. No article body. Entries across all topics share one chronology, so each must stand alone: a reader seeing "1503" next to events from other fields should understand it without the rest of the topic. Name people and places in the title or summary.
 
 Schema reference: `src/lib/schemas.ts`. Import format and rules: `admin/README.md`.
 
@@ -32,12 +32,14 @@ Schema reference: `src/lib/schemas.ts`. Import format and rules: `admin/README.m
 
 6. **Write summaries.** One or two plain sentences, at most 280 characters, factual and neutral. No `body`.
 
-7. **Tag.** Each entry needs at least one tag, and usually two to four: the topics where the event is relevant, not just the subject's own field (for example, a patron's political context). Tag ids are lowercase letters, digits and single hyphens. New tags need `label`, `color` (`#rrggbb`, distinct from existing tag colors) and `categories`; reuse existing category names **exactly** as spelled, and add a category only if none fits.
+   **Translate.** The site is bilingual (English source, Spanish at `/es/`). Every entry carries `translations.es` with a Spanish `title` and `summary`. Translate from your final English text, keep the same facts, dates and caveats ("c.", "sources disagree"), and keep the Spanish summary within the same 280-character limit (Spanish runs longer, so tighten it). Natural neutral Spanish, not word-for-word: dates as "31 de marzo de 1492", BCE as "a. C.", "c." for circa; use established Spanish forms of names and places (La Española, Cristóbal Colón, Kublai Kan) and leave titles of works in their original language unless a Spanish title is standard. A native speaker reviews the Spanish later, so flag anything you were unsure how to render.
+
+7. **Tag.** Each entry needs at least one tag, and usually two to four: the topics where the event is relevant, not just the subject's own field (for example, a patron's political context). Tag ids are lowercase letters, digits and single hyphens. New tags need `label`, `color` (`#rrggbb`, distinct from existing tag colors), `categories` and a one-sentence `description`, plus `translations.es` with the Spanish `label` and `description`; reuse existing category names **exactly** as spelled, and add a category only if none fits.
 
 8. **Write the draft** to `admin/drafts/<topic-slug>.json` (that folder is gitignored):
    ```json
    {
-     "tags": { "new-tag": { "label": "…", "color": "#aabbcc", "categories": ["Culture"] } },
+     "tags": { "new-tag": { "label": "…", "color": "#aabbcc", "description": "…", "categories": ["Culture"], "translations": { "es": { "label": "…", "description": "…" } } } },
      "entries": [
        {
          "id": "optional-slug",
@@ -45,7 +47,8 @@ Schema reference: `src/lib/schemas.ts`. Import format and rules: `admin/README.m
          "summary": "…",
          "date": { "year": 1503, "circa": true },
          "tags": ["art"],
-         "sources": ["https://…"]
+         "sources": ["https://…"],
+         "translations": { "es": { "title": "…", "summary": "…" } }
        }
      ]
    }
@@ -58,6 +61,7 @@ Schema reference: `src/lib/schemas.ts`. Import format and rules: `admin/README.m
     - the draft's path and how many entries it holds;
     - **new tags** you propose, with their categories;
     - entries skipped because they already exist;
+    - **Spanish**: confirmation that every entry and new tag has a translation, and any phrasing you were unsure of;
     - **uncertain items**: any date you set as circa, any where sources disagreed, any with only a weak source;
     - how to import: paste the file into the Import tab at http://localhost:4322 (dry run first), or `POST /api/import`.
 
