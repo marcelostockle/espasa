@@ -128,6 +128,14 @@
       "Society"
     ]
   },
+  "haitian-revolution": {
+    "label": "Haitian Revolution",
+    "color": "#ffab00",
+    "description": "The slave uprising and revolution in French Saint-Domingue, from the free people of color's struggle for rights in 1790 to the independence of Haiti in 1804, including the French, Spanish and British interventions.",
+    "categories": [
+      "Society"
+    ]
+  },
   "hispaniola": {
     "label": "Hispaniola",
     "color": "#8bc34a",
