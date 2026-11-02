@@ -63,6 +63,14 @@
       "Peoples"
     ]
   },
+  "chile": {
+    "label": "Chile",
+    "color": "#ffab91",
+    "description": "The territory of present-day Chile as a place: its coast, Spanish colonial rule and the Mapuche, from the Spanish arrival in 1536 to independence in 1818.",
+    "categories": [
+      "Places"
+    ]
+  },
   "christopher-columbus": {
     "label": "Christopher Columbus",
     "color": "#006064",
