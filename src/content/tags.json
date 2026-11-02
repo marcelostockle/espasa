@@ -55,6 +55,14 @@
       "States"
     ]
   },
+  "christopher-columbus": {
+    "label": "Christopher Columbus",
+    "color": "#006064",
+    "description": "Christopher Columbus (c. 1451-1506), Genoese navigator who led four Spanish voyages across the Atlantic from 1492.",
+    "categories": [
+      "People"
+    ]
+  },
   "counter-reformation": {
     "label": "Counter-Reformation",
     "color": "#90a4ae",
