@@ -112,6 +112,14 @@
       "Society"
     ]
   },
+  "hispaniola": {
+    "label": "Hispaniola",
+    "color": "#8bc34a",
+    "description": "The island of Hispaniola (today Haiti and the Dominican Republic) as a place: Spanish Santo Domingo, French Saint-Domingue and the events that shaped and divided the island, from 1492 to 1844.",
+    "categories": [
+      "Places"
+    ]
+  },
   "holy-roman-empire": {
     "label": "Holy Roman Empire",
     "color": "#ce93d8",
