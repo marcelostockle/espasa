@@ -306,6 +306,14 @@
       "States"
     ]
   },
+  "taino": {
+    "label": "Taíno",
+    "color": "#0288d1",
+    "description": "The Taíno, the Indigenous peoples of the Greater Antilles and the Bahamas, and their encounter with Spanish colonisation from 1492 to the mid-16th century.",
+    "categories": [
+      "Society"
+    ]
+  },
   "technology": {
     "label": "Technology",
     "color": "#e08a1e",
