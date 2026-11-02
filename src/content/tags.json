@@ -96,6 +96,14 @@
       "Society"
     ]
   },
+  "francis-drake": {
+    "label": "Francis Drake",
+    "color": "#a64d79",
+    "description": "Sir Francis Drake (c. 1540-1596), English privateer and naval commander who raided the Spanish Americas and circumnavigated the globe.",
+    "categories": [
+      "Figures"
+    ]
+  },
   "french-monarchy": {
     "label": "French monarchy",
     "color": "#1f3a93",
