@@ -87,6 +87,14 @@
       "Culture"
     ]
   },
+  "dominican-republic": {
+    "label": "Dominican Republic",
+    "color": "#01579b",
+    "description": "The eastern part of Hispaniola and its path to a separate state: the Spanish colony of Santo Domingo after 1795, the Haitian occupation and the independence of 1844.",
+    "categories": [
+      "States"
+    ]
+  },
   "expansionism": {
     "label": "Expansionism",
     "color": "#00c853",
@@ -126,6 +134,14 @@
     "description": "The upheaval that ended the French monarchy and remade the state, 1789-1799.",
     "categories": [
       "Society"
+    ]
+  },
+  "haiti": {
+    "label": "Haiti",
+    "color": "#c51162",
+    "description": "The Haitian state from its independence in 1804 onward: its governments, its relations with France and the powers, and its rule over the whole of Hispaniola from 1822 to 1844.",
+    "categories": [
+      "States"
     ]
   },
   "haitian-revolution": {
