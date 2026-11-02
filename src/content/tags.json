@@ -363,6 +363,14 @@
       "Material culture"
     ]
   },
+  "toussaint-louverture": {
+    "label": "Toussaint Louverture",
+    "color": "#7c4dff",
+    "description": "Toussaint Louverture (c. 1743-1803), formerly enslaved general who led the Haitian Revolution and governed Saint-Domingue until his deportation to France in 1802.",
+    "categories": [
+      "Figures"
+    ]
+  },
   "united-kingdom": {
     "label": "United Kingdom",
     "color": "#546e7a",
