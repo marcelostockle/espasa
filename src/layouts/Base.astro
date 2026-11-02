@@ -27,6 +27,26 @@ const fullTitle = title ? `${title} · Espasa` : 'Espasa';
     <main>
       <slot />
     </main>
+    <aside class="disclaimer">
+      <h2>About this site</h2>
+      <ul>
+        <li>
+          <strong>Not an authoritative source.</strong> Espasa was built for educational purposes only. For
+          anything that matters, check primary sources and scholarly references.
+        </li>
+        <li>
+          <strong>Errors are possible.</strong> Some facts, dates and interpretations may be inaccurate or
+          incomplete, especially for ancient or disputed events.
+        </li>
+        <li>
+          <strong>Made with AI.</strong> Entries were drafted with the help of an AI model, checked against
+          web sources, and reviewed by a human before publication.
+        </li>
+        <li>
+          <strong>Corrections and new entries.</strong> There is no public submission process yet.
+        </li>
+      </ul>
+    </aside>
   </body>
 </html>
 
@@ -67,6 +87,17 @@ const fullTitle = title ? `${title} · Espasa` : 'Espasa';
   header.site nav a:hover { color: var(--fg); }
   main { margin: 0 auto; padding: 1.5rem 4rem 4rem; }
   h1 { line-height: 1.2; }
+  .disclaimer { margin: 0 4rem; padding: 1.5rem 0 3rem; border-top: 1px solid var(--line); }
+  .disclaimer h2 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin: 0 0 0.75rem;
+  }
+  .disclaimer ul { margin: 0; padding-left: 1.1rem; color: var(--muted); font-size: 0.9rem; max-width: 46rem; }
+  .disclaimer li + li { margin-top: 0.4rem; }
+  .disclaimer strong { color: var(--fg); font-weight: 600; }
   .chip {
     display: inline-block;
     padding: 0.05rem 0.55rem;
