@@ -52,7 +52,7 @@
     "color": "#ffcc80",
     "description": "The Canary Islands and their Indigenous peoples (Guanches and others), from the first European expeditions in the 14th century to the Castilian conquest completed in 1496.",
     "categories": [
-      "States"
+      "Peoples"
     ]
   },
   "christopher-columbus": {
@@ -60,7 +60,7 @@
     "color": "#006064",
     "description": "Christopher Columbus (c. 1451-1506), Genoese navigator who led four Spanish voyages across the Atlantic from 1492.",
     "categories": [
-      "People"
+      "Figures"
     ]
   },
   "counter-reformation": {
@@ -142,7 +142,7 @@
     "color": "#00b0ff",
     "description": "Kublai Khan (1215-1294), Great Khan of the Mongol Empire from 1260 and founder of the Yuan dynasty of China.",
     "categories": [
-      "People"
+      "Figures"
     ]
   },
   "leonardo-da-vinci": {
@@ -150,7 +150,7 @@
     "color": "#7a8b2e",
     "description": "The life and work of Leonardo da Vinci (1452-1519).",
     "categories": [
-      "People"
+      "Figures"
     ]
   },
   "marco-polo": {
@@ -158,7 +158,7 @@
     "color": "#aeea00",
     "description": "Marco Polo (c. 1254-1324), Venetian merchant whose travels in Asia and book, the Travels, shaped European knowledge of the East.",
     "categories": [
-      "People"
+      "Figures"
     ]
   },
   "ming-dynasty": {
@@ -190,7 +190,7 @@
     "color": "#4e342e",
     "description": "The life and career of Napoleon Bonaparte (1769-1821).",
     "categories": [
-      "People"
+      "Figures"
     ]
   },
   "napoleonic-wars": {
@@ -311,7 +311,7 @@
     "color": "#0288d1",
     "description": "The Taíno, the Indigenous peoples of the Greater Antilles and the Bahamas, and their encounter with Spanish colonisation from 1492 to the mid-16th century.",
     "categories": [
-      "Society"
+      "Peoples"
     ]
   },
   "technology": {
@@ -344,7 +344,7 @@
     "color": "#9fa8da",
     "description": "Zheng He (c. 1371-1433), Ming admiral and court eunuch who led the treasure voyages across the Indian Ocean.",
     "categories": [
-      "People"
+      "Figures"
     ]
   }
 }

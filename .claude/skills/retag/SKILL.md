@@ -47,7 +47,7 @@ Input: $ARGUMENTS
      For a **new** tag, add a `tags` block with its definition. The tag is created and applied in one all-or-nothing step:
      ```json
      {
-       "tags": { "<tag-id>": { "label": "…", "color": "#aabbcc", "description": "…", "categories": ["People"] } },
+       "tags": { "<tag-id>": { "label": "…", "color": "#aabbcc", "description": "…", "categories": ["Figures"] } },
        "add": { "<tag-id>": ["entry-id-1"] }
      }
      ```

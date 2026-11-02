@@ -66,6 +66,15 @@ Both skills stop after the dry run and a report. **Neither imports anything unle
 - Reuse before creating. A near-duplicate tag splits the timeline.
 - A tag has a label, a `#rrggbb` color distinct from existing ones, a description, and optional categories.
 - **Categories are plain text matched exactly.** `Culture` and `culture` are different categories. Pick an existing one from the Tags tab whenever possible.
+- **Categories in use:**
+  - `States`: governments and polities (kingdoms, empires, dynasties, caliphates).
+  - `Figures`: individual people, usually one tag per person.
+  - `Peoples`: collective groups and the places tied to them (a people, tribe or clan; an archipelago and its inhabitants) that are not states.
+  - `Society`: wars, politics, movements and themes.
+  - `Culture`: art, music, religion and ideas.
+  - `Knowledge` and `Material culture`: science, learning and technology.
+
+  A tag can have more than one category. Add a new category only when none fits, and update this list when you do.
 - Specific tags are cheap to apply accurately. Broad tags are better created before entries are written than applied afterwards.
 
 ## What to check in a draft before importing
