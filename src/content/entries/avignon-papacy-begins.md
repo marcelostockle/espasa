@@ -4,6 +4,7 @@ summary: "The French pope Clement V settled the papacy at Avignon, beginning a p
 date: {"year":1309}
 tags: ["french-monarchy","religion","politics"]
 sources: ["https://en.wikipedia.org/wiki/Philip_IV_of_France"]
+translations: {"es":{"title":"Clemente V traslada la corte papal a Aviñón","summary":"El papa francés Clemente V estableció el papado en Aviñón, con lo que comenzó un periodo (1309-1376) en que se consideró que los papas estaban bajo la influencia de la monarquía francesa."}}
 ---
 
 

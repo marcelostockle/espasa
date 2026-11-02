@@ -4,6 +4,7 @@ summary: "On 17 April 2025, the 200th anniversary of Charles X's ordinance, Emma
 date: {"year":2025,"month":4,"day":17}
 tags: ["haitian-independence-debt","haiti","politics"]
 sources: ["https://www.elysee.fr/emmanuel-macron/2025/04/17/declaration-du-president-de-la-republique-sur-la-relation-entre-la-france-et-haiti","https://www.publicsenat.fr/actualites/international/haiti-dou-vient-cette-double-dette-imposee-par-la-france-et-sur-laquelle-emmanuel-macron-veut-faire-toute-la-lumiere"]
+translations: {"es":{"title":"Macron anuncia una comisión conjunta franco-haitiana de historiadores sobre la indemnización de 1825","summary":"El 17 de abril de 2025, bicentenario de la ordenanza de Carlos X, Emmanuel Macron dice que la indemnización «puso precio a la libertad de una joven nación» y crea una comisión de historiadores de ambos países. No se ofrecen reparaciones."}}
 ---
 
 

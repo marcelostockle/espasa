@@ -4,6 +4,7 @@ summary: "Leonardo draws a male figure inscribed in a circle and a square, a stu
 date: {"year":1490,"circa":true}
 tags: ["leonardo-da-vinci","art","science","italian-renaissance"]
 sources: ["https://www.arte.it/work_of_art/the-vitruvian-man-3391","https://en.wikipedia.org/wiki/Vitruvian_Man"]
+translations: {"es":{"title":"Leonardo dibuja el Hombre de Vitruvio","summary":"Leonardo dibuja una figura masculina inscrita en un círculo y un cuadrado, estudio de las proporciones humanas ideales, probablemente en Milán."}}
 ---
 
 

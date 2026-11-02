@@ -4,6 +4,7 @@ summary: "Toussaint, later called Louverture, is born enslaved in Saint-Domingue
 date: {"year":1743,"circa":true}
 tags: ["toussaint-louverture","hispaniola","slave-trade"]
 sources: ["https://en.wikipedia.org/wiki/Toussaint_Louverture"]
+translations: {"es":{"title":"Nace Toussaint Louverture en una plantación cerca de Cap-Français","summary":"Toussaint, llamado luego Louverture, nace esclavizado en Saint-Domingue, muy probablemente en la plantación Bréda, cerca de Cap-Français. El 20 de mayo de 1743 es la fecha habitual, pero es incierta."}}
 ---
 
 

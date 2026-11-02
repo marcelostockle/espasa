@@ -4,6 +4,7 @@ summary: "A far larger Yuan force in two fleets attacks Kyushu in 1281. After we
 date: {"year":1281}
 tags: ["kublai-khan","mongol-empire","war","expansionism"]
 sources: ["https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan","https://britannica.com/print/article/1483622"]
+translations: {"es":{"title":"La segunda invasión de Japón de Kublai Kan es destruida por un tifón","summary":"Una fuerza yuan mucho mayor, en dos flotas, ataca Kyushu en 1281. Tras semanas contenida en la costa por las defensas samuráis, un tifón destruye buena parte de la flota. La tormenta se conoce como kamikaze, el «viento divino»."}}
 ---
 
 

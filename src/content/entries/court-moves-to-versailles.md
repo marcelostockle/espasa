@@ -4,6 +4,7 @@ summary: "Louis XIV made the palace of Versailles the permanent seat of the cour
 date: {"year":1682}
 tags: ["french-monarchy","politics","art"]
 sources: ["https://en.wikipedia.org/wiki/Louis_XIV"]
+translations: {"es":{"title":"Luis XIV traslada la corte real a Versalles","summary":"Luis XIV hizo del palacio de Versalles la sede permanente de la corte y del gobierno, y atrajo a la alta nobleza a una vida ceremonial bajo supervisión real."}}
 ---
 
 

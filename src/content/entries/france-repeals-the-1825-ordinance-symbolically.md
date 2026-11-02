@@ -4,6 +4,7 @@ summary: "An amendment tabled on 9 June 2016 by Victorin Lurel to the equality a
 date: {"year":2016,"circa":true}
 tags: ["haitian-independence-debt","haiti","politics"]
 sources: ["https://www.assemblee-nationale.fr/14/amendements/3679/CSEGALITE/677.pdf","https://www.senat.fr/leg/exposes-des-motifs/ppl24-652-expose.html","https://en.wikipedia.org/wiki/Haitian_independence_debt"]
+translations: {"es":{"title":"El Parlamento francés vota derogar simbólicamente la ordenanza de Carlos X de 1825","summary":"Una enmienda presentada el 9 de junio de 2016 por Victorin Lurel al proyecto de ley de igualdad y ciudadanía deroga la ordenanza del 17 de abril de 1825. Es explícitamente simbólica y no ofrece reparación; la fecha exacta de su adopción final es incierta."}}
 ---
 
 

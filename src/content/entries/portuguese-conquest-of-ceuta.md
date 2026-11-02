@@ -4,6 +4,7 @@ summary: "King John I of Portugal and his sons, including Prince Henry, capture 
 date: {"year":1415,"month":8,"day":21}
 tags: ["portugal","expansionism","exploration","war"]
 sources: ["https://en.wikipedia.org/wiki/Portuguese_conquest_of_Ceuta","https://en.wikipedia.org/wiki/Prince_Henry_the_Navigator"]
+translations: {"es":{"title":"Portugal conquista Ceuta, en Marruecos","summary":"El rey Juan I de Portugal y sus hijos, entre ellos el infante Enrique, toman el puerto meriní de Ceuta el 21 de agosto de 1415. Suele considerarse el inicio de la expansión ultramarina portuguesa."}}
 ---
 
 

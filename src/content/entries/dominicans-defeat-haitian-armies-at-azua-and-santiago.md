@@ -5,6 +5,7 @@ date: {"year":1844,"month":3,"day":19}
 end: {"year":1844,"month":3,"day":30}
 tags: ["dominican-republic","haiti","hispaniola","war"]
 sources: ["https://en.wikipedia.org/wiki/Dominican_War_of_Independence"]
+translations: {"es":{"title":"Fuerzas dominicanas derrotan a ejércitos haitianos en Azua y Santiago","summary":"En marzo de 1844 las tropas de Pedro Santana rechazan a una columna haitiana en Azua (19 de marzo), y la guarnición de José María Imbert, muy inferior en número, vence en Santiago (30 de marzo) al ejército de Jean-Louis Pierrot. Las victorias aseguran la nueva república."}}
 ---
 
 

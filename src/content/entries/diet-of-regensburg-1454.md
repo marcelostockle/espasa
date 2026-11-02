@@ -4,6 +4,7 @@ summary: "Emperor Frederick III's imperial diet at Regensburg takes up a crusade
 date: {"year":1454,"month":5}
 tags: ["holy-roman-empire","ottoman-empire","politics"]
 sources: ["https://en.wikipedia.org/wiki/Diet_of_Regensburg"]
+translations: {"es":{"title":"La Dieta de Ratisbona debate una cruzada contra los otomanos","summary":"La dieta imperial convocada por el emperador Federico III en Ratisbona trata la cruzada tras la caída de Constantinopla, pero solo acuerda la guerra en principio. Siguen Fráncfort (octubre de 1454) y Wiener Neustadt (1455)."}}
 ---
 
 

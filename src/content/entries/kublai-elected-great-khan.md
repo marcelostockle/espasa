@@ -4,6 +4,7 @@ summary: "After Möngke's death in 1259, Kublai is proclaimed Great Khan at Kaip
 date: {"year":1260,"month":5,"day":5}
 tags: ["kublai-khan","mongol-empire","politics"]
 sources: ["https://en.wikipedia.org/wiki/Kublai_Khan","https://en.wikipedia.org/wiki/Division_of_the_Mongol_Empire"]
+translations: {"es":{"title":"Kublai Kan es proclamado Gran Kan en Kaiping y se divide el Imperio mongol","summary":"Tras la muerte de Möngke en 1259, Kublai es proclamado Gran Kan en Kaiping (luego Shangdu) en 1260, mientras su hermano Ariq Böke está en Karakórum. Las pretensiones rivales desatan una guerra civil y el imperio nunca vuelve a tener un solo gobernante."}}
 ---
 
 

@@ -4,6 +4,7 @@ summary: "Pérotin, who revised Léonin's collection, composed the four-part gra
 date: {"year":1198,"circa":true}
 tags: ["music","religion"]
 sources: ["https://en.wikipedia.org/wiki/P%C3%A9rotin"]
+translations: {"es":{"title":"Pérotin escribe polifonía a cuatro voces para Notre-Dame","summary":"Pérotin, que revisó la colección de Léonin, compuso el gradual a cuatro voces Viderunt omnes, probablemente para la Navidad de 1198 bajo el obispo Odón de París. La fecha se deduce de edictos episcopales y podría ser uno o dos años posterior."}}
 ---
 
 

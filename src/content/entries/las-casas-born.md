@@ -4,6 +4,7 @@ summary: "Bartolomé de las Casas is born in Seville in 1484 (11 November in the
 date: {"year":1484}
 tags: ["bartolome-de-las-casas"]
 sources: ["https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas","https://www.newworldencyclopedia.org/entry/Bartolome_de_Las_Casas"]
+translations: {"es":{"title":"Nace Bartolomé de las Casas en Sevilla","summary":"Bartolomé de las Casas nace en Sevilla en 1484 (el 11 de noviembre según las fuentes consultadas). Investigaciones de archivo de los años setenta mostraron que la fecha de 1474, aceptada durante mucho tiempo, era errónea. Será el principal crítico de los abusos coloniales."}}
 ---
 
 

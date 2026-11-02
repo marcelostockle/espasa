@@ -4,6 +4,7 @@ summary: "Around 1501 the Spanish crown allows Christianised, Spanish-speaking e
 date: {"year":1501,"circa":true}
 tags: ["slave-trade","spain","taino","hispaniola"]
 sources: ["https://www.caribbeanandco.com/history/story/spain-authorizes-african-slave-labor-in-hispaniola/","https://ldhi.library.cofc.edu/exhibits/show/african_laborers_for_a_new_emp/early_trans_atlantic_slave_tra"]
+translations: {"es":{"title":"España permite el envío de africanos esclavizados a La Española","summary":"Hacia 1501 la corona española autoriza llevar a La Española a africanos esclavizados cristianizados y de habla castellana. Ovando pide pronto que cesen los envíos, pero la demanda crece al disminuir los taínos. Las fuentes dan 1501 o 1503."}}
 ---
 
 

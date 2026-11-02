@@ -4,6 +4,7 @@ summary: "Las Casas dies in Madrid in July 1566, aged 81 (the day is given as 17
 date: {"year":1566}
 tags: ["bartolome-de-las-casas"]
 sources: ["https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas","https://www.newworldencyclopedia.org/entry/Bartolome_de_Las_Casas"]
+translations: {"es":{"title":"Muere Bartolomé de las Casas en Madrid","summary":"Las Casas muere en Madrid en julio de 1566, a los 81 años (el día se da como 17 o 18 de julio). Es enterrado en el monasterio de Atocha."}}
 ---
 
 

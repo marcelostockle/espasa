@@ -4,6 +4,7 @@ summary: "Lully died on 22 March 1687 of gangrene after striking his foot with a
 date: {"year":1687,"month":3,"day":22}
 tags: ["baroque-music","music","french-monarchy"]
 sources: ["https://en.wikipedia.org/wiki/Jean-Baptiste_Lully"]
+translations: {"es":{"title":"Muere Jean-Baptiste Lully en París","summary":"Lully murió el 22 de marzo de 1687 de gangrena tras golpearse el pie con el bastón de dirigir durante un Te Deum por la recuperación de Luis XIV de una operación. Se había negado a que le amputaran."}}
 ---
 
 

@@ -4,6 +4,7 @@ summary: "Kublai Khan, grandson of Genghis Khan, adopts the Chinese dynastic nam
 date: {"year":1271}
 tags: ["mongol-empire","politics"]
 sources: ["https://en.wikipedia.org/wiki/Kublai_Khan"]
+translations: {"es":{"title":"Kublai Kan proclama la dinastía Yuan en China","summary":"Kublai Kan, nieto de Gengis Kan, adopta el nombre dinástico chino de Yuan para su imperio mongol en China y gobierna desde Dadu (Pekín). Los Polo servirían más tarde en su corte."}}
 ---
 
 

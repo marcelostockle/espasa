@@ -5,6 +5,7 @@ date: {"year":1610}
 end: {"year":1613,"month":8}
 tags: ["music","religion"]
 sources: ["https://en.wikipedia.org/wiki/Claudio_Monteverdi"]
+translations: {"es":{"title":"Monteverdi publica las Vísperas y luego es maestro de capilla de San Marcos","summary":"El Vespro della Beata Vergine de Monteverdi, dedicado al papa Pablo V, apareció en 1610. Tras dejar Mantua fue nombrado maestro de capilla de San Marcos, en Venecia, en agosto de 1613 y ocupó el cargo hasta su muerte."}}
 ---
 
 

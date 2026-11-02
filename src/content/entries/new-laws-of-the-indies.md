@@ -4,6 +4,7 @@ summary: "In 1542, after criticism by Las Casas and others, Charles V issues the
 date: {"year":1542}
 tags: ["spain","taino","politics","slave-trade"]
 sources: ["https://ebsco.com/research-starters/history/west-indian-uprisings","https://thehaitianrevolution.com/taino-and-spanish-rule"]
+translations: {"es":{"title":"Carlos V promulga las Leyes Nuevas que limitan la encomienda","summary":"En 1542, tras las críticas de Las Casas y otros, Carlos V promulga las Leyes Nuevas para limitar la autoridad de los encomenderos sobre los indígenas. Se aplican mal y provocan una rebelión de los colonos en el Perú."}}
 ---
 
 

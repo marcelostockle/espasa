@@ -5,6 +5,7 @@ date: {"year":1298,"circa":true}
 end: {"year":1299}
 tags: ["marco-polo","exploration","art"]
 sources: ["https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo","https://catalogue.museogalileo.it/biography/MarcoPolo.html"]
+translations: {"es":{"title":"Marco Polo dicta sus Viajes a Rustichello de Pisa en una cárcel genovesa","summary":"Preso de Génova, Polo dicta el relato de sus viajes al escritor de romances Rustichello de Pisa. El libro, en francés, se conocerá después como Il Milione. La tradición vincula su captura con Curzola (1298)."}}
 ---
 
 

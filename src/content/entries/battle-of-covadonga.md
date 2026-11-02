@@ -4,6 +4,7 @@ summary: "A small Asturian force led by Pelayo defeats an Umayyad detachment in 
 date: {"year":722,"circa":true}
 tags: ["iberian-reconquista","war","al-andalus"]
 sources: ["https://en.wikipedia.org/wiki/Battle_of_Covadonga"]
+translations: {"es":{"title":"Los asturianos de Pelayo derrotan a una fuerza omeya en Covadonga","summary":"Una pequeña fuerza asturiana al mando de Pelayo derrota a un destacamento omeya en los Picos de Europa. Tradicionalmente se considera el inicio del Reino de Asturias y de la Reconquista, aunque su magnitud y su fecha (718 o 722) son inciertas."}}
 ---
 
 

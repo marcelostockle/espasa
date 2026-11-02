@@ -4,6 +4,7 @@ summary: "On 16 August 1863 a group led by Santiago Rodríguez raises the flag o
 date: {"year":1863,"month":8,"day":16}
 tags: ["dominican-republic","hispaniola","war"]
 sources: ["https://en.wikipedia.org/wiki/Dominican_Restoration_War"]
+translations: {"es":{"title":"Rebeldes dominicanos cruzan la frontera desde Haití y se alzan contra España","summary":"El 16 de agosto de 1863 un grupo dirigido por Santiago Rodríguez alza la bandera de la revuelta en Capotillo. Sigue la guerra de la Restauración, con una lucha guerrillera que cuesta a España miles de hombres, muchos por enfermedad."}}
 ---
 
 

@@ -5,6 +5,7 @@ date: {"year":1780,"circa":true}
 end: {"year":1789}
 tags: ["hispaniola","slave-trade","french-monarchy"]
 sources: ["https://en.wikipedia.org/wiki/Saint-Domingue","https://teachersinstitute.yale.edu/curriculum/units/2022/2/22.02.03/2"]
+translations: {"es":{"title":"Saint-Domingue se convierte en la colonia más rica de Francia gracias al azúcar, el café y el trabajo esclavo","summary":"En la década de 1780 la colonia suministra alrededor del 40 % del azúcar de Europa y más de la mitad de su café. Unos 500 000 africanos esclavizados, nueve de cada diez habitantes, trabajan en sus plantaciones. Las cifras varían según la fuente."}}
 ---
 
 

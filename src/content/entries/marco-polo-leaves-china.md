@@ -4,6 +4,7 @@ summary: "The Polos depart from the port of Zaitun by sea, escorting the princes
 date: {"year":1291,"circa":true}
 tags: ["marco-polo","exploration","mongol-empire"]
 sources: ["https://en.wikipedia.org/wiki/Marco_Polo"]
+translations: {"es":{"title":"Marco Polo parte de China desde Zaitún con la comitiva de una princesa mongola","summary":"Los Polo salen por mar del puerto de Zaitún, escoltando a la princesa Kököchin a Persia. Las fuentes dan 1291 o 1292."}}
 ---
 
 

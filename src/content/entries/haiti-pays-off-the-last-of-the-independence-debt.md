@@ -4,6 +4,7 @@ summary: "In 1947 Haiti finishes paying the debts that began in 1825, according 
 date: {"year":1947}
 tags: ["haitian-independence-debt","haiti","politics"]
 sources: ["https://en.wikipedia.org/wiki/Haitian_independence_debt","https://history.state.gov/historicaldocuments/frus1947v08/d644"]
+translations: {"es":{"title":"Haití hace el último pago de la deuda de la independencia, 122 años después de la ordenanza","summary":"En 1947 Haití termina de pagar las deudas iniciadas en 1825, según un análisis del New York Times (2022) citado por Wikipedia. Un comunicado de EE. UU. de ese año cita un préstamo interno de 10 millones de dólares, usado en parte para rescatar los bonos de 1922 y 1923."}}
 ---
 
 

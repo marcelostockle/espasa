@@ -4,6 +4,7 @@ summary: "Off Cape Trafalgar, a British fleet under Nelson (killed in the battle
 date: {"year":1805,"month":10,"day":21}
 tags: ["napoleonic-wars","united-kingdom","spain","war"]
 sources: ["https://en.wikipedia.org/wiki/Battle_of_Trafalgar"]
+translations: {"es":{"title":"Nelson derrota a la flota franco-española en Trafalgar","summary":"Frente al cabo de Trafalgar, una flota británica al mando de Nelson (muerto en la batalla) venció a las flotas combinadas de Villeneuve y Gravina. Acabó con las posibilidades de Napoleón de invadir Gran Bretaña y confirmó la supremacía naval británica."}}
 ---
 
 

@@ -4,6 +4,7 @@ summary: "Representatives of the clergy, nobility and Third Estate met at Versai
 date: {"year":1789,"month":5,"day":5}
 tags: ["french-revolution","french-monarchy","politics"]
 sources: ["https://en.wikipedia.org/wiki/French_Revolution"]
+translations: {"es":{"title":"Se inauguran los Estados Generales en Versalles","summary":"Representantes del clero, la nobleza y el Tercer Estado se reunieron en Versalles por primera vez en 175 años. Una disputa sobre votar por estamentos o por cabeza paralizó pronto la asamblea."}}
 ---
 
 

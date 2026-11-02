@@ -5,6 +5,7 @@ date: {"year":1495,"circa":true}
 end: {"year":1498}
 tags: ["leonardo-da-vinci","art","religion","italian-renaissance"]
 sources: ["https://www.thecollector.com/gallery/the-last-supper/","https://www.finestresullarte.info/en/works-and-artists/leonardo-da-vinci-s-the-last-supper-origins-and-novelties-of-the-last-supper-in-milan","https://unesco.cultura.gov.it/en/?p=8250"]
+translations: {"es":{"title":"Leonardo pinta La última cena","summary":"Para el duque Ludovico Sforza, Leonardo pinta La última cena en un muro del convento de Santa Maria delle Grazie en Milán. Las fechas exactas no están documentadas; las fuentes van de 1493 a 1498."}}
 ---
 
 

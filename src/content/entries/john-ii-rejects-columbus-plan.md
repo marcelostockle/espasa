@@ -4,6 +4,7 @@ summary: "A committee of mathematicians and cosmographers appointed by King John
 date: {"year":1484,"circa":true}
 tags: ["christopher-columbus","portugal","exploration"]
 sources: ["https://dl.ub.uni-freiburg.de/diglit/ravenstein1908/0024/ocr","https://historia.pcweb.info/2009/02/1475-1484.html"]
+translations: {"es":{"title":"Los consejeros de Juan II de Portugal rechazan el plan de Colón de navegar al oeste hasta Asia","summary":"Una junta de matemáticos y cosmógrafos nombrada por el rey Juan II juzga demasiado corta la estimación de Colón sobre la distancia a Asia y rechaza su propuesta, en 1484 o 1485. Colón se dirige entonces a Castilla."}}
 ---
 
 

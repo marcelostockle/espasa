@@ -4,6 +4,7 @@ summary: "A trilingual stele in Chinese, Persian and Tamil is set up at Galle in
 date: {"year":1409,"circa":true}
 tags: ["zheng-he","ming-dynasty","exploration","religion"]
 sources: ["https://en.wikipedia.org/wiki/Timeline_of_the_Ming_treasure_voyages","https://island.lk/vira-alakeshvaras-plightsignals-from-the-past/"]
+translations: {"es":{"title":"Zheng He erige en Galle, Ceilán, una estela en chino, persa y tamil","summary":"En Galle, Sri Lanka, se erige una estela trilingüe en chino, persa y tamil, fechada el 15 de febrero de 1409 en la mayoría de las fuentes (una dice 1411). Registra ofrendas a Buda, Alá y el dios hindú Tenavarai Nayanar."}}
 ---
 
 

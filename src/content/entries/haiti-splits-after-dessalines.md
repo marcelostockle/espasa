@@ -4,6 +4,7 @@ summary: "After the ambush of Emperor Jean-Jacques Dessalines in October 1806, H
 date: {"year":1806,"month":10}
 tags: ["haiti","hispaniola","politics"]
 sources: ["https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines","https://en.wikipedia.org/wiki/Spanish_reconquest_of_Santo_Domingo"]
+translations: {"es":{"title":"Dessalines es asesinado y Haití se divide entre el norte de Christophe y el sur de Pétion","summary":"Tras la emboscada al emperador Jean-Jacques Dessalines en octubre de 1806, Haití se parte en dos: Henri Christophe gobierna el norte y Alexandre Pétion encabeza una república en el sur y el oeste. La división dura hasta 1820."}}
 ---
 
 

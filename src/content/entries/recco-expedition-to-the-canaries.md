@@ -4,6 +4,7 @@ summary: "The Genoese navigator Niccoloso da Recco sails to the Canary Islands i
 date: {"year":1341}
 tags: ["canary-islands","exploration","portugal"]
 sources: ["https://en.wikipedia.org/wiki/Conquest_of_the_Canary_Islands","https://ler.letras.up.pt/uploads/ficheiros/2911.pdf"]
+translations: {"es":{"title":"Niccoloso da Recco dirige una expedición a las Canarias con respaldo portugués","summary":"El navegante genovés Niccoloso da Recco navega a las islas Canarias en 1341 en una expedición apoyada por la corona portuguesa. Es el primer viaje europeo bien documentado al archipiélago desde la Antigüedad."}}
 ---
 
 

@@ -4,6 +4,7 @@ summary: "Handel, a German-born naturalised British subject who had made oratori
 date: {"year":1759,"month":4,"day":14}
 tags: ["baroque-music","music","united-kingdom"]
 sources: ["https://en.wikipedia.org/wiki/George_Frideric_Handel","https://www.westminster-abbey.org/abbey-commemorations/commemorations/george-frederic-handel"]
+translations: {"es":{"title":"Muere Georg Friedrich Händel en Londres","summary":"Händel, súbdito británico naturalizado de origen alemán que había hecho del oratorio y la ópera italiana el centro de la vida musical londinense, murió el 14 de abril de 1759 y fue enterrado en la abadía de Westminster el 20 de abril."}}
 ---
 
 

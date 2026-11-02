@@ -4,6 +4,7 @@ summary: "Between about 1772 and 1776 Toussaint gains his freedom while working 
 date: {"year":1776,"circa":true}
 tags: ["toussaint-louverture","hispaniola","slave-trade"]
 sources: ["https://en.wikipedia.org/wiki/Toussaint_Louverture"]
+translations: {"es":{"title":"Toussaint Louverture es liberado de la esclavitud en Saint-Domingue","summary":"Entre 1772 y 1776 aproximadamente, Toussaint obtiene su libertad mientras trabaja en la plantación Bréda. Los historiadores creyeron durante mucho tiempo que siguió esclavizado hasta la revolución; registros de 1776-1777 muestran lo contrario."}}
 ---
 
 

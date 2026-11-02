@@ -4,6 +4,7 @@ summary: "In early February 1802 General Charles Leclerc arrives at Saint-Doming
 date: {"year":1802,"month":2}
 tags: ["haitian-revolution","hispaniola","napoleon-bonaparte","war","expansionism","toussaint-louverture"]
 sources: ["https://en.wikipedia.org/wiki/Saint-Domingue_expedition","https://en.wikipedia.org/wiki/Charles_Leclerc_(general,_born_1772)"]
+translations: {"es":{"title":"Leclerc, cuñado de Napoleón, desembarca un ejército francés en Saint-Domingue","summary":"A comienzos de febrero de 1802 el general Charles Leclerc llega a Saint-Domingue con una gran fuerza expedicionaria enviada por Napoleón para restablecer el control francés. Toussaint se retira a las montañas y se reanuda la guerra."}}
 ---
 
 

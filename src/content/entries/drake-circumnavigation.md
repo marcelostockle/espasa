@@ -5,6 +5,7 @@ date: {"year":1577,"month":12,"day":13}
 end: {"year":1580,"month":9,"day":26}
 tags: ["francis-drake","exploration","expansionism","united-kingdom","spain"]
 sources: ["https://web.plymouth.gov.uk/plymouthplaques/notice77.html","https://en.wikipedia.org/wiki/Francis_Drake"]
+translations: {"es":{"title":"Drake da la vuelta al mundo en el Golden Hind","summary":"Drake sale de Plymouth el 13 de diciembre de 1577 y regresa el 26 de septiembre de 1580. Es el primer inglés en circunnavegar el globo, y asalta puertos y barcos españoles en la costa del Pacífico."}}
 ---
 
 

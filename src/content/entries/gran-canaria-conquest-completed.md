@@ -4,6 +4,7 @@ summary: "After years of resistance, mostly in the island's interior, the last G
 date: {"year":1483}
 tags: ["canary-islands","spain","expansionism","war"]
 sources: ["https://grancanaria.com/turismo/en/the-island/history","https://en.wikipedia.org/wiki/Juan_Rej%C3%B3n"]
+translations: {"es":{"title":"Castilla completa la conquista de Gran Canaria bajo Pedro de Vera","summary":"Tras años de resistencia, sobre todo en el interior de la isla, los últimos jefes de Gran Canaria se someten a Pedro de Vera en 1483. Rejón ya había sido apartado. Es la primera de las islas mayores tomada por la Corona de Castilla."}}
 ---
 
 

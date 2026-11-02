@@ -4,6 +4,7 @@ summary: "Antonio Vivaldi's four violin concertos, each tied to a season, were p
 date: {"year":1725}
 tags: ["baroque-music","music","netherlands"]
 sources: ["https://en.wikipedia.org/wiki/Antonio_Vivaldi"]
+translations: {"es":{"title":"Las cuatro estaciones de Vivaldi se publican en Ámsterdam","summary":"Los cuatro conciertos para violín de Antonio Vivaldi, cada uno ligado a una estación, se imprimieron en 1725 como los cuatro primeros de los doce de Il cimento dell'armonia e dell'inventione, Opus 8."}}
 ---
 
 

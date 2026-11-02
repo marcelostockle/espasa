@@ -4,6 +4,7 @@ summary: "Gabrieli, organist at St Mark's Basilica, issued works for separated c
 date: {"year":1597}
 tags: ["music","religion","italian-renaissance"]
 sources: ["https://en.wikipedia.org/wiki/Giovanni_Gabrieli"]
+translations: {"es":{"title":"Giovanni Gabrieli publica las Sacrae symphoniae en Venecia","summary":"Gabrieli, organista de la basílica de San Marcos, publicó obras para coros e instrumentos separados que desembocaron en el estilo concertato barroco y atrajeron a discípulos de toda Europa, como Heinrich Schütz."}}
 ---
 
 

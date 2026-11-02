@@ -4,6 +4,7 @@ summary: "The Tibetan monk Drogön Chögyal Phagpa devises a new alphabet at Kub
 date: {"year":1269,"circa":true}
 tags: ["kublai-khan","mongol-empire","religion"]
 sources: ["https://en.wikipedia.org/wiki/Kublai_Khan"]
+translations: {"es":{"title":"La corte de Kublai Kan introduce la escritura 'Phags-pa para el imperio mongol","summary":"El monje tibetano Drogön Chögyal Phagpa ideó un nuevo alfabeto a petición de Kublai Kan para escribir el mongol y otras lenguas del imperio. Las fuentes lo fechan en 1269 o 1270."}}
 ---
 
 

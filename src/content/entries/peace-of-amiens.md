@@ -4,6 +4,7 @@ summary: "The treaty, signed by Joseph Bonaparte and Lord Cornwallis, ended a de
 date: {"year":1802,"month":3,"day":25}
 tags: ["napoleonic-wars","united-kingdom","napoleon-bonaparte","politics"]
 sources: ["https://en.wikipedia.org/wiki/Treaty_of_Amiens"]
+translations: {"es":{"title":"Gran Bretaña y Francia firman el Tratado de Amiens","summary":"El tratado, firmado por José Bonaparte y lord Cornwallis, puso fin a una década de guerra entre Gran Bretaña y Francia. Fue una tregua inestable, en la que cada parte acusó luego a la otra de romper sus términos."}}
 ---
 
 

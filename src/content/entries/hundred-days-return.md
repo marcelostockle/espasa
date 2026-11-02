@@ -4,6 +4,7 @@ summary: "Napoleon left Elba and regained power in France, with his Hundred Days
 date: {"year":1815,"month":3,"day":20}
 tags: ["napoleon-bonaparte","napoleonic-wars","politics"]
 sources: ["https://en.wikipedia.org/wiki/Napoleon"]
+translations: {"es":{"title":"Napoleón regresa de Elba: comienzan los Cien Días","summary":"Napoleón dejó Elba y recuperó el poder en Francia; sus Cien Días comenzaron el 20 de marzo de 1815. La Séptima Coalición de los aliados les puso fin en Waterloo, en junio."}}
 ---
 
 

@@ -4,6 +4,7 @@ summary: "Francis Drake, later England's best-known privateer, is born at Crownd
 date: {"year":1540,"circa":true}
 tags: ["francis-drake","united-kingdom"]
 sources: ["https://en.wikipedia.org/wiki/Francis_Drake"]
+translations: {"es":{"title":"Nace Francis Drake cerca de Tavistock, Devon","summary":"Francis Drake, luego el corsario inglés más célebre, nace en la granja de Crowndale, cerca de Tavistock. No se conserva ningún registro; las estimaciones van de 1539 a 1544, y lo habitual es dar h. 1540."}}
 ---
 
 

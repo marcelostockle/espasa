@@ -4,6 +4,7 @@ summary: "Monteverdi died on 29 November 1643, the year his last opera, L'incoro
 date: {"year":1643,"month":11,"day":29}
 tags: ["music","art"]
 sources: ["https://en.wikipedia.org/wiki/Claudio_Monteverdi"]
+translations: {"es":{"title":"Muere Claudio Monteverdi en Venecia","summary":"Monteverdi murió el 29 de noviembre de 1643, el año en que se estrenó en Venecia su última ópera, La coronación de Popea. Es la figura central del paso de la música renacentista a la barroca."}}
 ---
 
 

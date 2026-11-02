@@ -5,6 +5,7 @@ date: {"year":1520}
 end: {"year":1521}
 tags: ["bartolome-de-las-casas","spain","taino"]
 sources: ["https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas","https://www.heiligenlexikon.de/CatholicEncyclopedia/Bartolome_Las_Casas.html"]
+translations: {"es":{"title":"Fracasa el intento de Las Casas de un asentamiento pacífico en Cumaná, Venezuela","summary":"Las Casas obtiene en 1520 una concesión real para fundar poblaciones agrícolas sin conquista en la costa venezolana. La colonia es destruida por los indígenas en su ausencia en 1521, y Las Casas se retira a un convento dominico."}}
 ---
 
 

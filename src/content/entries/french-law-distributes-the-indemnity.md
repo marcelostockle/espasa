@@ -4,6 +4,7 @@ summary: "The law of 30 April 1826 sets up how the money Haiti pays is shared am
 date: {"year":1826,"month":4,"day":30}
 tags: ["haitian-independence-debt","french-monarchy","politics","slave-trade"]
 sources: ["https://heritage.bnf.fr/france-ameriques/en/haitis-independence-debt-slave-unit-account-1794-1922"]
+translations: {"es":{"title":"Francia aprueba una ley para repartir la indemnización de Haití entre los antiguos colonos","summary":"La ley del 30 de abril de 1826 establece cómo se reparte el dinero pagado por Haití entre los antiguos hacendados de Saint-Domingue y sus herederos, después de que Haití abone la primera quinta parte. Un decreto real del 9 de mayo fija las reglas de elegibilidad y valoración."}}
 ---
 
 

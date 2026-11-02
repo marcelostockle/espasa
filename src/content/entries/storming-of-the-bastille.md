@@ -4,6 +4,7 @@ summary: "A Paris crowd seized the royal fortress-prison of the Bastille in sear
 date: {"year":1789,"month":7,"day":14}
 tags: ["french-revolution","french-monarchy","politics"]
 sources: ["https://en.wikipedia.org/wiki/French_Revolution"]
+translations: {"es":{"title":"Los parisinos toman la Bastilla","summary":"Una multitud de París se apoderó de la fortaleza-prisión real de la Bastilla en busca de armas, un levantamiento que llegó a simbolizar el comienzo de la Revolución francesa y el colapso de la autoridad real en la capital."}}
 ---
 
 

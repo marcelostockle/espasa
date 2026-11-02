@@ -5,6 +5,7 @@ date: {"year":1865,"month":3,"day":3}
 end: {"year":1865,"month":7}
 tags: ["dominican-republic","hispaniola","politics"]
 sources: ["https://en.wikipedia.org/wiki/Dominican_Restoration_War","https://en.wikipedia.org/wiki/History_of_the_Dominican_Republic"]
+translations: {"es":{"title":"España anula la anexión de Santo Domingo y retira sus tropas","summary":"La reina Isabel II firma la anulación de la anexión el 3 de marzo de 1865, tras el fin de la guerra civil estadounidense y cuatro años de costosa guerra de guerrillas. Las últimas tropas españolas se van a mediados de julio de 1865."}}
 ---
 
 

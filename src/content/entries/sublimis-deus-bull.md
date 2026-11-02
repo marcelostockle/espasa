@@ -4,6 +4,7 @@ summary: "In 1537 Paul III issues Sublimis Deus, saying the Indians are fully hu
 date: {"year":1537}
 tags: ["bartolome-de-las-casas","religion","politics","taino","slave-trade"]
 sources: ["https://en.wikipedia.org/wiki/Sublimis_Deus","https://exhibitions.lib.cam.ac.uk/dominicans/?p=28"]
+translations: {"es":{"title":"El papa Pablo III declara en Sublimis Deus que los pueblos indígenas de América son seres racionales","summary":"En 1537 Pablo III emite Sublimis Deus, que afirma que los indios son plenamente humanos, no pueden ser esclavizados y deben ser convertidos pacíficamente. Los escritos de Las Casas y sus aliados dominicos ayudaron a lograrlo."}}
 ---
 
 

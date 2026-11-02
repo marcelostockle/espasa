@@ -5,6 +5,7 @@ date: {"year":1413}
 end: {"year":1415,"month":8,"day":12}
 tags: ["zheng-he","ming-dynasty","exploration"]
 sources: ["https://en.wikipedia.org/wiki/Timeline_of_the_Ming_treasure_voyages","https://www.worldhistory.org/article/1334/the-seven-voyages-of-zheng-he"]
+translations: {"es":{"title":"El cuarto viaje del tesoro de Zheng He llega a Ormuz y al golfo Pérsico","summary":"El cuarto viaje sale de Nankín en el otoño de 1413, amplía la ruta habitual hasta Ormuz y las Maldivas, y regresa el 12 de agosto de 1415. Destacamentos visitan Bengala y la costa arábiga."}}
 ---
 
 

@@ -4,6 +4,7 @@ summary: "Basilios Bessarion, a Greek refugee cardinal, donates his library of G
 date: {"year":1468}
 tags: ["byzantine-empire","italian-renaissance","art"]
 sources: ["https://bibliotecanazionalemarciana.cultura.gov.it/en/?p=5623","https://bibliotecanazionalemarciana.cultura.gov.it/en/library/history/"]
+translations: {"es":{"title":"El cardenal Besarión dona sus manuscritos griegos a Venecia","summary":"Basilio Besarión, cardenal griego refugiado, dona su biblioteca de manuscritos griegos y latinos a la República de Venecia (carta del 31 de mayo de 1468); será el núcleo de la Biblioteca Marciana y un centro del saber griego en Italia."}}
 ---
 
 

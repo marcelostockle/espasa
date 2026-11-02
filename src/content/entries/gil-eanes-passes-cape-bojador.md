@@ -4,6 +4,7 @@ summary: "On Prince Henry's orders Gil Eanes sails past Cape Bojador on the West
 date: {"year":1434,"circa":true}
 tags: ["portugal","exploration"]
 sources: ["https://en.wikipedia.org/wiki/Gil_Eanes","https://en.wikipedia.org/wiki/Cape_Bojador"]
+translations: {"es":{"title":"Gil Eanes navega más allá del cabo Bojador","summary":"Por orden del infante Enrique, Gil Eanes dobla el cabo Bojador, en la costa de África occidental, y regresa, en 1434 (algunas fuentes dicen 1435), tras un intento fallido en 1433. El viaje abre a los barcos portugueses la costa al sur del cabo."}}
 ---
 
 

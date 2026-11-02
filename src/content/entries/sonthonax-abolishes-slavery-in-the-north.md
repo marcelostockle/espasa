@@ -4,6 +4,7 @@ summary: "Civil commissioner Léger-Félicité Sonthonax, facing revolt and fore
 date: {"year":1793,"month":8}
 tags: ["haitian-revolution","hispaniola","french-revolution","slave-trade"]
 sources: ["https://en.wikipedia.org/wiki/L%C3%A9ger-F%C3%A9licit%C3%A9_Sonthonax","https://en.wikipedia.org/wiki/%C3%89tienne_Polverel"]
+translations: {"es":{"title":"Sonthonax proclama la abolición de la esclavitud en el norte de Saint-Domingue","summary":"El comisionado civil Léger-Félicité Sonthonax, ante la revuelta y la invasión extranjera, decreta el fin de la esclavitud en el norte de Saint-Domingue en agosto de 1793 sin aprobación de París. Polverel hace pronto lo mismo en el sur y el oeste."}}
 ---
 
 
