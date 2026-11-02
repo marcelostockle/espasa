@@ -6,6 +6,26 @@ export async function getSortedEntries() {
   return entries.sort((a, b) => sortKey(a.data.date) - sortKey(b.data.date));
 }
 
+type Entry = Awaited<ReturnType<typeof getSortedEntries>>[number];
+
+/** Gap between two entries' date ranges; 0 when they overlap. */
+function distance(a: Entry, b: Entry): number {
+  const [aStart, aEnd] = [sortKey(a.data.date), sortKey(a.data.end ?? a.data.date)];
+  const [bStart, bEnd] = [sortKey(b.data.date), sortKey(b.data.end ?? b.data.date)];
+  return Math.max(0, bStart - aEnd, aStart - bEnd);
+}
+
+/** The `count` entries closest in time to `entry`, in chronological order. */
+export function getNearbyEntries(entry: Entry, entries: Entry[], count = 5): Entry[] {
+  return entries
+    .filter((e) => e.id !== entry.id)
+    .map((e) => ({ e, d: distance(entry, e) }))
+    .sort((a, b) => a.d - b.d)
+    .slice(0, count)
+    .map(({ e }) => e)
+    .sort((a, b) => sortKey(a.data.date) - sortKey(b.data.date));
+}
+
 export async function getTags() {
   const tags = await getCollection('tags');
   return tags.sort((a, b) => a.data.label.localeCompare(b.data.label));

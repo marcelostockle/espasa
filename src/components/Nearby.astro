@@ -1,0 +1,66 @@
+---
+import { formatRange, sortKey } from '../lib/time';
+
+const { current, nearby, tagById } = Astro.props;
+
+const currentKey = sortKey(current.data.date);
+const before = nearby.filter((e) => sortKey(e.data.date) < currentKey);
+const after = nearby.filter((e) => sortKey(e.data.date) >= currentKey);
+---
+
+<aside class="nearby" data-pagefind-ignore>
+  <h2>Around that time…</h2>
+  <ul>
+    {
+      [...before, null, ...after].map((e) =>
+        e === null ? (
+          <li class="here" aria-current="true">
+            <span class="date">{formatRange(current.data.date, current.data.end)}</span>
+            <span class="title">{current.data.title}</span>
+          </li>
+        ) : (
+          <li>
+            <span class="date">{formatRange(e.data.date, e.data.end)}</span>
+            <a class="title" href={`/entries/${e.id}/`}>{e.data.title}</a>
+            <span class="tags">
+              {e.data.tags.map((ref) => {
+                const tag = tagById.get(ref.id);
+                return (
+                  tag && (
+                    <a class="chip" style={`--chip:${tag.data.color}`} href={`/tags/${tag.id}/`}>
+                      {tag.data.label}
+                    </a>
+                  )
+                );
+              })}
+            </span>
+          </li>
+        ),
+      )
+    }
+  </ul>
+</aside>
+
+<style>
+  .nearby {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--line);
+  }
+  h2 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 0 0 0.75rem;
+  }
+  ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.75rem; }
+  li { display: grid; gap: 0.2rem; }
+  .date { font-size: 0.85rem; color: var(--muted); }
+  .title { font-weight: 600; }
+  .tags { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+  .here {
+    padding: 0.4rem 0;
+    border-block: 1px dashed var(--line);
+  }
+  .here .title { font-weight: 700; }
+</style>
