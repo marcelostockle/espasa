@@ -161,6 +161,24 @@
       }
     }
   },
+  "dadu": {
+    "label": "Dadu (Khanbaliq)",
+    "wikipedia": "Khanbaliq",
+    "translations": {
+      "es": {
+        "label": "Dadu (Janbalic)"
+      }
+    }
+  },
+  "dali": {
+    "label": "Dali",
+    "wikipedia": "Dali City",
+    "translations": {
+      "es": {
+        "label": "Dali"
+      }
+    }
+  },
   "fontainebleau": {
     "label": "Fontainebleau",
     "wikipedia": "Fontainebleau",
@@ -185,6 +203,33 @@
     "translations": {
       "es": {
         "label": "Gonaïves"
+      }
+    }
+  },
+  "hakata-bay": {
+    "label": "Hakata Bay",
+    "wikipedia": "Hakata Bay",
+    "translations": {
+      "es": {
+        "label": "Bahía de Hakata"
+      }
+    }
+  },
+  "hangzhou": {
+    "label": "Lin’an (Hangzhou)",
+    "wikipedia": "Hangzhou",
+    "translations": {
+      "es": {
+        "label": "Lin’an (Hangzhou)"
+      }
+    }
+  },
+  "java": {
+    "label": "Java",
+    "wikipedia": "Java",
+    "translations": {
+      "es": {
+        "label": "Java"
       }
     }
   },
@@ -296,6 +341,15 @@
       }
     }
   },
+  "shangdu": {
+    "label": "Shangdu",
+    "wikipedia": "Shangdu",
+    "translations": {
+      "es": {
+        "label": "Shangdu"
+      }
+    }
+  },
   "tenochtitlan": {
     "label": "Tenochtitlan",
     "wikipedia": "Tenochtitlan",
@@ -365,6 +419,15 @@
     "translations": {
       "es": {
         "label": "Palacio de Versalles"
+      }
+    }
+  },
+  "xiangyang": {
+    "label": "Xiangyang",
+    "wikipedia": "Xiangyang",
+    "translations": {
+      "es": {
+        "label": "Xiangyang"
       }
     }
   }
