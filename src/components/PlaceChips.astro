@@ -1,0 +1,32 @@
+---
+// Place buttons for an entry. Clicking or hovering one opens the shared popup (PlacePopup.astro).
+import type { CollectionEntry } from 'astro:content';
+import { toLocale } from '../lib/i18n';
+import { placeLabel } from '../lib/places';
+
+interface Props {
+  refs: { id: string }[];
+  placeById: Map<string, CollectionEntry<'places'>>;
+}
+const { refs, placeById } = Astro.props;
+const locale = toLocale(Astro.currentLocale);
+---
+
+{
+  refs.map(({ id }) => (
+    <button type="button" class="chip place" data-place={id} aria-haspopup="dialog">
+      <span aria-hidden="true">📍</span> {placeLabel(placeById.get(id)!, locale)}
+    </button>
+  ))
+}
+
+<style is:global>
+  button.place {
+    font: inherit;
+    font-size: 0.8rem;
+    background: none;
+    cursor: pointer;
+    --chip: var(--muted);
+  }
+  button.place:hover, button.place[aria-expanded='true'] { color: var(--fg); border-color: var(--fg); }
+</style>

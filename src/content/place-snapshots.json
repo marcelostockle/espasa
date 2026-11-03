@@ -1,0 +1,30 @@
+{
+  "medellin": {
+    "title": "Medellín, Spain",
+    "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn%2C_Spain",
+    "extract": "Medellín is a village in the province of Badajoz, Extremadura, Spain, notable as both the birthplace of Hernán Cortés in 1485 and the site of the Battle of Medellín, during the Peninsular War. The second-largest city in Colombia, Medellín, was named in honour of the small village as well as Medellín, Veracruz in Mexico, two cities in Argentina, and Medellin, Cebu, in the Philippines.",
+    "description": "Municipality in Extremadura, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Medell%C3%ADn_-_Medell%C3%ADn%2C_un_viaje_en_el_tiempo_1.jpg/330px-Medell%C3%ADn_-_Medell%C3%ADn%2C_un_viaje_en_el_tiempo_1.jpg",
+    "lat": 38.96305556,
+    "lon": -5.95777778,
+    "es": {
+      "title": "Medellín (España)",
+      "url": "https://es.wikipedia.org/wiki/Medell%C3%ADn_(Espa%C3%B1a)",
+      "extract": "Medellín es un municipio y localidad española de la provincia de Badajoz, en la comunidad autónoma de Extremadura. De fundación romana, cabecera del condado homónimo durante la Edad Media y cuna de Hernán Cortés."
+    }
+  },
+  "tenochtitlan": {
+    "title": "Tenochtitlan",
+    "url": "https://en.wikipedia.org/wiki/Tenochtitlan",
+    "extract": "Tenochtitlan, also known as Mexico-Tenochtitlan, was a large Mexican altepetl in what is now the historic center of Mexico City. The exact date of the founding of the city is unclear, but the date 13 March 1325 was chosen in 1925 to celebrate the 600th anniversary of the city. The city was built on an island in what was then Lake Texcoco in the Valley of Mexico. The city was the capital of the expanding Aztec Empire in the 15th century until it was captured by the Tlaxcaltec and the Spanish in 1521.",
+    "description": "Mexican city-state (1325–1521)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Vista_completa_de_Tenochtitl%C3%A1n.jpg/330px-Vista_completa_de_Tenochtitl%C3%A1n.jpg",
+    "lat": 19.43333333,
+    "lon": -99.13333333,
+    "es": {
+      "title": "México-Tenochtitlan",
+      "url": "https://es.wikipedia.org/wiki/M%C3%A9xico-Tenochtitlan",
+      "extract": "Tenochtitlan, también conocida como México-Tenochtitlan (), fue el altépetl (ciudad-estado) de la civilización mexica y capital de la Triple Alianza,de la que formaba parte junto a Tetzcuco y Tlacopan. Durante la conquista española fue destruida y se fundó sobre sus restos la Ciudad de México, que fue la capital del Virreinato de la Nueva España y luego la capital de los Estados Unidos Mexicanos."
+    }
+  }
+}

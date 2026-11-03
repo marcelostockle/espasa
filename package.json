@@ -10,7 +10,8 @@
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
-    "admin": "node admin/server.ts"
+    "admin": "node admin/server.ts",
+    "places:snapshot": "node admin/snapshot-places.ts"
   },
   "dependencies": {
     "astro": "^7.4.2"

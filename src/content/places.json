@@ -1,0 +1,20 @@
+{
+  "medellin": {
+    "label": "Medellín",
+    "wikipedia": "Medellín, Spain",
+    "translations": {
+      "es": {
+        "label": "Medellín"
+      }
+    }
+  },
+  "tenochtitlan": {
+    "label": "Tenochtitlan",
+    "wikipedia": "Tenochtitlan",
+    "translations": {
+      "es": {
+        "label": "México-Tenochtitlan"
+      }
+    }
+  }
+}

@@ -1,8 +1,10 @@
 ---
 import { render } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
+import PlaceChips from '../../../components/PlaceChips.astro';
 import Nearby from '../../../components/Nearby.astro';
 import { getNearbyEntries, getSortedEntries, getTags } from '../../../lib/entries';
+import { getPlaces } from '../../../lib/places';
 import { localePath, locales, t, toLocale } from '../../../lib/i18n';
 import { entryText, tagText } from '../../../lib/localize';
 import { formatRange } from '../../../lib/time';
@@ -23,6 +25,7 @@ export async function getStaticPaths() {
 }
 
 const { entry, tags, nearby } = Astro.props;
+const placeById = new Map((await getPlaces()).map((p) => [p.id, p]));
 const locale = toLocale(Astro.currentLocale);
 const strings = t(locale);
 const text = entryText(entry, locale);
@@ -47,6 +50,7 @@ const tagById = new Map(tags.map((t) => [t.id, t]));
           );
         })
       }
+      <PlaceChips refs={entry.data.places} {placeById} />
     </div>
     <Content />
     {
