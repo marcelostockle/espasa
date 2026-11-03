@@ -60,6 +60,19 @@ curl -X POST "localhost:4322/api/import?dry=1" -H "Content-Type: application/jso
 
 An entry's year must fall inside the span covered by `src/content/eras.json`, matching the build's own check.
 
+## Places
+
+Places are links from entries to Wikipedia articles, shown on the site as popups. A place is `{ "label", "wikipedia", "translations": { "es": { "label" } } }` where `wikipedia` is the English article **title**.
+
+- `POST /api/import` accepts a top-level `places` block (same conflict rules as tags) and a `places: ["id"]` list on each entry.
+- `POST /api/places` (add `?dry=1` to preview, `onConflict` as above) links places to **existing** entries without touching anything else in them:
+  ```json
+  { "places": { "medellin": { "label": "Medellín", "wikipedia": "Medellín, Spain" } },
+    "link": { "medellin": ["hernan-cortes-born"] } }
+  ```
+- Every new or changed place is checked against Wikipedia: the article must exist and not be a disambiguation page, otherwise `422`. The response lists what each place `resolved` to. A snapshot of the article (extract, thumbnail, coordinates, Spanish article) is stored in `src/content/place-snapshots.json`; builds never call Wikipedia.
+- `GET /api/places` lists the places. `npm run places:snapshot [-- --refresh]` fetches missing (or all) snapshots.
+
 ## Other endpoints
 
 | | |
@@ -97,5 +110,7 @@ Same all-or-nothing rules as import: unknown tags or entries, an entry left with
 ## Drafting with AI
 
 The project skill `/research-events <topic>` (see [.claude/skills/research-events/SKILL.md](../.claude/skills/research-events/SKILL.md)) researches a topic on the web, writes a draft to `admin/drafts/` (gitignored), and dry-runs it against this API. It never imports on its own; you review the draft and import it from the Import tab.
+
+The project skill `/link-places <tag-id | entries: ids | search term>` (see [.claude/skills/link-places/SKILL.md](../.claude/skills/link-places/SKILL.md)) finds the places existing entries are about and writes a places draft for the Import tab.
 
 The project skill `/retag <tag-id>` (see [.claude/skills/retag/SKILL.md](../.claude/skills/retag/SKILL.md)) is for applying a tag retroactively. Give it an existing tag, or `/retag new: <what it covers>` to have it design the tag as well. It searches existing entries for plausible matches (cheap keyword and co-tag search, not a full sweep, so best for specific tags) and writes one retag draft to `admin/drafts/` for you to review and apply.
