@@ -38,6 +38,7 @@ Writes land in `src/content/` as ordinary files. Review with `git diff`, then co
 - `id` is optional; it defaults to a slug of the title. Ids are lowercase letters, digits and single hyphens, and become the filename and URL.
 - `date` / `end`: `year` (negative = BCE, no year 0), optional `month`, `day`, `circa`.
 - `sources` (optional): a list of http(s) URLs where the claim can be checked. They render as links at the bottom of the entry page.
+- `translations` (optional on entries and tags): `{ "es": { "title": "…", "summary": "…" } }` for entries, `{ "es": { "label": "…", "description": "…" } }` for tags. Stored in the entry's frontmatter / the tag's JSON.
 - Unknown keys are rejected, so typos fail instead of being dropped.
 
 **All-or-nothing:** the whole payload is validated first. If anything is wrong you get a `422` listing every problem with its path (`entries[3].date.year`), and nothing is written.

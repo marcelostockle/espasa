@@ -16,7 +16,7 @@ export const historicalDate = z
 
 /** Translations sit next to the English source, keyed by locale. English is the source of truth. */
 const translated = <T extends z.ZodRawShape>(shape: T) =>
-  z.object({ es: z.object(shape) }).partial().optional();
+  z.object({ es: z.object(shape).strict() }).strict().partial().optional();
 
 export const tagFields = z.object({
   label: z.string(),

@@ -1,4 +1,4 @@
-import { monthName, type Locale } from './i18n';
+import { monthName, type Locale } from './i18n.ts';
 
 export interface HistoricalDate {
   year: number;
