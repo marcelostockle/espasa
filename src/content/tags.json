@@ -308,6 +308,20 @@
       }
     }
   },
+  "hernan-cortes": {
+    "label": "Hernán Cortés",
+    "color": "#fbc02d",
+    "description": "Hernán Cortés (c. 1485-1547), the Spanish conquistador who led the conquest of the Aztec Empire, governed New Spain and was made Marquess of the Valley of Oaxaca.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Hernán Cortés",
+        "description": "Hernán Cortés (h. 1485-1547), conquistador español que dirigió la conquista del Imperio azteca, gobernó la Nueva España y fue nombrado marqués del Valle de Oaxaca."
+      }
+    }
+  },
   "hispaniola": {
     "label": "Hispaniola",
     "color": "#8bc34a",
