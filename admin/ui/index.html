@@ -53,6 +53,7 @@
   <nav id="tabs">
     <button data-tab="entries">Entries</button>
     <button data-tab="tags">Tags</button>
+    <button data-tab="places">Places</button>
     <button data-tab="import">Import</button>
   </nav>
   <span id="status" role="status"></span>
@@ -89,6 +90,23 @@
         <ul class="list" id="t-list"></ul>
       </div>
       <div class="panel" id="t-editor" hidden></div>
+    </div>
+  </section>
+
+  <section id="places" hidden>
+    <div class="panel" style="margin-bottom:1.25rem">
+      <div class="row">
+        <div style="flex:0 0 auto">
+          <label style="margin-top:0">Apply a places draft (JSON from <code>/link-places</code> or hand-written, with <code>places</code> and <code>link</code>)</label>
+          <input type="file" id="p-file" accept=".json,application/json" />
+        </div>
+      </div>
+      <div id="p-result"></div>
+    </div>
+    <div class="panel">
+      <div class="toolbar"><input type="search" id="p-q" placeholder="Filter places…" /></div>
+      <div class="muted" id="p-count"></div>
+      <ul class="list" id="p-list" style="max-height:none"></ul>
     </div>
   </section>
 
@@ -469,6 +487,106 @@ function drawDraft(payload, dry, titles) {
   update();
 }
 
+// ---------------------------------------------------------------- places
+let places = {};
+let allEntries = []; // unfiltered, unlike `entries`, which follows the Entries tab's search
+
+async function loadPlaces() {
+  const [r, all] = await Promise.all([api('GET', '/places'), api('GET', '/entries')]);
+  places = r.data || {};
+  allEntries = all.data || [];
+  drawPlaceList();
+}
+
+const wikiUrl = (title) => 'https://en.wikipedia.org/wiki/' + encodeURIComponent(title.replaceAll(' ', '_'));
+const wikiLink = (title) => h('a', { href: wikiUrl(title), target: '_blank', rel: 'noopener noreferrer' }, title);
+
+function drawPlaceList() {
+  const q = $('p-q').value.trim().toLowerCase();
+  const uses = {};
+  for (const e of allEntries) for (const p of e.places ?? []) (uses[p] ??= []).push(e);
+  const shown = Object.entries(places)
+    .filter(([id, p]) => !q || `${id} ${p.label} ${p.wikipedia} ${p.translations?.es?.label ?? ''}`.toLowerCase().includes(q));
+  $('p-count').textContent = `${shown.length} of ${Object.keys(places).length} place${Object.keys(places).length === 1 ? '' : 's'}`;
+  $('p-list').replaceChildren(...shown.map(([id, p]) => {
+    const used = uses[id] ?? [];
+    return h('li', { style: 'padding:.5rem 0;border-top:1px solid var(--line)' },
+      h('strong', {}, p.label), p.translations?.es?.label && p.translations.es.label !== p.label ? h('span', { class: 'muted' }, ` / ${p.translations.es.label}`) : null,
+      h('span', { class: 'muted' }, `  ${id} · `), wikiLink(p.wikipedia),
+      h('div', { class: 'muted' }, used.length ? `${used.length} entr${used.length === 1 ? 'y' : 'ies'}: ` + used.map((e) => e.title).join('; ') : 'Not linked to any entry'));
+  }));
+}
+
+// Load a places draft, dry-run it, let the user untick individual links, then apply only the ticked ones.
+async function loadPlacesDraft(file) {
+  const out = $('p-result');
+  let payload;
+  try { payload = JSON.parse(await file.text()); }
+  catch (e) { return out.replaceChildren(h('div', { class: 'issues' }, 'Not valid JSON: ' + e.message)); }
+  if (!payload || typeof payload !== 'object' || !('link' in payload)) {
+    return out.replaceChildren(h('div', { class: 'issues' }, 'Not a places draft (expected "link", and "places" for new places).'));
+  }
+  out.replaceChildren(h('p', { class: 'muted' }, 'Checking with Wikipedia…'));
+  const dry = await api('POST', '/places?dry=1', payload);
+  if (!dry.ok) { out.replaceChildren(issuesBox(dry.data)); return say('Draft has problems', 'err'); }
+  drawPlacesDraft(payload, dry.data);
+}
+
+function drawPlacesDraft(payload, dry) {
+  const out = $('p-result');
+  const skipped = new Set(dry.unchanged.map((u) => `${u.place}|${u.id}`));
+  const titles = Object.fromEntries(allEntries.map((e) => [e.id, e.title]));
+  const isNew = new Set([...dry.places.created, ...dry.places.updated]);
+  const rows = []; // { place, id, box }
+  const apply = h('button', { class: 'btn primary' });
+  const update = () => {
+    const n = rows.filter((r) => r.box.checked).length;
+    apply.textContent = `Apply ${n} link${n === 1 ? '' : 's'}`;
+    apply.disabled = n === 0;
+  };
+
+  const groups = Object.entries(payload.link ?? {}).map(([place, ids]) => {
+    const def = payload.places?.[place] ?? places[place];
+    const res = dry.resolved?.[place];
+    const items = [...new Set(ids)].map((id) => {
+      const done = skipped.has(`${place}|${id}`);
+      const box = h('input', { type: 'checkbox', checked: !done, disabled: done, style: 'width:auto;margin-right:.5rem' });
+      box.addEventListener('change', update);
+      if (!done) rows.push({ place, id, box });
+      return h('li', { style: 'margin:.2rem 0' },
+        h('label', { style: `display:flex;align-items:baseline;margin:0;font-size:inherit;color:${done ? 'var(--muted)' : 'var(--fg)'}` },
+          box, h('span', {}, titles[id] ?? id, h('span', { class: 'muted' }, `  ${id}` + (done ? ' (already linked)' : '')))));
+    });
+    return h('div', { style: 'margin-top:1rem' },
+      h('strong', {}, def?.label ?? place), h('span', { class: 'muted' }, `  ${place}`),
+      isNew.has(place) ? h('span', { class: 'muted' }, '  new place, created on apply') : null,
+      h('div', { class: 'muted' }, 'Wikipedia: ', def ? wikiLink(def.wikipedia) : '?',
+        res ? ` → "${res.title}"${res.description ? ` (${res.description})` : ''}; Spanish article: ${res.spanish ?? 'none, popup will be in English'}` : ''),
+      h('ul', { style: 'list-style:none;margin:.25rem 0 0;padding:0' }, items));
+  });
+
+  apply.onclick = async () => {
+    const body = { places: {}, link: {} };
+    for (const { place, id, box } of rows) if (box.checked) (body.link[place] ??= []).push(id);
+    // Only declare new places that something is actually linked to.
+    for (const place of Object.keys(body.link)) if (payload.places?.[place]) body.places[place] = payload.places[place];
+    const r = await api('POST', '/places', body);
+    if (!r.ok) { out.prepend(issuesBox(r.data)); return say('Nothing written', 'err'); }
+    say(`Linked ${r.data.changed.length} entr${r.data.changed.length === 1 ? 'y' : 'ies'}`);
+    out.replaceChildren(h('p', {}, `Applied. ${r.data.changed.length} entries changed` +
+      (r.data.places.created.length ? `, new places: ${r.data.places.created.join(', ')}` : '') + '. Review with git diff, then commit.'));
+    $('p-file').value = '';
+    await loadEntries(); await loadPlaces();
+  };
+  const cancel = h('button', { class: 'btn', onclick: () => { out.replaceChildren(); $('p-file').value = ''; } }, 'Discard');
+
+  out.replaceChildren(
+    h('p', { class: 'muted' }, 'Dry run passed (Wikipedia was contacted; nothing is written). Check that each place resolved to the right article, untick anything you do not want, then apply.'),
+    ...groups,
+    h('div', { class: 'actions' }, apply, cancel));
+  update();
+}
+
 // ---------------------------------------------------------------- import
 async function runImport(dry) {
   const out = $('i-result');
@@ -505,14 +623,17 @@ let searchTimer;
 $('e-q').oninput = () => { clearTimeout(searchTimer); searchTimer = setTimeout(loadEntries, 200); };
 $('i-dry').onclick = () => runImport(true);
 $('i-go').onclick = () => runImport(false);
+$('p-file').onchange = (ev) => { const f = ev.target.files[0]; if (f) loadPlacesDraft(f); };
+$('p-q').oninput = drawPlaceList;
 $('r-file').onchange = (ev) => { const f = ev.target.files[0]; if (f) loadDraft(f); };
 $('i-file').onchange = async (ev) => { const f = ev.target.files[0]; if (f) $('i-text').value = await f.text(); };
 
 (async () => {
   await loadTags();
   await loadEntries();
+  await loadPlaces();
   drawTagList();
-  show(['entries', 'tags', 'import'].includes(location.hash.slice(1)) ? location.hash.slice(1) : 'entries');
+  show(['entries', 'tags', 'places', 'import'].includes(location.hash.slice(1)) ? location.hash.slice(1) : 'entries');
 })();
 </script>
 </body>
