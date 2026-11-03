@@ -44,6 +44,15 @@
       }
     }
   },
+  "badajoz": {
+    "label": "Badajoz",
+    "wikipedia": "Badajoz",
+    "translations": {
+      "es": {
+        "label": "Badajoz"
+      }
+    }
+  },
   "bahoruco": {
     "label": "Bahoruco mountains",
     "wikipedia": "Sierra de Bahoruco",
@@ -161,6 +170,24 @@
       }
     }
   },
+  "cordoba": {
+    "label": "Córdoba",
+    "wikipedia": "Córdoba, Spain",
+    "translations": {
+      "es": {
+        "label": "Córdoba"
+      }
+    }
+  },
+  "covadonga": {
+    "label": "Covadonga",
+    "wikipedia": "Covadonga",
+    "translations": {
+      "es": {
+        "label": "Covadonga"
+      }
+    }
+  },
   "dadu": {
     "label": "Dadu (Khanbaliq)",
     "wikipedia": "Khanbaliq",
@@ -203,6 +230,24 @@
     "translations": {
       "es": {
         "label": "Gonaïves"
+      }
+    }
+  },
+  "granada": {
+    "label": "Granada",
+    "wikipedia": "Granada",
+    "translations": {
+      "es": {
+        "label": "Granada"
+      }
+    }
+  },
+  "guadalete": {
+    "label": "Guadalete",
+    "wikipedia": "Guadalete",
+    "translations": {
+      "es": {
+        "label": "Guadalete"
       }
     }
   },
@@ -341,6 +386,15 @@
       }
     }
   },
+  "seville": {
+    "label": "Seville",
+    "wikipedia": "Seville",
+    "translations": {
+      "es": {
+        "label": "Sevilla"
+      }
+    }
+  },
   "shangdu": {
     "label": "Shangdu",
     "wikipedia": "Shangdu",
@@ -368,6 +422,15 @@
       }
     }
   },
+  "toledo": {
+    "label": "Toledo",
+    "wikipedia": "Toledo, Spain",
+    "translations": {
+      "es": {
+        "label": "Toledo"
+      }
+    }
+  },
   "tortuga": {
     "label": "Tortuga",
     "wikipedia": "Tortuga (Haiti)",
@@ -383,6 +446,15 @@
     "translations": {
       "es": {
         "label": "Palacio de las Tullerías"
+      }
+    }
+  },
+  "valencia": {
+    "label": "Valencia",
+    "wikipedia": "Valencia",
+    "translations": {
+      "es": {
+        "label": "Valencia"
       }
     }
   },

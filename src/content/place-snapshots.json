@@ -69,6 +69,20 @@
       "extract": "Azua es un municipio de la República Dominicana, que está situado en la provincia de Azua, de la que es la capital."
     }
   },
+  "badajoz": {
+    "title": "Badajoz",
+    "url": "https://en.wikipedia.org/wiki/Badajoz",
+    "extract": "Badajoz is the capital of the province of Badajoz in the autonomous community of Extremadura, Spain. Belonging to the traditional comarca of Tierra de Badajoz, it is situated close to the Portuguese border, on the left bank of the river Guadiana. The population in 2011 was 151,565.",
+    "description": "Municipality in Extremadura, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Badajoz_desde_la_Torre_de_Espantaperros.jpg/330px-Badajoz_desde_la_Torre_de_Espantaperros.jpg",
+    "lat": 38.88027778,
+    "lon": -6.97527778,
+    "es": {
+      "title": "Badajoz",
+      "url": "https://es.wikipedia.org/wiki/Badajoz",
+      "extract": "Badajoz es un municipio y ciudad española, capital de la provincia homónima, en la comunidad autónoma de Extremadura. Con una población de 150 209 habitantes, es la ciudad más poblada de Extremadura y su mayor centro económico, comercial y de servicios. El río Guadiana surca la ciudad de este a oeste para después girar hacia el sur, donde hace de frontera con Portugal. En torno al 84,77 % de sus habitantes reside en el núcleo urbano;[cita requerida] el resto está ubicado en diversas pedanías y núcleos dependientes."
+    }
+  },
   "bahoruco": {
     "title": "Baoruco Mountain Range",
     "url": "https://en.wikipedia.org/wiki/Baoruco_Mountain_Range",
@@ -250,6 +264,34 @@
       "extract": "Cholula de Rivadavia, también llamada San Pedro Cholula —nombre del municipio —, es una ciudad del estado mexicano de Puebla, que forma parte de la Zona Metropolitana de Puebla y se encuentra prácticamente conurbada con la capital del estado, la ciudad de Puebla de Zaragoza; se localiza en el asentamiento de la antigua ciudad prehispánica de Cholula, de la que recibe el nombre. Es cabecera del municipio de San Pedro Cholula."
     }
   },
+  "cordoba": {
+    "title": "Córdoba, Spain",
+    "url": "https://en.wikipedia.org/wiki/C%C3%B3rdoba%2C_Spain",
+    "extract": "Córdoba, or sometimes Cordova, is a city in Andalusia, Spain, and the capital of the province of Córdoba. With a population of 324,902 as of 2024, it is the 12th-largest city in Spain and the 3rd-largest in Andalusia.",
+    "description": "City in Andalusia, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/C%C3%B3rdoba_aerial_2.jpg/330px-C%C3%B3rdoba_aerial_2.jpg",
+    "lat": 37.89,
+    "lon": -4.78,
+    "es": {
+      "title": "Córdoba (España)",
+      "url": "https://es.wikipedia.org/wiki/C%C3%B3rdoba_(Espa%C3%B1a)",
+      "extract": "Córdoba es una ciudad y municipio español en Andalucía, capital de la provincia homónima, situada en una depresión a orillas del Guadalquivir y al pie de Sierra Morena. Alberga una población de 323 262 habitantes, siendo la tercera ciudad más grande y poblada de Andalucía tras Sevilla y Málaga, y la duodécima de España. Su área metropolitana comprende los municipios de la capital junto con los de Almodóvar del Río, Guadalcázar, La Carlota, Obejo, Villafranca de Córdoba, Villaharta y Villaviciosa de Córdoba, albergando una población total de 354 202 habitantes en 2022, la vigésimo tercera más poblada de España."
+    }
+  },
+  "covadonga": {
+    "title": "Covadonga",
+    "url": "https://en.wikipedia.org/wiki/Covadonga",
+    "extract": "Covadonga is one of 11 parishes in Cangas de Onís, a municipality within the province and autonomous community of Asturias, in Northwestern Spain. It is in the Picos de Europa mountains. With a permanent population of 55, the parish became a site of pilgrimage and a place of great cultural importance following the 722 Battle of Covadonga, which marked the beginning of the Spanish Reconquista of the Iberian Peninsula. The battle, which supposedly took place near the village in 722, was the first Christian victory in the Iberian Peninsula over the Arabs invading from north Africa under the Umayyad banner, and is often considered to be the beginning of the almost eight-century-long effort to expel Muslim rulers governing Iberia during the Reconquista. However, many modern historians do now dispute the importance of the battle and whether or not it even took place at all.",
+    "description": "Parish in Asturias, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Covandoga01.jpg/330px-Covandoga01.jpg",
+    "lat": 43.316667,
+    "lon": -5.05,
+    "es": {
+      "title": "Covadonga",
+      "url": "https://es.wikipedia.org/wiki/Covadonga",
+      "extract": "Covadonga es una parroquia del concejo de Cangas de Onís, en el Principado de Asturias (España), así como la única población, con la categoría de lugar, de dicha parroquia."
+    }
+  },
   "dadu": {
     "title": "Dadu (Beijing)",
     "url": "https://en.wikipedia.org/wiki/Dadu_(Beijing)",
@@ -318,6 +360,34 @@
       "title": "Les Gonaïves",
       "url": "https://es.wikipedia.org/wiki/Les_Gona%C3%AFves",
       "extract": "Les Gonaïves es una comuna de Haití que está situada en el distrito de Les Gonaïves, del departamento de Artibonito."
+    }
+  },
+  "granada": {
+    "title": "Granada",
+    "url": "https://en.wikipedia.org/wiki/Granada",
+    "extract": "Granada is the capital city of the province of Granada, in the autonomous community of Andalusia, Spain. Granada is located at the foot of the Sierra Nevada mountains, at the confluence of four rivers, the Darro, the Genil, the Monachil and the Beiro. Ascribed to the Vega de Granada comarca, the city sits at an average elevation of 738 m (2,421 ft) above sea level 50 km from the Mediterranean coast, the Costa Tropical. With a population of 233,532 as of 2024, it is the 20th-largest city in Spain and is an important wine growing region. It was the last Muslim stronghold in Islamic Spain.",
+    "description": "Municipality in Andalusia, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Granada_%2825987961022%29.jpg/330px-Granada_%2825987961022%29.jpg",
+    "lat": 37.175,
+    "lon": -3.6,
+    "es": {
+      "title": "Granada",
+      "url": "https://es.wikipedia.org/wiki/Granada",
+      "extract": "Granada es un municipio y ciudad española, capital de la provincia homónima, en la comunidad autónoma de Andalucía. Está situada en la parte central de la comarca de la Vega de Granada, a una altitud de 680 m s. n. m., en una amplia depresión intrabética formada por el río Genil y por el piedemonte del macizo más alto de la península ibérica, Sierra Nevada, que condiciona su clima."
+    }
+  },
+  "guadalete": {
+    "title": "Guadalete",
+    "url": "https://en.wikipedia.org/wiki/Guadalete",
+    "extract": "The Guadalete is a river located almost entirely in the Spanish Province of Cádiz, rising in the Sierra de Grazalema Natural Park at an elevation of about 1,000 metres (3,300 ft), and running for 172 kilometres (107 mi) into the Bay of Cádiz at El Puerto de Santa Maria, north of the city of Cádiz. The river's name comes from the Arabic phrase وادي لكة meaning \"River of Forgetfulness\".",
+    "description": "River in Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Desembocadura_del_r%C3%ADo_Guadalete2.JPG/330px-Desembocadura_del_r%C3%ADo_Guadalete2.JPG",
+    "lat": 36.75222222,
+    "lon": -5.79333333,
+    "es": {
+      "title": "Guadalete",
+      "url": "https://es.wikipedia.org/wiki/Guadalete",
+      "extract": "El Guadalete es un río del sur de España, perteneciente a la vertiente atlántica de Andalucía. Nace al norte de la sierra de Grazalema y desemboca en El Puerto de Santa María, en la bahía de Cádiz. Transcurre principalmente por la provincia de Cádiz y en parte por la de Sevilla. El Guadalete, sus afluentes y su cuenca abastecen de agua de riego a una extensa vega y es también la fuente de agua potable de aproximadamente un millón de personas. Sus dos afluentes más importantes son el Guadalporcún, que drena el norte de la cuenca y el Majaceite, que lleva las aguas de la cuenca meridional."
     }
   },
   "hakata-bay": {
@@ -525,6 +595,20 @@
       "extract": "Santo Domingo es la capital de la República Dominicana. La ciudad está situada sobre el mar Caribe, en la desembocadura del río Ozama, en la costa meridional de La Española, a 155 km al sureste de Santiago."
     }
   },
+  "seville": {
+    "title": "Seville",
+    "url": "https://en.wikipedia.org/wiki/Seville",
+    "extract": "Seville is the capital and largest city of the autonomous community of Andalusia and the province of Seville in Spain. It is situated on the lower reaches of the River Guadalquivir, in the southwest of the Iberian Peninsula.",
+    "description": "Capital of Andalusia and the Province of Seville, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Sevilla_Cathedral_-_Southeast.jpg/330px-Sevilla_Cathedral_-_Southeast.jpg",
+    "lat": 37.38861111,
+    "lon": -5.995,
+    "es": {
+      "title": "Sevilla",
+      "url": "https://es.wikipedia.org/wiki/Sevilla",
+      "extract": "Sevilla es un municipio y una ciudad de España, capital de la provincia homónima y de Andalucía. Con una población de 689 423 habitantes, es la ciudad más poblada de Andalucía y la quinta ciudad de España por población municipal, por detrás de Madrid, Barcelona, Valencia y Zaragoza. El municipio tiene una superficie de 141,4 km². El área metropolitana de Sevilla está compuesta por 46 municipios, incluye a una población de 1 548 741 habitantes y ocupa una superficie de 4905,04 km². Sevilla, al disponer de su Real Alcázar, es una de las cuatro ciudades donde la familia real española tiene residencia oficial, junto con Madrid, Barcelona y Palma."
+    }
+  },
   "shangdu": {
     "title": "Shangdu",
     "url": "https://en.wikipedia.org/wiki/Shangdu",
@@ -567,6 +651,20 @@
       "extract": "Tlaxcala, oficialmente llamada Tlaxcala de Xicohténcatl, es una ciudad mexicana, capital y sede de los poderes, secretarías y dependencias del estado de Tlaxcala, así como cabecera del municipio homónimo. En 2020, agrupó un total de 13 555 habitantes, siendo la capital estatal menos poblada del país, mientras que su área metropolitana conformada por 19 municipios registró 501 655 habitantes en el año 2010, lo que la convierte en la zona más grande y poblada de la región."
     }
   },
+  "toledo": {
+    "title": "Toledo, Spain",
+    "url": "https://en.wikipedia.org/wiki/Toledo%2C_Spain",
+    "extract": "Toledo is a city and municipality in Spain. It is the capital of the province of Toledo and the de jure seat of the government and parliament of the autonomous community of Castilla–La Mancha.",
+    "description": "City in Castilla–La Mancha, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Toledo_%2837737041515%29.jpg/330px-Toledo_%2837737041515%29.jpg",
+    "lat": 39.85666667,
+    "lon": -4.02444444,
+    "es": {
+      "title": "Toledo",
+      "url": "https://es.wikipedia.org/wiki/Toledo",
+      "extract": "Toledo es un municipio y ciudad española, capital de la provincia homónima, en la comunidad autónoma de Castilla-La Mancha. Su término municipal cuenta con una población de 87 216 habitantes. El casco histórico está situado en la margen derecha del Tajo, en una colina rodeada por un pronunciado meandro. El término municipal incluye dos barrios muy separados del núcleo principal: el de Azucaica, en la orilla derecha del río, y el de Santa María de Benquerencia, situado prácticamente enfrente del anterior en la margen izquierda."
+    }
+  },
   "tortuga": {
     "title": "Tortuga",
     "url": "https://en.wikipedia.org/wiki/Tortuga",
@@ -593,6 +691,20 @@
       "title": "Palacio de las Tullerías",
       "url": "https://es.wikipedia.org/wiki/Palacio_de_las_Tuller%C3%ADas",
       "extract": "El palacio de las Tullerías fue un palacio imperial y real situado en el centro de París, formando junto al Louvre un único complejo arquitectónico."
+    }
+  },
+  "valencia": {
+    "title": "Valencia",
+    "url": "https://en.wikipedia.org/wiki/Valencia",
+    "extract": "Valencia, known officially in Valencian as València, is the capital and largest city of the Valencian Community and the province of the same name in Spain. It is located on the banks of the Turia, on the east coast of the Iberian Peninsula on the Mediterranean Sea. With a population of 841,558, it is the 3rd most populous city in Spain. The urban area of Valencia has 1.6 million people while the metropolitan region has 2.5 million.",
+    "description": "Municipality in Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg/330px-Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg",
+    "lat": 39.47,
+    "lon": -0.37638889,
+    "es": {
+      "title": "Valencia",
+      "url": "https://es.wikipedia.org/wiki/Valencia",
+      "extract": "Valencia es un municipio y una ciudad de España, capital de la provincia homónima y de la Comunidad Valenciana. Su población es de 840 792 habitantes, alcanzando los 1 615 223 habitantes si se incluye su espacio urbano, mientras que la región metropolitana tiene 2,5 millones. Es la tercera ciudad y área metropolitana más poblada de España, por detrás de Madrid y Barcelona."
     }
   },
   "varennes": {
