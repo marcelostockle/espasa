@@ -17,11 +17,32 @@ interface Summary {
   content_urls?: { desktop?: { page?: string } };
 }
 
+// Wikipedia rate-limits bursts, and speed doesn't matter here: requests are spaced out, and a 429
+// is retried after the delay Wikipedia asks for (or an increasing one).
+const MIN_GAP_MS = 1000;
+const MAX_ATTEMPTS = 6;
+const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
+let gate: Promise<unknown> = Promise.resolve();
+/** Runs `job` only after the previous one has finished and MIN_GAP_MS has passed, even across callers. */
+function spaced<T>(job: () => Promise<T>): Promise<T> {
+  const run = gate.then(job, job);
+  gate = run.then(() => sleep(MIN_GAP_MS), () => sleep(MIN_GAP_MS));
+  return run;
+}
+
 async function getJson<T>(url: string): Promise<{ status: number; data?: T }> {
-  const res = await fetch(url, { headers: HEADERS, signal: AbortSignal.timeout(15_000) });
-  if (res.status === 404) return { status: 404 };
-  if (!res.ok) throw new Error(`Wikipedia returned ${res.status} for ${url}`);
-  return { status: res.status, data: (await res.json()) as T };
+  for (let attempt = 1; ; attempt++) {
+    const res = await spaced(() => fetch(url, { headers: HEADERS, signal: AbortSignal.timeout(15_000) }));
+    if (res.status === 404) return { status: 404 };
+    if ((res.status === 429 || res.status === 503) && attempt < MAX_ATTEMPTS) {
+      const asked = Number(res.headers.get('retry-after'));
+      await sleep(Math.min(60_000, Number.isFinite(asked) && asked > 0 ? asked * 1000 : 2000 * 2 ** (attempt - 1)));
+      continue;
+    }
+    if (!res.ok) throw new Error(`Wikipedia returned ${res.status} for ${url}`);
+    return { status: res.status, data: (await res.json()) as T };
+  }
 }
 
 const summaryUrl = (lang: string, title: string) =>
@@ -37,8 +58,20 @@ async function spanishTitle(title: string): Promise<string | null> {
 
 export type Lookup = { ok: true; snapshot: PlaceSnapshot } | { ok: false; problem: string };
 
+// Successful lookups are kept briefly, so applying a draft right after its dry run doesn't fetch it all again.
+const CACHE_MS = 10 * 60 * 1000;
+const cache = new Map<string, { at: number; lookup: Lookup }>();
+
 /** Looks up an English article (and its Spanish counterpart) and rejects missing or disambiguation pages. */
 export async function lookupArticle(title: string): Promise<Lookup> {
+  const hit = cache.get(title);
+  if (hit && Date.now() - hit.at < CACHE_MS) return hit.lookup;
+  const lookup = await fetchArticle(title);
+  if (lookup.ok) cache.set(title, { at: Date.now(), lookup });
+  return lookup;
+}
+
+async function fetchArticle(title: string): Promise<Lookup> {
   const en = await getJson<Summary>(summaryUrl('en', title));
   if (!en.data) return { ok: false, problem: `No English Wikipedia article titled "${title}"` };
   const s = en.data;

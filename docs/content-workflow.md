@@ -131,6 +131,7 @@ All skills stop after the dry run and a report. **None imports anything unless y
 - **Build fails with a reference error**: an entry names a tag or place that doesn't exist. Create it first.
 - **`No English Wikipedia article titled ...` / `disambiguation page`** on a place: use the exact title of the specific article (look it up on en.wikipedia.org).
 - **`Could not reach Wikipedia`**: the dry run needs the network; retry.
+- **Place checks are slow on purpose**: Wikipedia rate-limits bursts, so lookups run one at a time, about a second apart (three requests per new place), and retry when asked to wait. A draft with 20 new places takes a minute or two; the Places tab shows "Checking with Wikipedia…" meanwhile. Results are cached for 10 minutes, so applying right after the dry run is quick.
 - **Retag/new feature "not found"**: your admin server is running old code; restart it.
 
 ## Known limits
