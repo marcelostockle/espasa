@@ -421,6 +421,20 @@
       }
     }
   },
+  "jose-de-san-martin": {
+    "label": "José de San Martín",
+    "color": "#ec407a",
+    "description": "José de San Martín (1778-1850), Argentine general who led the liberation of Argentina, Chile and Peru from Spain and became Protector of Peru.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "José de San Martín",
+        "description": "José de San Martín (1778-1850), general argentino que lideró la liberación de Argentina, Chile y el Perú del dominio español y fue Protector del Perú."
+      }
+    }
+  },
   "kublai-khan": {
     "label": "Kublai Khan",
     "color": "#00b0ff",
@@ -713,6 +727,20 @@
       "es": {
         "label": "Ciencia",
         "description": "Descubrimientos y método científico."
+      }
+    }
+  },
+  "simon-bolivar": {
+    "label": "Simón Bolívar",
+    "color": "#689f38",
+    "description": "Simón Bolívar (1783-1830), Venezuelan-born leader of the wars of independence against Spain in northern South America and Peru, and president of Gran Colombia.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Simón Bolívar",
+        "description": "Simón Bolívar (1783-1830), líder venezolano de las guerras de independencia contra España en el norte de Sudamérica y el Perú, y presidente de la Gran Colombia."
       }
     }
   },
