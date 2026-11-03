@@ -35,6 +35,15 @@
       }
     }
   },
+  "ayacucho": {
+    "label": "Ayacucho",
+    "wikipedia": "Ayacucho",
+    "translations": {
+      "es": {
+        "label": "Ayacucho"
+      }
+    }
+  },
   "azua": {
     "label": "Azua",
     "wikipedia": "Azua de Compostela",
@@ -89,6 +98,15 @@
       }
     }
   },
+  "bogota": {
+    "label": "Bogotá",
+    "wikipedia": "Bogotá",
+    "translations": {
+      "es": {
+        "label": "Bogotá"
+      }
+    }
+  },
   "bois-caiman": {
     "label": "Bois Caïman",
     "wikipedia": "Bois Caïman",
@@ -134,6 +152,15 @@
       }
     }
   },
+  "buenos-aires": {
+    "label": "Buenos Aires",
+    "wikipedia": "Buenos Aires",
+    "translations": {
+      "es": {
+        "label": "Buenos Aires"
+      }
+    }
+  },
   "burgos": {
     "label": "Burgos",
     "wikipedia": "Burgos",
@@ -158,6 +185,15 @@
     "translations": {
       "es": {
         "label": "Cajamarca"
+      }
+    }
+  },
+  "callao": {
+    "label": "Callao",
+    "wikipedia": "Callao",
+    "translations": {
+      "es": {
+        "label": "El Callao"
       }
     }
   },
@@ -269,6 +305,15 @@
       }
     }
   },
+  "gran-pajonal": {
+    "label": "Gran Pajonal",
+    "wikipedia": "Gran Pajonal",
+    "translations": {
+      "es": {
+        "label": "Gran Pajonal"
+      }
+    }
+  },
   "granada": {
     "label": "Granada",
     "wikipedia": "Granada",
@@ -284,6 +329,15 @@
     "translations": {
       "es": {
         "label": "Guadalete"
+      }
+    }
+  },
+  "guayaquil": {
+    "label": "Guayaquil",
+    "wikipedia": "Guayaquil",
+    "translations": {
+      "es": {
+        "label": "Guayaquil"
       }
     }
   },
@@ -314,6 +368,15 @@
       }
     }
   },
+  "junin": {
+    "label": "Junín",
+    "wikipedia": "Junín, Peru",
+    "translations": {
+      "es": {
+        "label": "Junín"
+      }
+    }
+  },
   "la-isabela": {
     "label": "La Isabela",
     "wikipedia": "La Isabela",
@@ -329,6 +392,15 @@
     "translations": {
       "es": {
         "label": "Leipzig"
+      }
+    }
+  },
+  "lima": {
+    "label": "Lima",
+    "wikipedia": "Lima",
+    "translations": {
+      "es": {
+        "label": "Lima"
       }
     }
   },
@@ -395,6 +467,15 @@
       }
     }
   },
+  "pisco": {
+    "label": "Pisco",
+    "wikipedia": "Pisco, Peru",
+    "translations": {
+      "es": {
+        "label": "Pisco"
+      }
+    }
+  },
   "place-de-la-concorde": {
     "label": "Place de la Révolution",
     "wikipedia": "Place de la Concorde",
@@ -410,6 +491,15 @@
     "translations": {
       "es": {
         "label": "Puerto Príncipe"
+      }
+    }
+  },
+  "potosi": {
+    "label": "Potosí",
+    "wikipedia": "Potosí",
+    "translations": {
+      "es": {
+        "label": "Potosí"
       }
     }
   },

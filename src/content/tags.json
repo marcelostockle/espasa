@@ -744,6 +744,20 @@
       }
     }
   },
+  "spanish-american-independence": {
+    "label": "Spanish American independence",
+    "color": "#8d6e00",
+    "description": "The wars and political crises (c. 1808-1826) through which Spain's American territories broke away from the Spanish Crown and became independent states.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Independencia hispanoamericana",
+        "description": "Las guerras y crisis políticas (h. 1808-1826) por las que los territorios americanos de España se separaron de la Corona española y se convirtieron en Estados independientes."
+      }
+    }
+  },
   "taino": {
     "label": "Taíno",
     "color": "#0288d1",
