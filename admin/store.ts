@@ -135,6 +135,18 @@ export async function writeEntryTags(e: StoredEntry) {
   }
 }
 
+/** Change only an entry's places line (adding it after `tags:` if absent), leaving the rest byte-for-byte alone. */
+export async function writeEntryPlaces(e: StoredEntry) {
+  const path = entryPath(e.id);
+  const text = await readFile(path, 'utf8');
+  const line = /^places:[ \t]*\[.*\][ \t]*(\r?)$/m;
+  const tags = /^(tags:.*?)(\r?)$/m;
+  const value = `places: ${J(e.places ?? [])}`;
+  if (line.test(text)) await writeAtomic(path, text.replace(line, (_m, cr) => `${value}${cr}`));
+  else if (tags.test(text)) await writeAtomic(path, text.replace(tags, (_m, t, cr) => `${t}${cr}\n${value}${cr}`));
+  else await writeEntry(e);
+}
+
 export async function deleteEntry(id: string): Promise<boolean> {
   try {
     await unlink(entryPath(id));

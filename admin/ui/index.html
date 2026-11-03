@@ -94,7 +94,7 @@
 
   <section id="import" hidden>
     <div class="panel">
-      <p class="muted">Paste JSON shaped like <code>{ "tags": {…}, "entries": […] }</code>, or a retag draft like <code>{ "add": { "tag-id": ["entry-id", …] } }</code>, or load a file. Always try a dry run first; nothing is written if any item is invalid.</p>
+      <p class="muted">Paste JSON shaped like <code>{ "tags": {…}, "entries": […] }</code>, or a retag draft like <code>{ "add": { "tag-id": ["entry-id", …] } }</code>, or a places draft like <code>{ "places": {…}, "link": { "place-id": ["entry-id", …] } }</code>, or load a file. Always try a dry run first; nothing is written if any item is invalid.</p>
       <textarea id="i-text" style="min-height:16rem" spellcheck="false"></textarea>
       <div class="row" style="margin-top:.75rem">
         <div style="flex:0 0 auto"><input type="file" id="i-file" accept=".json,application/json" /></div>
@@ -281,6 +281,8 @@ function renderEntryEditor(id, e) {
       sources: sources.value.split('\n').map((s) => s.trim()).filter(Boolean),
     };
     if (hasEnd.checked) payload.end = readDate('end');
+    // The form has no places field; send them back or a save would silently delete them.
+    if (e.places?.length) payload.places = e.places;
     // Translations must be sent back or a save would silently delete them.
     const translations = { ...(e.translations ?? {}) };
     if (esTitle.value.trim() || esSummary.value.trim()) translations.es = { title: esTitle.value, summary: esSummary.value };
@@ -478,13 +480,14 @@ async function runImport(dry) {
   // A payload with add/remove (and no entries/tags) is a retag draft, not an import.
   const isRetag = payload && typeof payload === 'object' && !('entries' in payload) && ('add' in payload || 'remove' in payload);
   if (isRetag) p.delete('onConflict');
-  const r = await api('POST', (isRetag ? '/retag?' : '/import?') + p, payload);
+  const isPlaces = payload && typeof payload === 'object' && !('entries' in payload) && 'link' in payload;
+  const r = await api('POST', (isRetag ? '/retag?' : isPlaces ? '/places?' : '/import?') + p, payload);
   if (!r.ok) { out.replaceChildren(issuesBox(r.data)); return say('Nothing written', 'err'); }
   const d = r.data;
   out.replaceChildren(
-    h('p', {}, dry ? 'Dry run: nothing was written. This would happen:' : isRetag ? 'Retagged.' : 'Imported.'),
-    h('pre', {}, JSON.stringify(isRetag ? { tags: d.tags, changed: d.changed, unchanged: d.unchanged } : { tags: d.tags, entries: d.entries }, null, 2)));
-  say(dry ? 'Dry run OK' : isRetag ? 'Retagged' : 'Imported');
+    h('p', {}, dry ? 'Dry run: nothing was written. This would happen:' : isRetag ? 'Retagged.' : isPlaces ? 'Places linked.' : 'Imported.'),
+    h('pre', {}, JSON.stringify(isRetag ? { tags: d.tags, changed: d.changed, unchanged: d.unchanged } : isPlaces ? { places: d.places, resolved: d.resolved, changed: d.changed, unchanged: d.unchanged } : { tags: d.tags, places: d.places, entries: d.entries }, null, 2)));
+  say(dry ? 'Dry run OK' : isRetag ? 'Retagged' : isPlaces ? 'Places linked' : 'Imported');
   if (!dry) { await loadTags(); await loadEntries(); drawTagList(); }
 }
 

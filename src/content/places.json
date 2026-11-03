@@ -16,5 +16,14 @@
         "label": "México-Tenochtitlan"
       }
     }
+  },
+  "veracruz": {
+    "label": "Veracruz",
+    "wikipedia": "Veracruz (city)",
+    "translations": {
+      "es": {
+        "label": "Veracruz"
+      }
+    }
   }
 }

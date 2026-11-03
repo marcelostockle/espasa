@@ -26,5 +26,19 @@
       "url": "https://es.wikipedia.org/wiki/M%C3%A9xico-Tenochtitlan",
       "extract": "Tenochtitlan, también conocida como México-Tenochtitlan (), fue el altépetl (ciudad-estado) de la civilización mexica y capital de la Triple Alianza,de la que formaba parte junto a Tetzcuco y Tlacopan. Durante la conquista española fue destruida y se fundó sobre sus restos la Ciudad de México, que fue la capital del Virreinato de la Nueva España y luego la capital de los Estados Unidos Mexicanos."
     }
+  },
+  "veracruz": {
+    "title": "Veracruz (city)",
+    "url": "https://en.wikipedia.org/wiki/Veracruz_(city)",
+    "extract": "Veracruz, also known as Heroica Veracruz, is a major port city and municipal seat for the surrounding municipality of Veracruz on the Gulf of Mexico and the most populous city in the Mexican state of Veracruz. The city is located along the coast in the central part of the state, 90 km (56 mi) southeast of the state capital Xalapa.",
+    "description": "City and municipality in Veracruz, Mexico",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Teatro_Francisco_Javier_Clavijero.jpg/330px-Teatro_Francisco_Javier_Clavijero.jpg",
+    "lat": 19.19027778,
+    "lon": -96.15333333,
+    "es": {
+      "title": "Veracruz",
+      "url": "https://es.wikipedia.org/wiki/Veracruz",
+      "extract": "Heroica Veracruz es una ciudad mexicana, cabecera del municipio de Veracruz, situada en el Estado de Veracruz. Forma parte de la zona metropolitana de Veracruz. Tiene el segundo puerto marítimo comercial más importante de México. En 2020 contaba con una población de 405 953 habitantes."
+    }
   }
 }

@@ -3,6 +3,7 @@
 import { z } from 'astro/zod';
 import { entryFields, tagFields } from '../src/lib/schemas.ts';
 import { sortKey } from '../src/lib/time.ts';
+import { planPlaces, type PlaceChanges } from './places.ts';
 import { SLUG, type StoredEntry } from './store.ts';
 
 export type OnConflict = 'fail' | 'skip' | 'overwrite';
@@ -14,6 +15,7 @@ export interface Issue {
 
 export interface State {
   tags: Record<string, Record<string, unknown>>;
+  places: Record<string, Record<string, unknown>>;
   entryIds: Set<string>;
   eraSpan: { start: number; end: number } | null;
 }
@@ -21,6 +23,7 @@ export interface State {
 export interface Plan {
   issues: Issue[];
   tags: { create: Record<string, object>; update: Record<string, object>; skip: string[] };
+  places: PlaceChanges;
   entries: { create: StoredEntry[]; overwrite: StoredEntry[]; skip: string[] };
 }
 
@@ -31,6 +34,7 @@ const entryInput = entryFields
   .extend({
     id: slug.optional(),
     tags: z.array(slug).min(1),
+    places: z.array(slug).default([]),
     body: z.string().default(''),
   })
   .strict();
@@ -61,6 +65,7 @@ export function buildPlan(
   const plan: Plan = {
     issues: [],
     tags: { create: {}, update: {}, skip: [] },
+    places: { create: {}, update: {}, skip: [] },
     entries: { create: [], overwrite: [], skip: [] },
   };
   const fail = (path: string, message: string) => plan.issues.push({ path, message });
@@ -69,10 +74,14 @@ export function buildPlan(
     fail('', 'Body must be an object like { "tags": {...}, "entries": [...] }');
     return plan;
   }
-  const { tags: rawTags = {}, entries: rawEntries = [], ...extra } = payload as Record<string, unknown>;
+  const { tags: rawTags = {}, places: rawPlaces = {}, entries: rawEntries = [], ...extra } = payload as Record<string, unknown>;
   for (const key of Object.keys(extra)) fail(key, 'Unknown top-level key');
   if (typeof rawTags !== 'object' || rawTags === null || Array.isArray(rawTags)) {
     fail('tags', 'Must be an object keyed by tag id');
+    return plan;
+  }
+  if (typeof rawPlaces !== 'object' || rawPlaces === null || Array.isArray(rawPlaces)) {
+    fail('places', 'Must be an object keyed by place id');
     return plan;
   }
   if (!Array.isArray(rawEntries)) {
@@ -107,6 +116,9 @@ export function buildPlan(
     }
   }
 
+  const { known: knownPlaces, ...placeChanges } = planPlaces(rawPlaces as Record<string, unknown>, state.places, onConflict, fail);
+  plan.places = placeChanges;
+
   const seen = new Set<string>();
   rawEntries.forEach((raw, i) => {
     const at = `entries[${i}]`;
@@ -125,6 +137,9 @@ export function buildPlan(
 
     for (const t of data.tags) {
       if (!knownTags.has(t)) fail(`${at}.tags`, `Unknown tag "${t}" (declare it under "tags" or create it first)`);
+    }
+    for (const p of data.places) {
+      if (!knownPlaces.has(p)) fail(`${at}.places`, `Unknown place "${p}" (declare it under "places" or create it first)`);
     }
     if (data.end && sortKey(data.end) < sortKey(data.date)) {
       fail(`${at}.end`, 'End date is before the start date');
