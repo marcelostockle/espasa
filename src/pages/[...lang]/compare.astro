@@ -48,7 +48,7 @@ const strings = t(locale);
   const detailInput = document.getElementById('detail') as HTMLInputElement;
   detailInput.checked = params.get('view') === 'detailed';
   const singleInput = document.getElementById('single') as HTMLInputElement;
-  let preferSingle = params.get('lanes') === 'single';
+  let preferSingle = params.get('lanes') !== 'multi';
   const narrow = window.matchMedia('(max-width: 40rem)');
 
   // Narrow screens can't fit parallel lanes, so single lane is forced there
@@ -63,7 +63,7 @@ const strings = t(locale);
     if (fromInput.value !== '') p.set('from', fromInput.value);
     if (toInput.value !== '') p.set('to', toInput.value);
     if (detailInput.checked) p.set('view', 'detailed');
-    if (preferSingle) p.set('lanes', 'single');
+    if (!preferSingle) p.set('lanes', 'multi');
     const qs = p.toString();
     history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
   }
