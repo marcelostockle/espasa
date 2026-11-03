@@ -41,6 +41,20 @@
       }
     }
   },
+  "aztec-empire": {
+    "label": "Aztec Empire",
+    "color": "#8e0000",
+    "description": "The Mexica-led Triple Alliance of Tenochtitlan, Tetzcoco and Tlacopan that dominated central Mexico from 1428 until the Spanish conquest of 1521.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio azteca",
+        "description": "La Triple Alianza de Tenochtitlan, Tetzcoco y Tlacopan, encabezada por los mexicas, que dominó el centro de México desde 1428 hasta la conquista española de 1521."
+      }
+    }
+  },
   "baroque-music": {
     "label": "Baroque music",
     "color": "#8d6e63",
@@ -488,6 +502,20 @@
       "es": {
         "label": "Países Bajos",
         "description": "Los Países Bajos y la República de las Siete Provincias Unidas."
+      }
+    }
+  },
+  "new-spain": {
+    "label": "New Spain",
+    "color": "#ff1744",
+    "description": "The Spanish colony of New Spain, centred on Mexico City, from the conquest of Tenochtitlan in 1521 and its viceroyalty from 1535.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Nueva España",
+        "description": "La colonia española de Nueva España, con capital en la Ciudad de México, desde la conquista de Tenochtitlan en 1521 y su virreinato desde 1535."
       }
     }
   },
