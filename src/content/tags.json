@@ -238,6 +238,20 @@
       }
     }
   },
+  "francisco-pizarro": {
+    "label": "Francisco Pizarro",
+    "color": "#e65100",
+    "description": "Francisco Pizarro (died 1541), the Spanish conquistador who led the conquest of the Inca Empire, captured Atahualpa and founded Lima.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Francisco Pizarro",
+        "description": "Francisco Pizarro (m. 1541), conquistador español que dirigió la conquista del Imperio inca, capturó a Atahualpa y fundó Lima."
+      }
+    }
+  },
   "french-monarchy": {
     "label": "French monarchy",
     "color": "#1f3a93",
