@@ -8,12 +8,30 @@
       }
     }
   },
+  "anagni": {
+    "label": "Anagni",
+    "wikipedia": "Anagni",
+    "translations": {
+      "es": {
+        "label": "Anagni"
+      }
+    }
+  },
   "aranjuez": {
     "label": "Aranjuez",
     "wikipedia": "Aranjuez",
     "translations": {
       "es": {
         "label": "Aranjuez"
+      }
+    }
+  },
+  "avignon": {
+    "label": "Avignon",
+    "wikipedia": "Avignon",
+    "translations": {
+      "es": {
+        "label": "Aviñón"
       }
     }
   },
@@ -53,12 +71,48 @@
       }
     }
   },
+  "bastille": {
+    "label": "Bastille",
+    "wikipedia": "Bastille",
+    "translations": {
+      "es": {
+        "label": "Bastilla"
+      }
+    }
+  },
   "bois-caiman": {
     "label": "Bois Caïman",
     "wikipedia": "Bois Caïman",
     "translations": {
       "es": {
         "label": "Bois Caïman"
+      }
+    }
+  },
+  "bologna": {
+    "label": "Bologna",
+    "wikipedia": "Bologna",
+    "translations": {
+      "es": {
+        "label": "Bolonia"
+      }
+    }
+  },
+  "bourges": {
+    "label": "Bourges",
+    "wikipedia": "Bourges",
+    "translations": {
+      "es": {
+        "label": "Bourges"
+      }
+    }
+  },
+  "bouvines": {
+    "label": "Bouvines",
+    "wikipedia": "Bouvines",
+    "translations": {
+      "es": {
+        "label": "Bouvines"
       }
     }
   },
@@ -107,6 +161,15 @@
       }
     }
   },
+  "fontainebleau": {
+    "label": "Fontainebleau",
+    "wikipedia": "Fontainebleau",
+    "translations": {
+      "es": {
+        "label": "Fontainebleau"
+      }
+    }
+  },
   "fort-de-joux": {
     "label": "Fort de Joux",
     "wikipedia": "Fort de Joux",
@@ -149,6 +212,60 @@
     "translations": {
       "es": {
         "label": "Moca"
+      }
+    }
+  },
+  "nantes": {
+    "label": "Nantes",
+    "wikipedia": "Nantes",
+    "translations": {
+      "es": {
+        "label": "Nantes"
+      }
+    }
+  },
+  "palazzo-pitti": {
+    "label": "Palazzo Pitti",
+    "wikipedia": "Palazzo Pitti",
+    "translations": {
+      "es": {
+        "label": "Palacio Pitti"
+      }
+    }
+  },
+  "paris": {
+    "label": "Paris",
+    "wikipedia": "Paris",
+    "translations": {
+      "es": {
+        "label": "París"
+      }
+    }
+  },
+  "place-de-la-concorde": {
+    "label": "Place de la Révolution",
+    "wikipedia": "Place de la Concorde",
+    "translations": {
+      "es": {
+        "label": "Plaza de la Revolución"
+      }
+    }
+  },
+  "port-au-prince": {
+    "label": "Port-au-Prince",
+    "wikipedia": "Port-au-Prince",
+    "translations": {
+      "es": {
+        "label": "Puerto Príncipe"
+      }
+    }
+  },
+  "reims": {
+    "label": "Reims",
+    "wikipedia": "Reims",
+    "translations": {
+      "es": {
+        "label": "Reims"
       }
     }
   },
@@ -206,12 +323,48 @@
       }
     }
   },
+  "tuileries": {
+    "label": "Tuileries Palace",
+    "wikipedia": "Tuileries Palace",
+    "translations": {
+      "es": {
+        "label": "Palacio de las Tullerías"
+      }
+    }
+  },
+  "varennes": {
+    "label": "Varennes",
+    "wikipedia": "Varennes-en-Argonne",
+    "translations": {
+      "es": {
+        "label": "Varennes-en-Argonne"
+      }
+    }
+  },
   "veracruz": {
     "label": "Veracruz",
     "wikipedia": "Veracruz (city)",
     "translations": {
       "es": {
         "label": "Veracruz"
+      }
+    }
+  },
+  "verdun": {
+    "label": "Verdun",
+    "wikipedia": "Verdun",
+    "translations": {
+      "es": {
+        "label": "Verdún"
+      }
+    }
+  },
+  "versailles": {
+    "label": "Palace of Versailles",
+    "wikipedia": "Palace of Versailles",
+    "translations": {
+      "es": {
+        "label": "Palacio de Versalles"
       }
     }
   }

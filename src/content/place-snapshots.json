@@ -13,6 +13,20 @@
       "extract": "Argel es la capital y la mayor ciudad de Argelia. Argel está situada en el litoral mediterráneo y es el principal puerto del noroeste del Magreb."
     }
   },
+  "anagni": {
+    "title": "Anagni",
+    "url": "https://en.wikipedia.org/wiki/Anagni",
+    "extract": "Anagni is an ancient town and comune in the province of Frosinone, Lazio, in the hills east-southeast of Rome. It is a historical and artistic centre of the Latin Valley.",
+    "description": "Comune in Lazio, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/View_of_Anagni.jpg/330px-View_of_Anagni.jpg",
+    "lat": 41.74222222,
+    "lon": 13.15833333,
+    "es": {
+      "title": "Anagni",
+      "url": "https://es.wikipedia.org/wiki/Anagni",
+      "extract": "Anagni es un municipio de 21 200 habitantes de la provincia de Frosinone, en el Valle Latino. Situada en el Lacio meridional, dista unos 50 kilómetros de Roma. Esta antigua ciudad está situada en las colinas del este de Roma, famosa por su relación con cuatro papas de las familias Conti y Caetani y su bien conservado centro histórico."
+    }
+  },
   "aranjuez": {
     "title": "Aranjuez",
     "url": "https://en.wikipedia.org/wiki/Aranjuez",
@@ -25,6 +39,20 @@
       "title": "Aranjuez",
       "url": "https://es.wikipedia.org/wiki/Aranjuez",
       "extract": "Aranjuez es un municipio español en el extremo sur de la Comunidad de Madrid, cabeza del partido judicial del mismo nombre. Se encuentra en un ancho valle, junto a la confluencia de los ríos Tajo y Jarama, bordeado por un conjunto de cerros y mesetas que alcanzan los 630 m de altitud. Además de los cauces naturales, posee una extensa red de canales, acequias y presas históricas que, tradicionalmente, han propiciado los cultivos de regadío, como frutales y hortalizas, entre los que destacan fresas y espárragos. A nivel medioambiental, buena parte del término municipal forma parte de la zona especial de conservación Vegas, cuestas y páramos del sureste de Madrid, en la cual destacan la reserva natural del Carrizal de Villamejor, y la reserva del Regajal-Mar de Ontígola, que incluye el humedal del Mar de Ontígola y la finca El Regajal."
+    }
+  },
+  "avignon": {
+    "title": "Avignon",
+    "url": "https://en.wikipedia.org/wiki/Avignon",
+    "extract": "Avignon is the prefecture of the Vaucluse department in the Provence-Alpes-Côte d'Azur region of southern France. Located on the left bank of the river Rhône, the commune has a population of 92,188 (2023), with about 16,000 living in the ancient town centre enclosed by its medieval walls.",
+    "description": "Prefecture of Vaucluse, Provence-Alpes-Côte d'Azur, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Vue_a%C3%A9rienne_2_JP_Campomar.jpg/330px-Vue_a%C3%A9rienne_2_JP_Campomar.jpg",
+    "lat": 43.95,
+    "lon": 4.8075,
+    "es": {
+      "title": "Aviñón",
+      "url": "https://es.wikipedia.org/wiki/Avi%C3%B1%C3%B3n",
+      "extract": "Aviñón es una ciudad y comuna francesa, capital del departamento de Vaucluse, en la región de Provenza-Alpes-Costa Azul."
     }
   },
   "azua": {
@@ -83,6 +111,20 @@
       "extract": "Basilea es una ciudad suiza, la tercera más poblada del país, lo que la hace la tercera área urbana más grande de Suiza, tras las de Zúrich y Ginebra. En Basilea tienen sede el Banco de Pagos Internacionales y la Federación Internacional de Balonmano."
     }
   },
+  "bastille": {
+    "title": "Bastille",
+    "url": "https://en.wikipedia.org/wiki/Bastille",
+    "extract": "The Bastille was a medieval fortress in Paris, known as the Bastille Saint-Antoine. It played an important role in the internal conflicts of France and for most of its history was used as a state prison by the kings of France. It was stormed by a crowd on 14 July 1789, in the French Revolution, becoming an important symbol for the French Republican movement. It was later demolished and replaced by the Place de la Bastille public square in Paris.",
+    "description": "Fortress in Paris (1370 – 1789/90)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Bastille_Exterior_1790_or_1791.jpg/330px-Bastille_Exterior_1790_or_1791.jpg",
+    "lat": 48.85333,
+    "lon": 2.36917,
+    "es": {
+      "title": "Bastilla",
+      "url": "https://es.wikipedia.org/wiki/Bastilla",
+      "extract": "La Bastilla era una fortaleza que protegía el costado oriental de la ciudad de París, conocida formalmente como la Bastille Saint-Antoine. Desempeñó un papel importante en los conflictos internos de Francia y durante la mayor parte de su historia fue usada como una prisión estatal por los reyes de Francia. Fue tomada por una multitud el 14 de julio de 1789 durante la Revolución francesa, convirtiéndose en un símbolo importante del movimiento republicano francés. Tiempo después fue demolida y reemplazada por la Plaza de la Bastilla."
+    }
+  },
   "bois-caiman": {
     "title": "Bois Caïman",
     "url": "https://en.wikipedia.org/wiki/Bois_Ca%C3%AFman",
@@ -94,6 +136,48 @@
       "title": "Bois Caïman",
       "url": "https://es.wikipedia.org/wiki/Bois_Ca%C3%AFman",
       "extract": "Bois Caïman fue un sitio donde se realizó una gran reunión de esclavos negros en Saint-Domingue en la noche del 14 de agosto de 1791. En ella se planeó la gran rebelión que iniciaría la revolución haitiana pocos días después y supuestamente se sacrificó un cerdo a Ezili Dantor."
+    }
+  },
+  "bologna": {
+    "title": "Bologna",
+    "url": "https://en.wikipedia.org/wiki/Bologna",
+    "extract": "Bologna is the capital and largest city of the Emilia-Romagna region in northern Italy. It is the seventh most populous city in Italy, with 391,473 inhabitants from 150 different nationalities. Its metropolitan province is home to more than 1 million people as of 2026. Bologna is most famous for being the home to the oldest university in continuous operation, the University of Bologna, established in AD 1088.",
+    "description": "Capital and largest city of Emilia-Romagna, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Torri_di_Bologna%2C_Bologna.jpg/330px-Torri_di_Bologna%2C_Bologna.jpg",
+    "lat": 44.49388889,
+    "lon": 11.34277778,
+    "es": {
+      "title": "Bolonia",
+      "url": "https://es.wikipedia.org/wiki/Bolonia",
+      "extract": "Bolonia o Boloña es una ciudad del norte de Italia, capital de la ciudad metropolitana homónima y de la región de Emilia-Romaña, situada entre los ríos Reno y Savena, cerca de los Apeninos. Es una de las ciudades históricas mejor conservadas y tiene el segundo casco antiguo medieval más grande de Europa, después del de Venecia. El comune tiene una población de 390 734 habitantes."
+    }
+  },
+  "bourges": {
+    "title": "Bourges",
+    "url": "https://en.wikipedia.org/wiki/Bourges",
+    "extract": "Bourges is a commune in central France on the river Yèvre. It is the capital of the department of Cher, and also was the capital city of the former province of Berry. It is part of the Centre-Val de Loire region of France.",
+    "description": "Commune in Centre-Val de Loire, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bourges.JPG/330px-Bourges.JPG",
+    "lat": 47.07944444,
+    "lon": 2.39583333,
+    "es": {
+      "title": "Bourges",
+      "url": "https://es.wikipedia.org/wiki/Bourges",
+      "extract": "Bourges es una ciudad del centro de Francia, sede de la prefectura del departamento de Cher, en la región de Centro-Valle de Loira. Se sitúa a unos 230 kilómetros al sur de París. Está clasificada como ciudad de arte y de historia y es principalmente conocida por su famosa catedral de Saint-Étienne, declarada Patrimonio de la Humanidad por la Unesco en 1992. Por ella transcurre el Camino de Vézelay, uno de los cuatro caminos de Santiago de Compostela en Francia."
+    }
+  },
+  "bouvines": {
+    "title": "Bouvines",
+    "url": "https://en.wikipedia.org/wiki/Bouvines",
+    "extract": "Bouvines is a commune and village in the Nord department in northern France. It is on the French-Belgian border between Lille and Tournai.",
+    "description": "Commune in Hauts-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Bouvines1_WEB.jpg/330px-Bouvines1_WEB.jpg",
+    "lat": 50.583,
+    "lon": 3.183,
+    "es": {
+      "title": "Bouvines",
+      "url": "https://es.wikipedia.org/wiki/Bouvines",
+      "extract": " Bouvines  es una población y comuna francesa, en la región de Alta Francia, departamento de Norte, en el distrito de Lille y cantón de Cysoing."
     }
   },
   "burgos": {
@@ -166,6 +250,20 @@
       "extract": "Cholula de Rivadavia, también llamada San Pedro Cholula —nombre del municipio —, es una ciudad del estado mexicano de Puebla, que forma parte de la Zona Metropolitana de Puebla y se encuentra prácticamente conurbada con la capital del estado, la ciudad de Puebla de Zaragoza; se localiza en el asentamiento de la antigua ciudad prehispánica de Cholula, de la que recibe el nombre. Es cabecera del municipio de San Pedro Cholula."
     }
   },
+  "fontainebleau": {
+    "title": "Fontainebleau",
+    "url": "https://en.wikipedia.org/wiki/Fontainebleau",
+    "extract": "Fontainebleau is a commune in the metropolitan area of Paris, France. It is located 55.5 kilometres (34.5 mi) south-southeast of the centre of Paris. Fontainebleau is a sub-prefecture of the Seine-et-Marne department, and it is the seat of the arrondissement of Fontainebleau. The commune has the largest land area in the Île-de-France region; it is the only one to cover a larger area than Paris itself. The commune is closest to Seine-et-Marne Prefecture Melun.",
+    "description": "Subprefecture and commune in Île-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/L%27%C3%A9tang_aux_carpes_vue_du_ciel.jpg/330px-L%27%C3%A9tang_aux_carpes_vue_du_ciel.jpg",
+    "lat": 48.4097,
+    "lon": 2.7025,
+    "es": {
+      "title": "Fontainebleau",
+      "url": "https://es.wikipedia.org/wiki/Fontainebleau",
+      "extract": "Fontainebleau es una ciudad del área metropolitana de París (Francia). Se encuentra a 55,5 km al sursureste del centro de París, en el departamento de Sena y Marne. Es la subprefectura del distrito de Fontainebleau."
+    }
+  },
   "fort-de-joux": {
     "title": "Fort de Joux",
     "url": "https://en.wikipedia.org/wiki/Fort_de_Joux",
@@ -234,6 +332,90 @@
       "title": "Moca (República Dominicana)",
       "url": "https://es.wikipedia.org/wiki/Moca_(Rep%C3%BAblica_Dominicana)",
       "extract": "Moca es un municipio de la República Dominicana situado en la provincia de Espaillat."
+    }
+  },
+  "nantes": {
+    "title": "Nantes",
+    "url": "https://en.wikipedia.org/wiki/Nantes",
+    "extract": "Nantes is a city in the Loire-Atlantique department of France on the Loire, 50 km (31 mi) from the Atlantic coast. The city is the sixth largest in France, with a population of 327,734 in the city proper and 1,050,815 in the metropolitan area in 2023. With Saint-Nazaire, a seaport on the Loire estuary, Nantes forms one of the main north-western French metropolitan agglomerations.",
+    "description": "City in France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Panorama_depuis_Butte_Sainte-Anne.jpg/330px-Panorama_depuis_Butte_Sainte-Anne.jpg",
+    "lat": 47.2181,
+    "lon": -1.5528,
+    "es": {
+      "title": "Nantes",
+      "url": "https://es.wikipedia.org/wiki/Nantes",
+      "extract": "Nantes es una ciudad francesa situada en la orilla del río Loira, a 50 km del océano Atlántico. Es la capital del departamento de Loira Atlántico y de la región de Países del Loira. Es el centro de una conurbación de más 300 000 habitantes[cita requerida]. Se la considera, junto a la de Saint-Nazaire, como la mayor área metropolitana del oeste de Francia."
+    }
+  },
+  "palazzo-pitti": {
+    "title": "Palazzo Pitti",
+    "url": "https://en.wikipedia.org/wiki/Palazzo_Pitti",
+    "extract": "The Palazzo Pitti, in English sometimes called the Pitti Palace, is a vast, mainly in the Renaissance style, palace in Florence, Italy. It is situated on the south side of the River Arno, a short distance from the Ponte Vecchio. The core of the present palazzo dates from 1458 and was originally the town residence of Luca Pitti, an ambitious Florentine banker.",
+    "description": "Renaissance palace and museum in Florence, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Palazzo_Pitti_nel_tardo_pomeriggio.jpg/330px-Palazzo_Pitti_nel_tardo_pomeriggio.jpg",
+    "lat": 43.7652,
+    "lon": 11.2501,
+    "es": {
+      "title": "Palacio Pitti",
+      "url": "https://es.wikipedia.org/wiki/Palacio_Pitti",
+      "extract": "Francisco Pitti es un palacio renacentista en Florencia, Italia, situado en la ribera sur del río Arno, a muy corta distancia del Ponte Vecchio. El inicio de su construcción data de 1458, y fue originalmente la residencia urbana de Luca Pitti, un banquero florentino. En 1549 fue comprado por Leonor Álvarez de Toledo y Osorio), la duquesa consorte de Cosme I de Médici, duque de Florencia y posterior I gran duque de Toscana, siendo —desde ese momento— la residencia oficial de los grandes duques de Toscana."
+    }
+  },
+  "paris": {
+    "title": "Paris",
+    "url": "https://en.wikipedia.org/wiki/Paris",
+    "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+    "description": "Capital and largest city of France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/330px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
+    "lat": 48.8567,
+    "lon": 2.3522,
+    "es": {
+      "title": "París",
+      "url": "https://es.wikipedia.org/wiki/Par%C3%ADs",
+      "extract": "París es la capital de Francia y de la región de Isla de Francia. Es la ciudad más poblada del país y el único departamento unicomunal de Francia. Su área metropolitana es la más grande en población de toda la Unión Europea."
+    }
+  },
+  "place-de-la-concorde": {
+    "title": "Place de la Concorde",
+    "url": "https://en.wikipedia.org/wiki/Place_de_la_Concorde",
+    "extract": "The Place de la Concorde, originally the Place Louis XV, and later the Place Louis XVI, is a public square in Paris. Measuring 7.6 ha in area, it is the largest square in the city. It is located in the 8th arrondissement, at the eastern end of the Champs-Élysées.",
+    "description": "Square in Paris, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Place_de_la_Concorde_from_the_Eiffel_Tower%2C_Paris_April_2011.jpg/330px-Place_de_la_Concorde_from_the_Eiffel_Tower%2C_Paris_April_2011.jpg",
+    "lat": 48.8656331,
+    "lon": 2.3212357,
+    "es": {
+      "title": "Plaza de la Concordia",
+      "url": "https://es.wikipedia.org/wiki/Plaza_de_la_Concordia",
+      "extract": "La plaza de la Concordia está situada al comienzo de la avenida de los Campos Elíseos en el VIII Distrito de París, en Francia. Se trata de la segunda más grande de Francia después de la plaza de Quinconces, en Burdeos."
+    }
+  },
+  "port-au-prince": {
+    "title": "Port-au-Prince",
+    "url": "https://en.wikipedia.org/wiki/Port-au-Prince",
+    "extract": "Port-au-Prince is the capital and most populous city of Haiti. The city's population was estimated at 1,200,000 in 2022 with the metropolitan area estimated at a population of 2,618,894. The metropolitan area is defined by the IHSI as including the communes of Port-au-Prince, Delmas, Cité Soleil, Tabarre, Carrefour, and Pétion-Ville.",
+    "description": "Capital and largest city of Haiti",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Navy_100221-N-5787K-002_An_aerial_view_of_the_logistical_area_near_the_port_in_Port-au-Prince_%28cropped2%29.jpg/330px-US_Navy_100221-N-5787K-002_An_aerial_view_of_the_logistical_area_near_the_port_in_Port-au-Prince_%28cropped2%29.jpg",
+    "lat": 18.53638889,
+    "lon": -72.34638889,
+    "es": {
+      "title": "Puerto Príncipe",
+      "url": "https://es.wikipedia.org/wiki/Puerto_Pr%C3%ADncipe",
+      "extract": "Puerto Príncipe es la capital y ciudad más poblada de Haití. La población de la ciudad se estimó en 1,2 millones en 2022 y el área metropolitana se estimó en una población de 2 618 894. Se encuentra situada en el distrito de Puerto Príncipe, en el departamento Oeste."
+    }
+  },
+  "reims": {
+    "title": "Reims",
+    "url": "https://en.wikipedia.org/wiki/Reims",
+    "extract": "Reims is the most populous city in the French department of Marne, and the 12th most populous city in France. The city lies 129 km (80 mi) northeast of Paris on the Vesle river, a tributary of the Aisne.",
+    "description": "Subprefecture and commune in Grand Est, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sub%C3%A9_Fountain%2C_Reims%2C_France.jpg/330px-Sub%C3%A9_Fountain%2C_Reims%2C_France.jpg",
+    "lat": 49.2628,
+    "lon": 4.0347,
+    "es": {
+      "title": "Reims",
+      "url": "https://es.wikipedia.org/wiki/Reims",
+      "extract": "Reims es una ciudad y una comuna francesa situada a unos 130 km al este de París, en el departamento de Marne, en la región de Gran Este. Con una población de unos 178.000 habitantes, es la mayor ciudad de su departamento, aunque no es capital."
     }
   },
   "rijswijk": {
@@ -320,6 +502,34 @@
       "extract": "La isla de la Tortuga es una isla del mar Caribe de 37 km de largo, 7 km de ancho y 180 km² de superficie, situada al noroeste de la República de Haití, la cual posee su soberanía. Fue bautizada por Cristóbal Colón durante su primer viaje a América, haciendo referencia a que una de sus montañas se asemeja a la forma de una tortuga. Durante el siglo XVII fue un bastión para piratas y filibusteros que navegaban en la región."
     }
   },
+  "tuileries": {
+    "title": "Tuileries Palace",
+    "url": "https://en.wikipedia.org/wiki/Tuileries_Palace",
+    "extract": "The Tuileries Palace was a palace in Paris which stood on the right bank of the Seine, directly in the west-front of the Louvre Palace. It was the Parisian residence of most French monarchs, from Henri IV to Napoleon III, until it was burned by the Paris Commune in 1871 and demolished in 1883.",
+    "description": "Royal and imperial palace in Paris (1564–1883)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Le_Palais_des_Tuileries_-_Le_Gray.jpg/330px-Le_Palais_des_Tuileries_-_Le_Gray.jpg",
+    "lat": 48.86222222,
+    "lon": 2.3325,
+    "es": {
+      "title": "Palacio de las Tullerías",
+      "url": "https://es.wikipedia.org/wiki/Palacio_de_las_Tuller%C3%ADas",
+      "extract": "El palacio de las Tullerías fue un palacio imperial y real situado en el centro de París, formando junto al Louvre un único complejo arquitectónico."
+    }
+  },
+  "varennes": {
+    "title": "Varennes-en-Argonne",
+    "url": "https://en.wikipedia.org/wiki/Varennes-en-Argonne",
+    "extract": "Varennes-en-Argonne or simply Varennes is a commune in the Meuse department in the Grand Est region in Northeastern France. As of 2023, the population of the commune was 636.",
+    "description": "Commune in Grand Est, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Varennes-en-Argonne%2C_tour_Louis_XVI_et_rivi%C3%A8re.jpg/330px-Varennes-en-Argonne%2C_tour_Louis_XVI_et_rivi%C3%A8re.jpg",
+    "lat": 49.2269,
+    "lon": 5.035,
+    "es": {
+      "title": "Varennes-en-Argonne",
+      "url": "https://es.wikipedia.org/wiki/Varennes-en-Argonne",
+      "extract": " Varennes-en-Argonne  es una población y comuna francesa, en la región de Lorena, departamento de Mosa, en el Distrito de Verdún y cantón de Varennes-en-Argonne."
+    }
+  },
   "veracruz": {
     "title": "Veracruz (city)",
     "url": "https://en.wikipedia.org/wiki/Veracruz_(city)",
@@ -332,6 +542,34 @@
       "title": "Veracruz",
       "url": "https://es.wikipedia.org/wiki/Veracruz",
       "extract": "Heroica Veracruz es una ciudad mexicana, cabecera del municipio de Veracruz, situada en el Estado de Veracruz. Forma parte de la zona metropolitana de Veracruz. Tiene el segundo puerto marítimo comercial más importante de México. En 2020 contaba con una población de 405 953 habitantes."
+    }
+  },
+  "verdun": {
+    "title": "Verdun",
+    "url": "https://en.wikipedia.org/wiki/Verdun",
+    "extract": "Verdun is a city in the Meuse department in Grand Est, northeastern France. It is an arrondissement of the department.",
+    "description": "Subprefecture and commune in Grand Est, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Porte_Verdun.JPG/330px-Porte_Verdun.JPG",
+    "lat": 49.162,
+    "lon": 5.3876,
+    "es": {
+      "title": "Verdún",
+      "url": "https://es.wikipedia.org/wiki/Verd%C3%BAn",
+      "extract": "Verdún es una ciudad situada en el departamento de Mosa, en la región del Gran Este, en Francia. Tiene una población estimada, en 2019, de 16 942 habitantes. Se trata de una de las dos subprefecturas del departamento y la chef-lieu (capital) del distrito del mismo nombre. Es a su vez la localidad más poblada del departamento."
+    }
+  },
+  "versailles": {
+    "title": "Palace of Versailles",
+    "url": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+    "extract": "The Palace of Versailles is a château and historic monument in Versailles in the Yvelines department of France, southwest of Paris. It served as the principal residence of the French kings Louis XIV, Louis XV, and Louis XVI.",
+    "description": "Former royal residence in Versailles, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg/330px-Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg",
+    "lat": 48.8047,
+    "lon": 2.1203,
+    "es": {
+      "title": "Palacio de Versalles",
+      "url": "https://es.wikipedia.org/wiki/Palacio_de_Versalles",
+      "extract": "El Palacio de Versalles es una antigua residencia real construida por el rey Luis XIV situada en Versalles, a unos 19 kilómetros al oeste de París (Francia). El palacio es propiedad de la República Francesa y desde 1995 está gestionado, bajo la dirección del Ministerio de Cultura francés, por el Establecimiento Público del Palacio, Museo y Dominio Nacional de Versalles. Alrededor de 15 millones de personas visitan cada año el palacio, el parque o los jardines de Versalles, lo que lo convierte en una de las atracciones turísticas más populares del mundo."
     }
   }
 }
