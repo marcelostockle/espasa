@@ -8,6 +8,10 @@ You are preparing a **draft** of tag additions for existing entries, so a tag al
 
 Input: $ARGUMENTS
 
+## Tags and places are different
+
+A **tag** is a topic readers filter by (a person, a people, a theme); this skill adds tags to entries. A **place** is a link from an entry to a Wikipedia article that opens a popup, and lives in `places:`. A tag for a place (for example `spain`) is still a tag and is handled here. If the user wants popups on entries, that is `/link-places`, not this skill. This skill only ever changes the `tags:` line and ignores the `places` field the list endpoint returns.
+
 ## Design constraints (decided with the owner)
 
 - **Cheap candidate search, not an exhaustive sweep.** Find plausible candidates with the API's text search and tag overlap, then judge only those. A few misses are acceptable, especially for very broad tags (war, politics); specific tags should match easily.

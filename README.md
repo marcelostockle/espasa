@@ -16,7 +16,7 @@ It is a static site ([Astro](https://astro.build)): entries and tags are plain f
 
 ## Adding content
 
-Content goes in through reviewed drafts, using the admin tool and two Claude Code skills (`/research-events`, `/retag`). See:
+Content goes in through reviewed drafts, using the admin tool and three Claude Code skills (`/research-events`, `/retag`, `/link-places`). See:
 
 - [docs/content-workflow.md](docs/content-workflow.md): the workflow, rules and checklists
 - [admin/README.md](admin/README.md): the admin API reference
@@ -24,10 +24,10 @@ Content goes in through reviewed drafts, using the admin tool and two Claude Cod
 ## Layout
 
 ```
-src/content/    entries/*.md, tags.json, eras.json, featured.json
+src/content/    entries/*.md, tags.json, places.json, place-snapshots.json, eras.json, featured.json
 src/lib/        shared schemas, date helpers
 src/pages/      home, eras, tags, entries, compare view
 admin/          local admin server and UI (not part of the site)
-.claude/skills/ research-events, retag
+.claude/skills/ research-events, retag, link-places
 docs/           workflow guide
 ```

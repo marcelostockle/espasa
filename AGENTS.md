@@ -10,7 +10,7 @@ Manage the background server with `astro dev stop`, `astro dev status`, and `ast
 
 ## Content workflow
 
-Content is added through drafts that a human reviews before anything is written. Read [docs/content-workflow.md](docs/content-workflow.md) before running or changing the content skills (`research-events`, `retag`) or the admin tool in `admin/`. If you change a skill's behavior, update that page too. Never stage or commit files under `src/content/` that you did not create: the owner may have uncommitted work there.
+Content is added through drafts that a human reviews before anything is written. Read [docs/content-workflow.md](docs/content-workflow.md) before running or changing the content skills (`research-events`, `retag`, `link-places`) or the admin tool in `admin/`. If you change a skill's behavior, update that page too. Never stage or commit files under `src/content/` that you did not create: the owner may have uncommitted work there.
 
 ## Documentation
 

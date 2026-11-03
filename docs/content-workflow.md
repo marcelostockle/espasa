@@ -74,6 +74,7 @@ All skills stop after the dry run and a report. **None imports anything unless y
 - Spanish text lives in the same file, in a `translations:` frontmatter line: `translations: {"es":{"title":"…","summary":"…"}}`. The English title and summary stay the source of truth.
 
 **Places**
+- Not the same as tags. A tag is a topic readers filter by (it can be about a place, like `spain`); a place is a popup link to a Wikipedia article. An entry can have both. `/retag` handles tags, `/link-places` handles places.
 - A place is `{ label, wikipedia, translations.es.label }` in `src/content/places.json`. `wikipedia` is the English article title (not a URL). Entries list place ids in a `places:` frontmatter line; each becomes a button that opens a popup with the Wikipedia summary, a thumbnail and a map link.
 - The popup text is a **generated snapshot** in `src/content/place-snapshots.json` (extract, thumbnail, coordinates, Spanish article). The admin tool writes it when a place is created; never edit it by hand. Builds never call Wikipedia.
 - To refresh snapshots after Wikipedia changes: `npm run places:snapshot` (only places without one) or `npm run places:snapshot -- --refresh` (all), then review `git diff`.
