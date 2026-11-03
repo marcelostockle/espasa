@@ -1,4 +1,49 @@
 {
+  "algiers": {
+    "label": "Algiers",
+    "wikipedia": "Algiers",
+    "translations": {
+      "es": {
+        "label": "Argel"
+      }
+    }
+  },
+  "azua": {
+    "label": "Azua",
+    "wikipedia": "Azua de Compostela",
+    "translations": {
+      "es": {
+        "label": "Azua"
+      }
+    }
+  },
+  "baja-california": {
+    "label": "Baja California",
+    "wikipedia": "Baja California Peninsula",
+    "translations": {
+      "es": {
+        "label": "Baja California"
+      }
+    }
+  },
+  "castilleja-de-la-cuesta": {
+    "label": "Castilleja de la Cuesta",
+    "wikipedia": "Castilleja de la Cuesta",
+    "translations": {
+      "es": {
+        "label": "Castilleja de la Cuesta"
+      }
+    }
+  },
+  "cholula": {
+    "label": "Cholula",
+    "wikipedia": "Cholula, Puebla",
+    "translations": {
+      "es": {
+        "label": "Cholula"
+      }
+    }
+  },
   "medellin": {
     "label": "Medellín",
     "wikipedia": "Medellín, Spain",
@@ -8,12 +53,30 @@
       }
     }
   },
+  "santo-domingo": {
+    "label": "Santo Domingo",
+    "wikipedia": "Santo Domingo",
+    "translations": {
+      "es": {
+        "label": "Santo Domingo"
+      }
+    }
+  },
   "tenochtitlan": {
     "label": "Tenochtitlan",
     "wikipedia": "Tenochtitlan",
     "translations": {
       "es": {
         "label": "México-Tenochtitlan"
+      }
+    }
+  },
+  "tlaxcala": {
+    "label": "Tlaxcala",
+    "wikipedia": "Tlaxcala City",
+    "translations": {
+      "es": {
+        "label": "Tlaxcala"
       }
     }
   },
