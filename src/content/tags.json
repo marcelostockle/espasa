@@ -83,6 +83,20 @@
       }
     }
   },
+  "brazil": {
+    "label": "Brazil",
+    "color": "#00bfa5",
+    "description": "Portuguese Brazil, from the first captaincies of 1534 to the arrival of the Portuguese court in Rio de Janeiro in 1808.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Brasil",
+        "description": "El Brasil portugués, desde las primeras capitanías de 1534 hasta la llegada de la corte portuguesa a Río de Janeiro en 1808."
+      }
+    }
+  },
   "byzantine-empire": {
     "label": "Byzantine Empire",
     "color": "#6a5acd",

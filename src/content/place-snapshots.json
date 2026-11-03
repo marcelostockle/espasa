@@ -348,6 +348,20 @@
       "extract": "Cholula de Rivadavia, también llamada San Pedro Cholula —nombre del municipio —, es una ciudad del estado mexicano de Puebla, que forma parte de la Zona Metropolitana de Puebla y se encuentra prácticamente conurbada con la capital del estado, la ciudad de Puebla de Zaragoza; se localiza en el asentamiento de la antigua ciudad prehispánica de Cholula, de la que recibe el nombre. Es cabecera del municipio de San Pedro Cholula."
     }
   },
+  "colonia-del-sacramento": {
+    "title": "Colonia del Sacramento",
+    "url": "https://en.wikipedia.org/wiki/Colonia_del_Sacramento",
+    "extract": "Colonia del Sacramento is a city in southwestern Uruguay, by the Río de la Plata, facing Buenos Aires, Argentina. It is one of the oldest towns in Uruguay and the capital of the Colonia Department. As of the 2023 census, it has a population of around 32,174.",
+    "description": "Capital city in Colonia, Uruguay",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg/330px-Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg",
+    "lat": -34.47138889,
+    "lon": -57.84416667,
+    "es": {
+      "title": "Colonia del Sacramento",
+      "url": "https://es.wikipedia.org/wiki/Colonia_del_Sacramento",
+      "extract": "Colonia del Sacramento, conocida en el medio local como Colonia, es la capital del departamento de Colonia, en el suroeste de Uruguay. Está ubicada en la ribera norte —izquierda— del Río de la Plata, a 177 km de Montevideo y a 50 km de la ciudad de Buenos Aires en barco."
+    }
+  },
   "cordoba": {
     "title": "Córdoba, Spain",
     "url": "https://en.wikipedia.org/wiki/C%C3%B3rdoba%2C_Spain",
@@ -516,6 +530,20 @@
       "extract": "El Guadalete es un río del sur de España, perteneciente a la vertiente atlántica de Andalucía. Nace al norte de la sierra de Grazalema y desemboca en El Puerto de Santa María, en la bahía de Cádiz. Transcurre principalmente por la provincia de Cádiz y en parte por la de Sevilla. El Guadalete, sus afluentes y su cuenca abastecen de agua de riego a una extensa vega y es también la fuente de agua potable de aproximadamente un millón de personas. Sus dos afluentes más importantes son el Guadalporcún, que drena el norte de la cuenca y el Majaceite, que lleva las aguas de la cuenca meridional."
     }
   },
+  "guanabara-bay": {
+    "title": "Guanabara Bay",
+    "url": "https://en.wikipedia.org/wiki/Guanabara_Bay",
+    "extract": "Guanabara Bay is an oceanic bay in Southeast Brazil in the state of Rio de Janeiro. On its western shore lie the cities of Rio de Janeiro and Duque de Caxias, and on its eastern shore are the cities of Niterói and São Gonçalo. Four other municipalities surround the bay's shores. Guanabara Bay is the second largest bay in area in Brazil, at 384 square kilometres (148 sq mi), with a perimeter of 143 kilometres (89 mi).",
+    "description": "Bay in Rio de Janeiro (state), Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Rio_deJaneiro_LE2002059_lrg.jpg/330px-Rio_deJaneiro_LE2002059_lrg.jpg",
+    "lat": -22.79027778,
+    "lon": -43.15555556,
+    "es": {
+      "title": "Bahía de Guanabara",
+      "url": "https://es.wikipedia.org/wiki/Bah%C3%ADa_de_Guanabara",
+      "extract": "La bahía de Guanabara es una bahía del océano Atlántico situada en el estado de Río de Janeiro, en la región sudeste de Brasil. Con una superficie aproximada de 412 km², es la segunda bahía más extensa del país, después de la bahía de Todos los Santos, ubicada en el estado de Bahía."
+    }
+  },
   "guayaquil": {
     "title": "Guayaquil",
     "url": "https://en.wikipedia.org/wiki/Guayaquil",
@@ -623,6 +651,20 @@
       "extract": "Lima es la capital y ciudad más poblada del Perú. Está situada en los valles de los ríos Chillón, Rímac y Lurín, en la zona desértica de la costa central del país, frente al océano Pacífico. La ciudad es considerada el centro político, cultural, económico, financiero, comercial y gastronómico del Perú. Por su importancia geoestratégica, ha sido definida como una ciudad global de «clase beta+».Jurisdiccionalmente, se extiende principalmente dentro de la provincia de Lima y en una porción menor, al oeste, dentro de la provincia constitucional del Callao, donde se ubican el puerto marítimo y el Aeropuerto Internacional Jorge Chávez. Ambas provincias cuentan con autonomía regional desde el año 2002."
     }
   },
+  "lisbon": {
+    "title": "Lisbon",
+    "url": "https://en.wikipedia.org/wiki/Lisbon",
+    "extract": "Lisbon is the capital and most populous city of Portugal, with an estimated population of 658,236 as of 2025, within its administrative limits and 3,353,000 within the metropolis, as of 2025. The city lies in the western part of the Iberian Peninsula, fronting the northern shore of the River Tagus.",
+    "description": "Capital and largest city of Portugal",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/330px-Lisboa_-_Portugal_%2852597836992%29.jpg",
+    "lat": 38.72527778,
+    "lon": -9.15,
+    "es": {
+      "title": "Lisboa",
+      "url": "https://es.wikipedia.org/wiki/Lisboa",
+      "extract": "Lisboa es la capital y la ciudad más poblada de Portugal.Está situada en la desembocadura del río Tajo, es la capital del país, capital del distrito de Lisboa, de la región de Lisboa y del área metropolitana de Lisboa, y es también el principal centro de la subregión de la Gran Lisboa. Lisboa tiene una población de 547 773 habitantes, y su zona metropolitana cuenta con una población de 2 810 923 en una superficie de 2.921,90 km². Esta área contiene el 26% de la población del país. Lisboa es la ciudad más rica de Portugal."
+    }
+  },
   "mantua": {
     "title": "Mantua",
     "url": "https://en.wikipedia.org/wiki/Mantua",
@@ -691,6 +733,20 @@
       "title": "Nantes",
       "url": "https://es.wikipedia.org/wiki/Nantes",
       "extract": "Nantes es una ciudad francesa situada en la orilla del río Loira, a 50 km del océano Atlántico. Es la capital del departamento de Loira Atlántico y de la región de Países del Loira. Es el centro de una conurbación de más 300 000 habitantes[cita requerida]. Se la considera, junto a la de Saint-Nazaire, como la mayor área metropolitana del oeste de Francia."
+    }
+  },
+  "ouro-preto": {
+    "title": "Ouro Preto",
+    "url": "https://en.wikipedia.org/wiki/Ouro_Preto",
+    "extract": "Ouro Preto, formerly Vila Rica, is a municipality in the state of Minas Gerais, Brazil. The city, a former colonial mining town located in the Serra do Espinhaço mountains, was designated a World Heritage Site by UNESCO due to its Baroque colonial architecture. Ouro Preto used to be the capital of Minas Gerais from 1720 until the foundation of Belo Horizonte in 1897.",
+    "description": "Municipality in Minas Gerais, Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG/330px-Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG",
+    "lat": -20.38527778,
+    "lon": -43.50361111,
+    "es": {
+      "title": "Ouro Preto",
+      "url": "https://es.wikipedia.org/wiki/Ouro_Preto",
+      "extract": "Ouro Preto es un municipio brasileño del estado de Minas Gerais, en la Región Sudeste del país. Está ubicado a una altitud de 1179 metros. En el censo de 2022 tenía 74 821 habitantes. Fue capital de Minas Gerais hasta el traslado de la capital a Belo Horizonte en 1897. La ciudad histórica de Ouro Preto fue inscrita en la lista del Patrimonio de la Humanidad de la Unesco el 5 de septiembre de 1980 y fue el primer bien cultural brasileño incorporado a la lista."
     }
   },
   "palazzo-pitti": {
@@ -777,6 +833,20 @@
       "extract": "Potosí, o Villa Imperial de Potosí, es una ciudad del suroeste de Bolivia, capital y ciudad más poblada del departamento homónimo y de la provincia de Frías. Fundada en 1545, fue uno de los centros mineros más importantes de la época colonial. Se extiende a las faldas de la legendaria montaña llamada Cerro Rico, en la cual se situó la mina de plata más grande del mundo desde mediados del siglo XVI hasta mediados del siglo XVII, convirtiéndola rápidamente en uno de los centros urbanos más prósperos y poblados del siglo XVI y XVII, llegando a financiar la economía del imperio español y mundial."
     }
   },
+  "recife": {
+    "title": "Recife",
+    "url": "https://en.wikipedia.org/wiki/Recife",
+    "extract": "Recife is the state capital of Pernambuco, Brazil, on the northeastern Atlantic coast of South America. It is the largest urban area in both the North and the Northeast Region of Brazil. It is the largest city in Pernambuco state, and the fourth-largest urban area in all of Brazil; the metro population of the city of Recife was 3,726,974 in 2022. Recife was founded in 1537, serving as the main harbor of the Captaincy of Pernambuco—known for its large-scale production of sugar cane. At one point, it was known as Mauritsstad, when it served as the capital city of the 17th century colony of New Holland of Dutch Brazil. Situated at the confluence of the Beberibe and Capibaribe rivers, before they drain into the South Atlantic Ocean, Recife is a major seaport along the Brazilian Atlantic coast. Its name is an allusion to the stone reefs that are present offshore. Together with the urban presence of the Beberibe and Capibaribe rivers and their tributaries, the many additional unique, small islands—and more than 50 bridges linking them throughout the city—create a distinct maritime or \"riviera\" atmosphere, leading to Recife being known as the \"Venice of Brazil\".",
+    "description": "Capital of Pernambuco, Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Antonio_Vaz_island_-_Recife%2C_Pernambuco%2C_Brazil_%28cropped%29.jpg/330px-Antonio_Vaz_island_-_Recife%2C_Pernambuco%2C_Brazil_%28cropped%29.jpg",
+    "lat": -8.05,
+    "lon": -34.9,
+    "es": {
+      "title": "Recife",
+      "url": "https://es.wikipedia.org/wiki/Recife",
+      "extract": "Recife es una ciudad situada en la costa del océano Atlántico del noreste de Brasil. Es la capital del Estado de Pernambuco. Tiene una población estimada, en 2025, de 1.710.000 habitantes."
+    }
+  },
   "regensburg": {
     "title": "Regensburg",
     "url": "https://en.wikipedia.org/wiki/Regensburg",
@@ -819,6 +889,34 @@
       "extract": "Rijswijk es una ciudad, y también un municipio, de los Países Bajos, en la provincia de Holanda Meridional, adyacente a La Haya. Su población total es de 47 410 habitantes (2005)."
     }
   },
+  "rio-de-janeiro": {
+    "title": "Rio de Janeiro",
+    "url": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+    "extract": "Rio de Janeiro, also known simply as Rio, is the capital and largest city of the state of Rio de Janeiro. It is the second-largest city in Brazil after São Paulo, and the largest by number of international tourists. It has a population of 6 million in the city proper, and 13 million in its metropolitan area as of 2025. It is also the sixth-most-populous city in the Americas.",
+    "description": "Second-largest city in Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/330px-Cidade_Maravilhosa.jpg",
+    "lat": -22.91111111,
+    "lon": -43.20555556,
+    "es": {
+      "title": "Río de Janeiro",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_de_Janeiro",
+      "extract": "Río de Janeiro, fundada como São Sebastião do Rio de Janeiro, es una ciudad y municipio brasileño, capital del estado homónimo, ubicada en el sureste del país. Es la segunda ciudad más poblada de Brasil después de São Paulo. Es considerada la ciudad de Brasil más conocida a nivel Internacional."
+    }
+  },
+  "salvador": {
+    "title": "Salvador, Bahia",
+    "url": "https://en.wikipedia.org/wiki/Salvador%2C_Bahia",
+    "extract": "Salvador is a Brazilian municipality and capital city of the state of Bahia. Situated in the Zona da Mata in the Northeast Region of Brazil, Salvador is recognized throughout the country and internationally for its cuisine, music, and architecture. The African influence in many cultural aspects of the city makes it a center of Afro-Brazilian culture. As the first capital of Colonial Brazil, the city is one of the oldest in the Americas. Its foundation in 1549 by Tomé de Sousa took place on account of the implementation of the General Government of Brazil by the Portuguese Empire.",
+    "description": "Capital city of Bahia, Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Salvador_BA_%28cropped%29_2.jpg/330px-Salvador_BA_%28cropped%29_2.jpg",
+    "lat": -12.97472222,
+    "lon": -38.47666667,
+    "es": {
+      "title": "Salvador (Bahía)",
+      "url": "https://es.wikipedia.org/wiki/Salvador_(Bah%C3%ADa)",
+      "extract": "Salvador, fundada como São Salvador da Bahia de Todos os Santos, en español San Salvador de la Bahía de Todos los Santos,es una ciudad brasileña, capital del estado de Bahía y primera capital del Brasil Colonial. Sus habitantes son llamados soteropolitanos, término creado a partir de la traducción al griego del nombre de la ciudad, traducido al español como Ciudad del Salvador, compuesto de Σωτήρ (\"salvador\") y πόλις."
+    }
+  },
   "santiago-de-los-caballeros": {
     "title": "Santiago de los Caballeros",
     "url": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros",
@@ -846,6 +944,29 @@
       "url": "https://es.wikipedia.org/wiki/Santo_Domingo",
       "extract": "Santo Domingo es la capital de la República Dominicana. La ciudad está situada sobre el mar Caribe, en la desembocadura del río Ozama, en la costa meridional de La Española, a 155 km al sureste de Santiago."
     }
+  },
+  "sao-paulo": {
+    "title": "São Paulo",
+    "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+    "extract": "São Paulo is the capital and largest city of the state of São Paulo. The largest city in Brazil, it is also the most populous city in the Americas. The city exerts international influence in commerce, finance, culture, gastronomy, arts, fashion, technology, entertainment and media, having been listed by UNESCO's Creative Cities Network as a \"City of Film\" and the title of \"World Capital of Gastronomy\", and by the Globalization and World Cities Research Network (GaWC) as an alpha global city. It is the largest urban area by population outside Asia and the most populous Portuguese-speaking city in the world. The city is named after Paul the Apostle and people from the capital city are known as paulistanos.",
+    "description": "Most populous city in Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/330px-Marginal_Pinheiros_e_Jockey_Club.jpg",
+    "lat": -23.55,
+    "lon": -46.63333333,
+    "es": {
+      "title": "São Paulo",
+      "url": "https://es.wikipedia.org/wiki/S%C3%A3o_Paulo",
+      "extract": "São Paulo o San Pablo es la ciudad más poblada de Brasil y de todo el continente americano, capital del estado de São Paulo y la principal ciudad de la región metropolitana de São Paulo, en la región Sudeste de Brasil. Con una población de 11 451 372 habitantes en la ciudad propia y de 22 048 504 habitantes en su área metropolitana, integran la ciudad y la metrópoli más pobladas de América y del hemisferio occidental, además de ser una de las aglomeraciones urbanas más pobladas del mundo. También es la ciudad más poblada de la lusofonía."
+    }
+  },
+  "serra-da-barriga": {
+    "title": "Serra da Barriga",
+    "url": "https://en.wikipedia.org/wiki/Serra_da_Barriga",
+    "extract": "Serra da Barriga is a mountain range located in the municipality of União dos Palmares, in the Brazilian state of Alagoas. It is best known for being the location of a fortified settlement known as Cerca do Macaco under the control of the Palmares, an established group of fugitives and escaped slaves. At the time of the Palmares, it was a part of the state of Pernambuco. The final assault on the mountain occurred in January 1694, and was led by the Portuguese Bandeirante Domingos Jorge Velho. The mountain was listed in the National Institute of Historic and Artistic Heritage (IPHAN) in 1986.",
+    "description": "Place in Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Serra_da_Barriga_-_Por_Mirla_D%C3%A2maso_%2813%29.jpg/330px-Serra_da_Barriga_-_Por_Mirla_D%C3%A2maso_%2813%29.jpg",
+    "lat": -9.17,
+    "lon": -36.08805556
   },
   "seville": {
     "title": "Seville",

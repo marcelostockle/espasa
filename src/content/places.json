@@ -224,6 +224,15 @@
       }
     }
   },
+  "colonia-del-sacramento": {
+    "label": "Colonia del Sacramento",
+    "wikipedia": "Colonia del Sacramento",
+    "translations": {
+      "es": {
+        "label": "Colonia del Sacramento"
+      }
+    }
+  },
   "cordoba": {
     "label": "Córdoba",
     "wikipedia": "Córdoba, Spain",
@@ -332,6 +341,15 @@
       }
     }
   },
+  "guanabara-bay": {
+    "label": "Guanabara Bay",
+    "wikipedia": "Guanabara Bay",
+    "translations": {
+      "es": {
+        "label": "bahía de Guanabara"
+      }
+    }
+  },
   "guayaquil": {
     "label": "Guayaquil",
     "wikipedia": "Guayaquil",
@@ -404,6 +422,15 @@
       }
     }
   },
+  "lisbon": {
+    "label": "Lisbon",
+    "wikipedia": "Lisbon",
+    "translations": {
+      "es": {
+        "label": "Lisboa"
+      }
+    }
+  },
   "mantua": {
     "label": "Mantua",
     "wikipedia": "Mantua",
@@ -446,6 +473,15 @@
     "translations": {
       "es": {
         "label": "Nantes"
+      }
+    }
+  },
+  "ouro-preto": {
+    "label": "Ouro Preto",
+    "wikipedia": "Ouro Preto",
+    "translations": {
+      "es": {
+        "label": "Ouro Preto"
       }
     }
   },
@@ -503,6 +539,15 @@
       }
     }
   },
+  "recife": {
+    "label": "Recife",
+    "wikipedia": "Recife",
+    "translations": {
+      "es": {
+        "label": "Recife"
+      }
+    }
+  },
   "regensburg": {
     "label": "Regensburg",
     "wikipedia": "Regensburg",
@@ -530,6 +575,24 @@
       }
     }
   },
+  "rio-de-janeiro": {
+    "label": "Rio de Janeiro",
+    "wikipedia": "Rio de Janeiro",
+    "translations": {
+      "es": {
+        "label": "Río de Janeiro"
+      }
+    }
+  },
+  "salvador": {
+    "label": "Salvador",
+    "wikipedia": "Salvador, Bahia",
+    "translations": {
+      "es": {
+        "label": "San Salvador de Bahía"
+      }
+    }
+  },
   "santiago-de-los-caballeros": {
     "label": "Santiago",
     "wikipedia": "Santiago de los Caballeros",
@@ -545,6 +608,24 @@
     "translations": {
       "es": {
         "label": "Santo Domingo"
+      }
+    }
+  },
+  "sao-paulo": {
+    "label": "São Paulo",
+    "wikipedia": "São Paulo",
+    "translations": {
+      "es": {
+        "label": "São Paulo"
+      }
+    }
+  },
+  "serra-da-barriga": {
+    "label": "Serra da Barriga",
+    "wikipedia": "Serra da Barriga",
+    "translations": {
+      "es": {
+        "label": "Sierra de la Barriga"
       }
     }
   },
