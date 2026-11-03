@@ -1,0 +1,182 @@
+---
+// One popup shared by every place button on the page. Contents come from /places.json, fetched on first use.
+import { localePath, toLocale, t } from '../lib/i18n';
+
+const locale = toLocale(Astro.currentLocale);
+const strings = t(locale);
+---
+
+<div
+  id="place-card"
+  popover="manual"
+  role="dialog"
+  aria-label={strings.fromWikipedia}
+  data-src={localePath(locale, '/places.json')}
+  data-from={strings.fromWikipedia}
+  data-read={strings.readOnWikipedia}
+  data-map={strings.viewOnMap}
+  data-error={strings.placeLoadError}
+>
+</div>
+
+<script>
+  type Card = {
+    label: string; title: string; lang: string; description?: string; extract?: string;
+    url: string; thumbnail?: string; lat?: number; lon?: number;
+  };
+  const card = document.getElementById('place-card')!;
+  let data: Promise<Record<string, Card>> | undefined;
+  let current: HTMLElement | null = null;
+  let pinned = false;
+  let showTimer: number | undefined;
+  let hideTimer: number | undefined;
+
+  const load = () =>
+    (data ??= fetch(card.dataset.src!)
+      .then((r) => {
+        if (!r.ok) throw new Error(String(r.status));
+        return r.json();
+      })
+      .catch((e) => {
+        data = undefined; // allow a retry on the next open
+        throw e;
+      }));
+
+  const el = <K extends keyof HTMLElementTagNameMap>(tag: K, cls?: string, text?: string) => {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text) e.textContent = text;
+    return e;
+  };
+
+  const link = (href: string, text?: string) => {
+    const a = el('a', '', text);
+    a.href = href;
+    a.rel = 'noopener noreferrer';
+    a.target = '_blank';
+    return a;
+  };
+
+  // Built with DOM APIs and textContent, never innerHTML: the text is third-party.
+  function render(c: Card) {
+    const body = el('div', 'body');
+    if (c.lang !== document.documentElement.lang) body.lang = c.lang;
+    body.append(el('strong', 'name', c.label));
+    if (c.title !== c.label) body.append(el('span', 'title', c.title));
+    if (c.description) body.append(el('span', 'desc', c.description));
+    if (c.extract) body.append(el('p', '', c.extract));
+
+    const links = el('div', 'links');
+    links.append(link(c.url, card.dataset.read));
+    if (c.lat !== undefined && c.lon !== undefined) {
+      const map = `https://www.openstreetmap.org/?mlat=${c.lat}&mlon=${c.lon}#map=7/${c.lat}/${c.lon}`;
+      links.append(link(map, card.dataset.map));
+    }
+
+    const frag = document.createDocumentFragment();
+    if (c.thumbnail) {
+      const img = el('img');
+      img.src = c.thumbnail;
+      img.alt = '';
+      img.loading = 'lazy';
+      img.referrerPolicy = 'no-referrer';
+      frag.append(img);
+    }
+    frag.append(body, links, el('span', 'credit', card.dataset.from));
+    card.replaceChildren(frag);
+  }
+
+  function place(anchor: HTMLElement) {
+    const r = anchor.getBoundingClientRect();
+    const w = card.offsetWidth;
+    const h = card.offsetHeight;
+    const left = Math.max(8, Math.min(r.left, innerWidth - w - 8));
+    const below = r.bottom + 6;
+    const top = below + h > innerHeight && r.top - h - 6 > 0 ? r.top - h - 6 : below;
+    card.style.left = `${left}px`;
+    card.style.top = `${top}px`;
+  }
+
+  async function open(anchor: HTMLElement) {
+    clearTimeout(hideTimer);
+    if (current && current !== anchor) current.setAttribute('aria-expanded', 'false');
+    current = anchor;
+    anchor.setAttribute('aria-expanded', 'true');
+    if (!card.matches(':popover-open')) card.showPopover();
+    try {
+      render((await load())[anchor.dataset.place!]);
+    } catch {
+      card.replaceChildren(el('p', 'body', card.dataset.error));
+    }
+    if (current === anchor) place(anchor);
+  }
+
+  function close() {
+    clearTimeout(showTimer);
+    pinned = false;
+    current?.setAttribute('aria-expanded', 'false');
+    current = null;
+    if (card.matches(':popover-open')) card.hidePopover();
+  }
+
+  const chip = (t: EventTarget | null) => (t as Element | null)?.closest<HTMLElement>('button.place') ?? null;
+  const hover = matchMedia('(hover: hover)');
+
+  // A click pins the popup open until the reader clicks elsewhere or presses Escape.
+  document.addEventListener('click', (e) => {
+    const b = chip(e.target);
+    if (b) {
+      if (pinned && current === b) return close();
+      pinned = true;
+      open(b);
+    } else if (!card.contains(e.target as Node)) close();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') close();
+  });
+  addEventListener('scroll', () => (pinned ? current && place(current) : close()), { passive: true });
+  addEventListener('resize', () => current && place(current));
+
+  // Where hover exists, hovering a button previews the popup.
+  document.addEventListener('mouseover', (e) => {
+    if (!hover.matches || pinned) return;
+    const b = chip(e.target);
+    if (b) {
+      clearTimeout(hideTimer);
+      showTimer = window.setTimeout(() => open(b), 150);
+    } else if (card.contains(e.target as Node)) clearTimeout(hideTimer);
+  });
+  document.addEventListener('mouseout', (e) => {
+    if (!hover.matches || pinned) return;
+    if (chip(e.target) || card.contains(e.target as Node)) {
+      clearTimeout(showTimer);
+      hideTimer = window.setTimeout(close, 250);
+    }
+  });
+</script>
+
+<style is:global>
+  #place-card {
+    position: fixed;
+    inset: auto;
+    margin: 0;
+    width: min(22rem, calc(100vw - 1rem));
+    max-height: 70vh;
+    overflow: auto;
+    padding: 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: 0.5rem;
+    background: var(--bg);
+    color: var(--fg);
+    font-size: 0.9rem;
+    line-height: 1.45;
+    box-shadow: 0 6px 24px rgb(0 0 0 / 0.18);
+  }
+  #place-card img { display: block; width: 100%; max-height: 10rem; object-fit: cover; border-radius: 0.3rem; margin-bottom: 0.5rem; }
+  #place-card .body > * { display: block; }
+  #place-card .name { font-size: 1rem; }
+  #place-card .title, #place-card .desc { color: var(--muted); font-size: 0.8rem; }
+  #place-card p { margin: 0.4rem 0 0; }
+  #place-card .links { display: flex; gap: 0.9rem; margin-top: 0.6rem; }
+  #place-card .credit { display: block; margin-top: 0.4rem; color: var(--muted); font-size: 0.72rem; }
+</style>

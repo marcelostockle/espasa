@@ -4,6 +4,7 @@ import { readFile } from 'node:fs/promises';
 import { createServer, type IncomingMessage, type ServerResponse } from 'node:http';
 import { join } from 'node:path';
 import { buildPlan, type OnConflict, type Plan } from './plan.ts';
+import { buildLink, linkedIds, verifyPlaces, type PlaceChanges } from './places.ts';
 import { buildRetag, mentionedIds } from './retag.ts';
 import * as store from './store.ts';
 
@@ -54,8 +55,13 @@ const exclusive = <T>(job: () => Promise<T>): Promise<T> => {
 };
 
 async function loadState() {
-  const [tags, ids, eraSpan] = await Promise.all([store.readTags(), store.listEntryIds(), store.readEraSpan()]);
-  return { tags, entryIds: new Set(ids), eraSpan };
+  const [tags, places, ids, eraSpan] = await Promise.all([
+    store.readTags(),
+    store.readPlaces(),
+    store.listEntryIds(),
+    store.readEraSpan(),
+  ]);
+  return { tags, places, entryIds: new Set(ids), eraSpan };
 }
 
 function summarize(plan: Plan, dryRun: boolean) {
@@ -67,6 +73,7 @@ function summarize(plan: Plan, dryRun: boolean) {
       updated: Object.keys(plan.tags.update),
       skipped: plan.tags.skip,
     },
+    places: summarizePlaces(plan.places),
     entries: {
       created: plan.entries.create.map((e) => e.id),
       overwritten: plan.entries.overwrite.map((e) => e.id),
@@ -75,18 +82,35 @@ function summarize(plan: Plan, dryRun: boolean) {
   };
 }
 
+const summarizePlaces = (p: PlaceChanges) => ({ created: Object.keys(p.create), updated: Object.keys(p.update), skipped: p.skip });
+
+/** Declared places must resolve to real Wikipedia articles; their snapshots are stored with them. */
+async function checkPlaces(changes: PlaceChanges, issues: { path: string; message: string }[]) {
+  const checked = await verifyPlaces(changes);
+  issues.push(...checked.issues);
+  return checked.snapshots;
+}
+
+async function writePlaces(state: { places: Record<string, unknown> }, changes: PlaceChanges, snapshots: Record<string, unknown>) {
+  if (!Object.keys(snapshots).length) return;
+  await store.writePlaces({ ...state.places, ...changes.create, ...changes.update });
+  await store.writeSnapshots({ ...(await store.readSnapshots()), ...snapshots });
+}
+
 /** Every write goes through here: validate everything, and write nothing unless all of it is valid. */
 function runImport(payload: unknown, opts: { dryRun: boolean; onConflict: OnConflict }) {
   return exclusive(async () => {
     const state = await loadState();
     const plan = buildPlan(payload, state, opts.onConflict);
+    const snapshots = await checkPlaces(plan.places, plan.issues);
     if (plan.issues.length) {
       throw new HttpError(422, 'Validation failed; nothing was written', { dryRun: opts.dryRun, issues: plan.issues });
     }
     if (!opts.dryRun) {
       const tagsChanged = Object.keys(plan.tags.create).length + Object.keys(plan.tags.update).length > 0;
-      // Tags first, so a partial failure can't leave entries pointing at missing tags.
+      // Tags and places first, so a partial failure can't leave entries pointing at missing ones.
       if (tagsChanged) await store.writeTags({ ...state.tags, ...plan.tags.create, ...plan.tags.update });
+      await writePlaces(state, plan.places, snapshots);
       for (const entry of [...plan.entries.create, ...plan.entries.overwrite]) await store.writeEntry(entry);
     }
     return summarize(plan, opts.dryRun);
@@ -113,6 +137,33 @@ function runRetag(payload: unknown, dryRun: boolean) {
       dryRun,
       tags: { created: Object.keys(plan.tags.create), skipped: plan.tags.skip },
       changed: plan.changes.map(({ entry, added, removed }) => ({ id: entry.id, added, removed })),
+      unchanged: plan.unchanged,
+    };
+  });
+}
+
+/** Add places to existing entries; same all-or-nothing rules as import. */
+function runLink(payload: unknown, opts: { dryRun: boolean; onConflict: OnConflict }) {
+  return exclusive(async () => {
+    const places = await store.readPlaces();
+    const entries = new Map<string, store.StoredEntry | null>();
+    for (const id of linkedIds(payload)) entries.set(id, await store.readEntry(id));
+    const plan = buildLink(payload, places, entries, opts.onConflict);
+    const snapshots = await checkPlaces(plan.places, plan.issues);
+    if (plan.issues.length) {
+      throw new HttpError(422, 'Validation failed; nothing was written', { dryRun: opts.dryRun, issues: plan.issues });
+    }
+    if (!opts.dryRun) {
+      await writePlaces({ places }, plan.places, snapshots);
+      for (const change of plan.changes) await store.writeEntryPlaces(change.entry);
+    }
+    return {
+      ok: true,
+      dryRun: opts.dryRun,
+      places: summarizePlaces(plan.places),
+      // What each new place resolved to, so a reviewer can check the match without opening Wikipedia.
+      resolved: Object.fromEntries(Object.entries(snapshots).map(([id, s]) => [id, { title: s.title, description: s.description, spanish: s.es?.title ?? null }])),
+      changed: plan.changes.map(({ entry, added }) => ({ id: entry.id, added })),
       unchanged: plan.unchanged,
     };
   });
@@ -160,6 +211,16 @@ async function route(req: IncomingMessage, res: ServerResponse) {
     return send(res, 200, await runRetag(await readJson(req), url.searchParams.has('dry')));
   }
 
+  // --- places ---
+  if (path === '/api/places' && method === 'GET') return send(res, 200, await store.readPlaces());
+  if (path === '/api/places' && method === 'POST') {
+    const result = await runLink(await readJson(req), {
+      dryRun: url.searchParams.has('dry'),
+      onConflict: parseConflict(url.searchParams.get('onConflict')),
+    });
+    return send(res, 200, result);
+  }
+
   // --- tags ---
   if (path === '/api/tags' && method === 'GET') return send(res, 200, await store.readTags());
 
@@ -195,8 +256,8 @@ async function route(req: IncomingMessage, res: ServerResponse) {
       .filter((e): e is store.StoredEntry => e !== null)
       .filter((e) => !tag || e.tags.includes(tag))
       .filter((e) => !q || `${e.title} ${e.summary} ${e.body} ${Object.values(e.translations ?? {}).map((t) => `${t.title} ${t.summary}`).join(' ')}`.toLowerCase().includes(q))
-      .map(({ id, title, summary, date, end, tags, translations }) => ({
-        id, title, summary, date, end, tags,
+      .map(({ id, title, summary, date, end, tags, places, translations }) => ({
+        id, title, summary, date, end, tags, places,
         translations, // per-locale { title, summary }; a locale is missing when the entry is untranslated
       }));
     return send(res, 200, list);

@@ -6,6 +6,8 @@ import { parse } from 'yaml';
 const CONTENT = join(import.meta.dirname, '..', 'src', 'content');
 const ENTRIES = join(CONTENT, 'entries');
 const TAGS_FILE = join(CONTENT, 'tags.json');
+const PLACES_FILE = join(CONTENT, 'places.json');
+const SNAPSHOTS_FILE = join(CONTENT, 'place-snapshots.json');
 const ERAS_FILE = join(CONTENT, 'eras.json');
 
 export const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
@@ -17,6 +19,7 @@ export interface StoredEntry {
   date: Record<string, unknown>;
   end?: Record<string, unknown>;
   tags: string[];
+  places?: string[];
   sources: string[];
   translations?: Record<string, { title?: string; summary?: string }>;
   body: string;
@@ -41,6 +44,25 @@ export async function readTags(): Promise<Record<string, Record<string, unknown>
 export async function writeTags(tags: Record<string, unknown>) {
   const sorted = Object.fromEntries(Object.entries(tags).sort(([a], [b]) => a.localeCompare(b)));
   await writeAtomic(TAGS_FILE, JSON.stringify(sorted, null, 2) + '\n');
+}
+
+const sortedById = (o: Record<string, unknown>) =>
+  Object.fromEntries(Object.entries(o).sort(([a], [b]) => a.localeCompare(b)));
+
+export async function readPlaces(): Promise<Record<string, Record<string, unknown>>> {
+  return JSON.parse(await readFile(PLACES_FILE, 'utf8'));
+}
+
+export async function writePlaces(places: Record<string, unknown>) {
+  await writeAtomic(PLACES_FILE, JSON.stringify(sortedById(places), null, 2) + '\n');
+}
+
+export async function readSnapshots(): Promise<Record<string, Record<string, unknown>>> {
+  return JSON.parse(await readFile(SNAPSHOTS_FILE, 'utf8'));
+}
+
+export async function writeSnapshots(snapshots: Record<string, unknown>) {
+  await writeAtomic(SNAPSHOTS_FILE, JSON.stringify(sortedById(snapshots), null, 2) + '\n');
 }
 
 /** The overall year range the eras cover, or null if there are none. */
@@ -86,6 +108,7 @@ export async function writeEntry(e: StoredEntry) {
     `date: ${J(compactDate(e.date))}`,
     ...(e.end ? [`end: ${J(compactDate(e.end))}`] : []),
     `tags: ${J(e.tags)}`,
+    ...(e.places?.length ? [`places: ${J(e.places)}`] : []),
     ...(e.sources.length ? [`sources: ${J(e.sources)}`] : []),
     ...(e.translations && Object.keys(e.translations).length ? [`translations: ${J(e.translations)}`] : []),
     '---',
@@ -110,6 +133,18 @@ export async function writeEntryTags(e: StoredEntry) {
   } else {
     await writeEntry(e);
   }
+}
+
+/** Change only an entry's places line (adding it after `tags:` if absent), leaving the rest byte-for-byte alone. */
+export async function writeEntryPlaces(e: StoredEntry) {
+  const path = entryPath(e.id);
+  const text = await readFile(path, 'utf8');
+  const line = /^places:[ \t]*\[.*\][ \t]*(\r?)$/m;
+  const tags = /^(tags:.*?)(\r?)$/m;
+  const value = `places: ${J(e.places ?? [])}`;
+  if (line.test(text)) await writeAtomic(path, text.replace(line, (_m, cr) => `${value}${cr}`));
+  else if (tags.test(text)) await writeAtomic(path, text.replace(tags, (_m, t, cr) => `${t}${cr}\n${value}${cr}`));
+  else await writeEntry(e);
 }
 
 export async function deleteEntry(id: string): Promise<boolean> {

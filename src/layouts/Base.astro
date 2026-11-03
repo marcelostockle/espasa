@@ -1,4 +1,5 @@
 ---
+import PlacePopup from '../components/PlacePopup.astro';
 import { localeNames, localePath, locales, stripLocale, t, toLocale } from '../lib/i18n';
 
 interface Props {
@@ -56,6 +57,7 @@ const path = stripLocale(Astro.url.pathname);
         }
       </ul>
     </aside>
+    <PlacePopup />
     <script>
       // Keep the page's query string (e.g. the Compare view's selection) when switching language.
       document.querySelectorAll<HTMLAnchorElement>('a.switch').forEach((a) => {

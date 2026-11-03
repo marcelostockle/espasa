@@ -1,0 +1,142 @@
+{
+  "algiers": {
+    "title": "Algiers",
+    "url": "https://en.wikipedia.org/wiki/Algiers",
+    "extract": "Algiers, officially Capital City of Algiers, is the capital and largest city of Algeria, located on the Mediterranean Sea in the north-central portion of the country. In 2025, an estimated 4.325 million people resided within the urban area. Algiers is the third-largest city on the Mediterranean, the tenth-largest city in the Arab world, and the 19th-largest city in Africa by population. Algiers is the capital of the Algiers Province; it extends over many communes without having its own separate governing body. It extends along the Bay of Algiers surrounded by the Mitidja Plain and major mountain ranges. Its favorable location made it the center of Ottoman and French influences for the region, shaping it to be a diverse metropolis.",
+    "description": "Capital and largest city of Algeria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/La_baie_d%27Alger_%28cropped%29.jpg/330px-La_baie_d%27Alger_%28cropped%29.jpg",
+    "lat": 36.7325,
+    "lon": 3.08722222,
+    "es": {
+      "title": "Argel",
+      "url": "https://es.wikipedia.org/wiki/Argel",
+      "extract": "Argel es la capital y la mayor ciudad de Argelia. Argel está situada en el litoral mediterráneo y es el principal puerto del noroeste del Magreb."
+    }
+  },
+  "azua": {
+    "title": "Azua, Dominican Republic",
+    "url": "https://en.wikipedia.org/wiki/Azua%2C_Dominican_Republic",
+    "extract": "Azua de Compostela, also known simply as Azua, is a city, municipality (municipio) and capital of Azua Province in the southern region of Dominican Republic. Founded in 1504, Azua is one of the oldest European settlements in the Americas. The town is located 100 kilometres west of the national capital, Santo Domingo.",
+    "description": "City in the Dominican Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Azua_Dominican_Republic_church.jpg/330px-Azua_Dominican_Republic_church.jpg",
+    "lat": 18.46,
+    "lon": -70.74,
+    "es": {
+      "title": "Azua",
+      "url": "https://es.wikipedia.org/wiki/Azua",
+      "extract": "Azua es un municipio de la República Dominicana, que está situado en la provincia de Azua, de la que es la capital."
+    }
+  },
+  "baja-california": {
+    "title": "Baja California peninsula",
+    "url": "https://en.wikipedia.org/wiki/Baja_California_peninsula",
+    "extract": "The Baja California peninsula is a peninsula in northwestern Mexico. It separates the Gulf of California from the Pacific Ocean. The peninsula extends from Mexicali, Baja California, in the north to Cabo San Lucas, Baja California Sur, in the south.",
+    "description": "Peninsula on the Pacific coast of Mexico",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Baja_peninsula_%28mexico%29_250m.jpg/330px-Baja_peninsula_%28mexico%29_250m.jpg",
+    "lat": 28,
+    "lon": -113.5,
+    "es": {
+      "title": "Península de Baja California",
+      "url": "https://es.wikipedia.org/wiki/Pen%C3%ADnsula_de_Baja_California",
+      "extract": "La península de Baja California, está localizada al noroeste de México. Penetra en el océano Pacífico, formando el golfo de California entre su costa oriental y las costas de Sonora y Sinaloa. Tiene una longitud aproximada de 1250 km y comprende los estados mexicanos de Baja California y Baja California Sur. Inicia en la frontera de México con Estados Unidos y termina en un cabo con enormes formaciones rocosas, entre las que se encuentra el llamado Arco Monumental."
+    }
+  },
+  "castilleja-de-la-cuesta": {
+    "title": "Castilleja de la Cuesta",
+    "url": "https://en.wikipedia.org/wiki/Castilleja_de_la_Cuesta",
+    "extract": "Castilleja de la Cuesta is a town and municipality in the province of Seville, in the autonomous community of Andalusia, Spain.",
+    "description": "Place in Andalusia, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Castilleja_de_la_Cuesta.JPG/330px-Castilleja_de_la_Cuesta.JPG",
+    "lat": 37.38333333,
+    "lon": -6.05,
+    "es": {
+      "title": "Castilleja de la Cuesta",
+      "url": "https://es.wikipedia.org/wiki/Castilleja_de_la_Cuesta",
+      "extract": "Castilleja de la Cuesta es un municipio y localidad española perteneciente a la provincia de Sevilla, en la comunidad autónoma de Andalucía. Se sitúa en la comarca Metropolitana de Sevilla. Cuenta con una población de 17 074 habitantes."
+    }
+  },
+  "cholula": {
+    "title": "Cholula, Puebla",
+    "url": "https://en.wikipedia.org/wiki/Cholula%2C_Puebla",
+    "extract": "Cholula, is a city and district located in the metropolitan area of Puebla, Mexico. Cholula is best known for its Great Pyramid, with the Iglesia de Nuestra Señora de los Remedios sanctuary on top, as well as its numerous churches.",
+    "description": "City and district in Puebla, Mexico",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/TepanapaCholula1.JPG/330px-TepanapaCholula1.JPG",
+    "lat": 19.06333333,
+    "lon": -98.30638889,
+    "es": {
+      "title": "Cholula de Rivadavia",
+      "url": "https://es.wikipedia.org/wiki/Cholula_de_Rivadavia",
+      "extract": "Cholula de Rivadavia, también llamada San Pedro Cholula —nombre del municipio —, es una ciudad del estado mexicano de Puebla, que forma parte de la Zona Metropolitana de Puebla y se encuentra prácticamente conurbada con la capital del estado, la ciudad de Puebla de Zaragoza; se localiza en el asentamiento de la antigua ciudad prehispánica de Cholula, de la que recibe el nombre. Es cabecera del municipio de San Pedro Cholula."
+    }
+  },
+  "medellin": {
+    "title": "Medellín, Spain",
+    "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn%2C_Spain",
+    "extract": "Medellín is a village in the province of Badajoz, Extremadura, Spain, notable as both the birthplace of Hernán Cortés in 1485 and the site of the Battle of Medellín, during the Peninsular War. The second-largest city in Colombia, Medellín, was named in honour of the small village as well as Medellín, Veracruz in Mexico, two cities in Argentina, and Medellin, Cebu, in the Philippines.",
+    "description": "Municipality in Extremadura, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Medell%C3%ADn_-_Medell%C3%ADn%2C_un_viaje_en_el_tiempo_1.jpg/330px-Medell%C3%ADn_-_Medell%C3%ADn%2C_un_viaje_en_el_tiempo_1.jpg",
+    "lat": 38.96305556,
+    "lon": -5.95777778,
+    "es": {
+      "title": "Medellín (España)",
+      "url": "https://es.wikipedia.org/wiki/Medell%C3%ADn_(Espa%C3%B1a)",
+      "extract": "Medellín es un municipio y localidad española de la provincia de Badajoz, en la comunidad autónoma de Extremadura. De fundación romana, cabecera del condado homónimo durante la Edad Media y cuna de Hernán Cortés."
+    }
+  },
+  "santo-domingo": {
+    "title": "Santo Domingo",
+    "url": "https://en.wikipedia.org/wiki/Santo_Domingo",
+    "extract": "Santo Domingo, officially known as Santo Domingo de Guzmán, is the capital and largest city of the Dominican Republic and the largest metropolitan area in the Caribbean by population. As of 2022, the city center had a population of 1,029,110 while its metropolitan area, Greater Santo Domingo, had a population of 4,274,651. The city is coterminous with the boundaries of the Distrito Nacional (D.N.), itself bordered on three sides by Santo Domingo Province.",
+    "description": "Capital and largest city of the Dominican Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SantoDomingoedit.JPG/330px-SantoDomingoedit.JPG",
+    "lat": 18.4625,
+    "lon": -69.9361,
+    "es": {
+      "title": "Santo Domingo",
+      "url": "https://es.wikipedia.org/wiki/Santo_Domingo",
+      "extract": "Santo Domingo es la capital de la República Dominicana. La ciudad está situada sobre el mar Caribe, en la desembocadura del río Ozama, en la costa meridional de La Española, a 155 km al sureste de Santiago."
+    }
+  },
+  "tenochtitlan": {
+    "title": "Tenochtitlan",
+    "url": "https://en.wikipedia.org/wiki/Tenochtitlan",
+    "extract": "Tenochtitlan, also known as Mexico-Tenochtitlan, was a large Mexican altepetl in what is now the historic center of Mexico City. The exact date of the founding of the city is unclear, but the date 13 March 1325 was chosen in 1925 to celebrate the 600th anniversary of the city. The city was built on an island in what was then Lake Texcoco in the Valley of Mexico. The city was the capital of the expanding Aztec Empire in the 15th century until it was captured by the Tlaxcaltec and the Spanish in 1521.",
+    "description": "Mexican city-state (1325–1521)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Vista_completa_de_Tenochtitl%C3%A1n.jpg/330px-Vista_completa_de_Tenochtitl%C3%A1n.jpg",
+    "lat": 19.43333333,
+    "lon": -99.13333333,
+    "es": {
+      "title": "México-Tenochtitlan",
+      "url": "https://es.wikipedia.org/wiki/M%C3%A9xico-Tenochtitlan",
+      "extract": "Tenochtitlan, también conocida como México-Tenochtitlan (), fue el altépetl (ciudad-estado) de la civilización mexica y capital de la Triple Alianza,de la que formaba parte junto a Tetzcuco y Tlacopan. Durante la conquista española fue destruida y se fundó sobre sus restos la Ciudad de México, que fue la capital del Virreinato de la Nueva España y luego la capital de los Estados Unidos Mexicanos."
+    }
+  },
+  "tlaxcala": {
+    "title": "Tlaxcala (city)",
+    "url": "https://en.wikipedia.org/wiki/Tlaxcala_(city)",
+    "extract": "Tlaxcala, officially Tlaxcala de Xicohténcatl, is the capital city of the Mexican state of Tlaxcala and seat of the municipality of the same name. The city did not exist during the pre-Hispanic period but was laid out by the Spanish as a center of evangelization and governance after the Spanish conquest of the Aztec Empire. The city was designated as a diocese but eventually lost that status to Puebla as its population declined. The city still has many of its old colonial structures, including the former Franciscan monastery, and newer civic structures like the Xicohtencatl Theatre.",
+    "description": "City in Tlaxcala, Mexico",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Tlaxcala1.jpg/330px-Tlaxcala1.jpg",
+    "lat": 19.3125,
+    "lon": -98.24,
+    "es": {
+      "title": "Tlaxcala de Xicohténcatl",
+      "url": "https://es.wikipedia.org/wiki/Tlaxcala_de_Xicoht%C3%A9ncatl",
+      "extract": "Tlaxcala, oficialmente llamada Tlaxcala de Xicohténcatl, es una ciudad mexicana, capital y sede de los poderes, secretarías y dependencias del estado de Tlaxcala, así como cabecera del municipio homónimo. En 2020, agrupó un total de 13 555 habitantes, siendo la capital estatal menos poblada del país, mientras que su área metropolitana conformada por 19 municipios registró 501 655 habitantes en el año 2010, lo que la convierte en la zona más grande y poblada de la región."
+    }
+  },
+  "veracruz": {
+    "title": "Veracruz (city)",
+    "url": "https://en.wikipedia.org/wiki/Veracruz_(city)",
+    "extract": "Veracruz, also known as Heroica Veracruz, is a major port city and municipal seat for the surrounding municipality of Veracruz on the Gulf of Mexico and the most populous city in the Mexican state of Veracruz. The city is located along the coast in the central part of the state, 90 km (56 mi) southeast of the state capital Xalapa.",
+    "description": "City and municipality in Veracruz, Mexico",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Teatro_Francisco_Javier_Clavijero.jpg/330px-Teatro_Francisco_Javier_Clavijero.jpg",
+    "lat": 19.19027778,
+    "lon": -96.15333333,
+    "es": {
+      "title": "Veracruz",
+      "url": "https://es.wikipedia.org/wiki/Veracruz",
+      "extract": "Heroica Veracruz es una ciudad mexicana, cabecera del municipio de Veracruz, situada en el Estado de Veracruz. Forma parte de la zona metropolitana de Veracruz. Tiene el segundo puerto marítimo comercial más importante de México. En 2020 contaba con una población de 405 953 habitantes."
+    }
+  }
+}

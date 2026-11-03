@@ -10,7 +10,7 @@ Topic: $ARGUMENTS
 
 ## What an entry is
 
-One historically relevant, dated event: **title, summary, Spanish translation of both, date, tags, sources**. No article body. Entries across all topics share one chronology, so each must stand alone: a reader seeing "1503" next to events from other fields should understand it without the rest of the topic. Name people and places in the title or summary.
+One historically relevant, dated event: **title, summary, Spanish translation of both, date, tags, places, sources**. No article body. Entries across all topics share one chronology, so each must stand alone: a reader seeing "1503" next to events from other fields should understand it without the rest of the topic. Name people and places in the title or summary.
 
 Schema reference: `src/lib/schemas.ts`. Import format and rules: `admin/README.md`.
 
@@ -36,6 +36,8 @@ Schema reference: `src/lib/schemas.ts`. Import format and rules: `admin/README.m
 
 7. **Tag.** Each entry needs at least one tag, and usually two to four: the topics where the event is relevant, not just the subject's own field (for example, a patron's political context). Tag ids are lowercase letters, digits and single hyphens. New tags need `label`, `color` (`#rrggbb`, distinct from existing tag colors), `categories` and a one-sentence `description`, plus `translations.es` with the Spanish `label` and `description`; reuse existing category names **exactly** as spelled, and add a category only if none fits.
 
+   **Places.** Link an entry to the specific places it is about (where it happened, was born, was founded), usually one to three, using the `places` list on the entry. Each place is an id, a `label`, the **English Wikipedia article title** (`wikipedia`, a title and never a URL, and never a disambiguation page) and a Spanish `label` in `translations.es`. Reuse existing places (`GET /api/places`) and declare only new ones in the draft's `places` block. Do not write popup text, coordinates or snapshots: the admin tool fetches them from Wikipedia. Skip an entry's places when no specific place fits.
+
 8. **Write the draft** to `admin/drafts/<topic-slug>.json` (that folder is gitignored):
    ```json
    {
@@ -53,13 +55,14 @@ Schema reference: `src/lib/schemas.ts`. Import format and rules: `admin/README.m
      ]
    }
    ```
-   Omit `tags` entirely if you are not creating any. Set `id` explicitly when two titles could slug to the same thing.
+   Add a top-level `"places": { "<place-id>": { "label": "…", "wikipedia": "Article title", "translations": { "es": { "label": "…" } } } }` block when you create places, and `"places": ["<place-id>"]` on each entry that has them. Omit `tags` and `places` blocks entirely if you are not creating any. Set `id` explicitly when two titles could slug to the same thing.
 
 9. **Dry-run and fix.** `curl -s -X POST "localhost:4322/api/import?onConflict=skip&dry=1" -H "Content-Type: application/json" --data-binary @admin/drafts/<file>.json`. If it returns issues, fix them in the file and repeat until it passes. With `onConflict=skip`, check which entries were *skipped* as already existing and mention them; do not overwrite anything.
 
 10. **Stop and report.** Do **not** run the real import unless the user explicitly asks. Report:
     - the draft's path and how many entries it holds;
     - **new tags** you propose, with their categories;
+    - **new places** with the Wikipedia article each resolved to (the dry run's `places` and the article titles you chose), and any match you are unsure of;
     - entries skipped because they already exist;
     - **Spanish**: confirmation that every entry and new tag has a translation, and any phrasing you were unsure of;
     - **uncertain items**: any date you set as circa, any where sources disagreed, any with only a weak source;
