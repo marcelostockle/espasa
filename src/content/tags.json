@@ -620,14 +620,14 @@
   "portugal": {
     "label": "Portugal",
     "color": "#e040fb",
-    "description": "The Kingdom of Portugal and its overseas expansion, from its founding in the 12th century to the early modern empire.",
+    "description": "The Kingdom of Portugal and its overseas empire, from its founding in the 12th century to the loss of Brazil in 1822.",
     "categories": [
       "States"
     ],
     "translations": {
       "es": {
         "label": "Portugal",
-        "description": "El Reino de Portugal y su expansión ultramarina, desde su fundación en el siglo XII hasta el imperio de la Edad Moderna."
+        "description": "El Reino de Portugal y su imperio ultramarino, desde su fundación en el siglo XII hasta la pérdida del Brasil en 1822."
       }
     }
   },
