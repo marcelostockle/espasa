@@ -80,6 +80,15 @@
       }
     }
   },
+  "barcelona": {
+    "label": "Barcelona",
+    "wikipedia": "Barcelona",
+    "translations": {
+      "es": {
+        "label": "Barcelona"
+      }
+    }
+  },
   "basel": {
     "label": "Basel",
     "wikipedia": "Basel",
@@ -431,6 +440,15 @@
       }
     }
   },
+  "madrid": {
+    "label": "Madrid",
+    "wikipedia": "Madrid",
+    "translations": {
+      "es": {
+        "label": "Madrid"
+      }
+    }
+  },
   "mantua": {
     "label": "Mantua",
     "wikipedia": "Mantua",
@@ -581,6 +599,15 @@
     "translations": {
       "es": {
         "label": "Río de Janeiro"
+      }
+    }
+  },
+  "salamanca": {
+    "label": "Salamanca",
+    "wikipedia": "Salamanca",
+    "translations": {
+      "es": {
+        "label": "Salamanca"
       }
     }
   },

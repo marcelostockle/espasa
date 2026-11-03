@@ -125,6 +125,20 @@
       "extract": "La península de Baja California, está localizada al noroeste de México. Penetra en el océano Pacífico, formando el golfo de California entre su costa oriental y las costas de Sonora y Sinaloa. Tiene una longitud aproximada de 1250 km y comprende los estados mexicanos de Baja California y Baja California Sur. Inicia en la frontera de México con Estados Unidos y termina en un cabo con enormes formaciones rocosas, entre las que se encuentra el llamado Arco Monumental."
     }
   },
+  "barcelona": {
+    "title": "Barcelona",
+    "url": "https://en.wikipedia.org/wiki/Barcelona",
+    "extract": "Barcelona is a city on the northeastern coast of Spain. It is the capital and largest city of the autonomous community of Catalonia, as well as the second-most populous municipality of Spain after Madrid. With a population of 1.7 million within city limits, its urban area extends to numerous neighbouring municipalities within the province of Barcelona and is home to around 5.7 million people, making it the fifth most populous urban area of the European Union after Paris, the Ruhr area, Madrid, and Milan. It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range.",
+    "description": "City and municipality in Catalonia, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/330px-Evening_light_over_Barcelona.jpg",
+    "lat": 41.38333333,
+    "lon": 2.18333333,
+    "es": {
+      "title": "Barcelona",
+      "url": "https://es.wikipedia.org/wiki/Barcelona",
+      "extract": "Barcelona es una ciudad de España, capital de Cataluña, de la provincia de Barcelona y de la comarca del Barcelonés. Con una población de 1 731 649 habitantes, es la segunda ciudad más poblada de España y de la península ibérica después de Madrid, y la décima de la Unión Europea. Su ámbito metropolitano cuenta con una población de 5 797 356 habitantes según Eurostat, siendo así la tercera aglomeración urbana de mayor población y la más densamente poblada de la Unión Europea."
+    }
+  },
   "basel": {
     "title": "Basel",
     "url": "https://en.wikipedia.org/wiki/Basel",
@@ -665,6 +679,20 @@
       "extract": "Lisboa es la capital y la ciudad más poblada de Portugal.Está situada en la desembocadura del río Tajo, es la capital del país, capital del distrito de Lisboa, de la región de Lisboa y del área metropolitana de Lisboa, y es también el principal centro de la subregión de la Gran Lisboa. Lisboa tiene una población de 547 773 habitantes, y su zona metropolitana cuenta con una población de 2 810 923 en una superficie de 2.921,90 km². Esta área contiene el 26% de la población del país. Lisboa es la ciudad más rica de Portugal."
     }
   },
+  "madrid": {
+    "title": "Madrid",
+    "url": "https://en.wikipedia.org/wiki/Madrid",
+    "extract": "Madrid is the capital and largest city of Spain. It had a population of over 3.4 million in the city proper in 2025, and a metropolitan area population of approximately 6.8 million. Madrid is the second-largest city in the European Union (EU), after Berlin, and its metropolitan area is the second-largest in the EU, after Paris. The municipality covers an area of 605.77 square kilometres (233.89 sq mi). Madrid lies on the River Manzanares in the central part of the Iberian Peninsula at about 660 metres (2,170 ft) above mean sea level. The capital city of both Spain and the surrounding autonomous community of Madrid, it is the political, economic and cultural centre of the country.",
+    "description": "Capital and largest city of Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg/330px-Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg",
+    "lat": 40.4169,
+    "lon": -3.7033,
+    "es": {
+      "title": "Madrid",
+      "url": "https://es.wikipedia.org/wiki/Madrid",
+      "extract": "Madrid es un municipio y una ciudad de España. La localidad, con categoría histórica de villa, es la capital del Estado y de la Comunidad de Madrid. En su término municipal, el más poblado de España, su población es de 3 506 730 habitantes, constituyéndose como la segunda ciudad más poblada de la Unión Europea, así como su área metropolitana, con 6 779 888 habitantes empadronados."
+    }
+  },
   "mantua": {
     "title": "Mantua",
     "url": "https://en.wikipedia.org/wiki/Mantua",
@@ -901,6 +929,20 @@
       "title": "Río de Janeiro",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_de_Janeiro",
       "extract": "Río de Janeiro, fundada como São Sebastião do Rio de Janeiro, es una ciudad y municipio brasileño, capital del estado homónimo, ubicada en el sureste del país. Es la segunda ciudad más poblada de Brasil después de São Paulo. Es considerada la ciudad de Brasil más conocida a nivel Internacional."
+    }
+  },
+  "salamanca": {
+    "title": "Salamanca",
+    "url": "https://en.wikipedia.org/wiki/Salamanca",
+    "extract": "Salamanca is a municipality and city in the autonomous community of Castile and León in Spain, and the capital of the Province of Salamanca. Attached to the comarca of Campo Charro, the city lies on the northern half of the Meseta Central, in the western-central part of the Iberian Peninsula, straddling the Tormes river. Its population in 2024 was 144,458, making Salamanca the 46th-largest municipality in Spain. The University of Salamanca, founded in 1218, is one of the oldest in Western Europe, and the Old City of Salamanca is a UNESCO World Heritage Site, which every year attracts a significant number of students and cultural tourists.",
+    "description": "Municipality in Castile and León, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/68436-Salamanca_%2849093713952%29_edited.jpg/330px-68436-Salamanca_%2849093713952%29_edited.jpg",
+    "lat": 40.965,
+    "lon": -5.66416667,
+    "es": {
+      "title": "Salamanca",
+      "url": "https://es.wikipedia.org/wiki/Salamanca",
+      "extract": "Salamanca es un municipio y ciudad española, capital de la provincia homónima, situada en la comunidad autónoma de Castilla y León. Está ubicada en la comarca del Campo de Salamanca, en plena meseta Norte, en el cuadrante noroeste de la península ibérica. Tiene una población de 146 110 habitantes."
     }
   },
   "salvador": {

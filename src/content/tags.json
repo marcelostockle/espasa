@@ -477,6 +477,20 @@
       }
     }
   },
+  "literature": {
+    "label": "Literature",
+    "color": "#827717",
+    "description": "Works and institutions of written literature: poems, novels, plays, grammars and dictionaries, and their publication.",
+    "categories": [
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Literatura",
+        "description": "Obras e instituciones de la literatura escrita: poemas, novelas, obras de teatro, gramáticas y diccionarios, y su publicación."
+      }
+    }
+  },
   "marco-polo": {
     "label": "Marco Polo",
     "color": "#aeea00",
@@ -741,6 +755,20 @@
       "es": {
         "label": "Ciencia",
         "description": "Descubrimientos y método científico."
+      }
+    }
+  },
+  "siglo-de-oro": {
+    "label": "Siglo de Oro",
+    "color": "#ff7043",
+    "description": "The Spanish Golden Age, the period of exceptional Spanish literature, theatre and art conventionally running from 1492 to the death of Calderón in 1681.",
+    "categories": [
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Siglo de Oro",
+        "description": "El Siglo de Oro español, época de excepcional florecimiento de la literatura, el teatro y el arte en España, que convencionalmente va de 1492 a la muerte de Calderón en 1681."
       }
     }
   },
