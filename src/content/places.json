@@ -125,6 +125,15 @@
       }
     }
   },
+  "buda": {
+    "label": "Buda",
+    "wikipedia": "Buda",
+    "translations": {
+      "es": {
+        "label": "Buda"
+      }
+    }
+  },
   "burgos": {
     "label": "Burgos",
     "wikipedia": "Burgos",
@@ -203,6 +212,15 @@
     "translations": {
       "es": {
         "label": "Dali"
+      }
+    }
+  },
+  "dresden": {
+    "label": "Dresden",
+    "wikipedia": "Dresden",
+    "translations": {
+      "es": {
+        "label": "Dresde"
       }
     }
   },
@@ -287,6 +305,24 @@
       }
     }
   },
+  "leipzig": {
+    "label": "Leipzig",
+    "wikipedia": "Leipzig",
+    "translations": {
+      "es": {
+        "label": "Leipzig"
+      }
+    }
+  },
+  "mantua": {
+    "label": "Mantua",
+    "wikipedia": "Mantua",
+    "translations": {
+      "es": {
+        "label": "Mantua"
+      }
+    }
+  },
   "medellin": {
     "label": "Medellín",
     "wikipedia": "Medellín, Spain",
@@ -302,6 +338,15 @@
     "translations": {
       "es": {
         "label": "Moca"
+      }
+    }
+  },
+  "mohacs": {
+    "label": "Mohács",
+    "wikipedia": "Mohács",
+    "translations": {
+      "es": {
+        "label": "Mohács"
       }
     }
   },
@@ -347,6 +392,15 @@
     "translations": {
       "es": {
         "label": "Puerto Príncipe"
+      }
+    }
+  },
+  "regensburg": {
+    "label": "Regensburg",
+    "wikipedia": "Regensburg",
+    "translations": {
+      "es": {
+        "label": "Ratisbona"
       }
     }
   },
@@ -404,6 +458,15 @@
       }
     }
   },
+  "sremski-karlovci": {
+    "label": "Karlowitz",
+    "wikipedia": "Sremski Karlovci",
+    "translations": {
+      "es": {
+        "label": "Sremski Karlovci"
+      }
+    }
+  },
   "tenochtitlan": {
     "label": "Tenochtitlan",
     "wikipedia": "Tenochtitlan",
@@ -428,6 +491,15 @@
     "translations": {
       "es": {
         "label": "Toledo"
+      }
+    }
+  },
+  "torgau": {
+    "label": "Torgau",
+    "wikipedia": "Torgau",
+    "translations": {
+      "es": {
+        "label": "Torgau"
       }
     }
   },
@@ -494,12 +566,30 @@
       }
     }
   },
+  "vienna": {
+    "label": "Vienna",
+    "wikipedia": "Vienna",
+    "translations": {
+      "es": {
+        "label": "Viena"
+      }
+    }
+  },
   "xiangyang": {
     "label": "Xiangyang",
     "wikipedia": "Xiangyang",
     "translations": {
       "es": {
         "label": "Xiangyang"
+      }
+    }
+  },
+  "zsitvatorok": {
+    "label": "Zsitvatorok",
+    "wikipedia": "Zsitvatorok",
+    "translations": {
+      "es": {
+        "label": "Zsitvatorok"
       }
     }
   }

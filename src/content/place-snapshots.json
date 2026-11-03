@@ -194,6 +194,20 @@
       "extract": " Bouvines  es una población y comuna francesa, en la región de Alta Francia, departamento de Norte, en el distrito de Lille y cantón de Cysoing."
     }
   },
+  "buda": {
+    "title": "Buda",
+    "url": "https://en.wikipedia.org/wiki/Buda",
+    "extract": "Buda is the part of Budapest, the capital city of Hungary, that lies on the western bank of the Danube. Historically, \"Buda\" referred only to the royal walled city on Castle Hill, which was constructed by Béla IV between 1247 and 1249 and subsequently served as the capital of the Kingdom of Hungary from 1361 to 1873. In 1873, Buda was administratively unified with Pest and Óbuda to form modern Budapest.",
+    "description": "Ancient capital of the Kingdom of Hungary",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Nuremberg_chronicles_-_BVJA.png/330px-Nuremberg_chronicles_-_BVJA.png",
+    "lat": 47.46666667,
+    "lon": 19.05,
+    "es": {
+      "title": "Buda (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/Buda_(ciudad)",
+      "extract": "Buda es la parte de Budapest, la capital de Hungría, que se encuentra en la orilla oeste del Danubio. Históricamente, Buda designaba solo la ciudad amurallada real situada en la colina del Castillo, que fue construida por Bela IV entre 1247 y 1249 y sirvió como la capital del Reino de Hungría desde 1361 hasta 1873. En 1873, Buda fue unificada administrativamente con Pest y Óbuda para formar la moderna Budapest."
+    }
+  },
   "burgos": {
     "title": "Burgos",
     "url": "https://en.wikipedia.org/wiki/Burgos",
@@ -320,6 +334,20 @@
       "extract": "Dali es un municipio bajo la jurisdicción de la ciudad-prefectura de Dali en la provincia de Yunnan, al sur de la República Popular China. Está ubicada al oeste de las montañas Cangshan y al este del Lago Erhai. Es un importante asentamiento de las minorías bai y yi aunque también hay grupos de tibetanos, hui, han y naxi. Su área es de 1739 km² y su población total para 2020 superó los 770 mil habitantes."
     }
   },
+  "dresden": {
+    "title": "Dresden",
+    "url": "https://en.wikipedia.org/wiki/Dresden",
+    "extract": "Dresden is the capital city of the German state of Saxony and its second most populous city after Leipzig. It is the 12th most populous city of Germany, the fourth largest by area, and the third-most populous city in the area of former East Germany, after Berlin and Leipzig. Dresden's urban area comprises the towns of Freital, Pirna, Radebeul, Meissen, Coswig, Radeberg, and Heidenau and has around 790,000 inhabitants. The Dresden metropolitan area has over 1.3 million inhabitants.",
+    "description": "Capital city of Saxony, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/330px-DD-Schloss-gp.jpg",
+    "lat": 51.05,
+    "lon": 13.74,
+    "es": {
+      "title": "Dresde",
+      "url": "https://es.wikipedia.org/wiki/Dresde",
+      "extract": "Dresde es la capital del estado federado de Sajonia, en Alemania. Limita al noroeste con el distrito de Meißen, al noreste con el de Bautzen y al sur con el de distrito de Suiza Sajona-Montes Metálicos Orientales. Dresde se encuentra justo en el centro de la conurbación homónima. Esta aglomeración, junto con la de Chemnitz-Zwickau y la de Leipzig-Halle, constituyen la llamada “región metropolitana del triángulo sajón”. La población total de Dresde supera los 550 000 habitantes y su correspondiente Regierungsbezirk o región administrativa, el millón y medio."
+    }
+  },
   "fontainebleau": {
     "title": "Fontainebleau",
     "url": "https://en.wikipedia.org/wiki/Fontainebleau",
@@ -441,6 +469,34 @@
       "extract": "La Isabela fue una villa fundada por Cristóbal Colón en 1494 durante su Segundo Viaje, situada en la provincia de Puerto Plata, República Dominicana."
     }
   },
+  "leipzig": {
+    "title": "Leipzig",
+    "url": "https://en.wikipedia.org/wiki/Leipzig",
+    "extract": "Leipzig is the most populous city in the German state of Saxony. The city has a population of 633,592 residents as of 31 December 2025. It is the eighth-largest city in Germany and is part of the Central German Metropolitan Region. Leipzig is located about 150 km (90 mi) southwest of Berlin, in the southernmost part of the North German Plain, at the confluence of the White Elster and its tributaries Pleiße and Parthe.",
+    "description": "Largest city in Saxony, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Blick_vom_City-Hochhaus_Leipzig_05.jpg/330px-Blick_vom_City-Hochhaus_Leipzig_05.jpg",
+    "lat": 51.34,
+    "lon": 12.375,
+    "es": {
+      "title": "Leipzig",
+      "url": "https://es.wikipedia.org/wiki/Leipzig",
+      "extract": "Leipzig es una ciudad alemana en el noroeste del estado de Sajonia, con 633,592 habitantes en diciembre de 2025. Ya en el año 1165 recibió el derecho de ciudad y de mercado."
+    }
+  },
+  "mantua": {
+    "title": "Mantua",
+    "url": "https://en.wikipedia.org/wiki/Mantua",
+    "extract": "Mantua is a city and comune (municipality) in the region of Lombardy in northern Italy and capital of the eponymous province. It has 50,215 inhabitants.",
+    "description": "City in Lombardy, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Dsc_1150_Mantua.jpg/330px-Dsc_1150_Mantua.jpg",
+    "lat": 45.15638889,
+    "lon": 10.79166667,
+    "es": {
+      "title": "Mantua",
+      "url": "https://es.wikipedia.org/wiki/Mantua",
+      "extract": "Mantua es una ciudad italiana ubicada en la región de Lombardía, capital de la provincia homónima. Está rodeada en tres de sus lados por el río Mincio. Centro agrícola y turístico, posee fábricas que producen maquinaria agrícola, fertilizantes, muebles, calzado y juguetes. Es el escenario de la ópera Rigoletto. Mantua fue nombrada Capital de la Cultura Italiana en 2016."
+    }
+  },
   "medellin": {
     "title": "Medellín, Spain",
     "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn%2C_Spain",
@@ -467,6 +523,20 @@
       "title": "Moca (República Dominicana)",
       "url": "https://es.wikipedia.org/wiki/Moca_(Rep%C3%BAblica_Dominicana)",
       "extract": "Moca es un municipio de la República Dominicana situado en la provincia de Espaillat."
+    }
+  },
+  "mohacs": {
+    "title": "Mohács",
+    "url": "https://en.wikipedia.org/wiki/Moh%C3%A1cs",
+    "extract": "Mohács is a town in Baranya County, Hungary, on the right bank of the Danube.",
+    "description": "Town in Baranya, Hungary",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Moh%C3%A1cs_l%C3%A9gifot%C3%B3.jpg/330px-Moh%C3%A1cs_l%C3%A9gifot%C3%B3.jpg",
+    "lat": 45.99593,
+    "lon": 18.67985,
+    "es": {
+      "title": "Mohács",
+      "url": "https://es.wikipedia.org/wiki/Moh%C3%A1cs",
+      "extract": "Mohács es una ciudad en el condado de Baranya, Hungría, en la orilla derecha del Danubio."
     }
   },
   "nantes": {
@@ -537,6 +607,20 @@
       "title": "Puerto Príncipe",
       "url": "https://es.wikipedia.org/wiki/Puerto_Pr%C3%ADncipe",
       "extract": "Puerto Príncipe es la capital y ciudad más poblada de Haití. La población de la ciudad se estimó en 1,2 millones en 2022 y el área metropolitana se estimó en una población de 2 618 894. Se encuentra situada en el distrito de Puerto Príncipe, en el departamento Oeste."
+    }
+  },
+  "regensburg": {
+    "title": "Regensburg",
+    "url": "https://en.wikipedia.org/wiki/Regensburg",
+    "extract": "Regensburg is a city in eastern Bavaria, at the confluence of the rivers Danube, Naab and Regen, Danube's northernmost point. It is the capital of the Upper Palatinate subregion of the state. With more than 150,000 inhabitants, Regensburg is the fourth-largest city in the State of Bavaria after Munich, Nuremberg and Augsburg and the eighth-largest of all cities on the river Danube. From its foundation as an imperial Roman river fort, the city has been the political, economic, and cultural centre of the surrounding region. Later, under the rule of the Holy Roman Empire, it housed the Perpetual Diet of Regensburg.",
+    "description": "City in Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Regensburger_Altstadt_von_oben_.jpg/330px-Regensburger_Altstadt_von_oben_.jpg",
+    "lat": 49.01666667,
+    "lon": 12.08333333,
+    "es": {
+      "title": "Ratisbona",
+      "url": "https://es.wikipedia.org/wiki/Ratisbona",
+      "extract": "Ratisbona es una ciudad alemana, capital de la región administrativa de Alto Palatinado, en el estado federado de Baviera. Se encuentra en la confluencia de los ríos Danubio y Regen."
     }
   },
   "reims": {
@@ -623,6 +707,20 @@
       "extract": "Xanadú, Xanadu, Zanadu o Shangdu era la capital de verano del Imperio mongol de Kublai Kan, imperio que ocupaba gran parte de Asia. Hallazgos arqueológicos concluyen que la ciudad estaba situada en la actual provincia de Mongolia Interior, en China. La ciudad tenía tres partes: la «ciudad exterior», la «ciudad interior» y el palacio, donde Kublai Kan permanecía en verano. Se cree que el palacio de Xanadú era la mitad de grande que la Ciudad Prohibida, en Pekín. Los restos modernos más visibles son las murallas en tierra, así como la plataforma circular de ladrillo en el centro de la ciudad interior."
     }
   },
+  "sremski-karlovci": {
+    "title": "Sremski Karlovci",
+    "url": "https://en.wikipedia.org/wiki/Sremski_Karlovci",
+    "extract": "Sremski Karlovci is a town and municipality located in the South Bačka District, province of Vojvodina, Serbia. It is situated on the banks of the Danube, 8 kilometres from Novi Sad. According to the 2022 census results, it has a population of 7,872 inhabitants.",
+    "description": "Town and municipality in Vojvodina, Serbia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Vidikovac_Sremski_Karlovci_8295_10.jpg/330px-Vidikovac_Sremski_Karlovci_8295_10.jpg",
+    "lat": 45.20277778,
+    "lon": 19.93361111,
+    "es": {
+      "title": "Sremski Karlovci",
+      "url": "https://es.wikipedia.org/wiki/Sremski_Karlovci",
+      "extract": "Sremski Karlovci es una villa y municipio de Serbia, en el distrito de Bačka del Sur, en la provincia autónoma de Voivodina."
+    }
+  },
   "tenochtitlan": {
     "title": "Tenochtitlan",
     "url": "https://en.wikipedia.org/wiki/Tenochtitlan",
@@ -663,6 +761,20 @@
       "title": "Toledo",
       "url": "https://es.wikipedia.org/wiki/Toledo",
       "extract": "Toledo es un municipio y ciudad española, capital de la provincia homónima, en la comunidad autónoma de Castilla-La Mancha. Su término municipal cuenta con una población de 87 216 habitantes. El casco histórico está situado en la margen derecha del Tajo, en una colina rodeada por un pronunciado meandro. El término municipal incluye dos barrios muy separados del núcleo principal: el de Azucaica, en la orilla derecha del río, y el de Santa María de Benquerencia, situado prácticamente enfrente del anterior en la margen izquierda."
+    }
+  },
+  "torgau": {
+    "title": "Torgau",
+    "url": "https://en.wikipedia.org/wiki/Torgau",
+    "extract": "Torgau is a town on the banks of the Elbe in northwestern Saxony, Germany. It is the capital of the district Nordsachsen.",
+    "description": "Town in Saxony, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/SchlossHartenfels.JPG/330px-SchlossHartenfels.JPG",
+    "lat": 51.56027778,
+    "lon": 13.00555556,
+    "es": {
+      "title": "Torgau",
+      "url": "https://es.wikipedia.org/wiki/Torgau",
+      "extract": "Torgau o Turgovia es una ciudad alemana junto al Elba, en el noroeste del Estado federado de Sajonia."
     }
   },
   "tortuga": {
@@ -763,6 +875,20 @@
       "extract": "El Palacio de Versalles es una antigua residencia real construida por el rey Luis XIV situada en Versalles, a unos 19 kilómetros al oeste de París (Francia). El palacio es propiedad de la República Francesa y desde 1995 está gestionado, bajo la dirección del Ministerio de Cultura francés, por el Establecimiento Público del Palacio, Museo y Dominio Nacional de Versalles. Alrededor de 15 millones de personas visitan cada año el palacio, el parque o los jardines de Versalles, lo que lo convierte en una de las atracciones turísticas más populares del mundo."
     }
   },
+  "vienna": {
+    "title": "Vienna",
+    "url": "https://en.wikipedia.org/wiki/Vienna",
+    "extract": "Vienna is the capital, most populous city, and one of the nine states of Austria. It is Austria's primate city, with just over two million inhabitants. Its larger metropolitan area has a population of nearly 2.9 million, representing nearly one-third of the country's population. Vienna is the cultural, economic, and political centre of the country, the fifth-largest city by population in the European Union, and the most populous of the cities on the river Danube.",
+    "description": "Capital and largest city of Austria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Schoenbrunn_philharmoniker_2012.jpg/330px-Schoenbrunn_philharmoniker_2012.jpg",
+    "lat": 48.2083,
+    "lon": 16.3725,
+    "es": {
+      "title": "Viena",
+      "url": "https://es.wikipedia.org/wiki/Viena",
+      "extract": "Viena es una ciudad austriaca situada a orillas del Danubio, en el valle de los Bosques de Viena, al pie de las primeras estribaciones de los Alpes. Es la capital federal y ciudad principal del país, además de uno de sus nueve estados federados (Bundesland Wien)."
+    }
+  },
   "xiangyang": {
     "title": "Xiangyang",
     "url": "https://en.wikipedia.org/wiki/Xiangyang",
@@ -775,6 +901,20 @@
       "title": "Xiangyang",
       "url": "https://es.wikipedia.org/wiki/Xiangyang",
       "extract": "Xiangyang es una ciudad-prefectura en la provincia de Hubei, República Popular de China. Limita al norte con Nanyang, al sur con Jingmen, al oeste con Shiyan y al sureste con Suizhou.\nSu área es de 19 727 km² y su población total para 2019 superó los 5,68 millones de habitantes."
+    }
+  },
+  "zsitvatorok": {
+    "title": "Radvaň nad Dunajom",
+    "url": "https://en.wikipedia.org/wiki/Radva%C5%88_nad_Dunajom",
+    "extract": "Radvaň nad Dunajom is a municipality at the Danube in the Komárno District of the Nitra Region in Slovakia.",
+    "description": "Municipality in Slovakia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Dunaradv%C3%A1ny01.JPG/330px-Dunaradv%C3%A1ny01.JPG",
+    "lat": 47.75,
+    "lon": 18.37,
+    "es": {
+      "title": "Radvaň nad Dunajom",
+      "url": "https://es.wikipedia.org/wiki/Radva%C5%88_nad_Dunajom",
+      "extract": "Radvaň nad Dunajom es un municipio del distrito de Komárno en la región de Nitra, Eslovaquia, con una población estimada a final del año 2025 de 702 habitantes."
     }
   }
 }
