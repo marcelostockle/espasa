@@ -8,6 +8,15 @@
       }
     }
   },
+  "aranjuez": {
+    "label": "Aranjuez",
+    "wikipedia": "Aranjuez",
+    "translations": {
+      "es": {
+        "label": "Aranjuez"
+      }
+    }
+  },
   "azua": {
     "label": "Azua",
     "wikipedia": "Azua de Compostela",
@@ -17,12 +26,66 @@
       }
     }
   },
+  "bahoruco": {
+    "label": "Bahoruco mountains",
+    "wikipedia": "Sierra de Bahoruco",
+    "translations": {
+      "es": {
+        "label": "Sierra de Bahoruco"
+      }
+    }
+  },
   "baja-california": {
     "label": "Baja California",
     "wikipedia": "Baja California Peninsula",
     "translations": {
       "es": {
         "label": "Baja California"
+      }
+    }
+  },
+  "basel": {
+    "label": "Basel",
+    "wikipedia": "Basel",
+    "translations": {
+      "es": {
+        "label": "Basilea"
+      }
+    }
+  },
+  "bois-caiman": {
+    "label": "Bois Caïman",
+    "wikipedia": "Bois Caïman",
+    "translations": {
+      "es": {
+        "label": "Bois Caïman"
+      }
+    }
+  },
+  "burgos": {
+    "label": "Burgos",
+    "wikipedia": "Burgos",
+    "translations": {
+      "es": {
+        "label": "Burgos"
+      }
+    }
+  },
+  "cadiz": {
+    "label": "Cádiz",
+    "wikipedia": "Cádiz",
+    "translations": {
+      "es": {
+        "label": "Cádiz"
+      }
+    }
+  },
+  "cap-francais": {
+    "label": "Cap-Français",
+    "wikipedia": "Cap-Haïtien",
+    "translations": {
+      "es": {
+        "label": "Cap-Français"
       }
     }
   },
@@ -44,12 +107,66 @@
       }
     }
   },
+  "fort-de-joux": {
+    "label": "Fort de Joux",
+    "wikipedia": "Fort de Joux",
+    "translations": {
+      "es": {
+        "label": "Fort de Joux"
+      }
+    }
+  },
+  "gonaives": {
+    "label": "Gonaïves",
+    "wikipedia": "Gonaïves",
+    "translations": {
+      "es": {
+        "label": "Gonaïves"
+      }
+    }
+  },
+  "la-isabela": {
+    "label": "La Isabela",
+    "wikipedia": "La Isabela",
+    "translations": {
+      "es": {
+        "label": "La Isabela"
+      }
+    }
+  },
   "medellin": {
     "label": "Medellín",
     "wikipedia": "Medellín, Spain",
     "translations": {
       "es": {
         "label": "Medellín"
+      }
+    }
+  },
+  "moca": {
+    "label": "Moca",
+    "wikipedia": "Moca, Dominican Republic",
+    "translations": {
+      "es": {
+        "label": "Moca"
+      }
+    }
+  },
+  "rijswijk": {
+    "label": "Ryswick",
+    "wikipedia": "Rijswijk",
+    "translations": {
+      "es": {
+        "label": "Rijswijk"
+      }
+    }
+  },
+  "santiago-de-los-caballeros": {
+    "label": "Santiago",
+    "wikipedia": "Santiago de los Caballeros",
+    "translations": {
+      "es": {
+        "label": "Santiago de los Caballeros"
       }
     }
   },
@@ -77,6 +194,15 @@
     "translations": {
       "es": {
         "label": "Tlaxcala"
+      }
+    }
+  },
+  "tortuga": {
+    "label": "Tortuga",
+    "wikipedia": "Tortuga (Haiti)",
+    "translations": {
+      "es": {
+        "label": "Isla de la Tortuga"
       }
     }
   },

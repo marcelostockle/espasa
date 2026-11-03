@@ -13,6 +13,20 @@
       "extract": "Argel es la capital y la mayor ciudad de Argelia. Argel está situada en el litoral mediterráneo y es el principal puerto del noroeste del Magreb."
     }
   },
+  "aranjuez": {
+    "title": "Aranjuez",
+    "url": "https://en.wikipedia.org/wiki/Aranjuez",
+    "extract": "Aranjuez is a city and municipality of Spain, part of the Community of Madrid.",
+    "description": "Municipality in Community of Madrid, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Aranjuez_PalacioReal_PlazaToros.jpg/330px-Aranjuez_PalacioReal_PlazaToros.jpg",
+    "lat": 40.03333333,
+    "lon": -3.60277778,
+    "es": {
+      "title": "Aranjuez",
+      "url": "https://es.wikipedia.org/wiki/Aranjuez",
+      "extract": "Aranjuez es un municipio español en el extremo sur de la Comunidad de Madrid, cabeza del partido judicial del mismo nombre. Se encuentra en un ancho valle, junto a la confluencia de los ríos Tajo y Jarama, bordeado por un conjunto de cerros y mesetas que alcanzan los 630 m de altitud. Además de los cauces naturales, posee una extensa red de canales, acequias y presas históricas que, tradicionalmente, han propiciado los cultivos de regadío, como frutales y hortalizas, entre los que destacan fresas y espárragos. A nivel medioambiental, buena parte del término municipal forma parte de la zona especial de conservación Vegas, cuestas y páramos del sureste de Madrid, en la cual destacan la reserva natural del Carrizal de Villamejor, y la reserva del Regajal-Mar de Ontígola, que incluye el humedal del Mar de Ontígola y la finca El Regajal."
+    }
+  },
   "azua": {
     "title": "Azua, Dominican Republic",
     "url": "https://en.wikipedia.org/wiki/Azua%2C_Dominican_Republic",
@@ -27,6 +41,20 @@
       "extract": "Azua es un municipio de la República Dominicana, que está situado en la provincia de Azua, de la que es la capital."
     }
   },
+  "bahoruco": {
+    "title": "Baoruco Mountain Range",
+    "url": "https://en.wikipedia.org/wiki/Baoruco_Mountain_Range",
+    "extract": "The Bahoruco Mountain Range—Sierra de Bahoruco is a mountain range located in the far southwestern region of the Dominican Republic. It is within Pedernales, Independencia, Barahona, and Bahoruco Provinces. A large part of the area is protected within the Sierra de Bahoruco National Park, also a Biosphere reserve.",
+    "description": "Mountain range in the Dominican Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Hoyo_de_Pelempito.jpg/330px-Hoyo_de_Pelempito.jpg",
+    "lat": 18.11666667,
+    "lon": -71.41666667,
+    "es": {
+      "title": "Sierra de Bahoruco",
+      "url": "https://es.wikipedia.org/wiki/Sierra_de_Bahoruco",
+      "extract": "Se denomina sierra de Bahoruco a la parte en territorio de la República Dominicana de una cordillera submarina que recorre gran parte de la plataforma tectónica del Caribe. Esta cordillera emerge al sur de la Isla Hispaniola creando la península de Barahona en la República Dominicana y su parte más alta se eleva hacia el Oeste penetrando en la República de Haití, en donde se conoce con los nombres de Massif de la Selle y Massif de la Hotte. En la parte que recorre el territorio dominicano, se conoce como sierra de Bahoruco."
+    }
+  },
   "baja-california": {
     "title": "Baja California peninsula",
     "url": "https://en.wikipedia.org/wiki/Baja_California_peninsula",
@@ -39,6 +67,75 @@
       "title": "Península de Baja California",
       "url": "https://es.wikipedia.org/wiki/Pen%C3%ADnsula_de_Baja_California",
       "extract": "La península de Baja California, está localizada al noroeste de México. Penetra en el océano Pacífico, formando el golfo de California entre su costa oriental y las costas de Sonora y Sinaloa. Tiene una longitud aproximada de 1250 km y comprende los estados mexicanos de Baja California y Baja California Sur. Inicia en la frontera de México con Estados Unidos y termina en un cabo con enormes formaciones rocosas, entre las que se encuentra el llamado Arco Monumental."
+    }
+  },
+  "basel": {
+    "title": "Basel",
+    "url": "https://en.wikipedia.org/wiki/Basel",
+    "extract": "Basel or Basle is a city in northwestern Switzerland on the river Rhine, at the transition from the High Rhine to the Upper Rhine. Basel is Switzerland's third most populous city, with 177,595 inhabitants within the city municipality limits.",
+    "description": "City in Switzerland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basel_-_M%C3%BCnsterpfalz1.jpg/330px-Basel_-_M%C3%BCnsterpfalz1.jpg",
+    "lat": 47.55805556,
+    "lon": 7.58777778,
+    "es": {
+      "title": "Basilea",
+      "url": "https://es.wikipedia.org/wiki/Basilea",
+      "extract": "Basilea es una ciudad suiza, la tercera más poblada del país, lo que la hace la tercera área urbana más grande de Suiza, tras las de Zúrich y Ginebra. En Basilea tienen sede el Banco de Pagos Internacionales y la Federación Internacional de Balonmano."
+    }
+  },
+  "bois-caiman": {
+    "title": "Bois Caïman",
+    "url": "https://en.wikipedia.org/wiki/Bois_Ca%C3%AFman",
+    "extract": "Bois Caïman was the site of the first major meeting of enslaved Africans during which the first major slave insurrection of the Haitian Revolution was planned. In the woods by nearby Le Cap in the French colony of Saint-Domingue, 200 enslaved Africans met, marking the beginning for the Haitian Revolution.",
+    "description": "1791 ceremony in which the Haitian Revolution was planned",
+    "lat": 19.723,
+    "lon": -72.273,
+    "es": {
+      "title": "Bois Caïman",
+      "url": "https://es.wikipedia.org/wiki/Bois_Ca%C3%AFman",
+      "extract": "Bois Caïman fue un sitio donde se realizó una gran reunión de esclavos negros en Saint-Domingue en la noche del 14 de agosto de 1791. En ella se planeó la gran rebelión que iniciaría la revolución haitiana pocos días después y supuestamente se sacrificó un cerdo a Ezili Dantor."
+    }
+  },
+  "burgos": {
+    "title": "Burgos",
+    "url": "https://en.wikipedia.org/wiki/Burgos",
+    "extract": "Burgos is a city in the autonomous community of Castile and León in Spain. It is the capital city of the province of Burgos and, with a population of approximately 178,370, it is also the second most populated city in Castile and León.",
+    "description": "Municipality in Castile and León, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Burgos_city_view_facing_south_east.jpg/330px-Burgos_city_view_facing_south_east.jpg",
+    "lat": 42.35,
+    "lon": -3.70666667,
+    "es": {
+      "title": "Burgos",
+      "url": "https://es.wikipedia.org/wiki/Burgos",
+      "extract": "Burgos es una ciudad y municipio de España en la comunidad autónoma de Castilla y León, capital de la provincia homónima. Con 177 402 habitantes, es el segundo municipio más poblado de la comunidad autónoma, tras Valladolid, e integra un área metropolitana de 200 000 habitantes."
+    }
+  },
+  "cadiz": {
+    "title": "Cádiz",
+    "url": "https://en.wikipedia.org/wiki/C%C3%A1diz",
+    "extract": "Cádiz is a city in Spain and the capital of the province of Cádiz in the autonomous community of Andalusia. It is located in the southwest of the Iberian Peninsula off the Atlantic Ocean separated from neighbouring San Fernando by a narrow isthmus. One of the oldest continuously inhabited cities in Western Europe, Cádiz was founded by the Phoenicians as a trading post. In the 18th century, the port in the Bay of Cádiz consolidated itself as the main harbour of mainland Spain during the Spanish Empire, enjoying the virtual monopoly of trade with the Americas until 1778. It is also the site of the University of Cádiz.",
+    "description": "Municipality in Andalusia, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Cadiz_aerea.jpg/330px-Cadiz_aerea.jpg",
+    "lat": 36.535,
+    "lon": -6.2975,
+    "es": {
+      "title": "Cádiz",
+      "url": "https://es.wikipedia.org/wiki/C%C3%A1diz",
+      "extract": "Cádiz es un municipio y ciudad española, es la capital de la provincia homónima, en la comunidad autónoma de Andalucía. Con 109 950 habitantes es la ciudad más poblada de la bahía de Cádiz y la tercera de la provincia tras Jerez de la Frontera y Algeciras. Forma parte del área metropolitana de la Bahía de Cádiz-Jerez, tercera de Andalucía, detrás de las de Sevilla y Málaga, y la undécima de España."
+    }
+  },
+  "cap-francais": {
+    "title": "Cap-Haïtien",
+    "url": "https://en.wikipedia.org/wiki/Cap-Ha%C3%AFtien",
+    "extract": "Cap-Haïtien is a commune of about 300,000 people on the north coast of Haiti and the capital of the department of Nord. Previously named Cap‑Français and Cap‑Henri during the rule of Henri I, it was historically nicknamed the Paris of the Antilles, because of its wealth and sophistication, expressed through its architecture and artistic life. It was an important city during the colonial period, serving as the capital of the French Colony of Saint-Domingue from the city's formal foundation in 1711 until 1770 when the capital was moved to Port-au-Prince. After the Haitian Revolution, it became the capital of the Kingdom of Haiti under King Henri I until 1820.",
+    "description": "Commune in the department of Nord, Haiti",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Cap-Haitien_seen_from_Morne_Jean.jpg/330px-Cap-Haitien_seen_from_Morne_Jean.jpg",
+    "lat": 19.76,
+    "lon": -72.2,
+    "es": {
+      "title": "Cabo Haitiano",
+      "url": "https://es.wikipedia.org/wiki/Cabo_Haitiano",
+      "extract": "Cabo Haitiano, conocida en español por su topónimo taíno como Guárico, es una comuna de Haití que está situada en el distrito de Cabo Haitiano,\ndentro del departamento Norte."
     }
   },
   "castilleja-de-la-cuesta": {
@@ -69,6 +166,48 @@
       "extract": "Cholula de Rivadavia, también llamada San Pedro Cholula —nombre del municipio —, es una ciudad del estado mexicano de Puebla, que forma parte de la Zona Metropolitana de Puebla y se encuentra prácticamente conurbada con la capital del estado, la ciudad de Puebla de Zaragoza; se localiza en el asentamiento de la antigua ciudad prehispánica de Cholula, de la que recibe el nombre. Es cabecera del municipio de San Pedro Cholula."
     }
   },
+  "fort-de-joux": {
+    "title": "Fort de Joux",
+    "url": "https://en.wikipedia.org/wiki/Fort_de_Joux",
+    "extract": "The Fort de Joux or Château de Joux is a castle, later transformed into a fort, located in La Cluse-et-Mijoux in the Doubs department in the Jura Mountains of France. It commands the mountain pass Cluse de Pontarlier.",
+    "description": "French castle",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fort_de_Joux_02.jpg/330px-Fort_de_Joux_02.jpg",
+    "lat": 46.8725,
+    "lon": 6.3742,
+    "es": {
+      "title": "Fort de Joux",
+      "url": "https://es.wikipedia.org/wiki/Fort_de_Joux",
+      "extract": "El Fort de Joux o castillo de Joux es un castillo medieval francés, convertido en una fortaleza, situada en La Cluse-et-Mijoux, en el departamento de Doubs, en las montañas del Jura. Custodiaba el paso de montaña \"Cluse de Pontarlier\"."
+    }
+  },
+  "gonaives": {
+    "title": "Gonaïves",
+    "url": "https://en.wikipedia.org/wiki/Gona%C3%AFves",
+    "extract": "Gonaïves is a commune in northern Haiti, and the capital of the Artibonite department of Haiti. The population was 356,324 at the 2015 census.",
+    "description": "Commune in Haiti in Artibonite",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Cathedral_of_the_Souvenir_Gonaives.jpg/330px-Cathedral_of_the_Souvenir_Gonaives.jpg",
+    "lat": 19.44555556,
+    "lon": -72.68833333,
+    "es": {
+      "title": "Les Gonaïves",
+      "url": "https://es.wikipedia.org/wiki/Les_Gona%C3%AFves",
+      "extract": "Les Gonaïves es una comuna de Haití que está situada en el distrito de Les Gonaïves, del departamento de Artibonito."
+    }
+  },
+  "la-isabela": {
+    "title": "La Isabela",
+    "url": "https://en.wikipedia.org/wiki/La_Isabela",
+    "extract": "La Isabela in Puerto Plata Province, Dominican Republic was the first stable Spanish settlement and town in the Americas. It was established in late December 1493 to early January 1494. The site is 42 km west of the city of Puerto Plata, adjacent to the village of El Castillo. The area now forms a National Historic Park.",
+    "description": "Historic site in the Dominican Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Royal_Banner_of_the_Crown_of_Castille_%28Habsburg_Style%29.svg/330px-Royal_Banner_of_the_Crown_of_Castille_%28Habsburg_Style%29.svg.png",
+    "lat": 19.88733333,
+    "lon": -71.08041667,
+    "es": {
+      "title": "La Isabela",
+      "url": "https://es.wikipedia.org/wiki/La_Isabela",
+      "extract": "La Isabela fue una villa fundada por Cristóbal Colón en 1494 durante su Segundo Viaje, situada en la provincia de Puerto Plata, República Dominicana."
+    }
+  },
   "medellin": {
     "title": "Medellín, Spain",
     "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn%2C_Spain",
@@ -81,6 +220,48 @@
       "title": "Medellín (España)",
       "url": "https://es.wikipedia.org/wiki/Medell%C3%ADn_(Espa%C3%B1a)",
       "extract": "Medellín es un municipio y localidad española de la provincia de Badajoz, en la comunidad autónoma de Extremadura. De fundación romana, cabecera del condado homónimo durante la Edad Media y cuna de Hernán Cortés."
+    }
+  },
+  "moca": {
+    "title": "Moca, Dominican Republic",
+    "url": "https://en.wikipedia.org/wiki/Moca%2C_Dominican_Republic",
+    "extract": "Moca is the capital of Espaillat province in the Cibao region of the Dominican Republic, and is the tenth-largest city of the country with a population of 164,022 inhabitants. Moca is located 11 miles/18 kilometers east from the country’s second-largest city, Santiago. It is divided into eight municipal districts: San Víctor, Las Lagunas, José Contreras, Juan López, El Higuerito, La Ortega, Monte de la Jagua and Canca La Reina.",
+    "description": "Place in Espaillat, Dominican Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Iglesia_Sagrado_Corazon_de_Jesus_Moca.jpg/330px-Iglesia_Sagrado_Corazon_de_Jesus_Moca.jpg",
+    "lat": 19.38333333,
+    "lon": -70.51666667,
+    "es": {
+      "title": "Moca (República Dominicana)",
+      "url": "https://es.wikipedia.org/wiki/Moca_(Rep%C3%BAblica_Dominicana)",
+      "extract": "Moca es un municipio de la República Dominicana situado en la provincia de Espaillat."
+    }
+  },
+  "rijswijk": {
+    "title": "Rijswijk",
+    "url": "https://en.wikipedia.org/wiki/Rijswijk",
+    "extract": "Rijswijk, formerly known as Ryswick in English, is a town and municipality in the western Netherlands, in the province of South Holland. Its population was 59,642 in 2024, and it has an area of 14.49 km2 (5.59 sq mi), 0.53 km2 (0.20 sq mi) of which is water.",
+    "description": "Town and municipality in South Holland, Netherlands",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jaagpad_rijswijk_zh.jpg/330px-Jaagpad_rijswijk_zh.jpg",
+    "lat": 52.03333333,
+    "lon": 4.31666667,
+    "es": {
+      "title": "Rijswijk",
+      "url": "https://es.wikipedia.org/wiki/Rijswijk",
+      "extract": "Rijswijk es una ciudad, y también un municipio, de los Países Bajos, en la provincia de Holanda Meridional, adyacente a La Haya. Su población total es de 47 410 habitantes (2005)."
+    }
+  },
+  "santiago-de-los-caballeros": {
+    "title": "Santiago de los Caballeros",
+    "url": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros",
+    "extract": "Santiago de los Caballeros, often shortened to Santiago, is the second-largest city in the Dominican Republic and the fourth-largest city in the Caribbean by population. It is the capital of Santiago Province and the largest major metropolis in the Cibao region of the country. Santiago is the largest Caribbean city that is not a capital city, and the largest non-coastal metropolis in the Caribbean islands. It is approximately 155 km (96 mi) northwest of the capital, Santo Domingo, with an average altitude of 178 m (584 ft). The city has a population of 771,748 inhabitants (2022). Santiago's metropolitan area population composed of the municipalities of Santiago-Licey Al Medio-Baitoa-Tamboril-Puñal-Villa González is 1,261,852 as of 2022, making it the Dominican Republic's second-largest.",
+    "description": "City in Santiago, Dominican Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/SantiagoCitySkyline2.jpg/330px-SantiagoCitySkyline2.jpg",
+    "lat": 19.45722222,
+    "lon": -70.68888889,
+    "es": {
+      "title": "Santiago (República Dominicana)",
+      "url": "https://es.wikipedia.org/wiki/Santiago_(Rep%C3%BAblica_Dominicana)",
+      "extract": "Santiago, también conocida como Santiago de los Caballeros, es la segunda ciudad más poblada de la República Dominicana. Fue fundada en 1495 como Santiago de los Treinta Caballeros. Es el municipio cabecera o capital de la provincia de Santiago, además de ser la ciudad más importante de la región del Cibao."
     }
   },
   "santo-domingo": {
@@ -123,6 +304,20 @@
       "title": "Tlaxcala de Xicohténcatl",
       "url": "https://es.wikipedia.org/wiki/Tlaxcala_de_Xicoht%C3%A9ncatl",
       "extract": "Tlaxcala, oficialmente llamada Tlaxcala de Xicohténcatl, es una ciudad mexicana, capital y sede de los poderes, secretarías y dependencias del estado de Tlaxcala, así como cabecera del municipio homónimo. En 2020, agrupó un total de 13 555 habitantes, siendo la capital estatal menos poblada del país, mientras que su área metropolitana conformada por 19 municipios registró 501 655 habitantes en el año 2010, lo que la convierte en la zona más grande y poblada de la región."
+    }
+  },
+  "tortuga": {
+    "title": "Tortuga",
+    "url": "https://en.wikipedia.org/wiki/Tortuga",
+    "extract": "Tortuga Island is a West Indian island off the northwest coast of Hispaniola, forming part of Haiti. It constitutes the commune of Île de la Tortue in the Port-de-Paix arrondissement of Haiti's Nord-Ouest department.",
+    "description": "Island in Nord-Ouest, Haiti",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Tortuga_Island_NASA.jpg/330px-Tortuga_Island_NASA.jpg",
+    "lat": 20.03972222,
+    "lon": -72.79,
+    "es": {
+      "title": "Isla de la Tortuga (Haití)",
+      "url": "https://es.wikipedia.org/wiki/Isla_de_la_Tortuga_(Hait%C3%AD)",
+      "extract": "La isla de la Tortuga es una isla del mar Caribe de 37 km de largo, 7 km de ancho y 180 km² de superficie, situada al noroeste de la República de Haití, la cual posee su soberanía. Fue bautizada por Cristóbal Colón durante su primer viaje a América, haciendo referencia a que una de sus montañas se asemeja a la forma de una tortuga. Durante el siglo XVII fue un bastión para piratas y filibusteros que navegaban en la región."
     }
   },
   "veracruz": {
