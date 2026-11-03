@@ -236,6 +236,20 @@
       "extract": "Cádiz es un municipio y ciudad española, es la capital de la provincia homónima, en la comunidad autónoma de Andalucía. Con 109 950 habitantes es la ciudad más poblada de la bahía de Cádiz y la tercera de la provincia tras Jerez de la Frontera y Algeciras. Forma parte del área metropolitana de la Bahía de Cádiz-Jerez, tercera de Andalucía, detrás de las de Sevilla y Málaga, y la undécima de España."
     }
   },
+  "cajamarca": {
+    "title": "Cajamarca",
+    "url": "https://en.wikipedia.org/wiki/Cajamarca",
+    "extract": "Cajamarca, also known by the Quechua name, Kashamarka, is the capital and largest city of the Cajamarca Region as well as an important cultural and commercial center in the northern Andes. It is located in the northern highlands of Peru at approximately 2,750 m (8,900 ft) above sea level in the valley of the Mashcon river. Cajamarca had an estimated population of about 226,031 inhabitants in 2015, making it the 13th largest city in Peru.",
+    "description": "City in Peru",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Catedral_de_Cajamarca_Per%C3%BA.jpg/330px-Catedral_de_Cajamarca_Per%C3%BA.jpg",
+    "lat": -7.1575,
+    "lon": -78.5175,
+    "es": {
+      "title": "Cajamarca",
+      "url": "https://es.wikipedia.org/wiki/Cajamarca",
+      "extract": "Cajamarca, conocida durante el virreinato como San Antonio de Caxamarca, es una ciudad peruana capital del distrito, de la provincia y del departamento homónimos localizada en el margen oriental de la cadena occidental de la cordillera de los Andes, en el valle interandino que forman los ríos Mashcón y Chonta a 2750 m s. n. m. El valle donde se encuentra enclavada la ciudad es uno de los más grandes de la sierra del Perú."
+    }
+  },
   "cap-francais": {
     "title": "Cap-Haïtien",
     "url": "https://en.wikipedia.org/wiki/Cap-Ha%C3%AFtien",
@@ -304,6 +318,20 @@
       "title": "Covadonga",
       "url": "https://es.wikipedia.org/wiki/Covadonga",
       "extract": "Covadonga es una parroquia del concejo de Cangas de Onís, en el Principado de Asturias (España), así como la única población, con la categoría de lugar, de dicha parroquia."
+    }
+  },
+  "cusco": {
+    "title": "Cusco",
+    "url": "https://en.wikipedia.org/wiki/Cusco",
+    "extract": "Cusco or Cuzco is a city in southeastern Peru, near the Sacred Valley of the Andes mountain range, and the Huatanay and Urubamba rivers. It is the capital and largest city of the eponymous Cusco Province and Cusco Department. It has historically been one of the largest cultural, economic and political centers of Peru.",
+    "description": "City in Peru",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Vista_Calle_Suecia.jpg/330px-Vista_Calle_Suecia.jpg",
+    "lat": -13.5169,
+    "lon": -71.9786,
+    "es": {
+      "title": "Cusco",
+      "url": "https://es.wikipedia.org/wiki/Cusco",
+      "extract": "El Cusco o Cuzco es una ciudad del sureste del Perú ubicada en la vertiente oriental de la cordillera de los Andes, en la cuenca del río Huatanay, afluente del Vilcanota. Es la capital del departamento del Cusco y, además, según está declarado en la Constitución peruana, es la «capital histórica» del país. La ciudad, según el INEI, es la séptima más poblada del Perú, y albergaba, en 2017, una población de 437 538 habitantes."
     }
   },
   "dadu": {
@@ -887,6 +915,20 @@
       "title": "Viena",
       "url": "https://es.wikipedia.org/wiki/Viena",
       "extract": "Viena es una ciudad austriaca situada a orillas del Danubio, en el valle de los Bosques de Viena, al pie de las primeras estribaciones de los Alpes. Es la capital federal y ciudad principal del país, además de uno de sus nueve estados federados (Bundesland Wien)."
+    }
+  },
+  "vilcabamba": {
+    "title": "Vilcabamba, Peru",
+    "url": "https://en.wikipedia.org/wiki/Vilcabamba%2C_Peru",
+    "extract": "Vilcabamba or Willkapampa, often called the Lost City of the Incas, is a lost city in the Echarate District of La Convención Province in the Cuzco Region of Peru. Vilcabamba, in Quechua, means \"sacred plain\". The modern name for the Inca ruins of Vilcabamba is Espíritu Pampa.",
+    "description": "Capital of the Neo-Inca State",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Espiritu_Pampa_Archaeological_site_-_overgrown_house.jpg/330px-Espiritu_Pampa_Archaeological_site_-_overgrown_house.jpg",
+    "lat": -12.904,
+    "lon": -73.203,
+    "es": {
+      "title": "Espíritu Pampa",
+      "url": "https://es.wikipedia.org/wiki/Esp%C3%ADritu_Pampa",
+      "extract": "El complejo arqueológico de Espíritu Pampa es un yacimiento arqueológico del Perú, de la época preincaica e incaica, ubicado en el distrito de Vilcabamba, provincia de La Convención, departamento del Cusco."
     }
   },
   "xiangyang": {

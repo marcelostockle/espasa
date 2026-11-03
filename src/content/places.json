@@ -152,6 +152,15 @@
       }
     }
   },
+  "cajamarca": {
+    "label": "Cajamarca",
+    "wikipedia": "Cajamarca",
+    "translations": {
+      "es": {
+        "label": "Cajamarca"
+      }
+    }
+  },
   "cap-francais": {
     "label": "Cap-Français",
     "wikipedia": "Cap-Haïtien",
@@ -194,6 +203,15 @@
     "translations": {
       "es": {
         "label": "Covadonga"
+      }
+    }
+  },
+  "cusco": {
+    "label": "Cusco",
+    "wikipedia": "Cusco",
+    "translations": {
+      "es": {
+        "label": "Cuzco"
       }
     }
   },
@@ -572,6 +590,15 @@
     "translations": {
       "es": {
         "label": "Viena"
+      }
+    }
+  },
+  "vilcabamba": {
+    "label": "Vilcabamba",
+    "wikipedia": "Vilcabamba, Peru",
+    "translations": {
+      "es": {
+        "label": "Vilcabamba"
       }
     }
   },

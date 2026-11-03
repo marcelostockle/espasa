@@ -379,6 +379,20 @@
       }
     }
   },
+  "inca-empire": {
+    "label": "Inca Empire",
+    "color": "#00e5ff",
+    "description": "The Inca state of Cusco and its empire, Tawantinsuyu, from its rise in the 13th and 15th centuries to the fall of the last Inca state at Vilcabamba in 1572.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio inca",
+        "description": "El Estado inca del Cuzco y su imperio, el Tahuantinsuyo, desde su ascenso en los siglos XIII y XV hasta la caída del último Estado inca en Vilcabamba en 1572."
+      }
+    }
+  },
   "italian-renaissance": {
     "label": "Italian Renaissance",
     "color": "#a0522d",
@@ -544,6 +558,20 @@
       "es": {
         "label": "Imperio otomano",
         "description": "El Estado otomano y sus sultanes, desde la conquista de Constantinopla en 1453 hasta el repliegue de Europa central hacia 1700."
+      }
+    }
+  },
+  "peru": {
+    "label": "Peru",
+    "color": "#1565c0",
+    "description": "The Spanish colony of Peru, from Pizarro's landing in 1532 and its viceroyalty from 1542 to the end of the 16th century.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Perú",
+        "description": "La colonia española del Perú, desde el desembarco de Pizarro en 1532 y su virreinato desde 1542 hasta finales del siglo XVI."
       }
     }
   },
