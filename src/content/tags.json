@@ -153,6 +153,20 @@
       }
     }
   },
+  "cuba": {
+    "label": "Cuba",
+    "color": "#00838f",
+    "description": "The island of Cuba: Spanish colony from the conquest of 1511, the wars of independence, the US occupations and the republic until 1958.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Cuba",
+        "description": "La isla de Cuba: colonia española desde la conquista de 1511, las guerras de independencia, las ocupaciones estadounidenses y la república hasta 1958."
+      }
+    }
+  },
   "dominican-republic": {
     "label": "Dominican Republic",
     "color": "#01579b",
