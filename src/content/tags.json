@@ -4,7 +4,8 @@
     "color": "#ffd54f",
     "description": "Muslim-ruled Iberia from the Umayyad conquest of 711 to the fall of the Emirate of Granada in 1492, including the Caliphate of Córdoba, the taifas and the Almoravid, Almohad and Nasrid states.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -88,7 +89,8 @@
     "color": "#00bfa5",
     "description": "Portuguese Brazil, from the first captaincies of 1534 to the arrival of the Portuguese court in Rio de Janeiro in 1808.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -130,7 +132,8 @@
     "color": "#ffcc80",
     "description": "The Canary Islands and their Indigenous peoples (Guanches and others), from the first European expeditions in the 14th century to the Castilian conquest completed in 1496.",
     "categories": [
-      "Peoples"
+      "Peoples",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -144,7 +147,8 @@
     "color": "#ffab91",
     "description": "The territory of present-day Chile as a place: its coast, Spanish colonial rule and the Mapuche, from the Spanish arrival in 1536 to independence in 1818.",
     "categories": [
-      "Places"
+      "Places",
+      "States"
     ],
     "translations": {
       "es": {
@@ -186,7 +190,8 @@
     "color": "#00838f",
     "description": "The island of Cuba: Spanish colony from the conquest of 1511, the wars of independence, the US occupations and the republic until 1958.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -200,7 +205,8 @@
     "color": "#01579b",
     "description": "The eastern part of Hispaniola and the Dominican Republic: the Spanish colony of Santo Domingo after 1795, the Haitian occupation, independence in 1844 and the state's history through 1961.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -299,7 +305,8 @@
     "color": "#c51162",
     "description": "The Haitian state from its independence in 1804 onward: its governments, its relations with France and the powers, and its rule over the whole of Hispaniola from 1822 to 1844.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -580,7 +587,8 @@
     "color": "#4dd0e1",
     "description": "The Low Countries and the Dutch Republic.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -594,7 +602,8 @@
     "color": "#ff1744",
     "description": "The Spanish colony of New Spain, centred on Mexico City, from the conquest of Tenochtitlan in 1521 and its viceroyalty from 1535.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -622,7 +631,8 @@
     "color": "#1565c0",
     "description": "The Spanish colony of Peru, from Pizarro's landing in 1532 and its viceroyalty from 1542 to the end of the 16th century.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -650,7 +660,8 @@
     "color": "#e040fb",
     "description": "The Kingdom of Portugal and its overseas empire, from its founding in the 12th century to the loss of Brazil in 1822.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -805,7 +816,8 @@
     "color": "#00695c",
     "description": "The Spanish monarchy and its people.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -876,7 +888,8 @@
     "color": "#546e7a",
     "description": "Great Britain and the United Kingdom as a European power.",
     "categories": [
-      "States"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
