@@ -84,6 +84,20 @@
       }
     }
   },
+  "bible": {
+    "label": "The Bible",
+    "color": "#a68a64",
+    "description": "The Bible as a text: its translations, printed editions and the scholarship on it, from antiquity to the 17th century (not the churches or movements that use it).",
+    "categories": [
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "La Biblia",
+        "description": "La Biblia como texto: sus traducciones, ediciones impresas y estudios, desde la Antigüedad hasta el siglo XVII (no las iglesias o movimientos que la usan)."
+      }
+    }
+  },
   "brazil": {
     "label": "Brazil",
     "color": "#00bfa5",
