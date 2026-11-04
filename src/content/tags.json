@@ -14,6 +14,20 @@
       }
     }
   },
+  "archaeology": {
+    "label": "Archaeology",
+    "color": "#bcaaa4",
+    "description": "The recovery and study of the past through excavations, discoveries of manuscripts and physical remains, and the methods used to date and interpret them.",
+    "categories": [
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Arqueología",
+        "description": "La recuperación y el estudio del pasado mediante excavaciones, hallazgos de manuscritos y restos materiales, y los métodos para fecharlos e interpretarlos."
+      }
+    }
+  },
   "art": {
     "label": "Art",
     "color": "#c2398b",

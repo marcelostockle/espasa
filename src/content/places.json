@@ -728,6 +728,15 @@
       }
     }
   },
+  "guangzhou": {
+    "label": "Guangzhou (Canton)",
+    "wikipedia": "Guangzhou",
+    "translations": {
+      "es": {
+        "label": "Cantón (Guangzhou)"
+      }
+    }
+  },
   "guayaquil": {
     "label": "Guayaquil",
     "wikipedia": "Guayaquil",
@@ -917,6 +926,15 @@
       }
     }
   },
+  "manchester": {
+    "label": "Manchester",
+    "wikipedia": "Manchester",
+    "translations": {
+      "es": {
+        "label": "Mánchester"
+      }
+    }
+  },
   "mantua": {
     "label": "Mantua",
     "wikipedia": "Mantua",
@@ -1013,6 +1031,15 @@
     "translations": {
       "es": {
         "label": "Münster"
+      }
+    }
+  },
+  "nag-hammadi": {
+    "label": "Nag Hammadi",
+    "wikipedia": "Nag Hammadi",
+    "translations": {
+      "es": {
+        "label": "Nag Hammadi"
       }
     }
   },
@@ -1205,6 +1232,15 @@
       }
     }
   },
+  "qumran": {
+    "label": "Qumran",
+    "wikipedia": "Qumran",
+    "translations": {
+      "es": {
+        "label": "Qumrán"
+      }
+    }
+  },
   "recife": {
     "label": "Recife",
     "wikipedia": "Recife",
@@ -1256,6 +1292,15 @@
     "translations": {
       "es": {
         "label": "Roma"
+      }
+    }
+  },
+  "saint-catherines-monastery": {
+    "label": "Saint Catherine's Monastery",
+    "wikipedia": "Saint Catherine's Monastery",
+    "translations": {
+      "es": {
+        "label": "Monasterio de Santa Catalina"
       }
     }
   },
