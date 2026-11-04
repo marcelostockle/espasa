@@ -343,6 +343,20 @@
       }
     }
   },
+  "henry-viii": {
+    "label": "Henry VIII",
+    "color": "#af601a",
+    "description": "King of England (1491–1547) who broke with the papacy, made himself head of the Church of England and dissolved the monasteries.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Enrique VIII",
+        "description": "Rey de Inglaterra (1491–1547) que rompió con el papado, se proclamó cabeza de la Iglesia de Inglaterra y disolvió los monasterios."
+      }
+    }
+  },
   "hernan-cortes": {
     "label": "Hernán Cortés",
     "color": "#fbc02d",

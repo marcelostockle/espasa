@@ -17,6 +17,15 @@
       }
     }
   },
+  "antwerp": {
+    "label": "Antwerp",
+    "wikipedia": "Antwerp",
+    "translations": {
+      "es": {
+        "label": "Amberes"
+      }
+    }
+  },
   "aranjuez": {
     "label": "Aranjuez",
     "wikipedia": "Aranjuez",
@@ -710,6 +719,33 @@
       }
     }
   },
+  "oxford": {
+    "label": "Oxford",
+    "wikipedia": "Oxford",
+    "translations": {
+      "es": {
+        "label": "Oxford"
+      }
+    }
+  },
+  "palace-of-placentia": {
+    "label": "Palace of Placentia",
+    "wikipedia": "Palace of Placentia",
+    "translations": {
+      "es": {
+        "label": "Palacio de Placentia"
+      }
+    }
+  },
+  "palace-of-whitehall": {
+    "label": "Palace of Whitehall",
+    "wikipedia": "Palace of Whitehall",
+    "translations": {
+      "es": {
+        "label": "Palacio de Whitehall"
+      }
+    }
+  },
   "palazzo-medici-riccardi": {
     "label": "Palazzo Medici Riccardi",
     "wikipedia": "Palazzo Medici Riccardi",
@@ -989,6 +1025,15 @@
       }
     }
   },
+  "steenvoorde": {
+    "label": "Steenvoorde",
+    "wikipedia": "Steenvoorde",
+    "translations": {
+      "es": {
+        "label": "Steenvoorde"
+      }
+    }
+  },
   "subiaco": {
     "label": "Subiaco",
     "wikipedia": "Subiaco, Lazio",
@@ -1049,6 +1094,15 @@
     "translations": {
       "es": {
         "label": "Isla de la Tortuga"
+      }
+    }
+  },
+  "tower-hill": {
+    "label": "Tower Hill",
+    "wikipedia": "Tower Hill",
+    "translations": {
+      "es": {
+        "label": "Tower Hill"
       }
     }
   },
@@ -1166,6 +1220,15 @@
     "translations": {
       "es": {
         "label": "Villa de Castello"
+      }
+    }
+  },
+  "vilvoorde": {
+    "label": "Vilvoorde",
+    "wikipedia": "Vilvoorde",
+    "translations": {
+      "es": {
+        "label": "Vilvoorde"
       }
     }
   },

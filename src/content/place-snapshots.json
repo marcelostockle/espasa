@@ -27,6 +27,20 @@
       "extract": "Anagni es un municipio de 21 200 habitantes de la provincia de Frosinone, en el Valle Latino. Situada en el Lacio meridional, dista unos 50 kilómetros de Roma. Esta antigua ciudad está situada en las colinas del este de Roma, famosa por su relación con cuatro papas de las familias Conti y Caetani y su bien conservado centro histórico."
     }
   },
+  "antwerp": {
+    "title": "Antwerp",
+    "url": "https://en.wikipedia.org/wiki/Antwerp",
+    "extract": "Antwerp is a city and a municipality in the Flemish Region of Belgium. It is the capital and largest city of Antwerp Province, and the third-largest municipality in Belgium by area at 208.22 km2 (80.39 sq mi). With a population of 565,039, it is the most populous municipality in Belgium, and with a metropolitan population of over 1.2 million people, the country's second-largest metropolitan area after Brussels.",
+    "description": "City located in Flanders, Belgium",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Amberes%3B_vistas_MAS_2.jpg/330px-Amberes%3B_vistas_MAS_2.jpg",
+    "lat": 51.21777778,
+    "lon": 4.40027778,
+    "es": {
+      "title": "Amberes",
+      "url": "https://es.wikipedia.org/wiki/Amberes",
+      "extract": "Amberes, antiguamente conocida como Antuerpia, es una ciudad belga, la capital de la homónima provincia de Amberes, en Flandes o Región Flamenca. Tenía 520 504 habitantes en 2017, que la hacen la ciudad más poblada de la región flamenca, y con 1,2 millones de la región metropolitana, la segunda más populosa después de la de Bruselas. El área metropolitana comprende 1449 km²."
+    }
+  },
   "aranjuez": {
     "title": "Aranjuez",
     "url": "https://en.wikipedia.org/wiki/Aranjuez",
@@ -1098,6 +1112,48 @@
       "extract": "Ouro Preto es un municipio brasileño del estado de Minas Gerais, en la Región Sudeste del país. Está ubicado a una altitud de 1179 metros. En el censo de 2022 tenía 74 821 habitantes. Fue capital de Minas Gerais hasta el traslado de la capital a Belo Horizonte en 1897. La ciudad histórica de Ouro Preto fue inscrita en la lista del Patrimonio de la Humanidad de la Unesco el 5 de septiembre de 1980 y fue el primer bien cultural brasileño incorporado a la lista."
     }
   },
+  "oxford": {
+    "title": "Oxford",
+    "url": "https://en.wikipedia.org/wiki/Oxford",
+    "extract": "Oxford is a cathedral city and non-metropolitan district in Oxfordshire, England, of which it is the county town.",
+    "description": "City and district in Oxfordshire, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Museum_of_Oxford_%285652685943%29.jpg/330px-Museum_of_Oxford_%285652685943%29.jpg",
+    "lat": 51.75194444,
+    "lon": -1.25777778,
+    "es": {
+      "title": "Oxford",
+      "url": "https://es.wikipedia.org/wiki/Oxford",
+      "extract": "Oxford es una ciudad universitaria británica ubicada en el condado de Oxfordshire, en Inglaterra, y es la sede de la Universidad de Oxford, la universidad más antigua en el mundo anglófono. Corresponde a la ubicación de la Torre Carfax, a la que se considera el centro de la ciudad."
+    }
+  },
+  "palace-of-placentia": {
+    "title": "Palace of Placentia",
+    "url": "https://en.wikipedia.org/wiki/Palace_of_Placentia",
+    "extract": "The Palace of Placentia, also known as Greenwich Palace,\nwas an English royal residence that was initially built by Prince Humphrey, Duke of Gloucester, in 1443. Over the centuries it took several different forms, until it was turned into a hospital in the 1690s. The palace was a place designed for pleasure, entertainment and an escape from the city. It was located at Greenwich on the south bank of the River Thames, downstream from London.",
+    "description": "Former English royal residence at Greenwich, Greater London",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/An_historical_account_of_the_Royal_Hospital_for_Seamen_at_Greenwich_%281789%29_%2814786307743%29.jpg/330px-An_historical_account_of_the_Royal_Hospital_for_Seamen_at_Greenwich_%281789%29_%2814786307743%29.jpg",
+    "lat": 51.48222222,
+    "lon": -0.00666667,
+    "es": {
+      "title": "Palacio de Placentia",
+      "url": "https://es.wikipedia.org/wiki/Palacio_de_Placentia",
+      "extract": "El palacio de Placentia, también conocido como el palacio de Greenwich, fue un antiguo palacio real inglés, construido por el entonces regente Hunfredo de Gloucester entre 1428 y 1433. Se construyó en la ribera del río Támesis en Greenwich, en las afueras de Londres. Fue demolido en 1660 por Carlos II de Inglaterra para construir otro palacio, aunque volvió a tener uso con la construcción del hospital de Greenwich en el mismo lugar, hoy ocupados por la Universidad de Greenwich y el Trinity College of Music."
+    }
+  },
+  "palace-of-whitehall": {
+    "title": "Palace of Whitehall",
+    "url": "https://en.wikipedia.org/wiki/Palace_of_Whitehall",
+    "extract": "The Palace of Whitehall – also spelled White Hall – at Westminster was the main residence of the English monarchs from 1530 until 1698, when most of its structures, with the notable exception of Inigo Jones's Banqueting House of 1622, were destroyed by fire. Henry VIII moved the royal residence to Whitehall after the old royal apartments at the nearby Palace of Westminster were themselves destroyed by fire. Although the Whitehall palace has not survived, the area where it was located is still called Whitehall and has remained a centre of the British government.",
+    "description": "English royal residence in London (1530–1698)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/The_Old_Palace_of_Whitehall_by_Hendrik_Danckerts.jpg/330px-The_Old_Palace_of_Whitehall_by_Hendrik_Danckerts.jpg",
+    "lat": 51.50444444,
+    "lon": -0.12555556,
+    "es": {
+      "title": "Palacio de Whitehall",
+      "url": "https://es.wikipedia.org/wiki/Palacio_de_Whitehall",
+      "extract": "El palacio de Whitehall fue la antigua residencia principal de los reyes ingleses en Londres desde 1530 hasta 1698."
+    }
+  },
   "palazzo-medici-riccardi": {
     "title": "Palazzo Medici Riccardi",
     "url": "https://en.wikipedia.org/wiki/Palazzo_Medici_Riccardi",
@@ -1522,6 +1578,20 @@
       "extract": "La basílica papal de San Pedro, conocida comúnmente como basílica de San Pedro, es un templo católico situado en la Ciudad del Vaticano."
     }
   },
+  "steenvoorde": {
+    "title": "Steenvoorde",
+    "url": "https://en.wikipedia.org/wiki/Steenvoorde",
+    "extract": "Steenvoorde is a commune in the Nord department in northern France. Once part of the Seventeen Provinces of the Low Countries, Steenvoorde was the site of the beginning of the Beeldenstorm, or \"Iconoclastic Fury.\" Today the city is known for its Géants du Nord, sculptures of giants that can be admired in summer festivals.",
+    "description": "Commune in Hauts-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Steenvoorde_Mairie.JPG/330px-Steenvoorde_Mairie.JPG",
+    "lat": 50.8112,
+    "lon": 2.5813,
+    "es": {
+      "title": "Steenvoorde",
+      "url": "https://es.wikipedia.org/wiki/Steenvoorde",
+      "extract": "Steenvoorde es una comuna del Flandes francés, situada entre Lille y Dunkerque. Administrativamente pertenece al distrito de Dunkerque, en el departamento de Norte."
+    }
+  },
   "subiaco": {
     "title": "Subiaco, Lazio",
     "url": "https://en.wikipedia.org/wiki/Subiaco%2C_Lazio",
@@ -1618,6 +1688,20 @@
       "title": "Isla de la Tortuga (Haití)",
       "url": "https://es.wikipedia.org/wiki/Isla_de_la_Tortuga_(Hait%C3%AD)",
       "extract": "La isla de la Tortuga es una isla del mar Caribe de 37 km de largo, 7 km de ancho y 180 km² de superficie, situada al noroeste de la República de Haití, la cual posee su soberanía. Fue bautizada por Cristóbal Colón durante su primer viaje a América, haciendo referencia a que una de sus montañas se asemeja a la forma de una tortuga. Durante el siglo XVII fue un bastión para piratas y filibusteros que navegaban en la región."
+    }
+  },
+  "tower-hill": {
+    "title": "Tower Hill",
+    "url": "https://en.wikipedia.org/wiki/Tower_Hill",
+    "extract": "Tower Hill is the area surrounding the Tower of London in the London Borough of Tower Hamlets. It is infamous for the public execution of high status prisoners from the late 14th to the mid 18th century. The execution site on the higher ground north-west of the Tower of London moat is now occupied by Trinity Square Gardens.",
+    "description": "Area of London, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/London_12_2002_5070.JPG/330px-London_12_2002_5070.JPG",
+    "lat": 51.5085,
+    "lon": -0.0782,
+    "es": {
+      "title": "Tower Hill",
+      "url": "https://es.wikipedia.org/wiki/Tower_Hill",
+      "extract": "Tower Hill o Colina de la Torre es una elevación ubicada al noroeste de la Torre de Londres, en el barrio londinense de Tower Hamlets, en el límite de la City de Londres."
     }
   },
   "tuileries": {
@@ -1800,6 +1884,20 @@
       "title": "Villa di Castello",
       "url": "https://es.wikipedia.org/wiki/Villa_di_Castello",
       "extract": "La Villa di Castello es una de las villas de los Médici en Florencia, Toscana, Italia central."
+    }
+  },
+  "vilvoorde": {
+    "title": "Vilvoorde",
+    "url": "https://en.wikipedia.org/wiki/Vilvoorde",
+    "extract": "Vilvoorde is a municipality and city in the Halle-Vilvoorde district (arrondissement) of the province of Flemish Brabant, Belgium. The municipality comprises the city of Vilvoorde proper with its two outlying quarters of Koningslo and Houtem and the small town of Peutie.",
+    "description": "City and municipality in Flemish Community, Belgium",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Town_hall_of_Vilvoorde%2C_cropped_%28DSC_2364%29.jpg/330px-Town_hall_of_Vilvoorde%2C_cropped_%28DSC_2364%29.jpg",
+    "lat": 50.93333333,
+    "lon": 4.41666667,
+    "es": {
+      "title": "Vilvoorde",
+      "url": "https://es.wikipedia.org/wiki/Vilvoorde",
+      "extract": "Vilvorde o Vilvoorde es una ciudad de Bélgica situada en la Región Flamenca, en la provincia del Brabante Flamenco.\nVilvoorde también es el nombre del municipio donde se halla esta ciudad."
     }
   },
   "wittenberg": {
