@@ -4,6 +4,7 @@ summary: "The Venetian Alvise Cadamosto sails along the West African coast in 14
 date: {"year":1455}
 end: {"year":1456}
 tags: ["portugal","exploration"]
+places: ["gambia-river"]
 sources: ["https://en.wikipedia.org/wiki/Alvise_Cadamosto"]
 translations: {"es":{"title":"Alvise Cadamosto realiza dos viajes a África occidental para el infante Enrique","summary":"El veneciano Alvise Cadamosto navega por la costa de África occidental en 1455 y 1456 y llega al río Gambia. Tradicionalmente se vinculan sus viajes con el avistamiento de las islas de Cabo Verde."}}
 ---

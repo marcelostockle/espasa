@@ -69,6 +69,20 @@
       "extract": "Ayacucho es una ciudad peruana capital del distrito homónimo, de la provincia de Huamanga y del departamento de Ayacucho. Se encuentra situada en la vertiente oriental de la cordillera de los Andes a una altitud de 2761 m s. n. m. y se caracteriza por un clima templado y seco, con brillo solar todo el año."
     }
   },
+  "azores": {
+    "title": "Azores",
+    "url": "https://en.wikipedia.org/wiki/Azores",
+    "extract": "The Azores, officially the Autonomous Region of the Azores, is an archipelago of Portugal, in the Atlantic Ocean, about 1,400 km west of the Portuguese mainland. Politically and administratively, together with Madeira, it is one of the two autonomous regions of Portugal and a special territory of the European Union. It is the westernmost point and region of Portugal.",
+    "description": "Portuguese archipelago in the North Atlantic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/330px-Flag_of_the_Azores.svg.png",
+    "lat": 38.66,
+    "lon": -28.07,
+    "es": {
+      "title": "Azores",
+      "url": "https://es.wikipedia.org/wiki/Azores",
+      "extract": "Azores es un archipiélago de nueve islas de origen volcánico del océano Atlántico, situado a 1375 kilómetros al oeste de Lisboa y constituido en región autónoma de Portugal con un estatus similar al de Madeira. Es, además, una región ultraperiférica de la Unión Europea. Su capitalidad se comparte por las ciudades de Ponta Delgada, Horta y Angra do Heroísmo. Posee una superficie terrestre de unos 2322 kilómetros cuadrados, pero su zona económica exclusiva se extiende por aproximadamente 930 687 km², lo que representa el 55 % del total de la zona económica exclusiva portuguesa."
+    }
+  },
   "azua": {
     "title": "Azua, Dominican Republic",
     "url": "https://en.wikipedia.org/wiki/Azua%2C_Dominican_Republic",
@@ -306,6 +320,20 @@
       "extract": "Cajamarca, conocida durante el virreinato como San Antonio de Caxamarca, es una ciudad peruana capital del distrito, de la provincia y del departamento homónimos localizada en el margen oriental de la cadena occidental de la cordillera de los Andes, en el valle interandino que forman los ríos Mashcón y Chonta a 2750 m s. n. m. El valle donde se encuentra enclavada la ciudad es uno de los más grandes de la sierra del Perú."
     }
   },
+  "calicut": {
+    "title": "Kozhikode",
+    "url": "https://en.wikipedia.org/wiki/Kozhikode",
+    "extract": "Kozhikode, also known as Calicut, is a historic city along the Malabar Coast in the state of Kerala in India. The city is also known as the City of Spices. It was among the most important ports in the world during medieval times and have received visitors from Marco Polo to Ibn Batuta to Zheng He to Vasco da Gama.",
+    "description": "Metropolis in Kerala, India",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Kozhikode_beach_kites.jpg/330px-Kozhikode_beach_kites.jpg",
+    "lat": 11.24888889,
+    "lon": 75.78388889,
+    "es": {
+      "title": "Kozhikode",
+      "url": "https://es.wikipedia.org/wiki/Kozhikode",
+      "extract": "Kozhikode, conocida anteriormente como Calicut, es una ciudad a lo largo de la costa de Malabar en el estado de Kerala, en la India. Conocida como la ciudad de las especias, en 2023 Kozhikode fue reconocida por UNESCO como la primera Ciudad de Literatura de India."
+    }
+  },
   "callao": {
     "title": "Callao",
     "url": "https://en.wikipedia.org/wiki/Callao",
@@ -334,6 +362,33 @@
       "extract": "Cabo Haitiano, conocida en español por su topónimo taíno como Guárico, es una comuna de Haití que está situada en el distrito de Cabo Haitiano,\ndentro del departamento Norte."
     }
   },
+  "cape-bojador": {
+    "title": "Cape Bojador",
+    "url": "https://en.wikipedia.org/wiki/Cape_Bojador",
+    "extract": "Cape Bojador is a headland on the west coast of Moroccan-occupied Western Sahara, at 26° 07' 37\"N, 14° 29' 57\"W, as well as the name of the large nearby town with a population of 42,651. The name of the surrounding province also derives its name from the cape.",
+    "description": "Place in Western Sahara",
+    "lat": 26.13333333,
+    "lon": -14.5,
+    "es": {
+      "title": "Cabo Bojador",
+      "url": "https://es.wikipedia.org/wiki/Cabo_Bojador",
+      "extract": "El cabo Bojador es un destacado cabo de la costa atlántica norteafricana, situado en la costa norte del Sahara Occidental, al sursudeste de las Canarias. La ciudad Cabo Bojador se encuentra en el mismo."
+    }
+  },
+  "cape-of-good-hope": {
+    "title": "Cape of Good Hope",
+    "url": "https://en.wikipedia.org/wiki/Cape_of_Good_Hope",
+    "extract": "The Cape of Good Hope is a rocky headland on the Atlantic coast of the Cape Peninsula in South Africa.",
+    "description": "Headland of Cape Peninsula, South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_103.jpg/330px-Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_103.jpg",
+    "lat": -34.35805556,
+    "lon": 18.47555556,
+    "es": {
+      "title": "Cabo de Buena Esperanza",
+      "url": "https://es.wikipedia.org/wiki/Cabo_de_Buena_Esperanza",
+      "extract": "El cabo de Buena Esperanza es un cabo localizado en el extremo sur de África. El primer europeo en avistarlo fue el navegante portugués Bartolomeu Dias en 1488."
+    }
+  },
   "castilleja-de-la-cuesta": {
     "title": "Castilleja de la Cuesta",
     "url": "https://en.wikipedia.org/wiki/Castilleja_de_la_Cuesta",
@@ -346,6 +401,20 @@
       "title": "Castilleja de la Cuesta",
       "url": "https://es.wikipedia.org/wiki/Castilleja_de_la_Cuesta",
       "extract": "Castilleja de la Cuesta es un municipio y localidad española perteneciente a la provincia de Sevilla, en la comunidad autónoma de Andalucía. Se sitúa en la comarca Metropolitana de Sevilla. Cuenta con una población de 17 074 habitantes."
+    }
+  },
+  "ceuta": {
+    "title": "Ceuta",
+    "url": "https://en.wikipedia.org/wiki/Ceuta",
+    "extract": "Ceuta is an autonomous city of Spain on the North African coast. Bordered by Morocco, it lies between the Mediterranean Sea and the Atlantic Ocean. Ceuta is one of the special territories of members of the European Economic Area: it is part of the Schengen area, but with specific provisions such as border checks between Ceuta and European Spain.",
+    "description": "Spanish autonomous city in northwestern Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Museo_militar_del_Desnarigado.jpg/330px-Museo_militar_del_Desnarigado.jpg",
+    "lat": 35.88833333,
+    "lon": -5.31555556,
+    "es": {
+      "title": "Ceuta",
+      "url": "https://es.wikipedia.org/wiki/Ceuta",
+      "extract": "Ceuta es una ciudad autónoma española situada en la península tingitana, en la orilla africana del estrecho de Gibraltar, en su lado oriental. Está bañada por las aguas del mar Mediterráneo, mientras que al oeste y suroeste limita con Marruecos. Su población es de 83 595 habitantes. Con una extensión superficial de 19,87 km², tiene una densidad de 4518,65 hab/km², en la que conviven ciudadanos de diferentes culturas y religiones: principalmente la cristiana y la musulmana, en menor medida la judía y la hindú. Las zonas urbanizadas se sitúan en el istmo y en parte del campo exterior. El centro urbano y los barrios más antiguos se localizan cerca del puerto y por la ladera del monte Hacho, en una pequeña península conocida como Almina."
     }
   },
   "cholula": {
@@ -376,6 +445,20 @@
       "extract": "Colonia del Sacramento, conocida en el medio local como Colonia, es la capital del departamento de Colonia, en el suroeste de Uruguay. Está ubicada en la ribera norte —izquierda— del Río de la Plata, a 177 km de Montevideo y a 50 km de la ciudad de Buenos Aires en barco."
     }
   },
+  "congo-river": {
+    "title": "Congo River",
+    "url": "https://en.wikipedia.org/wiki/Congo_River",
+    "extract": "The Congo River, formerly also known as the Zaire River, is the second-longest river in Africa, shorter only than the Nile, as well as the third largest river in the world by discharge volume, following the Amazon and Ganges–Brahmaputra rivers. It is the world's deepest recorded river, with measured depths of around 220 m (720 ft). The Congo–Lualaba–Luvua–Luapula–Chambeshi River system has an overall length of 4,700 km (2,900 mi), which makes it the world's ninth-longest river. The Chambeshi is a tributary of the Lualaba River, and Lualaba is the name of the Congo River upstream of Boyoma Falls, extending for 1,800 km (1,100 mi).",
+    "description": "River in Central Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Aerial_view_of_the_Congo_River_near_Kisangani.jpg/330px-Aerial_view_of_the_Congo_River_near_Kisangani.jpg",
+    "lat": -6.075,
+    "lon": 12.45,
+    "es": {
+      "title": "Río Congo",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Congo",
+      "extract": "El río Congo es un largo río de África Central que fluye en direcciones N, O y SO a través de cuatro países —Zambia, República Democrática del Congo, República del Congo y Angola— hasta desaguar en el océano Atlántico. Tiene una longitud de 4700 km, que lo sitúan como el noveno río más largo del mundo, tras los ríos Amazonas, Nilo, Yangtsé, el Misisipi-Misuri, el Yeniséi, el Amarillo, el Obi-Irtish y el Mekong."
+    }
+  },
   "cordoba": {
     "title": "Córdoba, Spain",
     "url": "https://en.wikipedia.org/wiki/C%C3%B3rdoba%2C_Spain",
@@ -388,6 +471,20 @@
       "title": "Córdoba (España)",
       "url": "https://es.wikipedia.org/wiki/C%C3%B3rdoba_(Espa%C3%B1a)",
       "extract": "Córdoba es una ciudad y municipio español en Andalucía, capital de la provincia homónima, situada en una depresión a orillas del Guadalquivir y al pie de Sierra Morena. Alberga una población de 323 262 habitantes, siendo la tercera ciudad más grande y poblada de Andalucía tras Sevilla y Málaga, y la duodécima de España. Su área metropolitana comprende los municipios de la capital junto con los de Almodóvar del Río, Guadalcázar, La Carlota, Obejo, Villafranca de Córdoba, Villaharta y Villaviciosa de Córdoba, albergando una población total de 354 202 habitantes en 2022, la vigésimo tercera más poblada de España."
+    }
+  },
+  "corunna": {
+    "title": "A Coruña",
+    "url": "https://en.wikipedia.org/wiki/A_Coru%C3%B1a",
+    "extract": "A Coruña is a city and municipality in Galicia, Spain. With a population of 251,277, it is the 2nd-largest city in Galicia behind Vigo. The city is the capital of the Province of A Coruña, having also been the political capital of the Kingdom of Galicia from the 16th to the 19th centuries, and as a regional administrative centre between 1833 and 1982.",
+    "description": "Municipality in Galicia, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ayuntamiento%2C_La_Coru%C3%B1a%2C_Espa%C3%B1a%2C_2015-09-25%2C_DD_44.jpg/330px-Ayuntamiento%2C_La_Coru%C3%B1a%2C_Espa%C3%B1a%2C_2015-09-25%2C_DD_44.jpg",
+    "lat": 43.37111111,
+    "lon": -8.39611111,
+    "es": {
+      "title": "La Coruña",
+      "url": "https://es.wikipedia.org/wiki/La_Coru%C3%B1a",
+      "extract": "La Coruña es una ciudad y un municipio de España situado en la comunidad autónoma de Galicia, capital de la provincia homónima y cabeza de su comarca. El municipio limita al norte con el océano Atlántico, al este con la ría de La Coruña y el municipio de Oleiros, al sur con el municipio de Culleredo y al oeste con el de Arteijo."
     }
   },
   "covadonga": {
@@ -486,6 +583,20 @@
       "title": "Fort de Joux",
       "url": "https://es.wikipedia.org/wiki/Fort_de_Joux",
       "extract": "El Fort de Joux o castillo de Joux es un castillo medieval francés, convertido en una fortaleza, situada en La Cluse-et-Mijoux, en el departamento de Doubs, en las montañas del Jura. Custodiaba el paso de montaña \"Cluse de Pontarlier\"."
+    }
+  },
+  "gambia-river": {
+    "title": "Gambia River",
+    "url": "https://en.wikipedia.org/wiki/Gambia_River",
+    "extract": "The Gambia River is a major river in West Africa, running 1,120 kilometres (700 mi) from the Fouta Djallon plateau in north Guinea westward through Senegal and The Gambia to the Atlantic Ocean at the city of Banjul. It is navigable for about half that length.",
+    "description": "Major river in West Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/River_gambia_Niokolokoba_National_Park.gif/330px-River_gambia_Niokolokoba_National_Park.gif",
+    "lat": 13.46666667,
+    "lon": -16.56666667,
+    "es": {
+      "title": "Río Gambia",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Gambia",
+      "extract": "El río Gambia es un río de África de 1130 kilómetros de longitud, uno de los mayores del continente. Nace en el macizo Futa Yallon, al norte de Guinea, y desemboca en la ciudad de Banjul (Gambia), a orillas del océano Atlántico. La mitad de su recorrido es navegable."
     }
   },
   "gonaives": {
@@ -637,6 +748,20 @@
       "extract": "La Isabela fue una villa fundada por Cristóbal Colón en 1494 durante su Segundo Viaje, situada en la provincia de Puerto Plata, República Dominicana."
     }
   },
+  "lagos-portugal": {
+    "title": "Lagos, Portugal",
+    "url": "https://en.wikipedia.org/wiki/Lagos%2C_Portugal",
+    "extract": "Lagos is a city and municipality in the Barlavento region of the Algarve, southern Portugal, situated at the mouth of the Bensafrim River along the Atlantic Ocean. As of the March 2021 census, the municipality had a population of 33,494 across an area of 212.99 km². The coastal area is densely populated and oriented toward tourism and services, while the inland region is sparsely inhabited with an economy based largely on agriculture and forestry. The population increases significantly during summer months due to tourism.",
+    "description": "Municipality in Algarve, Portugal",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Vista_Centro_Hist%C3%B3rico_de_Lagos_%28cropped%29.jpg/330px-Vista_Centro_Hist%C3%B3rico_de_Lagos_%28cropped%29.jpg",
+    "lat": 37.10277778,
+    "lon": -8.67277778,
+    "es": {
+      "title": "Lagos (Portugal)",
+      "url": "https://es.wikipedia.org/wiki/Lagos_(Portugal)",
+      "extract": "Lagos es una ciudad portuguesa perteneciente al distrito de Faro, región del Algarve.\nEl municipio del mismo nombre al que pertenece tiene una población total de 33 500 habitantes. La ciudad en sí, histórica y turística, tiene aproximadamente 22 000 personas. La mayoría de la población vive en la costa y trabaja en turismo y servicios. La región interior, mucho menos habitada, se dedica a la agricultura y silvicultura. Lagos es una de las ciudades más visitadas en el Algarve y Portugal.[cita requerida]"
+    }
+  },
   "leipzig": {
     "title": "Leipzig",
     "url": "https://en.wikipedia.org/wiki/Leipzig",
@@ -677,6 +802,20 @@
       "title": "Lisboa",
       "url": "https://es.wikipedia.org/wiki/Lisboa",
       "extract": "Lisboa es la capital y la ciudad más poblada de Portugal.Está situada en la desembocadura del río Tajo, es la capital del país, capital del distrito de Lisboa, de la región de Lisboa y del área metropolitana de Lisboa, y es también el principal centro de la subregión de la Gran Lisboa. Lisboa tiene una población de 547 773 habitantes, y su zona metropolitana cuenta con una población de 2 810 923 en una superficie de 2.921,90 km². Esta área contiene el 26% de la población del país. Lisboa es la ciudad más rica de Portugal."
+    }
+  },
+  "madeira": {
+    "title": "Madeira",
+    "url": "https://en.wikipedia.org/wiki/Madeira",
+    "extract": "Madeira, officially the Autonomous Region of Madeira, is an autonomous region of Portugal, in the Atlantic Ocean about 805 km southwest of mainland Portugal. Together with the Azores, it is one of the two autonomous regions of Portugal and a special territory of the European Union. It is the southernmost point and region of Portugal.",
+    "description": "Portuguese archipelago in the North Atlantic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Madeira.svg/330px-Flag_of_Madeira.svg.png",
+    "lat": 32.75,
+    "lon": -17,
+    "es": {
+      "title": "Madeira",
+      "url": "https://es.wikipedia.org/wiki/Madeira",
+      "extract": "Madeira es un archipiélago macaronésico de origen volcánico del océano Atlántico que, junto con las islas Salvajes, constituye una región autónoma de Portugal. Es, asimismo, una región ultraperiférica de la Unión Europea."
     }
   },
   "madrid": {
@@ -747,6 +886,34 @@
       "title": "Mohács",
       "url": "https://es.wikipedia.org/wiki/Moh%C3%A1cs",
       "extract": "Mohács es una ciudad en el condado de Baranya, Hungría, en la orilla derecha del Danubio."
+    }
+  },
+  "monte-pascoal": {
+    "title": "Monte Pascoal",
+    "url": "https://en.wikipedia.org/wiki/Monte_Pascoal",
+    "extract": "Monte Pascoal is a 586-meter mountain to the south of the city of Porto Seguro, in the state of Bahia, Brazil. According to historians, it was the first part of land viewed by Portuguese explorer Pedro Álvares Cabral, allegedly the first European to arrive in Brazil, on April 22, 1500.",
+    "description": "Mountain in Bahia, Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Monte_P%C3%A1scoal.jpg/330px-Monte_P%C3%A1scoal.jpg",
+    "lat": -16.895965,
+    "lon": -39.407814,
+    "es": {
+      "title": "Monte Pascoal",
+      "url": "https://es.wikipedia.org/wiki/Monte_Pascoal",
+      "extract": "El monte Pascoal es un pequeño cerro de 586 metros de altura, localizado en el estado de Bahía, cerca de 62 kilómetros de la ciudad de Porto Seguro. Según los registros históricos, el monte Pascoal habría sido la primera porción de tierra avistada por Pedro Álvares Cabral y su tripulación el día 22 de abril de 1500, fecha del Descubrimiento de Brasil. El accidente geográfico recibió este nombre justamente porque el desembarco ocurrió en la época de Pascua del 1500."
+    }
+  },
+  "mossel-bay": {
+    "title": "Mossel Bay",
+    "url": "https://en.wikipedia.org/wiki/Mossel_Bay",
+    "extract": "Mossel Bay is a harbour town of about 170,000 people on the Garden Route of South Africa. It is an important tourism and farming region of the Western Cape Province. Mossel Bay lies 400 kilometres east of the country's seat of parliament, Cape Town, and 400 km west of Gqeberha, the largest city in the Eastern Cape. The older parts of the town occupy the north-facing side of the Cape St Blaize Peninsula, whilst the newer suburbs straddle the Peninsula and have spread eastwards along the sandy shore of the Bay.",
+    "description": "Town in Western Cape, South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Mossel_Bay_%2815412141375%29.jpg/330px-Mossel_Bay_%2815412141375%29.jpg",
+    "lat": -34.18333333,
+    "lon": 22.13333333,
+    "es": {
+      "title": "Mosselbaai",
+      "url": "https://es.wikipedia.org/wiki/Mosselbaai",
+      "extract": "Mosselbaai es una ciudad portuaria de unos 130 000 habitantes en la provincia Occidental del Cabo en la ruta de los jardines en Sudáfrica. Se trata de un importante centro turístico y de agricultura. Mosselbaai se encuentra a unos 400 kilómetros al este de la capital legislativa, Ciudad del Cabo, y a 400 km al oeste de Puerto Elizabeth, la ciudad más grande en la provincia Oriental del Cabo. Las partes más antiguas de la ciudad se encuentran al norte de la península de Cabo de San Blas, mientras que los nuevos suburbios se sitúan en la península y se han extendido hacia el este a lo largo de la orilla de arena de la bahía."
     }
   },
   "nantes": {
@@ -845,6 +1012,29 @@
       "title": "Puerto Príncipe",
       "url": "https://es.wikipedia.org/wiki/Puerto_Pr%C3%ADncipe",
       "extract": "Puerto Príncipe es la capital y ciudad más poblada de Haití. La población de la ciudad se estimó en 1,2 millones en 2022 y el área metropolitana se estimó en una población de 2 618 894. Se encuentra situada en el distrito de Puerto Príncipe, en el departamento Oeste."
+    }
+  },
+  "porto-santo": {
+    "title": "Porto Santo Island",
+    "url": "https://en.wikipedia.org/wiki/Porto_Santo_Island",
+    "extract": "Porto Santo Island is a Portuguese island and municipality 43 kilometres northeast of Madeira Island in the North Atlantic Ocean; it is the northernmost and easternmost island of the archipelago of Madeira, located in the Atlantic Ocean west of Europe and Africa.\nThe municipality of Porto Santo occupies the entire island and small neighbouring islands. It was elevated to city status on 6 August 1996. The sole parish of the municipality is also named Porto Santo. The population in 2011 was 5,483, in an area of 42.59 km2. The main settlement on the island is Vila Baleira.",
+    "description": "Atlantic island near Madeira, Portugal",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/ISS041-E-104143_-_View_of_Madeira.jpg/330px-ISS041-E-104143_-_View_of_Madeira.jpg",
+    "lat": 33.06194444,
+    "lon": -16.35638889
+  },
+  "porto-seguro": {
+    "title": "Porto Seguro",
+    "url": "https://en.wikipedia.org/wiki/Porto_Seguro",
+    "extract": "Porto Seguro, is a city located in the far south of Bahia, Brazil. The city has an estimated population of 168,326, covers 2,287 square kilometres (883 mi2), and has a population density of 52.7 residents per square kilometer. The area that includes Porto Seguro and neighbouring Santa Cruz Cabrália and Eunápolis holds a distinctive place in Brazilian history: in 1500 it was the first landing point of Portuguese navigators, principally Pedro Álvares Cabral.",
+    "description": "Municipality of Bahia, Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Porto_Seguro.1.jpg/330px-Porto_Seguro.1.jpg",
+    "lat": -16.43333333,
+    "lon": -39.08333333,
+    "es": {
+      "title": "Porto Seguro",
+      "url": "https://es.wikipedia.org/wiki/Porto_Seguro",
+      "extract": "Porto Seguro es una ciudad situada en el extremo sur del estado de Bahía, en el nordeste brasileño. El municipio fue fundado en 1534 y declarado oficialmente el punto de llegada de los portugueses en Brasil. En la actualidad posee cerca de 140 000 habitantes y está ubicada en casi su totalidad por el patrimonio histórico, no siendo permitida la construcción de edificios altos .[cita requerida]"
     }
   },
   "potosi": {
@@ -987,6 +1177,20 @@
       "extract": "Santo Domingo es la capital de la República Dominicana. La ciudad está situada sobre el mar Caribe, en la desembocadura del río Ozama, en la costa meridional de La Española, a 155 km al sureste de Santiago."
     }
   },
+  "sao-jorge-da-mina": {
+    "title": "Elmina Castle",
+    "url": "https://en.wikipedia.org/wiki/Elmina_Castle",
+    "extract": "Elmina Castle, or Fort St. George, was erected by the Portuguese in 1482 as Castelo de São Jorge da Mina, also known as Castelo da Mina or simply Mina, in present-day Elmina, Ghana, formerly the Gold Coast. It holds several profound distinctions: it was the first trading post built on the Gulf of Guinea and is the oldest extant European building in Sub-Saharan Africa.",
+    "description": "Fort and former trading post in Elmina, Ghana",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Elmina_Castle_-_Ghana.jpg/330px-Elmina_Castle_-_Ghana.jpg",
+    "lat": 5.0826,
+    "lon": -1.3481,
+    "es": {
+      "title": "San Jorge de la Mina",
+      "url": "https://es.wikipedia.org/wiki/San_Jorge_de_la_Mina",
+      "extract": "San Jorge de la Mina fue un establecimiento fortificado de dominio portugués, en la costa del golfo de Guinea, África, en el lugar que ocupa actualmente la ciudad de Elmina en Ghana."
+    }
+  },
   "sao-paulo": {
     "title": "São Paulo",
     "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
@@ -1036,6 +1240,20 @@
       "title": "Xanadú",
       "url": "https://es.wikipedia.org/wiki/Xanad%C3%BA",
       "extract": "Xanadú, Xanadu, Zanadu o Shangdu era la capital de verano del Imperio mongol de Kublai Kan, imperio que ocupaba gran parte de Asia. Hallazgos arqueológicos concluyen que la ciudad estaba situada en la actual provincia de Mongolia Interior, en China. La ciudad tenía tres partes: la «ciudad exterior», la «ciudad interior» y el palacio, donde Kublai Kan permanecía en verano. Se cree que el palacio de Xanadú era la mitad de grande que la Ciudad Prohibida, en Pekín. Los restos modernos más visibles son las murallas en tierra, así como la plataforma circular de ladrillo en el centro de la ciudad interior."
+    }
+  },
+  "sierra-morena": {
+    "title": "Sierra Morena",
+    "url": "https://en.wikipedia.org/wiki/Sierra_Morena",
+    "extract": "The Sierra Morena is one of the main systems of mountain ranges in Spain. It stretches for 450 kilometres from east to west across the south of the Iberian Peninsula, forming the southern border of the Meseta Central plateau and providing the watershed between the valleys of the Guadiana to the north and the west, and the Guadalquivir to the south.",
+    "description": "Mountain range in southern Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Valles_t%C3%ADpicos_de_Obejo%2C_Sierra_Morena.JPG/330px-Valles_t%C3%ADpicos_de_Obejo%2C_Sierra_Morena.JPG",
+    "lat": 38.36666667,
+    "lon": -3.83333333,
+    "es": {
+      "title": "Sierra Morena",
+      "url": "https://es.wikipedia.org/wiki/Sierra_Morena",
+      "extract": "Sierra Morena es una cordillera del sur de la península ibérica, que separa la meseta Central de la depresión del Guadalquivir. Geológicamente es el borde de la meseta fracturado y levantado por el empuje de las fuerzas alpinas sobre el zócalo herciniano de la Meseta. En esta predominan las fallas, a veces una falla única, otras veces un sistema de fallas escalonadas. Sierra Morena sería un horst limitado por fallas, o en otros casos limitada por pliegues muy estirados formando pliegues-fallas."
     }
   },
   "sremski-karlovci": {
@@ -1092,6 +1310,20 @@
       "title": "Toledo",
       "url": "https://es.wikipedia.org/wiki/Toledo",
       "extract": "Toledo es un municipio y ciudad española, capital de la provincia homónima, en la comunidad autónoma de Castilla-La Mancha. Su término municipal cuenta con una población de 87 216 habitantes. El casco histórico está situado en la margen derecha del Tajo, en una colina rodeada por un pronunciado meandro. El término municipal incluye dos barrios muy separados del núcleo principal: el de Azucaica, en la orilla derecha del río, y el de Santa María de Benquerencia, situado prácticamente enfrente del anterior en la margen izquierda."
+    }
+  },
+  "tordesillas": {
+    "title": "Tordesillas",
+    "url": "https://en.wikipedia.org/wiki/Tordesillas",
+    "extract": "Tordesillas is a town and municipality in the province of Valladolid, Castile and León, central Spain. It is located 25 kilometres (16 mi) southwest of the provincial capital, Valladolid at an elevation of 704 m (2,310 ft). The population was c. 8,760 as of 2021.",
+    "description": "Municipality in Castile and León, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/SP33_A_View_of_Tordisillas_Spain_21_09_2012.JPG/330px-SP33_A_View_of_Tordisillas_Spain_21_09_2012.JPG",
+    "lat": 41.5,
+    "lon": -5,
+    "es": {
+      "title": "Tordesillas",
+      "url": "https://es.wikipedia.org/wiki/Tordesillas",
+      "extract": "Tordesillas es un municipio y localidad española de la provincia de Valladolid, en la comunidad autónoma de Castilla y León. La localidad está situada a 704 m sobre el nivel del mar y a 28 km al suroeste de la capital provincial. La población municipal asciende a 8773 habitantes. Ostenta los títulos de «Muy ilustre, antigua, coronada, leal y nobilísima villa»."
     }
   },
   "torgau": {

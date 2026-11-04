@@ -44,6 +44,15 @@
       }
     }
   },
+  "azores": {
+    "label": "Azores",
+    "wikipedia": "Azores",
+    "translations": {
+      "es": {
+        "label": "Azores"
+      }
+    }
+  },
   "azua": {
     "label": "Azua",
     "wikipedia": "Azua de Compostela",
@@ -197,6 +206,15 @@
       }
     }
   },
+  "calicut": {
+    "label": "Calicut",
+    "wikipedia": "Kozhikode",
+    "translations": {
+      "es": {
+        "label": "Calicut"
+      }
+    }
+  },
   "callao": {
     "label": "Callao",
     "wikipedia": "Callao",
@@ -215,12 +233,39 @@
       }
     }
   },
+  "cape-bojador": {
+    "label": "Cape Bojador",
+    "wikipedia": "Cape Bojador",
+    "translations": {
+      "es": {
+        "label": "cabo Bojador"
+      }
+    }
+  },
+  "cape-of-good-hope": {
+    "label": "Cape of Good Hope",
+    "wikipedia": "Cape of Good Hope",
+    "translations": {
+      "es": {
+        "label": "cabo de Buena Esperanza"
+      }
+    }
+  },
   "castilleja-de-la-cuesta": {
     "label": "Castilleja de la Cuesta",
     "wikipedia": "Castilleja de la Cuesta",
     "translations": {
       "es": {
         "label": "Castilleja de la Cuesta"
+      }
+    }
+  },
+  "ceuta": {
+    "label": "Ceuta",
+    "wikipedia": "Ceuta",
+    "translations": {
+      "es": {
+        "label": "Ceuta"
       }
     }
   },
@@ -242,12 +287,30 @@
       }
     }
   },
+  "congo-river": {
+    "label": "Congo River",
+    "wikipedia": "Congo River",
+    "translations": {
+      "es": {
+        "label": "río Congo"
+      }
+    }
+  },
   "cordoba": {
     "label": "Córdoba",
     "wikipedia": "Córdoba, Spain",
     "translations": {
       "es": {
         "label": "Córdoba"
+      }
+    }
+  },
+  "corunna": {
+    "label": "Corunna",
+    "wikipedia": "A Coruña",
+    "translations": {
+      "es": {
+        "label": "La Coruña"
       }
     }
   },
@@ -311,6 +374,15 @@
     "translations": {
       "es": {
         "label": "Fort de Joux"
+      }
+    }
+  },
+  "gambia-river": {
+    "label": "Gambia River",
+    "wikipedia": "Gambia River",
+    "translations": {
+      "es": {
+        "label": "río Gambia"
       }
     }
   },
@@ -413,6 +485,15 @@
       }
     }
   },
+  "lagos-portugal": {
+    "label": "Lagos",
+    "wikipedia": "Lagos, Portugal",
+    "translations": {
+      "es": {
+        "label": "Lagos"
+      }
+    }
+  },
   "leipzig": {
     "label": "Leipzig",
     "wikipedia": "Leipzig",
@@ -437,6 +518,15 @@
     "translations": {
       "es": {
         "label": "Lisboa"
+      }
+    }
+  },
+  "madeira": {
+    "label": "Madeira",
+    "wikipedia": "Madeira",
+    "translations": {
+      "es": {
+        "label": "Madeira"
       }
     }
   },
@@ -482,6 +572,24 @@
     "translations": {
       "es": {
         "label": "Mohács"
+      }
+    }
+  },
+  "monte-pascoal": {
+    "label": "Monte Pascoal",
+    "wikipedia": "Monte Pascoal",
+    "translations": {
+      "es": {
+        "label": "Monte Pascoal"
+      }
+    }
+  },
+  "mossel-bay": {
+    "label": "Mossel Bay",
+    "wikipedia": "Mossel Bay",
+    "translations": {
+      "es": {
+        "label": "Mossel Bay"
       }
     }
   },
@@ -545,6 +653,24 @@
     "translations": {
       "es": {
         "label": "Puerto Príncipe"
+      }
+    }
+  },
+  "porto-santo": {
+    "label": "Porto Santo",
+    "wikipedia": "Porto Santo Island",
+    "translations": {
+      "es": {
+        "label": "Porto Santo"
+      }
+    }
+  },
+  "porto-seguro": {
+    "label": "Porto Seguro",
+    "wikipedia": "Porto Seguro",
+    "translations": {
+      "es": {
+        "label": "Porto Seguro"
       }
     }
   },
@@ -638,6 +764,15 @@
       }
     }
   },
+  "sao-jorge-da-mina": {
+    "label": "São Jorge da Mina (Elmina)",
+    "wikipedia": "Elmina Castle",
+    "translations": {
+      "es": {
+        "label": "São Jorge da Mina (Elmina)"
+      }
+    }
+  },
   "sao-paulo": {
     "label": "São Paulo",
     "wikipedia": "São Paulo",
@@ -674,6 +809,15 @@
       }
     }
   },
+  "sierra-morena": {
+    "label": "Sierra Morena",
+    "wikipedia": "Sierra Morena",
+    "translations": {
+      "es": {
+        "label": "Sierra Morena"
+      }
+    }
+  },
   "sremski-karlovci": {
     "label": "Karlowitz",
     "wikipedia": "Sremski Karlovci",
@@ -707,6 +851,15 @@
     "translations": {
       "es": {
         "label": "Toledo"
+      }
+    }
+  },
+  "tordesillas": {
+    "label": "Tordesillas",
+    "wikipedia": "Tordesillas",
+    "translations": {
+      "es": {
+        "label": "Tordesillas"
       }
     }
   },
