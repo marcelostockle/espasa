@@ -485,6 +485,21 @@
       }
     }
   },
+  "jesuits": {
+    "label": "Jesuits",
+    "color": "#4682b4",
+    "description": "The Society of Jesus, the Catholic religious order founded by Ignatius of Loyola and approved in 1540, known for its schools, its missions and its special obedience to the pope.",
+    "categories": [
+      "Culture",
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Jesuitas",
+        "description": "La Compañía de Jesús, orden religiosa católica fundada por Ignacio de Loyola y aprobada en 1540, conocida por sus colegios, sus misiones y su obediencia especial al papa."
+      }
+    }
+  },
   "john-calvin": {
     "label": "John Calvin",
     "color": "#4b5d8a",

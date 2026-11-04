@@ -83,6 +83,20 @@
       "extract": "Aviñón es una ciudad y comuna francesa, capital del departamento de Vaucluse, en la región de Provenza-Alpes-Costa Azul."
     }
   },
+  "avila": {
+    "title": "Ávila",
+    "url": "https://en.wikipedia.org/wiki/%C3%81vila",
+    "extract": "Ávila is the capital and most populated municipality of the Province of Ávila, located in the autonomous community of Castile and León in Spain. Located in the centre of the Iberian Peninsula, to the north of the Sistema Central, it lies on the right bank of the Adaja and, at an elevation of over 1,130 metres (3,710 ft) above sea level, is the highest provincial capital in Spain.",
+    "description": "Municipality in Castile and León, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Avila_001.jpg/330px-Avila_001.jpg",
+    "lat": 40.65,
+    "lon": -4.68333333,
+    "es": {
+      "title": "Ávila",
+      "url": "https://es.wikipedia.org/wiki/%C3%81vila",
+      "extract": "Ávila es un municipio y ciudad española, capital de la provincia homónima, en la comunidad autónoma de Castilla y León. Se encuentra situada junto al curso del río Adaja y se trata de la capital de provincia más alta del país, a 1131 m sobre el nivel del mar, en virtud de lo cual en su casco urbano son relativamente frecuentes las nevadas durante el invierno. La ciudad presenta un clima mediterráneo continentalizado con matices montañosos. En 2018 su término municipal concentraba el 36,38 % del total de población de la provincia."
+    }
+  },
   "ayacucho": {
     "title": "Ayacucho",
     "url": "https://en.wikipedia.org/wiki/Ayacucho",
@@ -417,6 +431,20 @@
       "extract": "El cabo de Buena Esperanza es un cabo localizado en el extremo sur de África. El primer europeo en avistarlo fue el navegante portugués Bartolomeu Dias en 1488."
     }
   },
+  "castel-sant-angelo": {
+    "title": "Castel Sant'Angelo",
+    "url": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo",
+    "extract": "Castel Sant'Angelo, also known as Mausoleum of Hadrian, is a towering rotunda in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The popes later used the building as a fortress and castle dedicated to Saint Michael the Archangel, and it is now a museum. The structure was once the tallest building in Rome.",
+    "description": "Historic building in Rome, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Castel_Sant%27Angelo_at_Night.jpg/330px-Castel_Sant%27Angelo_at_Night.jpg",
+    "lat": 41.9031,
+    "lon": 12.4663,
+    "es": {
+      "title": "Castillo de Sant'Angelo",
+      "url": "https://es.wikipedia.org/wiki/Castillo_de_Sant'Angelo",
+      "extract": "El Castillo de Sant'Angelo o Mausoleo de Adriano, conocido entre los siglos x y xii como Mole Adrianorum o Castellum Crescentii, es un monumento de Roma (Italia), situado en la orilla derecha del Tíber, frente al Pons Aelius, a poca distancia del Vaticano, entre el rione de Borgo y el de Prati. Dedicado al Arcángel San Miguel, está unido a la Ciudad del Vaticano a través del pasillo fortificado denominado Passetto. El castillo ha sido modificado radicalmente varias veces en las épocas medieval y renacentista."
+    }
+  },
   "castilleja-de-la-cuesta": {
     "title": "Castilleja de la Cuesta",
     "url": "https://en.wikipedia.org/wiki/Castilleja_de_la_Cuesta",
@@ -697,6 +725,20 @@
       "extract": "Ginebra es una ciudad y comuna de la Confederación Suiza, ubicada cerca de la frontera con Francia, capital del cantón de Ginebra. Es la ciudad más poblada de Romandía y la segunda de Suiza después de Zúrich. Se encuentra situada a la salida del Ródano del lago de Ginebra y es la capital de la República y Cantón de Ginebra."
     }
   },
+  "goa": {
+    "title": "Old Goa",
+    "url": "https://en.wikipedia.org/wiki/Old_Goa",
+    "extract": "Old Goa was a historic city situated on the southern bank of the River Mandovi, on the island of Tiswadi.The city was established by the Bijapur Sultanate in the 15th century AD. Following its conquest by Afonso de Albuquerque in 1510, the city rapidly grew in importance and became the capital of the Portuguese East Indies, becoming a flourishing metropolitan city of 2,00,000 by the 17th century.Goa tremendiously influenced its surrounding territory and eventually gave the modern state of Goa its name. The city was remarked by numerous travellers as being one of the wealthiest cities in Asia, filled with splendor and pomp. The city reached its zenith during 1580–1630, rivalling the cities of London and Lisbon of that time.The city was struck by numerous plagues and epidemics all through the 17th century, and it rapidly decayed following the decline of Portuguese supremecy in the east. It was already deserted by the 1760's.",
+    "description": "City in Goa, India",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/AMH-6577-KB_Bird%27s_eye_view_of_the_city_of_Goa.jpg/330px-AMH-6577-KB_Bird%27s_eye_view_of_the_city_of_Goa.jpg",
+    "lat": 15.503,
+    "lon": 73.912,
+    "es": {
+      "title": "Goa Vieja",
+      "url": "https://es.wikipedia.org/wiki/Goa_Vieja",
+      "extract": "Goa Vieja o Goa Velha en portugués, fue una ciudad del Distrito Norte de Goa en el Estado Indio de Goa. La ciudad fue construida durante el Sultanato de Bijapur en el siglo XV y sirvió como capital de la India Portuguesa desde el siglo XVI hasta su abandono en el siglo XVIII debido a una plaga. Se dice que llegó a tener casi 200.000 habitantes y los portugueses la usaron para el comercio. Los restos de la ciudad son Patrimonio de la Humanidad. La vieja Goa está apenas a diez kilómetros de Panaji, capital del distrito."
+    }
+  },
   "gonaives": {
     "title": "Gonaïves",
     "url": "https://en.wikipedia.org/wiki/Gona%C3%AFves",
@@ -844,6 +886,20 @@
       "title": "Junín (Perú)",
       "url": "https://es.wikipedia.org/wiki/Jun%C3%ADn_(Per%C3%BA)",
       "extract": "Junín es una ciudad peruana, capital del distrito y la provincia homónimos en el departamento del mismo nombre. Está situada a 4105 m de altitud, en la orilla sur del lago Junín."
+    }
+  },
+  "kagoshima": {
+    "title": "Kagoshima",
+    "url": "https://en.wikipedia.org/wiki/Kagoshima",
+    "extract": "Kagoshima , is the capital city of Kagoshima Prefecture, Japan. As of 31 July 2024, the city had an estimated population of 583,966 in 285,992 households, and a population density of 1100 persons per km2. The total area of the city is 547.61 km2 (211.43 sq mi).",
+    "description": "Prefecture capital and Core city in Kyushu, Japan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kagoshima_Montage.jpg/330px-Kagoshima_Montage.jpg",
+    "lat": 31.59694444,
+    "lon": 130.55722222,
+    "es": {
+      "title": "Kagoshima",
+      "url": "https://es.wikipedia.org/wiki/Kagoshima",
+      "extract": "La ciudad de Kagoshima  es la ciudad capital de la prefectura de Kagoshima, sobre la región de Kyushu en la isla de Kyushu, al suroeste de Japón.\nSe estimaba que el 1 de enero de 2005 la ciudad tenía 605 650 habitantes, lo que representa una densidad de población de 1107,81 personas por km². Su extensión es de 546,71 km². La ciudad es apodada \"Nápoles de Oriente\" por su localización en una bahía, su clima templado y su localización junto al estratovolcán Sakurajima, parecido al Vesubio."
     }
   },
   "la-isabela": {
@@ -1040,6 +1096,20 @@
       "title": "Monte Pascoal",
       "url": "https://es.wikipedia.org/wiki/Monte_Pascoal",
       "extract": "El monte Pascoal es un pequeño cerro de 586 metros de altura, localizado en el estado de Bahía, cerca de 62 kilómetros de la ciudad de Porto Seguro. Según los registros históricos, el monte Pascoal habría sido la primera porción de tierra avistada por Pedro Álvares Cabral y su tripulación el día 22 de abril de 1500, fecha del Descubrimiento de Brasil. El accidente geográfico recibió este nombre justamente porque el desembarco ocurrió en la época de Pascua del 1500."
+    }
+  },
+  "montmartre": {
+    "title": "Montmartre",
+    "url": "https://en.wikipedia.org/wiki/Montmartre",
+    "extract": "Montmartre is a large hill in Paris's northern 18th arrondissement. It is 130 m (430 ft) high and gives its name to the surrounding district, part of the Right Bank. Montmartre is primarily known for its artistic history, for the white-domed Basilica of the Sacré-Cœur on its summit, and as a nightclub district.",
+    "description": "Large hill in Paris's northern 18th arrondissement",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/View_from_Notre-Dame_de_Paris%2C_24_June_2014_004.jpg/330px-View_from_Notre-Dame_de_Paris%2C_24_June_2014_004.jpg",
+    "lat": 48.88694444,
+    "lon": 2.34111111,
+    "es": {
+      "title": "Montmartre",
+      "url": "https://es.wikipedia.org/wiki/Montmartre",
+      "extract": "Montmartre es una colina de 130 metros de altura situada en la ribera derecha del río Sena, en el XVIII Distrito de París, y conocida principalmente por la cúpula blanca de la Basílica del Sacré Cœur, que está en su cumbre. Cerca, otra iglesia, la más antigua de la colina es Saint Pierre de Montmartre, fundada por la reina de Francia en el siglo XII. En la cripta de la capilla del Martyrium, ubicada en la calle Yvonne Le Tac, se fundó la orden de sacerdotes jesuitas el 15 de agosto de 1534."
     }
   },
   "mossel-bay": {
@@ -1702,6 +1772,20 @@
       "title": "Tower Hill",
       "url": "https://es.wikipedia.org/wiki/Tower_Hill",
       "extract": "Tower Hill o Colina de la Torre es una elevación ubicada al noroeste de la Torre de Londres, en el barrio londinense de Tower Hamlets, en el límite de la City de Londres."
+    }
+  },
+  "trento": {
+    "title": "Trento",
+    "url": "https://en.wikipedia.org/wiki/Trento",
+    "extract": "Trento, also known in English as Trent, is a city on the Adige River in the autonomous region of Trentino-Alto Adige/Südtirol in northern Italy. It is the capital of the autonomous province of Trento (Trentino). In the 16th century, the city was the location of the Council of Trent. It was part of Austria and Austria-Hungary before it was annexed by Italy in 1919. With a population of 119,359 as of 2026, Trento is the third largest municipality in the Alps and second largest in the historical region of Tyrol.",
+    "description": "Comune in Trentino-Alto Adige/Südtirol, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Trento_visione_d%27insieme_6.jpg/330px-Trento_visione_d%27insieme_6.jpg",
+    "lat": 46.06666667,
+    "lon": 11.11666667,
+    "es": {
+      "title": "Trento",
+      "url": "https://es.wikipedia.org/wiki/Trento",
+      "extract": "Trento es una ciudad italiana situada en la región de Trentino-Alto Adigio. Es la capital de la región y de la provincia autónoma de Trento. La ciudad, conocida internacionalmente por el Concilio de Trento, fue territorio austríaco hasta la Primera Guerra Mundial. Está situada en el profundo valle del Adigio."
     }
   },
   "tuileries": {

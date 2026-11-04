@@ -53,6 +53,15 @@
       }
     }
   },
+  "avila": {
+    "label": "Ávila",
+    "wikipedia": "Ávila, Spain",
+    "translations": {
+      "es": {
+        "label": "Ávila"
+      }
+    }
+  },
   "ayacucho": {
     "label": "Ayacucho",
     "wikipedia": "Ayacucho",
@@ -269,6 +278,15 @@
       }
     }
   },
+  "castel-sant-angelo": {
+    "label": "Castel Sant'Angelo",
+    "wikipedia": "Castel Sant'Angelo",
+    "translations": {
+      "es": {
+        "label": "Castillo de Sant'Angelo"
+      }
+    }
+  },
   "castilleja-de-la-cuesta": {
     "label": "Castilleja de la Cuesta",
     "wikipedia": "Castilleja de la Cuesta",
@@ -449,6 +467,15 @@
       }
     }
   },
+  "goa": {
+    "label": "Goa",
+    "wikipedia": "Old Goa",
+    "translations": {
+      "es": {
+        "label": "Goa"
+      }
+    }
+  },
   "gonaives": {
     "label": "Gonaïves",
     "wikipedia": "Gonaïves",
@@ -545,6 +572,15 @@
     "translations": {
       "es": {
         "label": "Junín"
+      }
+    }
+  },
+  "kagoshima": {
+    "label": "Kagoshima",
+    "wikipedia": "Kagoshima",
+    "translations": {
+      "es": {
+        "label": "Kagoshima"
       }
     }
   },
@@ -671,6 +707,15 @@
     "translations": {
       "es": {
         "label": "Monte Pascoal"
+      }
+    }
+  },
+  "montmartre": {
+    "label": "Montmartre",
+    "wikipedia": "Montmartre",
+    "translations": {
+      "es": {
+        "label": "Montmartre"
       }
     }
   },
@@ -1103,6 +1148,15 @@
     "translations": {
       "es": {
         "label": "Tower Hill"
+      }
+    }
+  },
+  "trento": {
+    "label": "Trento",
+    "wikipedia": "Trento",
+    "translations": {
+      "es": {
+        "label": "Trento"
       }
     }
   },
