@@ -683,6 +683,20 @@
       "extract": "Granada es un municipio y ciudad española, capital de la provincia homónima, en la comunidad autónoma de Andalucía. Está situada en la parte central de la comarca de la Vega de Granada, a una altitud de 680 m s. n. m., en una amplia depresión intrabética formada por el río Genil y por el piedemonte del macizo más alto de la península ibérica, Sierra Nevada, que condiciona su clima."
     }
   },
+  "grand-duchy-of-tuscany": {
+    "title": "Grand Duchy of Tuscany",
+    "url": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Tuscany",
+    "extract": "The Grand Duchy of Tuscany was an Italian monarchy located in Central Italy that existed, with interruptions, from 1569 to 1860, replacing the Republic of Florence. The grand duchy's capital was Florence. In the 19th century the population of the Grand Duchy was about 1,815,000 inhabitants.",
+    "description": "Italian state (1569–1801; 1814–1860)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_the_Grand_Duchy_of_Tuscany_%28Medici_period%29.svg/330px-Flag_of_the_Grand_Duchy_of_Tuscany_%28Medici_period%29.svg.png",
+    "lat": 43,
+    "lon": 11,
+    "es": {
+      "title": "Gran Ducado de Toscana",
+      "url": "https://es.wikipedia.org/wiki/Gran_Ducado_de_Toscana",
+      "extract": "El Gran Ducado de Toscana fue una monarquía italiana que existió, con interrupciones, de 1569 a 1860, reemplazando a la República de Florencia. La capital del gran ducado era Florencia. En el siglo XIX la población del Gran Ducado era de unos 1 815 000 habitantes."
+    }
+  },
   "guadalete": {
     "title": "Guadalete",
     "url": "https://en.wikipedia.org/wiki/Guadalete",
@@ -998,6 +1012,20 @@
       "title": "Ouro Preto",
       "url": "https://es.wikipedia.org/wiki/Ouro_Preto",
       "extract": "Ouro Preto es un municipio brasileño del estado de Minas Gerais, en la Región Sudeste del país. Está ubicado a una altitud de 1179 metros. En el censo de 2022 tenía 74 821 habitantes. Fue capital de Minas Gerais hasta el traslado de la capital a Belo Horizonte en 1897. La ciudad histórica de Ouro Preto fue inscrita en la lista del Patrimonio de la Humanidad de la Unesco el 5 de septiembre de 1980 y fue el primer bien cultural brasileño incorporado a la lista."
+    }
+  },
+  "palazzo-medici-riccardi": {
+    "title": "Palazzo Medici Riccardi",
+    "url": "https://en.wikipedia.org/wiki/Palazzo_Medici_Riccardi",
+    "extract": "The Palazzo Medici, also called the Palazzo Medici Riccardi after the later family that acquired and expanded it, is a 15th-century Renaissance palace in Florence, Italy. It was built for the Medici family, who dominated the politics of the Republic of Florence. It is now the seat of the administration of the Metropolitan City of Florence and a museum.",
+    "description": "Renaissance palace in Florence, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Palazzo_Medici_Riccardi-Florence.jpg/330px-Palazzo_Medici_Riccardi-Florence.jpg",
+    "lat": 43.77527778,
+    "lon": 11.25598889,
+    "es": {
+      "title": "Palacio Médici Riccardi",
+      "url": "https://es.wikipedia.org/wiki/Palacio_M%C3%A9dici_Riccardi",
+      "extract": "El palacio Médici Riccardi se encuentra en Florencia, en la Vía Larga, en la actualidad Vía Cavour 3. Fue construido por Michelozzo di Bartolomeo en el año 1444, por encargo de Cosme de Médici «El viejo»."
     }
   },
   "palazzo-pitti": {
@@ -1494,6 +1522,20 @@
       "extract": "El palacio de las Tullerías fue un palacio imperial y real situado en el centro de París, formando junto al Louvre un único complejo arquitectónico."
     }
   },
+  "uffizi": {
+    "title": "Uffizi",
+    "url": "https://en.wikipedia.org/wiki/Uffizi",
+    "extract": "The Uffizi Gallery is an art museum adjacent to the Piazza della Signoria in the Historic Centre of Florence in the region of Tuscany, Italy. It is one of the most visited museums in Italy and among the most important worldwide for its Italian Renaissance art collection.",
+    "description": "Art museum in Florence, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Florence%2C_Italy_-_panoramio_%28125%29.jpg/330px-Florence%2C_Italy_-_panoramio_%28125%29.jpg",
+    "lat": 43.7683,
+    "lon": 11.2553,
+    "es": {
+      "title": "Galería Uffizi",
+      "url": "https://es.wikipedia.org/wiki/Galer%C3%ADa_Uffizi",
+      "extract": "La Galería Uffizi es un palacio y museo de Florencia que posee una de las más antiguas e importantes colecciones de arte del mundo. Es una de las atracciones turísticas más visitadas de Florencia y la pinacoteca más concurrida de Italia, que en 2019 recibió 2,8 millones de visitantes."
+    }
+  },
   "valencia": {
     "title": "Valencia",
     "url": "https://en.wikipedia.org/wiki/Valencia",
@@ -1618,6 +1660,34 @@
       "title": "Espíritu Pampa",
       "url": "https://es.wikipedia.org/wiki/Esp%C3%ADritu_Pampa",
       "extract": "El complejo arqueológico de Espíritu Pampa es un yacimiento arqueológico del Perú, de la época preincaica e incaica, ubicado en el distrito de Vilcabamba, provincia de La Convención, departamento del Cusco."
+    }
+  },
+  "villa-di-careggi": {
+    "title": "Villa Medici at Careggi",
+    "url": "https://en.wikipedia.org/wiki/Villa_Medici_at_Careggi",
+    "extract": "The Villa Medici at Careggi is a patrician villa in the hills near Florence, Tuscany, central Italy. It is part of the UNESCO World Heritage Site inscribed as Medici Villas and Gardens in Tuscany.",
+    "description": "Villa in Toscana, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Villa_di_careggi_11.JPG/330px-Villa_di_careggi_11.JPG",
+    "lat": 43.80941111,
+    "lon": 11.24952222,
+    "es": {
+      "title": "Villa medicea de Careggi",
+      "url": "https://es.wikipedia.org/wiki/Villa_medicea_de_Careggi",
+      "extract": "La villa medicea de Careggi es una villa patricia de los Médici en las colinas junto a Florencia, Toscana, Italia."
+    }
+  },
+  "villa-di-castello": {
+    "title": "Villa di Castello",
+    "url": "https://en.wikipedia.org/wiki/Villa_di_Castello",
+    "extract": "The Villa di Castello, near the hills bordering Florence, Tuscany, central Italy, was the country residence of Cosimo I de' Medici, Grand Duke of Tuscany (1519-1574). The gardens, filled with fountains, statuary, and a grotto, became famous throughout Europe. The villa also housed some of the great art treasures of Florence, including Sandro Botticelli's Renaissance masterpieces The Birth of Venus and Primavera. The gardens of the Villa had a profound influence upon the design of the Italian Renaissance garden and the later French formal garden.",
+    "description": "15th Century Italian villa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Castello_utens.jpg/330px-Castello_utens.jpg",
+    "lat": 43.81944722,
+    "lon": 11.22818333,
+    "es": {
+      "title": "Villa di Castello",
+      "url": "https://es.wikipedia.org/wiki/Villa_di_Castello",
+      "extract": "La Villa di Castello es una de las villas de los Médici en Florencia, Toscana, Italia central."
     }
   },
   "xiangyang": {

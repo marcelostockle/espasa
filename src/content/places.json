@@ -440,6 +440,15 @@
       }
     }
   },
+  "grand-duchy-of-tuscany": {
+    "label": "Grand Duchy of Tuscany",
+    "wikipedia": "Grand Duchy of Tuscany",
+    "translations": {
+      "es": {
+        "label": "Gran Ducado de Toscana"
+      }
+    }
+  },
   "guadalete": {
     "label": "Guadalete",
     "wikipedia": "Guadalete",
@@ -644,6 +653,15 @@
     "translations": {
       "es": {
         "label": "Ouro Preto"
+      }
+    }
+  },
+  "palazzo-medici-riccardi": {
+    "label": "Palazzo Medici Riccardi",
+    "wikipedia": "Palazzo Medici Riccardi",
+    "translations": {
+      "es": {
+        "label": "Palacio Médici Riccardi"
       }
     }
   },
@@ -971,6 +989,15 @@
       }
     }
   },
+  "uffizi": {
+    "label": "Uffizi",
+    "wikipedia": "Uffizi",
+    "translations": {
+      "es": {
+        "label": "Galería de los Uffizi"
+      }
+    }
+  },
   "valencia": {
     "label": "Valencia",
     "wikipedia": "Valencia",
@@ -1049,6 +1076,24 @@
     "translations": {
       "es": {
         "label": "Vilcabamba"
+      }
+    }
+  },
+  "villa-di-careggi": {
+    "label": "Villa di Careggi",
+    "wikipedia": "Villa Medicea di Careggi",
+    "translations": {
+      "es": {
+        "label": "Villa de Careggi"
+      }
+    }
+  },
+  "villa-di-castello": {
+    "label": "Villa di Castello",
+    "wikipedia": "Villa Medicea di Castello",
+    "translations": {
+      "es": {
+        "label": "Villa de Castello"
       }
     }
   },

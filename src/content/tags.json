@@ -527,6 +527,20 @@
       }
     }
   },
+  "medici": {
+    "label": "House of Medici",
+    "color": "#c97b63",
+    "description": "The Medici family of Florence, from the founding of their bank in 1397 to the death of the last Medici grand duke in 1737, including their rule, their popes and their patronage of art and learning.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Casa de Médici",
+        "description": "La familia Médici de Florencia, desde la fundación de su banco en 1397 hasta la muerte del último gran duque Médici en 1737, incluidos su gobierno, sus papas y su mecenazgo de las artes y el saber."
+      }
+    }
+  },
   "ming-dynasty": {
     "label": "Ming dynasty",
     "color": "#ef5350",
