@@ -8,6 +8,15 @@
       }
     }
   },
+  "amsterdam": {
+    "label": "Amsterdam",
+    "wikipedia": "Amsterdam",
+    "translations": {
+      "es": {
+        "label": "Ámsterdam"
+      }
+    }
+  },
   "anagni": {
     "label": "Anagni",
     "wikipedia": "Anagni",
@@ -41,6 +50,15 @@
     "translations": {
       "es": {
         "label": "Augsburgo"
+      }
+    }
+  },
+  "auhausen": {
+    "label": "Auhausen",
+    "wikipedia": "Auhausen",
+    "translations": {
+      "es": {
+        "label": "Auhausen"
       }
     }
   },
@@ -197,6 +215,24 @@
       }
     }
   },
+  "brielle": {
+    "label": "Brielle",
+    "wikipedia": "Brielle",
+    "translations": {
+      "es": {
+        "label": "Brielle"
+      }
+    }
+  },
+  "brussels": {
+    "label": "Brussels",
+    "wikipedia": "Brussels",
+    "translations": {
+      "es": {
+        "label": "Bruselas"
+      }
+    }
+  },
   "buda": {
     "label": "Buda",
     "wikipedia": "Buda",
@@ -323,6 +359,15 @@
       }
     }
   },
+  "cologne": {
+    "label": "Cologne",
+    "wikipedia": "Cologne",
+    "translations": {
+      "es": {
+        "label": "Colonia"
+      }
+    }
+  },
   "colonia-del-sacramento": {
     "label": "Colonia del Sacramento",
     "wikipedia": "Colonia del Sacramento",
@@ -347,6 +392,15 @@
     "translations": {
       "es": {
         "label": "Constanza"
+      }
+    }
+  },
+  "copenhagen": {
+    "label": "Copenhagen",
+    "wikipedia": "Copenhagen",
+    "translations": {
+      "es": {
+        "label": "Copenhague"
       }
     }
   },
@@ -401,6 +455,24 @@
     "translations": {
       "es": {
         "label": "Dali"
+      }
+    }
+  },
+  "delft": {
+    "label": "Delft",
+    "wikipedia": "Delft",
+    "translations": {
+      "es": {
+        "label": "Delft"
+      }
+    }
+  },
+  "donauworth": {
+    "label": "Donauwörth",
+    "wikipedia": "Donauwörth",
+    "translations": {
+      "es": {
+        "label": "Donauwörth"
       }
     }
   },
@@ -485,6 +557,15 @@
       }
     }
   },
+  "ghent": {
+    "label": "Ghent",
+    "wikipedia": "Ghent",
+    "translations": {
+      "es": {
+        "label": "Gante"
+      }
+    }
+  },
   "goa": {
     "label": "Goa",
     "wikipedia": "Old Goa",
@@ -527,6 +608,15 @@
     "translations": {
       "es": {
         "label": "Gran Ducado de Toscana"
+      }
+    }
+  },
+  "graz": {
+    "label": "Graz",
+    "wikipedia": "Graz",
+    "translations": {
+      "es": {
+        "label": "Graz"
       }
     }
   },
@@ -575,12 +665,39 @@
       }
     }
   },
+  "heidelberg": {
+    "label": "Heidelberg",
+    "wikipedia": "Heidelberg",
+    "translations": {
+      "es": {
+        "label": "Heidelberg"
+      }
+    }
+  },
+  "heiligerlee": {
+    "label": "Heiligerlee",
+    "wikipedia": "Heiligerlee",
+    "translations": {
+      "es": {
+        "label": "Heiligerlee"
+      }
+    }
+  },
   "java": {
     "label": "Java",
     "wikipedia": "Java",
     "translations": {
       "es": {
         "label": "Java"
+      }
+    }
+  },
+  "julich": {
+    "label": "Jülich",
+    "wikipedia": "Jülich",
+    "translations": {
+      "es": {
+        "label": "Jülich"
       }
     }
   },
@@ -599,6 +716,15 @@
     "translations": {
       "es": {
         "label": "Kagoshima"
+      }
+    }
+  },
+  "kalmar": {
+    "label": "Kalmar",
+    "wikipedia": "Kalmar",
+    "translations": {
+      "es": {
+        "label": "Kalmar"
       }
     }
   },
@@ -746,6 +872,15 @@
       }
     }
   },
+  "munich": {
+    "label": "Munich",
+    "wikipedia": "Munich",
+    "translations": {
+      "es": {
+        "label": "Múnich"
+      }
+    }
+  },
   "munster": {
     "label": "Münster",
     "wikipedia": "Münster",
@@ -797,6 +932,15 @@
     "translations": {
       "es": {
         "label": "Palacio de Placentia"
+      }
+    }
+  },
+  "palace-of-westminster": {
+    "label": "Palace of Westminster",
+    "wikipedia": "Palace of Westminster",
+    "translations": {
+      "es": {
+        "label": "Palacio de Westminster"
       }
     }
   },
@@ -896,6 +1040,15 @@
     "translations": {
       "es": {
         "label": "Potosí"
+      }
+    }
+  },
+  "prague": {
+    "label": "Prague",
+    "wikipedia": "Prague",
+    "translations": {
+      "es": {
+        "label": "Praga"
       }
     }
   },
@@ -1106,6 +1259,15 @@
       }
     }
   },
+  "stockholm": {
+    "label": "Stockholm",
+    "wikipedia": "Stockholm",
+    "translations": {
+      "es": {
+        "label": "Estocolmo"
+      }
+    }
+  },
   "subiaco": {
     "label": "Subiaco",
     "wikipedia": "Subiaco, Lazio",
@@ -1121,6 +1283,15 @@
     "translations": {
       "es": {
         "label": "México-Tenochtitlan"
+      }
+    }
+  },
+  "the-hague": {
+    "label": "The Hague",
+    "wikipedia": "The Hague",
+    "translations": {
+      "es": {
+        "label": "La Haya"
       }
     }
   },
@@ -1202,6 +1373,15 @@
     "translations": {
       "es": {
         "label": "Galería de los Uffizi"
+      }
+    }
+  },
+  "utrecht": {
+    "label": "Utrecht",
+    "wikipedia": "Utrecht",
+    "translations": {
+      "es": {
+        "label": "Utrecht"
       }
     }
   },

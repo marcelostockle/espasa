@@ -98,6 +98,20 @@
       }
     }
   },
+  "bohemia": {
+    "label": "Bohemia",
+    "color": "#9575cd",
+    "description": "The Kingdom of Bohemia and its Estates under the Habsburgs, with Prague as an imperial capital, to the revolt of 1618.",
+    "categories": [
+      "States/Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Bohemia",
+        "description": "El Reino de Bohemia y sus Estados bajo los Habsburgo, con Praga como capital imperial, hasta la revuelta de 1618."
+      }
+    }
+  },
   "brazil": {
     "label": "Brazil",
     "color": "#00bfa5",
@@ -214,6 +228,20 @@
       }
     }
   },
+  "denmark": {
+    "label": "Denmark",
+    "color": "#e57373",
+    "description": "The Kingdom of Denmark-Norway, its Lutheran monarchy and its rivalry with Sweden for control of the Baltic.",
+    "categories": [
+      "States/Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Dinamarca",
+        "description": "El Reino de Dinamarca-Noruega, su monarquía luterana y su rivalidad con Suecia por el control del Báltico."
+      }
+    }
+  },
   "dominican-republic": {
     "label": "Dominican Republic",
     "color": "#01579b",
@@ -240,6 +268,34 @@
       "es": {
         "label": "Ducado de Saboya",
         "description": "El ducado alpino de la Casa de Saboya, con capital en Chambéry y después en Turín, y su rivalidad con Ginebra, Berna y Francia en los siglos XVI y principios del XVII."
+      }
+    }
+  },
+  "dutch-revolt": {
+    "label": "Dutch Revolt",
+    "color": "#ff9e40",
+    "description": "The revolt of the Netherlands against Spanish Habsburg rule, from the Compromise of the Nobles in 1566 to Spain's recognition of the Dutch Republic in 1648.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Revuelta de los Países Bajos",
+        "description": "La rebelión de los Países Bajos contra el dominio de los Habsburgo españoles, desde el Compromiso de los Nobles en 1566 hasta el reconocimiento de la República Neerlandesa por España en 1648."
+      }
+    }
+  },
+  "electoral-palatinate": {
+    "label": "Electoral Palatinate",
+    "color": "#26a69a",
+    "description": "The Rhenish Palatinate under its Wittelsbach electors, with Heidelberg as its capital, and its role as the leading Calvinist state of the Empire.",
+    "categories": [
+      "States/Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Palatinado Electoral",
+        "description": "El Palatinado del Rin bajo sus electores Wittelsbach, con Heidelberg como capital, y su papel como principal Estado calvinista del Imperio."
       }
     }
   },
@@ -980,6 +1036,20 @@
       "es": {
         "label": "Independencia hispanoamericana",
         "description": "Las guerras y crisis políticas (h. 1808-1826) por las que los territorios americanos de España se separaron de la Corona española y se convirtieron en Estados independientes."
+      }
+    }
+  },
+  "sweden": {
+    "label": "Sweden",
+    "color": "#4fc3f7",
+    "description": "The Kingdom of Sweden under the Vasa dynasty, its Lutheran Reformation and its rise as a Baltic power.",
+    "categories": [
+      "States/Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Suecia",
+        "description": "El Reino de Suecia bajo la dinastía Vasa, su Reforma luterana y su ascenso como potencia báltica."
       }
     }
   },

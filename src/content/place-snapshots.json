@@ -13,6 +13,20 @@
       "extract": "Argel es la capital y la mayor ciudad de Argelia. Argel está situada en el litoral mediterráneo y es el principal puerto del noroeste del Magreb."
     }
   },
+  "amsterdam": {
+    "title": "Amsterdam",
+    "url": "https://en.wikipedia.org/wiki/Amsterdam",
+    "extract": "Amsterdam is the capital and largest city of the Netherlands. As of 1 January 2026, it had a population of 941,873 within the city proper, 1,457,018 in the urban area and 2,480,394 in the metropolitan area. Located in the Dutch province of North Holland, Amsterdam is colloquially referred to as the \"Venice of the North\", for its large number of canals, now a UNESCO World Heritage Site.",
+    "description": "Capital and largest city of the Netherlands",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Amsterdam_Canals_%2823585867048%29.jpg/330px-Amsterdam_Canals_%2823585867048%29.jpg",
+    "lat": 52.37277778,
+    "lon": 4.89361111,
+    "es": {
+      "title": "Ámsterdam",
+      "url": "https://es.wikipedia.org/wiki/%C3%81msterdam",
+      "extract": "Ámsterdam(en neerlandés: Amsterdam) es la capital y ciudad más poblada de los Países Bajos. La ciudad está situada entre la bahía del IJ, al norte, y a las orillas del río Ámstel, al sureste. Fundada en el siglo XIII como un pequeño pueblo pesquero, en la actualidad es la ciudad más grande del país y un gran centro financiero y cultural de proyección internacional."
+    }
+  },
   "anagni": {
     "title": "Anagni",
     "url": "https://en.wikipedia.org/wiki/Anagni",
@@ -67,6 +81,20 @@
       "title": "Augsburgo",
       "url": "https://es.wikipedia.org/wiki/Augsburgo",
       "extract": "Augsburgo es una ciudad alemana, capital de la región administrativa de Suabia, en el estado federado de Baviera. Augsburgo es ciudad independiente y al mismo tiempo capital del distrito homónimo. Con 301 033 habitantes, es el tercer municipio más poblado en Baviera. Forma una conurbación de 472 500 habitantes con muchas de las localidades de su comarca: Stadtbergen, Friedberg, Königsbrunn, Gersthofen. Estadísticamente se asocia también con el área metropolitana de Augsburgo, que cuenta con 895 000 habitantes. Es una de las ciudades más antiguas en Alemania y Patrimonio de la Humanidad de UNESCO."
+    }
+  },
+  "auhausen": {
+    "title": "Auhausen",
+    "url": "https://en.wikipedia.org/wiki/Auhausen",
+    "extract": "Auhausen is a municipality in the Swabian district Donau-Ries in Bavaria in Germany. The municipality is within the Oettingen central administrative body. Auhausen was the site of the 1608 meeting that formed the Protestant Union, also known as the Union of Auhausen. Schloss Hirschbrunn, a castle owned by the House of Oettingen-Spielberg, is in Auhausen.",
+    "description": "Municipality in Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Auhausen-St-Maria.jpg/330px-Auhausen-St-Maria.jpg",
+    "lat": 48.01666667,
+    "lon": 10.63333333,
+    "es": {
+      "title": "Auhausen",
+      "url": "https://es.wikipedia.org/wiki/Auhausen",
+      "extract": "Auhausen es un municipio situado en el distrito de Danubio-Ries, en el estado federado de Baviera (Alemania), con una población a finales de 2016 de unos 1006 habitantes."
     }
   },
   "avignon": {
@@ -306,6 +334,34 @@
       "extract": " Bouvines  es una población y comuna francesa, en la región de Alta Francia, departamento de Norte, en el distrito de Lille y cantón de Cysoing."
     }
   },
+  "brielle": {
+    "title": "Brielle",
+    "url": "https://en.wikipedia.org/wiki/Brielle",
+    "extract": "Brielle, also called Den Briel in Dutch and Brill in English, is a town and historic seaport in the western Netherlands, in the province of South Holland, on the north side of the island of Voorne-Putten, at the mouth of the New Maas. The former municipality covered an area of 31.14 km2 (12.02 sq mi) of which 3.59 km2 (1.39 sq mi) was water. In 2021 its population was 17,439.",
+    "description": "Town in Voorne aan Zee, the Netherlands",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Brielle_vesting_20050518.jpg/330px-Brielle_vesting_20050518.jpg",
+    "lat": 51.9,
+    "lon": 4.16666667,
+    "es": {
+      "title": "Brielle",
+      "url": "https://es.wikipedia.org/wiki/Brielle",
+      "extract": "Brielle, también llamada Den Briel, es un municipio y una ciudad de la provincia de Holanda Meridional en los Países Bajos, en la antigua isla Voorne. Tiene una superficie de 31,14 km², de los que 3,58 km² corresponden a la superficie ocupada por el agua. En marzo de 2014 tenía una población de 16 339 habitantes."
+    }
+  },
+  "brussels": {
+    "title": "Brussels",
+    "url": "https://en.wikipedia.org/wiki/Brussels",
+    "extract": "Brussels, officially the Brussels-Capital Region, is a region of Belgium comprising 19 municipalities, including the City of Brussels, which is the capital of Belgium. The Brussels-Capital Region is located in the central portion of the country. It is a part of both the French Community of Belgium and the Flemish Community, and is separate from the Flemish Region (Flanders), within which it forms an enclave, and the Walloon Region (Wallonia), located less than 4 km (2.5 mi) south.",
+    "description": "Federal region of Belgium including the capital",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/330px-Grand_Place_Bruselas_2.jpg",
+    "lat": 50.84666667,
+    "lon": 4.3525,
+    "es": {
+      "title": "Región de Bruselas-Capital",
+      "url": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Bruselas-Capital",
+      "extract": "La Región de Bruselas-Capital es una de las tres regiones que componen Bélgica. Su capital es la ciudad de Bruselas, la cual es a su vez la capital nacional. Se compone de otros 18 municipios en su área metropolitana."
+    }
+  },
   "buda": {
     "title": "Buda",
     "url": "https://en.wikipedia.org/wiki/Buda",
@@ -501,6 +557,20 @@
       "extract": "Cholula de Rivadavia, también llamada San Pedro Cholula —nombre del municipio —, es una ciudad del estado mexicano de Puebla, que forma parte de la Zona Metropolitana de Puebla y se encuentra prácticamente conurbada con la capital del estado, la ciudad de Puebla de Zaragoza; se localiza en el asentamiento de la antigua ciudad prehispánica de Cholula, de la que recibe el nombre. Es cabecera del municipio de San Pedro Cholula."
     }
   },
+  "cologne": {
+    "title": "Cologne",
+    "url": "https://en.wikipedia.org/wiki/Cologne",
+    "extract": "Cologne is the fourth-most populous city of Germany and the largest city of the German state of North Rhine-Westphalia with over one million inhabitants in the city proper and over 3.1 million people in the Cologne Bonn urban region. Cologne is also part of the Rhine-Ruhr metropolitan region, the second biggest metropolitan region by GDP in the European Union. Centred on the left bank of the Rhine, Cologne is located on the River Rhine, about 35 kilometres (22 mi) southeast of the North Rhine-Westphalia state capital Düsseldorf and 22 kilometres (14 mi) northwest of Bonn, the former capital of West Germany.",
+    "description": "Largest city in North Rhine-Westphalia, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg/330px-Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg",
+    "lat": 50.93638889,
+    "lon": 6.95277778,
+    "es": {
+      "title": "Colonia (Alemania)",
+      "url": "https://es.wikipedia.org/wiki/Colonia_(Alemania)",
+      "extract": "Colonia es una ciudad del oeste de Alemania. Con alrededor de 1,1 millones de habitantes, es la cuarta ciudad más poblada del país –después de Berlín, Hamburgo y Múnich–, y la más poblada de la macrorregión metropolitana del Rin-Ruhr y del Estado federado de Renania del Norte-Westfalia, cuya capital, sin embargo, es Düsseldorf."
+    }
+  },
   "colonia-del-sacramento": {
     "title": "Colonia del Sacramento",
     "url": "https://en.wikipedia.org/wiki/Colonia_del_Sacramento",
@@ -541,6 +611,20 @@
       "title": "Constanza (Alemania)",
       "url": "https://es.wikipedia.org/wiki/Constanza_(Alemania)",
       "extract": "Constanza es una ciudad alemana del estado federado de Baden-Wurtemberg ubicada en la orilla sur del lago de Constanza y fronteriza con Suiza. Es la ciudad más grande y de mayor densidad poblacional de este gran lago, el más extenso de Alemania, alimentado por el río Rin y que comparte con dos países más: Suiza y Austria. La ciudad de Constanza forma un solo casco urbano real junto con la localidad suiza de Kreuzlingen, sobrepasando entre ambas los 100 000 habitantes."
+    }
+  },
+  "copenhagen": {
+    "title": "Copenhagen",
+    "url": "https://en.wikipedia.org/wiki/Copenhagen",
+    "extract": "Copenhagen is the capital and most populous city of Denmark, with an urban population of 1.4 million. The city is situated mainly on the island of Zealand (Sjælland), with a smaller part on the island of Amager. Copenhagen is separated from Malmö, Sweden, by the Øresund strait. The Øresund Bridge connects the two cities by rail and road.",
+    "description": "Capital and most populous city of Denmark",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/330px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg",
+    "lat": 55.67611111,
+    "lon": 12.56833333,
+    "es": {
+      "title": "Copenhague",
+      "url": "https://es.wikipedia.org/wiki/Copenhague",
+      "extract": "Copenhague es la capital y la ciudad más poblada de Dinamarca, con una población urbana de 1 391 205 y una población metropolitana de 1,99 millones de habitantes para 2024. Está situada en la costa oriental de Selandia, a 28 km de Malmö (Suecia), y a 164 kilómetros (102 mi) de Odense. La ciudad se extiende por partes de la isla de Amager y también contiene el enclave del municipio de Frederiksberg. Fue premiada con el título Capital Verde Europea en 2014."
     }
   },
   "cordoba": {
@@ -625,6 +709,34 @@
       "title": "Ciudad de Dali",
       "url": "https://es.wikipedia.org/wiki/Ciudad_de_Dali",
       "extract": "Dali es un municipio bajo la jurisdicción de la ciudad-prefectura de Dali en la provincia de Yunnan, al sur de la República Popular China. Está ubicada al oeste de las montañas Cangshan y al este del Lago Erhai. Es un importante asentamiento de las minorías bai y yi aunque también hay grupos de tibetanos, hui, han y naxi. Su área es de 1739 km² y su población total para 2020 superó los 770 mil habitantes."
+    }
+  },
+  "delft": {
+    "title": "Delft",
+    "url": "https://en.wikipedia.org/wiki/Delft",
+    "extract": "Delft is a city and municipality in the province of South Holland, Netherlands. It is located between Rotterdam, to the southeast, and The Hague, to the northwest. Together with them, it is a part of both the Rotterdam–The Hague metropolitan area and the Randstad.",
+    "description": "City and municipality in South Holland, Netherlands",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Delft_Blick_von_der_Nieuwe_Kerk_auf_die_Oude_Kerk_1.jpg/330px-Delft_Blick_von_der_Nieuwe_Kerk_auf_die_Oude_Kerk_1.jpg",
+    "lat": 52.01166667,
+    "lon": 4.35916667,
+    "es": {
+      "title": "Delft",
+      "url": "https://es.wikipedia.org/wiki/Delft",
+      "extract": "Delft () es una ciudad y un municipio de Holanda Meridional, a mitad de camino entre Róterdam y La Haya. Es primordialmente conocida por el centro de la ciudad, tradicionalmente neerlandés ; la cerámica de Delft, la Universidad Técnica de Delft y su asociación con la familia real."
+    }
+  },
+  "donauworth": {
+    "title": "Donauwörth",
+    "url": "https://en.wikipedia.org/wiki/Donauw%C3%B6rth",
+    "extract": "Donauwörth is a town and the capital of the Donau-Ries district in Swabia, Bavaria, Germany. It is said to have been founded by two fishermen where the rivers Danube (Donau) and Wörnitz meet. The city is part of the scenic route called \"Romantische Straße\".",
+    "description": "Town in Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Reichsstrassedonauworth.JPG/330px-Reichsstrassedonauworth.JPG",
+    "lat": 48.7,
+    "lon": 10.8,
+    "es": {
+      "title": "Donauwörth",
+      "url": "https://es.wikipedia.org/wiki/Donauw%C3%B6rth",
+      "extract": "Donauwörth es una ciudad en la región administrativa de Suabia del Estado libre de Baviera, en Alemania."
     }
   },
   "dresden": {
@@ -753,6 +865,20 @@
       "extract": "Ginebra es una ciudad y comuna de la Confederación Suiza, ubicada cerca de la frontera con Francia, capital del cantón de Ginebra. Es la ciudad más poblada de Romandía y la segunda de Suiza después de Zúrich. Se encuentra situada a la salida del Ródano del lago de Ginebra y es la capital de la República y Cantón de Ginebra."
     }
   },
+  "ghent": {
+    "title": "Ghent",
+    "url": "https://en.wikipedia.org/wiki/Ghent",
+    "extract": "Ghent is a city and a municipality in the East Flanders province of the Flemish Region of Belgium. It is the capital and largest city of the province and the third largest in the country, after Brussels and Antwerp. It is a port and university city.",
+    "description": "Capital of East Flanders province, Belgium",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Gent%2C_de_Graslei_vanaf_de_Korenlei_met_oeg24758tm61%2B25159_IMG_0447_2021-08-13_18.37.jpg/330px-Gent%2C_de_Graslei_vanaf_de_Korenlei_met_oeg24758tm61%2B25159_IMG_0447_2021-08-13_18.37.jpg",
+    "lat": 51.05361111,
+    "lon": 3.72527778,
+    "es": {
+      "title": "Gante",
+      "url": "https://es.wikipedia.org/wiki/Gante",
+      "extract": "Gante es una ciudad de Bélgica, capital de la provincia de Flandes Oriental, en la Región Flamenca. Tiene una población estimada, a inicios de 2025, de 272 657 habitantes. La ciudad está situada entre Brujas y Bruselas, a media hora de ambas en tren."
+    }
+  },
   "goa": {
     "title": "Old Goa",
     "url": "https://en.wikipedia.org/wiki/Old_Goa",
@@ -823,6 +949,20 @@
       "extract": "El Gran Ducado de Toscana fue una monarquía italiana que existió, con interrupciones, de 1569 a 1860, reemplazando a la República de Florencia. La capital del gran ducado era Florencia. En el siglo XIX la población del Gran Ducado era de unos 1 815 000 habitantes."
     }
   },
+  "graz": {
+    "title": "Graz",
+    "url": "https://en.wikipedia.org/wiki/Graz",
+    "extract": "Graz is the capital of the Austrian state of Styria and the second-largest city in Austria, after Vienna. On 1 January 2026, Graz had a population of around 307,912 to 345,391 including residents with a secondary residence. In 2023, the population of the Graz functional urban area was 660,238. The city is an important centre of higher education, with four universities and four other higher education institutions; together, they had more than 63,000 students as of 10 June 2023. Its historic centre (Altstadt) is considered one of the best-preserved urban centres in Central Europe.",
+    "description": "Capital of Styria, Austria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Graz_%2835932179023%29.jpg/330px-Graz_%2835932179023%29.jpg",
+    "lat": 47.07083333,
+    "lon": 15.43861111,
+    "es": {
+      "title": "Graz",
+      "url": "https://es.wikipedia.org/wiki/Graz",
+      "extract": "Graz históricamente conocida en español como Graetz, es una ciudad austriaca, capital del estado federado de Estiria. Es la segunda ciudad más grande del país. Ciudad universitaria por excelencia, fue nombrada Capital Europea de la Cultura en el año 2003."
+    }
+  },
   "guadalete": {
     "title": "Guadalete",
     "url": "https://en.wikipedia.org/wiki/Guadalete",
@@ -888,6 +1028,29 @@
       "extract": "Hangzhou es la capital y la ciudad más grande de la provincia de Zhejiang en la República Popular China. Está situada en las riberas del río Qiantang, cerca de su desembocadura, y a la cabeza de la bahía de Hangzhou, que separa Shanghái y Ningbo. Hangzhou cobró relevancia al ser el extremo sur del Gran Canal, y ha sido una de las ciudades chinas con más renombre durante el último milenio."
     }
   },
+  "heidelberg": {
+    "title": "Heidelberg",
+    "url": "https://en.wikipedia.org/wiki/Heidelberg",
+    "extract": "Heidelberg is the fifth-largest city in the German state of Baden-Württemberg, and with a population of about 163,000, of which roughly a quarter consists of students, it is Germany's 51st-largest city. Located about 78 km (48 mi) south of Frankfurt, Heidelberg is part of the densely populated Rhine-Neckar Metropolitan Region which has its centre in Mannheim.",
+    "description": "City in Baden-Württemberg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg",
+    "lat": 49.41666667,
+    "lon": 8.71666667,
+    "es": {
+      "title": "Heidelberg",
+      "url": "https://es.wikipedia.org/wiki/Heidelberg",
+      "extract": "Heidelberg es una ciudad situada en el valle del río Neckar en el noroeste de Baden-Wurtemberg (Alemania). Es famosa por su centro histórico con el castillo de Heidelberg y por tener la universidad más antigua del país, por lo que es un importante centro cultural y destino turístico."
+    }
+  },
+  "heiligerlee": {
+    "title": "Heiligerlee",
+    "url": "https://en.wikipedia.org/wiki/Heiligerlee",
+    "extract": "Heiligerlee is a village in the Dutch province of Groningen bordering the town of Winschoten, it is part of the municipality of Oldambt. It was the site of the 1536 Battle and the 1568 Battle of Heiligerlee",
+    "description": "Village in Groningen, Netherlands",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Heiligerlee%2C_kerkje_van_de_Graaf_Adolf_stichting_foto2_2012-09-01_16.29.jpg/330px-Heiligerlee%2C_kerkje_van_de_Graaf_Adolf_stichting_foto2_2012-09-01_16.29.jpg",
+    "lat": 53.155,
+    "lon": 7.0125
+  },
   "java": {
     "title": "Java",
     "url": "https://en.wikipedia.org/wiki/Java",
@@ -900,6 +1063,20 @@
       "title": "Java (isla)",
       "url": "https://es.wikipedia.org/wiki/Java_(isla)",
       "extract": "Java es una isla de Indonesia. Posee una superficie aproximada de 132 000 km² y una población de 160 millones de habitantes (2015), lo que la convierte en la isla más poblada del mundo, por delante de Honshū, en Japón. Concentra las ciudades más grandes e importantes de dicho país, incluyendo a Yakarta, su capital."
+    }
+  },
+  "julich": {
+    "title": "Jülich",
+    "url": "https://en.wikipedia.org/wiki/J%C3%BClich",
+    "extract": "Jülich is a town in the district of Düren, in the federal state of North Rhine-Westphalia, in western Germany. As a border region between the competing powers in the Lower Rhine and Meuse areas, the town and the Duchy of Jülich played a historic role from the Middle Ages up to the 17th century.",
+    "description": "Place in North Rhine-Westphalia, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2014-11-29_15-03-36_RX100_6819.JPG/330px-2014-11-29_15-03-36_RX100_6819.JPG",
+    "lat": 50.92222222,
+    "lon": 6.35833333,
+    "es": {
+      "title": "Jülich",
+      "url": "https://es.wikipedia.org/wiki/J%C3%BClich",
+      "extract": "Jülich es una ciudad de tamaño medio en el distrito de Düren, en el estado federado de Renania del Norte-Westfalia, en Alemania. Jülich es conocida por su centro de investigación mundialmente famoso, el Forschungszentrum Jülich."
     }
   },
   "junin": {
@@ -928,6 +1105,20 @@
       "title": "Kagoshima",
       "url": "https://es.wikipedia.org/wiki/Kagoshima",
       "extract": "La ciudad de Kagoshima  es la ciudad capital de la prefectura de Kagoshima, sobre la región de Kyushu en la isla de Kyushu, al suroeste de Japón.\nSe estimaba que el 1 de enero de 2005 la ciudad tenía 605 650 habitantes, lo que representa una densidad de población de 1107,81 personas por km². Su extensión es de 546,71 km². La ciudad es apodada \"Nápoles de Oriente\" por su localización en una bahía, su clima templado y su localización junto al estratovolcán Sakurajima, parecido al Vesubio."
+    }
+  },
+  "kalmar": {
+    "title": "Kalmar",
+    "url": "https://en.wikipedia.org/wiki/Kalmar",
+    "extract": "Kalmar is a city in the southeast of Sweden, situated by the Baltic Sea. It had 41,388 inhabitants in 2020 and is the seat of Kalmar Municipality. It is also the capital of Kalmar County, which comprises 12 municipalities with a total of 236,399 inhabitants (2015). Kalmar is the third largest urban area in the province and cultural region of Småland.",
+    "description": "City in Småland, Sweden",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Kalmar_collage.jpg/330px-Kalmar_collage.jpg",
+    "lat": 56.66138889,
+    "lon": 16.36277778,
+    "es": {
+      "title": "Kalmar",
+      "url": "https://es.wikipedia.org/wiki/Kalmar",
+      "extract": "Kalmar es una ciudad en Småland al sureste de Suecia, situada a orillas del mar Báltico."
     }
   },
   "la-isabela": {
@@ -1154,6 +1345,20 @@
       "extract": "Mosselbaai es una ciudad portuaria de unos 130 000 habitantes en la provincia Occidental del Cabo en la ruta de los jardines en Sudáfrica. Se trata de un importante centro turístico y de agricultura. Mosselbaai se encuentra a unos 400 kilómetros al este de la capital legislativa, Ciudad del Cabo, y a 400 km al oeste de Puerto Elizabeth, la ciudad más grande en la provincia Oriental del Cabo. Las partes más antiguas de la ciudad se encuentran al norte de la península de Cabo de San Blas, mientras que los nuevos suburbios se sitúan en la península y se han extendido hacia el este a lo largo de la orilla de arena de la bahía."
     }
   },
+  "munich": {
+    "title": "Munich",
+    "url": "https://en.wikipedia.org/wiki/Munich",
+    "extract": "Munich is the capital and most populous city of the German state of Bavaria. As of 30 November 2024, its population was 1,604,384, making it the third most-populous city in Germany after Berlin and Hamburg. Munich is the largest city in Germany that is not a state of its own, and it ranks as the 11th-largest city in the European Union (EU). The metropolitan area has around 3 million inhabitants, and the broader Munich Metropolitan Region is home to about 6.2 million people. It is the third largest metropolitan region by GDP in the EU. Munich is located on the river Isar north of the Alps. It is the seat of the Upper Bavarian administrative region. With 4,800 people per km2, Munich is Germany's most densely populated municipality. It is also the second-largest city in the Bavarian dialect area after Vienna.",
+    "description": "Capital of Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Frauenkirche_and_Neues_Rathaus_Munich_March_2013.JPG/330px-Frauenkirche_and_Neues_Rathaus_Munich_March_2013.JPG",
+    "lat": 48.1375,
+    "lon": 11.575,
+    "es": {
+      "title": "Múnich",
+      "url": "https://es.wikipedia.org/wiki/M%C3%BAnich",
+      "extract": "Múnich es la capital del estado federado de Baviera. Con 1 505 005 habitantes en 2025, es la tercera ciudad propiamente dicha más poblada de Alemania —después de Berlín y Hamburgo— y la undécima de la Unión Europea."
+    }
+  },
   "munster": {
     "title": "Münster",
     "url": "https://en.wikipedia.org/wiki/M%C3%BCnster",
@@ -1236,6 +1441,20 @@
       "title": "Palacio de Placentia",
       "url": "https://es.wikipedia.org/wiki/Palacio_de_Placentia",
       "extract": "El palacio de Placentia, también conocido como el palacio de Greenwich, fue un antiguo palacio real inglés, construido por el entonces regente Hunfredo de Gloucester entre 1428 y 1433. Se construyó en la ribera del río Támesis en Greenwich, en las afueras de Londres. Fue demolido en 1660 por Carlos II de Inglaterra para construir otro palacio, aunque volvió a tener uso con la construcción del hospital de Greenwich en el mismo lugar, hoy ocupados por la Universidad de Greenwich y el Trinity College of Music."
+    }
+  },
+  "palace-of-westminster": {
+    "title": "Palace of Westminster",
+    "url": "https://en.wikipedia.org/wiki/Palace_of_Westminster",
+    "extract": "The Palace of Westminster is the meeting place of the Parliament of the United Kingdom and is located in London, England. It is colloquially known as the Houses of Parliament after the House of Commons and the House of Lords, the two legislative chambers which occupy the building. The palace is one of the centres of political life in the United Kingdom; \"Westminster\" has become a metonym for the UK Parliament and government, and the Westminster system of government commemorates the name of the palace. The Elizabeth Tower of the palace houses the bell nicknamed Big Ben and is a landmark of London and the United Kingdom in general. The palace has been a Grade I listed building since 1970 and part of a UNESCO World Heritage Site since 1987.",
+    "description": "Meeting place of the UK Parliament",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg/330px-Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg",
+    "lat": 51.49916667,
+    "lon": -0.12472222,
+    "es": {
+      "title": "Palacio de Westminster",
+      "url": "https://es.wikipedia.org/wiki/Palacio_de_Westminster",
+      "extract": "El Palacio de Westminster, en inglés informalmente The Houses of Parliament, alberga las dos cámaras del Parlamento del Reino Unido. El palacio, que es uno de los cuatro lugares Patrimonio de la Humanidad de la ciudad de Londres, declarado por la Unesco en 1987, se encuentra situado en la orilla norte del río Támesis, en la ciudad de Westminster, cerca de varios edificios gubernamentales en Whitehall."
     }
   },
   "palace-of-whitehall": {
@@ -1385,6 +1604,20 @@
       "title": "Potosí",
       "url": "https://es.wikipedia.org/wiki/Potos%C3%AD",
       "extract": "Potosí, o Villa Imperial de Potosí, es una ciudad del suroeste de Bolivia, capital y ciudad más poblada del departamento homónimo y de la provincia de Frías. Fundada en 1545, fue uno de los centros mineros más importantes de la época colonial. Se extiende a las faldas de la legendaria montaña llamada Cerro Rico, en la cual se situó la mina de plata más grande del mundo desde mediados del siglo XVI hasta mediados del siglo XVII, convirtiéndola rápidamente en uno de los centros urbanos más prósperos y poblados del siglo XVI y XVII, llegando a financiar la economía del imperio español y mundial."
+    }
+  },
+  "prague": {
+    "title": "Prague",
+    "url": "https://en.wikipedia.org/wiki/Prague",
+    "extract": "Prague is the capital and largest city of the Czech Republic and the historical capital of Bohemia. Located on the Vltava River, the city has a population of about 1.4 million, making it the twelfth-largest city in the European Union. Its metropolitan area is home to approximately 2.3 million people.",
+    "description": "Capital and largest city of the Czech Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/330px-Prague_%286365119737%29.jpg",
+    "lat": 50.0875,
+    "lon": 14.42138889,
+    "es": {
+      "title": "Praga",
+      "url": "https://es.wikipedia.org/wiki/Praga",
+      "extract": "Praga es la capital de la República Checa y de la región de Bohemia. Situada a orillas del río Moldava, tiene aproximadamente 1,36 millones de habitantes, lo que la convierte en la ciudad más poblada del país y la séptima de Europa Central. El área metropolitana de Praga cuenta con una población de 2,7 millones de habitantes. Su belleza y patrimonio histórico la convierten en una de las veinte ciudades más visitadas del mundo."
     }
   },
   "recife": {
@@ -1704,6 +1937,20 @@
       "extract": "Steenvoorde es una comuna del Flandes francés, situada entre Lille y Dunkerque. Administrativamente pertenece al distrito de Dunkerque, en el departamento de Norte."
     }
   },
+  "stockholm": {
+    "title": "Stockholm",
+    "url": "https://en.wikipedia.org/wiki/Stockholm",
+    "extract": "Stockholm is the capital and most populous city of Sweden, as well as the largest urban area in the Nordic countries. Approximately 1 million people live in the municipality, with 1.6 million in the urban area, and 2.5 million in the metropolitan area. The city stretches across fourteen islands where Lake Mälaren flows into the Baltic Sea. Outside the city to the east, and along the coast, is the island chain of the Stockholm archipelago. The area has been settled since the Stone Age, in the 6th millennium BC, and was founded as a city in 1252 by Swedish statesman Birger Jarl. The city serves as the county seat of Stockholm County.",
+    "description": "Capital and most populous city of Sweden",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Munkbroleden_with_Kornhamstorg_at_Gamla_Stan%2C_Stockholm%2C_Sweden_01.jpg/330px-Munkbroleden_with_Kornhamstorg_at_Gamla_Stan%2C_Stockholm%2C_Sweden_01.jpg",
+    "lat": 59.32944444,
+    "lon": 18.06861111,
+    "es": {
+      "title": "Estocolmo",
+      "url": "https://es.wikipedia.org/wiki/Estocolmo",
+      "extract": "Estocolmo es la capital y además, la ciudad más grande de Suecia, en la que residen 972 647 personas y 2,4 millones en su área metropolitana. La ciudad está compuesta por 14 islas donde el lago Mälar desemboca en el mar Báltico. En el este de la ciudad, y a lo largo de la costa, se encuentra la cadena de islas conocida como el archipiélago de Estocolmo. Estocolmo ha estado poblada por humanos desde la Edad de Piedra, en el sexto milenio antes de Cristo, y fue fundada como ciudad en 1252 por el estadista sueco Birger Jarl. Es también la sede del Condado de Estocolmo."
+    }
+  },
   "subiaco": {
     "title": "Subiaco, Lazio",
     "url": "https://en.wikipedia.org/wiki/Subiaco%2C_Lazio",
@@ -1730,6 +1977,20 @@
       "title": "México-Tenochtitlan",
       "url": "https://es.wikipedia.org/wiki/M%C3%A9xico-Tenochtitlan",
       "extract": "Tenochtitlan, también conocida como México-Tenochtitlan (), fue el altépetl (ciudad-estado) de la civilización mexica y capital de la Triple Alianza,de la que formaba parte junto a Tetzcuco y Tlacopan. Durante la conquista española fue destruida y se fundó sobre sus restos la Ciudad de México, que fue la capital del Virreinato de la Nueva España y luego la capital de los Estados Unidos Mexicanos."
+    }
+  },
+  "the-hague": {
+    "title": "The Hague",
+    "url": "https://en.wikipedia.org/wiki/The_Hague",
+    "extract": "The Hague is the capital city of the South Holland province of the Netherlands. With a population of over half a million, it is the third-largest city in the Netherlands. Situated on the west coast facing the North Sea, The Hague is the country's administrative centre and its seat of government, and has been described as the country's de facto capital since the time of the Dutch Republic, while Amsterdam is the official capital of the Netherlands.",
+    "description": "City and municipality in the Netherlands",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Den_Haag_Skyline_1.jpg/330px-Den_Haag_Skyline_1.jpg",
+    "lat": 52.08,
+    "lon": 4.31,
+    "es": {
+      "title": "La Haya",
+      "url": "https://es.wikipedia.org/wiki/La_Haya",
+      "extract": "La Haya es una ciudad de los Países Bajos, capital administrativa del país y sede de la realeza neerlandesa. Es conocida mundialmente por albergar las sedes del Tribunal Internacional de Justicia y la Corte Penal Internacional."
     }
   },
   "tlaxcala": {
@@ -1856,6 +2117,20 @@
       "title": "Galería Uffizi",
       "url": "https://es.wikipedia.org/wiki/Galer%C3%ADa_Uffizi",
       "extract": "La Galería Uffizi es un palacio y museo de Florencia que posee una de las más antiguas e importantes colecciones de arte del mundo. Es una de las atracciones turísticas más visitadas de Florencia y la pinacoteca más concurrida de Italia, que en 2019 recibió 2,8 millones de visitantes."
+    }
+  },
+  "utrecht": {
+    "title": "Utrecht",
+    "url": "https://en.wikipedia.org/wiki/Utrecht",
+    "extract": "Utrecht is the fourth-largest city of the Netherlands, as well as the capital and the most populous city of the province of Utrecht. The municipality of Utrecht is located in the eastern part of the Randstad conurbation, in the very centre of mainland Netherlands, and includes Haarzuilens, Vleuten and De Meern. It has a population of 378,140 as of January 2026.",
+    "description": "City and municipality in Utrecht, Netherlands",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Utrecht_%2816295236803%29.jpg/330px-Utrecht_%2816295236803%29.jpg",
+    "lat": 52.09083333,
+    "lon": 5.12166667,
+    "es": {
+      "title": "Utrecht",
+      "url": "https://es.wikipedia.org/wiki/Utrecht",
+      "extract": "Utrecht es una ciudad de los Países Bajos, capital de la provincia homónima. Ubicada en la parte central del país, se trata de la cuarta ciudad en importancia."
     }
   },
   "valencia": {
