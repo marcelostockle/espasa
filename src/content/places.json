@@ -620,6 +620,15 @@
       }
     }
   },
+  "marburg": {
+    "label": "Marburg",
+    "wikipedia": "Marburg",
+    "translations": {
+      "es": {
+        "label": "Marburgo"
+      }
+    }
+  },
   "medellin": {
     "label": "Medellín",
     "wikipedia": "Medellín, Spain",

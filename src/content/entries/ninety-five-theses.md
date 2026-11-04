@@ -1,8 +1,8 @@
 ---
 title: "Luther's Ninety-five Theses"
 summary: "Martin Luther's challenge to indulgences sparks the Protestant Reformation."
-date: { year: 1517, month: 10, day: 31 }
-tags: ["religion","politics","technology","protestant-reformation"]
+date: {"year":1517,"month":10,"day":31}
+tags: ["religion","politics","technology","protestant-reformation","martin-luther"]
 translations: {"es":{"title":"Las noventa y cinco tesis de Lutero","summary":"El desafío de Martín Lutero a las indulgencias desencadena la Reforma protestante."}}
 ---
 

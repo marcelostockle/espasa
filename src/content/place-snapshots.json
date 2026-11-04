@@ -958,6 +958,20 @@
       "extract": "Mantua es una ciudad italiana ubicada en la región de Lombardía, capital de la provincia homónima. Está rodeada en tres de sus lados por el río Mincio. Centro agrícola y turístico, posee fábricas que producen maquinaria agrícola, fertilizantes, muebles, calzado y juguetes. Es el escenario de la ópera Rigoletto. Mantua fue nombrada Capital de la Cultura Italiana en 2016."
     }
   },
+  "marburg": {
+    "title": "Marburg",
+    "url": "https://en.wikipedia.org/wiki/Marburg",
+    "extract": "Marburg is a university town in the German state of Hesse and the capital of the Marburg-Biedenkopf district. The town area spreads along the valley of the river Lahn and has a population of approximately 76,000.",
+    "description": "Town in Hesse, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Marburg_Schloss.jpg/330px-Marburg_Schloss.jpg",
+    "lat": 50.81,
+    "lon": 8.77083333,
+    "es": {
+      "title": "Marburgo",
+      "url": "https://es.wikipedia.org/wiki/Marburgo",
+      "extract": "Marburgo es una ciudad del estado federado de Hesse, Alemania, en el valle del río Lahn, que atraviesa la ciudad. Desde el siglo XII es una ciudad libre y es por esta herencia medieval que junto a otras seis ciudades de Hesse tiene actualmente un estatuto especial. Es uno de los mayores empleadores y el factor económico más importante de la región. Tiene aproximadamente 80 000 habitantes."
+    }
+  },
   "medellin": {
     "title": "Medellín, Spain",
     "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn%2C_Spain",
