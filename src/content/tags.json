@@ -400,6 +400,21 @@
       }
     }
   },
+  "humanism": {
+    "label": "Humanism",
+    "color": "#6d9eeb",
+    "description": "The Renaissance movement that recovered, edited and taught Greek and Latin classics, and the scholars, libraries and academies behind it.",
+    "categories": [
+      "Culture",
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Humanismo",
+        "description": "El movimiento renacentista que recuperó, editó y enseñó los clásicos griegos y latinos, y los eruditos, bibliotecas y academias que lo impulsaron."
+      }
+    }
+  },
   "iberian-reconquista": {
     "label": "Iberian Reconquista",
     "color": "#ff6d00",

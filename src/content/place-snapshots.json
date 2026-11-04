@@ -557,6 +557,34 @@
       "extract": "Dresde es la capital del estado federado de Sajonia, en Alemania. Limita al noroeste con el distrito de Meißen, al noreste con el de Bautzen y al sur con el de distrito de Suiza Sajona-Montes Metálicos Orientales. Dresde se encuentra justo en el centro de la conurbación homónima. Esta aglomeración, junto con la de Chemnitz-Zwickau y la de Leipzig-Halle, constituyen la llamada “región metropolitana del triángulo sajón”. La población total de Dresde supera los 550 000 habitantes y su correspondiente Regierungsbezirk o región administrativa, el millón y medio."
     }
   },
+  "florence": {
+    "title": "Florence",
+    "url": "https://en.wikipedia.org/wiki/Florence",
+    "extract": "Florence is the capital and most populous city of the Italian region of Tuscany, and, as of 2026, with a population of 361,625, the 8th most populous city in the country. It is also the capital of the eponymous metropolitan province, which counts 988,494 inhabitants, while Eurostat estimates that 696,767 people live in the urban area of Florence. The Metropolitan Area of Florence, Prato and Pistoia, constituted in 2000 over an area of roughly 4,800 square kilometres (1,850 sq mi), is home to 1.5 million people.",
+    "description": "Largest city in Tuscany, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg/330px-Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg",
+    "lat": 43.77138889,
+    "lon": 11.25416667,
+    "es": {
+      "title": "Florencia",
+      "url": "https://es.wikipedia.org/wiki/Florencia",
+      "extract": "Florencia es una ciudad situada en el norte de la región central de Italia; capital y ciudad más poblada de la ciudad metropolitana homónima y de la región de Toscana, de la que es su centro histórico, artístico, económico y administrativo. Cuenta con unos 362 353 habitantes y es el centro de un área metropolitana de aproximadamente un millón y medio de habitantes."
+    }
+  },
+  "florence-cathedral": {
+    "title": "Florence Cathedral",
+    "url": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+    "extract": "Florence Cathedral, formally the Cathedral of Saint Mary of the Flower, is the cathedral of the Catholic Archdiocese of Florence in Florence, Italy. Commenced in 1296 in the Gothic style to a design of Arnolfo di Cambio and completed by 1436 with a dome engineered by Filippo Brunelleschi, the basilica's exterior is faced with polychrome marble panels in various shades of green and pink, alternated by white, and features an elaborate 19th-century Gothic Revival western façade by Emilio De Fabris.",
+    "description": "Church in Tuscany, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/330px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+    "lat": 43.77305556,
+    "lon": 11.25694444,
+    "es": {
+      "title": "Catedral de Santa María del Fiore",
+      "url": "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_del_Fiore",
+      "extract": "La basílica catedral metropolitana de Santa María de la Flor, es la sede episcopal de la arquidiócesis de Florencia, Italia. Es una de las obras maestras de la primera arquitectura renacentista del Renacimiento italiano."
+    }
+  },
   "fontainebleau": {
     "title": "Fontainebleau",
     "url": "https://en.wikipedia.org/wiki/Fontainebleau",
@@ -972,6 +1000,20 @@
       "extract": "París es la capital de Francia y de la región de Isla de Francia. Es la ciudad más poblada del país y el único departamento unicomunal de Francia. Su área metropolitana es la más grande en población de toda la Unión Europea."
     }
   },
+  "pavia": {
+    "title": "Pavia",
+    "url": "https://en.wikipedia.org/wiki/Pavia",
+    "extract": "Pavia is a town and comune in south-western Lombardy, Northern Italy, 35 kilometres south of Milan on the lower Ticino near its confluence with the Po. It has a population of about 73,086.",
+    "description": "Comune in Lombardy, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/20160807-Pavia-002.jpg/330px-20160807-Pavia-002.jpg",
+    "lat": 45.185,
+    "lon": 9.15416667,
+    "es": {
+      "title": "Pavía",
+      "url": "https://es.wikipedia.org/wiki/Pav%C3%ADa",
+      "extract": "Pavía es una ciudad italiana de la región de Lombardía, capital de la provincia homónima. Tiene una población de 71 000 habitantes. El río Ticino cruza la ciudad, antes de confluir con el río Po. En el período romano se llamó Ticinum. La ciudad fue la capital del Reino Ostrogodo del 540 al 553, del Reino Lombardo de 572 a 774, del Reino de Italia de 774 a 1024 y sede de la corte Visconti de 1365 a 1413."
+    }
+  },
   "pisco": {
     "title": "Pisco, Peru",
     "url": "https://en.wikipedia.org/wiki/Pisco%2C_Peru",
@@ -1270,6 +1312,20 @@
       "extract": "Sremski Karlovci es una villa y municipio de Serbia, en el distrito de Bačka del Sur, en la provincia autónoma de Voivodina."
     }
   },
+  "subiaco": {
+    "title": "Subiaco, Lazio",
+    "url": "https://en.wikipedia.org/wiki/Subiaco%2C_Lazio",
+    "extract": "Subiaco is a comune (municipality) in the Metropolitan City of Rome Capital, in the Italian region of Latium, 40 kilometres (25 mi) from Tivoli alongside the River Aniene. It is a tourist and religious resort because of its sacred grotto, in the medieval St. Benedict's Abbey, and its Abbey of Santa Scolastica. It is one of I Borghi più belli d'Italia. The first books to be printed in Italy were produced here in the late 15th century.",
+    "description": "Comune in Lazio, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Subiaco_01.jpg/330px-Subiaco_01.jpg",
+    "lat": 41.93333333,
+    "lon": 13.1,
+    "es": {
+      "title": "Subiaco",
+      "url": "https://es.wikipedia.org/wiki/Subiaco",
+      "extract": "Subiaco es un municipio de 9.332 habitantes, a 408 m s. n. m. en el valle superior del Aniene, en la ribera oriental del río."
+    }
+  },
   "tenochtitlan": {
     "title": "Tenochtitlan",
     "url": "https://en.wikipedia.org/wiki/Tenochtitlan",
@@ -1394,6 +1450,20 @@
       "title": "Varennes-en-Argonne",
       "url": "https://es.wikipedia.org/wiki/Varennes-en-Argonne",
       "extract": " Varennes-en-Argonne  es una población y comuna francesa, en la región de Lorena, departamento de Mosa, en el Distrito de Verdún y cantón de Varennes-en-Argonne."
+    }
+  },
+  "venice": {
+    "title": "Venice",
+    "url": "https://en.wikipedia.org/wiki/Venice",
+    "extract": "Venice is a coastal city in northeastern Italy and the capital of the region of Veneto, as well as the Metropolitan City of Venice. It is built on a group of 126 islands that are separated by expanses of open water and by canals; portions of the city are linked by 472 bridges.",
+    "description": "City in Veneto, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/330px-Venezia_aerial_view.jpg",
+    "lat": 45.4375,
+    "lon": 12.33583333,
+    "es": {
+      "title": "Venecia",
+      "url": "https://es.wikipedia.org/wiki/Venecia",
+      "extract": "Venecia es una ciudad ubicada en el noreste de Italia. Es también la capital de la región véneta y de la ciudad metropolitana de Venecia. Su centro histórico, declarado Patrimonio de la Humanidad por la Unesco, está situado en un conjunto de islas en la laguna de Venecia, en el norte del mar Adriático. Su particularidad geográfica, así como su milenaria historia y su riquísimo patrimonio monumental y artístico, han hecho de Venecia uno de los destinos turísticos más impactantes y populares del mundo."
     }
   },
   "veracruz": {

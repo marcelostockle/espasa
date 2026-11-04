@@ -359,6 +359,24 @@
       }
     }
   },
+  "florence": {
+    "label": "Florence",
+    "wikipedia": "Florence",
+    "translations": {
+      "es": {
+        "label": "Florencia"
+      }
+    }
+  },
+  "florence-cathedral": {
+    "label": "Florence Cathedral",
+    "wikipedia": "Florence Cathedral",
+    "translations": {
+      "es": {
+        "label": "Catedral de Florencia"
+      }
+    }
+  },
   "fontainebleau": {
     "label": "Fontainebleau",
     "wikipedia": "Fontainebleau",
@@ -629,6 +647,15 @@
       }
     }
   },
+  "pavia": {
+    "label": "Pavia",
+    "wikipedia": "Pavia",
+    "translations": {
+      "es": {
+        "label": "Pavía"
+      }
+    }
+  },
   "pisco": {
     "label": "Pisco",
     "wikipedia": "Pisco, Peru",
@@ -827,6 +854,15 @@
       }
     }
   },
+  "subiaco": {
+    "label": "Subiaco",
+    "wikipedia": "Subiaco, Lazio",
+    "translations": {
+      "es": {
+        "label": "Subiaco"
+      }
+    }
+  },
   "tenochtitlan": {
     "label": "Tenochtitlan",
     "wikipedia": "Tenochtitlan",
@@ -905,6 +941,15 @@
     "translations": {
       "es": {
         "label": "Varennes-en-Argonne"
+      }
+    }
+  },
+  "venice": {
+    "label": "Venice",
+    "wikipedia": "Venice",
+    "translations": {
+      "es": {
+        "label": "Venecia"
       }
     }
   },
