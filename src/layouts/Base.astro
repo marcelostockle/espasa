@@ -127,5 +127,11 @@ const path = stripLocale(Astro.url.pathname);
     font-weight: 500;
     text-decoration: none;
   }
+  /* Neutral text and border, with the tag color only as a soft gradient wash. */
+  .chip.tinted {
+    color: var(--fg);
+    border-color: color-mix(in srgb, var(--tint) 45%, var(--line));
+    background: linear-gradient(90deg, color-mix(in srgb, var(--tint) 24%, transparent), color-mix(in srgb, var(--tint) 6%, transparent));
+  }
   .date { color: var(--muted); font-variant-numeric: tabular-nums; }
 </style>

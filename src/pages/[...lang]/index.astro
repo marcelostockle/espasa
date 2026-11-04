@@ -69,7 +69,7 @@ function compareUrl(f: (typeof featured)[number]) {
             <h3>{categoryName(group.category, locale)}</h3>
             <p>
               {group.tags.map((tag) => (
-                <a class="chip" style={`--chip:${tag.color}`} href={localePath(locale, `/tags/${tag.id}/`)}>
+                <a class="chip tinted" style={`--tint:${tag.color}`} href={localePath(locale, `/tags/${tag.id}/`)}>
                   {tag.label} <span class="n">{tag.count}</span>
                 </a>
               ))}

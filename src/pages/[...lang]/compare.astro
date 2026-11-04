@@ -92,8 +92,8 @@ const strings = t(locale);
         row.append(
           ...members.map((t) => {
             const label = document.createElement('label');
-            label.className = 'chip pick';
-            label.style.setProperty('--chip', t.color);
+            label.className = 'chip tinted pick';
+            label.style.setProperty('--tint', t.color);
             const box = document.createElement('input');
             box.type = 'checkbox';
             box.checked = selected.has(t.id);
@@ -230,8 +230,11 @@ const strings = t(locale);
     margin-right: 0.25rem;
   }
   .pick { cursor: pointer; }
-  .pick:has(input:checked) { background: color-mix(in srgb, var(--chip) 18%, transparent); }
-  .pick input { accent-color: var(--chip); }
+  .pick input { accent-color: var(--tint); }
+  .pick:has(input:checked) {
+    border-color: var(--tint);
+    background: linear-gradient(90deg, color-mix(in srgb, var(--tint) 45%, transparent), color-mix(in srgb, var(--tint) 15%, transparent));
+  }
   .grid {
     display: grid;
     grid-template-columns: 9rem repeat(var(--cols, 1), minmax(9rem, 1fr));
