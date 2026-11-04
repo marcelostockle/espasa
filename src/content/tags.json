@@ -541,6 +541,20 @@
       }
     }
   },
+  "hungary": {
+    "label": "Hungary",
+    "color": "#6d4c41",
+    "description": "The Kingdom of Hungary and Transylvania, divided between Habsburgs, Ottomans and Transylvanian princes after Mohács in 1526.",
+    "categories": [
+      "States/Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Hungría",
+        "description": "El Reino de Hungría y Transilvania, repartido entre Habsburgo, otomanos y príncipes transilvanos tras Mohács en 1526."
+      }
+    }
+  },
   "iberian-reconquista": {
     "label": "Iberian Reconquista",
     "color": "#ff6d00",
@@ -1150,6 +1164,20 @@
       "es": {
         "label": "Tecnología",
         "description": "Invenciones e ingeniería."
+      }
+    }
+  },
+  "thirty-years-war": {
+    "label": "Thirty Years' War",
+    "color": "#4a148c",
+    "description": "The general European war of 1618–1648, from the Bohemian Revolt and the Defenestration of Prague to the Peace of Westphalia.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra de los Treinta Años",
+        "description": "La guerra general europea de 1618-1648, desde la revuelta de Bohemia y la Defenestración de Praga hasta la Paz de Westfalia."
       }
     }
   },

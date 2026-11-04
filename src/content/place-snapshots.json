@@ -209,6 +209,20 @@
       "extract": "Babilonia fue una antigua ciudad de la Baja Mesopotamia situada cerca de la actual ciudad de Hilla en Irak. Fue la capital del antiguo reino babilónico, y durante varios siglos fue considerada un importante centro de comercio, arte y aprendizaje."
     }
   },
+  "bad-wimpfen": {
+    "title": "Bad Wimpfen",
+    "url": "https://en.wikipedia.org/wiki/Bad_Wimpfen",
+    "extract": "Bad Wimpfen is a historic spa town in the district of Heilbronn in the Baden-Württemberg region of southern Germany. It lies north of the city of Heilbronn, on the river Neckar.",
+    "description": "Town in Baden-Württemberg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Wimpfen-burgviertel-panoram.jpg/330px-Wimpfen-burgviertel-panoram.jpg",
+    "lat": 49.23333333,
+    "lon": 9.16666667,
+    "es": {
+      "title": "Bad Wimpfen",
+      "url": "https://es.wikipedia.org/wiki/Bad_Wimpfen",
+      "extract": "Bad Wimpfen es una ciudad en el estado federado de Baden-Wurtemberg, Alemania. Está situada en el distrito de Heilbronn, al norte de la ciudad de Heilbronn, a orillas del río Neckar."
+    }
+  },
   "badajoz": {
     "title": "Badajoz",
     "url": "https://en.wikipedia.org/wiki/Badajoz",
@@ -249,6 +263,20 @@
       "title": "Península de Baja California",
       "url": "https://es.wikipedia.org/wiki/Pen%C3%ADnsula_de_Baja_California",
       "extract": "La península de Baja California, está localizada al noroeste de México. Penetra en el océano Pacífico, formando el golfo de California entre su costa oriental y las costas de Sonora y Sinaloa. Tiene una longitud aproximada de 1250 km y comprende los estados mexicanos de Baja California y Baja California Sur. Inicia en la frontera de México con Estados Unidos y termina en un cabo con enormes formaciones rocosas, entre las que se encuentra el llamado Arco Monumental."
+    }
+  },
+  "banska-bystrica": {
+    "title": "Banská Bystrica",
+    "url": "https://en.wikipedia.org/wiki/Bansk%C3%A1_Bystrica",
+    "extract": "Banská Bystrica is a city in central Slovakia, located on the Hron River in a long and wide valley encircled by the mountain chains of the Low Tatras, the Veľká Fatra, and the Kremnica Mountains. With approximately 76,000 inhabitants, Banská Bystrica is the sixth most populous municipality in Slovakia. The present-day town was founded by German settlers who were invited by the Hungarian Árpád kings during the Middle Ages, but it was built upon a former Slavic/Slovak/Avar settlement. It became a part of Zólyom County after Hungarian conquest. In 1255, during the reign of Béla IV of Hungary, it obtained the municipal privileges of a free royal town of the Kingdom of Hungary and was resettled by Germans from Thüringen. The copper mining town acquired its present picturesque look in the late Middle Ages when the prosperous burghers built its central churches, mansions, and fortifications. It is the capital of the kraj and the okres. It is also the home of Matej Bel University. As a historical town with easy access to the surrounding mountains, Banská Bystrica is a popular winter and summer tourist destination.",
+    "description": "City in Slovakia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Banska_Bystrica_SNP_Square.jpg/330px-Banska_Bystrica_SNP_Square.jpg",
+    "lat": 48.73527778,
+    "lon": 19.14527778,
+    "es": {
+      "title": "Banská Bystrica",
+      "url": "https://es.wikipedia.org/wiki/Bansk%C3%A1_Bystrica",
+      "extract": "Banská Bystrica es una ciudad de Eslovaquia situada a orillas del río Hron. Según el número de habitantes es la tercera en Eslovaquia."
     }
   },
   "barcelona": {
@@ -849,6 +877,20 @@
       "extract": "Donauwörth es una ciudad en la región administrativa de Suabia del Estado libre de Baviera, en Alemania."
     }
   },
+  "dordrecht": {
+    "title": "Dordrecht",
+    "url": "https://en.wikipedia.org/wiki/Dordrecht",
+    "extract": "Dordrecht, historically known in English as Dordt or Dort, is a city and municipality in the Western Netherlands, located in the province of South Holland. It is the province's fifth-largest city after Rotterdam, The Hague, Leiden, and Zoetermeer, with a population of 123,000 (2025).",
+    "description": "City and municipality in South Holland, Netherlands",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Augustijnenkamp%2C_3311_Dordrecht%2C_Netherlands_-_panoramio_%282%29.jpg/330px-Augustijnenkamp%2C_3311_Dordrecht%2C_Netherlands_-_panoramio_%282%29.jpg",
+    "lat": 51.79583333,
+    "lon": 4.67833333,
+    "es": {
+      "title": "Dordrecht",
+      "url": "https://es.wikipedia.org/wiki/Dordrecht",
+      "extract": "Dordrecht es una ciudad y también un municipio de la Holanda Meridional, en los Países Bajos. Cuenta con 118.889 habitantes y es la cuarta ciudad más poblada de la provincia después de Róterdam, La Haya y Zoetermeer."
+    }
+  },
   "douai": {
     "title": "Douai",
     "url": "https://en.wikipedia.org/wiki/Douai",
@@ -945,6 +987,20 @@
       "title": "Fort de Joux",
       "url": "https://es.wikipedia.org/wiki/Fort_de_Joux",
       "extract": "El Fort de Joux o castillo de Joux es un castillo medieval francés, convertido en una fortaleza, situada en La Cluse-et-Mijoux, en el departamento de Doubs, en las montañas del Jura. Custodiaba el paso de montaña \"Cluse de Pontarlier\"."
+    }
+  },
+  "frankfurt": {
+    "title": "Frankfurt",
+    "url": "https://en.wikipedia.org/wiki/Frankfurt",
+    "extract": "Frankfurt am Main, usually shortened to Frankfurt, is the most populous city in the German state of Hesse. Its 778,589 inhabitants as of 2025 make it the fifth-most populous city in Germany. Located in the foreland of the Taunus on its namesake river Main, the city forms a continuous conurbation with Offenbach; its urban area has a population of more than 2.7 million. Frankfurt is the heart of the larger Rhine-Main metropolitan region, which has a population of more than 5.8 million and is Germany's fourth-largest metropolitan region after the Rhine-Ruhr region, the Berlin/Brandenburg Metropolitan Region and the Munich Metropolitan Region. Home to the European Central Bank, the city serves as one of the four institutional seats of the European Union. Frankfurt is classified by the GaWC as an Alpha world city.",
+    "description": "Largest city in Hesse, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Frankfurt_am_Main%2C_Central_business_district_%282024%29.jpg/330px-Frankfurt_am_Main%2C_Central_business_district_%282024%29.jpg",
+    "lat": 50.11055556,
+    "lon": 8.68222222,
+    "es": {
+      "title": "Fráncfort del Meno",
+      "url": "https://es.wikipedia.org/wiki/Fr%C3%A1ncfort_del_Meno",
+      "extract": "Fráncfort del Meno, comúnmente llamada Fráncfort, es una ciudad financiera y comercial de Hesse, Alemania. Con 763 380 habitantes, es también la quinta ciudad más poblada del país. De acuerdo con Eurostat, la aglomeración urbana de la que Fráncfort forma parte cuenta con 2 500 000 habitantes. Aunque la capital administrativa de Hesse es Wiesbaden, Fráncfort tiene una importancia económica mayor tanto en el estado como en Alemania y en la Unión Europea."
     }
   },
   "fribourg": {
@@ -1299,6 +1355,20 @@
       "extract": "Kalmar es una ciudad en Småland al sureste de Suecia, situada a orillas del mar Báltico."
     }
   },
+  "kosice": {
+    "title": "Košice",
+    "url": "https://en.wikipedia.org/wiki/Ko%C5%A1ice",
+    "extract": "Košice is the largest city in eastern Slovakia. It is situated on the river Hornád at the eastern reaches of the Slovak Ore Mountains, near the border with Hungary and Ukraine. With a population of approximately 230,000, Košice is the second-largest city in Slovakia, after the capital Bratislava.",
+    "description": "City in Slovakia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/D%C3%B3m_sv%C3%A4tej_Al%C5%BEbety.jpg/330px-D%C3%B3m_sv%C3%A4tej_Al%C5%BEbety.jpg",
+    "lat": 48.71666667,
+    "lon": 21.25,
+    "es": {
+      "title": "Košice",
+      "url": "https://es.wikipedia.org/wiki/Ko%C5%A1ice",
+      "extract": "Košice es la segunda ciudad más poblada de Eslovaquia. Está localizada en la parte este del país, en el valle del río Hornád en el valle de Košice, rodeada por las montañas de Čierna Hora al norte y las montañas Volovské Vrchy al oeste. Es sede de varias universidades y del Tribunal Constitucional de Eslovaquia."
+    }
+  },
   "la-isabela": {
     "title": "La Isabela",
     "url": "https://en.wikipedia.org/wiki/La_Isabela",
@@ -1481,6 +1551,20 @@
       "extract": "Medellín es un municipio y localidad española de la provincia de Badajoz, en la comunidad autónoma de Extremadura. De fundación romana, cabecera del condado homónimo durante la Edad Media y cuna de Hernán Cortés."
     }
   },
+  "mikulov": {
+    "title": "Mikulov",
+    "url": "https://en.wikipedia.org/wiki/Mikulov",
+    "extract": "Mikulov is a town in Břeclav District in the South Moravian Region of the Czech Republic. It has about 7,600 inhabitants. The town is located on the border with Austria, mainly in the Mikulov Highlands and within the Pálava Protected Landscape Area.",
+    "description": "Town in South Moravian Region, Czech Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2019-11-06_13-04-11_Pentax_JH.jpg/330px-2019-11-06_13-04-11_Pentax_JH.jpg",
+    "lat": 48.80555556,
+    "lon": 16.63777778,
+    "es": {
+      "title": "Míkulov",
+      "url": "https://es.wikipedia.org/wiki/M%C3%ADkulov",
+      "extract": "Míkulov es una ciudad de la región de Moravia del sur de la República Checa, en la frontera con Baja Austria."
+    }
+  },
   "moca": {
     "title": "Moca, Dominican Republic",
     "url": "https://en.wikipedia.org/wiki/Moca%2C_Dominican_Republic",
@@ -1659,6 +1743,20 @@
       "title": "Noyon",
       "url": "https://es.wikipedia.org/wiki/Noyon",
       "extract": "Noyon es un municipio del departamento del Oise, capital de distrito en la región de Picardía de Francia.\nSu gentilicio es Noyonnais y su apelativo Friands de Noyon."
+    }
+  },
+  "oppenheim": {
+    "title": "Oppenheim",
+    "url": "https://en.wikipedia.org/wiki/Oppenheim",
+    "extract": "Oppenheim is a town in the Mainz-Bingen district of Rhineland-Palatinate, Germany.",
+    "description": "Town in Rhineland-Palatinate, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Oppenheim_Luftbild_101.jpg/330px-Oppenheim_Luftbild_101.jpg",
+    "lat": 49.85555556,
+    "lon": 8.36027778,
+    "es": {
+      "title": "Oppenheim (Alemania)",
+      "url": "https://es.wikipedia.org/wiki/Oppenheim_(Alemania)",
+      "extract": "Oppenheim es una ciudad alemana ubicada en la orilla oeste del Rhin, en el estado federado de Renania-Palatinado, distrito de Maguncia-Bingen. Constituye un importante centro vinícola de la región."
     }
   },
   "ostroh": {
@@ -2237,6 +2335,20 @@
       "extract": "La basílica papal de San Pedro, conocida comúnmente como basílica de San Pedro, es un templo católico situado en la Ciudad del Vaticano."
     }
   },
+  "stadtlohn": {
+    "title": "Stadtlohn",
+    "url": "https://en.wikipedia.org/wiki/Stadtlohn",
+    "extract": "Stadtlohn is a city in western Münsterland in the northwest of North Rhine-Westphalia, and is a district town of the Borken administrative district. The city had 20,856 inhabitants as of 2025. The River Berkel flows through the city on its way to the Netherlands.",
+    "description": "Town in North Rhine-Westphalia, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/M%C3%BChlenstra%C3%9Fe_Stadtlohn.JPG/330px-M%C3%BChlenstra%C3%9Fe_Stadtlohn.JPG",
+    "lat": 51.9925,
+    "lon": 6.915,
+    "es": {
+      "title": "Stadtlohn",
+      "url": "https://es.wikipedia.org/wiki/Stadtlohn",
+      "extract": "Stadtlohn es una ciudad en el noroeste de Renania del Norte-Westfalia, Alemania, parte del distrito Borken. El río Berkel fluye a través de ella hacia los Países Bajos."
+    }
+  },
   "steenvoorde": {
     "title": "Steenvoorde",
     "url": "https://en.wikipedia.org/wiki/Steenvoorde",
@@ -2473,6 +2585,20 @@
       "title": "Galería Uffizi",
       "url": "https://es.wikipedia.org/wiki/Galer%C3%ADa_Uffizi",
       "extract": "La Galería Uffizi es un palacio y museo de Florencia que posee una de las más antiguas e importantes colecciones de arte del mundo. Es una de las atracciones turísticas más visitadas de Florencia y la pinacoteca más concurrida de Italia, que en 2019 recibió 2,8 millones de visitantes."
+    }
+  },
+  "ulm": {
+    "title": "Ulm",
+    "url": "https://en.wikipedia.org/wiki/Ulm",
+    "extract": "Ulm is the sixth-largest city of the southwestern German state of Baden-Württemberg, and with around 130,000 inhabitants, it is Germany's 60th-largest city.",
+    "description": "City in Baden-Württemberg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ulm_Panorama_01.jpg/330px-Ulm_Panorama_01.jpg",
+    "lat": 48.39861111,
+    "lon": 9.99111111,
+    "es": {
+      "title": "Ulm",
+      "url": "https://es.wikipedia.org/wiki/Ulm",
+      "extract": "Ulm es una ciudad alemana situada en el estado de Baden-Wurtemberg. Tiene una población estimada, a fines de marzo de 2026, de 130 161 habitantes."
     }
   },
   "utrecht": {

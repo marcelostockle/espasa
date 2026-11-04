@@ -134,6 +134,15 @@
       }
     }
   },
+  "bad-wimpfen": {
+    "label": "Bad Wimpfen",
+    "wikipedia": "Bad Wimpfen",
+    "translations": {
+      "es": {
+        "label": "Bad Wimpfen"
+      }
+    }
+  },
   "badajoz": {
     "label": "Badajoz",
     "wikipedia": "Badajoz",
@@ -158,6 +167,15 @@
     "translations": {
       "es": {
         "label": "Baja California"
+      }
+    }
+  },
+  "banska-bystrica": {
+    "label": "Banská Bystrica",
+    "wikipedia": "Banská Bystrica",
+    "translations": {
+      "es": {
+        "label": "Banská Bystrica"
       }
     }
   },
@@ -548,6 +566,15 @@
       }
     }
   },
+  "dordrecht": {
+    "label": "Dordrecht",
+    "wikipedia": "Dordrecht",
+    "translations": {
+      "es": {
+        "label": "Dordrecht"
+      }
+    }
+  },
   "douai": {
     "label": "Douai",
     "wikipedia": "Douai",
@@ -608,6 +635,15 @@
     "translations": {
       "es": {
         "label": "Fort de Joux"
+      }
+    }
+  },
+  "frankfurt": {
+    "label": "Frankfurt",
+    "wikipedia": "Frankfurt",
+    "translations": {
+      "es": {
+        "label": "Fráncfort del Meno"
       }
     }
   },
@@ -845,6 +881,15 @@
       }
     }
   },
+  "kosice": {
+    "label": "Košice",
+    "wikipedia": "Košice",
+    "translations": {
+      "es": {
+        "label": "Košice"
+      }
+    }
+  },
   "la-isabela": {
     "label": "La Isabela",
     "wikipedia": "La Isabela",
@@ -962,6 +1007,15 @@
       }
     }
   },
+  "mikulov": {
+    "label": "Mikulov",
+    "wikipedia": "Mikulov",
+    "translations": {
+      "es": {
+        "label": "Mikulov"
+      }
+    }
+  },
   "moca": {
     "label": "Moca",
     "wikipedia": "Moca, Dominican Republic",
@@ -1076,6 +1130,15 @@
     "translations": {
       "es": {
         "label": "Noyon"
+      }
+    }
+  },
+  "oppenheim": {
+    "label": "Oppenheim",
+    "wikipedia": "Oppenheim",
+    "translations": {
+      "es": {
+        "label": "Oppenheim"
       }
     }
   },
@@ -1457,6 +1520,15 @@
       }
     }
   },
+  "stadtlohn": {
+    "label": "Stadtlohn",
+    "wikipedia": "Stadtlohn",
+    "translations": {
+      "es": {
+        "label": "Stadtlohn"
+      }
+    }
+  },
   "steenvoorde": {
     "label": "Steenvoorde",
     "wikipedia": "Steenvoorde",
@@ -1607,6 +1679,15 @@
     "translations": {
       "es": {
         "label": "Galería de los Uffizi"
+      }
+    }
+  },
+  "ulm": {
+    "label": "Ulm",
+    "wikipedia": "Ulm",
+    "translations": {
+      "es": {
+        "label": "Ulm"
       }
     }
   },
