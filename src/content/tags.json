@@ -457,6 +457,20 @@
       }
     }
   },
+  "john-calvin": {
+    "label": "John Calvin",
+    "color": "#4b5d8a",
+    "description": "French theologian and reformer (1509–1564) of Geneva, whose Institutes and church order shaped the Reformed tradition.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Juan Calvino",
+        "description": "Teólogo y reformador francés (1509–1564) de Ginebra, cuyas Institutas y cuyo orden eclesiástico dieron forma a la tradición reformada."
+      }
+    }
+  },
   "jose-de-san-martin": {
     "label": "José de San Martín",
     "color": "#ec407a",
@@ -524,6 +538,20 @@
       "es": {
         "label": "Marco Polo",
         "description": "Marco Polo (h. 1254-1324), mercader veneciano cuyos viajes por Asia y cuyo libro, los Viajes, marcaron el conocimiento europeo de Oriente."
+      }
+    }
+  },
+  "martin-luther": {
+    "label": "Martin Luther",
+    "color": "#c44d58",
+    "description": "German theologian and Augustinian friar (1483–1546) whose challenge to indulgences and papal authority began the Protestant Reformation.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Martín Lutero",
+        "description": "Teólogo y fraile agustino alemán (1483–1546) cuyo desafío a las indulgencias y a la autoridad papal inició la Reforma protestante."
       }
     }
   },

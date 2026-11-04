@@ -41,6 +41,20 @@
       "extract": "Aranjuez es un municipio español en el extremo sur de la Comunidad de Madrid, cabeza del partido judicial del mismo nombre. Se encuentra en un ancho valle, junto a la confluencia de los ríos Tajo y Jarama, bordeado por un conjunto de cerros y mesetas que alcanzan los 630 m de altitud. Además de los cauces naturales, posee una extensa red de canales, acequias y presas históricas que, tradicionalmente, han propiciado los cultivos de regadío, como frutales y hortalizas, entre los que destacan fresas y espárragos. A nivel medioambiental, buena parte del término municipal forma parte de la zona especial de conservación Vegas, cuestas y páramos del sureste de Madrid, en la cual destacan la reserva natural del Carrizal de Villamejor, y la reserva del Regajal-Mar de Ontígola, que incluye el humedal del Mar de Ontígola y la finca El Regajal."
     }
   },
+  "augsburg": {
+    "title": "Augsburg",
+    "url": "https://en.wikipedia.org/wiki/Augsburg",
+    "extract": "Augsburg is a city in the Bavarian part of Swabia, Germany, around 50 kilometres (31 mi) west of the Bavarian capital Munich. It is a university town and the regional seat of the Regierungsbezirk Swabia with a well-preserved Altstadt. Augsburg is an urban district and home to the institutions of the Landkreis Augsburg. It is the third-largest city in Bavaria, with a population of 304,000 and 885,000 in its metropolitan area.",
+    "description": "City in Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Augsburg_-_Markt.jpg/330px-Augsburg_-_Markt.jpg",
+    "lat": 48.36888889,
+    "lon": 10.89777778,
+    "es": {
+      "title": "Augsburgo",
+      "url": "https://es.wikipedia.org/wiki/Augsburgo",
+      "extract": "Augsburgo es una ciudad alemana, capital de la región administrativa de Suabia, en el estado federado de Baviera. Augsburgo es ciudad independiente y al mismo tiempo capital del distrito homónimo. Con 301 033 habitantes, es el tercer municipio más poblado en Baviera. Forma una conurbación de 472 500 habitantes con muchas de las localidades de su comarca: Stadtbergen, Friedberg, Königsbrunn, Gersthofen. Estadísticamente se asocia también con el área metropolitana de Augsburgo, que cuenta con 895 000 habitantes. Es una de las ciudades más antiguas en Alemania y Patrimonio de la Humanidad de UNESCO."
+    }
+  },
   "avignon": {
     "title": "Avignon",
     "url": "https://en.wikipedia.org/wiki/Avignon",
@@ -571,6 +585,20 @@
       "extract": "Dresde es la capital del estado federado de Sajonia, en Alemania. Limita al noroeste con el distrito de Meißen, al noreste con el de Bautzen y al sur con el de distrito de Suiza Sajona-Montes Metálicos Orientales. Dresde se encuentra justo en el centro de la conurbación homónima. Esta aglomeración, junto con la de Chemnitz-Zwickau y la de Leipzig-Halle, constituyen la llamada “región metropolitana del triángulo sajón”. La población total de Dresde supera los 550 000 habitantes y su correspondiente Regierungsbezirk o región administrativa, el millón y medio."
     }
   },
+  "eisleben": {
+    "title": "Eisleben",
+    "url": "https://en.wikipedia.org/wiki/Eisleben",
+    "extract": "Eisleben is a town in Saxony-Anhalt, Germany. It is famous as both the hometown of the influential theologian Martin Luther and the place where he died; hence, its official name is Lutherstadt Eisleben.",
+    "description": "Town in Saxony-Anhalt, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lutherstadt_Eisleben_Markt.jpg/330px-Lutherstadt_Eisleben_Markt.jpg",
+    "lat": 51.52861111,
+    "lon": 11.54666667,
+    "es": {
+      "title": "Lutherstadt Eisleben",
+      "url": "https://es.wikipedia.org/wiki/Lutherstadt_Eisleben",
+      "extract": "Lutherstadt Eisleben es un pueblo en Sajonia-Anhalt, Alemania. Famoso por ser el pueblo natal de Martín Lutero, cuyo apellido se inocorporó oficialmente al nombre original, Eisleben. Es la capital del distrito de Mansfelder Land, y en 2004 tenía una población de 21.062 habitantes."
+    }
+  },
   "florence": {
     "title": "Florence",
     "url": "https://en.wikipedia.org/wiki/Florence",
@@ -639,6 +667,20 @@
       "title": "Río Gambia",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Gambia",
       "extract": "El río Gambia es un río de África de 1130 kilómetros de longitud, uno de los mayores del continente. Nace en el macizo Futa Yallon, al norte de Guinea, y desemboca en la ciudad de Banjul (Gambia), a orillas del océano Atlántico. La mitad de su recorrido es navegable."
+    }
+  },
+  "geneva": {
+    "title": "Geneva",
+    "url": "https://en.wikipedia.org/wiki/Geneva",
+    "extract": "Geneva is the second-most populous city in Switzerland and the most populous in French-speaking Romandy. Situated in the southwest of the country, where the Rhône leaves Lake Geneva, it is the capital of the Republic and Canton of Geneva. Geneva is a global city, an international financial centre, and a worldwide centre for diplomacy, which has led to it being called the \"Peace Capital\".",
+    "description": "City in Switzerland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Geneve_2005_001_Ork.ch.jpg/330px-Geneve_2005_001_Ork.ch.jpg",
+    "lat": 46.20166667,
+    "lon": 6.14694444,
+    "es": {
+      "title": "Ginebra",
+      "url": "https://es.wikipedia.org/wiki/Ginebra",
+      "extract": "Ginebra es una ciudad y comuna de la Confederación Suiza, ubicada cerca de la frontera con Francia, capital del cantón de Ginebra. Es la ciudad más poblada de Romandía y la segunda de Suiza después de Zúrich. Se encuentra situada a la salida del Ródano del lago de Ginebra y es la capital de la República y Cantón de Ginebra."
     }
   },
   "gonaives": {
@@ -986,6 +1028,20 @@
       "extract": "Mosselbaai es una ciudad portuaria de unos 130 000 habitantes en la provincia Occidental del Cabo en la ruta de los jardines en Sudáfrica. Se trata de un importante centro turístico y de agricultura. Mosselbaai se encuentra a unos 400 kilómetros al este de la capital legislativa, Ciudad del Cabo, y a 400 km al oeste de Puerto Elizabeth, la ciudad más grande en la provincia Oriental del Cabo. Las partes más antiguas de la ciudad se encuentran al norte de la península de Cabo de San Blas, mientras que los nuevos suburbios se sitúan en la península y se han extendido hacia el este a lo largo de la orilla de arena de la bahía."
     }
   },
+  "munster": {
+    "title": "Münster",
+    "url": "https://en.wikipedia.org/wiki/M%C3%BCnster",
+    "extract": "Münster is an independent city in North Rhine-Westphalia, Germany. It is in the northern part of the state and the historic capital of the Westphalia region, as well being the centre of a state district. During the Protestant Reformation, Münster was the location of the Anabaptist rebellion. Münster and Osnabrück were the sites of the signing of the Treaties of Westphalia which ended the Thirty Years' War in 1648. Today, it is known as the bicycle capital of Germany.",
+    "description": "City in North Rhine-Westphalia, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Muenster_Innenstadt.jpg/330px-Muenster_Innenstadt.jpg",
+    "lat": 51.9625,
+    "lon": 7.62555556,
+    "es": {
+      "title": "Münster",
+      "url": "https://es.wikipedia.org/wiki/M%C3%BCnster",
+      "extract": "Münster () [cita requerida] es una ciudad alemana situada en el estado de Renania del Norte-Westfalia. Tiene 318 958 habitantes (2023) y es la capital del distrito del mismo nombre. Münster está entre Dortmund y Osnabrück, en el centro del Münsterland. Es conocida como la ciudad de las bicicletas y por su centro histórico, que fue restaurado poco a poco después del fin de la Segunda Guerra Mundial."
+    }
+  },
   "nantes": {
     "title": "Nantes",
     "url": "https://en.wikipedia.org/wiki/Nantes",
@@ -998,6 +1054,20 @@
       "title": "Nantes",
       "url": "https://es.wikipedia.org/wiki/Nantes",
       "extract": "Nantes es una ciudad francesa situada en la orilla del río Loira, a 50 km del océano Atlántico. Es la capital del departamento de Loira Atlántico y de la región de Países del Loira. Es el centro de una conurbación de más 300 000 habitantes[cita requerida]. Se la considera, junto a la de Saint-Nazaire, como la mayor área metropolitana del oeste de Francia."
+    }
+  },
+  "noyon": {
+    "title": "Noyon",
+    "url": "https://en.wikipedia.org/wiki/Noyon",
+    "extract": "Noyon is a commune in the Oise department of Upper France.",
+    "description": "Commune in Hauts-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Cath%C3%A9drale_de_Noyon.JPG/330px-Cath%C3%A9drale_de_Noyon.JPG",
+    "lat": 49.5817,
+    "lon": 2.9997,
+    "es": {
+      "title": "Noyon",
+      "url": "https://es.wikipedia.org/wiki/Noyon",
+      "extract": "Noyon es un municipio del departamento del Oise, capital de distrito en la región de Picardía de Francia.\nSu gentilicio es Noyonnais y su apelativo Friands de Noyon."
     }
   },
   "ouro-preto": {
@@ -1317,6 +1387,20 @@
       "extract": "São Paulo o San Pablo es la ciudad más poblada de Brasil y de todo el continente americano, capital del estado de São Paulo y la principal ciudad de la región metropolitana de São Paulo, en la región Sudeste de Brasil. Con una población de 11 451 372 habitantes en la ciudad propia y de 22 048 504 habitantes en su área metropolitana, integran la ciudad y la metrópoli más pobladas de América y del hemisferio occidental, además de ser una de las aglomeraciones urbanas más pobladas del mundo. También es la ciudad más poblada de la lusofonía."
     }
   },
+  "schmalkalden": {
+    "title": "Schmalkalden",
+    "url": "https://en.wikipedia.org/wiki/Schmalkalden",
+    "extract": "Schmalkalden is a town in the Schmalkalden-Meiningen district, in the southwest of the state of Thuringia, Germany. It is on the southern slope of the Thuringian Forest at the Schmalkalde river, a tributary to the Werra. As of 31 December 2022, the town had a population of 20,065.",
+    "description": "Town in Thuringia, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Schmalkalden_1900.jpg/330px-Schmalkalden_1900.jpg",
+    "lat": 50.71666667,
+    "lon": 10.45,
+    "es": {
+      "title": "Esmalcalda",
+      "url": "https://es.wikipedia.org/wiki/Esmalcalda",
+      "extract": "Esmalcalda es una ciudad alemana del estado de Turingia."
+    }
+  },
   "serra-da-barriga": {
     "title": "Serra da Barriga",
     "url": "https://en.wikipedia.org/wiki/Serra_da_Barriga",
@@ -1380,6 +1464,20 @@
       "title": "Capilla Sixtina",
       "url": "https://es.wikipedia.org/wiki/Capilla_Sixtina",
       "extract": "La Capilla Sixtina es una capilla del Palacio Apostólico de la Ciudad del Vaticano, la residencia oficial del papa. Es la estancia más conocida del conjunto palaciego y también forma parte de los Museos Vaticanos."
+    }
+  },
+  "speyer": {
+    "title": "Speyer",
+    "url": "https://en.wikipedia.org/wiki/Speyer",
+    "extract": "Speyer, historically known in English as Spires, is a city in Rhineland-Palatinate in the western part of the Federal Republic of Germany with approximately 50,000 inhabitants. Located on the left bank of the river Rhine, Speyer lies 25 km south of Ludwigshafen and Mannheim, and 21 km south-west of Heidelberg. Founded by the Romans as a fortified town on the northeastern frontier of their empire, it is one of Germany's oldest cities. Speyer Cathedral, a number of other churches, and the Altpörtel dominate the Speyer landscape. In the cathedral, beneath the high altar, are the tombs of eight Holy Roman Emperors and German kings.",
+    "description": "City in Rhineland-Palatinate, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Speyer_Dom_Luft.jpg/330px-Speyer_Dom_Luft.jpg",
+    "lat": 49.31944444,
+    "lon": 8.43111111,
+    "es": {
+      "title": "Espira",
+      "url": "https://es.wikipedia.org/wiki/Espira",
+      "extract": "Espira es una ciudad del estado federado alemán de Renania-Palatinado. Tiene aproximadamente 50 000 habitantes y se halla a orillas del río Rin, 25 km al sur de Mannheim y 25 km al norte de Karlsruhe. Fue fundada por los romanos, lo que convierte a Espira en una de las ciudades más antiguas de Alemania. En la antigüedad, la zona se conocía como Noviomagus y Civitas Nemetum, de la tribu teutónica de los németes, que estaban asentados en la zona."
     }
   },
   "sremski-karlovci": {
@@ -1690,6 +1788,34 @@
       "extract": "La Villa di Castello es una de las villas de los Médici en Florencia, Toscana, Italia central."
     }
   },
+  "wittenberg": {
+    "title": "Wittenberg",
+    "url": "https://en.wikipedia.org/wiki/Wittenberg",
+    "extract": "Wittenberg, officially Lutherstadt Wittenberg, is the fourth-largest town in the state of Saxony-Anhalt, Germany. It is situated on the River Elbe, 60 kilometers (37 mi) north of Leipzig and 90 kilometers (56 mi) south-west of Berlin. It has a population of 46,008 (2018).",
+    "description": "Town in Saxony-Anhalt, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Stadtkirche_Marktplatz_Schlosskirche_Wittenberg_Luftbild_2024_Toni_Klemm.jpg/330px-Stadtkirche_Marktplatz_Schlosskirche_Wittenberg_Luftbild_2024_Toni_Klemm.jpg",
+    "lat": 51.8671,
+    "lon": 12.6484,
+    "es": {
+      "title": "Wittenberg",
+      "url": "https://es.wikipedia.org/wiki/Wittenberg",
+      "extract": "Wittenberg, en español también Witemberg, es una ciudad del estado federado de Sajonia-Anhalt (Alemania), sede del distrito homónimo, situada a orillas del Elba, con una población cercana a los 50 000 habitantes. Su nombre oficial es Lutherstadt Wittenberg."
+    }
+  },
+  "worms": {
+    "title": "Worms, Germany",
+    "url": "https://en.wikipedia.org/wiki/Worms%2C_Germany",
+    "extract": "Worms is a city in Rhineland-Palatinate, Germany, situated on the Upper Rhine about 60 km (40 mi) south-southwest of Frankfurt am Main. It had about 84,646 inhabitants as of 2022.",
+    "description": "City in Rhineland-Palatinate, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Nibelungenbr%C3%BCcke_mit_Dom%2C_Rhein%2C_Rheinpromenade_und_Innenstadt_Worms.jpg/330px-Nibelungenbr%C3%BCcke_mit_Dom%2C_Rhein%2C_Rheinpromenade_und_Innenstadt_Worms.jpg",
+    "lat": 49.63194444,
+    "lon": 8.36527778,
+    "es": {
+      "title": "Worms (Alemania)",
+      "url": "https://es.wikipedia.org/wiki/Worms_(Alemania)",
+      "extract": "Worms es una ciudad de Alemania, en la región de Renania-Palatinado, a orillas del río Rin, situada en la región vitivinícola Rheinhessen. Su población a finales de 2004 era de 85 829 habitantes. Fundada por los celtas, que la llamaron Borbetomagus, Worms se disputa con las ciudades de Tréveris y Colonia el título de \"ciudad más antigua de Alemania\". Worms es la única ciudad alemana miembro de la organización Most Ancient European Towns Network. Se halla a unos 70 kilómetros al sur de Fráncfort y a unos 100 kilómetros del aeropuerto de Fráncfort-Hahn."
+    }
+  },
   "xiangyang": {
     "title": "Xiangyang",
     "url": "https://en.wikipedia.org/wiki/Xiangyang",
@@ -1716,6 +1842,20 @@
       "title": "Radvaň nad Dunajom",
       "url": "https://es.wikipedia.org/wiki/Radva%C5%88_nad_Dunajom",
       "extract": "Radvaň nad Dunajom es un municipio del distrito de Komárno en la región de Nitra, Eslovaquia, con una población estimada a final del año 2025 de 702 habitantes."
+    }
+  },
+  "zurich": {
+    "title": "Zurich",
+    "url": "https://en.wikipedia.org/wiki/Zurich",
+    "extract": "Zurich is the largest city in Switzerland and the capital of the canton of Zurich. It is in north-central Switzerland, at the northwestern tip of Lake Zurich. As of the end of 2025, the municipality had a population of 440,935, while the urban area was home to 1.45 million people (2020), and the Zurich metropolitan area had a total population of 2.1 million (2020). Zurich is a hub for railways, roads, and air traffic. Both Zurich Airport and Zurich's main railway station are the largest and busiest in the country.",
+    "description": "Largest city in Switzerland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/330px-Altstadt_Z%C3%BCrich_2015.jpg",
+    "lat": 47.37444444,
+    "lon": 8.54111111,
+    "es": {
+      "title": "Zúrich",
+      "url": "https://es.wikipedia.org/wiki/Z%C3%BArich",
+      "extract": "Zúrich es la mayor ciudad de la Confederación Suiza, con una población de 443 037 habitantes y un área metropolitana de 1 456 786 habitantes. Es la capital del cantón de Zúrich y se halla en la llanura central de Suiza y próxima a los Alpes. Es el motor financiero del país, teniendo a diversas empresas multinacionales ahí su sede mundial, como UBS, ABB, Zurich Insurance Group, FIFA, Holcim, On, Adecco, y Lindt & Sprüngli. Zúrich es consistentemente considerada la ciudad más cara del mundo. Se encuentra a la cabeza de las ciudades con mayor calidad de vida; no solamente por su economía, sino también por su innovación, naturaleza, transporte, eficiencia, cultura, arte, sanidad y seguridad. Así lo subrayan los estudios «Mejores Ciudades del Mundo para vivir» de The Economist en 2022 «Ranking de Calidad de Vida» de Monocle en 2022 y «Ciudades de mayor calidad de vida» de Mercer, «IMD Ciudades Inteligentes 2023»."
     }
   }
 }

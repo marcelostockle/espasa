@@ -26,6 +26,15 @@
       }
     }
   },
+  "augsburg": {
+    "label": "Augsburg",
+    "wikipedia": "Augsburg",
+    "translations": {
+      "es": {
+        "label": "Augsburgo"
+      }
+    }
+  },
   "avignon": {
     "label": "Avignon",
     "wikipedia": "Avignon",
@@ -368,6 +377,15 @@
       }
     }
   },
+  "eisleben": {
+    "label": "Eisleben",
+    "wikipedia": "Lutherstadt Eisleben",
+    "translations": {
+      "es": {
+        "label": "Eisleben"
+      }
+    }
+  },
   "florence": {
     "label": "Florence",
     "wikipedia": "Florence",
@@ -410,6 +428,15 @@
     "translations": {
       "es": {
         "label": "río Gambia"
+      }
+    }
+  },
+  "geneva": {
+    "label": "Geneva",
+    "wikipedia": "Geneva",
+    "translations": {
+      "es": {
+        "label": "Ginebra"
       }
     }
   },
@@ -638,12 +665,30 @@
       }
     }
   },
+  "munster": {
+    "label": "Münster",
+    "wikipedia": "Münster",
+    "translations": {
+      "es": {
+        "label": "Münster"
+      }
+    }
+  },
   "nantes": {
     "label": "Nantes",
     "wikipedia": "Nantes",
     "translations": {
       "es": {
         "label": "Nantes"
+      }
+    }
+  },
+  "noyon": {
+    "label": "Noyon",
+    "wikipedia": "Noyon",
+    "translations": {
+      "es": {
+        "label": "Noyon"
       }
     }
   },
@@ -854,6 +899,15 @@
       }
     }
   },
+  "schmalkalden": {
+    "label": "Schmalkalden",
+    "wikipedia": "Schmalkalden",
+    "translations": {
+      "es": {
+        "label": "Esmalcalda"
+      }
+    }
+  },
   "serra-da-barriga": {
     "label": "Serra da Barriga",
     "wikipedia": "Serra da Barriga",
@@ -896,6 +950,15 @@
     "translations": {
       "es": {
         "label": "Capilla Sixtina"
+      }
+    }
+  },
+  "speyer": {
+    "label": "Speyer",
+    "wikipedia": "Speyer",
+    "translations": {
+      "es": {
+        "label": "Espira"
       }
     }
   },
@@ -1097,6 +1160,24 @@
       }
     }
   },
+  "wittenberg": {
+    "label": "Wittenberg",
+    "wikipedia": "Wittenberg",
+    "translations": {
+      "es": {
+        "label": "Wittenberg"
+      }
+    }
+  },
+  "worms": {
+    "label": "Worms",
+    "wikipedia": "Worms, Germany",
+    "translations": {
+      "es": {
+        "label": "Worms"
+      }
+    }
+  },
   "xiangyang": {
     "label": "Xiangyang",
     "wikipedia": "Xiangyang",
@@ -1112,6 +1193,15 @@
     "translations": {
       "es": {
         "label": "Zsitvatorok"
+      }
+    }
+  },
+  "zurich": {
+    "label": "Zurich",
+    "wikipedia": "Zürich",
+    "translations": {
+      "es": {
+        "label": "Zúrich"
       }
     }
   }
