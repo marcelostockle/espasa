@@ -1,4 +1,18 @@
 {
+  "alcala-de-henares": {
+    "title": "Alcalá de Henares",
+    "url": "https://en.wikipedia.org/wiki/Alcal%C3%A1_de_Henares",
+    "extract": "Alcalá de Henares is a Spanish municipality of the Community of Madrid. Housing is primarily located on the north bank of the Henares. As of 2025, it has a population of 203,208, making it the region's third-most populated municipality.",
+    "description": "Municipality in Community of Madrid, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Universidad-Alcala-180819_%28cropped%29.jpg/330px-Universidad-Alcala-180819_%28cropped%29.jpg",
+    "lat": 40.46666667,
+    "lon": -3.36666667,
+    "es": {
+      "title": "Alcalá de Henares",
+      "url": "https://es.wikipedia.org/wiki/Alcal%C3%A1_de_Henares",
+      "extract": "Alcalá de Henares es un municipio de España perteneciente a la Comunidad de Madrid. Tiene una población de 203 208 habitantes."
+    }
+  },
   "alexandria": {
     "title": "Alexandria",
     "url": "https://en.wikipedia.org/wiki/Alexandria",
@@ -516,6 +530,20 @@
       "extract": "El Callao es una ciudad portuaria ubicada en la provincia constitucional del Callao, en el centro-oeste del Perú y a su vez en la costa central del litoral peruano y en la zona central occidental de América del Sur. Tiene al oeste el océano Pacífico y a 15 km al este el centro histórico de Lima."
     }
   },
+  "cambridge-massachusetts": {
+    "title": "Cambridge, Massachusetts",
+    "url": "https://en.wikipedia.org/wiki/Cambridge%2C_Massachusetts",
+    "extract": "Cambridge is a city in Middlesex County, Massachusetts, United States. It is located in the Greater Boston metropolitan area directly across the Charles River from Boston. The city's population as of the 2020 U.S. census was 118,403, making it the most populous city in the county, the fourth-largest in Massachusetts behind Boston, Worcester, and Springfield, and ninth-most populous in New England. The city was named in honor of the University of Cambridge in Cambridge, England, which was an important center of the Puritan theology that was embraced by the town's founders.",
+    "description": "City in the United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2017_City_Hall_from_south%2C_Cambridge%2C_Massachusetts.jpg/330px-2017_City_Hall_from_south%2C_Cambridge%2C_Massachusetts.jpg",
+    "lat": 42.37361111,
+    "lon": -71.11055556,
+    "es": {
+      "title": "Cambridge (Massachusetts)",
+      "url": "https://es.wikipedia.org/wiki/Cambridge_(Massachusetts)",
+      "extract": "Cambridge es una ciudad ubicada en el condado de Middlesex en el estado de Massachusetts, Estados Unidos. En el Censo de 2020 tenía una población de 118 403 habitantes y una densidad poblacional de 7182 personas por km². Se encuentra al este del estado, a las afueras de Boston."
+    }
+  },
   "cap-francais": {
     "title": "Cap-Haïtien",
     "url": "https://en.wikipedia.org/wiki/Cap-Ha%C3%AFtien",
@@ -819,6 +847,20 @@
       "title": "Donauwörth",
       "url": "https://es.wikipedia.org/wiki/Donauw%C3%B6rth",
       "extract": "Donauwörth es una ciudad en la región administrativa de Suabia del Estado libre de Baviera, en Alemania."
+    }
+  },
+  "douai": {
+    "title": "Douai",
+    "url": "https://en.wikipedia.org/wiki/Douai",
+    "extract": "Douai is a city in the Nord département in northern France. It is a sub-prefecture of the department. Located on the river Scarpe some 40 kilometres from Lille and 25 km (16 mi) from Arras, Douai is home to one of the region's most impressive belfries.",
+    "description": "City in Hauts-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/La_Fontaine_de_la_Place_d%27Armes_de_Douai.jpg/330px-La_Fontaine_de_la_Place_d%27Armes_de_Douai.jpg",
+    "lat": 50.3714,
+    "lon": 3.08,
+    "es": {
+      "title": "Douai",
+      "url": "https://es.wikipedia.org/wiki/Douai",
+      "extract": "Douai es una ciudad y comuna francesa situada en el departamento de Norte en la región de Alta Francia, capital de la comarca del douaisis."
     }
   },
   "dresden": {
@@ -1327,6 +1369,20 @@
       "extract": "Lisboa es la capital y la ciudad más poblada de Portugal.Está situada en la desembocadura del río Tajo, es la capital del país, capital del distrito de Lisboa, de la región de Lisboa y del área metropolitana de Lisboa, y es también el principal centro de la subregión de la Gran Lisboa. Lisboa tiene una población de 547 773 habitantes, y su zona metropolitana cuenta con una población de 2 810 923 en una superficie de 2.921,90 km². Esta área contiene el 26% de la población del país. Lisboa es la ciudad más rica de Portugal."
     }
   },
+  "london": {
+    "title": "London",
+    "url": "https://en.wikipedia.org/wiki/London",
+    "extract": "London is the capital and largest city of England and the United Kingdom, with a population of 9.14 million people in 2025. Its wider metropolitan area is the largest in Western Europe, with a population of 15.4 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the site of the national government and parliament for centuries. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century the name \"London\" has referred to the metropolis around the City of London, historically split among the counties of Middlesex, Essex, Surrey, Kent and Hertfordshire. Since 1965 it has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.",
+    "description": "Capital of England and the United Kingdom",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg",
+    "lat": 51.50722222,
+    "lon": -0.1275,
+    "es": {
+      "title": "Londres",
+      "url": "https://es.wikipedia.org/wiki/Londres",
+      "extract": "Londres es la capital y la mayor ciudad de Inglaterra y de Reino Unido. Ubicada a orillas del río Támesis, Londres ha sido un importante asentamiento humano desde que fue fundada por los romanos con el nombre de Londinium hace casi dos milenios. El núcleo antiguo de la urbe, la City de Londres, conserva básicamente su perímetro medieval de una milla cuadrada. Desde el siglo XIX el nombre «Londres» también hace referencia a toda la metrópolis desarrollada alrededor de este núcleo. El grueso de esta conurbación constituye la región de Londres y el área administrativa del Gran Londres, gobernado por el alcalde y la asamblea de Londres."
+    }
+  },
   "madeira": {
     "title": "Madeira",
     "url": "https://en.wikipedia.org/wiki/Madeira",
@@ -1521,6 +1577,20 @@
       "extract": "Nantes es una ciudad francesa situada en la orilla del río Loira, a 50 km del océano Atlántico. Es la capital del departamento de Loira Atlántico y de la región de Países del Loira. Es el centro de una conurbación de más 300 000 habitantes[cita requerida]. Se la considera, junto a la de Saint-Nazaire, como la mayor área metropolitana del oeste de Francia."
     }
   },
+  "neuchatel": {
+    "title": "Neuchâtel",
+    "url": "https://en.wikipedia.org/wiki/Neuch%C3%A2tel",
+    "extract": "Neuchâtel is a town, a municipality, and the capital of the Swiss canton of Neuchâtel on Lake Neuchâtel. Since the fusion in 2021 of the municipalities of Neuchâtel, Corcelles-Cormondrèche, Peseux, and Valangin, the city has approximately 45,000 inhabitants. The city is sometimes referred to historically by the German name Neuenburg; both the French and German names mean 'New Castle'.",
+    "description": "Swiss town",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Vuevilledeneuchatel.jpg/330px-Vuevilledeneuchatel.jpg",
+    "lat": 47,
+    "lon": 6.93333333,
+    "es": {
+      "title": "Neuchâtel",
+      "url": "https://es.wikipedia.org/wiki/Neuch%C3%A2tel",
+      "extract": "Neuchâtel es una ciudad y comuna de la Suiza romanda, capital del cantón y del distrito de Neuchâtel. Está situada a orillas del Lago de Neuchâtel y sobre el flanco sur del macizo del Jura."
+    }
+  },
   "nicopolis-ad-istrum": {
     "title": "Nicopolis ad Istrum",
     "url": "https://en.wikipedia.org/wiki/Nicopolis_ad_Istrum",
@@ -1547,6 +1617,20 @@
       "title": "Noyon",
       "url": "https://es.wikipedia.org/wiki/Noyon",
       "extract": "Noyon es un municipio del departamento del Oise, capital de distrito en la región de Picardía de Francia.\nSu gentilicio es Noyonnais y su apelativo Friands de Noyon."
+    }
+  },
+  "ostroh": {
+    "title": "Ostroh",
+    "url": "https://en.wikipedia.org/wiki/Ostroh",
+    "extract": "Ostroh is a city in Rivne Oblast, western Ukraine. It is situated on the Horyn River. Ostroh was the administrative center of Ostroh Raion until 2020, but as a city of oblast significance did not belong to the raion. Currently the city is the centre of Ostroh urban hromada. Population: 14,894.",
+    "description": "City in Rivne Oblast, Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B7%D1%8C%D0%BA%D0%BE%D1%97_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%97.jpg/330px-%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B7%D1%8C%D0%BA%D0%BE%D1%97_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%97.jpg",
+    "lat": 50.33333333,
+    "lon": 26.51666667,
+    "es": {
+      "title": "Ostroh",
+      "url": "https://es.wikipedia.org/wiki/Ostroh",
+      "extract": "Ostroh es una ciudad de Ucrania, perteneciente al raión de Rivne de la óblast de Rivne. Está situada a orillas del río Horyn, 37 kilómetros al sudeste de Rivne. La ciudad se encuentra a 7 kilómetros de la central nuclear de Jmelnitski."
     }
   },
   "ouro-preto": {
@@ -2029,6 +2113,18 @@
       "extract": "La Capilla Sixtina es una capilla del Palacio Apostólico de la Ciudad del Vaticano, la residencia oficial del papa. Es la estancia más conocida del conjunto palaciego y también forma parte de los Museos Vaticanos."
     }
   },
+  "soncino": {
+    "title": "Soncino, Lombardy",
+    "url": "https://en.wikipedia.org/wiki/Soncino%2C_Lombardy",
+    "extract": "Soncino is a comune (municipality) in the Province of Cremona in the Italian region Lombardy, located about 60 kilometres (37 mi) east of Milan and about 30 kilometres (19 mi) northwest of Cremona.",
+    "description": "Comune in Lombardy, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/PieveSoncino.JPG/330px-PieveSoncino.JPG",
+    "es": {
+      "title": "Soncino",
+      "url": "https://es.wikipedia.org/wiki/Soncino",
+      "extract": "Soncino es una localidad y comune italiana de la provincia de Cremona, región de Lombardía, con 7.641 habitantes."
+    }
+  },
   "speyer": {
     "title": "Speyer",
     "url": "https://en.wikipedia.org/wiki/Speyer",
@@ -2097,6 +2193,20 @@
       "title": "Estocolmo",
       "url": "https://es.wikipedia.org/wiki/Estocolmo",
       "extract": "Estocolmo es la capital y además, la ciudad más grande de Suecia, en la que residen 972 647 personas y 2,4 millones en su área metropolitana. La ciudad está compuesta por 14 islas donde el lago Mälar desemboca en el mar Báltico. En el este de la ciudad, y a lo largo de la costa, se encuentra la cadena de islas conocida como el archipiélago de Estocolmo. Estocolmo ha estado poblada por humanos desde la Edad de Piedra, en el sexto milenio antes de Cristo, y fue fundada como ciudad en 1252 por el estadista sueco Birger Jarl. Es también la sede del Condado de Estocolmo."
+    }
+  },
+  "strasbourg": {
+    "title": "Strasbourg",
+    "url": "https://en.wikipedia.org/wiki/Strasbourg",
+    "extract": "Strasbourg is a prefecture and commune, and the largest city of the Grand Est region of northeastern France, in the historic region of Alsace. It is the prefecture of the Bas-Rhin department and the official seat of the European Parliament.",
+    "description": "Prefecture in Grand Est, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Strasbourg_Cathedral.jpg/330px-Strasbourg_Cathedral.jpg",
+    "lat": 48.58333333,
+    "lon": 7.74583333,
+    "es": {
+      "title": "Estrasburgo",
+      "url": "https://es.wikipedia.org/wiki/Estrasburgo",
+      "extract": "Estrasburgo es una ciudad situada cerca del río Rin, en el noreste de Francia, en la colectividad territorial de Alsacia. La ciudad alberga múltiples instituciones europeas, como el hemiciclo principal del Parlamento Europeo y el Defensor del Pueblo Europeo. También organismos internacionales como el Consejo de Europa, el Tribunal Europeo de Derechos Humanos, la Farmacopea Europea. La ciudad es capital del departamento del Bajo Rin, de la región histórica de Alsacia, de la región administrativa del Gran Este, y desde el 1 de enero de 2021, también de la Colectividad territorial Europea de Alsacia. La ciudad está a 8 km al oeste de Kehl, en la frontera natural con Alemania."
     }
   },
   "subiaco": {
