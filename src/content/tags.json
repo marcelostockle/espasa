@@ -641,6 +641,21 @@
       }
     }
   },
+  "papacy": {
+    "label": "Papacy",
+    "color": "#5b8c85",
+    "description": "The popes and the papal court as an institution of religious and political power, including the councils that tried to reunite or reform the Church.",
+    "categories": [
+      "Society",
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Papado",
+        "description": "Los papas y la corte pontificia como institución de poder religioso y político, incluidos los concilios que intentaron reunir o reformar la Iglesia."
+      }
+    }
+  },
   "peru": {
     "label": "Peru",
     "color": "#1565c0",

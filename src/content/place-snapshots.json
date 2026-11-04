@@ -459,6 +459,20 @@
       "extract": "El río Congo es un largo río de África Central que fluye en direcciones N, O y SO a través de cuatro países —Zambia, República Democrática del Congo, República del Congo y Angola— hasta desaguar en el océano Atlántico. Tiene una longitud de 4700 km, que lo sitúan como el noveno río más largo del mundo, tras los ríos Amazonas, Nilo, Yangtsé, el Misisipi-Misuri, el Yeniséi, el Amarillo, el Obi-Irtish y el Mekong."
     }
   },
+  "constance": {
+    "title": "Konstanz",
+    "url": "https://en.wikipedia.org/wiki/Konstanz",
+    "extract": "Konstanz, traditionally known as Constance in English, is a university city with approximately 83,000 inhabitants located at the western end of Upper Lake Constance in the Baden-Württemberg state of south Germany. The city houses the University of Konstanz and was the residence of the Roman Catholic Diocese of Konstanz for more than 1,200 years.",
+    "description": "City in Baden-Württemberg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Rheintorturm_in_Konstanz.jpg/330px-Rheintorturm_in_Konstanz.jpg",
+    "lat": 47.66666667,
+    "lon": 9.18333333,
+    "es": {
+      "title": "Constanza (Alemania)",
+      "url": "https://es.wikipedia.org/wiki/Constanza_(Alemania)",
+      "extract": "Constanza es una ciudad alemana del estado federado de Baden-Wurtemberg ubicada en la orilla sur del lago de Constanza y fronteriza con Suiza. Es la ciudad más grande y de mayor densidad poblacional de este gran lago, el más extenso de Alemania, alimentado por el río Rin y que comparte con dos países más: Suiza y Austria. La ciudad de Constanza forma un solo casco urbano real junto con la localidad suiza de Kreuzlingen, sobrepasando entre ambas los 100 000 habitantes."
+    }
+  },
   "cordoba": {
     "title": "Córdoba, Spain",
     "url": "https://en.wikipedia.org/wiki/C%C3%B3rdoba%2C_Spain",
@@ -788,6 +802,20 @@
       "title": "Lagos (Portugal)",
       "url": "https://es.wikipedia.org/wiki/Lagos_(Portugal)",
       "extract": "Lagos es una ciudad portuguesa perteneciente al distrito de Faro, región del Algarve.\nEl municipio del mismo nombre al que pertenece tiene una población total de 33 500 habitantes. La ciudad en sí, histórica y turística, tiene aproximadamente 22 000 personas. La mayoría de la población vive en la costa y trabaja en turismo y servicios. La región interior, mucho menos habitada, se dedica a la agricultura y silvicultura. Lagos es una de las ciudades más visitadas en el Algarve y Portugal.[cita requerida]"
+    }
+  },
+  "lateran-basilica": {
+    "title": "Archbasilica of Saint John Lateran",
+    "url": "https://en.wikipedia.org/wiki/Archbasilica_of_Saint_John_Lateran",
+    "extract": "The Archbasilica of Saint John Lateran, commonly known as the Lateran Basilica or Saint John Lateran, is the Catholic cathedral of the Diocese of Rome in the city of Rome, Italy. It serves as the seat of the bishop of Rome and head of the worldwide Catholic Church: the pope. The only \"archbasilica\" in the world, it lies outside of Vatican City proper, which is located approximately four kilometres northwest. Nevertheless, as properties of the Holy See, the archbasilica and its adjoining edifices enjoy an extraterritorial status from Italy, pursuant to the terms of the Lateran Treaty of 1929. Dedicated to Christ the Saviour, in honor of John the Baptist and John the Evangelist, the place name – Laterano (Lateran) – comes from an ancient Roman family (gens), whose palace (domus) grounds occupied the site. The adjacent Lateran Palace was the primary residence of the pope until the Middle Ages.",
+    "description": "Catholic landmark in Rome, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/San_Giovanni_in_Laterano_2021.jpg/330px-San_Giovanni_in_Laterano_2021.jpg",
+    "lat": 41.88590556,
+    "lon": 12.50615556,
+    "es": {
+      "title": "Archibasílica de San Juan de Letrán",
+      "url": "https://es.wikipedia.org/wiki/Archibas%C3%ADlica_de_San_Juan_de_Letr%C3%A1n",
+      "extract": "La Catedral Archibasílica Papal del Santísimo Salvador del Mundo y de los Santos Juan Bautista y Juan Evangelista en Letrán, Madre y Cabeza de todas las Iglesias de la Ciudad y el Mundo, más conocida como Archibasílica de San Juan de Letrán, es la catedral de Roma, donde encuentra la sede episcopal su obispo, el papa. Está dedicada a Cristo Salvador, sin embargo es más conocida con el nombre de San Juan, por estar también dedicada a los dos santos principales que llevan este nombre."
     }
   },
   "leipzig": {
@@ -1163,6 +1191,20 @@
       "extract": "Río de Janeiro, fundada como São Sebastião do Rio de Janeiro, es una ciudad y municipio brasileño, capital del estado homónimo, ubicada en el sureste del país. Es la segunda ciudad más poblada de Brasil después de São Paulo. Es considerada la ciudad de Brasil más conocida a nivel Internacional."
     }
   },
+  "rome": {
+    "title": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "extract": "Rome is the capital and largest city of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special municipality named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome Capital, with a population of 4.2 million, is the most populous metropolitan city in Italy. Its metropolitan area is the third-most populous within Italy. Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber Valley. Vatican City—the smallest country in the world and headquarters of the worldwide Catholic Church under the governance of the Holy See—is an independent country within Rome's municipal boundaries, the only existing example of a country within a city. Rome is often referred to as the \"City of Seven Hills\" due to its geography, and also as the \"Eternal City\". Rome is generally considered to be one of the cradles of Western civilization and Western Christian culture.",
+    "description": "Capital and largest city of Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/330px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg",
+    "lat": 41.89333333,
+    "lon": 12.48277778,
+    "es": {
+      "title": "Roma",
+      "url": "https://es.wikipedia.org/wiki/Roma",
+      "extract": "Roma es una ciudad, capital de la región del Lacio y de Italia. Con una población de 2 857 321 habitantes, es el municipio más poblado de Italia y la tercera ciudad más poblada de la Unión Europea. Por antonomasia, se la conoce desde la Antigüedad como la Urbe (Urbs). También es llamada «La Ciudad Eterna»."
+    }
+  },
   "salamanca": {
     "title": "Salamanca",
     "url": "https://en.wikipedia.org/wiki/Salamanca",
@@ -1298,6 +1340,20 @@
       "extract": "Sierra Morena es una cordillera del sur de la península ibérica, que separa la meseta Central de la depresión del Guadalquivir. Geológicamente es el borde de la meseta fracturado y levantado por el empuje de las fuerzas alpinas sobre el zócalo herciniano de la Meseta. En esta predominan las fallas, a veces una falla única, otras veces un sistema de fallas escalonadas. Sierra Morena sería un horst limitado por fallas, o en otros casos limitada por pliegues muy estirados formando pliegues-fallas."
     }
   },
+  "sistine-chapel": {
+    "title": "Sistine Chapel",
+    "url": "https://en.wikipedia.org/wiki/Sistine_Chapel",
+    "extract": "The Sistine Chapel is a chapel in the Apostolic Palace, the pope's official residence in Vatican City. Originally known as the Cappella Magna, it takes its name from Pope Sixtus IV, who had it built between 1473 and 1481. Since that time, it has served as a place of both religious and functionary papal activity. Today, it is the site of the papal conclave, the process by which a new pope is selected. The chapel's fame lies mainly in the frescoes that decorate its interior, most particularly the Sistine Chapel ceiling and The Last Judgment, both by Michelangelo.",
+    "description": "Chapel in the Apostolic Palace, Vatican City",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Sistina-interno.jpg/330px-Sistina-interno.jpg",
+    "lat": 41.90305556,
+    "lon": 12.45444444,
+    "es": {
+      "title": "Capilla Sixtina",
+      "url": "https://es.wikipedia.org/wiki/Capilla_Sixtina",
+      "extract": "La Capilla Sixtina es una capilla del Palacio Apostólico de la Ciudad del Vaticano, la residencia oficial del papa. Es la estancia más conocida del conjunto palaciego y también forma parte de los Museos Vaticanos."
+    }
+  },
   "sremski-karlovci": {
     "title": "Sremski Karlovci",
     "url": "https://en.wikipedia.org/wiki/Sremski_Karlovci",
@@ -1310,6 +1366,20 @@
       "title": "Sremski Karlovci",
       "url": "https://es.wikipedia.org/wiki/Sremski_Karlovci",
       "extract": "Sremski Karlovci es una villa y municipio de Serbia, en el distrito de Bačka del Sur, en la provincia autónoma de Voivodina."
+    }
+  },
+  "st-peters-basilica": {
+    "title": "St. Peter's Basilica",
+    "url": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
+    "extract": "The Papal Basilica of Saint Peter in the Vatican, or simply St. Peter's Basilica, is a church of the Italian Renaissance located in Vatican City, an independent microstate enclaved within the city of Rome, Italy. It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old St. Peter's Basilica, which was built in the fourth century by Roman emperor Constantine the Great. Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626.",
+    "description": "Roman Catholic basilica and landmark in Vatican City",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/330px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+    "lat": 41.90222222,
+    "lon": 12.45333333,
+    "es": {
+      "title": "Basílica de San Pedro",
+      "url": "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_San_Pedro",
+      "extract": "La basílica papal de San Pedro, conocida comúnmente como basílica de San Pedro, es un templo católico situado en la Ciudad del Vaticano."
     }
   },
   "subiaco": {
@@ -1450,6 +1520,20 @@
       "title": "Varennes-en-Argonne",
       "url": "https://es.wikipedia.org/wiki/Varennes-en-Argonne",
       "extract": " Varennes-en-Argonne  es una población y comuna francesa, en la región de Lorena, departamento de Mosa, en el Distrito de Verdún y cantón de Varennes-en-Argonne."
+    }
+  },
+  "vatican-apostolic-library": {
+    "title": "Vatican Library",
+    "url": "https://en.wikipedia.org/wiki/Vatican_Library",
+    "extract": "The Vatican Apostolic Library, more commonly known as the Vatican Library or informally as the Vat, is the library of the Holy See, located in Vatican City, and is the city-state's national library. It was formally established by Pope Sixtus IV on June 15, 1475, by the papal bull Ad decorem militantis ecclesiae, although it is much older. It is one of the oldest libraries in the world and contains one of the most significant collections of historical texts. It has 75,000 codices from throughout history, as well as 1.1 million printed books, which include some 8,500 incunabula.",
+    "description": "Library of the Holy See in Vatican City",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Melozzo_da_Forl%C3%AC_001.jpg/330px-Melozzo_da_Forl%C3%AC_001.jpg",
+    "lat": 41.90472222,
+    "lon": 12.45444444,
+    "es": {
+      "title": "Biblioteca Apostólica Vaticana",
+      "url": "https://es.wikipedia.org/wiki/Biblioteca_Apost%C3%B3lica_Vaticana",
+      "extract": "La Biblioteca Apostólica Vaticana es la biblioteca de la Santa Sede, ubicada en Ciudad del Vaticano. Lleva el nombre de \"apostólica\", porque es una institución que, desde su fundación, es considerada la \"Biblioteca del Papa\", ya que le pertenece directamente. Es una de las más antiguas bibliotecas del mundo y custodia una muy importante colección de textos históricos."
     }
   },
   "venice": {

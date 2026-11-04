@@ -296,6 +296,15 @@
       }
     }
   },
+  "constance": {
+    "label": "Constance",
+    "wikipedia": "Konstanz",
+    "translations": {
+      "es": {
+        "label": "Constanza"
+      }
+    }
+  },
   "cordoba": {
     "label": "Córdoba",
     "wikipedia": "Córdoba, Spain",
@@ -509,6 +518,15 @@
     "translations": {
       "es": {
         "label": "Lagos"
+      }
+    }
+  },
+  "lateran-basilica": {
+    "label": "Lateran Basilica",
+    "wikipedia": "Archbasilica of Saint John Lateran",
+    "translations": {
+      "es": {
+        "label": "Basílica de San Juan de Letrán"
       }
     }
   },
@@ -755,6 +773,15 @@
       }
     }
   },
+  "rome": {
+    "label": "Rome",
+    "wikipedia": "Rome",
+    "translations": {
+      "es": {
+        "label": "Roma"
+      }
+    }
+  },
   "salamanca": {
     "label": "Salamanca",
     "wikipedia": "Salamanca",
@@ -845,12 +872,30 @@
       }
     }
   },
+  "sistine-chapel": {
+    "label": "Sistine Chapel",
+    "wikipedia": "Sistine Chapel",
+    "translations": {
+      "es": {
+        "label": "Capilla Sixtina"
+      }
+    }
+  },
   "sremski-karlovci": {
     "label": "Karlowitz",
     "wikipedia": "Sremski Karlovci",
     "translations": {
       "es": {
         "label": "Sremski Karlovci"
+      }
+    }
+  },
+  "st-peters-basilica": {
+    "label": "St. Peter's Basilica",
+    "wikipedia": "St. Peter's Basilica",
+    "translations": {
+      "es": {
+        "label": "Basílica de San Pedro"
       }
     }
   },
@@ -941,6 +986,15 @@
     "translations": {
       "es": {
         "label": "Varennes-en-Argonne"
+      }
+    }
+  },
+  "vatican-apostolic-library": {
+    "label": "Vatican Apostolic Library",
+    "wikipedia": "Vatican Apostolic Library",
+    "translations": {
+      "es": {
+        "label": "Biblioteca Apostólica Vaticana"
       }
     }
   },
