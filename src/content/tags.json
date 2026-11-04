@@ -229,6 +229,20 @@
       }
     }
   },
+  "duchy-of-savoy": {
+    "label": "Duchy of Savoy",
+    "color": "#8e6e95",
+    "description": "The Alpine duchy of the House of Savoy, with its capital at Chambéry and later Turin, and its rivalry with Geneva, Bern and France in the 16th and early 17th centuries.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Ducado de Saboya",
+        "description": "El ducado alpino de la Casa de Saboya, con capital en Chambéry y después en Turín, y su rivalidad con Ginebra, Berna y Francia en los siglos XVI y principios del XVII."
+      }
+    }
+  },
   "expansionism": {
     "label": "Expansionism",
     "color": "#00c853",
@@ -856,6 +870,20 @@
       }
     }
   },
+  "republic-of-geneva": {
+    "label": "Republic of Geneva",
+    "color": "#d32f2f",
+    "description": "The city-state of Geneva, from the bishop's franchises of 1387 through its Reformation and independence from Savoy to its annexation by France in 1798 and entry into the Swiss Confederation in 1815.",
+    "categories": [
+      "States/Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "República de Ginebra",
+        "description": "La ciudad-estado de Ginebra, desde las franquicias episcopales de 1387, pasando por su Reforma y su independencia frente a Saboya, hasta su anexión por Francia en 1798 y su ingreso en la Confederación Suiza en 1815."
+      }
+    }
+  },
   "russian-empire": {
     "label": "Russian Empire",
     "color": "#9c27b0",
@@ -952,6 +980,20 @@
       "es": {
         "label": "Independencia hispanoamericana",
         "description": "Las guerras y crisis políticas (h. 1808-1826) por las que los territorios americanos de España se separaron de la Corona española y se convirtieron en Estados independientes."
+      }
+    }
+  },
+  "swiss-confederation": {
+    "label": "Swiss Confederation",
+    "color": "#5c6bc0",
+    "description": "The Old Swiss Confederacy of the cantons and their allies, such as Bern, Fribourg and Zurich, and the Swiss state that grew from it.",
+    "categories": [
+      "States/Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Confederación Suiza",
+        "description": "La antigua Confederación Suiza de los cantones y sus aliados, como Berna, Friburgo y Zúrich, y el Estado suizo que surgió de ella."
       }
     }
   },

@@ -143,6 +143,15 @@
       }
     }
   },
+  "bern": {
+    "label": "Bern",
+    "wikipedia": "Bern",
+    "translations": {
+      "es": {
+        "label": "Berna"
+      }
+    }
+  },
   "bogota": {
     "label": "Bogotá",
     "wikipedia": "Bogotá",
@@ -446,6 +455,15 @@
     "translations": {
       "es": {
         "label": "Fort de Joux"
+      }
+    }
+  },
+  "fribourg": {
+    "label": "Fribourg",
+    "wikipedia": "Fribourg",
+    "translations": {
+      "es": {
+        "label": "Friburgo"
       }
     }
   },
@@ -932,6 +950,15 @@
     "translations": {
       "es": {
         "label": "Roma"
+      }
+    }
+  },
+  "saint-julien-en-genevois": {
+    "label": "Saint-Julien-en-Genevois",
+    "wikipedia": "Saint-Julien-en-Genevois",
+    "translations": {
+      "es": {
+        "label": "Saint-Julien-en-Genevois"
       }
     }
   },

@@ -223,6 +223,20 @@
       "extract": "La Bastilla era una fortaleza que protegía el costado oriental de la ciudad de París, conocida formalmente como la Bastille Saint-Antoine. Desempeñó un papel importante en los conflictos internos de Francia y durante la mayor parte de su historia fue usada como una prisión estatal por los reyes de Francia. Fue tomada por una multitud el 14 de julio de 1789 durante la Revolución francesa, convirtiéndose en un símbolo importante del movimiento republicano francés. Tiempo después fue demolida y reemplazada por la Plaza de la Bastilla."
     }
   },
+  "bern": {
+    "title": "Bern",
+    "url": "https://en.wikipedia.org/wiki/Bern",
+    "extract": "Bern, or Berne, is the de facto capital of Switzerland, referred to as the \"federal city\". With a population of about 146,000, Bern is the fifth-most populous city in Switzerland, behind Zurich, Geneva, Basel and Lausanne. The Bern agglomeration, which includes 36 municipalities, had a population of 406,900 in 2014. The metropolitan area had a population of 660,000 in 2000.",
+    "description": "Federal city of Switzerland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Bundeshaus_Bern_2009%2C_Flooffy.jpg/330px-Bundeshaus_Bern_2009%2C_Flooffy.jpg",
+    "lat": 46.94805556,
+    "lon": 7.4475,
+    "es": {
+      "title": "Berna",
+      "url": "https://es.wikipedia.org/wiki/Berna",
+      "extract": "Berna es una ciudad de Suiza. Tiene el estatus de \"ciudad federal\" (bundesstadt ) y como tal cumple la función de capital del país. Su población, a fines de 2023, era de 145 873 habitantes."
+    }
+  },
   "bogota": {
     "title": "Bogotá",
     "url": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
@@ -695,6 +709,20 @@
       "title": "Fort de Joux",
       "url": "https://es.wikipedia.org/wiki/Fort_de_Joux",
       "extract": "El Fort de Joux o castillo de Joux es un castillo medieval francés, convertido en una fortaleza, situada en La Cluse-et-Mijoux, en el departamento de Doubs, en las montañas del Jura. Custodiaba el paso de montaña \"Cluse de Pontarlier\"."
+    }
+  },
+  "fribourg": {
+    "title": "Fribourg",
+    "url": "https://en.wikipedia.org/wiki/Fribourg",
+    "extract": "Fribourg or Freiburg is a municipality, a town and the capital of the Swiss canton of Fribourg and district of La Sarine. Located on both sides of the river Saane/Sarine, on the Swiss Plateau, it is a major economic, administrative and educational centre on the cultural border between German-speaking and French-speaking Switzerland. Its Old City, one of the best-maintained in Switzerland, sits on a small rocky hill above the valley of the Sarine. In 2018, it had a population of 38,365.",
+    "description": "Municipality in Switzerland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Panorama_Fribourg_107.JPG/330px-Panorama_Fribourg_107.JPG",
+    "lat": 46.8,
+    "lon": 7.15,
+    "es": {
+      "title": "Friburgo (Suiza)",
+      "url": "https://es.wikipedia.org/wiki/Friburgo_(Suiza)",
+      "extract": "Friburgo es una pequeña ciudad de la Suiza occidental, capital del cantón de Friburgo y del distrito de Sarine. Friburgo es una de las tres ciudades bilingües de Suiza, unas 21.000 personas hablan francés, mientras que unas 8.300 hablan alemán. Se ubica en la región llamada Üechtland."
     }
   },
   "gambia-river": {
@@ -1441,6 +1469,20 @@
       "title": "Roma",
       "url": "https://es.wikipedia.org/wiki/Roma",
       "extract": "Roma es una ciudad, capital de la región del Lacio y de Italia. Con una población de 2 857 321 habitantes, es el municipio más poblado de Italia y la tercera ciudad más poblada de la Unión Europea. Por antonomasia, se la conoce desde la Antigüedad como la Urbe (Urbs). También es llamada «La Ciudad Eterna»."
+    }
+  },
+  "saint-julien-en-genevois": {
+    "title": "Saint-Julien-en-Genevois",
+    "url": "https://en.wikipedia.org/wiki/Saint-Julien-en-Genevois",
+    "extract": "Saint-Julien-en-Genevois is a subprefecture of the Haute-Savoie department in the Auvergne-Rhône-Alpes region in Eastern France.",
+    "description": "Subprefecture of Haute-Savoie, Auvergne-Rhône-Alpes, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/H%C3%B4tel_Ville_St_Julien_Genevois_1.jpg/330px-H%C3%B4tel_Ville_St_Julien_Genevois_1.jpg",
+    "lat": 46.1436,
+    "lon": 6.0811,
+    "es": {
+      "title": "Saint-Julien-en-Genevois",
+      "url": "https://es.wikipedia.org/wiki/Saint-Julien-en-Genevois",
+      "extract": "Saint-Julien-en-Genevois es una comuna francesa situada en el departamento de Alta Saboya, de la región de Auvernia-Ródano-Alpes. Es la subprefectura de su distrito y el bureau centralisateur de su cantón. Pertenece al Gran Ginebra."
     }
   },
   "salamanca": {
