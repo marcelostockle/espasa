@@ -1,4 +1,18 @@
 {
+  "alexandria": {
+    "title": "Alexandria",
+    "url": "https://en.wikipedia.org/wiki/Alexandria",
+    "extract": "Alexandria is a major city in Egypt. Lying at the western edge of the Nile River Delta, it extends about 40 km (25 mi) along the country's northern coast. It is Egypt's principal seaport, the second largest city after Cairo, and the largest city on the Mediterranean coast. Founded in 331 BC by Alexander the Great, Alexandria was one of the largest and most important cities of antiquity and a leading hub for science, culture, and scholarship.",
+    "description": "City in Egypt",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/San_Stefano_Grand_Plaza.JPG/330px-San_Stefano_Grand_Plaza.JPG",
+    "lat": 31.1975,
+    "lon": 29.8925,
+    "es": {
+      "title": "Alejandría",
+      "url": "https://es.wikipedia.org/wiki/Alejandr%C3%ADa",
+      "extract": "Alejandría es una ciudad del norte de Egipto, en la zona más occidental del delta del Nilo, sobre una loma que separa el lago Mariout del mar Mediterráneo. Se extiende a lo largo de unos 40 km por la costa norte del país. Es capital de la gobernación del mismo nombre, y el principal puerto marítimo del país. Además, se trata de la segunda ciudad más importante de Egipto tras El Cairo, así como la ciudad de mayor tamaño en toda la costa mediterránea. Fundada por Alejandro Magno en el año 331 a. C. en una estratégica región portuaria, se convirtió en pocos años en el centro cultural del mundo antiguo, así como un destacado centro de ciencia, cultura y erudición."
+    }
+  },
   "algiers": {
     "title": "Algiers",
     "url": "https://en.wikipedia.org/wiki/Algiers",
@@ -167,6 +181,20 @@
       "extract": "Azua es un municipio de la República Dominicana, que está situado en la provincia de Azua, de la que es la capital."
     }
   },
+  "babylon": {
+    "title": "Babylon",
+    "url": "https://en.wikipedia.org/wiki/Babylon",
+    "extract": "Babylon was an ancient city located on the lower Euphrates river in southern Mesopotamia, within modern-day Hillah, Iraq, about 85 kilometres south of modern-day Baghdad. Babylon functioned as the main cultural and political centre of the Akkadian-speaking region of Babylonia. Its rulers established two important empires in antiquity, the 19th–16th century BC Old Babylonian Empire, and the 7th–6th century BC Neo-Babylonian Empire. Babylon also served as a regional capital of other empires, such as the Achaemenid Empire. Babylon was one of the most important urban centres of the ancient Near East until its decline during the Hellenistic period. Nearby ancient sites include Kish, Borsippa, Dilbat, and Kutha.",
+    "description": "Ancient Mesopotamian city in Iraq",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ishtar_Gate.jpg/330px-Ishtar_Gate.jpg",
+    "lat": 32.5425,
+    "lon": 44.42111111,
+    "es": {
+      "title": "Babilonia (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/Babilonia_(ciudad)",
+      "extract": "Babilonia fue una antigua ciudad de la Baja Mesopotamia situada cerca de la actual ciudad de Hilla en Irak. Fue la capital del antiguo reino babilónico, y durante varios siglos fue considerada un importante centro de comercio, arte y aprendizaje."
+    }
+  },
   "badajoz": {
     "title": "Badajoz",
     "url": "https://en.wikipedia.org/wiki/Badajoz",
@@ -263,6 +291,20 @@
       "title": "Berna",
       "url": "https://es.wikipedia.org/wiki/Berna",
       "extract": "Berna es una ciudad de Suiza. Tiene el estatus de \"ciudad federal\" (bundesstadt ) y como tal cumple la función de capital del país. Su población, a fines de 2023, era de 145 873 habitantes."
+    }
+  },
+  "bethlehem": {
+    "title": "Bethlehem",
+    "url": "https://en.wikipedia.org/wiki/Bethlehem",
+    "extract": "Bethlehem is a city in the West Bank, Palestine, located about ten kilometres south of Jerusalem, and the capital of the Bethlehem Governorate. It had a population of 28,591 people, as of 2017. The city's economy is strongly linked to tourism, especially during the Christmas period, when Christians embark on a pilgrimage to the Church of the Nativity, which is revered as the location of the birth of Jesus.",
+    "description": "City in the West Bank, Palestine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Church_of_the_Nativity_%287703592746%29.jpg/330px-Church_of_the_Nativity_%287703592746%29.jpg",
+    "lat": 31.70444444,
+    "lon": 35.20638889,
+    "es": {
+      "title": "Belén",
+      "url": "https://es.wikipedia.org/wiki/Bel%C3%A9n",
+      "extract": "Belén es una ciudad ubicada en el centro de Cisjordania (Palestina), situada a unos 9 km al sur de Jerusalén y enclavada en los montes de Judea. Desde diciembre de 1995, se encuentra administrada por la Autoridad Palestina, que adoptó el nombre de Estado de Palestina en 2013. Belén es la capital de la gobernación homónima. Su población era de 25 266 habitantes en el último censo oficial realizado, el de 2007, si bien la Oficina Central de Estadísticas de Palestina calcula que la población a mediados de 2024 es de 32 837 habitantes, con una mayoría de población musulmana y una importante minoría cristiana, en su mayoría ortodoxa. Su economía se basa sobre todo en el turismo, cuya temporada alta coincide con la Navidad, momento en el que numerosos peregrinos cristianos viajan a la ciudad para visitar la Basílica de la Natividad. El gobierno de Israel, que ocupa militarmente toda Palestina desde 1967, ha rodeado la ciudad de murallas y pasos de control, lo cual impide el libre tránsito de los habitantes y limita los intercambios comerciales. Esto ha provocado una gran disminución del turismo."
     }
   },
   "bogota": {
@@ -418,6 +460,20 @@
       "extract": "Cádiz es un municipio y ciudad española, es la capital de la provincia homónima, en la comunidad autónoma de Andalucía. Con 109 950 habitantes es la ciudad más poblada de la bahía de Cádiz y la tercera de la provincia tras Jerez de la Frontera y Algeciras. Forma parte del área metropolitana de la Bahía de Cádiz-Jerez, tercera de Andalucía, detrás de las de Sevilla y Málaga, y la undécima de España."
     }
   },
+  "cairo": {
+    "title": "Cairo",
+    "url": "https://en.wikipedia.org/wiki/Cairo",
+    "extract": "Cairo is the capital and largest city of Egypt and the Cairo Governorate. It is home to more than 9.8 million people. The city is also part of the largest urban agglomeration in Africa, the Arab world, and the Middle East. The Greater Cairo metropolitan area is one of the largest in the world by population with over 22 million people. Areas of what would become Cairo were inhabited from pre-dynastic and early-dynastic ancient Egypt c. 6000 years ago, as the Giza pyramid complex and the ancient cities of Memphis and Heliopolis are today within the city.",
+    "description": "Capital and largest city of Egypt",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cairo_From_Tower_%28cropped%29.jpg/330px-Cairo_From_Tower_%28cropped%29.jpg",
+    "lat": 30.04444444,
+    "lon": 31.23583333,
+    "es": {
+      "title": "El Cairo",
+      "url": "https://es.wikipedia.org/wiki/El_Cairo",
+      "extract": "El Cairo es la capital y ciudad más poblada de Egipto y de su gobernación, y alberga una población de más de 10 millones de habitantes. Su área metropolitana es la más poblada de África, de todo el mundo árabe y de Oriente Medio, además de las más grande del mundo con más de 22 millones de habitantes."
+    }
+  },
   "cajamarca": {
     "title": "Cajamarca",
     "url": "https://en.wikipedia.org/wiki/Cajamarca",
@@ -499,6 +555,18 @@
       "title": "Cabo de Buena Esperanza",
       "url": "https://es.wikipedia.org/wiki/Cabo_de_Buena_Esperanza",
       "extract": "El cabo de Buena Esperanza es un cabo localizado en el extremo sur de África. El primer europeo en avistarlo fue el navegante portugués Bartolomeu Dias en 1488."
+    }
+  },
+  "carthage": {
+    "title": "Carthage",
+    "url": "https://en.wikipedia.org/wiki/Carthage",
+    "extract": "Carthage was an ancient city in northern Africa founded by the legendary Phoenician queen Dido on the eastern side of the Lake of Tunis in what is now Tunisia. Carthage was one of the most important trading hubs of the Ancient Mediterranean and one of the most affluent cities of the classical world. It became the capital city of the civilization of Ancient Carthage and later Roman Carthage.",
+    "description": "Ancient city in Tunisia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Montage_ville_de_Carthage.png/330px-Montage_ville_de_Carthage.png",
+    "es": {
+      "title": "Cartago",
+      "url": "https://es.wikipedia.org/wiki/Cartago",
+      "extract": "Cartago fue una antigua ciudad del norte de África, capital del Estado púnico, en el actual Túnez, fundada por emigrantes fenicios de Tiro a finales del siglo IX a. C., según la datación moderna más aceptada."
     }
   },
   "castel-sant-angelo": {
@@ -611,6 +679,20 @@
       "title": "Constanza (Alemania)",
       "url": "https://es.wikipedia.org/wiki/Constanza_(Alemania)",
       "extract": "Constanza es una ciudad alemana del estado federado de Baden-Wurtemberg ubicada en la orilla sur del lago de Constanza y fronteriza con Suiza. Es la ciudad más grande y de mayor densidad poblacional de este gran lago, el más extenso de Alemania, alimentado por el río Rin y que comparte con dos países más: Suiza y Austria. La ciudad de Constanza forma un solo casco urbano real junto con la localidad suiza de Kreuzlingen, sobrepasando entre ambas los 100 000 habitantes."
+    }
+  },
+  "constantinople": {
+    "title": "Constantinople",
+    "url": "https://en.wikipedia.org/wiki/Constantinople",
+    "extract": "Constantinople, the modern Istanbul, was the capital of the Roman Empire and Byzantine Empire from 330 until its takeover by the Ottoman Empire in 1453. After this, it continued to function as the Ottoman capital until the abolition of the Ottoman sultanate in 1922. It was located at the core of the modern city of Istanbul, on a peninsula at the southeastern tip of Thrace in Europe; with the Bosporus strait and the ancient cities of Chalcedon and Chrysopolis in Bithynia, Anatolia to the east; the Golden Horn and the citadel of Galata (Pera) to the north; the Sea of Marmara to the south; and the Princes' Islands to the southeast.",
+    "description": "Capital of the Byzantine Empire",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Byzantine_Constantinople-en.png/330px-Byzantine_Constantinople-en.png",
+    "lat": 41.0125,
+    "lon": 28.98,
+    "es": {
+      "title": "Constantinopla",
+      "url": "https://es.wikipedia.org/wiki/Constantinopla",
+      "extract": "Constantinopla (griego antiguo: Κωνσταντινούπολις, latín: Cōnstantinōpolis, turco otomano formal: Konstantiniyye) es el nombre grecorromano de Estambul, situada en ambos lados del estrecho del Bósforo en Turquía. Fue capital de imperios a lo largo de su milenaria historia: del Imperio romano (330-395), del Imperio romano de Oriente, del Imperio latino (1204-1261) y del Imperio otomano (1453-1922)."
     }
   },
   "copenhagen": {
@@ -963,6 +1045,18 @@
       "extract": "Graz históricamente conocida en español como Graetz, es una ciudad austriaca, capital del estado federado de Estiria. Es la segunda ciudad más grande del país. Ciudad universitaria por excelencia, fue nombrada Capital Europea de la Cultura en el año 2003."
     }
   },
+  "great-moravia": {
+    "title": "Great Moravia",
+    "url": "https://en.wikipedia.org/wiki/Great_Moravia",
+    "extract": "Great Moravia, or simply Moravia, was the first major state that was predominantly West Slavic to emerge in the area of Central Europe, possibly including territories which are today part of the Czech Republic, Slovakia, Hungary, Austria, Germany, Poland, Romania, Croatia, Serbia, Ukraine and Slovenia. The formations preceding it in these territories were Samo's tribal union (631–658) and the Pannonian Avar state (567–822).",
+    "description": "9th-century Slavic state",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Great_moravia_svatopluk_datailed.png/330px-Great_moravia_svatopluk_datailed.png",
+    "es": {
+      "title": "Gran Moravia",
+      "url": "https://es.wikipedia.org/wiki/Gran_Moravia",
+      "extract": "Gran Moravia fue un imperio medieval de la Europa central desarrollado entre el 833 y el siglo X, constituyendo la primera realidad estatal que se forjó entre los antepasados de checos, moravos y eslovacos. El núcleo territorial del imperio fue el río Morava, hoy en la República Checa y Eslovaquia, y en su expansión llegó a abarcar zonas de las modernas Hungría, Rumania, Polonia, Austria, Alemania, Serbia, Eslovenia, Croacia y Ucrania."
+    }
+  },
   "guadalete": {
     "title": "Guadalete",
     "url": "https://en.wikipedia.org/wiki/Guadalete",
@@ -1051,6 +1145,20 @@
     "lat": 53.155,
     "lon": 7.0125
   },
+  "hippo-regius": {
+    "title": "Hippo Regius",
+    "url": "https://en.wikipedia.org/wiki/Hippo_Regius",
+    "extract": "Hippo Regius is the ancient name of the modern city of Annaba, Algeria. It served as an important city for the Phoenicians, Berbers, Romans, and Vandals. Hippo was the capital city of the Vandal Kingdom from AD 435 to 439. After the Vandal capture of Carthage in 439, Carthage became the capital.",
+    "description": "Ancient name for the modern city of Annaba, Algeria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Hippo_Regius%2C_Africa_Proconsularis%2C_Algeria_-_52575435338.jpg/330px-Hippo_Regius%2C_Africa_Proconsularis%2C_Algeria_-_52575435338.jpg",
+    "lat": 36.8825,
+    "lon": 7.75,
+    "es": {
+      "title": "Hipona",
+      "url": "https://es.wikipedia.org/wiki/Hipona",
+      "extract": "Hipona o Hippo Regius, fue una antigua ciudad de Numidia a la orilla del río Ubus, en la actual Argelia."
+    }
+  },
   "java": {
     "title": "Java",
     "url": "https://en.wikipedia.org/wiki/Java",
@@ -1063,6 +1171,20 @@
       "title": "Java (isla)",
       "url": "https://es.wikipedia.org/wiki/Java_(isla)",
       "extract": "Java es una isla de Indonesia. Posee una superficie aproximada de 132 000 km² y una población de 160 millones de habitantes (2015), lo que la convierte en la isla más poblada del mundo, por delante de Honshū, en Japón. Concentra las ciudades más grandes e importantes de dicho país, incluyendo a Yakarta, su capital."
+    }
+  },
+  "jerusalem": {
+    "title": "Jerusalem",
+    "url": "https://en.wikipedia.org/wiki/Jerusalem",
+    "extract": "Jerusalem is a city in the Southern Levant, on a plateau in the Judaean Mountains between the Mediterranean and the Dead Sea. It is one of the oldest cities in the world and is considered a holy city to the three major Abrahamic religions: Judaism, Christianity and Islam. Both Israel and Palestine claim Jerusalem as their capital city; Israel maintains its primary governmental institutions there, while Palestine ultimately foresees it as its seat of power. Neither claim is widely recognised internationally.",
+    "description": "City in the Southern Levant",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg/330px-Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg",
+    "lat": 31.77888889,
+    "lon": 35.22555556,
+    "es": {
+      "title": "Jerusalén",
+      "url": "https://es.wikipedia.org/wiki/Jerusal%C3%A9n",
+      "extract": "Jerusalén es una ciudad de Oriente Próximo, situada en los montes de Judea, entre el mar Mediterráneo y la ribera norte del mar Muerto. El gobierno israelí, tras la toma de la parte occidental en 1949 y de la oriental en 1967, la ha erigido como capital del Estado de Israel, mientras que el gobierno palestino reivindica su parte oriental como capital del Estado de Palestina. Los asentamientos más antiguos en Jerusalén datan del V milenio a. C. y es una de las ciudades más antiguas del mundo. Jerusalén tiene un profundo significado religioso para el judaísmo, el cristianismo y el islam. La ciudad vieja de Jerusalén fue declarada Patrimonio de la Humanidad por la Unesco en 1981."
     }
   },
   "julich": {
@@ -1303,6 +1425,18 @@
       "extract": "Mohács es una ciudad en el condado de Baranya, Hungría, en la orilla derecha del Danubio."
     }
   },
+  "monkwearmouth-jarrow": {
+    "title": "Monkwearmouth–Jarrow Abbey",
+    "url": "https://en.wikipedia.org/wiki/Monkwearmouth%E2%80%93Jarrow_Abbey",
+    "extract": "The Abbey Church of Saint Peter and Saint Paul, Monkwearmouth–Jarrow, known simply as Monkwearmouth–Jarrow Abbey, was a Benedictine double monastery in the Kingdom of Northumbria, England.",
+    "description": "Benedictine monastery in the Kingdom of Northumbria, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/St_Peters_Church_2019_02.jpg/330px-St_Peters_Church_2019_02.jpg",
+    "es": {
+      "title": "Abadía de Monkwearmouth-Jarrow",
+      "url": "https://es.wikipedia.org/wiki/Abad%C3%ADa_de_Monkwearmouth-Jarrow",
+      "extract": "La Iglesia de la Abadía de San Pedro y San Pablo en Monkwearmouth-Jarrow, conocida simplemente como Abadía de Monkwearmouth-Jarrow, era un monasterio doble benedictino en el Reino de Northumbria, Inglaterra."
+    }
+  },
   "monte-pascoal": {
     "title": "Monte Pascoal",
     "url": "https://en.wikipedia.org/wiki/Monte_Pascoal",
@@ -1385,6 +1519,20 @@
       "title": "Nantes",
       "url": "https://es.wikipedia.org/wiki/Nantes",
       "extract": "Nantes es una ciudad francesa situada en la orilla del río Loira, a 50 km del océano Atlántico. Es la capital del departamento de Loira Atlántico y de la región de Países del Loira. Es el centro de una conurbación de más 300 000 habitantes[cita requerida]. Se la considera, junto a la de Saint-Nazaire, como la mayor área metropolitana del oeste de Francia."
+    }
+  },
+  "nicopolis-ad-istrum": {
+    "title": "Nicopolis ad Istrum",
+    "url": "https://en.wikipedia.org/wiki/Nicopolis_ad_Istrum",
+    "extract": "Nicopolis ad Istrum or Nicopolis ad Iatrum was a Roman and Early Byzantine town.",
+    "description": "Ancient city in northern Bulgaria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Nicopolis_ad_Istrum_013.jpg/330px-Nicopolis_ad_Istrum_013.jpg",
+    "lat": 43.21722222,
+    "lon": 25.61111111,
+    "es": {
+      "title": "Nicópolis del Istro",
+      "url": "https://es.wikipedia.org/wiki/Nic%C3%B3polis_del_Istro",
+      "extract": "Nicópolis del Istro fue una ciudad antigua romana que se mantuvo activa hasta los primeros tiempos del imperio Bizantino. La ciudad fue fundada por Trajano alrededor del año 101-106 d. C. en el cruce de los ríos Yantra y Rositsa en memoria de su victoria contra los Dacios. Sus ruinas se encuentran ubicadas en las inmediaciones de la localidad de Nikyup, a 20 km al norte de Veliko Tarnovo en Bulgaria. La ciudad tuvo su apogeo bajo los reinados de Trajano, Adriano, dinastía Antonina y dinastía Severa.\nEn 1984 este lugar fue inscrito en la Lista Indicativa de Bulgaria como paso previo para ser considerado como Patrimonio de la Humanidad por la UNESCO.\n\n\n \n"
     }
   },
   "noyon": {
@@ -1993,6 +2141,20 @@
       "extract": "La Haya es una ciudad de los Países Bajos, capital administrativa del país y sede de la realeza neerlandesa. Es conocida mundialmente por albergar las sedes del Tribunal Internacional de Justicia y la Corte Penal Internacional."
     }
   },
+  "tiberias": {
+    "title": "Tiberias",
+    "url": "https://en.wikipedia.org/wiki/Tiberias",
+    "extract": "Tiberias is a city on the western shore of the Sea of Galilee in northern Israel. A major Jewish center during Late Antiquity, it has been considered since the 18th century one of Judaism's Four Holy Cities, along with Jerusalem, Hebron, and Safed. In 2024, it had a population of 52,123.",
+    "description": "City in northern Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/92250_tiberias_PikiWiki_Israel.jpg/330px-92250_tiberias_PikiWiki_Israel.jpg",
+    "lat": 32.79444444,
+    "lon": 35.53333333,
+    "es": {
+      "title": "Tiberíades",
+      "url": "https://es.wikipedia.org/wiki/Tiber%C3%ADades",
+      "extract": "Tiberíades es una ciudad emplazada en la orilla occidental del mar de Galilea, en la Baja Galilea, en el Distrito Norte de Israel. Según la Oficina Central de Estadísticas de Israel (CBS), a finales de 2019, la ciudad tenía una población de 44 779 habitantes."
+    }
+  },
   "tlaxcala": {
     "title": "Tlaxcala (city)",
     "url": "https://en.wikipedia.org/wiki/Tlaxcala_(city)",
@@ -2061,6 +2223,20 @@
       "title": "Isla de la Tortuga (Haití)",
       "url": "https://es.wikipedia.org/wiki/Isla_de_la_Tortuga_(Hait%C3%AD)",
       "extract": "La isla de la Tortuga es una isla del mar Caribe de 37 km de largo, 7 km de ancho y 180 km² de superficie, situada al noroeste de la República de Haití, la cual posee su soberanía. Fue bautizada por Cristóbal Colón durante su primer viaje a América, haciendo referencia a que una de sus montañas se asemeja a la forma de una tortuga. Durante el siglo XVII fue un bastión para piratas y filibusteros que navegaban en la región."
+    }
+  },
+  "tours": {
+    "title": "Tours",
+    "url": "https://en.wikipedia.org/wiki/Tours",
+    "extract": "Tours is the largest city in the region of Centre-Val de Loire, France. It is the prefecture of the department of Indre-et-Loire. The commune of Tours had 138,668 inhabitants as of 2022 while the population of the whole metropolitan area was 526,370.",
+    "description": "City in Centre-Val de Loire, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Tram_et_h%C3%B4tel_de_ville_de_Tours.JPG/330px-Tram_et_h%C3%B4tel_de_ville_de_Tours.JPG",
+    "lat": 47.393611,
+    "lon": 0.689167,
+    "es": {
+      "title": "Tours",
+      "url": "https://es.wikipedia.org/wiki/Tours",
+      "extract": "Tours es una ciudad y comuna francesa situada en el departamento de Indre y Loira, del cual es la prefectura, de la región de Centro-Valle de Loira. Su población es de 136 463 habitantes, y la población del conjunto de su área metropolitana es de 495 379 habitantes."
     }
   },
   "tower-hill": {

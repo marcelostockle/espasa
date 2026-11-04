@@ -285,6 +285,20 @@
       }
     }
   },
+  "early-christianity": {
+    "label": "Early Christianity",
+    "color": "#33691e",
+    "description": "The first Christian centuries, from Jesus's followers and Paul's mission to the formation of the New Testament canon and the church councils of late antiquity.",
+    "categories": [
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Cristianismo primitivo",
+        "description": "Los primeros siglos cristianos, desde los seguidores de Jesús y la misión de Pablo hasta la formación del canon del Nuevo Testamento y los concilios de la Antigüedad tardía."
+      }
+    }
+  },
   "electoral-palatinate": {
     "label": "Electoral Palatinate",
     "color": "#26a69a",
@@ -595,6 +609,21 @@
       "es": {
         "label": "José de San Martín",
         "description": "José de San Martín (1778-1850), general argentino que lideró la liberación de Argentina, Chile y el Perú del dominio español y fue Protector del Perú."
+      }
+    }
+  },
+  "judaism": {
+    "label": "Judaism",
+    "color": "#b39ddb",
+    "description": "The religion and people of Israel and Judah and their scriptures, from the Hebrew Bible through rabbinic and medieval Jewish scholarship.",
+    "categories": [
+      "Culture",
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Judaísmo",
+        "description": "La religión y el pueblo de Israel y Judá y sus escrituras, desde la Biblia hebrea hasta la erudición rabínica y judía medieval."
       }
     }
   },
@@ -937,6 +966,20 @@
       "es": {
         "label": "República de Ginebra",
         "description": "La ciudad-estado de Ginebra, desde las franquicias episcopales de 1387, pasando por su Reforma y su independencia frente a Saboya, hasta su anexión por Francia en 1798 y su ingreso en la Confederación Suiza en 1815."
+      }
+    }
+  },
+  "roman-empire": {
+    "label": "Roman Empire",
+    "color": "#8d1f3a",
+    "description": "The Roman state under emperors, from Augustus to the fall of the western empire in 476, including its Christianization.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio romano",
+        "description": "El Estado romano bajo los emperadores, desde Augusto hasta la caída del Imperio de Occidente en 476, incluida su cristianización."
       }
     }
   },

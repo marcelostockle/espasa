@@ -1,4 +1,13 @@
 {
+  "alexandria": {
+    "label": "Alexandria",
+    "wikipedia": "Alexandria",
+    "translations": {
+      "es": {
+        "label": "Alejandría"
+      }
+    }
+  },
   "algiers": {
     "label": "Algiers",
     "wikipedia": "Algiers",
@@ -107,6 +116,15 @@
       }
     }
   },
+  "babylon": {
+    "label": "Babylon",
+    "wikipedia": "Babylon",
+    "translations": {
+      "es": {
+        "label": "Babilonia"
+      }
+    }
+  },
   "badajoz": {
     "label": "Badajoz",
     "wikipedia": "Badajoz",
@@ -167,6 +185,15 @@
     "translations": {
       "es": {
         "label": "Berna"
+      }
+    }
+  },
+  "bethlehem": {
+    "label": "Bethlehem",
+    "wikipedia": "Bethlehem",
+    "translations": {
+      "es": {
+        "label": "Belén"
       }
     }
   },
@@ -269,6 +296,15 @@
       }
     }
   },
+  "cairo": {
+    "label": "Cairo",
+    "wikipedia": "Cairo",
+    "translations": {
+      "es": {
+        "label": "El Cairo"
+      }
+    }
+  },
   "cajamarca": {
     "label": "Cajamarca",
     "wikipedia": "Cajamarca",
@@ -320,6 +356,15 @@
     "translations": {
       "es": {
         "label": "cabo de Buena Esperanza"
+      }
+    }
+  },
+  "carthage": {
+    "label": "Carthage",
+    "wikipedia": "Carthage",
+    "translations": {
+      "es": {
+        "label": "Cartago"
       }
     }
   },
@@ -392,6 +437,15 @@
     "translations": {
       "es": {
         "label": "Constanza"
+      }
+    }
+  },
+  "constantinople": {
+    "label": "Constantinople",
+    "wikipedia": "Constantinople",
+    "translations": {
+      "es": {
+        "label": "Constantinopla"
       }
     }
   },
@@ -620,6 +674,15 @@
       }
     }
   },
+  "great-moravia": {
+    "label": "Great Moravia",
+    "wikipedia": "Great Moravia",
+    "translations": {
+      "es": {
+        "label": "Gran Moravia"
+      }
+    }
+  },
   "guadalete": {
     "label": "Guadalete",
     "wikipedia": "Guadalete",
@@ -683,12 +746,30 @@
       }
     }
   },
+  "hippo-regius": {
+    "label": "Hippo Regius",
+    "wikipedia": "Hippo Regius",
+    "translations": {
+      "es": {
+        "label": "Hipona"
+      }
+    }
+  },
   "java": {
     "label": "Java",
     "wikipedia": "Java",
     "translations": {
       "es": {
         "label": "Java"
+      }
+    }
+  },
+  "jerusalem": {
+    "label": "Jerusalem",
+    "wikipedia": "Jerusalem",
+    "translations": {
+      "es": {
+        "label": "Jerusalén"
       }
     }
   },
@@ -845,6 +926,15 @@
       }
     }
   },
+  "monkwearmouth-jarrow": {
+    "label": "Monkwearmouth–Jarrow Abbey",
+    "wikipedia": "Monkwearmouth–Jarrow Abbey",
+    "translations": {
+      "es": {
+        "label": "Abadía de Monkwearmouth-Jarrow"
+      }
+    }
+  },
   "monte-pascoal": {
     "label": "Monte Pascoal",
     "wikipedia": "Monte Pascoal",
@@ -896,6 +986,15 @@
     "translations": {
       "es": {
         "label": "Nantes"
+      }
+    }
+  },
+  "nicopolis-ad-istrum": {
+    "label": "Nicopolis ad Istrum",
+    "wikipedia": "Nicopolis ad Istrum",
+    "translations": {
+      "es": {
+        "label": "Nicópolis del Istro"
       }
     }
   },
@@ -1295,6 +1394,15 @@
       }
     }
   },
+  "tiberias": {
+    "label": "Tiberias",
+    "wikipedia": "Tiberias",
+    "translations": {
+      "es": {
+        "label": "Tiberíades"
+      }
+    }
+  },
   "tlaxcala": {
     "label": "Tlaxcala",
     "wikipedia": "Tlaxcala City",
@@ -1337,6 +1445,15 @@
     "translations": {
       "es": {
         "label": "Isla de la Tortuga"
+      }
+    }
+  },
+  "tours": {
+    "label": "Tours",
+    "wikipedia": "Tours",
+    "translations": {
+      "es": {
+        "label": "Tours"
       }
     }
   },
