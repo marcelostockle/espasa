@@ -111,6 +111,20 @@
       "extract": "Amberes, antiguamente conocida como Antuerpia, es una ciudad belga, la capital de la homónima provincia de Amberes, en Flandes o Región Flamenca. Tenía 520 504 habitantes en 2017, que la hacen la ciudad más poblada de la región flamenca, y con 1,2 millones de la región metropolitana, la segunda más populosa después de la de Bruselas. El área metropolitana comprende 1449 km²."
     }
   },
+  "appian-way": {
+    "title": "Appian Way",
+    "url": "https://en.wikipedia.org/wiki/Appian_Way",
+    "extract": "The Appian Way, also known by its Latin and Italian name, \nVia Appia, is one of the earliest and strategically most important Roman roads of the ancient republic. It connected Rome to Brindisi, in southeast Italy. Its importance is indicated by its common name, recorded by Statius, of Appia longarum... regina viarum. The road is named after Appius Claudius Caecus, the Roman censor who, during the Samnite Wars, began and completed the first section as a military road to the south in 312 BC.",
+    "description": "Ancient Roman road",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Paesaggio_dell%27Appia_antica.jpg/330px-Paesaggio_dell%27Appia_antica.jpg",
+    "lat": 41.84138889,
+    "lon": 12.5325,
+    "es": {
+      "title": "Vía Apia",
+      "url": "https://es.wikipedia.org/wiki/V%C3%ADa_Apia",
+      "extract": "La Vía Apia fue una de las más importantes calzadas de la antigua Roma que unía a dicha ciudad con Brindisi, el más importante puerto comercial con el Mediterráneo oriental y Oriente Medio. Estacio describió su importancia al describirla por su nombre común:\n\n\n \n"
+    }
+  },
   "aranjuez": {
     "title": "Aranjuez",
     "url": "https://en.wikipedia.org/wiki/Aranjuez",
@@ -123,6 +137,20 @@
       "title": "Aranjuez",
       "url": "https://es.wikipedia.org/wiki/Aranjuez",
       "extract": "Aranjuez es un municipio español en el extremo sur de la Comunidad de Madrid, cabeza del partido judicial del mismo nombre. Se encuentra en un ancho valle, junto a la confluencia de los ríos Tajo y Jarama, bordeado por un conjunto de cerros y mesetas que alcanzan los 630 m de altitud. Además de los cauces naturales, posee una extensa red de canales, acequias y presas históricas que, tradicionalmente, han propiciado los cultivos de regadío, como frutales y hortalizas, entre los que destacan fresas y espárragos. A nivel medioambiental, buena parte del término municipal forma parte de la zona especial de conservación Vegas, cuestas y páramos del sureste de Madrid, en la cual destacan la reserva natural del Carrizal de Villamejor, y la reserva del Regajal-Mar de Ontígola, que incluye el humedal del Mar de Ontígola y la finca El Regajal."
+    }
+  },
+  "ascoli-satriano": {
+    "title": "Ascoli Satriano",
+    "url": "https://en.wikipedia.org/wiki/Ascoli_Satriano",
+    "extract": "Ascoli Satriano is a town and comune in the province of Foggia in the Apulia region of southeast Italy. It is located on the edge of a large plain in Northern Apulia known as the Tavoliere delle Puglie.",
+    "description": "Comune in Apulia, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Palazzoducalepanoramica.jpg/330px-Palazzoducalepanoramica.jpg",
+    "lat": 41.21555556,
+    "lon": 15.55777778,
+    "es": {
+      "title": "Ascoli Satriano",
+      "url": "https://es.wikipedia.org/wiki/Ascoli_Satriano",
+      "extract": "Ascoli Satriano es una villa y comune (municipio) de la provincia de Foggia, en la región suroriental italiana de la Apulia."
     }
   },
   "augsburg": {
@@ -347,6 +375,20 @@
       "title": "Bastilla",
       "url": "https://es.wikipedia.org/wiki/Bastilla",
       "extract": "La Bastilla era una fortaleza que protegía el costado oriental de la ciudad de París, conocida formalmente como la Bastille Saint-Antoine. Desempeñó un papel importante en los conflictos internos de Francia y durante la mayor parte de su historia fue usada como una prisión estatal por los reyes de Francia. Fue tomada por una multitud el 14 de julio de 1789 durante la Revolución francesa, convirtiéndose en un símbolo importante del movimiento republicano francés. Tiempo después fue demolida y reemplazada por la Plaza de la Bastilla."
+    }
+  },
+  "benevento": {
+    "title": "Benevento",
+    "url": "https://en.wikipedia.org/wiki/Benevento",
+    "extract": "Benevento is a city and comune (municipality) of Campania, Italy, capital of the province of Benevento. It is situated on a hill 130 metres above sea level at the confluence of the Calore Irpino and the Sabato. As of June 30, 2025, Benevento has 55,319 inhabitants. It is also the seat of a Catholic archbishop.",
+    "description": "City in Campania, Italy; Roman Beneventum",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Benevento-collage.jpg/330px-Benevento-collage.jpg",
+    "lat": 41.13333333,
+    "lon": 14.78333333,
+    "es": {
+      "title": "Benevento",
+      "url": "https://es.wikipedia.org/wiki/Benevento",
+      "extract": "Benevento es una ciudad italiana de 57 456 habitantes, capital de la provincia homónima, en la región de Campania. La población del área urbana alcanza los 110 000 habitantes."
     }
   },
   "bern": {
@@ -710,6 +752,20 @@
       "title": "Castilleja de la Cuesta",
       "url": "https://es.wikipedia.org/wiki/Castilleja_de_la_Cuesta",
       "extract": "Castilleja de la Cuesta es un municipio y localidad española perteneciente a la provincia de Sevilla, en la comunidad autónoma de Andalucía. Se sitúa en la comarca Metropolitana de Sevilla. Cuenta con una población de 17 074 habitantes."
+    }
+  },
+  "caudine-forks": {
+    "title": "Battle of the Caudine Forks",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_the_Caudine_Forks",
+    "extract": "The Battle of Caudine Forks was a decisive event of the Second Samnite War. Its designation as a battle is a mere historical formality: there was no fighting and there were no casualties. The Romans were trapped in an enclosed valley by the Samnites before they knew what was happening and nothing remained but to negotiate an unfavorable surrender. The action was entirely political, with the magistrates on both sides trying to obtain the best terms for their side without disrespecting common beliefs concerning the rules of war and the conduct of peace. In the end the Samnites decided it would be better for future relations to let the Romans go, while the Romans were impeded in the prosecution of their campaign against the Samnites by considerations of religion and honor.",
+    "description": "Battle of the Second Samnite War (321 BC)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Battle_of_the_Caudine_Forks.jpg/330px-Battle_of_the_Caudine_Forks.jpg",
+    "lat": 41.15,
+    "lon": 14.5333,
+    "es": {
+      "title": "Batalla de las Horcas Caudinas",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_las_Horcas_Caudinas",
+      "extract": "La batalla de las Horcas Caudinas fue un enfrentamiento militar librado en 321 a. C., en el marco de la segunda guerra samnita, entre los ejércitos de la República romana y de los samnitas con victoria de los segundos. La derrota dejó una profunda huella en la memoria romana, siendo recordada como equivalente a Alia y a la posterior en Cannas."
     }
   },
   "ceuta": {
@@ -1414,6 +1470,20 @@
     "lat": 53.155,
     "lon": 7.0125
   },
+  "heraclea-lucania": {
+    "title": "Battle of Heraclea",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Heraclea",
+    "extract": "The Battle of Heraclea took place in 280 BC between the Romans under the command of consul Publius Valerius Laevinus, and the combined forces of Greeks from Epirus, Tarentum, Thurii, Metapontum, and Heraclea under the command of Pyrrhus, king of Epirus. Although the battle was a victory for the Greeks, they incurred severe losses.",
+    "description": "Battle in 280 BC between the Romans and Pyrrhus of Epirus",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/The_story_of_Rome%2C_from_the_earliest_times_to_the_death_of_Augustus%2C_told_to_boys_and_girls_%281912%29_%2814566518210%29.jpg/330px-The_story_of_Rome%2C_from_the_earliest_times_to_the_death_of_Augustus%2C_told_to_boys_and_girls_%281912%29_%2814566518210%29.jpg",
+    "lat": 40.22,
+    "lon": 16.66972222,
+    "es": {
+      "title": "Batalla de Heraclea",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Heraclea",
+      "extract": "La batalla de Heraclea tuvo lugar en el 280 a. C., en la ciudad de Heraclea, la actual Policoro, dando inicio a las Guerras Pírricas. Estas guerras fueron el último intento de las polis de la Magna Grecia de impedir la expansión por la península itálica de la joven República romana. Para conseguir frenar a los romanos llamaron en su ayuda al rey Pirro de Epiro; de ahí el nombre del conflicto."
+    }
+  },
   "hippo-regius": {
     "title": "Hippo Regius",
     "url": "https://en.wikipedia.org/wiki/Hippo_Regius",
@@ -1426,6 +1496,20 @@
       "title": "Hipona",
       "url": "https://es.wikipedia.org/wiki/Hipona",
       "extract": "Hipona o Hippo Regius, fue una antigua ciudad de Numidia a la orilla del río Ubus, en la actual Argelia."
+    }
+  },
+  "janiculum": {
+    "title": "Janiculum",
+    "url": "https://en.wikipedia.org/wiki/Janiculum",
+    "extract": "The Janiculum, occasionally known as the Janiculan Hill, is a hill in western Rome, Italy. Although it is the second-tallest hill in the contemporary city of Rome, the Janiculum is not considered among the proverbial Seven Hills of Rome, as it is west of the Tiber river and outside the boundaries of the ancient city.",
+    "description": "Hill in western Rome, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Janiculum.jpg/330px-Janiculum.jpg",
+    "lat": 41.89166667,
+    "lon": 12.46111111,
+    "es": {
+      "title": "Janículo",
+      "url": "https://es.wikipedia.org/wiki/Jan%C3%ADculo",
+      "extract": "Janículo es el nombre de una colina de la ciudad de Roma, tal colina tiene 82 m s. n. m. y no es una de las siete colinas tradicionales de la Roma romana. Se encuentra en el famoso barrio del Trastévere. Los edificios del Janículo fueron declarados Patrimonio de la Humanidad por la Unesco en 1990, con el número de identificación 91-011."
     }
   },
   "jankov": {
@@ -1594,6 +1678,18 @@
       "title": "Archibasílica de San Juan de Letrán",
       "url": "https://es.wikipedia.org/wiki/Archibas%C3%ADlica_de_San_Juan_de_Letr%C3%A1n",
       "extract": "La Catedral Archibasílica Papal del Santísimo Salvador del Mundo y de los Santos Juan Bautista y Juan Evangelista en Letrán, Madre y Cabeza de todas las Iglesias de la Ciudad y el Mundo, más conocida como Archibasílica de San Juan de Letrán, es la catedral de Roma, donde encuentra la sede episcopal su obispo, el papa. Está dedicada a Cristo Salvador, sin embargo es más conocida con el nombre de San Juan, por estar también dedicada a los dos santos principales que llevan este nombre."
+    }
+  },
+  "latium": {
+    "title": "Latium",
+    "url": "https://en.wikipedia.org/wiki/Latium",
+    "extract": "Latium is the region of central western Italy in which the city of Rome was founded, the capital city of the Roman Empire. The wide, flat region lends its name to Latin.",
+    "description": "Historical region of Italy where Rome was founded",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Latium_et_Campania.png/330px-Latium_et_Campania.png",
+    "es": {
+      "title": "Lacio (Antigüedad)",
+      "url": "https://es.wikipedia.org/wiki/Lacio_(Antig%C3%BCedad)",
+      "extract": "El Lacio fue una región histórico-geográfica constituida por la parte meridional del actual Lacio —en la Italia central— situada al sur del río Tíber —que la separaba de los territorios etruscos — y al norte del río Garigliano —que la separaba de Campania— limitada por la costa tirrenica y extendiéndose por las estribaciones de los Apeninos centrales hacia el interior."
     }
   },
   "lavinium": {
@@ -2577,6 +2673,20 @@
       "extract": "Salvador, fundada como São Salvador da Bahia de Todos os Santos, en español San Salvador de la Bahía de Todos los Santos,es una ciudad brasileña, capital del estado de Bahía y primera capital del Brasil Colonial. Sus habitantes son llamados soteropolitanos, término creado a partir de la traducción al griego del nombre de la ciudad, traducido al español como Ciudad del Salvador, compuesto de Σωτήρ (\"salvador\") y πόλις."
     }
   },
+  "samnium": {
+    "title": "Samnium",
+    "url": "https://en.wikipedia.org/wiki/Samnium",
+    "extract": "Samnium is a Latin exonym for a region of Southern Italy anciently inhabited by the Samnites. Their own endonyms were Safinim for the country and Safineis for the people. The language of these endonyms and of the population was the Oscan language. However, not all the Samnites spoke Oscan, and not all the Oscan-speakers lived in Samnium.",
+    "description": "Historical region of southern Italy; part of the Roman Republic/Empire",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/ItaliaAlTempoDiAugusto_%28expo_-25_contrasto_25%29.jpg/330px-ItaliaAlTempoDiAugusto_%28expo_-25_contrasto_25%29.jpg",
+    "lat": 41.16944444,
+    "lon": 14.23611111,
+    "es": {
+      "title": "Samnio",
+      "url": "https://es.wikipedia.org/wiki/Samnio",
+      "extract": "Samnio era una región histórico-geográfica del sur de los Apeninos, en la Italia centro-meridional, que controlaron los samnitas, un grupo de tribus sabelias de 600 a 290 a. C."
+    }
+  },
   "santiago-de-los-caballeros": {
     "title": "Santiago de los Caballeros",
     "url": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros",
@@ -2646,6 +2756,15 @@
       "url": "https://es.wikipedia.org/wiki/Esmalcalda",
       "extract": "Esmalcalda es una ciudad alemana del estado de Turingia."
     }
+  },
+  "sentinum": {
+    "title": "Sentinum",
+    "url": "https://en.wikipedia.org/wiki/Sentinum",
+    "extract": "Sentinum was a Roman town now located about a kilometre south of the present-day town of Sassoferrato in the Marche region of Italy.",
+    "description": "Ancient Roman town",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Sentinum_3.png/330px-Sentinum_3.png",
+    "lat": 43.41848889,
+    "lon": 12.85225
   },
   "serra-da-barriga": {
     "title": "Serra da Barriga",
@@ -2857,6 +2976,20 @@
       "title": "Subiaco",
       "url": "https://es.wikipedia.org/wiki/Subiaco",
       "extract": "Subiaco es un municipio de 9.332 habitantes, a 408 m s. n. m. en el valle superior del Aniene, en la ribera oriental del río."
+    }
+  },
+  "taranto": {
+    "title": "Taranto",
+    "url": "https://en.wikipedia.org/wiki/Taranto",
+    "extract": "Taranto, historically also called Tarent in English, is a coastal city in Apulia, Southern Italy on the Gulf of Taranto. It is the capital of the province of Taranto, serving as an important commercial port as well as the main base of the Italian navy. With a population of 185,112 as of 2026, Taranto is the second-largest city in Apulia.",
+    "description": "UNESCO World Heritage Site",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Ponte_Girevole_%28Taranto%29_01.jpg/330px-Ponte_Girevole_%28Taranto%29_01.jpg",
+    "lat": 40.47111111,
+    "lon": 17.24305556,
+    "es": {
+      "title": "Tarento",
+      "url": "https://es.wikipedia.org/wiki/Tarento",
+      "extract": "Tarento es una ciudad del sur de Italia, en la región de Apulia. Ubicada a orillas del mar Jónico, en el istmo de la península salentina, da nombre al golfo de Tarento. El casco antiguo de la ciudad se sitúa en una pequeña isla entre el Mediterráneo y el mare Piccolo, una bahía casi cerrada. Fue fundada en el año 706 a. C. con el nombre de Taras."
     }
   },
   "tenochtitlan": {
@@ -3277,6 +3410,18 @@
       "title": "Vilvoorde",
       "url": "https://es.wikipedia.org/wiki/Vilvoorde",
       "extract": "Vilvorde o Vilvoorde es una ciudad de Bélgica situada en la Región Flamenca, en la provincia del Brabante Flamenco.\nVilvoorde también es el nombre del municipio donde se halla esta ciudad."
+    }
+  },
+  "volsinii": {
+    "title": "Volsinii",
+    "url": "https://en.wikipedia.org/wiki/Volsinii",
+    "extract": "Volsinii or Vulsinii, is the name of two ancient cities of Etruria, one situated on the shore of Lacus Volsiniensis, and the other on the Via Clodia, between Clusium (Chiusi) and Forum Cassii (Vetralla). The latter was Etruscan and was destroyed by the Romans in 264 BC following an attempted revolt by its slaves, while the former was founded by the Romans using the remainder of the Etruscan population rescued from the razed city.",
+    "description": "Ancient Etruscan cities",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bolsena.jpg/330px-Bolsena.jpg",
+    "es": {
+      "title": "Volsinii",
+      "url": "https://es.wikipedia.org/wiki/Volsinii",
+      "extract": "Volsinii fue una antigua ciudad etrusca y después romana."
     }
   },
   "wittenberg": {

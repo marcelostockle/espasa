@@ -71,12 +71,30 @@
       }
     }
   },
+  "appian-way": {
+    "label": "Appian Way",
+    "wikipedia": "Appian Way",
+    "translations": {
+      "es": {
+        "label": "Vía Apia"
+      }
+    }
+  },
   "aranjuez": {
     "label": "Aranjuez",
     "wikipedia": "Aranjuez",
     "translations": {
       "es": {
         "label": "Aranjuez"
+      }
+    }
+  },
+  "ascoli-satriano": {
+    "label": "Asculum (Ascoli Satriano)",
+    "wikipedia": "Ascoli Satriano",
+    "translations": {
+      "es": {
+        "label": "Ásculo (Ascoli Satriano)"
       }
     }
   },
@@ -221,6 +239,15 @@
     "translations": {
       "es": {
         "label": "Bastilla"
+      }
+    }
+  },
+  "benevento": {
+    "label": "Beneventum (Benevento)",
+    "wikipedia": "Benevento",
+    "translations": {
+      "es": {
+        "label": "Benevento"
       }
     }
   },
@@ -464,6 +491,15 @@
     "translations": {
       "es": {
         "label": "Castilleja de la Cuesta"
+      }
+    }
+  },
+  "caudine-forks": {
+    "label": "Caudine Forks",
+    "wikipedia": "Battle of the Caudine Forks",
+    "translations": {
+      "es": {
+        "label": "Horcas Caudinas"
       }
     }
   },
@@ -926,12 +962,30 @@
       }
     }
   },
+  "heraclea-lucania": {
+    "label": "Heraclea",
+    "wikipedia": "Battle of Heraclea",
+    "translations": {
+      "es": {
+        "label": "Heraclea"
+      }
+    }
+  },
   "hippo-regius": {
     "label": "Hippo Regius",
     "wikipedia": "Hippo Regius",
     "translations": {
       "es": {
         "label": "Hipona"
+      }
+    }
+  },
+  "janiculum": {
+    "label": "Janiculum",
+    "wikipedia": "Janiculum",
+    "translations": {
+      "es": {
+        "label": "Janículo"
       }
     }
   },
@@ -1040,6 +1094,15 @@
     "translations": {
       "es": {
         "label": "Basílica de San Juan de Letrán"
+      }
+    }
+  },
+  "latium": {
+    "label": "Latium",
+    "wikipedia": "Latium",
+    "translations": {
+      "es": {
+        "label": "Lacio"
       }
     }
   },
@@ -1682,6 +1745,15 @@
       }
     }
   },
+  "samnium": {
+    "label": "Samnium",
+    "wikipedia": "Samnium",
+    "translations": {
+      "es": {
+        "label": "Samnio"
+      }
+    }
+  },
   "santiago-de-los-caballeros": {
     "label": "Santiago",
     "wikipedia": "Santiago de los Caballeros",
@@ -1724,6 +1796,15 @@
     "translations": {
       "es": {
         "label": "Esmalcalda"
+      }
+    }
+  },
+  "sentinum": {
+    "label": "Sentinum",
+    "wikipedia": "Sentinum",
+    "translations": {
+      "es": {
+        "label": "Sentino"
       }
     }
   },
@@ -1868,6 +1949,15 @@
     "translations": {
       "es": {
         "label": "Subiaco"
+      }
+    }
+  },
+  "taranto": {
+    "label": "Tarentum (Taranto)",
+    "wikipedia": "Taranto",
+    "translations": {
+      "es": {
+        "label": "Tarento (Taranto)"
       }
     }
   },
@@ -2138,6 +2228,15 @@
     "translations": {
       "es": {
         "label": "Vilvoorde"
+      }
+    }
+  },
+  "volsinii": {
+    "label": "Volsinii",
+    "wikipedia": "Volsinii",
+    "translations": {
+      "es": {
+        "label": "Volsinii"
       }
     }
   },
