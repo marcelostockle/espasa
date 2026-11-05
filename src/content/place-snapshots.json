@@ -1,4 +1,18 @@
 {
+  "aegates": {
+    "title": "Aegadian Islands",
+    "url": "https://en.wikipedia.org/wiki/Aegadian_Islands",
+    "extract": "The Aegadian Islands are a group of five small mountainous islands in the Mediterranean Sea off the northwest coast of Sicily, Italy, near the cities of Trapani and Marsala, with a total area of 37.45 square kilometres (14.46 sq mi).",
+    "description": "Group of five small mountainous islands in the Mediterranean Sea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Aegadian_Islands_map.png/330px-Aegadian_Islands_map.png",
+    "lat": 37.96666667,
+    "lon": 12.2,
+    "es": {
+      "title": "Islas Egadas",
+      "url": "https://es.wikipedia.org/wiki/Islas_Egadas",
+      "extract": "Las islas Egadas o islas Ágatas es un archipiélago de Italia de pequeñas islas montañosas localizado frente a la costa occidental de la isla de Sicilia, en el límite entre las aguas del mar Mediterráneo y el mar Tirreno."
+    }
+  },
   "alcala-de-henares": {
     "title": "Alcalá de Henares",
     "url": "https://en.wikipedia.org/wiki/Alcal%C3%A1_de_Henares",
@@ -69,6 +83,20 @@
       "extract": "Argel es la capital y la mayor ciudad de Argelia. Argel está situada en el litoral mediterráneo y es el principal puerto del noroeste del Magreb."
     }
   },
+  "alps": {
+    "title": "Alps",
+    "url": "https://en.wikipedia.org/wiki/Alps",
+    "extract": "The Alps are some of the highest and most extensive mountain ranges in Europe, stretching approximately 1,200 km (750 mi) across several Alpine countries : Monaco, France, Switzerland, Italy, Liechtenstein, Germany, Austria, and Slovenia.",
+    "description": "Major mountain range in Central Europe",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Alps_2007-03-13_10.10UTC_1px-250m.jpg/330px-Alps_2007-03-13_10.10UTC_1px-250m.jpg",
+    "lat": 46.58,
+    "lon": 8.62,
+    "es": {
+      "title": "Alpes",
+      "url": "https://es.wikipedia.org/wiki/Alpes",
+      "extract": "Los Alpes son una cadena de montañas situada en la Europa Central. Su cumbre más alta es el Mont Blanc, con 4810 m s. n. m. Alrededor de los Alpes, favorecidos por ríos importantes de caudal uniforme y ricas tierras de cultivo, se ubicaron desde la prehistoria diversos pueblos, como los celtas, los lingones, leucos, insubrios, helvecios y, posteriormente, germánicos en el noreste y pueblos itálicos en el sur, después de la conquista romana de la Galia Cisalpina. Actualmente viven unos 14 millones de personas en la región de los Alpes."
+    }
+  },
   "amsterdam": {
     "title": "Amsterdam",
     "url": "https://en.wikipedia.org/wiki/Amsterdam",
@@ -109,6 +137,19 @@
       "title": "Amberes",
       "url": "https://es.wikipedia.org/wiki/Amberes",
       "extract": "Amberes, antiguamente conocida como Antuerpia, es una ciudad belga, la capital de la homónima provincia de Amberes, en Flandes o Región Flamenca. Tenía 520 504 habitantes en 2017, que la hacen la ciudad más poblada de la región flamenca, y con 1,2 millones de la región metropolitana, la segunda más populosa después de la de Bruselas. El área metropolitana comprende 1449 km²."
+    }
+  },
+  "apamea": {
+    "title": "Apamea (Phrygia)",
+    "url": "https://en.wikipedia.org/wiki/Apamea_(Phrygia)",
+    "extract": "Apamea Cibotus, Apamea ad Maeandrum, Apamea or Apameia was an ancient city in Anatolia founded in the 3rd century BC by Antiochus I Soter, who named it after his mother Apama. It was in Hellenistic Phrygia, but became part of the Roman province of Pisidia. It was near, but on lower ground than, Celaenae (Kelainai).",
+    "description": "Ancient city in Anatolia",
+    "lat": 38.07166667,
+    "lon": 30.16555556,
+    "es": {
+      "title": "Apamea (Frigia)",
+      "url": "https://es.wikipedia.org/wiki/Apamea_(Frigia)",
+      "extract": "Apamea fue una ciudad helenística de Frigia, cerca del actual distrito de Dinar en Turquía. También se denominaba Apamea Ciboto."
     }
   },
   "appian-way": {
@@ -659,6 +700,20 @@
       "extract": "Cambridge es una ciudad ubicada en el condado de Middlesex en el estado de Massachusetts, Estados Unidos. En el Censo de 2020 tenía una población de 118 403 habitantes y una densidad poblacional de 7182 personas por km². Se encuentra al este del estado, a las afueras de Boston."
     }
   },
+  "cannae": {
+    "title": "Cannae",
+    "url": "https://en.wikipedia.org/wiki/Cannae",
+    "extract": "Cannae is an ancient village of the Apulia region of south east Italy. It is a frazione of the comune (municipality) of Barletta. Cannae was formerly a bishopric, and is a Latin Catholic titular see.",
+    "description": "Town in south east Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Canne2.jpg/330px-Canne2.jpg",
+    "lat": 41.29638889,
+    "lon": 16.15166667,
+    "es": {
+      "title": "Cannas",
+      "url": "https://es.wikipedia.org/wiki/Cannas",
+      "extract": "Cannas fue una antigua ciudad de Apulia, situada a 9 kilómetros del mar Adriático, y erigida en una altitud de 54 m que dominaba la orilla derecha del río Ofanto. Escenario de la famosa batalla de Cannas, corresponde a la actual localidad de Canne della Battaglia, en Barletta. Existen allí restos arqueológicos de interés, entre los que destacan una villa de los antiguos habitantes de Apulia, un menhir y una necrópolis."
+    }
+  },
   "cap-francais": {
     "title": "Cap-Haïtien",
     "url": "https://en.wikipedia.org/wiki/Cap-Ha%C3%AFtien",
@@ -936,6 +991,20 @@
       "extract": "Córdoba es una ciudad y municipio español en Andalucía, capital de la provincia homónima, situada en una depresión a orillas del Guadalquivir y al pie de Sierra Morena. Alberga una población de 323 262 habitantes, siendo la tercera ciudad más grande y poblada de Andalucía tras Sevilla y Málaga, y la duodécima de España. Su área metropolitana comprende los municipios de la capital junto con los de Almodóvar del Río, Guadalcázar, La Carlota, Obejo, Villafranca de Córdoba, Villaharta y Villaviciosa de Córdoba, albergando una población total de 354 202 habitantes en 2022, la vigésimo tercera más poblada de España."
     }
   },
+  "corinth": {
+    "title": "Ancient Corinth",
+    "url": "https://en.wikipedia.org/wiki/Ancient_Corinth",
+    "extract": "Corinth was a city-state (polis) on the Isthmus of Corinth, the narrow stretch of land that joins the Peloponnese peninsula to mainland Greece, roughly halfway between Athens and Sparta. The modern city of Corinth is located approximately 5 kilometres (3.1 mi) northeast of the ancient ruins. Since 1896, systematic archaeological investigations of the Corinth Excavations by the American School of Classical Studies at Athens have revealed large parts of the ancient city, and recent excavations conducted by the Greek Ministry of Culture have brought to light important new facets of antiquity.",
+    "description": "Ancient city-state in mainland Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ravel_1008.2.jpg/330px-Ravel_1008.2.jpg",
+    "lat": 37.9053455,
+    "lon": 22.8801924,
+    "es": {
+      "title": "Antigua Corinto",
+      "url": "https://es.wikipedia.org/wiki/Antigua_Corinto",
+      "extract": "Corinto fue una ciudad-Estado (polis) ubicada en el istmo de Corinto, la estrecha franja de tierra que une el Peloponeso con la Grecia continental, a medio camino entre Atenas y Esparta. La ciudad moderna de Corinto se encuentra a aproximadamente 5 km al noreste de las ruinas antiguas. Desde 1896, las excavaciones arqueológicas sistemáticas de Corinto llevadas a cabo por la American School of Classical Studies at Athens han revelado grandes partes de la ciudad antigua e investigaciones recientes dirigidas por el Ministerio de Cultura griego han ilustrado importantes facetas nuevas sobre la Antigüedad."
+    }
+  },
   "corunna": {
     "title": "A Coruña",
     "url": "https://en.wikipedia.org/wiki/A_Coru%C3%B1a",
@@ -990,6 +1059,18 @@
       "title": "Cusco",
       "url": "https://es.wikipedia.org/wiki/Cusco",
       "extract": "El Cusco o Cuzco es una ciudad del sureste del Perú ubicada en la vertiente oriental de la cordillera de los Andes, en la cuenca del río Huatanay, afluente del Vilcanota. Es la capital del departamento del Cusco y, además, según está declarado en la Constitución peruana, es la «capital histórica» del país. La ciudad, según el INEI, es la séptima más poblada del Perú, y albergaba, en 2017, una población de 437 538 habitantes."
+    }
+  },
+  "cynoscephalae": {
+    "title": "Battle of Cynoscephalae",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Cynoscephalae",
+    "extract": "The Battle of Cynoscephalae was an encounter battle fought in Thessaly in June 197 BC between the Roman-Aetolian army, led by Titus Quinctius Flamininus, and Antigonid Macedon, led by Philip V, during the Second Macedonian War. It was a decisive Roman victory and marked the end of the conflict.",
+    "description": "197 BC Roman victory in the Second Macedonian War",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Macedonia_and_the_Aegean_World_c.200.png/330px-Macedonia_and_the_Aegean_World_c.200.png",
+    "es": {
+      "title": "Batalla de Cinoscéfalas (197 a. C.)",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Cinosc%C3%A9falas_(197_a._C.)",
+      "extract": "La batalla de Cinoscéfalas fue un enfrentamiento militar librado en 197 a. C. en el contexto de la segunda guerra macedónica, entre las legiones de la República romana, encabezadas por el procónsul Tito Quincio Flaminino, y el ejército del Reino de Macedonia, liderado por el rey Filipo V. El encuentro terminó en una decisiva victoria de Roma."
     }
   },
   "dadu": {
@@ -1102,6 +1183,20 @@
       "title": "Dresde",
       "url": "https://es.wikipedia.org/wiki/Dresde",
       "extract": "Dresde es la capital del estado federado de Sajonia, en Alemania. Limita al noroeste con el distrito de Meißen, al noreste con el de Bautzen y al sur con el de distrito de Suiza Sajona-Montes Metálicos Orientales. Dresde se encuentra justo en el centro de la conurbación homónima. Esta aglomeración, junto con la de Chemnitz-Zwickau y la de Leipzig-Halle, constituyen la llamada “región metropolitana del triángulo sajón”. La población total de Dresde supera los 550 000 habitantes y su correspondiente Regierungsbezirk o región administrativa, el millón y medio."
+    }
+  },
+  "ebro": {
+    "title": "Ebro",
+    "url": "https://en.wikipedia.org/wiki/Ebro",
+    "extract": "The Ebro is a river of the north and northeast of the Iberian Peninsula, in Spain. It rises in Cantabria and flows 930 kilometres (580 mi), almost entirely in an east-southeast direction. It flows into the Mediterranean Sea, forming a delta in the Terres de l'Ebre region, in southern Catalonia. In the Iberian peninsula, it ranks second in length after the Tagus and second in discharge volume, and drainage basin, after the Douro. It is the longest river entirely within Spain; the other two mentioned flow into Portugal.",
+    "description": "River in the Iberian Peninsula",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Zaragoza_shel.JPG/330px-Zaragoza_shel.JPG",
+    "lat": 40.72,
+    "lon": 0.86305556,
+    "es": {
+      "title": "Ebro",
+      "url": "https://es.wikipedia.org/wiki/Ebro",
+      "extract": "El Ebro es un río del noreste de la península ibérica, el segundo más largo y caudaloso de esta, tras el Tajo y el Duero, respectivamente. Discurre enteramente por España. Entre los ríos que desembocan en el mar Mediterráneo, solo es superado en longitud por el Nilo."
     }
   },
   "eisleben": {
@@ -1498,6 +1593,47 @@
       "extract": "Hipona o Hippo Regius, fue una antigua ciudad de Numidia a la orilla del río Ubus, en la actual Argelia."
     }
   },
+  "hispania": {
+    "title": "Hispania",
+    "url": "https://en.wikipedia.org/wiki/Hispania",
+    "extract": "Hispania was the Roman name for the Iberian Peninsula. Under the Roman Republic, it was divided into two provinces: Hispania Citerior and Hispania Ulterior. During the Roman Empire, under the Principate, Hispania Ulterior was subdivided into Baetica and Lusitania, while Hispania Citerior was reorganized as Hispania Tarraconensis.",
+    "description": "Roman province (218 BC – 472 AD)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Conquista_Hispania.svg/330px-Conquista_Hispania.svg.png",
+    "lat": 40.21,
+    "lon": -4.35,
+    "es": {
+      "title": "Hispania",
+      "url": "https://es.wikipedia.org/wiki/Hispania",
+      "extract": "El topónimo latino Hispania era el nombre que los romanos daban a la península ibérica y territorios asociados."
+    }
+  },
+  "ilipa": {
+    "title": "Alcalá del Río",
+    "url": "https://en.wikipedia.org/wiki/Alcal%C3%A1_del_R%C3%ADo",
+    "extract": "Alcalá del Río is a municipality in Seville, Spain. It had a population of 9,317 in 2005. It has an area of about 83 square kilometers and has a population density of 112.3 people per square kilometer. It has an altitude of 30 meters and is situated 13 kilometers away from Seville.",
+    "description": "Place in Andalusia, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Alcala_de_rio_001.jpg/330px-Alcala_de_rio_001.jpg",
+    "lat": 37.51666667,
+    "lon": -5.96666667,
+    "es": {
+      "title": "Alcalá del Río",
+      "url": "https://es.wikipedia.org/wiki/Alcal%C3%A1_del_R%C3%ADo",
+      "extract": "Alcalá del Río es un municipio y localidad española de la provincia de Sevilla, en la comunidad autónoma de Andalucía. Se sitúa en la comarca de la Vega del Guadalquivir, a unos 15 km al norte de la capital de provincia, Sevilla. Cuenta con una población de 12 335 habitantes y tiene una superficie de 82 km². Además del núcleo de población principal tiene tres pedanías: El Viar, Esquivel y San Ignacio del Viar, construidas por el Instituto Nacional de Colonización (INC). Cuenta con un aeródromo con capacidad de aeronaves ultraligeras: el aeródromo de Alcalá del Río."
+    }
+  },
+  "isthmia": {
+    "title": "Isthmia (sanctuary)",
+    "url": "https://en.wikipedia.org/wiki/Isthmia_(sanctuary)",
+    "extract": "Isthmia was an ancient sanctuary of Poseidon on the territory of the ancient city-state of Corinth and located on the Isthmus of Corinth in Greece. It was famous in antiquity for the Isthmian Games and its Temple of Poseidon. Today it is an important archaeological site with museum.",
+    "description": "Sanctuary in Corinthia, Greece",
+    "lat": 37.915927,
+    "lon": 22.993169,
+    "es": {
+      "title": "Istmia",
+      "url": "https://es.wikipedia.org/wiki/Istmia",
+      "extract": "Istmia es un sitio arqueológico, antiguo santuario de Poseidón, situado al noreste del Peloponeso (Grecia) cerca del istmo de Corinto, donde en la Antigüedad tenían lugar los Juegos Ístmicos."
+    }
+  },
   "janiculum": {
     "title": "Janiculum",
     "url": "https://en.wikipedia.org/wiki/Janiculum",
@@ -1734,6 +1870,15 @@
       "extract": "Lens [lɑ̃s] es una ciudad y comuna francesa situada en el departamento de Paso de Calais, en la región de Alta Francia."
     }
   },
+  "libyssa": {
+    "title": "Libyssa",
+    "url": "https://en.wikipedia.org/wiki/Libyssa",
+    "extract": "Libyssa, also spelled Libysa (Λίβισσα), was an ancient settlement in Bithynia on the southern coast of the Sinus Astacenus in northwestern Anatolia. It was situated on the road between Chalcedon and Nicomedia. The settlement is chiefly known as the place where the Carthaginian general Hannibal died and where ancient tradition placed his tomb.",
+    "description": "Ancient settlement in Bithynia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hanibal%27s_Tomb_%287471635270%29.jpg/330px-Hanibal%27s_Tomb_%287471635270%29.jpg",
+    "lat": 40.769562,
+    "lon": 29.539812
+  },
   "lima": {
     "title": "Lima",
     "url": "https://en.wikipedia.org/wiki/Lima",
@@ -1788,6 +1933,20 @@
       "title": "Lübeck",
       "url": "https://es.wikipedia.org/wiki/L%C3%BCbeck",
       "extract": "Lübeck () —en español también Lubeca—, oficialmente Ciudad hanseática de Lübeck, es la segunda ciudad más poblada del estado federado de Schleswig-Holstein, en el norte de Alemania, después de Kiel. El casco medieval de la ciudad fue declarado Patrimonio de la Humanidad por la Unesco en 1987, destacando las construcciones de ladrillo en estilo gótico báltico, como la Puerta de Holsten."
+    }
+  },
+  "lusitania": {
+    "title": "Lusitania",
+    "url": "https://en.wikipedia.org/wiki/Lusitania",
+    "extract": "Lusitania was an ancient Roman province encompassing most of modern-day Portugal and a large portion of western Spain. Romans named the region after the Lusitanians, an Indo-European tribe inhabiting the lands.",
+    "description": "Roman province in Hispania (27 BC – c. 410 AD)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Roman_Empire_-_Lusitania_%28125_AD%29.svg/330px-Roman_Empire_-_Lusitania_%28125_AD%29.svg.png",
+    "lat": 38.7689,
+    "lon": -7.2181,
+    "es": {
+      "title": "Lusitania",
+      "url": "https://es.wikipedia.org/wiki/Lusitania",
+      "extract": "La provincia romana de Lusitania es el nombre de una provincia romana en el oeste de la península ibérica. En época Republicana, desde el siglo II a. C., su territorio formaba parte de la provincia Hispania Ulterior. Su territorio ocupaba la mayor parte de la actual Portugal al sur del Duero y una zona de España, fundamentalmente Extremadura y la provincia de Salamanca. Su capital fue la ciudad de Augusta Emerita, en la actualidad Mérida."
     }
   },
   "lutter": {
@@ -1859,6 +2018,19 @@
       "extract": "Magdeburgo es una ciudad de Alemania a orillas del río Elba, capital del estado federado de Sajonia-Anhalt. La ciudad experimenta actualmente una intensa reconstrucción que intenta reemplazar los antiguos edificios de la era comunista."
     }
   },
+  "magnesia": {
+    "title": "Magnesia ad Sipylum",
+    "url": "https://en.wikipedia.org/wiki/Magnesia_ad_Sipylum",
+    "extract": "Magnesia ad Sipylum was a city of Lydia, situated about 65 km northeast of Smyrna on the river Hermus at the foot of Mount Sipylus. The city should not be confused with its older neighbor, Magnesia on the Maeander, both founded by colonists from the Greek region of Magnesia.",
+    "description": "Ancient Greek city in Asia Minor",
+    "lat": 38.61666667,
+    "lon": 27.43333333,
+    "es": {
+      "title": "Magnesia del Sípilo",
+      "url": "https://es.wikipedia.org/wiki/Magnesia_del_S%C3%ADpilo",
+      "extract": "Magnesia del Sípilo fue una era una antigua ciudad y ciudad-Estado (polis) de Lidia. En la actualidad está ubicada en la ciudad de Manisa, en Turquía."
+    }
+  },
   "manchester": {
     "title": "Manchester",
     "url": "https://en.wikipedia.org/wiki/Manchester",
@@ -1927,6 +2099,34 @@
       "title": "Medellín (España)",
       "url": "https://es.wikipedia.org/wiki/Medell%C3%ADn_(Espa%C3%B1a)",
       "extract": "Medellín es un municipio y localidad española de la provincia de Badajoz, en la comunidad autónoma de Extremadura. De fundación romana, cabecera del condado homónimo durante la Edad Media y cuna de Hernán Cortés."
+    }
+  },
+  "messina": {
+    "title": "Messina",
+    "url": "https://en.wikipedia.org/wiki/Messina",
+    "extract": "Messina is a harbor city and the capital of the Metropolitan City of Messina in the autonomous island region of Sicily in Italy. It is the third largest city on the island of Sicily, and the 13th largest city in Italy, with a population of 216,458 inhabitants in the city proper and 594,074 in the metropolitan city as of 2026. It is located near the northeast corner of Sicily, at the Strait of Messina and it is an important access terminal to the Calabria region on the mainland, namely the town of Villa San Giovanni and the city of Reggio Calabria.",
+    "description": "Comune in Sicily, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Messina_2003.JPG/330px-Messina_2003.JPG",
+    "lat": 38.19361111,
+    "lon": 15.55416667,
+    "es": {
+      "title": "Mesina",
+      "url": "https://es.wikipedia.org/wiki/Mesina",
+      "extract": "Mesina es una ciudad y capital de la homónima ciudad metropolitana, situada en el ángulo nordeste de Sicilia, enfrente de Regio de Calabria, junto al mar y al homónimo estrecho de Mesina."
+    }
+  },
+  "metauro": {
+    "title": "Metauro",
+    "url": "https://en.wikipedia.org/wiki/Metauro",
+    "extract": "The Metauro is a river in the Marche region of central Italy. It rises in the Apennine Mountains and runs east for 110 kilometres (68 mi) or 121 kilometres (75 mi) if the Meta is included as its uppermost reach.",
+    "description": "River in Marche, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Metauro_%C3%A0_San_Angelo_in_Vado.jpg/330px-Metauro_%C3%A0_San_Angelo_in_Vado.jpg",
+    "lat": 43.8292,
+    "lon": 13.0546,
+    "es": {
+      "title": "Río Metauro",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Metauro",
+      "extract": "El Metauro es un río de Italia, con una longitud de 110 km desde de su nacimiento en los Apeninos hasta su desembocadura en el mar Adriático."
     }
   },
   "mieszkowice": {
@@ -2090,6 +2290,20 @@
       "extract": "Münster () [cita requerida] es una ciudad alemana situada en el estado de Renania del Norte-Westfalia. Tiene 318 958 habitantes (2023) y es la capital del distrito del mismo nombre. Münster está entre Dortmund y Osnabrück, en el centro del Münsterland. Es conocida como la ciudad de las bicicletas y por su centro histórico, que fue restaurado poco a poco después del fin de la Segunda Guerra Mundial."
     }
   },
+  "mylae": {
+    "title": "Milazzo",
+    "url": "https://en.wikipedia.org/wiki/Milazzo",
+    "extract": "Milazzo is a municipality in the Metropolitan City of Messina, Sicily, southern Italy. It is the largest municipality in the Metropolitan City after Messina and Barcellona Pozzo di Gotto. The town has a population of around 31,500 inhabitants.",
+    "description": "Town in Sicily, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Milazzo_Stadtansicht.jpg/330px-Milazzo_Stadtansicht.jpg",
+    "lat": 38.22083333,
+    "lon": 15.24138889,
+    "es": {
+      "title": "Milazzo",
+      "url": "https://es.wikipedia.org/wiki/Milazzo",
+      "extract": "Milazzo es una localidad italiana de la provincia de Mesina, región de Sicilia, con 32.676 habitantes."
+    }
+  },
   "nag-hammadi": {
     "title": "Nag Hammadi",
     "url": "https://en.wikipedia.org/wiki/Nag_Hammadi",
@@ -2172,6 +2386,20 @@
       "title": "Noyon",
       "url": "https://es.wikipedia.org/wiki/Noyon",
       "extract": "Noyon es un municipio del departamento del Oise, capital de distrito en la región de Picardía de Francia.\nSu gentilicio es Noyonnais y su apelativo Friands de Noyon."
+    }
+  },
+  "numantia": {
+    "title": "Numantia",
+    "url": "https://en.wikipedia.org/wiki/Numantia",
+    "extract": "Numantia is an ancient Celtiberian settlement, whose remains are located on a hill known as Cerro de la Muela in the current municipality of Garray (Soria), Spain.",
+    "description": "Ancient Celtiberian settlement",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Numancia_%282%29.jpg/330px-Numancia_%282%29.jpg",
+    "lat": 41.80958611,
+    "lon": -2.44425833,
+    "es": {
+      "title": "Numancia",
+      "url": "https://es.wikipedia.org/wiki/Numancia",
+      "extract": "Numancia es el nombre de una desaparecida población celtíbera situada sobre el Cerro de la Muela, en Garray, provincia de Soria, en Castilla y León (España), a siete kilómetros al norte de la actual ciudad de Soria. La resistencia de sus habitantes al asedio realizado por las tropas de la república de Roma bajo las órdenes de Publio Cornelio Escipión Emiliano en el verano del año 133 a. C., que prefirieron suicidarse antes que rendirse a sus atacantes, ha pasado a la historia como ejemplo de resistencia, acuñándose la expresión «resistencia numantina»."
     }
   },
   "nuremberg": {
@@ -2463,6 +2691,20 @@
       "extract": "Praga es la capital de la República Checa y de la región de Bohemia. Situada a orillas del río Moldava, tiene aproximadamente 1,36 millones de habitantes, lo que la convierte en la ciudad más poblada del país y la séptima de Europa Central. El área metropolitana de Praga cuenta con una población de 2,7 millones de habitantes. Su belleza y patrimonio histórico la convierten en una de las veinte ciudades más visitadas del mundo."
     }
   },
+  "pydna": {
+    "title": "Pydna",
+    "url": "https://en.wikipedia.org/wiki/Pydna",
+    "extract": "Pydna is a small town and a former municipality in the northeastern part of Pieria regional unit, Greece. Since the 2011 local government reform it is part of the municipality Pydna-Kolindros, of which it is a municipal unit. The municipal unit has an area of 105.059 km2, the community 41.334 km2. Pydna is situated in fertile land close to the Thermaic Gulf coast. The main village of the former municipality is Kitros. It lies 6 km north of Korinos, 8 km south of Methoni and 13 km northeast of Katerini. The A1 motorway and the Piraeus–Platy railway pass east of the village.",
+    "description": "Municipal unit in Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Archaea_pydna_ancient.jpg/330px-Archaea_pydna_ancient.jpg",
+    "lat": 40.36666667,
+    "lon": 22.58333333,
+    "es": {
+      "title": "Pidna",
+      "url": "https://es.wikipedia.org/wiki/Pidna",
+      "extract": "Pidna fue una ciudad de la costa de Pieria en el golfo Termaico.\nAparece en el siglo V a. C. en posesión de Alejandro I de Macedonia (498–458 a. C.), si bien la ciudad, que era un establecimiento griego, conservaba la autonomía. Los atenienses, en 432 a. C. asediaron Pidna pero, debido a la necesidad de sumar fuerzas para el asedio de Potidea, llegaron a un acuerdo con Pérdicas II de Macedonia, hijo de Alejandro I, y se retiraron de Macedonia. Se cree que la facción promacedonia estaba en el gobierno y la facción proateniense había reclamado la ayuda de Atenas."
+    }
+  },
   "pyrgi": {
     "title": "Pyrgi",
     "url": "https://en.wikipedia.org/wiki/Pyrgi",
@@ -2617,6 +2859,20 @@
       "extract": "Roma es una ciudad, capital de la región del Lacio y de Italia. Con una población de 2 857 321 habitantes, es el municipio más poblado de Italia y la tercera ciudad más poblada de la Unión Europea. Por antonomasia, se la conoce desde la Antigüedad como la Urbe (Urbs). También es llamada «La Ciudad Eterna»."
     }
   },
+  "saguntum": {
+    "title": "Sagunto",
+    "url": "https://en.wikipedia.org/wiki/Sagunto",
+    "extract": "Sagunto, in Spanish, or Sagunt, in Valencian, is a city and municipality of Spain, located in the province of Valencia, Valencian Community. It belongs to the modern fertile comarca of Camp de Morvedre. It is located approximately 30 km (19 mi) north of Valencia city center and lies on the Costa de Valencia on the Mediterranean Sea.",
+    "description": "City and municipality in Valencian Community, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Castillo04_Sagunto.JPG/330px-Castillo04_Sagunto.JPG",
+    "lat": 39.68,
+    "lon": -0.2783,
+    "es": {
+      "title": "Sagunto",
+      "url": "https://es.wikipedia.org/wiki/Sagunto",
+      "extract": "Sagunto es un municipio y una ciudad de España en la Comunidad Valenciana. Situado al norte de la provincia de Valencia, Es la capital de la comarca del Campo de Murviedro. Su población es de 73 031 habitantes, es el décimo municipio con más población de la Comunidad Valenciana. El municipio pertenece a la segunda corona del área metropolitana de Valencia."
+    }
+  },
   "saint-catherines-monastery": {
     "title": "Saint Catherine's Monastery",
     "url": "https://en.wikipedia.org/wiki/Saint_Catherine's_Monastery",
@@ -2741,6 +2997,20 @@
       "title": "São Paulo",
       "url": "https://es.wikipedia.org/wiki/S%C3%A3o_Paulo",
       "extract": "São Paulo o San Pablo es la ciudad más poblada de Brasil y de todo el continente americano, capital del estado de São Paulo y la principal ciudad de la región metropolitana de São Paulo, en la región Sudeste de Brasil. Con una población de 11 451 372 habitantes en la ciudad propia y de 22 048 504 habitantes en su área metropolitana, integran la ciudad y la metrópoli más pobladas de América y del hemisferio occidental, además de ser una de las aglomeraciones urbanas más pobladas del mundo. También es la ciudad más poblada de la lusofonía."
+    }
+  },
+  "sardinia": {
+    "title": "Sardinia",
+    "url": "https://en.wikipedia.org/wiki/Sardinia",
+    "extract": "Sardinia, officially the Autonomous Region of Sardinia, is the second largest island in the Mediterranean Sea after Sicily, and one of the twenty regions of Italy. It is located 200 kilometres west of the Italian Peninsula, 200 km (110 nmi) north of Tunisia, and 16.5 km (9 nmi) south of the French island of Corsica. Sardinia is one of five Italian regions with statutory domestic autonomy. It is divided into six provinces and two metropolitan cities. Cagliari is the capital and largest city, followed by Sassari. Sardinia has over 1.5 million inhabitants as of 2026.",
+    "description": "Island in the Mediterranean and region of Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Sardinia_in_Italy.svg/330px-Sardinia_in_Italy.svg.png",
+    "lat": 40,
+    "lon": 9,
+    "es": {
+      "title": "Cerdeña",
+      "url": "https://es.wikipedia.org/wiki/Cerde%C3%B1a",
+      "extract": "Cerdeña es una de las veinte regiones que conforman la República Italiana. Su capital y ciudad más poblada es Cagliari. Está ubicada en la Italia insular. Limita al norte con el estrecho de Bonifacio, que la separa de la isla francesa de Córcega, al este con el mar Tirreno y al sur y oeste con el mar Mediterráneo."
     }
   },
   "schmalkalden": {
@@ -2978,6 +3248,20 @@
       "extract": "Subiaco es un municipio de 9.332 habitantes, a 408 m s. n. m. en el valle superior del Aniene, en la ribera oriental del río."
     }
   },
+  "syracuse": {
+    "title": "Syracuse, Sicily",
+    "url": "https://en.wikipedia.org/wiki/Syracuse%2C_Sicily",
+    "extract": "Syracuse is a city and comune (municipality), capital of the free municipal consortium of the same name, located in the autonomous island region of Sicily in southern Italy. As of 2026, with a population of 115,515, it is the 4th-largest city in Sicily, following Palermo, Catania, and Messina.",
+    "description": "City in Sicily, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Ortigia_%28SR%29.jpg/330px-Ortigia_%28SR%29.jpg",
+    "lat": 37.06916667,
+    "lon": 15.2875,
+    "es": {
+      "title": "Siracusa",
+      "url": "https://es.wikipedia.org/wiki/Siracusa",
+      "extract": "Siracusa es una ciudad del sureste de Italia, situada en la costa oriental de la isla de Sicilia, a orillas del mar Jónico. Es la capital de la provincia de Siracusa y posee una importante herencia histórica, cultural y arquitectónica, con vestigios de las civilizaciones griega y romana."
+    }
+  },
   "taranto": {
     "title": "Taranto",
     "url": "https://en.wikipedia.org/wiki/Taranto",
@@ -3130,6 +3414,34 @@
       "title": "Tower Hill",
       "url": "https://es.wikipedia.org/wiki/Tower_Hill",
       "extract": "Tower Hill o Colina de la Torre es una elevación ubicada al noroeste de la Torre de Londres, en el barrio londinense de Tower Hamlets, en el límite de la City de Londres."
+    }
+  },
+  "trasimene": {
+    "title": "Lake Trasimeno",
+    "url": "https://en.wikipedia.org/wiki/Lake_Trasimeno",
+    "extract": "Lake Trasimene, is a lake in the province of Perugia, in the Umbria region of Italy on the border with Tuscany. The lake has a surface area of 128 km2 (49.4 sq mi), making it the fourth largest in Italy, slightly smaller than Lake Como. Only two minor streams flow directly into the Lake and none flows out. The water level of the lake fluctuates significantly according to rainfall levels and the seasonal demands from the towns, villages and farms near the shore.",
+    "description": "Lake in Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Lago_Trasimeno_wide_view.jpg/330px-Lago_Trasimeno_wide_view.jpg",
+    "lat": 43.14,
+    "lon": 12.1,
+    "es": {
+      "title": "Lago Trasimeno",
+      "url": "https://es.wikipedia.org/wiki/Lago_Trasimeno",
+      "extract": "El lago Trasimeno es un lago de Italia localizado en el centro del país, en la región de Umbría. Se extiende por un área de 128 km², con 18 km de largo y 15 de ancho. Es el cuarto mayor lago del país, ubicado a 258 m s. n. m. Su profundidad máxima es de entre 6 y 7 m. A diferencia de otros lagos de la región, no es de origen volcánico. La ciudad más próxima es Perugia, a unos 15 km al este, y donde se le llama Lago di Perugia. La ciudad de Chiusi se encuentra a otros 15 km al sudeste y Cortona a 12 km al noroeste."
+    }
+  },
+  "trebbia": {
+    "title": "Trebbia",
+    "url": "https://en.wikipedia.org/wiki/Trebbia",
+    "extract": "The Trebbia is a river predominantly of Liguria and Emilia Romagna in northern Italy. It is one of the four main right-bank tributaries of the river Po, the other three being the Tanaro, the Secchia and the Panaro.",
+    "description": "River in Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Valle_Trebbia-%28scaled-and-sharpened%29.jpg/330px-Valle_Trebbia-%28scaled-and-sharpened%29.jpg",
+    "lat": 45.0702,
+    "lon": 9.6849,
+    "es": {
+      "title": "Trebia",
+      "url": "https://es.wikipedia.org/wiki/Trebia",
+      "extract": "El Trebia o Trebbia es un río de la Italia septentrional, con una longitud de 115-118 km. Es uno de los cuatro principales afluentes del Po por la derecha; los otros tres son el Tanaro, el Secchia y el Panaro. Atraviesa las provincias de Génova y de Plasencia, firmando también por un tramo muy breve el límite con la provincia de Pavía en el municipio de Brallo di Pregola entre el Monte Lesima y el municipio de Corte Brugnatella."
     }
   },
   "trento": {
@@ -3479,6 +3791,15 @@
       "url": "https://es.wikipedia.org/wiki/Xiangyang",
       "extract": "Xiangyang es una ciudad-prefectura en la provincia de Hubei, República Popular de China. Limita al norte con Nanyang, al sur con Jingmen, al oeste con Shiyan y al sureste con Suizhou.\nSu área es de 19 727 km² y su población total para 2019 superó los 5,68 millones de habitantes."
     }
+  },
+  "zama": {
+    "title": "Zama (Tunisia)",
+    "url": "https://en.wikipedia.org/wiki/Zama_(Tunisia)",
+    "extract": "Zama, also known as Xama, is a town in Tunisia best known for its association with the Battle of Zama, in which Scipio Africanus defeated Hannibal on 19 October in 202 BC, ending the Second Punic War. The Battle of Zama was a victory for the Roman Republic and diminished the power of Ancient Carthage.",
+    "description": "Site of 202 BC battle between Rome and Carthage",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Battles_second_punic_war.png/330px-Battles_second_punic_war.png",
+    "lat": 36.112,
+    "lon": 9.2856
   },
   "zsitvatorok": {
     "title": "Radvaň nad Dunajom",

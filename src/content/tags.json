@@ -540,6 +540,20 @@
       }
     }
   },
+  "hannibal": {
+    "label": "Hannibal",
+    "color": "#8a2be2",
+    "description": "Carthaginian general (247-c. 183 BCE): his command in Iberia, his invasion of Italy in the Second Punic War, and his exile.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Aníbal",
+        "description": "General cartaginés (247-c. 183 a. C.): su mando en Iberia, su invasión de Italia en la segunda guerra púnica y su exilio."
+      }
+    }
+  },
   "henry-viii": {
     "label": "Henry VIII",
     "color": "#af601a",

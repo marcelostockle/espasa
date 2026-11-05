@@ -1,4 +1,13 @@
 {
+  "aegates": {
+    "label": "Aegates Islands",
+    "wikipedia": "Aegadian Islands",
+    "translations": {
+      "es": {
+        "label": "Islas Égadas"
+      }
+    }
+  },
   "alcala-de-henares": {
     "label": "Alcalá de Henares",
     "wikipedia": "Alcalá de Henares",
@@ -44,6 +53,15 @@
       }
     }
   },
+  "alps": {
+    "label": "Alps",
+    "wikipedia": "Alps",
+    "translations": {
+      "es": {
+        "label": "Alpes"
+      }
+    }
+  },
   "amsterdam": {
     "label": "Amsterdam",
     "wikipedia": "Amsterdam",
@@ -68,6 +86,15 @@
     "translations": {
       "es": {
         "label": "Amberes"
+      }
+    }
+  },
+  "apamea": {
+    "label": "Apamea",
+    "wikipedia": "Apamea Cibotus",
+    "translations": {
+      "es": {
+        "label": "Apamea"
       }
     }
   },
@@ -431,6 +458,15 @@
       }
     }
   },
+  "cannae": {
+    "label": "Cannae",
+    "wikipedia": "Cannae",
+    "translations": {
+      "es": {
+        "label": "Cannas"
+      }
+    }
+  },
   "cap-francais": {
     "label": "Cap-Français",
     "wikipedia": "Cap-Haïtien",
@@ -611,6 +647,15 @@
       }
     }
   },
+  "corinth": {
+    "label": "Corinth",
+    "wikipedia": "Ancient Corinth",
+    "translations": {
+      "es": {
+        "label": "Corinto"
+      }
+    }
+  },
   "corunna": {
     "label": "Corunna",
     "wikipedia": "A Coruña",
@@ -644,6 +689,15 @@
     "translations": {
       "es": {
         "label": "Cuzco"
+      }
+    }
+  },
+  "cynoscephalae": {
+    "label": "Cynoscephalae",
+    "wikipedia": "Battle of Cynoscephalae",
+    "translations": {
+      "es": {
+        "label": "Cinoscéfalas"
       }
     }
   },
@@ -716,6 +770,15 @@
     "translations": {
       "es": {
         "label": "Dresde"
+      }
+    }
+  },
+  "ebro": {
+    "label": "Ebro river",
+    "wikipedia": "Ebro",
+    "translations": {
+      "es": {
+        "label": "Ebro"
       }
     }
   },
@@ -980,6 +1043,33 @@
       }
     }
   },
+  "hispania": {
+    "label": "Hispania",
+    "wikipedia": "Hispania",
+    "translations": {
+      "es": {
+        "label": "Hispania"
+      }
+    }
+  },
+  "ilipa": {
+    "label": "Ilipa (Alcalá del Río)",
+    "wikipedia": "Alcalá del Río",
+    "translations": {
+      "es": {
+        "label": "Ilipa (Alcalá del Río)"
+      }
+    }
+  },
+  "isthmia": {
+    "label": "Isthmia",
+    "wikipedia": "Isthmia (sanctuary)",
+    "translations": {
+      "es": {
+        "label": "Istmia"
+      }
+    }
+  },
   "janiculum": {
     "label": "Janiculum",
     "wikipedia": "Janiculum",
@@ -1133,6 +1223,15 @@
       }
     }
   },
+  "libyssa": {
+    "label": "Libyssa",
+    "wikipedia": "Libyssa",
+    "translations": {
+      "es": {
+        "label": "Libisa"
+      }
+    }
+  },
   "lima": {
     "label": "Lima",
     "wikipedia": "Lima",
@@ -1166,6 +1265,15 @@
     "translations": {
       "es": {
         "label": "Lübeck"
+      }
+    }
+  },
+  "lusitania": {
+    "label": "Lusitania",
+    "wikipedia": "Lusitania",
+    "translations": {
+      "es": {
+        "label": "Lusitania"
       }
     }
   },
@@ -1214,6 +1322,15 @@
       }
     }
   },
+  "magnesia": {
+    "label": "Magnesia ad Sipylum",
+    "wikipedia": "Magnesia ad Sipylum",
+    "translations": {
+      "es": {
+        "label": "Magnesia del Sípilo"
+      }
+    }
+  },
   "manchester": {
     "label": "Manchester",
     "wikipedia": "Manchester",
@@ -1256,6 +1373,24 @@
     "translations": {
       "es": {
         "label": "Medellín"
+      }
+    }
+  },
+  "messina": {
+    "label": "Messina",
+    "wikipedia": "Messina",
+    "translations": {
+      "es": {
+        "label": "Mesina"
+      }
+    }
+  },
+  "metauro": {
+    "label": "Metaurus river",
+    "wikipedia": "Metauro",
+    "translations": {
+      "es": {
+        "label": "Metauro"
       }
     }
   },
@@ -1367,6 +1502,15 @@
       }
     }
   },
+  "mylae": {
+    "label": "Mylae (Milazzo)",
+    "wikipedia": "Milazzo",
+    "translations": {
+      "es": {
+        "label": "Mylae (Milazzo)"
+      }
+    }
+  },
   "nag-hammadi": {
     "label": "Nag Hammadi",
     "wikipedia": "Nag Hammadi",
@@ -1418,6 +1562,15 @@
     "translations": {
       "es": {
         "label": "Noyon"
+      }
+    }
+  },
+  "numantia": {
+    "label": "Numantia",
+    "wikipedia": "Numantia",
+    "translations": {
+      "es": {
+        "label": "Numancia"
       }
     }
   },
@@ -1610,6 +1763,15 @@
       }
     }
   },
+  "pydna": {
+    "label": "Pydna",
+    "wikipedia": "Pydna",
+    "translations": {
+      "es": {
+        "label": "Pidna"
+      }
+    }
+  },
   "pyrgi": {
     "label": "Pyrgi",
     "wikipedia": "Pyrgi",
@@ -1709,6 +1871,15 @@
       }
     }
   },
+  "saguntum": {
+    "label": "Saguntum",
+    "wikipedia": "Sagunto",
+    "translations": {
+      "es": {
+        "label": "Sagunto"
+      }
+    }
+  },
   "saint-catherines-monastery": {
     "label": "Saint Catherine's Monastery",
     "wikipedia": "Saint Catherine's Monastery",
@@ -1787,6 +1958,15 @@
     "translations": {
       "es": {
         "label": "São Paulo"
+      }
+    }
+  },
+  "sardinia": {
+    "label": "Sardinia",
+    "wikipedia": "Sardinia",
+    "translations": {
+      "es": {
+        "label": "Cerdeña"
       }
     }
   },
@@ -1952,6 +2132,15 @@
       }
     }
   },
+  "syracuse": {
+    "label": "Syracuse",
+    "wikipedia": "Syracuse, Sicily",
+    "translations": {
+      "es": {
+        "label": "Siracusa"
+      }
+    }
+  },
   "taranto": {
     "label": "Tarentum (Taranto)",
     "wikipedia": "Taranto",
@@ -2048,6 +2237,24 @@
     "translations": {
       "es": {
         "label": "Tower Hill"
+      }
+    }
+  },
+  "trasimene": {
+    "label": "Lake Trasimene",
+    "wikipedia": "Lake Trasimene",
+    "translations": {
+      "es": {
+        "label": "Lago Trasimeno"
+      }
+    }
+  },
+  "trebbia": {
+    "label": "Trebia river",
+    "wikipedia": "Trebbia",
+    "translations": {
+      "es": {
+        "label": "Trebia"
       }
     }
   },
@@ -2273,6 +2480,15 @@
     "translations": {
       "es": {
         "label": "Xiangyang"
+      }
+    }
+  },
+  "zama": {
+    "label": "Zama",
+    "wikipedia": "Zama Regia",
+    "translations": {
+      "es": {
+        "label": "Zama"
       }
     }
   },
