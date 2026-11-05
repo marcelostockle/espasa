@@ -42,6 +42,20 @@
       }
     }
   },
+  "augustus": {
+    "label": "Augustus",
+    "color": "#37474f",
+    "description": "Octavian, Caesar's heir, who won the civil wars and ruled as Augustus (63 BCE-14 CE), the first Roman emperor.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Augusto",
+        "description": "Octavio, heredero de César, que ganó las guerras civiles y gobernó como Augusto (63 a. C.-14 d. C.), el primer emperador romano."
+      }
+    }
+  },
   "austrian-empire": {
     "label": "Austrian Empire",
     "color": "#f48fb1",
@@ -181,6 +195,20 @@
       "es": {
         "label": "Islas Canarias",
         "description": "Las islas Canarias y sus pueblos indígenas (guanches y otros), desde las primeras expediciones europeas en el siglo XIV hasta la conquista castellana completada en 1496."
+      }
+    }
+  },
+  "carthage": {
+    "label": "Carthage",
+    "color": "#2e8b8b",
+    "description": "The Phoenician-founded city in North Africa and its trading empire in the western Mediterranean, Rome's great rival until its destruction in 146 BCE.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Cartago",
+        "description": "La ciudad de origen fenicio en el norte de África y su imperio comercial en el Mediterráneo occidental, gran rival de Roma hasta su destrucción en el 146 a. C."
       }
     }
   },
@@ -342,6 +370,20 @@
       }
     }
   },
+  "etruscans": {
+    "label": "Etruscans",
+    "color": "#d2a679",
+    "description": "The Etruscan city-states of central Italy, their culture and trade, and their influence on early Rome, including its traditional last kings.",
+    "categories": [
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Etruscos",
+        "description": "Las ciudades-estado etruscas de la Italia central, su cultura y comercio, y su influencia en la Roma temprana, incluidos sus últimos reyes tradicionales."
+      }
+    }
+  },
   "expansionism": {
     "label": "Expansionism",
     "color": "#00c853",
@@ -424,6 +466,20 @@
       "es": {
         "label": "Revolución francesa",
         "description": "La convulsión que puso fin a la monarquía francesa y rehízo el Estado, 1789-1799."
+      }
+    }
+  },
+  "greek-city-states": {
+    "label": "Greek city-states",
+    "color": "#2979c9",
+    "description": "The independent Greek poleis (such as Athens, Sparta and Corinth) and the Greek cities of southern Italy and Sicily, and their leagues.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Ciudades-estado griegas",
+        "description": "Las póleis griegas independientes (como Atenas, Esparta y Corinto), las ciudades griegas del sur de Italia y Sicilia, y sus ligas."
       }
     }
   },
@@ -684,6 +740,20 @@
       }
     }
   },
+  "julius-caesar": {
+    "label": "Julius Caesar",
+    "color": "#6a0dad",
+    "description": "Roman general, politician and dictator (100-44 BCE): his career, the conquest of Gaul, the civil war, and his assassination.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Julio César",
+        "description": "General, político y dictador romano (100-44 a. C.): su carrera, la conquista de la Galia, la guerra civil y su asesinato."
+      }
+    }
+  },
   "kublai-khan": {
     "label": "Kublai Khan",
     "color": "#00b0ff",
@@ -723,6 +793,20 @@
       "es": {
         "label": "Literatura",
         "description": "Obras e instituciones de la literatura escrita: poemas, novelas, obras de teatro, gramáticas y diccionarios, y su publicación."
+      }
+    }
+  },
+  "macedon": {
+    "label": "Macedon",
+    "color": "#9e9d24",
+    "description": "The kingdom of Macedon, from its rise under Philip II and Alexander the Great to its conquest by Rome in the 2nd century BCE.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Macedonia",
+        "description": "El reino de Macedonia, desde su ascenso con Filipo II y Alejandro Magno hasta su conquista por Roma en el siglo II a. C."
       }
     }
   },
@@ -969,6 +1053,20 @@
       }
     }
   },
+  "punic-wars": {
+    "label": "Punic Wars",
+    "color": "#e4572e",
+    "description": "The three wars between Rome and Carthage (264-146 BCE) that decided control of the western Mediterranean.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerras púnicas",
+        "description": "Las tres guerras entre Roma y Cartago (264-146 a. C.) que decidieron el control del Mediterráneo occidental."
+      }
+    }
+  },
   "religion": {
     "label": "Religion",
     "color": "#8a5cd1",
@@ -1037,6 +1135,20 @@
       "es": {
         "label": "Imperio romano",
         "description": "El Estado romano bajo los emperadores, desde Augusto hasta la caída del Imperio de Occidente en 476, incluida su cristianización."
+      }
+    }
+  },
+  "roman-republic": {
+    "label": "Roman Republic",
+    "color": "#b71c4a",
+    "description": "Rome from its legendary founding and the traditional seven kings, through the Republic and its conquests and civil wars, to Octavian's settlement of 27 BCE.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "República romana",
+        "description": "Roma desde su fundación legendaria y los siete reyes tradicionales, pasando por la República, sus conquistas y guerras civiles, hasta el acuerdo de Octavio del 27 a. C."
       }
     }
   },
