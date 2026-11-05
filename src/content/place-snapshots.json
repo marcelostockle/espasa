@@ -863,6 +863,20 @@
       "extract": "Delft () es una ciudad y un municipio de Holanda Meridional, a mitad de camino entre Róterdam y La Haya. Es primordialmente conocida por el centro de la ciudad, tradicionalmente neerlandés ; la cerámica de Delft, la Universidad Técnica de Delft y su asociación con la familia real."
     }
   },
+  "dessau": {
+    "title": "Dessau-Roßlau",
+    "url": "https://en.wikipedia.org/wiki/Dessau-Ro%C3%9Flau",
+    "extract": "Dessau-Roßlau is a kreisfreie Stadt in the German state of Saxony-Anhalt. It is situated at the confluence of the rivers Elbe and Mulde. The town was formed by merging the towns of Dessau and Roßlau as part of the 2007 regional boundary reform of Saxony-Anhalt. The reform involved a reduction in the number of rural districts in the state from 21 to 11, in anticipation of a continued population decline.",
+    "description": "Town in Saxony-Anhalt, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Dessau_asv2022-08_img27_Hbf_und_Umgebung.jpg/330px-Dessau_asv2022-08_img27_Hbf_und_Umgebung.jpg",
+    "lat": 51.83333333,
+    "lon": 12.25,
+    "es": {
+      "title": "Dessau-Roßlau",
+      "url": "https://es.wikipedia.org/wiki/Dessau-Ro%C3%9Flau",
+      "extract": "Dessau-Roßlau es una ciudad del estado alemán de Sajonia-Anhalt. Se ubica en el este del estado y es una de las tres ciudades del estado que no pertenece a ningún distrito, hallándose enclavada entre los distritos de Anhalt-Bitterfeld al oeste y Wittenberg al este."
+    }
+  },
   "donauworth": {
     "title": "Donauwörth",
     "url": "https://en.wikipedia.org/wiki/Donauw%C3%B6rth",
@@ -1383,6 +1397,20 @@
       "extract": "La Isabela fue una villa fundada por Cristóbal Colón en 1494 durante su Segundo Viaje, situada en la provincia de Puerto Plata, República Dominicana."
     }
   },
+  "la-rochelle": {
+    "title": "La Rochelle",
+    "url": "https://en.wikipedia.org/wiki/La_Rochelle",
+    "extract": "La Rochelle is a city on the west coast of France and a seaport on the Bay of Biscay, a part of the Atlantic Ocean. It is the capital of the Charente-Maritime department. With 78,535 inhabitants in 2021, La Rochelle is the most populated commune in the department and ranks fourth in the Nouvelle-Aquitaine region after Bordeaux, the regional capital, Limoges and Poitiers.",
+    "description": "City in Nouvelle-Aquitaine, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/La_rochelle%2C_Le_vieux_port.JPG/330px-La_rochelle%2C_Le_vieux_port.JPG",
+    "lat": 46.16,
+    "lon": -1.15,
+    "es": {
+      "title": "La Rochelle",
+      "url": "https://es.wikipedia.org/wiki/La_Rochelle",
+      "extract": "La Rochelle es una ciudad ubicada en la costa atlántica de Francia, capital del departamento de Charente Marítimo, en la región de Nueva Aquitania. Ha sido un centro de pesca y comercio desde el siglo XII. La ciudad antigua tiene casas medievales con entramado de madera y arquitectura renacentista, que incluye callejones cubiertos con arcos del siglo XVII. Alberga un aeropuerto compartido con la isla de Ré."
+    }
+  },
   "lagos-portugal": {
     "title": "Lagos, Portugal",
     "url": "https://en.wikipedia.org/wiki/Lagos%2C_Portugal",
@@ -1467,6 +1495,33 @@
       "extract": "Londres es la capital y la mayor ciudad de Inglaterra y de Reino Unido. Ubicada a orillas del río Támesis, Londres ha sido un importante asentamiento humano desde que fue fundada por los romanos con el nombre de Londinium hace casi dos milenios. El núcleo antiguo de la urbe, la City de Londres, conserva básicamente su perímetro medieval de una milla cuadrada. Desde el siglo XIX el nombre «Londres» también hace referencia a toda la metrópolis desarrollada alrededor de este núcleo. El grueso de esta conurbación constituye la región de Londres y el área administrativa del Gran Londres, gobernado por el alcalde y la asamblea de Londres."
     }
   },
+  "lubeck": {
+    "title": "Lübeck",
+    "url": "https://en.wikipedia.org/wiki/L%C3%BCbeck",
+    "extract": "Lübeck, officially the Hanseatic City of Lübeck, is a city in Northern Germany. With around 220,000 inhabitants, it is the second-largest city on the German Baltic coast and the second-largest city in the state of Schleswig-Holstein, after its capital, Kiel. It is the 36th-largest city in Germany.",
+    "description": "City in Schleswig-Holstein, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/L%C3%BCbeck_-_panoramio.jpg/330px-L%C3%BCbeck_-_panoramio.jpg",
+    "lat": 53.86972222,
+    "lon": 10.68638889,
+    "es": {
+      "title": "Lübeck",
+      "url": "https://es.wikipedia.org/wiki/L%C3%BCbeck",
+      "extract": "Lübeck () —en español también Lubeca—, oficialmente Ciudad hanseática de Lübeck, es la segunda ciudad más poblada del estado federado de Schleswig-Holstein, en el norte de Alemania, después de Kiel. El casco medieval de la ciudad fue declarado Patrimonio de la Humanidad por la Unesco en 1987, destacando las construcciones de ladrillo en estilo gótico báltico, como la Puerta de Holsten."
+    }
+  },
+  "lutter": {
+    "title": "Lutter am Barenberge",
+    "url": "https://en.wikipedia.org/wiki/Lutter_am_Barenberge",
+    "extract": "Lutter am Barenberge is a market town (Flecken) and a former municipality in the Goslar district of Lower Saxony, Germany. Since 1 November 2021, it is part of the town Langelsheim, of which it is an Ortschaft. It was the administrative seat of the former Samtgemeinde Lutter am Barenberge",
+    "description": "Place in Lower Saxony, Germany",
+    "lat": 51.99,
+    "lon": 10.27111111,
+    "es": {
+      "title": "Lutter am Barenberge",
+      "url": "https://es.wikipedia.org/wiki/Lutter_am_Barenberge",
+      "extract": "Lutter am Barenberge es una localidad situada en el municipio de Langelsheim, distrito de Goslar, estado federado de Baja Sajonia (Alemania)."
+    }
+  },
   "madeira": {
     "title": "Madeira",
     "url": "https://en.wikipedia.org/wiki/Madeira",
@@ -1535,6 +1590,20 @@
       "title": "Marburgo",
       "url": "https://es.wikipedia.org/wiki/Marburgo",
       "extract": "Marburgo es una ciudad del estado federado de Hesse, Alemania, en el valle del río Lahn, que atraviesa la ciudad. Desde el siglo XII es una ciudad libre y es por esta herencia medieval que junto a otras seis ciudades de Hesse tiene actualmente un estatuto especial. Es uno de los mayores empleadores y el factor económico más importante de la región. Tiene aproximadamente 80 000 habitantes."
+    }
+  },
+  "matanzas": {
+    "title": "Matanzas",
+    "url": "https://en.wikipedia.org/wiki/Matanzas",
+    "extract": "Matanzas is the capital of the Cuban province of Matanzas. Known for its poets, culture, and Afro-Cuban folklore, it is located on the northern shore of the island of Cuba, on the Bay of Matanzas, 102 kilometres (63 mi) east of the capital Havana and 32 kilometres (20 mi) west of the resort town of Varadero.",
+    "description": "Municipality in Cuba",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Cuba_-_Matanzas_-_Matanzas_from_Ermita_de_Monserrate_church.jpg/330px-Cuba_-_Matanzas_-_Matanzas_from_Ermita_de_Monserrate_church.jpg",
+    "lat": 23.05111111,
+    "lon": -81.57527778,
+    "es": {
+      "title": "Matanzas",
+      "url": "https://es.wikipedia.org/wiki/Matanzas",
+      "extract": "San Carlos y San Severino de Matanzas es una ciudad y municipio de Cuba, capital de la provincia homónima. Fue fundada en octubre de 1693 entre la desembocadura de los ríos Yumurí, San Juan y Canímar."
     }
   },
   "medellin": {
@@ -2349,6 +2418,15 @@
       "extract": "Stadtlohn es una ciudad en el noroeste de Renania del Norte-Westfalia, Alemania, parte del distrito Borken. El río Berkel fluye a través de ella hacia los Países Bajos."
     }
   },
+  "stary-targ": {
+    "title": "Stary Targ",
+    "url": "https://en.wikipedia.org/wiki/Stary_Targ",
+    "extract": "Stary Targ is a village in Sztum County, Pomeranian Voivodeship, in northern Poland. It is the seat of the gmina called Gmina Stary Targ.",
+    "description": "Village in Pomeranian Voivodeship, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Stary_Targ_kosciol_tyl.jpg/330px-Stary_Targ_kosciol_tyl.jpg",
+    "lat": 53.92305556,
+    "lon": 19.16638889
+  },
   "steenvoorde": {
     "title": "Steenvoorde",
     "url": "https://en.wikipedia.org/wiki/Steenvoorde",
@@ -2375,6 +2453,20 @@
       "title": "Estocolmo",
       "url": "https://es.wikipedia.org/wiki/Estocolmo",
       "extract": "Estocolmo es la capital y además, la ciudad más grande de Suecia, en la que residen 972 647 personas y 2,4 millones en su área metropolitana. La ciudad está compuesta por 14 islas donde el lago Mälar desemboca en el mar Báltico. En el este de la ciudad, y a lo largo de la costa, se encuentra la cadena de islas conocida como el archipiélago de Estocolmo. Estocolmo ha estado poblada por humanos desde la Edad de Piedra, en el sexto milenio antes de Cristo, y fue fundada como ciudad en 1252 por el estadista sueco Birger Jarl. Es también la sede del Condado de Estocolmo."
+    }
+  },
+  "stralsund": {
+    "title": "Stralsund",
+    "url": "https://en.wikipedia.org/wiki/Stralsund",
+    "extract": "Stralsund, officially the Hanseatic City of Stralsund, is the fifth-largest city in the northeastern German state of Mecklenburg-Western Pomerania after Rostock, Schwerin, Neubrandenburg and Greifswald, and the second-largest city in the Pomeranian part of the state. It is located on the southern coast of the Strelasund, a sound of the Baltic Sea separating the island of Rügen from the Pomeranian mainland.",
+    "description": "City in Mecklenburg-Vorpommern, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/WLM_-_2020_-_Stralsund_-_St._Nikolai_Kirche.jpg/330px-WLM_-_2020_-_Stralsund_-_St._Nikolai_Kirche.jpg",
+    "lat": 54.30916667,
+    "lon": 13.08194444,
+    "es": {
+      "title": "Stralsund",
+      "url": "https://es.wikipedia.org/wiki/Stralsund",
+      "extract": "Stralsund es una ciudad hanseática, capital del distrito Pomerania Occidental-Rügen, en el estado federado de Mecklemburgo-Pomerania Occidental, Alemania, situada a orillas del mar Báltico, concretamente del Strelasund. Un puente y varios ferris la conectan con los puertos de la isla de Rügen. Tenía alrededor de 57 357 habitantes en 2012."
     }
   },
   "strasbourg": {

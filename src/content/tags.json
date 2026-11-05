@@ -1210,6 +1210,20 @@
       }
     }
   },
+  "wallenstein": {
+    "label": "Albrecht von Wallenstein",
+    "color": "#6a8d73",
+    "description": "Albrecht von Wallenstein (1583–1634), Bohemian noble and imperial generalissimo of the Thirty Years' War, murdered at Eger.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Albrecht von Wallenstein",
+        "description": "Albrecht von Wallenstein (1583-1634), noble bohemio y generalísimo imperial en la guerra de los Treinta Años, asesinado en Eger."
+      }
+    }
+  },
   "war": {
     "label": "War",
     "color": "#b22222",

@@ -557,6 +557,15 @@
       }
     }
   },
+  "dessau": {
+    "label": "Dessau",
+    "wikipedia": "Dessau-Roßlau",
+    "translations": {
+      "es": {
+        "label": "Dessau"
+      }
+    }
+  },
   "donauworth": {
     "label": "Donauwörth",
     "wikipedia": "Donauwörth",
@@ -899,6 +908,15 @@
       }
     }
   },
+  "la-rochelle": {
+    "label": "La Rochelle",
+    "wikipedia": "La Rochelle",
+    "translations": {
+      "es": {
+        "label": "La Rochelle"
+      }
+    }
+  },
   "lagos-portugal": {
     "label": "Lagos",
     "wikipedia": "Lagos, Portugal",
@@ -953,6 +971,24 @@
       }
     }
   },
+  "lubeck": {
+    "label": "Lübeck",
+    "wikipedia": "Lübeck",
+    "translations": {
+      "es": {
+        "label": "Lübeck"
+      }
+    }
+  },
+  "lutter": {
+    "label": "Lutter am Barenberge",
+    "wikipedia": "Lutter am Barenberge",
+    "translations": {
+      "es": {
+        "label": "Lutter am Barenberge"
+      }
+    }
+  },
   "madeira": {
     "label": "Madeira",
     "wikipedia": "Madeira",
@@ -995,6 +1031,15 @@
     "translations": {
       "es": {
         "label": "Marburgo"
+      }
+    }
+  },
+  "matanzas": {
+    "label": "Matanzas",
+    "wikipedia": "Matanzas",
+    "translations": {
+      "es": {
+        "label": "Matanzas"
       }
     }
   },
@@ -1529,6 +1574,15 @@
       }
     }
   },
+  "stary-targ": {
+    "label": "Altmark (Stary Targ)",
+    "wikipedia": "Stary Targ",
+    "translations": {
+      "es": {
+        "label": "Altmark (Stary Targ)"
+      }
+    }
+  },
   "steenvoorde": {
     "label": "Steenvoorde",
     "wikipedia": "Steenvoorde",
@@ -1544,6 +1598,15 @@
     "translations": {
       "es": {
         "label": "Estocolmo"
+      }
+    }
+  },
+  "stralsund": {
+    "label": "Stralsund",
+    "wikipedia": "Stralsund",
+    "translations": {
+      "es": {
+        "label": "Stralsund"
       }
     }
   },
