@@ -27,6 +27,20 @@
       "extract": "Alerheim es un municipio situado en el distrito de Danubio-Ries, en el estado federado de Baviera (Alemania), con una población a finales de 2016 de unos 1638 habitantes."
     }
   },
+  "aleria": {
+    "title": "Aléria",
+    "url": "https://en.wikipedia.org/wiki/Al%C3%A9ria",
+    "extract": "Aléria is a commune in the Haute-Corse department of France on the island of Corsica, former bishopric and present Latin Catholic titular see. It includes the easternmost point in Metropolitan France.",
+    "description": "Commune in Corsica, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Al%C3%A9ria.jpg/330px-Al%C3%A9ria.jpg",
+    "lat": 42.1036,
+    "lon": 9.5128,
+    "es": {
+      "title": "Aléria",
+      "url": "https://es.wikipedia.org/wiki/Al%C3%A9ria",
+      "extract": "Aléria es una comuna francesa, situada en el departamento de la Alta Córcega y la región de Córcega."
+    }
+  },
   "alexandria": {
     "title": "Alexandria",
     "url": "https://en.wikipedia.org/wiki/Alexandria",
@@ -644,6 +658,20 @@
       "extract": "El cabo de Buena Esperanza es un cabo localizado en el extremo sur de África. El primer europeo en avistarlo fue el navegante portugués Bartolomeu Dias en 1488."
     }
   },
+  "capitoline-hill": {
+    "title": "Capitoline Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "extract": "The Capitolium or Capitoline Hill, between the Forum and the Campus Martius, is one of the Seven Hills of Rome.",
+    "description": "One of the seven hills of Rome, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Maquette_de_Rome_%28mus%C3%A9e_de_la_civilisation_romaine%2C_Rome%29_%285911810278%29.jpg/330px-Maquette_de_Rome_%28mus%C3%A9e_de_la_civilisation_romaine%2C_Rome%29_%285911810278%29.jpg",
+    "lat": 41.89333333,
+    "lon": 12.48305556,
+    "es": {
+      "title": "Colina Capitolina",
+      "url": "https://es.wikipedia.org/wiki/Colina_Capitolina",
+      "extract": "La colina Capitolina, también llamada plaza del Capitolio o monte Capitolio, entre el Foro y el Campo Marcio o de Marte, es una de las más famosas y altas de las siete colinas de Roma. La palabra española «capitolio» proviene de la colina Capitolina"
+    }
+  },
   "carthage": {
     "title": "Carthage",
     "url": "https://en.wikipedia.org/wiki/Carthage",
@@ -878,6 +906,20 @@
       "title": "Covadonga",
       "url": "https://es.wikipedia.org/wiki/Covadonga",
       "extract": "Covadonga es una parroquia del concejo de Cangas de Onís, en el Principado de Asturias (España), así como la única población, con la categoría de lugar, de dicha parroquia."
+    }
+  },
+  "cumae": {
+    "title": "Cumae",
+    "url": "https://en.wikipedia.org/wiki/Cumae",
+    "extract": "Cumae was the first ancient Greek colony of Magna Graecia on the mainland of Italy and was founded by settlers from Euboea in the 8th century BCE. It became a rich Roman city, the remains of which lie in and around modern Cuma, an area divided between the neighboring comuni (municipalities) of Pozzuoli and Bacoli, in the Metropolitan City of Naples, Campania. The archaeological museum of the Phlegraean Fields in the Aragonese Castle contains many finds from Cumae.",
+    "description": "Ancient Roman city near Naples, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Parco_archeologico_Cuma_15.jpg/330px-Parco_archeologico_Cuma_15.jpg",
+    "lat": 40.84861111,
+    "lon": 14.05361111,
+    "es": {
+      "title": "Cumas",
+      "url": "https://es.wikipedia.org/wiki/Cumas",
+      "extract": "Cumas es una antigua ciudad de la Magna Grecia, en la costa del mar Tirreno, actual Campania, al sur de Italia, en los municipios de Bacoli y Pozzuoli, suburbio de Nápoles."
     }
   },
   "cusco": {
@@ -1554,6 +1596,20 @@
       "extract": "La Catedral Archibasílica Papal del Santísimo Salvador del Mundo y de los Santos Juan Bautista y Juan Evangelista en Letrán, Madre y Cabeza de todas las Iglesias de la Ciudad y el Mundo, más conocida como Archibasílica de San Juan de Letrán, es la catedral de Roma, donde encuentra la sede episcopal su obispo, el papa. Está dedicada a Cristo Salvador, sin embargo es más conocida con el nombre de San Juan, por estar también dedicada a los dos santos principales que llevan este nombre."
     }
   },
+  "lavinium": {
+    "title": "Lavinium",
+    "url": "https://en.wikipedia.org/wiki/Lavinium",
+    "extract": "Lavinium was a port city of Latium, 6 km (3.7 mi) to the south of Rome, midway between the Tiber river at Ostia and Antium. The coastline then, as now, was a long strip of beach. Lavinium was on a hill at the southernmost edge of the Silva Laurentina, a dense laurel forest, and the northernmost edge of the Pontine Marshes, a vast malarial tract of wetlands. The basis for the port, the only one between Ostia and Antium, was evidently the mouth of the Numicus river.",
+    "description": "Ancient Roman port city",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Pratica_di_Mare_010.jpg/330px-Pratica_di_Mare_010.jpg",
+    "lat": 41.661625,
+    "lon": 12.478427,
+    "es": {
+      "title": "Lavinio",
+      "url": "https://es.wikipedia.org/wiki/Lavinio",
+      "extract": "Lavinio fue una antigua ciudad portuaria del Lacio (Latium), 13 km al sur de Roma.\nHoy día se localiza en la aldea de Pratica di Mare, en la comuna de Pomezia, provincia de Roma."
+    }
+  },
   "leipzig": {
     "title": "Leipzig",
     "url": "https://en.wikipedia.org/wiki/Leipzig",
@@ -1838,6 +1894,20 @@
       "title": "Abadía de Monkwearmouth-Jarrow",
       "url": "https://es.wikipedia.org/wiki/Abad%C3%ADa_de_Monkwearmouth-Jarrow",
       "extract": "La Iglesia de la Abadía de San Pedro y San Pablo en Monkwearmouth-Jarrow, conocida simplemente como Abadía de Monkwearmouth-Jarrow, era un monasterio doble benedictino en el Reino de Northumbria, Inglaterra."
+    }
+  },
+  "mons-sacer": {
+    "title": "Mons Sacer",
+    "url": "https://en.wikipedia.org/wiki/Mons_Sacer",
+    "extract": "The Mons Sacer, Sacer Mons, or Sacred Mount is a hill in Rome, famed as the location of the first secession of the plebs, in 494 BC.",
+    "description": "Hill northeast of ancient Rome",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/View_of_the_Ponte_Nomentano-1837-Pierre-Nicolas_Brisset.jpg/330px-View_of_the_Ponte_Nomentano-1837-Pierre-Nicolas_Brisset.jpg",
+    "lat": 41.9408,
+    "lon": 12.5325,
+    "es": {
+      "title": "Monte Sacro",
+      "url": "https://es.wikipedia.org/wiki/Monte_Sacro",
+      "extract": "El monte Sacro  es una colina de Roma que se levanta sobre la ribera derecha del río Anio, tres millas al nororiente del Capitolio. Su altitud es de cerca de cincuenta metros sobre el nivel del mar. Da su nombre al barrio de la ciudad que se ha desarrollado allí desde el siglo XX."
     }
   },
   "monte-pascoal": {
@@ -2134,6 +2204,20 @@
       "extract": "El palacio de Whitehall fue la antigua residencia principal de los reyes ingleses en Londres desde 1530 hasta 1698."
     }
   },
+  "palatine-hill": {
+    "title": "Palatine Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "extract": "The Palatine Hill, which is the centremost of the seven hills of Rome, is one of the most ancient parts of the city; it has been called \"the first nucleus of the Roman Empire\". The site is now mainly a large open-air museum and the Palatine Museum houses many finds from the excavations here and from other ancient Italian sites.",
+    "description": "Centremost of the seven hills of Rome, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Palatine_Hill_from_across_the_Circus_Maximus_April_2019.jpg/330px-Palatine_Hill_from_across_the_Circus_Maximus_April_2019.jpg",
+    "lat": 41.88833333,
+    "lon": 12.48694444,
+    "es": {
+      "title": "Monte Palatino",
+      "url": "https://es.wikipedia.org/wiki/Monte_Palatino",
+      "extract": "El monte Palatino es la más céntrica de las siete colinas de Roma, y la de menor elevación: se alza a 50 m sobre el Foro Romano, quedando entre este y el Circo Máximo."
+    }
+  },
   "palazzo-medici-riccardi": {
     "title": "Palazzo Medici Riccardi",
     "url": "https://en.wikipedia.org/wiki/Palazzo_Medici_Riccardi",
@@ -2283,6 +2367,20 @@
       "extract": "Praga es la capital de la República Checa y de la región de Bohemia. Situada a orillas del río Moldava, tiene aproximadamente 1,36 millones de habitantes, lo que la convierte en la ciudad más poblada del país y la séptima de Europa Central. El área metropolitana de Praga cuenta con una población de 2,7 millones de habitantes. Su belleza y patrimonio histórico la convierten en una de las veinte ciudades más visitadas del mundo."
     }
   },
+  "pyrgi": {
+    "title": "Pyrgi",
+    "url": "https://en.wikipedia.org/wiki/Pyrgi",
+    "extract": "Pyrgi (Pyrgus) was originally an ancient Etruscan town and port in Latium, central Italy, to the north-west of Caere. Its location is now occupied by the borough of Santa Severa. It is notable for the discovery here of the gold tablets, an exceptional epigraphic document with rare texts in Phoenician and Etruscan languages, and also the exceptional terracotta pediment statues from the temple.",
+    "description": "Etruscan town and port in Latium",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Pyrgi_sanctuary.png/330px-Pyrgi_sanctuary.png",
+    "lat": 42.015225,
+    "lon": 11.96341389,
+    "es": {
+      "title": "Pirgi",
+      "url": "https://es.wikipedia.org/wiki/Pirgi",
+      "extract": "Pirgi fue un antiguo puerto etrusco del Lacio, Italia central, al noroeste de Caere. Su lugar lo ocupa hoy el municipio de Santa Severa."
+    }
+  },
   "qumran": {
     "title": "Qumran",
     "url": "https://en.wikipedia.org/wiki/Qumran",
@@ -2393,6 +2491,20 @@
       "title": "Rocroi",
       "url": "https://es.wikipedia.org/wiki/Rocroi",
       "extract": "Rocroi es una comuna francesa situada en la región de las Champaña-Ardenas. en el departamento de las Ardenas."
+    }
+  },
+  "roman-forum": {
+    "title": "Roman Forum",
+    "url": "https://en.wikipedia.org/wiki/Roman_Forum",
+    "extract": "The Roman Forum, also known by its Latin name Forum Romanum, is a rectangular forum (plaza) surrounded by the ruins of several important ancient government buildings at the centre of the city of Rome. Citizens of the ancient city referred to this space, originally a marketplace, as the Forum Magnum, or simply the Forum.",
+    "description": "Ancient Roman centre of Rome, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/330px-Foro_Romano_Musei_Capitolini_Roma.jpg",
+    "lat": 41.8922,
+    "lon": 12.4852,
+    "es": {
+      "title": "Foro Romano",
+      "url": "https://es.wikipedia.org/wiki/Foro_Romano",
+      "extract": "El Foro Romano, también conocido por su nombre en latín, Forum Romanum, es un foro rectangular situado en el centro de la ciudad de Roma y rodeado por las ruinas de varios edificios antiguos. Los ciudadanos de la ciudad antigua se referían a este espacio, que originalmente era un mercado, como el Forum Magnum, o simplemente como el Forum."
     }
   },
   "rome": {
@@ -2915,6 +3027,20 @@
       "extract": "El palacio de las Tullerías fue un palacio imperial y real situado en el centro de París, formando junto al Louvre un único complejo arquitectónico."
     }
   },
+  "tyre": {
+    "title": "Tyre, Lebanon",
+    "url": "https://en.wikipedia.org/wiki/Tyre%2C_Lebanon",
+    "extract": "Tyre is a city in Lebanon, and one of the oldest continuously inhabited cities in the world. It was one of the earliest Phoenician metropolises and the legendary birthplace of Europa, her brothers Cadmus and Phoenix, and Carthage's founder Dido (Elissa). The city has many ancient sites, including the Tyre Hippodrome, and was added as a whole to the list of UNESCO World Heritage Sites in 1984. The historian Ernest Renan described it as \"a city of ruins, built out of ruins\".",
+    "description": "City in Lebanon",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/SubmergedEgyptianHarbour_TyreSour_Lebanon_RomanDeckert04112019.jpg/330px-SubmergedEgyptianHarbour_TyreSour_Lebanon_RomanDeckert04112019.jpg",
+    "lat": 33.27083333,
+    "lon": 35.19611111,
+    "es": {
+      "title": "Tiro",
+      "url": "https://es.wikipedia.org/wiki/Tiro",
+      "extract": "Tiro es una ciudad situada en el sur del Líbano. Con 117 100 habitantes, Tiro se encuentra en la costa oriental del mar Mediterráneo, unos 37 km al norte de Acre (Israel), y 32 km al sur de Sidón. El nombre de la ciudad significa ‘roca’. A sus habitantes se les denomina «tirios» en español. La ciudad fue declarada Patrimonio de la Humanidad por la Unesco en 1984, por sus vestigios arqueológicos de diversas civilizaciones."
+    }
+  },
   "uffizi": {
     "title": "Uffizi",
     "url": "https://en.wikipedia.org/wiki/Uffizi",
@@ -3011,6 +3137,20 @@
       "title": "Biblioteca Apostólica Vaticana",
       "url": "https://es.wikipedia.org/wiki/Biblioteca_Apost%C3%B3lica_Vaticana",
       "extract": "La Biblioteca Apostólica Vaticana es la biblioteca de la Santa Sede, ubicada en Ciudad del Vaticano. Lleva el nombre de \"apostólica\", porque es una institución que, desde su fundación, es considerada la \"Biblioteca del Papa\", ya que le pertenece directamente. Es una de las más antiguas bibliotecas del mundo y custodia una muy importante colección de textos históricos."
+    }
+  },
+  "veii": {
+    "title": "Veii",
+    "url": "https://en.wikipedia.org/wiki/Veii",
+    "extract": "Veii was an important ancient Etruscan city situated on the southern limits of Etruria and 16 km (9.9 mi) north-northwest of Rome, Italy. It now lies in Isola Farnese, in the comune of Rome. Many other sites associated with and in the city-state of Veii are in Formello, immediately to the north. Formello is named after the drainage channels that were first created by the Veians.",
+    "description": "Ancient Etruscan city in Isola Farnese, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Tempio_di_veio.JPG/330px-Tempio_di_veio.JPG",
+    "lat": 42.02333333,
+    "lon": 12.38972222,
+    "es": {
+      "title": "Veyes",
+      "url": "https://es.wikipedia.org/wiki/Veyes",
+      "extract": "Veyes fue en la antigüedad una importante ciudad etrusca, situada a 16 km al NNO de Roma, en Italia. Se halla en la actual comuna de Formello, en la ciudad metropolitana de Roma Capital."
     }
   },
   "venice": {
