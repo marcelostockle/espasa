@@ -412,6 +412,20 @@
       }
     }
   },
+  "gustavus-adolphus": {
+    "label": "Gustavus Adolphus",
+    "color": "#ba68c8",
+    "description": "Gustavus Adolphus (1594–1632), King of Sweden from 1611, who raised Sweden to a great power and led its army into the Thirty Years' War until his death at Lützen.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Gustavo Adolfo",
+        "description": "Gustavo Adolfo (1594-1632), rey de Suecia desde 1611, que elevó a Suecia a gran potencia y llevó a su ejército a la guerra de los Treinta Años hasta su muerte en Lützen."
+      }
+    }
+  },
   "haiti": {
     "label": "Haiti",
     "color": "#c51162",

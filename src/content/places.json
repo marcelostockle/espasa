@@ -431,6 +431,15 @@
       }
     }
   },
+  "cheb": {
+    "label": "Cheb (Eger)",
+    "wikipedia": "Cheb",
+    "translations": {
+      "es": {
+        "label": "Cheb (Eger)"
+      }
+    }
+  },
   "cholula": {
     "label": "Cholula",
     "wikipedia": "Cholula, Puebla",
@@ -818,6 +827,15 @@
       }
     }
   },
+  "heilbronn": {
+    "label": "Heilbronn",
+    "wikipedia": "Heilbronn",
+    "translations": {
+      "es": {
+        "label": "Heilbronn"
+      }
+    }
+  },
   "heiligerlee": {
     "label": "Heiligerlee",
     "wikipedia": "Heiligerlee",
@@ -989,6 +1007,15 @@
       }
     }
   },
+  "lutzen": {
+    "label": "Lützen",
+    "wikipedia": "Lützen",
+    "translations": {
+      "es": {
+        "label": "Lützen"
+      }
+    }
+  },
   "madeira": {
     "label": "Madeira",
     "wikipedia": "Madeira",
@@ -1004,6 +1031,15 @@
     "translations": {
       "es": {
         "label": "Madrid"
+      }
+    }
+  },
+  "magdeburg": {
+    "label": "Magdeburg",
+    "wikipedia": "Magdeburg",
+    "translations": {
+      "es": {
+        "label": "Magdeburgo"
       }
     }
   },
@@ -1049,6 +1085,15 @@
     "translations": {
       "es": {
         "label": "Medellín"
+      }
+    }
+  },
+  "mieszkowice": {
+    "label": "Bärwalde (Mieszkowice)",
+    "wikipedia": "Mieszkowice",
+    "translations": {
+      "es": {
+        "label": "Bärwalde (Mieszkowice)"
       }
     }
   },
@@ -1169,12 +1214,30 @@
       }
     }
   },
+  "nordlingen": {
+    "label": "Nördlingen",
+    "wikipedia": "Nördlingen",
+    "translations": {
+      "es": {
+        "label": "Nördlingen"
+      }
+    }
+  },
   "noyon": {
     "label": "Noyon",
     "wikipedia": "Noyon",
     "translations": {
       "es": {
         "label": "Noyon"
+      }
+    }
+  },
+  "nuremberg": {
+    "label": "Nuremberg",
+    "wikipedia": "Nuremberg",
+    "translations": {
+      "es": {
+        "label": "Núremberg"
       }
     }
   },
@@ -1346,6 +1409,15 @@
     "translations": {
       "es": {
         "label": "Qumrán"
+      }
+    }
+  },
+  "rain-bavaria": {
+    "label": "Rain",
+    "wikipedia": "Rain, Swabia",
+    "translations": {
+      "es": {
+        "label": "Rain"
       }
     }
   },
@@ -1751,6 +1823,15 @@
     "translations": {
       "es": {
         "label": "Ulm"
+      }
+    }
+  },
+  "usedom": {
+    "label": "Usedom",
+    "wikipedia": "Usedom",
+    "translations": {
+      "es": {
+        "label": "Usedom"
       }
     }
   },

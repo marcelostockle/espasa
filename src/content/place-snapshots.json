@@ -667,6 +667,20 @@
       "extract": "Ceuta es una ciudad autónoma española situada en la península tingitana, en la orilla africana del estrecho de Gibraltar, en su lado oriental. Está bañada por las aguas del mar Mediterráneo, mientras que al oeste y suroeste limita con Marruecos. Su población es de 83 595 habitantes. Con una extensión superficial de 19,87 km², tiene una densidad de 4518,65 hab/km², en la que conviven ciudadanos de diferentes culturas y religiones: principalmente la cristiana y la musulmana, en menor medida la judía y la hindú. Las zonas urbanizadas se sitúan en el istmo y en parte del campo exterior. El centro urbano y los barrios más antiguos se localizan cerca del puerto y por la ladera del monte Hacho, en una pequeña península conocida como Almina."
     }
   },
+  "cheb": {
+    "title": "Cheb",
+    "url": "https://en.wikipedia.org/wiki/Cheb",
+    "extract": "Cheb is a town in the Karlovy Vary Region of the Czech Republic. It has about 33,000 inhabitants. The town is located on the Ohře River.",
+    "description": "Town in Karlovy Vary, Czech Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Cheb_Eger_Egerer_St%C3%B6ckl_%C5%A0pal%C3%AD%C4%8Dek-0219.jpg/330px-Cheb_Eger_Egerer_St%C3%B6ckl_%C5%A0pal%C3%AD%C4%8Dek-0219.jpg",
+    "lat": 50.07944444,
+    "lon": 12.37055556,
+    "es": {
+      "title": "Cheb",
+      "url": "https://es.wikipedia.org/wiki/Cheb",
+      "extract": "Cheb es una ciudad checa de 33.256 habitantes. Está situada en la región de Karlovy Vary, junto al río Ohře, al pie de los montes Smrčiny y cerca de la frontera con Alemania. Antes de 1945 la ciudad era el centro de la región conocida como Egerland, de habla alemana, dentro del área de influencia de los dialectos austrobávaros."
+    }
+  },
   "cholula": {
     "title": "Cholula, Puebla",
     "url": "https://en.wikipedia.org/wiki/Cholula%2C_Puebla",
@@ -1262,6 +1276,20 @@
       "extract": "Heidelberg es una ciudad situada en el valle del río Neckar en el noroeste de Baden-Wurtemberg (Alemania). Es famosa por su centro histórico con el castillo de Heidelberg y por tener la universidad más antigua del país, por lo que es un importante centro cultural y destino turístico."
     }
   },
+  "heilbronn": {
+    "title": "Heilbronn",
+    "url": "https://en.wikipedia.org/wiki/Heilbronn",
+    "extract": "Heilbronn is a city in northern Baden-Württemberg, Germany.",
+    "description": "City in Baden-Württemberg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Heilbronn_Innenstadt_u_Wartberg_20050918.jpg/330px-Heilbronn_Innenstadt_u_Wartberg_20050918.jpg",
+    "lat": 49.15,
+    "lon": 9.21666667,
+    "es": {
+      "title": "Heilbronn",
+      "url": "https://es.wikipedia.org/wiki/Heilbronn",
+      "extract": "Heilbronn es una ciudad al norte de Baden-Wurtemberg en Alemania con 120.000 habitantes, siendo la sexta ciudad más grande de Baden-Wurtemberg."
+    }
+  },
   "heiligerlee": {
     "title": "Heiligerlee",
     "url": "https://en.wikipedia.org/wiki/Heiligerlee",
@@ -1522,6 +1550,20 @@
       "extract": "Lutter am Barenberge es una localidad situada en el municipio de Langelsheim, distrito de Goslar, estado federado de Baja Sajonia (Alemania)."
     }
   },
+  "lutzen": {
+    "title": "Lützen",
+    "url": "https://en.wikipedia.org/wiki/L%C3%BCtzen",
+    "extract": "Lützen is a town in the Burgenlandkreis district of Saxony-Anhalt, Germany.",
+    "description": "Town in Saxony-Anhalt, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Aussicht_vom_Schlossturm.jpg/330px-Aussicht_vom_Schlossturm.jpg",
+    "lat": 51.25972222,
+    "lon": 12.14166667,
+    "es": {
+      "title": "Lützen",
+      "url": "https://es.wikipedia.org/wiki/L%C3%BCtzen",
+      "extract": "Lützen es un municipio alemán del distrito de Burgenland del estado de Sajonia-Anhalt situado aproximadamente a 18 km al suroeste de Leipzig y 14 al noreste de Weissenfels, y que cuenta con 3.629 habitantes."
+    }
+  },
   "madeira": {
     "title": "Madeira",
     "url": "https://en.wikipedia.org/wiki/Madeira",
@@ -1548,6 +1590,20 @@
       "title": "Madrid",
       "url": "https://es.wikipedia.org/wiki/Madrid",
       "extract": "Madrid es un municipio y una ciudad de España. La localidad, con categoría histórica de villa, es la capital del Estado y de la Comunidad de Madrid. En su término municipal, el más poblado de España, su población es de 3 506 730 habitantes, constituyéndose como la segunda ciudad más poblada de la Unión Europea, así como su área metropolitana, con 6 779 888 habitantes empadronados."
+    }
+  },
+  "magdeburg": {
+    "title": "Magdeburg",
+    "url": "https://en.wikipedia.org/wiki/Magdeburg",
+    "extract": "Magdeburg is the capital and most populous city of the German state of Saxony-Anhalt. The city is on the Elbe river. The city was mentioned for the first time in a documentary record as \"Magadoburg\" in the Capitulary of Diedenhofen by Charlemagne in 805.",
+    "description": "Capital city of Saxony-Anhalt, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aerial_view_of_Magdeburg.jpg/330px-Aerial_view_of_Magdeburg.jpg",
+    "lat": 52.13166667,
+    "lon": 11.63916667,
+    "es": {
+      "title": "Magdeburgo",
+      "url": "https://es.wikipedia.org/wiki/Magdeburgo",
+      "extract": "Magdeburgo es una ciudad de Alemania a orillas del río Elba, capital del estado federado de Sajonia-Anhalt. La ciudad experimenta actualmente una intensa reconstrucción que intenta reemplazar los antiguos edificios de la era comunista."
     }
   },
   "manchester": {
@@ -1619,6 +1675,15 @@
       "url": "https://es.wikipedia.org/wiki/Medell%C3%ADn_(Espa%C3%B1a)",
       "extract": "Medellín es un municipio y localidad española de la provincia de Badajoz, en la comunidad autónoma de Extremadura. De fundación romana, cabecera del condado homónimo durante la Edad Media y cuna de Hernán Cortés."
     }
+  },
+  "mieszkowice": {
+    "title": "Mieszkowice",
+    "url": "https://en.wikipedia.org/wiki/Mieszkowice",
+    "extract": "Mieszkowice is a town in Gryfino County, West Pomeranian Voivodeship in western Poland, about 15 km (9.3 mi) east of the Oder river and the border with Germany. It is the administrative seat of the urban-rural gmina (municipality) of Mieszkowice.",
+    "description": "Place in West Pomeranian Voivodeship, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mieszkowice_-_panoramio_%2810%29.jpg/330px-Mieszkowice_-_panoramio_%2810%29.jpg",
+    "lat": 52.78333333,
+    "lon": 14.48333333
   },
   "mikulov": {
     "title": "Mikulov",
@@ -1800,6 +1865,20 @@
       "extract": "Nicópolis del Istro fue una ciudad antigua romana que se mantuvo activa hasta los primeros tiempos del imperio Bizantino. La ciudad fue fundada por Trajano alrededor del año 101-106 d. C. en el cruce de los ríos Yantra y Rositsa en memoria de su victoria contra los Dacios. Sus ruinas se encuentran ubicadas en las inmediaciones de la localidad de Nikyup, a 20 km al norte de Veliko Tarnovo en Bulgaria. La ciudad tuvo su apogeo bajo los reinados de Trajano, Adriano, dinastía Antonina y dinastía Severa.\nEn 1984 este lugar fue inscrito en la Lista Indicativa de Bulgaria como paso previo para ser considerado como Patrimonio de la Humanidad por la UNESCO.\n\n\n \n"
     }
   },
+  "nordlingen": {
+    "title": "Nördlingen",
+    "url": "https://en.wikipedia.org/wiki/N%C3%B6rdlingen",
+    "extract": "Nördlingen is a town in the Donau-Ries district, in Swabia, Bavaria, Germany, with a population of approximately 20,674. It is located approximately 115 km (71 mi) east of Stuttgart, and 145 km (90 mi) northwest of Munich. It was built in an impact crater 15 million years old and 25 km (16 mi) in diameter—the Nördlinger Ries—formed by a meteorite which hit the earth with an estimated speed of 70,000 km/h, and left the area riddled with an estimated 72,000 tons of micro-diamonds.",
+    "description": "Town in Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/N%C3%B6rdlingenDanielBlickS%C3%BCden.jpg/330px-N%C3%B6rdlingenDanielBlickS%C3%BCden.jpg",
+    "lat": 48.85111111,
+    "lon": 10.48833333,
+    "es": {
+      "title": "Nördlingen",
+      "url": "https://es.wikipedia.org/wiki/N%C3%B6rdlingen",
+      "extract": "Nördlingen es una localidad con más de 20 000 habitantes del distrito de Danubio-Ries, en Baviera, Alemania. Escenario de dos batallas acontecidas durante la guerra de los Treinta Años, la antigua Ciudad Imperial de Nördlingen se encuentra a lo largo de la Ruta Romántica, en medio de un cráter de meteorito, caído hace 15 millones de años, cuya extensión de casi 25 km de diámetro determina hoy en día la región del Ries de Nördlingen, y a una altitud de 429 m s. n. m."
+    }
+  },
   "noyon": {
     "title": "Noyon",
     "url": "https://en.wikipedia.org/wiki/Noyon",
@@ -1812,6 +1891,20 @@
       "title": "Noyon",
       "url": "https://es.wikipedia.org/wiki/Noyon",
       "extract": "Noyon es un municipio del departamento del Oise, capital de distrito en la región de Picardía de Francia.\nSu gentilicio es Noyonnais y su apelativo Friands de Noyon."
+    }
+  },
+  "nuremberg": {
+    "title": "Nuremberg",
+    "url": "https://en.wikipedia.org/wiki/Nuremberg",
+    "extract": "Nuremberg is the second-largest city in the German state of Bavaria and the largest city in the cultural region of Franconia. Its 546,397 (2024) inhabitants make it the 13th-largest city in Germany. Situated on the Pegnitz, the city forms a continuous conurbation with the neighbouring cities of Fürth, Erlangen and Schwabach, with the built-up area comprising around 1.4 million inhabitants, while the larger Nuremberg Metropolitan Region has a population of approximately 3.6 million.",
+    "description": "City in Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/N%C3%BCrnberger_Burg_im_Herbst_2013.jpg/330px-N%C3%BCrnberger_Burg_im_Herbst_2013.jpg",
+    "lat": 49.45388889,
+    "lon": 11.0775,
+    "es": {
+      "title": "Núremberg",
+      "url": "https://es.wikipedia.org/wiki/N%C3%BAremberg",
+      "extract": "Núremberg, antiguamente en español Nuremberga, es una ciudad alemana a orillas del río Pegnitz, en la región de la Franconia Media, perteneciente al estado de Baviera. Tiene una población de 544 200 habitantes (2023), por lo que es la segunda ciudad más poblada del estado tras Múnich y la decimocuarta del país."
     }
   },
   "oppenheim": {
@@ -2073,6 +2166,20 @@
       "title": "Qumrán",
       "url": "https://es.wikipedia.org/wiki/Qumr%C3%A1n",
       "extract": "Qumrán es un sitio arqueológico localizado en Cisjordania (Palestina), en el norte del Valle del Mar Muerto y administrado por el Parque Nacional Qumrandebido a la ocupación israelí. Está emplazado en una meseta de marga seca a unos 1,5 km de la costa noroeste del Mar Muerto, junto al kibutz de Kalia. El asentamiento del período helenístico fue construido durante el reinado del mandatario asmoneo Juan Hircano I entre 134 y 104 a. C., y tuvo diferentes etapas de ocupación hasta probablemente la caída de Jerusalén en el año 70, cuando Tito y la Legio X Fretensis destruyeron el asentamiento esenio en el año 68. La importancia de este wadi es la presencia de las ruinas (khirbet) de Qumrán y de las cuevas descubiertas en 1947, que contenían un valioso tesoro arqueológico y bíblico."
+    }
+  },
+  "rain-bavaria": {
+    "title": "Rain, Swabia",
+    "url": "https://en.wikipedia.org/wiki/Rain%2C_Swabia",
+    "extract": "Rain is a town in the Donau-Ries district, in Bavaria, Germany. It is situated on the river Lech, close to its confluence with the Danube, 11 km east of Donauwörth.",
+    "description": "Municipality in Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Rain-Rathaus.jpg/330px-Rain-Rathaus.jpg",
+    "lat": 48.68333333,
+    "lon": 10.91666667,
+    "es": {
+      "title": "Rain (Lech)",
+      "url": "https://es.wikipedia.org/wiki/Rain_(Lech)",
+      "extract": "Rain es un municipio situado en el distrito de Danubio-Ries, en el estado federado de Baviera (Alemania), con una población a finales de 2016 de unos 8902 habitantes."
     }
   },
   "recife": {
@@ -2691,6 +2798,20 @@
       "title": "Ulm",
       "url": "https://es.wikipedia.org/wiki/Ulm",
       "extract": "Ulm es una ciudad alemana situada en el estado de Baden-Wurtemberg. Tiene una población estimada, a fines de marzo de 2026, de 130 161 habitantes."
+    }
+  },
+  "usedom": {
+    "title": "Usedom",
+    "url": "https://en.wikipedia.org/wiki/Usedom",
+    "extract": "Usedom is a Baltic Sea island in Pomerania, divided between Germany and Poland. It is the second largest Pomeranian island after Rügen, and the most populous island in the Baltic Sea.",
+    "description": "Island in the southern Baltic Sea divided between Germany and Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/StrandD%C3%BCne.JPG/330px-StrandD%C3%BCne.JPG",
+    "lat": 53.93333333,
+    "lon": 14.08333333,
+    "es": {
+      "title": "Usedom",
+      "url": "https://es.wikipedia.org/wiki/Usedom",
+      "extract": "La isla Usedom es una isla costera del mar Báltico ubicada frente a la desembocadura del Oder, separando la laguna de Szczecin del mar abierto. La isla es parte de Alemania y parte de Polonia. La isla pertenece a la región alemana de Pomerania Occidental, Distrito de Pomerania Oriental, excepto la villa polaca de Świnoujście, ubicada en la parte más oriental de la isla, posee una superficie total de 445 km² y una población total de 76.500 personas"
     }
   },
   "utrecht": {
