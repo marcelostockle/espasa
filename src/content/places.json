@@ -8,6 +8,15 @@
       }
     }
   },
+  "alerheim": {
+    "label": "Alerheim",
+    "wikipedia": "Alerheim",
+    "translations": {
+      "es": {
+        "label": "Alerheim"
+      }
+    }
+  },
   "alexandria": {
     "label": "Alexandria",
     "wikipedia": "Alexandria",
@@ -269,12 +278,30 @@
       }
     }
   },
+  "breitenfeld": {
+    "label": "Breitenfeld",
+    "wikipedia": "Breitenfeld, Leipzig",
+    "translations": {
+      "es": {
+        "label": "Breitenfeld"
+      }
+    }
+  },
   "brielle": {
     "label": "Brielle",
     "wikipedia": "Brielle",
     "translations": {
       "es": {
         "label": "Brielle"
+      }
+    }
+  },
+  "bromsebro": {
+    "label": "Brömsebro",
+    "wikipedia": "Brömsebro",
+    "translations": {
+      "es": {
+        "label": "Brömsebro"
       }
     }
   },
@@ -467,6 +494,15 @@
       }
     }
   },
+  "compiegne": {
+    "label": "Compiègne",
+    "wikipedia": "Compiègne",
+    "translations": {
+      "es": {
+        "label": "Compiègne"
+      }
+    }
+  },
   "congo-river": {
     "label": "Congo River",
     "wikipedia": "Congo River",
@@ -500,6 +536,15 @@
     "translations": {
       "es": {
         "label": "Copenhague"
+      }
+    }
+  },
+  "corbie": {
+    "label": "Corbie",
+    "wikipedia": "Corbie",
+    "translations": {
+      "es": {
+        "label": "Corbie"
       }
     }
   },
@@ -809,6 +854,15 @@
       }
     }
   },
+  "hamburg": {
+    "label": "Hamburg",
+    "wikipedia": "Hamburg",
+    "translations": {
+      "es": {
+        "label": "Hamburg"
+      }
+    }
+  },
   "hangzhou": {
     "label": "Lin’an (Hangzhou)",
     "wikipedia": "Hangzhou",
@@ -851,6 +905,15 @@
     "translations": {
       "es": {
         "label": "Hipona"
+      }
+    }
+  },
+  "jankov": {
+    "label": "Jankov",
+    "wikipedia": "Jankov (Benešov District)",
+    "translations": {
+      "es": {
+        "label": "Jankov"
       }
     }
   },
@@ -959,6 +1022,15 @@
     "translations": {
       "es": {
         "label": "Leipzig"
+      }
+    }
+  },
+  "lens": {
+    "label": "Lens",
+    "wikipedia": "Lens, Pas-de-Calais",
+    "translations": {
+      "es": {
+        "label": "Lens"
       }
     }
   },
@@ -1142,6 +1214,15 @@
       }
     }
   },
+  "montjuic": {
+    "label": "Montjuïc",
+    "wikipedia": "Montjuïc",
+    "translations": {
+      "es": {
+        "label": "Montjuïc"
+      }
+    }
+  },
   "montmartre": {
     "label": "Montmartre",
     "wikipedia": "Montmartre",
@@ -1247,6 +1328,15 @@
     "translations": {
       "es": {
         "label": "Oppenheim"
+      }
+    }
+  },
+  "osnabruck": {
+    "label": "Osnabrück",
+    "wikipedia": "Osnabrück",
+    "translations": {
+      "es": {
+        "label": "Osnabrück"
       }
     }
   },
@@ -1463,6 +1553,15 @@
     "translations": {
       "es": {
         "label": "Río de Janeiro"
+      }
+    }
+  },
+  "rocroi": {
+    "label": "Rocroi",
+    "wikipedia": "Rocroi",
+    "translations": {
+      "es": {
+        "label": "Rocroi"
       }
     }
   },
@@ -1961,6 +2060,15 @@
       }
     }
   },
+  "wittstock": {
+    "label": "Wittstock",
+    "wikipedia": "Wittstock",
+    "translations": {
+      "es": {
+        "label": "Wittstock"
+      }
+    }
+  },
   "worms": {
     "label": "Worms",
     "wikipedia": "Worms, Germany",
@@ -1994,6 +2102,15 @@
     "translations": {
       "es": {
         "label": "Zúrich"
+      }
+    }
+  },
+  "zusmarshausen": {
+    "label": "Zusmarshausen",
+    "wikipedia": "Zusmarshausen",
+    "translations": {
+      "es": {
+        "label": "Zusmarshausen"
       }
     }
   }

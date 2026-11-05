@@ -184,6 +184,21 @@
       }
     }
   },
+  "catalonia": {
+    "label": "Catalonia",
+    "color": "#fb8c00",
+    "description": "Catalonia and its Principality, with Barcelona, from its medieval counties to the revolt of 1640 against the Spanish crown.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Cataluña",
+        "description": "Cataluña y su Principado, con Barcelona, desde los condados medievales hasta la revuelta de 1640 contra la corona española."
+      }
+    }
+  },
   "chile": {
     "label": "Chile",
     "color": "#ffab91",

@@ -13,6 +13,20 @@
       "extract": "Alcalá de Henares es un municipio de España perteneciente a la Comunidad de Madrid. Tiene una población de 203 208 habitantes."
     }
   },
+  "alerheim": {
+    "title": "Alerheim",
+    "url": "https://en.wikipedia.org/wiki/Alerheim",
+    "extract": "Alerheim is a municipality in the district of Donau-Ries in Bavaria in Germany.",
+    "description": "Municipality in Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Schloss_Alerheim_004.jpg/330px-Schloss_Alerheim_004.jpg",
+    "lat": 48.85,
+    "lon": 10.61666667,
+    "es": {
+      "title": "Alerheim",
+      "url": "https://es.wikipedia.org/wiki/Alerheim",
+      "extract": "Alerheim es un municipio situado en el distrito de Danubio-Ries, en el estado federado de Baviera (Alemania), con una población a finales de 2016 de unos 1638 habitantes."
+    }
+  },
   "alexandria": {
     "title": "Alexandria",
     "url": "https://en.wikipedia.org/wiki/Alexandria",
@@ -418,6 +432,14 @@
       "extract": " Bouvines  es una población y comuna francesa, en la región de Alta Francia, departamento de Norte, en el distrito de Lille y cantón de Cysoing."
     }
   },
+  "breitenfeld": {
+    "title": "Breitenfeld, Leipzig",
+    "url": "https://en.wikipedia.org/wiki/Breitenfeld%2C_Leipzig",
+    "extract": "Breitenfeld is a village in Germany, incorporated into the city of Leipzig since 1999. It lies 8 kilometres (5.0 mi) north of the city centre, near the old road to Landsberg. To the south, it borders the suburbanised villages of Lindenthal and Wiederitzsch; to the north it is bordered by the autobahn A14. It was the site of the Battle of Breitenfeld (1631), an important Swedish-Protestant victory in the Thirty Years' War.",
+    "description": "Stadtteil of Leipzig in Saxony, Germany",
+    "lat": 51.40277778,
+    "lon": 12.34444444
+  },
   "brielle": {
     "title": "Brielle",
     "url": "https://en.wikipedia.org/wiki/Brielle",
@@ -431,6 +453,15 @@
       "url": "https://es.wikipedia.org/wiki/Brielle",
       "extract": "Brielle, también llamada Den Briel, es un municipio y una ciudad de la provincia de Holanda Meridional en los Países Bajos, en la antigua isla Voorne. Tiene una superficie de 31,14 km², de los que 3,58 km² corresponden a la superficie ocupada por el agua. En marzo de 2014 tenía una población de 16 339 habitantes."
     }
+  },
+  "bromsebro": {
+    "title": "Brömsebro",
+    "url": "https://en.wikipedia.org/wiki/Br%C3%B6msebro",
+    "extract": "Brömsebro is a bimunicipal village situated in Karlskrona Municipality, Blekinge County and Torsås Municipality, Kalmar County in south-eastern part of country Sweden with 213 inhabitants in 2005.",
+    "description": "Place in Sweden",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Gustav_Vasa_triumphs_5.jpg/330px-Gustav_Vasa_triumphs_5.jpg",
+    "lat": 56.3,
+    "lon": 16
   },
   "brussels": {
     "title": "Brussels",
@@ -723,6 +754,20 @@
       "extract": "Colonia del Sacramento, conocida en el medio local como Colonia, es la capital del departamento de Colonia, en el suroeste de Uruguay. Está ubicada en la ribera norte —izquierda— del Río de la Plata, a 177 km de Montevideo y a 50 km de la ciudad de Buenos Aires en barco."
     }
   },
+  "compiegne": {
+    "title": "Compiègne",
+    "url": "https://en.wikipedia.org/wiki/Compi%C3%A8gne",
+    "extract": "Compiègne is a commune in the Oise department of northern France. It is located on the river Oise, and its inhabitants are called Compiégnois.",
+    "description": "Subprefecture and commune in Hauts-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/H%C3%B4tel_de_ville_de_Compi%C3%A8gne.jpg/330px-H%C3%B4tel_de_ville_de_Compi%C3%A8gne.jpg",
+    "lat": 49.4149,
+    "lon": 2.8231,
+    "es": {
+      "title": "Compiègne",
+      "url": "https://es.wikipedia.org/wiki/Compi%C3%A8gne",
+      "extract": "Compiègne es una ciudad francesa situada en el departamento del Oise, en la región Alta Francia."
+    }
+  },
   "congo-river": {
     "title": "Congo River",
     "url": "https://en.wikipedia.org/wiki/Congo_River",
@@ -777,6 +822,20 @@
       "title": "Copenhague",
       "url": "https://es.wikipedia.org/wiki/Copenhague",
       "extract": "Copenhague es la capital y la ciudad más poblada de Dinamarca, con una población urbana de 1 391 205 y una población metropolitana de 1,99 millones de habitantes para 2024. Está situada en la costa oriental de Selandia, a 28 km de Malmö (Suecia), y a 164 kilómetros (102 mi) de Odense. La ciudad se extiende por partes de la isla de Amager y también contiene el enclave del municipio de Frederiksberg. Fue premiada con el título Capital Verde Europea en 2014."
+    }
+  },
+  "corbie": {
+    "title": "Corbie",
+    "url": "https://en.wikipedia.org/wiki/Corbie",
+    "extract": "Corbie is a commune of the Somme department in Hauts-de-France in northern France.",
+    "description": "Commune in Hauts-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Corbie_mairie_%28fa%C3%A7ade_ouest%29.jpg/330px-Corbie_mairie_%28fa%C3%A7ade_ouest%29.jpg",
+    "lat": 49.9097,
+    "lon": 2.5081,
+    "es": {
+      "title": "Corbie",
+      "url": "https://es.wikipedia.org/wiki/Corbie",
+      "extract": " Corbie  es una comuna y población de Francia, en la región de Alta Francia, departamento de Somme, en el distrito de Amiens. Es la cabecera del cantón de su nombre. Su gentilicio francés es Corbéens."
     }
   },
   "cordoba": {
@@ -1248,6 +1307,20 @@
     "lat": 33.618,
     "lon": 130.333
   },
+  "hamburg": {
+    "title": "Hamburg",
+    "url": "https://en.wikipedia.org/wiki/Hamburg",
+    "extract": "Hamburg, officially the Free and Hanseatic City of Hamburg, is the second-largest city in Germany after Berlin and sixth-largest city in the European Union, with a population of over 1.9 million. The Hamburg Metropolitan Region has a population of over 5.1 million and is the tenth-largest metropolitan region by GDP in the European Union. At the base of the Jutland Peninsula, the 110 km (68 mi)-long Elbe estuary begins in Hamburg, at the confluence of the Alster and Bille. Hamburg is one of Germany's three city-states alongside Berlin and Bremen, and is surrounded by Schleswig-Holstein to the north and Lower Saxony to the south. The Port of Hamburg is Germany's largest and Europe's third-largest, after Rotterdam and Antwerp. The local dialect is a variant of Low Saxon.",
+    "description": "City and state in Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Hamburg%2C_Landungsbr%C3%BCcken_--_2016_--_3131-7.jpg/330px-Hamburg%2C_Landungsbr%C3%BCcken_--_2016_--_3131-7.jpg",
+    "lat": 53.55,
+    "lon": 10,
+    "es": {
+      "title": "Hamburgo",
+      "url": "https://es.wikipedia.org/wiki/Hamburgo",
+      "extract": "Hamburgo, oficialmente Ciudad Libre y Hanseática de Hamburgo es una ciudad-estado alemana situada en el norte de Alemania. Tiene una extensión de 755 km² y 1 857 727 habitantes. Hamburgo es la cabeza de un área metropolitana de unos 5,3 millones de personas que ocupa además partes de los estados vecinos de Baja Sajonia y Schleswig-Holstein, lo que lo convierte en la segunda ciudad más poblada de Alemania, después de Berlín, la tercera de Europa Central y la séptima de la Unión Europea. Su puerto es el segundo más grande de Europa —solo detrás del de Róterdam— y uno de los veinte mayores del mundo. Hamburgo se encuentra a 290 kilómetros al noroeste de Berlín."
+    }
+  },
   "hangzhou": {
     "title": "Hangzhou",
     "url": "https://en.wikipedia.org/wiki/Hangzhou",
@@ -1311,6 +1384,20 @@
       "title": "Hipona",
       "url": "https://es.wikipedia.org/wiki/Hipona",
       "extract": "Hipona o Hippo Regius, fue una antigua ciudad de Numidia a la orilla del río Ubus, en la actual Argelia."
+    }
+  },
+  "jankov": {
+    "title": "Jankov (Benešov District)",
+    "url": "https://en.wikipedia.org/wiki/Jankov_(Bene%C5%A1ov_District)",
+    "extract": "Jankov is a municipality and village in Benešov District in the Central Bohemian Region of the Czech Republic. It has about 900 inhabitants.",
+    "description": "Municipality in Central Bohemian, Czech Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Jankov_%28okres_Bene%C5%A1ov%29_%282.%29.jpg/330px-Jankov_%28okres_Bene%C5%A1ov%29_%282.%29.jpg",
+    "lat": 49.65305556,
+    "lon": 14.73083333,
+    "es": {
+      "title": "Jankov (Benešov)",
+      "url": "https://es.wikipedia.org/wiki/Jankov_(Bene%C5%A1ov)",
+      "extract": "Jankov es una localidad del distrito de Benešov en la región de Bohemia Central, República Checa, con una población estimada a principio del año 2018 de 935 habitantes."
     }
   },
   "java": {
@@ -1479,6 +1566,20 @@
       "title": "Leipzig",
       "url": "https://es.wikipedia.org/wiki/Leipzig",
       "extract": "Leipzig es una ciudad alemana en el noroeste del estado de Sajonia, con 633,592 habitantes en diciembre de 2025. Ya en el año 1165 recibió el derecho de ciudad y de mercado."
+    }
+  },
+  "lens": {
+    "title": "Lens, Pas-de-Calais",
+    "url": "https://en.wikipedia.org/wiki/Lens%2C_Pas-de-Calais",
+    "extract": "Lens is a city in the Pas-de-Calais department in northern France. It is one of the main towns of Hauts-de-France along with Lille, Valenciennes, Amiens, Roubaix, Tourcoing, Arras and Douai. The inhabitants are called Lensois.",
+    "description": "Subprefecture and commune in Hauts-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Avion-glissoires7.jpg/330px-Avion-glissoires7.jpg",
+    "lat": 50.4322,
+    "lon": 2.8333,
+    "es": {
+      "title": "Lens (Francia)",
+      "url": "https://es.wikipedia.org/wiki/Lens_(Francia)",
+      "extract": "Lens [lɑ̃s] es una ciudad y comuna francesa situada en el departamento de Paso de Calais, en la región de Alta Francia."
     }
   },
   "lima": {
@@ -1753,6 +1854,20 @@
       "extract": "El monte Pascoal es un pequeño cerro de 586 metros de altura, localizado en el estado de Bahía, cerca de 62 kilómetros de la ciudad de Porto Seguro. Según los registros históricos, el monte Pascoal habría sido la primera porción de tierra avistada por Pedro Álvares Cabral y su tripulación el día 22 de abril de 1500, fecha del Descubrimiento de Brasil. El accidente geográfico recibió este nombre justamente porque el desembarco ocurrió en la época de Pascua del 1500."
     }
   },
+  "montjuic": {
+    "title": "Montjuïc",
+    "url": "https://en.wikipedia.org/wiki/Montju%C3%AFc",
+    "extract": "Montjuïc is a hill in Barcelona, Catalonia, Spain.",
+    "description": "Hill in Barcelona, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Fale_-_Spain_-_Barcelona_-_8.jpg/330px-Fale_-_Spain_-_Barcelona_-_8.jpg",
+    "lat": 41.36416667,
+    "lon": 2.16083333,
+    "es": {
+      "title": "Montjuic (Barcelona)",
+      "url": "https://es.wikipedia.org/wiki/Montjuic_(Barcelona)",
+      "extract": "Montjuich o Montjuic es una montaña en Barcelona (España), con una altura de 177 metros sobre el nivel del mar, que alberga un barrio homónimo, en el distrito de Sans-Montjuich."
+    }
+  },
   "montmartre": {
     "title": "Montmartre",
     "url": "https://en.wikipedia.org/wiki/Montmartre",
@@ -1919,6 +2034,20 @@
       "title": "Oppenheim (Alemania)",
       "url": "https://es.wikipedia.org/wiki/Oppenheim_(Alemania)",
       "extract": "Oppenheim es una ciudad alemana ubicada en la orilla oeste del Rhin, en el estado federado de Renania-Palatinado, distrito de Maguncia-Bingen. Constituye un importante centro vinícola de la región."
+    }
+  },
+  "osnabruck": {
+    "title": "Osnabrück",
+    "url": "https://en.wikipedia.org/wiki/Osnabr%C3%BCck",
+    "extract": "Osnabrück is a city in Lower Saxony in western Germany. It is situated on the river Hase in a valley penned between the Wiehen Hills and the northern tip of the Teutoburg Forest. With a population of 166,057 Osnabrück is the fourth largest city in Lower Saxony.",
+    "description": "City in Lower Saxony, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Osnabr%C3%BCck_aerial.jpg/330px-Osnabr%C3%BCck_aerial.jpg",
+    "lat": 52.28333333,
+    "lon": 8.05,
+    "es": {
+      "title": "Osnabrück",
+      "url": "https://es.wikipedia.org/wiki/Osnabr%C3%BCck",
+      "extract": "Osnabrück es la tercera ciudad más grande del estado federado de Baja Sajonia, en Alemania. Capital del distrito homónimo."
     }
   },
   "ostroh": {
@@ -2250,6 +2379,20 @@
       "title": "Río de Janeiro",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_de_Janeiro",
       "extract": "Río de Janeiro, fundada como São Sebastião do Rio de Janeiro, es una ciudad y municipio brasileño, capital del estado homónimo, ubicada en el sureste del país. Es la segunda ciudad más poblada de Brasil después de São Paulo. Es considerada la ciudad de Brasil más conocida a nivel Internacional."
+    }
+  },
+  "rocroi": {
+    "title": "Rocroi",
+    "url": "https://en.wikipedia.org/wiki/Rocroi",
+    "extract": "Rocroi is a commune in the Ardennes department in northern France.",
+    "description": "Commune in Grand Est, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Rue_de_Montmorency_from_the_bastion%2C_Rocroi%2C_2020.jpg/330px-Rue_de_Montmorency_from_the_bastion%2C_Rocroi%2C_2020.jpg",
+    "lat": 49.9261,
+    "lon": 4.5222,
+    "es": {
+      "title": "Rocroi",
+      "url": "https://es.wikipedia.org/wiki/Rocroi",
+      "extract": "Rocroi es una comuna francesa situada en la región de las Champaña-Ardenas. en el departamento de las Ardenas."
     }
   },
   "rome": {
@@ -3010,6 +3153,20 @@
       "extract": "Wittenberg, en español también Witemberg, es una ciudad del estado federado de Sajonia-Anhalt (Alemania), sede del distrito homónimo, situada a orillas del Elba, con una población cercana a los 50 000 habitantes. Su nombre oficial es Lutherstadt Wittenberg."
     }
   },
+  "wittstock": {
+    "title": "Wittstock",
+    "url": "https://en.wikipedia.org/wiki/Wittstock",
+    "extract": "Wittstock/Dosse is a town in the Ostprignitz-Ruppin district, in north-western Brandenburg, Germany.",
+    "description": "Town in Brandenburg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Wittstock_Altstadt.jpg/330px-Wittstock_Altstadt.jpg",
+    "lat": 53.16361111,
+    "lon": 12.48555556,
+    "es": {
+      "title": "Wittstock",
+      "url": "https://es.wikipedia.org/wiki/Wittstock",
+      "extract": "Wittstock es una ciudad alemana que pertenece al distrito de Prignitz Oriental-Ruppin en el noroeste del estado de Brandeburgo. Se encuentra situada junto al río Dosse, 20 km al este de Pritzwalk a unos 95 km al noroeste de la capital Berlín."
+    }
+  },
   "worms": {
     "title": "Worms, Germany",
     "url": "https://en.wikipedia.org/wiki/Worms%2C_Germany",
@@ -3064,6 +3221,20 @@
       "title": "Zúrich",
       "url": "https://es.wikipedia.org/wiki/Z%C3%BArich",
       "extract": "Zúrich es la mayor ciudad de la Confederación Suiza, con una población de 443 037 habitantes y un área metropolitana de 1 456 786 habitantes. Es la capital del cantón de Zúrich y se halla en la llanura central de Suiza y próxima a los Alpes. Es el motor financiero del país, teniendo a diversas empresas multinacionales ahí su sede mundial, como UBS, ABB, Zurich Insurance Group, FIFA, Holcim, On, Adecco, y Lindt & Sprüngli. Zúrich es consistentemente considerada la ciudad más cara del mundo. Se encuentra a la cabeza de las ciudades con mayor calidad de vida; no solamente por su economía, sino también por su innovación, naturaleza, transporte, eficiencia, cultura, arte, sanidad y seguridad. Así lo subrayan los estudios «Mejores Ciudades del Mundo para vivir» de The Economist en 2022 «Ranking de Calidad de Vida» de Monocle en 2022 y «Ciudades de mayor calidad de vida» de Mercer, «IMD Ciudades Inteligentes 2023»."
+    }
+  },
+  "zusmarshausen": {
+    "title": "Zusmarshausen",
+    "url": "https://en.wikipedia.org/wiki/Zusmarshausen",
+    "extract": "Zusmarshausen is a municipality in the district of Augsburg, Bavaria, Germany. The 1648 Battle of Zusmarshausen took place here.",
+    "description": "Municipality in Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Zusmarshausen_v_SW.JPG/330px-Zusmarshausen_v_SW.JPG",
+    "lat": 48.38333333,
+    "lon": 10.58333333,
+    "es": {
+      "title": "Zusmarshausen",
+      "url": "https://es.wikipedia.org/wiki/Zusmarshausen",
+      "extract": "Zusmarshausen es un municipio situado en el distrito de Augsburgo, en el estado federado de Baviera (Alemania), con una población a finales de 2016 de unos 6281 habitantes."
     }
   }
 }
