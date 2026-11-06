@@ -1,4 +1,18 @@
 {
+  "abdera": {
+    "title": "Abdera, Thrace",
+    "url": "https://en.wikipedia.org/wiki/Abdera%2C_Thrace",
+    "extract": "Abdera is a municipality in the Xanthi regional unit of Thrace, Greece. In classical antiquity, it was a major Greek polis on the Thracian coast.",
+    "description": "Municipality in the Xanthi Prefecture of Thrace, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Abdera.JPG/330px-Abdera.JPG",
+    "lat": 40.93333333,
+    "lon": 24.96666667,
+    "es": {
+      "title": "Abdera (Tracia)",
+      "url": "https://es.wikipedia.org/wiki/Abdera_(Tracia)",
+      "extract": "Abdera fue una polis ubicada en la región griega de Macedonia oriental y Tracia. En concreto, situada en la costa de Tracia, en el cabo Bulustra, a 17 km al NE de la desembocadura del río Nestos, casi delante de la isla de Tasos."
+    }
+  },
   "actium": {
     "title": "Actium",
     "url": "https://en.wikipedia.org/wiki/Actium",
@@ -1223,6 +1237,20 @@
       "extract": "Covadonga es una parroquia del concejo de Cangas de Onís, en el Principado de Asturias (España), así como la única población, con la categoría de lugar, de dicha parroquia."
     }
   },
+  "crotone": {
+    "title": "Crotone",
+    "url": "https://en.wikipedia.org/wiki/Crotone",
+    "extract": "Crotone is a city and comune in Calabria, Italy.",
+    "description": "Comune in Calabria, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Crotone_vista_dal_volo_Ryanair_FR5116_%28BLQ-CRV%29.jpg/330px-Crotone_vista_dal_volo_Ryanair_FR5116_%28BLQ-CRV%29.jpg",
+    "lat": 39.08333333,
+    "lon": 17.11666667,
+    "es": {
+      "title": "Crotona",
+      "url": "https://es.wikipedia.org/wiki/Crotona",
+      "extract": "Crotona es una ciudad y municipio con 61 392 habitantes (2009), capital de la provincia de Crotona, en la costa oriental de Calabria (Italia), frente al mar Jónico, en la zona llamada golfo de Tarento."
+    }
+  },
   "cumae": {
     "title": "Cumae",
     "url": "https://en.wikipedia.org/wiki/Cumae",
@@ -1468,6 +1496,20 @@
       "title": "Lutherstadt Eisleben",
       "url": "https://es.wikipedia.org/wiki/Lutherstadt_Eisleben",
       "extract": "Lutherstadt Eisleben es un pueblo en Sajonia-Anhalt, Alemania. Famoso por ser el pueblo natal de Martín Lutero, cuyo apellido se inocorporó oficialmente al nombre original, Eisleben. Es la capital del distrito de Mansfelder Land, y en 2004 tenía una población de 21.062 habitantes."
+    }
+  },
+  "ephesus": {
+    "title": "Ephesus",
+    "url": "https://en.wikipedia.org/wiki/Ephesus",
+    "extract": "Ephesus was an ancient Greek city on the coast of Ionia, in present-day Selçuk in İzmir Province, Turkey. It was built in the 10th century BC on the site of Apasa, a city-state that was also the capital of Arzawa, by Attic and Ionian Greek colonists. During the Classical Greek era, it was one of twelve cities that were members of the Ionian League. The city came under the control of the Roman Republic in 129 BC.",
+    "description": "Ancient Greek city in Anatolia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ephesus_Celsus_Library_Fa%C3%A7ade.jpg/330px-Ephesus_Celsus_Library_Fa%C3%A7ade.jpg",
+    "lat": 37.94111111,
+    "lon": 27.34194444,
+    "es": {
+      "title": "Éfeso",
+      "url": "https://es.wikipedia.org/wiki/%C3%89feso",
+      "extract": "Éfeso fue en la Antigüedad una localidad de Asia Menor, en la actual Turquía. Fue una de las doce ciudades jónicas a orillas del mar Egeo, situada entre el extremo norte de Panayr Dağ y la desembocadura del río Caístro y tenía un puerto llamado Panormo. Al este se hallaban la colina de Ayasoluk, con el valle a sus pies, y la ciudad actual de Selçuk, cerca del mar, el monte Pion y el monte Coreso, en cuya parte baja se encontraba la ciudad antigua."
     }
   },
   "eretria": {
@@ -1783,6 +1825,20 @@
     "lat": 33.618,
     "lon": 130.333
   },
+  "halicarnassus": {
+    "title": "Halicarnassus",
+    "url": "https://en.wikipedia.org/wiki/Halicarnassus",
+    "extract": "Halicarnassus was an ancient city in Caria, in Anatolia. It was located in southwest Caria, on an advantageous site on the Gulf of Gökova, which is now in Bodrum, Turkey. The city was famous for the Mausoleum of Halicarnassus, also known simply as the Tomb of Mausolus, whose name provided the origin of the word \"mausoleum\". The mausoleum, built from 353 to 350 BC, ranked as one of the seven wonders of the ancient world.",
+    "description": "Ancient Carian city, present day Bodrum in Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg/330px-The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg",
+    "lat": 37.03777778,
+    "lon": 27.42416667,
+    "es": {
+      "title": "Halicarnaso",
+      "url": "https://es.wikipedia.org/wiki/Halicarnaso",
+      "extract": "Halicarnaso fue una antigua ciudad griega situada en la costa sudoccidental de Caria en el mar Egeo, en una posición privilegiada entre el golfo Cerámico y el golfo de Cos. Originalmente solo ocupaba una pequeña isla cercana a la costa, donde actualmente se ubica el Castillo de San Pedro de Halicarnaso."
+    }
+  },
   "hamburg": {
     "title": "Hamburg",
     "url": "https://en.wikipedia.org/wiki/Hamburg",
@@ -2071,6 +2127,20 @@
       "extract": "Cnosos o Cnoso fue una de las ciudades más importantes de Creta durante la civilización minoica, que alcanzó su máximo esplendor en el segundo milenio a. C., siendo el complejo palacial más antiguo de Europa. Está situada a unos 5 km al sudeste de la actual ciudad de Heraclión y al oeste del río Kairatos. En ella se alzan los restos del palacio de Cnosos, el más importante del periodo minoico y el más conocido de los complejos arqueológicos desde su descubrimiento en 1878."
     }
   },
+  "kos": {
+    "title": "Kos",
+    "url": "https://en.wikipedia.org/wiki/Kos",
+    "extract": "Kos or Cos is a Greek island, part of the Dodecanese island chain in the southeastern Aegean Sea. Kos is the third largest island of the Dodecanese, after Rhodes and Karpathos; it has a population of 37,089, making it the second most populous of the Dodecanese after Rhodes. The island measures 42.1 by 11.5 kilometres. Administratively, Kos constitutes a municipality within the Kos regional unit, which is part of the South Aegean region. The principal town of the island and seat of the municipality is the town of Kos.",
+    "description": "Island in Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Greece_kos_city.jpg/330px-Greece_kos_city.jpg",
+    "lat": 36.85,
+    "lon": 27.23333333,
+    "es": {
+      "title": "Cos",
+      "url": "https://es.wikipedia.org/wiki/Cos",
+      "extract": "Cos es un municipio ubicado en la unidad regional homónima. Según el censo de 2021, tiene una población de 37 089 habitantes."
+    }
+  },
   "kosice": {
     "title": "Košice",
     "url": "https://en.wikipedia.org/wiki/Ko%C5%A1ice",
@@ -2193,6 +2263,20 @@
       "title": "Lens (Francia)",
       "url": "https://es.wikipedia.org/wiki/Lens_(Francia)",
       "extract": "Lens [lɑ̃s] es una ciudad y comuna francesa situada en el departamento de Paso de Calais, en la región de Alta Francia."
+    }
+  },
+  "lesbos": {
+    "title": "Lesbos",
+    "url": "https://en.wikipedia.org/wiki/Lesbos",
+    "extract": "Lesbos or Lesvos is a Greek island located in the northeastern Aegean Sea. It has an area of 1,633 km2 (631 sq mi), with approximately 400 km (249 mi) of coastline, making it the third largest island in Greece and the eighth largest in the Mediterranean. It is separated from Asia Minor by the narrow Mytilini Strait. On the southeastern coast is the island's capital and largest city, Mytilene (Μυτιλήνη), whose name is also used for the island as a whole. Lesbos is a separate regional unit with the seat in Mytilene, which is also the capital of the larger North Aegean region. The region includes the islands of Lesbos, Chios, Ikaria, Lemnos, and Samos. The total population of the island was 83,755 in 2021. A third of the island's inhabitants live in the capital, while the remainder are concentrated in small towns and villages. The largest are Plomari, Agia Paraskevi, Polichnitos, Agiassos, Eresos, Gera, and Molyvos.",
+    "description": "Greek island in the North Aegean",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Mytilene_2010-04-03.jpg/330px-Mytilene_2010-04-03.jpg",
+    "lat": 39.21,
+    "lon": 26.28,
+    "es": {
+      "title": "Lesbos",
+      "url": "https://es.wikipedia.org/wiki/Lesbos",
+      "extract": "Lesbos es una isla griega que forma parte de un gran conjunto de islas cercanas a la costa de Turquía. Su capital es Mitilene. Junto a algunas islas menores, constituye la unidad periférica de Lesbos, siendo su isla homónima la más grande e importante del archipiélago."
     }
   },
   "libyssa": {

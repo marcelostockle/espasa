@@ -1,4 +1,13 @@
 {
+  "abdera": {
+    "label": "Abdera",
+    "wikipedia": "Abdera, Thrace",
+    "translations": {
+      "es": {
+        "label": "Abdera"
+      }
+    }
+  },
   "actium": {
     "label": "Actium",
     "wikipedia": "Actium",
@@ -800,6 +809,15 @@
       }
     }
   },
+  "crotone": {
+    "label": "Croton (Crotone)",
+    "wikipedia": "Crotone",
+    "translations": {
+      "es": {
+        "label": "Crotona (Crotone)"
+      }
+    }
+  },
   "cumae": {
     "label": "Cumae",
     "wikipedia": "Cumae",
@@ -959,6 +977,15 @@
     "translations": {
       "es": {
         "label": "Eisleben"
+      }
+    }
+  },
+  "ephesus": {
+    "label": "Ephesus",
+    "wikipedia": "Ephesus",
+    "translations": {
+      "es": {
+        "label": "Éfeso"
       }
     }
   },
@@ -1169,6 +1196,15 @@
       }
     }
   },
+  "halicarnassus": {
+    "label": "Halicarnassus",
+    "wikipedia": "Halicarnassus",
+    "translations": {
+      "es": {
+        "label": "Halicarnaso"
+      }
+    }
+  },
   "hamburg": {
     "label": "Hamburg",
     "wikipedia": "Hamburg",
@@ -1358,6 +1394,15 @@
       }
     }
   },
+  "kos": {
+    "label": "Kos",
+    "wikipedia": "Kos",
+    "translations": {
+      "es": {
+        "label": "Cos"
+      }
+    }
+  },
   "kosice": {
     "label": "Košice",
     "wikipedia": "Košice",
@@ -1436,6 +1481,15 @@
     "translations": {
       "es": {
         "label": "Lens"
+      }
+    }
+  },
+  "lesbos": {
+    "label": "Lesbos",
+    "wikipedia": "Lesbos",
+    "translations": {
+      "es": {
+        "label": "Lesbos"
       }
     }
   },

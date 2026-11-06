@@ -56,6 +56,20 @@
       }
     }
   },
+  "aristotle": {
+    "label": "Aristotle",
+    "color": "#1e8c5a",
+    "description": "Aristotle (384-322 BCE): his years at the Academy, his tutoring of Alexander, the Lyceum and his works.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Aristóteles",
+        "description": "Aristóteles (384-322 a. C.): sus años en la Academia, la educación de Alejandro, el Liceo y sus obras."
+      }
+    }
+  },
   "art": {
     "label": "Art",
     "color": "#c2398b",
@@ -592,6 +606,20 @@
       "es": {
         "label": "Ciudades-estado griegas",
         "description": "Las póleis griegas independientes (como Atenas, Esparta y Corinto), las ciudades griegas del sur de Italia y Sicilia, y sus ligas."
+      }
+    }
+  },
+  "greek-philosophy": {
+    "label": "Greek philosophy",
+    "color": "#8246a0",
+    "description": "Philosophy in the Greek world from the Presocratics of Ionia to Plato, Aristotle and their schools.",
+    "categories": [
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Filosofía griega",
+        "description": "La filosofía del mundo griego, desde los presocráticos de Jonia hasta Platón, Aristóteles y sus escuelas."
       }
     }
   },
@@ -1217,6 +1245,20 @@
       "es": {
         "label": "Perú",
         "description": "La colonia española del Perú, desde el desembarco de Pizarro en 1532 y su virreinato desde 1542 hasta finales del siglo XVI."
+      }
+    }
+  },
+  "plato": {
+    "label": "Plato",
+    "color": "#d2a046",
+    "description": "The Athenian philosopher Plato (c. 428-348 BCE): his dialogues, the Academy and his visits to Syracuse.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Platón",
+        "description": "El filósofo ateniense Platón (c. 428-348 a. C.): sus diálogos, la Academia y sus viajes a Siracusa."
       }
     }
   },
