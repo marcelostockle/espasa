@@ -1,4 +1,18 @@
 {
+  "actium": {
+    "title": "Actium",
+    "url": "https://en.wikipedia.org/wiki/Actium",
+    "extract": "Actium, also known as Aktion or Aktio, is a peninsula on the mouth of the Ambracian Gulf in Acarnania, Greece, and the site of an ancient town of the same name. It is most known for the Battle of Actium, in which Octavian gained his celebrated victory over Antony and Cleopatra, on September 2, 31 BC. The peninsula has been connected to Preveza in Epirus since 2002 via the Aktio–Preveza Undersea Tunnel.",
+    "description": "Peninsula and ancient town in Acarnania, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Battle_of_Actium-en.svg/330px-Battle_of_Actium-en.svg.png",
+    "lat": 38.953,
+    "lon": 20.768,
+    "es": {
+      "title": "Accio",
+      "url": "https://es.wikipedia.org/wiki/Accio",
+      "extract": "Accio es el nombre de un antiguo asentamiento griego situado en Acarnania, así como de un cabo próximo del golfo de Ambracia."
+    }
+  },
   "aegates": {
     "title": "Aegadian Islands",
     "url": "https://en.wikipedia.org/wiki/Aegadian_Islands",
@@ -67,6 +81,20 @@
       "title": "Aléria",
       "url": "https://es.wikipedia.org/wiki/Al%C3%A9ria",
       "extract": "Aléria es una comuna francesa, situada en el departamento de la Alta Córcega y la región de Córcega."
+    }
+  },
+  "alesia": {
+    "title": "Alesia (city)",
+    "url": "https://en.wikipedia.org/wiki/Alesia_(city)",
+    "extract": "Alesia was the capital of the Mandubii, one of the Gallic tribes allied with the Aedui. The Celtic oppidum was conquered by Julius Caesar during the Gallic Wars and afterwards became a Gallo-Roman town. Modern understanding of its location was controversial for a long time; however, it is now thought to have been located on Mont-Auxois, near Alise-Sainte-Reine in Burgundy, France.",
+    "description": "Antique Gallo-Roman town",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Alise-Sainte-Reine_-_Statue_de_Vercing%C3%A9torix_-_03.jpg/330px-Alise-Sainte-Reine_-_Statue_de_Vercing%C3%A9torix_-_03.jpg",
+    "lat": 47.53916667,
+    "lon": 4.50055556,
+    "es": {
+      "title": "Alesia (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/Alesia_(ciudad)",
+      "extract": "Alesia fue la capital de los mandubios, una de las tribus galas aliadas con los poderosos heduos, y después de la conquista de Julio César una ciudad romana (oppidum) en la Galia. Ha habido excavaciones arqueológicas desde la época de Napoleón III en Alise-Sainte-Reine un pequeño pueblo situado a diez kilómetros al nordeste de Semur-en-Auxois en Côte d'Or, que han pretendido que allí se ubicaba la Alesia histórica. Continuamente se hacen nuevos descubrimientos sobre este asentamiento galorromano en la meseta de Mont-Auxois. Como resultado de las últimas excavaciones, se encontró un hallazgo regalado al museo que hay allí con la inscripción: IN ALISIIA, que finalmente despejaron las dudas de algunos arqueólogos sobre la identidad de la ciudad."
     }
   },
   "alexandria": {
@@ -861,6 +889,20 @@
       "extract": "Capua es una ciudad de la provincia de Caserta, Italia. En los tiempos antiguos, era la capital regional de la Campania, a 26 km de la actual Nápoles, a orillas del río Volturno. En 2018 contaba con 18 293 habitantes."
     }
   },
+  "carrhae": {
+    "title": "Harran",
+    "url": "https://en.wikipedia.org/wiki/Harran",
+    "extract": "Harran is a municipality and district of Şanlıurfa, Turkey. Its area is 904 km2, and its population is 96,072 (2022). It is approximately 40 kilometres southeast of Urfa and 20 kilometres from the Syrian border crossing at Akçakale.",
+    "description": "Ancient city in Upper Mesopotamia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Harran_2015.jpg/330px-Harran_2015.jpg",
+    "lat": 36.87083333,
+    "lon": 39.025,
+    "es": {
+      "title": "Harrán",
+      "url": "https://es.wikipedia.org/wiki/Harr%C3%A1n",
+      "extract": "Harrán,en arameo: ܚܪܢ Jarán, Haran o Carras es un yacimiento arqueológico localizado al sudeste de la actual Turquía, en el cruce de Damasco, Karkemish y Nínive. La situación de esta antigua ciudad ha sido estratégica a lo largo de la historia. Las inscripciones asirias desde el reinado de Tiglath-Pileser I mencionan este lugar hacia el 1100 a. C. con el nombre de Harrānu, que significaría «carretera, ruta, recorrido» en acadio. Harrán fue incendiada por los hititas."
+    }
+  },
   "carthage": {
     "title": "Carthage",
     "url": "https://en.wikipedia.org/wiki/Carthage",
@@ -1305,6 +1347,18 @@
       "extract": "El Ebro es un río del noreste de la península ibérica, el segundo más largo y caudaloso de esta, tras el Tajo y el Duero, respectivamente. Discurre enteramente por España. Entre los ríos que desembocan en el mar Mediterráneo, solo es superado en longitud por el Nilo."
     }
   },
+  "egypt": {
+    "title": "Ptolemaic Kingdom",
+    "url": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
+    "extract": "The Ptolemaic Kingdom, also known as Ptolemaic Egypt or the Ptolemaic Empire was an ancient Greek polity based in Egypt during the Hellenistic period. It was founded in 305 BC by the Macedonian Greek general Ptolemy I Soter, a companion of Alexander the Great, and was ruled by the Ptolemaic dynasty until the death of Cleopatra VII in 30 BC.",
+    "description": "Hellenistic-era Greek state in Egypt (305–30 BC)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ptolemaic_Kingdom_III-II_century_BC_-_en.svg/330px-Ptolemaic_Kingdom_III-II_century_BC_-_en.svg.png",
+    "es": {
+      "title": "Período helenístico de Egipto",
+      "url": "https://es.wikipedia.org/wiki/Per%C3%ADodo_helen%C3%ADstico_de_Egipto",
+      "extract": "El periodo helenístico de Egipto, también llamado como el Egipto ptolemaico, el Reino ptelomaico o el Imperio ptolemaico, fue un período artístico e histórico en el que la dinastía ptolemaica ostentaba el poder en todo Egipto y en algunas regiones más de Oriente Medio. Fue una entidad política griega con sede en Egipto durante el periodo helenístico. El reino fue fundado en el año 305 a. C. por el general macedonio-griego Ptolomeo I Sóter —compañero de Alejandro Magno— y gobernado por la dinastía ptolemaica hasta la muerte de Cleopatra VII en el año 30 a. C., que dejó en manos de los romanos todo Egipto.Con un reinado de casi tres siglos, los Ptolomeos constituyeron la dinastía más longeva y la última del antiguo Egipto, marcando el inicio de una era distintiva de sincretismo religioso y cultural entre las culturas griega y egipcia."
+    }
+  },
   "eisleben": {
     "title": "Eisleben",
     "url": "https://en.wikipedia.org/wiki/Eisleben",
@@ -1415,6 +1469,18 @@
       "title": "Río Gambia",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Gambia",
       "extract": "El río Gambia es un río de África de 1130 kilómetros de longitud, uno de los mayores del continente. Nace en el macizo Futa Yallon, al norte de Guinea, y desemboca en la ciudad de Banjul (Gambia), a orillas del océano Atlántico. La mitad de su recorrido es navegable."
+    }
+  },
+  "gaul": {
+    "title": "Gaul",
+    "url": "https://en.wikipedia.org/wiki/Gaul",
+    "extract": "Gaul was a region of Western Europe first clearly described by the Romans, encompassing present-day Belgium, France, Luxembourg, and parts of Germany, Netherlands, Northern Italy and Switzerland. It covered an area of 494,000 km2 (191,000 mi2). Archaeologically, the Gauls were bearers of the La Tène culture during the 5th to 1st centuries BC. This material culture was found throughout Gaul and as far east as modern-day southern Poland, Slovakia, and Hungary.",
+    "description": "Historical region of Western Europe inhabited by Celtic tribes",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Map_Gallia_Tribes_Towns-la.svg/330px-Map_Gallia_Tribes_Towns-la.svg.png",
+    "es": {
+      "title": "Galia",
+      "url": "https://es.wikipedia.org/wiki/Galia",
+      "extract": "Galia es el nombre romano dado a una región de la Europa Occidental actualmente formada por Francia, Bélgica, el oeste de Suiza, el norte de Italia y zonas de Alemania y los Países Bajos al oeste del Rin. También las islas británicas, e Hispania estaban pobladas por tribus celtas. Así, la palabra galo se refiere habitualmente a los habitantes celtas de esa región en tiempos antiguos y fue principalmente empleada por los romanos, que muy raras veces llamaban celtas a este conjunto de diversas tribus. El gentilicio se conservó a través de los tiempos solamente en la extensión de tierras que hoy componen Francia y aún hoy sigue llamándose galos a los franceses, y de hecho Gallia es el nombre griego moderno de Francia. También el nombre de Galicia tiene el mismo origen referido a la población gala o celta."
     }
   },
   "geneva": {
@@ -2041,6 +2107,20 @@
       "extract": "Lübeck () —en español también Lubeca—, oficialmente Ciudad hanseática de Lübeck, es la segunda ciudad más poblada del estado federado de Schleswig-Holstein, en el norte de Alemania, después de Kiel. El casco medieval de la ciudad fue declarado Patrimonio de la Humanidad por la Unesco en 1987, destacando las construcciones de ladrillo en estilo gótico báltico, como la Puerta de Holsten."
     }
   },
+  "lucca": {
+    "title": "Lucca",
+    "url": "https://en.wikipedia.org/wiki/Lucca",
+    "extract": "Lucca is a city and comune in Tuscany, Central Italy, on the Serchio River, in a fertile plain.",
+    "description": "City and comune in Tuscany, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Italy_-_Lucca_-_2.jpg/330px-Italy_-_Lucca_-_2.jpg",
+    "lat": 43.84166667,
+    "lon": 10.50277778,
+    "es": {
+      "title": "Lucca",
+      "url": "https://es.wikipedia.org/wiki/Lucca",
+      "extract": "Lucca es una ciudad y municipio italiano ubicado en la región de Toscana, en el centro-norte del país. Situada a orillas del río Serchio, en una fértil llanura cercana al mar Tirreno, es la capital de la provincia homónima y cuenta con unos 88 000 habitantes."
+    }
+  },
   "lusitania": {
     "title": "Lusitania",
     "url": "https://en.wikipedia.org/wiki/Lusitania",
@@ -2270,6 +2350,20 @@
       "title": "Moca (República Dominicana)",
       "url": "https://es.wikipedia.org/wiki/Moca_(Rep%C3%BAblica_Dominicana)",
       "extract": "Moca es un municipio de la República Dominicana situado en la provincia de Espaillat."
+    }
+  },
+  "modena": {
+    "title": "Modena",
+    "url": "https://en.wikipedia.org/wiki/Modena",
+    "extract": "Modena is a city and comune (municipality) on the south side of the Po Valley, in the Province of Modena, in the region of Emilia-Romagna in northern Italy. With a population of 184,361 as of 2026, it is the 20th-largest city in Italy.",
+    "description": "City in Emilia-Romagna, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Modena_Motor_Valley_Fest.jpg/330px-Modena_Motor_Valley_Fest.jpg",
+    "lat": 44.64694444,
+    "lon": 10.92555556,
+    "es": {
+      "title": "Módena",
+      "url": "https://es.wikipedia.org/wiki/M%C3%B3dena",
+      "extract": "Módena es una ciudad italiana, capital de la provincia de Módena, en la región Emilia-Romaña. Cuenta con una población de 184 739 habitantes. La catedral, la Torre Cívica («Ghirlandina») y la Piazza Grande de la ciudad están declaradas Patrimonio de la Humanidad por la Unesco."
     }
   },
   "mohacs": {
@@ -2744,6 +2838,48 @@
       "extract": "Pérgamo fue una ciudad de la antigua Grecia en Misia. Localizada al noroeste de Asia Menor, a 30 km de la costa del mar Egeo y frente a la isla de Lesbos, en la región llamada Eólida. Sus ruinas rodean a la actual ciudad de Bergama, construida sobre los cimientos de lo que fue la parte baja de Pérgamo. Fue sede de la biblioteca más importante de la antigüedad, después de la de Alejandría, y lugar donde se perfeccionó la técnica de elaboración del pergamino."
     }
   },
+  "perugia": {
+    "title": "Perugia",
+    "url": "https://en.wikipedia.org/wiki/Perugia",
+    "extract": "Perugia is the capital city of Umbria and the province of Perugia in central Italy, crossed by the River Tiber. The city is located about 164 km (102 mi) north of Rome and 148 km (92 mi) southeast of Florence. It covers a high hilltop and part of the valleys around the area. With a population of 162,384, it is the 23rd-largest city in Italy.",
+    "description": "Comune in Umbria, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Panorama_perugia_da_viale_indipendenza_2023.jpg/330px-Panorama_perugia_da_viale_indipendenza_2023.jpg",
+    "lat": 43.11222222,
+    "lon": 12.38888889,
+    "es": {
+      "title": "Perugia",
+      "url": "https://es.wikipedia.org/wiki/Perugia",
+      "extract": "Perugia o, tradicionalmente en español, Perusa es una ciudad italiana, capital de la región de Umbría y de la provincia de Perugia. Se encuentra cerca del río Tíber, en el centro de la península itálica, y tiene una población de 162 467 habitantes. El producto más importante es el chocolate, realizándose una feria anual en octubre sobre este alimento."
+    }
+  },
+  "pharsalus": {
+    "title": "Farsala",
+    "url": "https://en.wikipedia.org/wiki/Farsala",
+    "extract": "Farsala, known in Antiquity as Pharsalos, is a town in southern Thessaly, in Greece. Farsala is located in the southern part of Larissa regional unit, and is one of its largest settlements. Farsala is an economic and agricultural centre of the region. Cotton and livestock are the main agricultural products, and many inhabitants are employed in the production of textile. The area is mostly famous for being the birthplace of the mythical ancient Greek hero Achilles, and the site of a major battle between Roman generals Gaius Julius Caesar and Gnaeus Pompeius Magnus in 48 BC.",
+    "description": "Town in Thessaly, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/View_of_the_Thessalian_plain_from_the_acropolis_of_ancient_Pharsalos.jpg/330px-View_of_the_Thessalian_plain_from_the_acropolis_of_ancient_Pharsalos.jpg",
+    "lat": 39.3,
+    "lon": 22.38333333,
+    "es": {
+      "title": "Farsala",
+      "url": "https://es.wikipedia.org/wiki/Farsala",
+      "extract": "Farsala es un municipio y ciudad griega de Tesalia. En el año 2011 el municipio de Farsala contaba con 18 545 habitantes y el núcleo urbano tenía 9298."
+    }
+  },
+  "philippi": {
+    "title": "Philippi",
+    "url": "https://en.wikipedia.org/wiki/Philippi",
+    "extract": "Philippi was a major mainland Greek city northwest of the nearby island, Thasos. Its original name was Crenides. The city was renamed by Philip II of Macedon in 356 BC and abandoned in the 14th century after the Ottoman conquest. The present village of Filippoi is located near the ruins of the ancient city within the modern city of Kavala, in turn a\npart of the administrative region of East Macedonia and Thrace. The archaeological site was classified as a UNESCO World Heritage Site in 2016 because of its exceptional Roman architecture, its urban layout as a smaller reflection of Rome itself, and its importance in early Christianity. Philippi is also the place where the Battle of Philippi took place in 42 BC.",
+    "description": "Ancient city in eastern Macedonia, in the Edonis region",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Philippi_city_center.jpg/330px-Philippi_city_center.jpg",
+    "lat": 41.01305556,
+    "lon": 24.28638889,
+    "es": {
+      "title": "Filipos (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/Filipos_(ciudad)",
+      "extract": "Filipos fue una ciudad de Macedonia oriental fundada por Filipo II de Macedonia, que le dio su nombre. Cerca había minas de oro, especialmente las de Asyla. Estaba cercana al río Gangas o Gangites."
+    }
+  },
   "pisco": {
     "title": "Pisco, Peru",
     "url": "https://en.wikipedia.org/wiki/Pisco%2C_Peru",
@@ -3045,6 +3181,20 @@
       "title": "Roma",
       "url": "https://es.wikipedia.org/wiki/Roma",
       "extract": "Roma es una ciudad, capital de la región del Lacio y de Italia. Con una población de 2 857 321 habitantes, es el municipio más poblado de Italia y la tercera ciudad más poblada de la Unión Europea. Por antonomasia, se la conoce desde la Antigüedad como la Urbe (Urbs). También es llamada «La Ciudad Eterna»."
+    }
+  },
+  "rubicon": {
+    "title": "Rubicon",
+    "url": "https://en.wikipedia.org/wiki/Rubicon",
+    "extract": "The Rubicon is a shallow river in northeastern Italy, just south of Cesena and north of Rimini. It was known as Fiumicino until 1933, when it was identified with the ancient river Rubicon, crossed by Julius Caesar in 49 BC.\nThe river flows for around 80 km (50 mi) from the Apennine Mountains to the Adriatic Sea through the south of the Emilia-Romagna region, between the towns of Rimini and Cesena.",
+    "description": "River in northeastern Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Foce_rubicone_1_by_Stefano_Bolognini.JPG/330px-Foce_rubicone_1_by_Stefano_Bolognini.JPG",
+    "lat": 44.1681,
+    "lon": 12.4431,
+    "es": {
+      "title": "Rubicón (río)",
+      "url": "https://es.wikipedia.org/wiki/Rubic%C3%B3n_(r%C3%ADo)",
+      "extract": "El Rubicón es un río poco profundo de régimen torrencial del nordeste de Italia, que discurre por la provincia de Forlì-Cesena y desemboca en el mar Adriático. Parece que el nombre deriva del color del agua, ya que discurre por una región arcillosa, que la tiñe de un color rubí."
     }
   },
   "saguntum": {
@@ -3492,6 +3642,20 @@
       "extract": "Tenochtitlan, también conocida como México-Tenochtitlan (), fue el altépetl (ciudad-estado) de la civilización mexica y capital de la Triple Alianza,de la que formaba parte junto a Tetzcuco y Tlacopan. Durante la conquista española fue destruida y se fundó sobre sus restos la Ciudad de México, que fue la capital del Virreinato de la Nueva España y luego la capital de los Estados Unidos Mexicanos."
     }
   },
+  "thapsus": {
+    "title": "Thapsus",
+    "url": "https://en.wikipedia.org/wiki/Thapsus",
+    "extract": "Thapsus, also known as Tampsus and as Thapsus Minor to distinguish it from Thapsus in Sicily, was a Carthaginian and Roman port near present-day Bekalta, Tunisia.",
+    "description": "Ancient Punic city",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tunisia_Antica.jpg/330px-Tunisia_Antica.jpg",
+    "lat": 35.62083333,
+    "lon": 11.04166667,
+    "es": {
+      "title": "Tapso (Túnez)",
+      "url": "https://es.wikipedia.org/wiki/Tapso_(T%C3%BAnez)",
+      "extract": "Tapso es un yacimiento arqueológico situado al este de la actual Túnez.\nLas ruinas de la ciudad siguen siendo visibles en Ras Dimas, cerca de Bekalta, aproximadamente a 200 kilómetros al sureste de Cartago. Estas comprenden los restos de un rompeolas, un fuerte, un anfiteatro y de una gran alberca. También se encuentra en las proximadades una necrópolis púnica."
+    }
+  },
   "the-hague": {
     "title": "The Hague",
     "url": "https://en.wikipedia.org/wiki/The_Hague",
@@ -3728,6 +3892,20 @@
       "title": "Usedom",
       "url": "https://es.wikipedia.org/wiki/Usedom",
       "extract": "La isla Usedom es una isla costera del mar Báltico ubicada frente a la desembocadura del Oder, separando la laguna de Szczecin del mar abierto. La isla es parte de Alemania y parte de Polonia. La isla pertenece a la región alemana de Pomerania Occidental, Distrito de Pomerania Oriental, excepto la villa polaca de Świnoujście, ubicada en la parte más oriental de la isla, posee una superficie total de 445 km² y una población total de 76.500 personas"
+    }
+  },
+  "utica": {
+    "title": "Utica, Tunisia",
+    "url": "https://en.wikipedia.org/wiki/Utica%2C_Tunisia",
+    "extract": "Utica ; was an ancient Phoenician and Carthaginian city located near the outflow of the Medjerda River into the Mediterranean, between Carthage in the south and Hippo Diarrhytus in the north. It is traditionally considered to have been the first colony founded by the Phoenicians in North Africa. After Carthage's loss to Rome in the Punic Wars, Utica was an important Roman colony for seven centuries.",
+    "description": "Ancient Phoenician and Carthaginian city",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/TUNISIE_UTIQUE_05.JPG/330px-TUNISIE_UTIQUE_05.JPG",
+    "lat": 37.05694444,
+    "lon": 10.06194444,
+    "es": {
+      "title": "Útica",
+      "url": "https://es.wikipedia.org/wiki/%C3%9Atica",
+      "extract": "Útica fue una ciudad del norte de África que estaba situada al noroeste de Cartago en el actual territorio de Túnez a 40 km al noroeste de su capital. Fue la capital de la provincia romana de África Proconsular entre 146 a. C. y 25. En la actualidad está situada a 8 km de la costa y se pueden apreciar restos de sus edificios públicos como termas, almacenes, muelles y un anfiteatro para más de 20 000 espectadores."
     }
   },
   "utrecht": {
@@ -4016,6 +4194,15 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Battles_second_punic_war.png/330px-Battles_second_punic_war.png",
     "lat": 36.112,
     "lon": 9.2856
+  },
+  "zela": {
+    "title": "Zile",
+    "url": "https://en.wikipedia.org/wiki/Zile",
+    "extract": "Zile, known in ancient times as Zela, is a city in Tokat Province, Turkey. It is the seat of Zile District. Its population is 33,557 (2022). Zile lies to the south of Amasya and the west of Tokat in north-central Turkey. The city has a long history, including as former bishopric and the site of the Battle of Zela, which prompted the phrase \"Veni, vidi, vici.\" Today the city is a center for agricultural marketing and tourism.",
+    "description": "Municipality in Tokat, Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Zile_gece.jpg/330px-Zile_gece.jpg",
+    "lat": 40.3,
+    "lon": 35.88333333
   },
   "zsitvatorok": {
     "title": "Radvaň nad Dunajom",

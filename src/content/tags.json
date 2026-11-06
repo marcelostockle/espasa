@@ -270,6 +270,20 @@
       }
     }
   },
+  "cleopatra": {
+    "label": "Cleopatra",
+    "color": "#8ce6e6",
+    "description": "Cleopatra VII, last active ruler of Ptolemaic Egypt (69-30 BCE), and her alliances with Caesar and Mark Antony.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Cleopatra",
+        "description": "Cleopatra VII, última gobernante activa del Egipto ptolemaico (69-30 a. C.), y sus alianzas con César y Marco Antonio."
+      }
+    }
+  },
   "counter-reformation": {
     "label": "Counter-Reformation",
     "color": "#90a4ae",
@@ -480,6 +494,20 @@
       "es": {
         "label": "Revolución francesa",
         "description": "La convulsión que puso fin a la monarquía francesa y rehízo el Estado, 1789-1799."
+      }
+    }
+  },
+  "gallic-wars": {
+    "label": "Gallic Wars",
+    "color": "#bee66e",
+    "description": "Caesar's conquest of Gaul (58-50 BCE), his Rhine crossings and landings in Britain, and the revolt of Vercingetorix.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra de las Galias",
+        "description": "La conquista de la Galia por César (58-50 a. C.), sus cruces del Rin y desembarcos en Britania, y la revuelta de Vercingétorix."
       }
     }
   },
@@ -877,6 +905,20 @@
       "es": {
         "label": "Cayo Mario",
         "description": "General romano y siete veces cónsul (c. 157-86 a. C.): las guerras yugurtina y cimbria, las reformas del ejército que se le atribuyen y su rivalidad con Sila."
+      }
+    }
+  },
+  "mark-antony": {
+    "label": "Mark Antony",
+    "color": "#28e628",
+    "description": "Roman general and triumvir (83-30 BCE): Caesar's lieutenant, Octavian's rival and ally, and Cleopatra's partner until Actium.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Marco Antonio",
+        "description": "General y triunviro romano (83-30 a. C.): lugarteniente de César, rival y aliado de Octavio y pareja de Cleopatra hasta Accio."
       }
     }
   },
