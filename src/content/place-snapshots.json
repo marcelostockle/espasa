@@ -248,6 +248,20 @@
       "extract": "Arpino es una pequeña ciudad del Lacio; actualmente pertenece a la provincia italiana de Frosinone, en el Valle Latino. Situada a 500 metros de altitud, en la carretera de Roma a Nápoles, a 110 km de la primera y a 130 km de la segunda. 7.736 habitantes .\nSe corresponde con Arpinum, conquistada por los romanos el año 305 a. C., patria chica de Marco Tulio Cicerón, que nació en este lugar el día 3 de enero 106 a. C. y de Cayo Mario, nacido allí en el 157 a. C. Es en esta ciudad donde se realiza el concurso de traducción latina conocido como Certamen ciceronianum, en honor a Cicerón."
     }
   },
+  "artemisium": {
+    "title": "Artemisium",
+    "url": "https://en.wikipedia.org/wiki/Artemisium",
+    "extract": "Artemisium or Artemision is a cape in northern Euboea, Greece. The \nhollow cast bronze statue of Zeus or Poseidon, known as the Artemision Bronze, was found off this cape in a sunken ship, as was the Jockey of Artemision, a bronze statue of a racehorse and its jockey.",
+    "description": "Cape in Euboea, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Beach_at_Cape_Artemisium._Magnesia_in_the_distance.jpg/330px-Beach_at_Cape_Artemisium._Magnesia_in_the_distance.jpg",
+    "lat": 39.0125,
+    "lon": 23.22694444,
+    "es": {
+      "title": "Artemisio",
+      "url": "https://es.wikipedia.org/wiki/Artemisio",
+      "extract": "Artemisio es un cabo situado al noreste de Eubea, Grecia. En un barco hundido cerca de este cabo se encontró la legendaria estatua de Zeus o Poseidón, realizada de bronce fundido."
+    }
+  },
   "ascoli-satriano": {
     "title": "Ascoli Satriano",
     "url": "https://en.wikipedia.org/wiki/Ascoli_Satriano",
@@ -1277,6 +1291,20 @@
       "extract": "Delft () es una ciudad y un municipio de Holanda Meridional, a mitad de camino entre Róterdam y La Haya. Es primordialmente conocida por el centro de la ciudad, tradicionalmente neerlandés ; la cerámica de Delft, la Universidad Técnica de Delft y su asociación con la familia real."
     }
   },
+  "delos": {
+    "title": "Delos",
+    "url": "https://en.wikipedia.org/wiki/Delos",
+    "extract": "Delos or Dilos, is a small Greek island near Mykonos, close to the centre of the Cyclades archipelago. Though only 3.43 km2 (1.32 sq mi) in area, it is one of the most important mythological, historical, and archaeological sites in Greece. The ongoing excavations in the island are among the most extensive in the Mediterranean, and many of the artefacts found are displayed at the Archaeological Museum of Delos and the National Archaeological Museum of Athens.",
+    "description": "Island in Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Delos_general.jpg/330px-Delos_general.jpg",
+    "lat": 37.39333333,
+    "lon": 25.27111111,
+    "es": {
+      "title": "Delos",
+      "url": "https://es.wikipedia.org/wiki/Delos",
+      "extract": "Delos o Delo es una de las islas griegas más pequeñas. Pertenece al archipiélago de las islas Cícladas, en el mar Egeo."
+    }
+  },
   "dessau": {
     "title": "Dessau-Roßlau",
     "url": "https://en.wikipedia.org/wiki/Dessau-Ro%C3%9Flau",
@@ -1399,6 +1427,20 @@
       "title": "Lutherstadt Eisleben",
       "url": "https://es.wikipedia.org/wiki/Lutherstadt_Eisleben",
       "extract": "Lutherstadt Eisleben es un pueblo en Sajonia-Anhalt, Alemania. Famoso por ser el pueblo natal de Martín Lutero, cuyo apellido se inocorporó oficialmente al nombre original, Eisleben. Es la capital del distrito de Mansfelder Land, y en 2004 tenía una población de 21.062 habitantes."
+    }
+  },
+  "eretria": {
+    "title": "Eretria",
+    "url": "https://en.wikipedia.org/wiki/Eretria",
+    "extract": "Eretria is a town in Euboea, Greece, facing the coast of Attica across the narrow South Euboean Gulf. It was an important Greek polis in the 6th and 5th century BC, mentioned by many famous writers and actively involved in significant historical events.",
+    "description": "Town in Euboea, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%CE%95%CF%81%CE%AD%CF%84%CF%81%CE%B9%CE%B1%2C_Eretria.jpg/330px-%CE%95%CF%81%CE%AD%CF%84%CF%81%CE%B9%CE%B1%2C_Eretria.jpg",
+    "lat": 38.39805556,
+    "lon": 23.79055556,
+    "es": {
+      "title": "Eretria",
+      "url": "https://es.wikipedia.org/wiki/Eretria",
+      "extract": "Eretria fue una ciudad de la Antigua Grecia, localizada en la costa occidental de la isla de Eubea, enfrente de la costa del Ática al otro lado del estrecho golfo de Eubea. Hay una moderna ciudad griega con el mismo nombre en el lugar antiguo. El actual municipio de Eretria contaba en 2011 con una población de 13053 habitantes y la población de la unidad municipal ascendía a 6330."
     }
   },
   "florence": {
@@ -1765,6 +1807,20 @@
     "lat": 53.155,
     "lon": 7.0125
   },
+  "hellespont": {
+    "title": "Dardanelles",
+    "url": "https://en.wikipedia.org/wiki/Dardanelles",
+    "extract": "The Dardanelles, also known as the Strait of Gallipoli, is a narrow, natural strait and internationally significant waterway in northwestern Turkey that forms part of the continental boundary between Asia and Europe and separates Asian Turkey from European Turkey. Together with the Bosporus, the Dardanelles forms the Turkish Straits.",
+    "description": "Narrow strait in northwestern Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dardanelles_map2.png/330px-Dardanelles_map2.png",
+    "lat": 40.2,
+    "lon": 26.4,
+    "es": {
+      "title": "Dardanelos",
+      "url": "https://es.wikipedia.org/wiki/Dardanelos",
+      "extract": "Los Dardanelos o estrecho de los Dardanelos es un estrecho ubicado entre Europa y Asia. Es el antiguo Helesponto (Ἑλλήσποντος) de la Grecia clásica. Comunica el mar Egeo con el mar interior de Mármara y su archipiélago. Mide 61 km de longitud, entre 1600 y 6500 m de anchura y tiene una profundidad media de unos 50 m."
+    }
+  },
   "heraclea-lucania": {
     "title": "Battle of Heraclea",
     "url": "https://en.wikipedia.org/wiki/Battle_of_Heraclea",
@@ -1777,6 +1833,20 @@
       "title": "Batalla de Heraclea",
       "url": "https://es.wikipedia.org/wiki/Batalla_de_Heraclea",
       "extract": "La batalla de Heraclea tuvo lugar en el 280 a. C., en la ciudad de Heraclea, la actual Policoro, dando inicio a las Guerras Pírricas. Estas guerras fueron el último intento de las polis de la Magna Grecia de impedir la expansión por la península itálica de la joven República romana. Para conseguir frenar a los romanos llamaron en su ayuda al rey Pirro de Epiro; de ahí el nombre del conflicto."
+    }
+  },
+  "himera": {
+    "title": "Himera",
+    "url": "https://en.wikipedia.org/wiki/Himera",
+    "extract": "Himera, was a large and important ancient Greek city situated on the north coast of Sicily at the mouth of the river of the same name, between Panormus and Cephaloedium in the comune of Termini Imerese.",
+    "description": "Ancient city",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Himera_Viktoriatempel.jpg/330px-Himera_Viktoriatempel.jpg",
+    "lat": 37.97399722,
+    "lon": 13.82398611,
+    "es": {
+      "title": "Hímera",
+      "url": "https://es.wikipedia.org/wiki/H%C3%ADmera",
+      "extract": "Hímera (Himéra) era la más occidental de las ciudades griegas de la costa norte de Sicilia, en la desembocadura del río Hímera, entre Panormo y Cefaledio (Cefalú). Estuvo en contacto con los fenicios de Solunte y Panormo, sus rivales comerciales."
     }
   },
   "hippo-regius": {
@@ -2287,6 +2357,20 @@
       "extract": "Mantua es una ciudad italiana ubicada en la región de Lombardía, capital de la provincia homónima. Está rodeada en tres de sus lados por el río Mincio. Centro agrícola y turístico, posee fábricas que producen maquinaria agrícola, fertilizantes, muebles, calzado y juguetes. Es el escenario de la ópera Rigoletto. Mantua fue nombrada Capital de la Cultura Italiana en 2016."
     }
   },
+  "marathon": {
+    "title": "Marathon, Greece",
+    "url": "https://en.wikipedia.org/wiki/Marathon%2C_Greece",
+    "extract": "Marathon is a town in Greece and the site of the Battle of Marathon in 490 BCE, in which the outnumbered Athenian army defeated the Persians. Legend has it that Pheidippides, a Greek herald at the battle, was sent running from Marathon to Athens to announce the victory, which is how the marathon running race was conceived in modern times. Today it is part of East Attica regional unit, in the outskirts of Athens and a popular resort town and center of agriculture.",
+    "description": "Town in Attica, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/The_town_of_Marathon%2C_Greece.jpg/330px-The_town_of_Marathon%2C_Greece.jpg",
+    "lat": 38.15333333,
+    "lon": 23.96194444,
+    "es": {
+      "title": "Maratón (Grecia)",
+      "url": "https://es.wikipedia.org/wiki/Marat%C3%B3n_(Grecia)",
+      "extract": "Maratón es un importante municipio de la costa noreste del Ática. La reforma administrativa del Plan Calícrates en vigor desde enero de 2011 abolió la prefectura e incorporó numerosas localidades. La superficie es de 223 km² y la población ha pasado de 8883 a 23.974 habitantes."
+    }
+  },
   "marburg": {
     "title": "Marburg",
     "url": "https://en.wikipedia.org/wiki/Marburg",
@@ -2406,6 +2490,20 @@
       "title": "Míkulov",
       "url": "https://es.wikipedia.org/wiki/M%C3%ADkulov",
       "extract": "Míkulov es una ciudad de la región de Moravia del sur de la República Checa, en la frontera con Baja Austria."
+    }
+  },
+  "miletus": {
+    "title": "Miletus",
+    "url": "https://en.wikipedia.org/wiki/Miletus",
+    "extract": "Miletus was an influential ancient Greek city on the western coast of Anatolia, near the mouth of the Maeander River in present day Turkey. Renowned in antiquity for its wealth, maritime power, and extensive network of colonies, Miletus was a major center of trade, culture, and innovation from the Bronze Age through the Roman period. The city played a foundational role in the development of early Greek philosophy and science, serving as the home of the Milesian school with thinkers such as Thales, Anaximander, and Anaximenes.",
+    "description": "Ancient Greek city in Anatolia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Miletus_-_Ancient_Greek_theatre_02.jpg/330px-Miletus_-_Ancient_Greek_theatre_02.jpg",
+    "lat": 37.53027778,
+    "lon": 27.27833333,
+    "es": {
+      "title": "Mileto",
+      "url": "https://es.wikipedia.org/wiki/Mileto",
+      "extract": "Mileto fue una antigua ciudad griega de la costa occidental de Anatolia, cerca de la desembocadura del río Menderes en la antigua Caria. Sus ruinas están situadas cerca de la actualmente habitada localidad de Balat."
     }
   },
   "moca": {
@@ -2532,6 +2630,20 @@
       "extract": "Mosselbaai es una ciudad portuaria de unos 130 000 habitantes en la provincia Occidental del Cabo en la ruta de los jardines en Sudáfrica. Se trata de un importante centro turístico y de agricultura. Mosselbaai se encuentra a unos 400 kilómetros al este de la capital legislativa, Ciudad del Cabo, y a 400 km al oeste de Puerto Elizabeth, la ciudad más grande en la provincia Oriental del Cabo. Las partes más antiguas de la ciudad se encuentran al norte de la península de Cabo de San Blas, mientras que los nuevos suburbios se sitúan en la península y se han extendido hacia el este a lo largo de la orilla de arena de la bahía."
     }
   },
+  "mount-athos": {
+    "title": "Mount Athos",
+    "url": "https://en.wikipedia.org/wiki/Mount_Athos",
+    "extract": "Mount Athos is a mountain on the Athos peninsula in northeastern Greece directly on the Aegean Sea. It is an important center of Eastern Orthodox monasticism.",
+    "description": "Mountain and peninsula in northeastern Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Mt._Athos_%283939757657%29.jpg/330px-Mt._Athos_%283939757657%29.jpg",
+    "lat": 40.15833333,
+    "lon": 24.32722222,
+    "es": {
+      "title": "Monte Athos",
+      "url": "https://es.wikipedia.org/wiki/Monte_Athos",
+      "extract": "Monte Athos o Monte Atos es el nombre que recibe el área montañosa que conforma la península más oriental de las tres que se extienden hacia el sur desde la península Calcídica, situada en Macedonia Central, al norte de Grecia. En griego moderno se la llama Άγιον Όρος. En épocas clásicas, la península se llamaba en griego antiguo: Ἀκτή (Acté)."
+    }
+  },
   "munich": {
     "title": "Munich",
     "url": "https://en.wikipedia.org/wiki/Munich",
@@ -2558,6 +2670,20 @@
       "title": "Münster",
       "url": "https://es.wikipedia.org/wiki/M%C3%BCnster",
       "extract": "Münster () [cita requerida] es una ciudad alemana situada en el estado de Renania del Norte-Westfalia. Tiene 318 958 habitantes (2023) y es la capital del distrito del mismo nombre. Münster está entre Dortmund y Osnabrück, en el centro del Münsterland. Es conocida como la ciudad de las bicicletas y por su centro histórico, que fue restaurado poco a poco después del fin de la Segunda Guerra Mundial."
+    }
+  },
+  "mycale": {
+    "title": "Mycale",
+    "url": "https://en.wikipedia.org/wiki/Mycale",
+    "extract": "Mycale also Mykale, called Samsun Dağı and Dilek Dağı in modern Turkey, is a mountain on the west coast of central Anatolia in Turkey, north of the mouth of the Maeander and divided from the Greek island of Samos by the 1.6 km wide Mycale Strait. The mountain forms a ridge, terminating in what was known anciently as the Trogilium promontory. There are several beaches on the north shore ranging from sand to pebbles. The south flank is mainly escarpment.",
+    "description": "Mountain on the west coast of central Anatolia in Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Priene.jpg/330px-Priene.jpg",
+    "lat": 37.66111111,
+    "lon": 27.15055556,
+    "es": {
+      "title": "Mícala",
+      "url": "https://es.wikipedia.org/wiki/M%C3%ADcala",
+      "extract": "Mícala, también llamado Mycǎlé, Mukalê, Mykale y Mycali, es un monte de 1265 m de altura que se alza en la costa occidental de la Anatolia central, en Turquía, al norte de la desembocadura del río Menderes, entre este río y el Caístro, y frente a la isla de Samos. Forma parte de la cadena montañosa Mesogis de Lidia, que termina en el cabo Trogilo, un promontorio conocido posteriormente como cabo Santa María; dicho cabo está separado de la isla de Samos por un corto canal marino, el estrecho de Mícala, que tiene en su punto más estrecho tan solo 1,6 km de ancho."
     }
   },
   "mycenae": {
@@ -2950,6 +3076,20 @@
       "extract": "Pérgamo fue una ciudad de la antigua Grecia en Misia. Localizada al noroeste de Asia Menor, a 30 km de la costa del mar Egeo y frente a la isla de Lesbos, en la región llamada Eólida. Sus ruinas rodean a la actual ciudad de Bergama, construida sobre los cimientos de lo que fue la parte baja de Pérgamo. Fue sede de la biblioteca más importante de la antigüedad, después de la de Alejandría, y lugar donde se perfeccionó la técnica de elaboración del pergamino."
     }
   },
+  "persepolis": {
+    "title": "Persepolis",
+    "url": "https://en.wikipedia.org/wiki/Persepolis",
+    "extract": "Persepolis was the ceremonial capital of the Achaemenid Empire. It is situated in the plains of Marvdasht, encircled by the southern Zagros Mountains, Fars province of Iran. It is one of the key Iranian cultural heritage sites and a UNESCO World Heritage Site.",
+    "description": "Ceremonial capital of the Achaemenid Empire",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg/330px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg",
+    "lat": 29.935,
+    "lon": 52.89,
+    "es": {
+      "title": "Persépolis",
+      "url": "https://es.wikipedia.org/wiki/Pers%C3%A9polis",
+      "extract": "Persépolis fue la capital del Imperio persa durante la época aqueménida. Se encuentra a unos 70 km de la ciudad iraní de Marvdasht, al pie del monte Kuh-e Rahmat cerca del lugar en que el río Pulwar desemboca en el Kur (Kyrus). Dista en torno a 75 km de la ciudad de Shiraz."
+    }
+  },
   "perugia": {
     "title": "Perugia",
     "url": "https://en.wikipedia.org/wiki/Perugia",
@@ -3060,6 +3200,20 @@
       "title": "Plaza de la Concordia",
       "url": "https://es.wikipedia.org/wiki/Plaza_de_la_Concordia",
       "extract": "La plaza de la Concordia está situada al comienzo de la avenida de los Campos Elíseos en el VIII Distrito de París, en Francia. Se trata de la segunda más grande de Francia después de la plaza de Quinconces, en Burdeos."
+    }
+  },
+  "plataea": {
+    "title": "Plataea",
+    "url": "https://en.wikipedia.org/wiki/Plataea",
+    "extract": "Plataea or Plataeae was an ancient Greek city-state situated in Boeotia near the frontier with Attica at the foot of Mt. Cithaeron, between the mountain and the river Asopus, which divided its territory from that of Thebes. Its inhabitants were known as the Plataeans.",
+    "description": "Ancient city in southeastern Boeotia, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Plataea_battlefield.jpg/330px-Plataea_battlefield.jpg",
+    "lat": 38.219992,
+    "lon": 23.273853,
+    "es": {
+      "title": "Platea (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/Platea_(ciudad)",
+      "extract": "Platea fue una antigua ciudad de Beocia, en la antigua Grecia. Estaba situada entre los montes Helicón y Citerón, de los cuales este último hacía de frontera entre Mégara, Ática y Beocia."
     }
   },
   "pontus": {
@@ -3393,6 +3547,20 @@
       "extract": "Salamanca es un municipio y ciudad española, capital de la provincia homónima, situada en la comunidad autónoma de Castilla y León. Está ubicada en la comarca del Campo de Salamanca, en plena meseta Norte, en el cuadrante noroeste de la península ibérica. Tiene una población de 146 110 habitantes."
     }
   },
+  "salamis": {
+    "title": "Salamis Island",
+    "url": "https://en.wikipedia.org/wiki/Salamis_Island",
+    "extract": "Salamis or Salamina is the largest Greek island in the Saronic Gulf, about two kilometres from the coast of Athens' port of Piraeus and about 16 km west of Athens center.",
+    "description": "Island in the Saronic Gulf, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/View_of_Salamina_1.jpg/330px-View_of_Salamina_1.jpg",
+    "lat": 37.93333333,
+    "lon": 23.5,
+    "es": {
+      "title": "Salamina (isla)",
+      "url": "https://es.wikipedia.org/wiki/Salamina_(isla)",
+      "extract": "La isla de Salamina es una isla griega del mar Egeo, la mayor de las islas del golfo Sarónico, localizada a una milla náutica de la costa del Ática y de El Pireo. Existe un servicio de ferry cada 15 minutos entre la isla y la costa."
+    }
+  },
   "salvador": {
     "title": "Salvador, Bahia",
     "url": "https://en.wikipedia.org/wiki/Salvador%2C_Bahia",
@@ -3550,6 +3718,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Serra_da_Barriga_-_Por_Mirla_D%C3%A2maso_%2813%29.jpg/330px-Serra_da_Barriga_-_Por_Mirla_D%C3%A2maso_%2813%29.jpg",
     "lat": -9.17,
     "lon": -36.08805556
+  },
+  "sestos": {
+    "title": "Sestos",
+    "url": "https://en.wikipedia.org/wiki/Sestos",
+    "extract": "Sestos was an ancient city in Thrace. It was located at the Thracian Chersonese peninsula on the European coast of the Hellespont, opposite the ancient city of Abydos, and near the town of Eceabat in Turkey.",
+    "description": "Ancient city in Thrace",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Thracian_Chersonese.svg/330px-Thracian_Chersonese.svg.png",
+    "lat": 40.23277778,
+    "lon": 26.4225,
+    "es": {
+      "title": "Sesto",
+      "url": "https://es.wikipedia.org/wiki/Sesto",
+      "extract": "Sesto fue la principal ciudad del Quersoneso Tracio, situada en la parte más estrecha del Helesponto, al noreste de Mádito —ambas en la orilla europea del estrecho de los Dardanelos—, enfrente y al norte de Abido —situada esta al otro lado del Helesponto, en la costa asiática—, y al este del Cabo Sestias. La tradición la considera fundada por colonos lesbios, probablemente en el siglo VII a. C. Fue el lugar habitual de paso de Europa a Asia durante siglos, hasta que los romanos cambiaron a Galípoli, y hasta entonces fue la ciudad principal de la región."
+    }
   },
   "seville": {
     "title": "Seville",
@@ -3852,6 +4034,20 @@
       "extract": "Tapso es un yacimiento arqueológico situado al este de la actual Túnez.\nLas ruinas de la ciudad siguen siendo visibles en Ras Dimas, cerca de Bekalta, aproximadamente a 200 kilómetros al sureste de Cartago. Estas comprenden los restos de un rompeolas, un fuerte, un anfiteatro y de una gran alberca. También se encuentra en las proximadades una necrópolis púnica."
     }
   },
+  "thasos": {
+    "title": "Thasos",
+    "url": "https://en.wikipedia.org/wiki/Thasos",
+    "extract": "Thasos is a Greek island in the northern Aegean Sea. It is the northernmost major Greek island, and 12th largest by area.",
+    "description": "Greek island in the North Aegean Sea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Limenas%2C_Thassos.JPG/330px-Limenas%2C_Thassos.JPG",
+    "lat": 40.68333333,
+    "lon": 24.65,
+    "es": {
+      "title": "Tasos",
+      "url": "https://es.wikipedia.org/wiki/Tasos",
+      "extract": "Tasos o Taso es una isla griega enclavada en el mar de Tracia, parte más septentrional del mar Egeo. Cercana a la costa tracia, en su colonización participó el poeta Arquíloco como mercenario. Estuvo habitada por tracios, y los griegos fundaron una ciudad en la parte septentrional de la isla y próxima a la costa. Los colonos provenían de las isla de Paros, acuciados por la pobreza y mandados por Telesicles, padre del poeta lírico Arquiloco. La fundación fue hacia el 680 a. C.. La ciudad de Tasos estaba situada al norte de la isla, y tenía dos puertos."
+    }
+  },
   "the-hague": {
     "title": "The Hague",
     "url": "https://en.wikipedia.org/wiki/The_Hague",
@@ -3864,6 +4060,20 @@
       "title": "La Haya",
       "url": "https://es.wikipedia.org/wiki/La_Haya",
       "extract": "La Haya es una ciudad de los Países Bajos, capital administrativa del país y sede de la realeza neerlandesa. Es conocida mundialmente por albergar las sedes del Tribunal Internacional de Justicia y la Corte Penal Internacional."
+    }
+  },
+  "thermopylae": {
+    "title": "Thermopylae",
+    "url": "https://en.wikipedia.org/wiki/Thermopylae",
+    "extract": "Thermopylae is a narrow pass and modern town in Lamia, Phthiotis, Greece. It derives its name from its hot sulphur springs. In Greek mythology the Hot Gates is one of the entrances to Hades.",
+    "description": "Ancient fortified passage in central Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Thermopylae_ancient_coastline_large.jpg/330px-Thermopylae_ancient_coastline_large.jpg",
+    "lat": 38.80527778,
+    "lon": 22.56277778,
+    "es": {
+      "title": "Termópilas",
+      "url": "https://es.wikipedia.org/wiki/Term%C3%B3pilas",
+      "extract": "Las Termópilas es un desfiladero en Grecia. Su nombre quiere decir «fuentes calientes», debido a sus numerosos manantiales naturales de aguas termales. Otra posible traducción sería \"puertas calientes\". Según el mito, las aguas de las Termópilas se calentaron cuando Heracles se sumergió en ellas mientras moría abrasado por el veneno en el cual se convirtió la sangre del centauro Neso la cual Deyanira aplicó en su túnica."
     }
   },
   "tiberias": {

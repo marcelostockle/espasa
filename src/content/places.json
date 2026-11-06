@@ -161,6 +161,15 @@
       }
     }
   },
+  "artemisium": {
+    "label": "Cape Artemisium",
+    "wikipedia": "Cape Artemision",
+    "translations": {
+      "es": {
+        "label": "Cabo Artemisio"
+      }
+    }
+  },
   "ascoli-satriano": {
     "label": "Asculum (Ascoli Satriano)",
     "wikipedia": "Ascoli Satriano",
@@ -836,6 +845,15 @@
       }
     }
   },
+  "delos": {
+    "label": "Delos",
+    "wikipedia": "Delos",
+    "translations": {
+      "es": {
+        "label": "Delos"
+      }
+    }
+  },
   "dessau": {
     "label": "Dessau",
     "wikipedia": "Dessau-Roßlau",
@@ -914,6 +932,15 @@
     "translations": {
       "es": {
         "label": "Eisleben"
+      }
+    }
+  },
+  "eretria": {
+    "label": "Eretria",
+    "wikipedia": "Eretria",
+    "translations": {
+      "es": {
+        "label": "Eretria"
       }
     }
   },
@@ -1160,12 +1187,30 @@
       }
     }
   },
+  "hellespont": {
+    "label": "Hellespont (Dardanelles)",
+    "wikipedia": "Dardanelles",
+    "translations": {
+      "es": {
+        "label": "Helesponto (Dardanelos)"
+      }
+    }
+  },
   "heraclea-lucania": {
     "label": "Heraclea",
     "wikipedia": "Battle of Heraclea",
     "translations": {
       "es": {
         "label": "Heraclea"
+      }
+    }
+  },
+  "himera": {
+    "label": "Himera",
+    "wikipedia": "Himera",
+    "translations": {
+      "es": {
+        "label": "Himera"
       }
     }
   },
@@ -1502,6 +1547,15 @@
       }
     }
   },
+  "marathon": {
+    "label": "Marathon",
+    "wikipedia": "Marathon, Greece",
+    "translations": {
+      "es": {
+        "label": "Maratón"
+      }
+    }
+  },
   "marburg": {
     "label": "Marburg",
     "wikipedia": "Marburg",
@@ -1580,6 +1634,15 @@
     "translations": {
       "es": {
         "label": "Mikulov"
+      }
+    }
+  },
+  "miletus": {
+    "label": "Miletus",
+    "wikipedia": "Miletus",
+    "translations": {
+      "es": {
+        "label": "Mileto"
       }
     }
   },
@@ -1664,6 +1727,15 @@
       }
     }
   },
+  "mount-athos": {
+    "label": "Mount Athos",
+    "wikipedia": "Mount Athos",
+    "translations": {
+      "es": {
+        "label": "Monte Athos"
+      }
+    }
+  },
   "munich": {
     "label": "Munich",
     "wikipedia": "Munich",
@@ -1679,6 +1751,15 @@
     "translations": {
       "es": {
         "label": "Münster"
+      }
+    }
+  },
+  "mycale": {
+    "label": "Mycale",
+    "wikipedia": "Mycale",
+    "translations": {
+      "es": {
+        "label": "Micala"
       }
     }
   },
@@ -1934,6 +2015,15 @@
       }
     }
   },
+  "persepolis": {
+    "label": "Persepolis",
+    "wikipedia": "Persepolis",
+    "translations": {
+      "es": {
+        "label": "Persépolis"
+      }
+    }
+  },
   "perugia": {
     "label": "Perusia (Perugia)",
     "wikipedia": "Perugia",
@@ -2003,6 +2093,15 @@
     "translations": {
       "es": {
         "label": "Plaza de la Revolución"
+      }
+    }
+  },
+  "plataea": {
+    "label": "Plataea",
+    "wikipedia": "Plataea",
+    "translations": {
+      "es": {
+        "label": "Platea"
       }
     }
   },
@@ -2222,6 +2321,15 @@
       }
     }
   },
+  "salamis": {
+    "label": "Salamis",
+    "wikipedia": "Salamis Island",
+    "translations": {
+      "es": {
+        "label": "Salamina"
+      }
+    }
+  },
   "salvador": {
     "label": "Salvador",
     "wikipedia": "Salvador, Bahia",
@@ -2327,6 +2435,15 @@
     "translations": {
       "es": {
         "label": "Sierra de la Barriga"
+      }
+    }
+  },
+  "sestos": {
+    "label": "Sestos",
+    "wikipedia": "Sestos",
+    "translations": {
+      "es": {
+        "label": "Sestos"
       }
     }
   },
@@ -2528,12 +2645,30 @@
       }
     }
   },
+  "thasos": {
+    "label": "Thasos",
+    "wikipedia": "Thasos",
+    "translations": {
+      "es": {
+        "label": "Tasos"
+      }
+    }
+  },
   "the-hague": {
     "label": "The Hague",
     "wikipedia": "The Hague",
     "translations": {
       "es": {
         "label": "La Haya"
+      }
+    }
+  },
+  "thermopylae": {
+    "label": "Thermopylae",
+    "wikipedia": "Thermopylae",
+    "translations": {
+      "es": {
+        "label": "Termópilas"
       }
     }
   },
