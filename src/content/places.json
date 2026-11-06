@@ -800,6 +800,15 @@
       }
     }
   },
+  "cyrene": {
+    "label": "Cyrene",
+    "wikipedia": "Cyrene, Libya",
+    "translations": {
+      "es": {
+        "label": "Cirene"
+      }
+    }
+  },
   "dadu": {
     "label": "Dadu (Khanbaliq)",
     "wikipedia": "Khanbaliq",
@@ -878,6 +887,15 @@
     "translations": {
       "es": {
         "label": "Ebro"
+      }
+    }
+  },
+  "ecbatana": {
+    "label": "Ecbatana",
+    "wikipedia": "Ecbatana",
+    "translations": {
+      "es": {
+        "label": "Ecbatana"
       }
     }
   },
@@ -1259,6 +1277,15 @@
       }
     }
   },
+  "knossos": {
+    "label": "Knossos",
+    "wikipedia": "Knossos",
+    "translations": {
+      "es": {
+        "label": "Cnosos"
+      }
+    }
+  },
   "kosice": {
     "label": "Košice",
     "wikipedia": "Košice",
@@ -1484,6 +1511,15 @@
       }
     }
   },
+  "marseille": {
+    "label": "Massalia (Marseille)",
+    "wikipedia": "Marseille",
+    "translations": {
+      "es": {
+        "label": "Massalia (Marsella)"
+      }
+    }
+  },
   "matanzas": {
     "label": "Matanzas",
     "wikipedia": "Matanzas",
@@ -1499,6 +1535,15 @@
     "translations": {
       "es": {
         "label": "Medellín"
+      }
+    }
+  },
+  "messenia": {
+    "label": "Messenia",
+    "wikipedia": "Messenia",
+    "translations": {
+      "es": {
+        "label": "Mesenia"
       }
     }
   },
@@ -1637,6 +1682,15 @@
       }
     }
   },
+  "mycenae": {
+    "label": "Mycenae",
+    "wikipedia": "Mycenae",
+    "translations": {
+      "es": {
+        "label": "Micenas"
+      }
+    }
+  },
   "mylae": {
     "label": "Mylae (Milazzo)",
     "wikipedia": "Milazzo",
@@ -1724,6 +1778,15 @@
     "translations": {
       "es": {
         "label": "Núremberg"
+      }
+    }
+  },
+  "olympia": {
+    "label": "Olympia",
+    "wikipedia": "Olympia, Greece",
+    "translations": {
+      "es": {
+        "label": "Olimpia"
       }
     }
   },
@@ -1853,6 +1916,15 @@
       }
     }
   },
+  "pelusium": {
+    "label": "Pelusium",
+    "wikipedia": "Pelusium",
+    "translations": {
+      "es": {
+        "label": "Pelusio"
+      }
+    }
+  },
   "pergamon": {
     "label": "Pergamon",
     "wikipedia": "Pergamon",
@@ -1889,6 +1961,15 @@
       }
     }
   },
+  "phocaea": {
+    "label": "Phocaea",
+    "wikipedia": "Phocaea",
+    "translations": {
+      "es": {
+        "label": "Focea"
+      }
+    }
+  },
   "pisco": {
     "label": "Pisco",
     "wikipedia": "Pisco, Peru",
@@ -1904,6 +1985,15 @@
     "translations": {
       "es": {
         "label": "Pistoria (Pistoya)"
+      }
+    }
+  },
+  "pithekoussai": {
+    "label": "Pithekoussai (Ischia)",
+    "wikipedia": "Pithekoussai",
+    "translations": {
+      "es": {
+        "label": "Pitecusa (Isquia)"
       }
     }
   },
@@ -2168,6 +2258,15 @@
       }
     }
   },
+  "santorini": {
+    "label": "Thera (Santorini)",
+    "wikipedia": "Santorini",
+    "translations": {
+      "es": {
+        "label": "Tera (Santorini)"
+      }
+    }
+  },
   "sao-jorge-da-mina": {
     "label": "São Jorge da Mina (Elmina)",
     "wikipedia": "Elmina Castle",
@@ -2192,6 +2291,15 @@
     "translations": {
       "es": {
         "label": "Cerdeña"
+      }
+    }
+  },
+  "sardis": {
+    "label": "Sardis",
+    "wikipedia": "Sardis",
+    "translations": {
+      "es": {
+        "label": "Sardes"
       }
     }
   },
@@ -2273,6 +2381,15 @@
     "translations": {
       "es": {
         "label": "Soncino"
+      }
+    }
+  },
+  "sparta": {
+    "label": "Sparta",
+    "wikipedia": "Sparta",
+    "translations": {
+      "es": {
+        "label": "Esparta"
       }
     }
   },
@@ -2366,6 +2483,15 @@
       }
     }
   },
+  "susa": {
+    "label": "Susa",
+    "wikipedia": "Susa",
+    "translations": {
+      "es": {
+        "label": "Susa"
+      }
+    }
+  },
   "syracuse": {
     "label": "Syracuse",
     "wikipedia": "Syracuse, Sicily",
@@ -2417,6 +2543,15 @@
     "translations": {
       "es": {
         "label": "Tiberíades"
+      }
+    }
+  },
+  "tiryns": {
+    "label": "Tiryns",
+    "wikipedia": "Tiryns",
+    "translations": {
+      "es": {
+        "label": "Tirinto"
       }
     }
   },
@@ -2510,6 +2645,15 @@
       }
     }
   },
+  "troy": {
+    "label": "Troy",
+    "wikipedia": "Troy",
+    "translations": {
+      "es": {
+        "label": "Troya"
+      }
+    }
+  },
   "tuileries": {
     "label": "Tuileries Palace",
     "wikipedia": "Tuileries Palace",
@@ -2534,6 +2678,15 @@
     "translations": {
       "es": {
         "label": "Galería de los Uffizi"
+      }
+    }
+  },
+  "ugarit": {
+    "label": "Ugarit",
+    "wikipedia": "Ugarit",
+    "translations": {
+      "es": {
+        "label": "Ugarit"
       }
     }
   },

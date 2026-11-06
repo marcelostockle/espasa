@@ -1,4 +1,18 @@
 {
+  "achaemenid-persia": {
+    "label": "Achaemenid Persia",
+    "color": "#5a1edc",
+    "description": "The Persian Empire founded by Cyrus the Great (c. 550-330 BCE): its conquests, kings and administration, until its fall to Alexander.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Persia aqueménida",
+        "description": "El Imperio persa fundado por Ciro el Grande (c. 550-330 a. C.): sus conquistas, reyes y administración, hasta su caída ante Alejandro."
+      }
+    }
+  },
   "al-andalus": {
     "label": "Al-Andalus",
     "color": "#ffd54f",
@@ -11,6 +25,20 @@
       "es": {
         "label": "Al-Ándalus",
         "description": "La Iberia gobernada por musulmanes desde la conquista omeya de 711 hasta la caída del Emirato de Granada en 1492, incluidos el Califato de Córdoba, las taifas y los estados almorávide, almohade y nazarí."
+      }
+    }
+  },
+  "alexander-the-great": {
+    "label": "Alexander the Great",
+    "color": "#d21edc",
+    "description": "Alexander III of Macedon (356-323 BCE): his conquest of the Persian Empire and the world he left behind.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Alejandro Magno",
+        "description": "Alejandro III de Macedonia (356-323 a. C.): su conquista del Imperio persa y el mundo que dejó tras de sí."
       }
     }
   },
@@ -39,6 +67,20 @@
       "es": {
         "label": "Arte",
         "description": "Artes visuales, literatura y música."
+      }
+    }
+  },
+  "athens": {
+    "label": "Athens",
+    "color": "#1eb41e",
+    "description": "The city-state of Athens: its lawgivers, tyrants and democracy, its empire, and its culture.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Atenas",
+        "description": "La ciudad-estado de Atenas: sus legisladores, tiranos y democracia, su imperio y su cultura."
       }
     }
   },
@@ -152,6 +194,20 @@
       "es": {
         "label": "Brasil",
         "description": "El Brasil portugués, desde las primeras capitanías de 1534 hasta la llegada de la corte portuguesa a Río de Janeiro en 1808."
+      }
+    }
+  },
+  "bronze-age-aegean": {
+    "label": "Bronze Age Aegean",
+    "color": "#1edc82",
+    "description": "The Minoans of Crete and the Mycenaeans of mainland Greece (c. 3000-1100 BCE): palaces, Linear A and B, and the collapse of the Late Bronze Age.",
+    "categories": [
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Egeo de la Edad del Bronce",
+        "description": "Los minoicos de Creta y los micénicos de la Grecia continental (c. 3000-1100 a. C.): palacios, lineal A y B, y el colapso de la Edad del Bronce Final."
       }
     }
   },
@@ -607,6 +663,20 @@
       "es": {
         "label": "Aníbal",
         "description": "General cartaginés (247-c. 183 a. C.): su mando en Iberia, su invasión de Italia en la segunda guerra púnica y su exilio."
+      }
+    }
+  },
+  "hellenistic-kingdoms": {
+    "label": "Hellenistic kingdoms",
+    "color": "#1ebed2",
+    "description": "The Greek-ruled kingdoms that succeeded Alexander (323-30 BCE): the Ptolemies, Seleucids, Antigonids and others, and their culture.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Reinos helenísticos",
+        "description": "Los reinos de gobierno griego que sucedieron a Alejandro (323-30 a. C.): ptolomeos, seléucidas, antigónidas y otros, y su cultura."
       }
     }
   },
@@ -1093,6 +1163,34 @@
       }
     }
   },
+  "peloponnesian-war": {
+    "label": "Peloponnesian War",
+    "color": "#64dc5a",
+    "description": "The war between Athens and Sparta and their allies (431-404 BCE), and its causes and consequences.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra del Peloponeso",
+        "description": "La guerra entre Atenas y Esparta y sus aliados (431-404 a. C.), con sus causas y consecuencias."
+      }
+    }
+  },
+  "persian-wars": {
+    "label": "Persian Wars",
+    "color": "#be7896",
+    "description": "The Greco-Persian conflict (499-449 BCE): the Ionian Revolt and the invasions of Darius and Xerxes.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerras médicas",
+        "description": "El conflicto grecopersa (499-449 a. C.): la revuelta jonia y las invasiones de Darío y Jerjes."
+      }
+    }
+  },
   "peru": {
     "label": "Peru",
     "color": "#1565c0",
@@ -1374,6 +1472,20 @@
       "es": {
         "label": "Independencia hispanoamericana",
         "description": "Las guerras y crisis políticas (h. 1808-1826) por las que los territorios americanos de España se separaron de la Corona española y se convirtieron en Estados independientes."
+      }
+    }
+  },
+  "sparta": {
+    "label": "Sparta",
+    "color": "#50dc8c",
+    "description": "The city-state of Sparta: its constitution, helots and army, and its wars and leagues.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Esparta",
+        "description": "La ciudad-estado de Esparta: su constitución, los ilotas y el ejército, y sus guerras y ligas."
       }
     }
   },

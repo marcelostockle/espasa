@@ -1221,6 +1221,20 @@
       "extract": "La batalla de Cinoscéfalas fue un enfrentamiento militar librado en 197 a. C. en el contexto de la segunda guerra macedónica, entre las legiones de la República romana, encabezadas por el procónsul Tito Quincio Flaminino, y el ejército del Reino de Macedonia, liderado por el rey Filipo V. El encuentro terminó en una decisiva victoria de Roma."
     }
   },
+  "cyrene": {
+    "title": "Cyrene, Libya",
+    "url": "https://en.wikipedia.org/wiki/Cyrene%2C_Libya",
+    "extract": "Cyrene, also sometimes anglicized as Kyrene, was an ancient Greek colony and Roman city near present-day Shahhat in northeastern Libya in North Africa. It was part of the Pentapolis, an important group of five cities in the region, and gave the area its classical and early modern name Cyrenaica.",
+    "description": "Ancient Greek and Roman city near present-day Shahhat, Libya",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Cyrene8.jpg/330px-Cyrene8.jpg",
+    "lat": 32.8225,
+    "lon": 21.8625,
+    "es": {
+      "title": "Cirene",
+      "url": "https://es.wikipedia.org/wiki/Cirene",
+      "extract": "Cirene fue una antigua ciudad griega —situada en la actual Libia—, la más importante de la Pentápolis, las cinco colonias griegas de la región, a la que dio el nombre de Cirenaica, utilizado todavía hoy en día."
+    }
+  },
   "dadu": {
     "title": "Dadu (Beijing)",
     "url": "https://en.wikipedia.org/wiki/Dadu_(Beijing)",
@@ -1345,6 +1359,20 @@
       "title": "Ebro",
       "url": "https://es.wikipedia.org/wiki/Ebro",
       "extract": "El Ebro es un río del noreste de la península ibérica, el segundo más largo y caudaloso de esta, tras el Tajo y el Duero, respectivamente. Discurre enteramente por España. Entre los ríos que desembocan en el mar Mediterráneo, solo es superado en longitud por el Nilo."
+    }
+  },
+  "ecbatana": {
+    "title": "Ecbatana",
+    "url": "https://en.wikipedia.org/wiki/Ecbatana",
+    "extract": "Ecbatana was an ancient city, the capital of the Median kingdom, and the first capital in Iranian history. It later became the summer capital of the Achaemenid and Parthian empires. It was also an important city during the Seleucid and Sasanian empires. Ecbatana was located in the Zagros Mountains, the east of central Mesopotamia, on Hagmatana Hill. Its strategic location and resources probably made it a popular site even before the 1st millennium BC. It is identified with the current city of Hamadan.",
+    "description": "Ancient city, capital of the Median Empire",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Hegmataneh.jpg/330px-Hegmataneh.jpg",
+    "lat": 34.80638889,
+    "lon": 48.51611111,
+    "es": {
+      "title": "Ecbatana",
+      "url": "https://es.wikipedia.org/wiki/Ecbatana",
+      "extract": "Ecbatana es, según lo que la tradición supone, la ciudad que era capital del imperio meda de Astiages (Istuvegü), y que, tras su conquista, fue adoptada como capital por el persa Ciro II el Grande, en el sexto año de Nabonido (549 a. C.). Los antiguos griegos la suponían capital de Media, y le atribuían su fundación a Deyoces."
     }
   },
   "egypt": {
@@ -1918,6 +1946,20 @@
       "extract": "Kalmar es una ciudad en Småland al sureste de Suecia, situada a orillas del mar Báltico."
     }
   },
+  "knossos": {
+    "title": "Knossos",
+    "url": "https://en.wikipedia.org/wiki/Knossos",
+    "extract": "Knossos is an archaeological site and ancient urban centre in Crete, Greece. It is located within the southern periphery of Heraklion, about 5 km (3.1 mi) south of the city's historic centre. The site was occupied from the Neolithic period into the first millennium AD and became the largest and best-known centre of the Minoan civilisation.",
+    "description": "Archaeological site and Minoan palace complex in Heraklion, Crete",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Crete_integrated_map-en.svg/330px-Crete_integrated_map-en.svg.png",
+    "lat": 35.29805556,
+    "lon": 25.16305556,
+    "es": {
+      "title": "Cnosos",
+      "url": "https://es.wikipedia.org/wiki/Cnosos",
+      "extract": "Cnosos o Cnoso fue una de las ciudades más importantes de Creta durante la civilización minoica, que alcanzó su máximo esplendor en el segundo milenio a. C., siendo el complejo palacial más antiguo de Europa. Está situada a unos 5 km al sudeste de la actual ciudad de Heraclión y al oeste del río Kairatos. En ella se alzan los restos del palacio de Cnosos, el más importante del periodo minoico y el más conocido de los complejos arqueológicos desde su descubrimiento en 1878."
+    }
+  },
   "kosice": {
     "title": "Košice",
     "url": "https://en.wikipedia.org/wiki/Ko%C5%A1ice",
@@ -2259,6 +2301,20 @@
       "extract": "Marburgo es una ciudad del estado federado de Hesse, Alemania, en el valle del río Lahn, que atraviesa la ciudad. Desde el siglo XII es una ciudad libre y es por esta herencia medieval que junto a otras seis ciudades de Hesse tiene actualmente un estatuto especial. Es uno de los mayores empleadores y el factor económico más importante de la región. Tiene aproximadamente 80 000 habitantes."
     }
   },
+  "marseille": {
+    "title": "Marseille",
+    "url": "https://en.wikipedia.org/wiki/Marseille",
+    "extract": "Marseille is a city in southern France, the prefecture of the Bouches-du-Rhône department and of the Provence-Alpes-Côte d'Azur region. Situated in Provence, it marks the eastern end of the Côte Bleue on the Mediterranean coast. Marseille is the second-most populous city proper in France, after Paris, with 886,040 people in 2023 over a municipal territory of 241 km2 (93 sq mi). Together with its suburbs and exurbs, the Marseille metropolitan area, which extends over 3,972 km2 (1,534 sq mi), had a population of 1,917,728 as of 2023. The cities of Marseille, Aix-en-Provence, and 90 suburban municipalities have formed since 2016 the Aix-Marseille-Provence Metropolis, an indirectly elected metropolitan authority now in charge of wider metropolitan issues, with a population of 1,939,077 as of 2023. The southeast of Marseille is in Calanques National Park, making Marseille the only large city in France to have a national park within city limits.",
+    "description": "City in southern France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Mucem_et_Cath%C3%A9drale_Sainte-Marie-Majeure_de_Marseille.jpg/330px-Mucem_et_Cath%C3%A9drale_Sainte-Marie-Majeure_de_Marseille.jpg",
+    "lat": 43.2964,
+    "lon": 5.37,
+    "es": {
+      "title": "Marsella",
+      "url": "https://es.wikipedia.org/wiki/Marsella",
+      "extract": "Marsella es una ciudad portuaria del sur de Francia, capital del departamento de Bocas del Ródano y de la región de Provenza-Alpes-Costa Azul."
+    }
+  },
   "matanzas": {
     "title": "Matanzas",
     "url": "https://en.wikipedia.org/wiki/Matanzas",
@@ -2285,6 +2341,20 @@
       "title": "Medellín (España)",
       "url": "https://es.wikipedia.org/wiki/Medell%C3%ADn_(Espa%C3%B1a)",
       "extract": "Medellín es un municipio y localidad española de la provincia de Badajoz, en la comunidad autónoma de Extremadura. De fundación romana, cabecera del condado homónimo durante la Edad Media y cuna de Hernán Cortés."
+    }
+  },
+  "messenia": {
+    "title": "Messenia",
+    "url": "https://en.wikipedia.org/wiki/Messenia",
+    "extract": "Messenia or Messinia is a regional unit in the southwestern part of the Peloponnese region, in Greece. Until the implementation of the Kallikratis plan on 1 January 2011, Messenia was a prefecture (nomos) covering the same territory. The capital and largest city of Messenia is Kalamata.",
+    "description": "Regional unit in Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2010_Dimi_Messinias_numbered.svg/330px-2010_Dimi_Messinias_numbered.svg.png",
+    "lat": 37.03444444,
+    "lon": 22.10972222,
+    "es": {
+      "title": "Mesenia",
+      "url": "https://es.wikipedia.org/wiki/Mesenia",
+      "extract": "Mesenia es una unidad periférica de Grecia, situada en la periferia de Peloponeso. Su capital es Kalamata. Hasta el 1 de enero de 2011 fue una de las 51 prefecturas en que se dividía el país. Limita al este con Laconia; al norte, con Élide y Arcadia; y al sur y oeste con el mar. De Laconia la separa el monte Taigeto. La costa sur forma el llamado golfo de Mesenia."
     }
   },
   "messina": {
@@ -2490,6 +2560,20 @@
       "extract": "Münster () [cita requerida] es una ciudad alemana situada en el estado de Renania del Norte-Westfalia. Tiene 318 958 habitantes (2023) y es la capital del distrito del mismo nombre. Münster está entre Dortmund y Osnabrück, en el centro del Münsterland. Es conocida como la ciudad de las bicicletas y por su centro histórico, que fue restaurado poco a poco después del fin de la Segunda Guerra Mundial."
     }
   },
+  "mycenae": {
+    "title": "Mycenae",
+    "url": "https://en.wikipedia.org/wiki/Mycenae",
+    "extract": "Mycenae is an archaeological site near Mykines in Argolis, north-eastern Peloponnese, Greece. It is located about 120 kilometres south-west of Athens; 11 kilometres north of Argos; and 48 kilometres south of Corinth. The site is 19 kilometres inland from the Saronic Gulf and built upon a hill rising 274 metres above sea level.",
+    "description": "Archaeological site in Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Path_upto_the_Lion_Gate%2C_Mycenae_%2828693130016%29.jpg/330px-Path_upto_the_Lion_Gate%2C_Mycenae_%2828693130016%29.jpg",
+    "lat": 37.73027778,
+    "lon": 22.7575,
+    "es": {
+      "title": "Micenas",
+      "url": "https://es.wikipedia.org/wiki/Micenas",
+      "extract": "Micenas es un yacimiento arqueológico situado en la península del Peloponeso. Se ha utilizado su nombre para denominar al periodo histórico comprendido entre el 1600 y el 1100 a. C., puesto que, tras los descubrimientos de Heinrich Schliemann, se pensaba que Micenas ocupaba una posición de liderazgo; sin embargo, otros estudios posteriores indican que la civilización se componía probablemente de una serie de reinos independientes."
+    }
+  },
   "mylae": {
     "title": "Milazzo",
     "url": "https://en.wikipedia.org/wiki/Milazzo",
@@ -2626,6 +2710,20 @@
       "title": "Núremberg",
       "url": "https://es.wikipedia.org/wiki/N%C3%BAremberg",
       "extract": "Núremberg, antiguamente en español Nuremberga, es una ciudad alemana a orillas del río Pegnitz, en la región de la Franconia Media, perteneciente al estado de Baviera. Tiene una población de 544 200 habitantes (2023), por lo que es la segunda ciudad más poblada del estado tras Múnich y la decimocuarta del país."
+    }
+  },
+  "olympia": {
+    "title": "Olympia, Greece",
+    "url": "https://en.wikipedia.org/wiki/Olympia%2C_Greece",
+    "extract": "Olympia, officially Archaia Olympia, is a small town in Elis on the Peloponnese peninsula in Greece, famous for the nearby archaeological site of the same name. The site was a major Panhellenic religious sanctuary of ancient Greece, where the ancient Olympic Games were held every four years throughout classical antiquity, from the 8th century BC to the 4th century AD. They were restored on a global basis in 1894 in honor of the ideal of peaceful international contention for excellence.",
+    "description": "Town in Elis, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ancient_Olympia%2C_Greece2.jpg/330px-Ancient_Olympia%2C_Greece2.jpg",
+    "lat": 37.63833333,
+    "lon": 21.63,
+    "es": {
+      "title": "Olimpia",
+      "url": "https://es.wikipedia.org/wiki/Olimpia",
+      "extract": "Olimpia es un sitio arqueológico situado en la unidad periférica de Élide, en Grecia. En la Antigüedad, era la sede de un importante santuario y además el lugar donde se celebraban los Juegos Olímpicos. Se encuentra al pie del monte Cronio y en el lado derecho del río Alfeo."
     }
   },
   "oppenheim": {
@@ -2824,6 +2922,20 @@
       "extract": "Pavía es una ciudad italiana de la región de Lombardía, capital de la provincia homónima. Tiene una población de 71 000 habitantes. El río Ticino cruza la ciudad, antes de confluir con el río Po. En el período romano se llamó Ticinum. La ciudad fue la capital del Reino Ostrogodo del 540 al 553, del Reino Lombardo de 572 a 774, del Reino de Italia de 774 a 1024 y sede de la corte Visconti de 1365 a 1413."
     }
   },
+  "pelusium": {
+    "title": "Pelusium",
+    "url": "https://en.wikipedia.org/wiki/Pelusium",
+    "extract": "Pelusium was an important city in the eastern extremes of Egypt's Nile Delta, 30 km (19 mi) to the southeast of the modern Port Said. It became a Roman provincial capital and Metropolitan archbishopric and remained a multiple Catholic titular see and an Eastern Orthodox active archdiocese.",
+    "description": "Ancient city in Egypt",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Lower_Egypt-en.png/330px-Lower_Egypt-en.png",
+    "lat": 31.04166667,
+    "lon": 32.545,
+    "es": {
+      "title": "Pelusio",
+      "url": "https://es.wikipedia.org/wiki/Pelusio",
+      "extract": "Pelusio fue una antigua ciudad del Bajo Egipto, situada en el extremo nordeste del delta del Nilo, en la desembocadura más oriental del Nilo llamada boca Pelusia, conocida como Ostium Pelusiacum. Su nombre egipcio era Per-Amón, Peromi o Sena. Cerca estaba Balouza derivado de Pelusium. Fue la ciudad más importante del este del Bajo Egipto."
+    }
+  },
   "pergamon": {
     "title": "Pergamon",
     "url": "https://en.wikipedia.org/wiki/Pergamon",
@@ -2880,6 +2992,20 @@
       "extract": "Filipos fue una ciudad de Macedonia oriental fundada por Filipo II de Macedonia, que le dio su nombre. Cerca había minas de oro, especialmente las de Asyla. Estaba cercana al río Gangas o Gangites."
     }
   },
+  "phocaea": {
+    "title": "Phocaea",
+    "url": "https://en.wikipedia.org/wiki/Phocaea",
+    "extract": "Phocaea or Phokaia was an ancient Ionian Greek city on the western coast of Anatolia. Greek colonists from Phocaea founded the colony of Massalia in 600 BC, Emporion in 575 BC and Elea in 540 BC.",
+    "description": "Ancient Greek city in İzmir Province, Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ancient_theatre_Fo%C3%A7a525.jpg/330px-Ancient_theatre_Fo%C3%A7a525.jpg",
+    "lat": 38.6675,
+    "lon": 26.75805556,
+    "es": {
+      "title": "Focea",
+      "url": "https://es.wikipedia.org/wiki/Focea",
+      "extract": "Focea era una ciudad griega de Asia Menor, actualmente en Turquía, donde hoy día se encuentra la ciudad de Foça o Eskifoça en el golfo de Esmirna. Su nombre proviene de la palabra «foca» (animal), que fue el símbolo de la ciudad. Los habitantes de Focea reciben el nombre de focenses."
+    }
+  },
   "pisco": {
     "title": "Pisco, Peru",
     "url": "https://en.wikipedia.org/wiki/Pisco%2C_Peru",
@@ -2906,6 +3032,20 @@
       "title": "Pistoya",
       "url": "https://es.wikipedia.org/wiki/Pistoya",
       "extract": "Pistoya es un municipio italiano, capital de la provincia de Pistoya, en la región de la Toscana en la Italia central. Cuenta con una población de 89 493 habitantes."
+    }
+  },
+  "pithekoussai": {
+    "title": "Ischia",
+    "url": "https://en.wikipedia.org/wiki/Ischia",
+    "extract": "Ischia is a volcanic island in the Tyrrhenian Sea. It lies at the northern end of the Gulf of Naples, about 30 kilometres from the city of Naples. It is the largest of the Phlegrean Islands. Although inhabited since the Bronze Age, as a Greek emporium it was founded in the 8th or 9th century BCE, and known as Πιθηκοῦσαι, Pithekoūsai.",
+    "description": "Volcanic island in the Tyrrhenian Sea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ischia_da_procida.jpg/330px-Ischia_da_procida.jpg",
+    "lat": 40.731204,
+    "lon": 13.895721,
+    "es": {
+      "title": "Isquia",
+      "url": "https://es.wikipedia.org/wiki/Isquia",
+      "extract": "Isquia es la isla más grande del archipiélago napolitano y está dividida en seis municipios: Isquia, Casamicciola Terme, Lacco Ameno, Forio, Serrara Fontana y Barano d'Ischia, administrativamente situados en la provincia de Nápoles. En los últimos años, no obstante, ha nacido el proyecto del «municipio único» que prevé la institución de un solo municipio en lugar de los seis actuales. Este proyecto dio lugar a la fundación de la «Associazione per il Comune Único» el 11 de noviembre de 2001. Se trata de una isla volcánica del mar Tirreno, situada a la entrada existente en el extremo septentrional del golfo de Nápoles, en la región italiana de Campania. Es un importante centro turístico. Comprende 46,4 km² y tiene una población de 60 335 habitantes."
     }
   },
   "place-de-la-concorde": {
@@ -3309,6 +3449,20 @@
       "extract": "Santo Domingo es la capital de la República Dominicana. La ciudad está situada sobre el mar Caribe, en la desembocadura del río Ozama, en la costa meridional de La Española, a 155 km al sureste de Santiago."
     }
   },
+  "santorini": {
+    "title": "Santorini",
+    "url": "https://en.wikipedia.org/wiki/Santorini",
+    "extract": "Santorini, officially Thira or Thera, is a Greek island in the southern Aegean Sea, about 200 km (120 mi) southeast from the mainland. It is the largest island of a small, circular archipelago formed by the Santorini caldera. It is the southernmost member of the Cyclades group of islands, with an area of approximately 73 km2 (28 mi2) and a 2021 census population of 15,480. The municipality of Santorini includes the inhabited islands of Santorini and Therasia, and the uninhabited islands of Nea Kameni, Palaia Kameni, Aspronisi, Anydros, and Christiana. The total land area is 90 km2 (35 mi2). Santorini is part of the Thira regional unit.",
+    "description": "Greek island in the Aegean Sea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/2011_Dimos_Thiras.png/330px-2011_Dimos_Thiras.png",
+    "lat": 36.415,
+    "lon": 25.4325,
+    "es": {
+      "title": "Santorini",
+      "url": "https://es.wikipedia.org/wiki/Santorini",
+      "extract": "Santorín, Santorini que es el nombre que aparece en los mapas; o Tera, Thera o Thira que es el nombre oficial es un pequeño archipiélago circular formado por islas volcánicas, ubicado en el sur del mar Egeo, a unos 200 km al sureste del territorio continental griego. Forma el grupo de islas más meridional de las Cícladas, con un área aproximada de unos 73 km² y una población de trece mil cuatrocientos dos habitantes en 2001."
+    }
+  },
   "sao-jorge-da-mina": {
     "title": "Elmina Castle",
     "url": "https://en.wikipedia.org/wiki/Elmina_Castle",
@@ -3349,6 +3503,20 @@
       "title": "Cerdeña",
       "url": "https://es.wikipedia.org/wiki/Cerde%C3%B1a",
       "extract": "Cerdeña es una de las veinte regiones que conforman la República Italiana. Su capital y ciudad más poblada es Cagliari. Está ubicada en la Italia insular. Limita al norte con el estrecho de Bonifacio, que la separa de la isla francesa de Córcega, al este con el mar Tirreno y al sur y oeste con el mar Mediterráneo."
+    }
+  },
+  "sardis": {
+    "title": "Sardis",
+    "url": "https://en.wikipedia.org/wiki/Sardis",
+    "extract": "Sardis or Sardes was an ancient city best known as the capital of the Lydian Empire. After the fall of the Lydian Empire, it became the capital of the Persian satrapy of Lydia and later a major center of Hellenistic and Byzantine culture. Now an active archaeological site, it is located in modern day Turkey, in Manisa Province, near the town of Sart. Sardis was also mentioned as the campsite of Brutus and Cassius in William Shakespeare's play, Julius Caesar (1599).",
+    "description": "Ancient city in Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg/330px-The_Bath-Gymnasium_complex_at_Sardis%2C_late_2nd_-_early_3rd_century_AD%2C_Sardis%2C_Turkey_%2817098680002%29.jpg",
+    "lat": 38.48833333,
+    "lon": 28.04027778,
+    "es": {
+      "title": "Sardes",
+      "url": "https://es.wikipedia.org/wiki/Sardes",
+      "extract": "Sardes fue una antigua ciudad de Asia Menor fundada por el rey lidio Giges (680-644 a. C.) como capital del antiguo reino de Lidia. Se corresponde con la actual Sart, en la provincia turca de Manisa, en la ladera septentrional del monte Tmolo, en el valle medio del río Pactolo, que desemboca en el mar Egeo."
     }
   },
   "schmalkalden": {
@@ -3463,6 +3631,20 @@
       "title": "Soncino",
       "url": "https://es.wikipedia.org/wiki/Soncino",
       "extract": "Soncino es una localidad y comune italiana de la provincia de Cremona, región de Lombardía, con 7.641 habitantes."
+    }
+  },
+  "sparta": {
+    "title": "Sparta",
+    "url": "https://en.wikipedia.org/wiki/Sparta",
+    "extract": "Sparta was a prominent ancient Greek polis in Laconia. In classical antiquity, the state was known as Lacedaemon, while Sparta referred to its capital, a group of villages in the valley of the Evrotas River in Laconia, in the southeastern Peloponnese. During the 7th century BC, it rose to become the most prominent land military power in the Greek world, a status it retained until its defeat at Leuctra in 371 BC.",
+    "description": "City-state in ancient Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/330px-Spartan_Territory_Before_371_BC.png",
+    "lat": 37.08194444,
+    "lon": 22.42361111,
+    "es": {
+      "title": "Esparta",
+      "url": "https://es.wikipedia.org/wiki/Esparta",
+      "extract": "Esparta fue la capital de Laconia y una de las polis griegas más importantes junto con Atenas, Tebas y Corinto. Estaba situada en la Antigua Grecia, en la península del Peloponeso, a orillas del río Eurotas, entre los montes Taigeto y Parnón. Su sucesora es la Esparta moderna."
     }
   },
   "speyer": {
@@ -3600,6 +3782,20 @@
       "extract": "Subiaco es un municipio de 9.332 habitantes, a 408 m s. n. m. en el valle superior del Aniene, en la ribera oriental del río."
     }
   },
+  "susa": {
+    "title": "Susa",
+    "url": "https://en.wikipedia.org/wiki/Susa",
+    "extract": "Susa was an ancient city in the lower Zagros Mountains about 250 km (160 mi) east of the Tigris, between the Karkheh and Dez Rivers in Iran. It represents the current city of Shush, located on the site of ancient Susa. One of the most important cities of the Ancient Near East, Susa served as the capital of Elam and the winter capital of the Achaemenid Empire, and remained a strategic centre during the Parthian and Sasanian periods.",
+    "description": "Ancient city in Iran",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/History_of_Egypt%2C_Chaldea%2C_Syria%2C_Babylonia_and_Assyria_%281903%29_%2814584070300%29.jpg/330px-History_of_Egypt%2C_Chaldea%2C_Syria%2C_Babylonia_and_Assyria_%281903%29_%2814584070300%29.jpg",
+    "lat": 32.19055556,
+    "lon": 48.25777778,
+    "es": {
+      "title": "Susa",
+      "url": "https://es.wikipedia.org/wiki/Susa",
+      "extract": "Susa era una antigua ciudad de los imperios iraníes protoelamita, elamita, primer imperio persa, seleúcida y parto, y una de las ciudades más importantes del Antiguo Oriente Próximo. Se encuentra situada en la parte inferior de los montes Zagros a unos 250 km al este del río Tigris, entre los ríos Karkheh y Dez, en el sudoeste del actual Irán."
+    }
+  },
   "syracuse": {
     "title": "Syracuse, Sicily",
     "url": "https://en.wikipedia.org/wiki/Syracuse%2C_Sicily",
@@ -3682,6 +3878,20 @@
       "title": "Tiberíades",
       "url": "https://es.wikipedia.org/wiki/Tiber%C3%ADades",
       "extract": "Tiberíades es una ciudad emplazada en la orilla occidental del mar de Galilea, en la Baja Galilea, en el Distrito Norte de Israel. Según la Oficina Central de Estadísticas de Israel (CBS), a finales de 2019, la ciudad tenía una población de 44 779 habitantes."
+    }
+  },
+  "tiryns": {
+    "title": "Tiryns",
+    "url": "https://en.wikipedia.org/wiki/Tiryns",
+    "extract": "Tiryns is a Mycenaean archaeological site in Argolis in the Peloponnese, and the location from which the mythical hero Heracles was said to have performed his Twelve Labours. It lies 20 km (12 mi) south of Mycenae.",
+    "description": "Ancient Greek hill fort and palace",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Tiryns_-_Cyclopean_masonry.jpg/330px-Tiryns_-_Cyclopean_masonry.jpg",
+    "lat": 37.59944444,
+    "lon": 22.8,
+    "es": {
+      "title": "Tirinto",
+      "url": "https://es.wikipedia.org/wiki/Tirinto",
+      "extract": "Tirinto o Tirinte es un emplazamiento arqueológico micénico en el nomos griego de la Argólida en la península del Peloponeso, algunos kilómetros al norte de Nauplia."
     }
   },
   "tlaxcala": {
@@ -3824,6 +4034,20 @@
       "extract": "Trento es una ciudad italiana situada en la región de Trentino-Alto Adigio. Es la capital de la región y de la provincia autónoma de Trento. La ciudad, conocida internacionalmente por el Concilio de Trento, fue territorio austríaco hasta la Primera Guerra Mundial. Está situada en el profundo valle del Adigio."
     }
   },
+  "troy": {
+    "title": "Troy",
+    "url": "https://en.wikipedia.org/wiki/Troy",
+    "extract": "Troy or Ilion was an ancient city located in present-day Çanakkale, Turkey. It is best known as the setting for the Greek myth of the Trojan War. The modern-day archaeological site, also known as Hisarlık, is open to the public as a tourist destination, and was added to the UNESCO World Heritage list in 1998.",
+    "description": "Ancient city in northwest Asia Minor",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Walls_of_Troy_%282%29.jpg/330px-Walls_of_Troy_%282%29.jpg",
+    "lat": 39.9575,
+    "lon": 26.23888889,
+    "es": {
+      "title": "Troya",
+      "url": "https://es.wikipedia.org/wiki/Troya",
+      "extract": "Troya o Ilión es una antigua ciudad anatolia situada en el emplazamiento hoy conocido como la colina de Hisarlik,. Según los estudios de Frank Starke (1997), de J. David Hawkins (1998) y de W. D. Niemeier (1999), la palabra Wilusa era la denominación usada en hitita para la ciudad de Troya."
+    }
+  },
   "tuileries": {
     "title": "Tuileries Palace",
     "url": "https://en.wikipedia.org/wiki/Tuileries_Palace",
@@ -3864,6 +4088,17 @@
       "title": "Galería Uffizi",
       "url": "https://es.wikipedia.org/wiki/Galer%C3%ADa_Uffizi",
       "extract": "La Galería Uffizi es un palacio y museo de Florencia que posee una de las más antiguas e importantes colecciones de arte del mundo. Es una de las atracciones turísticas más visitadas de Florencia y la pinacoteca más concurrida de Italia, que en 2019 recibió 2,8 millones de visitantes."
+    }
+  },
+  "ugarit": {
+    "title": "Ugarit",
+    "url": "https://en.wikipedia.org/wiki/Ugarit",
+    "extract": "Ugarit was an ancient Levantine coastal city located in what is today northern Syria, at a site known in Arabic as Ras Shamra or Tell Shamra. Since its discovery in 1928, the site has revealed the oldest known systematic use of an alphabet. Ugaritic texts were written in a previously unknown Northwest Semitic tongue—the Ugaritic language. Archaeological excavations of Ugarit show evidence of occupation since the 8th millennium BC. Research has focused on the late Bronze Age levels; relatively little is known about earlier occupation.",
+    "description": "Ancient port city in western Syria and northern levant",
+    "es": {
+      "title": "Ugarit",
+      "url": "https://es.wikipedia.org/wiki/Ugarit",
+      "extract": "Ugarit fue una antigua ciudad portuaria, situada en la costa mediterránea al norte de Siria a pocos kilómetros de la moderna ciudad de Latakia, en la región oriental conocida como Levante."
     }
   },
   "ulm": {
