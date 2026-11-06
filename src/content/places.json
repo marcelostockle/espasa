@@ -8,6 +8,15 @@
       }
     }
   },
+  "aix": {
+    "label": "Aquae Sextiae (Aix-en-Provence)",
+    "wikipedia": "Aix-en-Provence",
+    "translations": {
+      "es": {
+        "label": "Aquae Sextiae (Aix-en-Provence)"
+      }
+    }
+  },
   "alcala-de-henares": {
     "label": "Alcalá de Henares",
     "wikipedia": "Alcalá de Henares",
@@ -116,12 +125,48 @@
       }
     }
   },
+  "arausio": {
+    "label": "Arausio (Orange)",
+    "wikipedia": "Orange, Vaucluse",
+    "translations": {
+      "es": {
+        "label": "Arausio (Orange)"
+      }
+    }
+  },
+  "arpino": {
+    "label": "Arpinum (Arpino)",
+    "wikipedia": "Arpino",
+    "translations": {
+      "es": {
+        "label": "Arpinum (Arpino)"
+      }
+    }
+  },
   "ascoli-satriano": {
     "label": "Asculum (Ascoli Satriano)",
     "wikipedia": "Ascoli Satriano",
     "translations": {
       "es": {
         "label": "Ásculo (Ascoli Satriano)"
+      }
+    }
+  },
+  "asia-province": {
+    "label": "Roman province of Asia",
+    "wikipedia": "Asia (Roman province)",
+    "translations": {
+      "es": {
+        "label": "Provincia romana de Asia"
+      }
+    }
+  },
+  "athens": {
+    "label": "Athens",
+    "wikipedia": "Athens",
+    "translations": {
+      "es": {
+        "label": "Atenas"
       }
     }
   },
@@ -140,6 +185,15 @@
     "translations": {
       "es": {
         "label": "Auhausen"
+      }
+    }
+  },
+  "aventine": {
+    "label": "Aventine Hill",
+    "wikipedia": "Aventine Hill",
+    "translations": {
+      "es": {
+        "label": "Aventino"
       }
     }
   },
@@ -503,6 +557,15 @@
       }
     }
   },
+  "capua": {
+    "label": "Capua",
+    "wikipedia": "Capua",
+    "translations": {
+      "es": {
+        "label": "Capua"
+      }
+    }
+  },
   "carthage": {
     "label": "Carthage",
     "wikipedia": "Carthage",
@@ -563,6 +626,15 @@
     "translations": {
       "es": {
         "label": "Cholula"
+      }
+    }
+  },
+  "colline-gate": {
+    "label": "Colline Gate",
+    "wikipedia": "Colline Gate",
+    "translations": {
+      "es": {
+        "label": "Puerta Colina"
       }
     }
   },
@@ -1574,6 +1646,15 @@
       }
     }
   },
+  "numidia": {
+    "label": "Numidia",
+    "wikipedia": "Numidia",
+    "translations": {
+      "es": {
+        "label": "Numidia"
+      }
+    }
+  },
   "nuremberg": {
     "label": "Nuremberg",
     "wikipedia": "Nuremberg",
@@ -1589,6 +1670,15 @@
     "translations": {
       "es": {
         "label": "Oppenheim"
+      }
+    }
+  },
+  "osca": {
+    "label": "Osca (Huesca)",
+    "wikipedia": "Huesca",
+    "translations": {
+      "es": {
+        "label": "Osca (Huesca)"
       }
     }
   },
@@ -1700,6 +1790,15 @@
       }
     }
   },
+  "pergamon": {
+    "label": "Pergamon",
+    "wikipedia": "Pergamon",
+    "translations": {
+      "es": {
+        "label": "Pérgamo"
+      }
+    }
+  },
   "pisco": {
     "label": "Pisco",
     "wikipedia": "Pisco, Peru",
@@ -1709,12 +1808,30 @@
       }
     }
   },
+  "pistoia": {
+    "label": "Pistoria (Pistoia)",
+    "wikipedia": "Pistoia",
+    "translations": {
+      "es": {
+        "label": "Pistoria (Pistoya)"
+      }
+    }
+  },
   "place-de-la-concorde": {
     "label": "Place de la Révolution",
     "wikipedia": "Place de la Concorde",
     "translations": {
       "es": {
         "label": "Plaza de la Revolución"
+      }
+    }
+  },
+  "pontus": {
+    "label": "Pontus",
+    "wikipedia": "Pontus (region)",
+    "translations": {
+      "es": {
+        "label": "Ponto"
       }
     }
   },
@@ -1859,6 +1976,15 @@
     "translations": {
       "es": {
         "label": "Foro Romano"
+      }
+    }
+  },
+  "roman-syria": {
+    "label": "Roman Syria",
+    "wikipedia": "Roman Syria",
+    "translations": {
+      "es": {
+        "label": "Siria romana"
       }
     }
   },
@@ -2021,6 +2147,15 @@
     "translations": {
       "es": {
         "label": "Sierra Morena"
+      }
+    }
+  },
+  "silarus": {
+    "label": "Silarus river",
+    "wikipedia": "Sele (river)",
+    "translations": {
+      "es": {
+        "label": "Río Silaro"
       }
     }
   },
@@ -2372,6 +2507,15 @@
     "translations": {
       "es": {
         "label": "Veracruz"
+      }
+    }
+  },
+  "vercelli": {
+    "label": "Vercellae (Vercelli)",
+    "wikipedia": "Vercelli",
+    "translations": {
+      "es": {
+        "label": "Vercelas (Vercelli)"
       }
     }
   },

@@ -256,6 +256,20 @@
       }
     }
   },
+  "cicero": {
+    "label": "Cicero",
+    "color": "#3fbf6a",
+    "description": "Roman orator, statesman and writer (106-43 BCE): his trials, his consulship and the Catilinarian conspiracy, and his speeches and letters.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Cicerón",
+        "description": "Orador, político y escritor romano (106-43 a. C.): sus procesos, su consulado y la conjuración de Catilina, y sus discursos y cartas."
+      }
+    }
+  },
   "counter-reformation": {
     "label": "Counter-Reformation",
     "color": "#90a4ae",
@@ -466,6 +480,20 @@
       "es": {
         "label": "Revolución francesa",
         "description": "La convulsión que puso fin a la monarquía francesa y rehízo el Estado, 1789-1799."
+      }
+    }
+  },
+  "gracchi": {
+    "label": "The Gracchi",
+    "color": "#70347c",
+    "description": "The brothers Tiberius and Gaius Gracchus, tribunes whose land, grain and court reforms of 133-121 BCE ended in their deaths.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Los Gracos",
+        "description": "Los hermanos Tiberio y Cayo Graco, tribunos cuyas reformas agrarias, de granos y judiciales de 133-121 a. C. acabaron con su muerte."
       }
     }
   },
@@ -838,6 +866,20 @@
       }
     }
   },
+  "marius": {
+    "label": "Gaius Marius",
+    "color": "#3030c8",
+    "description": "Roman general and seven-times consul (c. 157-86 BCE): the Jugurthine and Cimbrian wars, the army reforms attributed to him, and his rivalry with Sulla.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Cayo Mario",
+        "description": "General romano y siete veces cónsul (c. 157-86 a. C.): las guerras yugurtina y cimbria, las reformas del ejército que se le atribuyen y su rivalidad con Sila."
+      }
+    }
+  },
   "martin-luther": {
     "label": "Martin Luther",
     "color": "#c44d58",
@@ -877,6 +919,20 @@
       "es": {
         "label": "Dinastía Ming",
         "description": "La dinastía Ming de China (1368-1644), sus emperadores, su corte y sus relaciones exteriores."
+      }
+    }
+  },
+  "mithridatic-wars": {
+    "label": "Mithridatic Wars",
+    "color": "#5cc02a",
+    "description": "The three wars (89-63 BCE) between Rome and Mithridates VI of Pontus for control of Anatolia and Greece.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerras mitridáticas",
+        "description": "Las tres guerras (89-63 a. C.) entre Roma y Mitrídates VI del Ponto por el control de Anatolia y Grecia."
       }
     }
   },
@@ -1021,6 +1077,20 @@
       "es": {
         "label": "Política",
         "description": "Estados, guerras y gobierno."
+      }
+    }
+  },
+  "pompey": {
+    "label": "Pompey",
+    "color": "#58b8ac",
+    "description": "Pompey the Great (106-48 BCE): his commands in Spain, against the pirates and in the East, and his later rivalry with Caesar.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Pompeyo",
+        "description": "Pompeyo Magno (106-48 a. C.): sus mandos en Hispania, contra los piratas y en Oriente, y su posterior rivalidad con César."
       }
     }
   },
@@ -1262,6 +1332,20 @@
       "es": {
         "label": "Independencia hispanoamericana",
         "description": "Las guerras y crisis políticas (h. 1808-1826) por las que los territorios americanos de España se separaron de la Corona española y se convirtieron en Estados independientes."
+      }
+    }
+  },
+  "sulla": {
+    "label": "Sulla",
+    "color": "#c42bb0",
+    "description": "Roman general and dictator (138-78 BCE): his role against Jugurtha and Mithridates, his march on Rome, the proscriptions and his constitutional reforms.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Sila",
+        "description": "General y dictador romano (138-78 a. C.): su papel contra Yugurta y Mitrídates, su marcha sobre Roma, las proscripciones y sus reformas constitucionales."
       }
     }
   },

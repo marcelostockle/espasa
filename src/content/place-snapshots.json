@@ -13,6 +13,20 @@
       "extract": "Las islas Egadas o islas Ágatas es un archipiélago de Italia de pequeñas islas montañosas localizado frente a la costa occidental de la isla de Sicilia, en el límite entre las aguas del mar Mediterráneo y el mar Tirreno."
     }
   },
+  "aix": {
+    "title": "Aix-en-Provence",
+    "url": "https://en.wikipedia.org/wiki/Aix-en-Provence",
+    "extract": "Aix-en-Provence, often known as simply Aix, is a city and commune in southern France, about 30 km (20 mi) north of Marseille. A former capital of Provence, it is the subprefecture of the arrondissement of Aix-en-Provence, in the department of Bouches-du-Rhône, in the region of Provence-Alpes-Côte d'Azur. The population of Aix-en-Provence is approximately 148,000. Its inhabitants are called Aixois or, less commonly, Aquisextains.",
+    "description": "City and commune in Southern France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Aix_en_Provence_-_panoramio_%281%29.jpg/330px-Aix_en_Provence_-_panoramio_%281%29.jpg",
+    "lat": 43.526304,
+    "lon": 5.445429,
+    "es": {
+      "title": "Aix-en-Provence",
+      "url": "https://es.wikipedia.org/wiki/Aix-en-Provence",
+      "extract": "Aix-en-Provence, o Aix en Provenza, es una ciudad francesa, antigua capital de la región histórica de Provenza. Aunque está a unos 30 km al norte de Marsella, se considera parte de su área metropolitana, siendo la tercera aglomeración urbana más grande del país tras París y Lyon. Es una de las subprefecturas del departamento de Bocas del Ródano, en la región de Provenza-Alpes-Costa Azul."
+    }
+  },
   "alcala-de-henares": {
     "title": "Alcalá de Henares",
     "url": "https://en.wikipedia.org/wiki/Alcal%C3%A1_de_Henares",
@@ -180,6 +194,32 @@
       "extract": "Aranjuez es un municipio español en el extremo sur de la Comunidad de Madrid, cabeza del partido judicial del mismo nombre. Se encuentra en un ancho valle, junto a la confluencia de los ríos Tajo y Jarama, bordeado por un conjunto de cerros y mesetas que alcanzan los 630 m de altitud. Además de los cauces naturales, posee una extensa red de canales, acequias y presas históricas que, tradicionalmente, han propiciado los cultivos de regadío, como frutales y hortalizas, entre los que destacan fresas y espárragos. A nivel medioambiental, buena parte del término municipal forma parte de la zona especial de conservación Vegas, cuestas y páramos del sureste de Madrid, en la cual destacan la reserva natural del Carrizal de Villamejor, y la reserva del Regajal-Mar de Ontígola, que incluye el humedal del Mar de Ontígola y la finca El Regajal."
     }
   },
+  "arausio": {
+    "title": "Orange, Vaucluse",
+    "url": "https://en.wikipedia.org/wiki/Orange%2C_Vaucluse",
+    "extract": "Orange is a commune in the Vaucluse department in the Provence-Alpes-Côte d'Azur region in Southeastern France. It is about 21 km (13 mi) north of Avignon, on the departmental border with Gard, which follows the Rhône and also constitutes the regional border with Occitania. Orange is the second-most populated city in Vaucluse, after Avignon.",
+    "description": "Commune in Provence-Alpes-Côte d'Azur, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/ORANGE-centreville_aerienne.jpg/330px-ORANGE-centreville_aerienne.jpg",
+    "lat": 44.1383,
+    "lon": 4.8097,
+    "es": {
+      "title": "Orange (Vaucluse)",
+      "url": "https://es.wikipedia.org/wiki/Orange_(Vaucluse)",
+      "extract": "Orange es una localidad y comuna francesa situada en el departamento de Vaucluse, en la región de Provenza-Alpes-Costa Azul, Francia. Llamada \"Cité des Princes\", fue capital del Principado de Orange. En 2007 su población alcanzaba los 30 025 habitantes, a los que se conoce como \"Orangeois\". Su economía proviene de varios sectores: la viticultura, la industria, los servicios y comercios y el ejército. Queda a unos 21 km al norte de Aviñón. Su superficie alcanza las 7420 hectáreas y tiene una altitud media de 50 m s. n. m."
+    }
+  },
+  "arpino": {
+    "title": "Arpino",
+    "url": "https://en.wikipedia.org/wiki/Arpino",
+    "extract": "Arpino is a comune (municipality) in the province of Frosinone, in the Latin Valley, region of Lazio in central Italy, about 100 km SE of Rome. Its Roman name was Arpinum. The town produced two consuls of the Roman Republic: Gaius Marius and Marcus Tullius Cicero.",
+    "description": "Comune in Lazio, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Arpino_panorama.jpg/330px-Arpino_panorama.jpg",
+    "es": {
+      "title": "Arpino",
+      "url": "https://es.wikipedia.org/wiki/Arpino",
+      "extract": "Arpino es una pequeña ciudad del Lacio; actualmente pertenece a la provincia italiana de Frosinone, en el Valle Latino. Situada a 500 metros de altitud, en la carretera de Roma a Nápoles, a 110 km de la primera y a 130 km de la segunda. 7.736 habitantes .\nSe corresponde con Arpinum, conquistada por los romanos el año 305 a. C., patria chica de Marco Tulio Cicerón, que nació en este lugar el día 3 de enero 106 a. C. y de Cayo Mario, nacido allí en el 157 a. C. Es en esta ciudad donde se realiza el concurso de traducción latina conocido como Certamen ciceronianum, en honor a Cicerón."
+    }
+  },
   "ascoli-satriano": {
     "title": "Ascoli Satriano",
     "url": "https://en.wikipedia.org/wiki/Ascoli_Satriano",
@@ -192,6 +232,32 @@
       "title": "Ascoli Satriano",
       "url": "https://es.wikipedia.org/wiki/Ascoli_Satriano",
       "extract": "Ascoli Satriano es una villa y comune (municipio) de la provincia de Foggia, en la región suroriental italiana de la Apulia."
+    }
+  },
+  "asia-province": {
+    "title": "Asia (Roman province)",
+    "url": "https://en.wikipedia.org/wiki/Asia_(Roman_province)",
+    "extract": "Asia was a Roman province covering most of western Asia Minor, which was created following the Roman Republic's annexation of the Attalid Kingdom in 133 BC. After the establishment of the Roman Empire by Augustus, it was the most prestigious senatorial province and was governed by a proconsul. That arrangement endured until the province was subdivided in the fourth century AD.",
+    "description": "Roman province located in modern-day Turkey and Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Roman_Empire_-_Asia_%28125_AD%29.svg/330px-Roman_Empire_-_Asia_%28125_AD%29.svg.png",
+    "es": {
+      "title": "Asia (provincia romana)",
+      "url": "https://es.wikipedia.org/wiki/Asia_(provincia_romana)",
+      "extract": "Asia fue una división administrativa anexada por la Antigua Roma en tiempos tardíos de la República. Se creó en el año 129 a. C. sobre un territorio ampliamente helenizado y rodeado de Estados creados tras la desaparición del Imperio seléucida, fundamentalmente Bitinia, Paflagonia, el Ponto, Galacia, Capadocia, Comagene y lo que quedaba del Imperio seléucida. Era una provincia senatorial gobernada por un procónsul. Esta situación permaneció inalterable en la reorganización del Imperio romano del año 211."
+    }
+  },
+  "athens": {
+    "title": "Athens",
+    "url": "https://en.wikipedia.org/wiki/Athens",
+    "extract": "Athens is the capital and largest city of Greece. A significant coastal urban area in the Mediterranean, Athens is also the capital of the Attica region and is the southernmost capital on the European mainland. With its urban area's population numbering over 3.6 million, it is the eighth-largest urban area in the European Union (EU). The Municipality of Athens, which constitutes a small administrative unit of the entire urban area, had a population of 643,452 in 2021, within its official limits, and a land area of 38.96 square kilometres. Athens joined the UNESCO Global Network of Learning Cities in 2016.",
+    "description": "Capital and largest city of Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Athens_Acropolis_at_Daybreak.jpg/330px-Athens_Acropolis_at_Daybreak.jpg",
+    "lat": 37.98416667,
+    "lon": 23.72805556,
+    "es": {
+      "title": "Atenas",
+      "url": "https://es.wikipedia.org/wiki/Atenas",
+      "extract": "Atenas es la capital de Grecia y actualmente la ciudad más grande, importante y poblada del país. La población del municipio de Atenas era de 643,452 (2021), y su área metropolitana comprende una población de 3,6 millones. Es el centro principal de la vida económica, cultural y política griega."
     }
   },
   "augsburg": {
@@ -220,6 +286,20 @@
       "title": "Auhausen",
       "url": "https://es.wikipedia.org/wiki/Auhausen",
       "extract": "Auhausen es un municipio situado en el distrito de Danubio-Ries, en el estado federado de Baviera (Alemania), con una población a finales de 2016 de unos 1006 habitantes."
+    }
+  },
+  "aventine": {
+    "title": "Aventine Hill",
+    "url": "https://en.wikipedia.org/wiki/Aventine_Hill",
+    "extract": "The Aventine Hill is one of the Seven Hills on which ancient Rome was built. It belongs to Ripa, the modern twelfth rione, or ward, of Rome.",
+    "description": "One of the seven hills of Rome, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ripa_-_Aventino_-_CavalieriDiMalta.JPG/330px-Ripa_-_Aventino_-_CavalieriDiMalta.JPG",
+    "lat": 41.88333333,
+    "lon": 12.48333333,
+    "es": {
+      "title": "Monte Aventino",
+      "url": "https://es.wikipedia.org/wiki/Monte_Aventino",
+      "extract": "El monte Aventino o colina Aventino es una de las siete colinas sobre las que se construyó la antigua Roma. Debido a su condición de punto estratégico para el control del comercio sobre el río Tíber, esta colina fue completamente fortificada en el año 1000."
     }
   },
   "avignon": {
@@ -769,6 +849,18 @@
       "extract": "La colina Capitolina, también llamada plaza del Capitolio o monte Capitolio, entre el Foro y el Campo Marcio o de Marte, es una de las más famosas y altas de las siete colinas de Roma. La palabra española «capitolio» proviene de la colina Capitolina"
     }
   },
+  "capua": {
+    "title": "Capua",
+    "url": "https://en.wikipedia.org/wiki/Capua",
+    "extract": "Capua is a city and comune in the province of Caserta, in the region of Campania, southern Italy, located on the northeastern edge of the Campanian plain on the Volturno river. The town was founded after the destruction of Ancient Capua, now Santa Maria Capua Vetere.",
+    "description": "UNESCO World Heritage Site",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Capua_%28ponte%29.jpg/330px-Capua_%28ponte%29.jpg",
+    "es": {
+      "title": "Capua",
+      "url": "https://es.wikipedia.org/wiki/Capua",
+      "extract": "Capua es una ciudad de la provincia de Caserta, Italia. En los tiempos antiguos, era la capital regional de la Campania, a 26 km de la actual Nápoles, a orillas del río Volturno. En 2018 contaba con 18 293 habitantes."
+    }
+  },
   "carthage": {
     "title": "Carthage",
     "url": "https://en.wikipedia.org/wiki/Carthage",
@@ -863,6 +955,20 @@
       "title": "Cholula de Rivadavia",
       "url": "https://es.wikipedia.org/wiki/Cholula_de_Rivadavia",
       "extract": "Cholula de Rivadavia, también llamada San Pedro Cholula —nombre del municipio —, es una ciudad del estado mexicano de Puebla, que forma parte de la Zona Metropolitana de Puebla y se encuentra prácticamente conurbada con la capital del estado, la ciudad de Puebla de Zaragoza; se localiza en el asentamiento de la antigua ciudad prehispánica de Cholula, de la que recibe el nombre. Es cabecera del municipio de San Pedro Cholula."
+    }
+  },
+  "colline-gate": {
+    "title": "Porta Collina",
+    "url": "https://en.wikipedia.org/wiki/Porta_Collina",
+    "extract": "The Colline Gate was a landmark in ancient Rome, supposed to have been built by Servius Tullius, semi-legendary king of Rome 578–535 BC. The gate stood at the north end of the Servian Wall, and past it were two important streets, the Via Salaria and Via Nomentana. Within this area the Alta Semita linked the Quirinal with the Porta Carmentalis. Several temples were located near the gate, including temples of Venus Erycina and Fortuna. To a person facing the gate in the 4th century AD, the Gardens of Sallust would have been on the left, with the Baths of Diocletian on the right.",
+    "description": "Landmark in ancient Rome",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/The_student%27s_manual_of_ancient_geography%2C_based_upon_the_Dictionary_of_Greek_and_Roman_geography_%281861%29_%2814768984432%29.jpg/330px-The_student%27s_manual_of_ancient_geography%2C_based_upon_the_Dictionary_of_Greek_and_Roman_geography_%281861%29_%2814768984432%29.jpg",
+    "lat": 41.90733889,
+    "lon": 12.49871389,
+    "es": {
+      "title": "Puerta Collina",
+      "url": "https://es.wikipedia.org/wiki/Puerta_Collina",
+      "extract": "La Puerta Collina fue un monumento emblemático de la antigua Roma, supuestamente construido por Servio Tulio, semi-legendario rey de Roma. 578-535 A.C. La puerta se encontraba en el extremo norte de la Muralla Serviana, y junto a ella había dos calles importantes, la Vía Salaria y la Vía Nomentana. Dentro de esta zona, la Alta Semita unía la Quirinal con la Porta Carmentalis. Cerca de la puerta se encontraban varios templos, entre ellos templos de Venus Erycina and Fortuna. Para una persona que estuviera frente a la puerta en el siglo III d. C., los Jardines de Salustio habrían estado a la izquierda, con las Termas de Diocleciano a la derecha."
     }
   },
   "cologne": {
@@ -2402,6 +2508,18 @@
       "extract": "Numancia es el nombre de una desaparecida población celtíbera situada sobre el Cerro de la Muela, en Garray, provincia de Soria, en Castilla y León (España), a siete kilómetros al norte de la actual ciudad de Soria. La resistencia de sus habitantes al asedio realizado por las tropas de la república de Roma bajo las órdenes de Publio Cornelio Escipión Emiliano en el verano del año 133 a. C., que prefirieron suicidarse antes que rendirse a sus atacantes, ha pasado a la historia como ejemplo de resistencia, acuñándose la expresión «resistencia numantina»."
     }
   },
+  "numidia": {
+    "title": "Numidia",
+    "url": "https://en.wikipedia.org/wiki/Numidia",
+    "extract": "Numidia was the ancient Libyan kingdom of the indigenous Numidian Berbers in Northwest Africa during the Hellenistic period. Initially comprising the northern part of what is now Algeria, Numidia expanded into western modern Tunisia and Libya. The polity was originally divided between the Massylii state in the east, with its capital at Cirta, and the Masaesyli state in the west, with its capital at Siga. During the Second Punic War, Masinissa, king of the Massylii, defeated Syphax of the Masaesyli to unify Numidia into the first unified Berber state in North Africa. Initially an independent state and an ally of Rome, the kingdom later alternated between being a Roman province and a Roman client state.",
+    "description": "Kingdom in North Africa, 202 to 25 BC",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Monnaie_-_Bronze%2C_Incertain%2C_Numidie%2C_Massinissa_-_btv1b84804368_%282_of_2%29.jpg/330px-Monnaie_-_Bronze%2C_Incertain%2C_Numidie%2C_Massinissa_-_btv1b84804368_%282_of_2%29.jpg",
+    "es": {
+      "title": "Reino de Numidia",
+      "url": "https://es.wikipedia.org/wiki/Reino_de_Numidia",
+      "extract": "El Reino de Numidia (300 a. C..-25 a. C.) fue un estado de la antigüedad constituido tras la segunda guerra púnica. El reino tenía una cultura de origen púnico, se consolidó como un gran reino durante el reinado de Masinisa. Ubicado en el norte de África, en el área de los modernos países de Argelia y Marruecos, Libia, con capital en Cirta. Sus habitantes eran nativos de etnia bereber y libios, colonos púnicos y mestizos estrechamente vinculados con los mauritanos."
+    }
+  },
   "nuremberg": {
     "title": "Nuremberg",
     "url": "https://en.wikipedia.org/wiki/Nuremberg",
@@ -2428,6 +2546,20 @@
       "title": "Oppenheim (Alemania)",
       "url": "https://es.wikipedia.org/wiki/Oppenheim_(Alemania)",
       "extract": "Oppenheim es una ciudad alemana ubicada en la orilla oeste del Rhin, en el estado federado de Renania-Palatinado, distrito de Maguncia-Bingen. Constituye un importante centro vinícola de la región."
+    }
+  },
+  "osca": {
+    "title": "Huesca",
+    "url": "https://en.wikipedia.org/wiki/Huesca",
+    "extract": "Huesca is a city in north-eastern Spain, within the autonomous community of Aragon. It was the capital of the Kingdom of Aragon between 1096 and 1118. It is also the capital of the Spanish province of the same name and of the comarca of Hoya de Huesca. In 2009, it had a population of 52,059, almost a quarter of the total population of the province. The city is one of the smallest provincial capitals in Spain.",
+    "description": "Municipality in Aragon, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bell_tower_of_the_cathedral_of_Huesca_03.jpg/330px-Bell_tower_of_the_cathedral_of_Huesca_03.jpg",
+    "lat": 42.13333333,
+    "lon": -0.41666667,
+    "es": {
+      "title": "Huesca",
+      "url": "https://es.wikipedia.org/wiki/Huesca",
+      "extract": "Huesca es una ciudad y municipio español, capital de la provincia homónima y de la comarca de la Hoya de Huesca, situada al norte de la comunidad autónoma de Aragón. Cuenta con una población de 55 454 habitantes, repartidos en una superficie de 161,03 km², con lo que es una de las capitales de provincia con menor población en España, en ella vive casi un cuarto de la población de la provincia. Celebra sus fiestas mayores en honor a San Lorenzo, patrón de la ciudad, del 9 al 15 de agosto."
     }
   },
   "osnabruck": {
@@ -2598,6 +2730,20 @@
       "extract": "Pavía es una ciudad italiana de la región de Lombardía, capital de la provincia homónima. Tiene una población de 71 000 habitantes. El río Ticino cruza la ciudad, antes de confluir con el río Po. En el período romano se llamó Ticinum. La ciudad fue la capital del Reino Ostrogodo del 540 al 553, del Reino Lombardo de 572 a 774, del Reino de Italia de 774 a 1024 y sede de la corte Visconti de 1365 a 1413."
     }
   },
+  "pergamon": {
+    "title": "Pergamon",
+    "url": "https://en.wikipedia.org/wiki/Pergamon",
+    "extract": "Pergamon or Pergamum, also referred to by its modern Greek form Pergamos (Πέργαμος), was a rich and powerful ancient Greek city in Aeolis. It is located 26 kilometres (16 mi) from the modern coastline of the Aegean Sea on a promontory on the north side of the river Caicus and northwest of the modern city of Bergama, Turkey.",
+    "description": "Ancient Greek city in Anatolia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Acropolis_-_Bergama_%28Pergamon%29_-_Turkey_-_10_%285747249729%29.jpg/330px-Acropolis_-_Bergama_%28Pergamon%29_-_Turkey_-_10_%285747249729%29.jpg",
+    "lat": 39.1325,
+    "lon": 27.18416667,
+    "es": {
+      "title": "Pérgamo",
+      "url": "https://es.wikipedia.org/wiki/P%C3%A9rgamo",
+      "extract": "Pérgamo fue una ciudad de la antigua Grecia en Misia. Localizada al noroeste de Asia Menor, a 30 km de la costa del mar Egeo y frente a la isla de Lesbos, en la región llamada Eólida. Sus ruinas rodean a la actual ciudad de Bergama, construida sobre los cimientos de lo que fue la parte baja de Pérgamo. Fue sede de la biblioteca más importante de la antigüedad, después de la de Alejandría, y lugar donde se perfeccionó la técnica de elaboración del pergamino."
+    }
+  },
   "pisco": {
     "title": "Pisco, Peru",
     "url": "https://en.wikipedia.org/wiki/Pisco%2C_Peru",
@@ -2612,6 +2758,20 @@
       "extract": "Pisco es una ciudad peruana, capital del distrito y la provincia homónimos en el departamento de Ica. Está situada a 230 km al sudeste de Lima a orillas del océano Pacífico, al sur de la desembocadura del río Pisco. Tenía una población estimada de 104 656 habitantes en 2015."
     }
   },
+  "pistoia": {
+    "title": "Pistoia",
+    "url": "https://en.wikipedia.org/wiki/Pistoia",
+    "extract": "Pistoia is a city and comune in the Italian region of Tuscany, the capital of a province of the same name, located about 30 kilometres (19 mi) north-west of Florence and is crossed by the Ombrone Pistoiese, a tributary of the River Arno. It is a typical Italian medieval city, and it attracts many tourists, especially in the summer. The city is famous throughout Europe for its plant nurseries.",
+    "description": "Comune in Tuscany, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Pistoia_Cathedral_facade_and_bell_tower_01.jpg/330px-Pistoia_Cathedral_facade_and_bell_tower_01.jpg",
+    "lat": 43.93333333,
+    "lon": 10.91666667,
+    "es": {
+      "title": "Pistoya",
+      "url": "https://es.wikipedia.org/wiki/Pistoya",
+      "extract": "Pistoya es un municipio italiano, capital de la provincia de Pistoya, en la región de la Toscana en la Italia central. Cuenta con una población de 89 493 habitantes."
+    }
+  },
   "place-de-la-concorde": {
     "title": "Place de la Concorde",
     "url": "https://en.wikipedia.org/wiki/Place_de_la_Concorde",
@@ -2624,6 +2784,20 @@
       "title": "Plaza de la Concordia",
       "url": "https://es.wikipedia.org/wiki/Plaza_de_la_Concordia",
       "extract": "La plaza de la Concordia está situada al comienzo de la avenida de los Campos Elíseos en el VIII Distrito de París, en Francia. Se trata de la segunda más grande de Francia después de la plaza de Quinconces, en Burdeos."
+    }
+  },
+  "pontus": {
+    "title": "Pontus (region)",
+    "url": "https://en.wikipedia.org/wiki/Pontus_(region)",
+    "extract": "Pontus or Pontos is a region within Anatolia on the southern coast of the Black Sea, located in the modern-day eastern Black Sea region of Turkey, in West Asia. The name was applied to the coastal region and its mountainous hinterland by the Greeks who colonized the area in the Archaic period and derived from the Greek name of the Black Sea: Εύξεινος Πόντος, 'Hospitable Sea', or simply Pontos as early as the Aeschylean Persians and Herodotus' Histories.",
+    "description": "Region in the eastern Black Sea region of Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pont_localisation.png/330px-Pont_localisation.png",
+    "lat": 40.6,
+    "lon": 38,
+    "es": {
+      "title": "Ponto",
+      "url": "https://es.wikipedia.org/wiki/Ponto",
+      "extract": "Ponto era el nombre dado en la antigüedad a las vastas extensiones de tierra del noreste de Asia Menor que bordeaban el Ponto Euxino, llamado con frecuencia por los griegos simplemente Pontos, que sería la forma corrompida del nombre original Pontôi. La importancia real de este nombre puramente territorial varió enormemente a lo largo del tiempo. Los griegos lo aplicaron con ligereza a diversas partes de las costas del Euxino, hasta que con la conformación del Reino del Ponto el término se relacionó directamente con la zona ya mencionada, e incluso hasta nuestros días, el nombre perdura en el griego moderno, a pesar de que la zona hoy sea parte del territorio de Turquía. La primera fuente escrita que usa esta denominación es la Anábasis de Jenofonte."
     }
   },
   "port-au-prince": {
@@ -2843,6 +3017,20 @@
       "title": "Foro Romano",
       "url": "https://es.wikipedia.org/wiki/Foro_Romano",
       "extract": "El Foro Romano, también conocido por su nombre en latín, Forum Romanum, es un foro rectangular situado en el centro de la ciudad de Roma y rodeado por las ruinas de varios edificios antiguos. Los ciudadanos de la ciudad antigua se referían a este espacio, que originalmente era un mercado, como el Forum Magnum, o simplemente como el Forum."
+    }
+  },
+  "roman-syria": {
+    "title": "Roman Syria",
+    "url": "https://en.wikipedia.org/wiki/Roman_Syria",
+    "extract": "Roman Syria was an early Roman province annexed to the Roman Republic in 64 BCE by Pompey in the Third Mithridatic War following the defeat of the King of Armenia, Tigranes the Great, who had become the protector of the Seleucid Empire. The last few centuries of Roman Syria, before the region's incorporation into the Rashidun Caliphate, are called Late antique Syria.",
+    "description": "Roman province located in modern-day Turkey, Syria, and Lebanon",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Roman_Empire_-_Syria_%28125_AD%29.svg/330px-Roman_Empire_-_Syria_%28125_AD%29.svg.png",
+    "lat": 36.2,
+    "lon": 36.15,
+    "es": {
+      "title": "Siria (provincia romana)",
+      "url": "https://es.wikipedia.org/wiki/Siria_(provincia_romana)",
+      "extract": "La provincia romana de Siria fue una provincia romana situada en la parte oriental de los territorios imperiales y con capital en Antioquía. Constituyó una de las provincias más importantes del Imperio."
     }
   },
   "rome": {
@@ -3085,6 +3273,20 @@
       "title": "Sierra Morena",
       "url": "https://es.wikipedia.org/wiki/Sierra_Morena",
       "extract": "Sierra Morena es una cordillera del sur de la península ibérica, que separa la meseta Central de la depresión del Guadalquivir. Geológicamente es el borde de la meseta fracturado y levantado por el empuje de las fuerzas alpinas sobre el zócalo herciniano de la Meseta. En esta predominan las fallas, a veces una falla única, otras veces un sistema de fallas escalonadas. Sierra Morena sería un horst limitado por fallas, o en otros casos limitada por pliegues muy estirados formando pliegues-fallas."
+    }
+  },
+  "silarus": {
+    "title": "Sele (river)",
+    "url": "https://en.wikipedia.org/wiki/Sele_(river)",
+    "extract": "The Sele is a river in southwestern Italy. Originating from the Monti Picentini in Caposele, it flows through the region of Campania, in the provinces of Salerno and Avellino. Its mouth is in the Gulf of Salerno, on the Tyrrhenian Sea, at the borders between the municipalities of Eboli and Capaccio, at the beginning point of Cilentan Coast.",
+    "description": "River in Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Sele_river.jpg/330px-Sele_river.jpg",
+    "lat": 40.4821,
+    "lon": 14.9427,
+    "es": {
+      "title": "Río Sele",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Sele",
+      "extract": "El Sele es un importante río de la región italiana de la Campania, de 64 km de longitud, el segundo de la región y del sur de Italia por volumen medio de aguas después del Volturno, y que desemboca en el Mar Tirreno"
     }
   },
   "sistine-chapel": {
@@ -3624,6 +3826,20 @@
       "title": "Veracruz",
       "url": "https://es.wikipedia.org/wiki/Veracruz",
       "extract": "Heroica Veracruz es una ciudad mexicana, cabecera del municipio de Veracruz, situada en el Estado de Veracruz. Forma parte de la zona metropolitana de Veracruz. Tiene el segundo puerto marítimo comercial más importante de México. En 2020 contaba con una población de 405 953 habitantes."
+    }
+  },
+  "vercelli": {
+    "title": "Vercelli",
+    "url": "https://en.wikipedia.org/wiki/Vercelli",
+    "extract": "Vercelli is a city and comune (municipality) of 46,552 inhabitants in the Province of Vercelli, Piedmont, northern Italy. One of the oldest urban sites in northern Italy, it was founded, according to most historians, around 600 BC.",
+    "description": "Comune in Piedmont, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Vercelli_PiazzaCavour.jpg/330px-Vercelli_PiazzaCavour.jpg",
+    "lat": 45.32555556,
+    "lon": 8.42305556,
+    "es": {
+      "title": "Vercelli",
+      "url": "https://es.wikipedia.org/wiki/Vercelli",
+      "extract": "Vercelli es una ciudad de Italia en la región del Piamonte, capital de la provincia de Vercelli. Tiene unos 46 000 habitantes y está situada en la orilla derecha del río Sesia. Se encuentra en medio de una gran llanura, entre Milán y Turín, y entre Suiza y el mar Ligur, rodeada de campos de arroz, cultivo del que es uno de los mayores productores europeos."
     }
   },
   "verdun": {
