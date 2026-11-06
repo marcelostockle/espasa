@@ -89,6 +89,15 @@
       }
     }
   },
+  "amphipolis": {
+    "label": "Amphipolis",
+    "wikipedia": "Amphipolis",
+    "translations": {
+      "es": {
+        "label": "Anfípolis"
+      }
+    }
+  },
   "amsterdam": {
     "label": "Amsterdam",
     "wikipedia": "Amsterdam",
@@ -665,6 +674,15 @@
       }
     }
   },
+  "cnidus": {
+    "label": "Cnidus",
+    "wikipedia": "Knidos",
+    "translations": {
+      "es": {
+        "label": "Cnido"
+      }
+    }
+  },
   "colline-gate": {
     "label": "Colline Gate",
     "wikipedia": "Colline Gate",
@@ -833,6 +851,15 @@
     "translations": {
       "es": {
         "label": "Dali"
+      }
+    }
+  },
+  "decelea": {
+    "label": "Decelea",
+    "wikipedia": "Dekeleia",
+    "translations": {
+      "es": {
+        "label": "Decelia"
       }
     }
   },
@@ -1592,6 +1619,33 @@
       }
     }
   },
+  "megalopolis": {
+    "label": "Megalopolis",
+    "wikipedia": "Megalopolis, Greece",
+    "translations": {
+      "es": {
+        "label": "Megalópolis"
+      }
+    }
+  },
+  "melos": {
+    "label": "Melos (Milos)",
+    "wikipedia": "Milos",
+    "translations": {
+      "es": {
+        "label": "Melos (Milo)"
+      }
+    }
+  },
+  "messene": {
+    "label": "Messene",
+    "wikipedia": "Messene",
+    "translations": {
+      "es": {
+        "label": "Mesene"
+      }
+    }
+  },
   "messenia": {
     "label": "Messenia",
     "wikipedia": "Messenia",
@@ -1988,6 +2042,15 @@
       }
     }
   },
+  "parthenon": {
+    "label": "Parthenon",
+    "wikipedia": "Parthenon",
+    "translations": {
+      "es": {
+        "label": "Partenón"
+      }
+    }
+  },
   "pavia": {
     "label": "Pavia",
     "wikipedia": "Pavia",
@@ -2168,6 +2231,15 @@
       }
     }
   },
+  "pylos": {
+    "label": "Pylos",
+    "wikipedia": "Pylos",
+    "translations": {
+      "es": {
+        "label": "Pilos"
+      }
+    }
+  },
   "pyrgi": {
     "label": "Pyrgi",
     "wikipedia": "Pyrgi",
@@ -2345,6 +2417,15 @@
     "translations": {
       "es": {
         "label": "Samnio"
+      }
+    }
+  },
+  "samos": {
+    "label": "Samos",
+    "wikipedia": "Samos",
+    "translations": {
+      "es": {
+        "label": "Samos"
       }
     }
   },
@@ -2660,6 +2741,15 @@
     "translations": {
       "es": {
         "label": "La Haya"
+      }
+    }
+  },
+  "thebes": {
+    "label": "Thebes",
+    "wikipedia": "Thebes, Greece",
+    "translations": {
+      "es": {
+        "label": "Tebas"
       }
     }
   },

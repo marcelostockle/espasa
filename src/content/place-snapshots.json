@@ -139,6 +139,20 @@
       "extract": "Los Alpes son una cadena de montañas situada en la Europa Central. Su cumbre más alta es el Mont Blanc, con 4810 m s. n. m. Alrededor de los Alpes, favorecidos por ríos importantes de caudal uniforme y ricas tierras de cultivo, se ubicaron desde la prehistoria diversos pueblos, como los celtas, los lingones, leucos, insubrios, helvecios y, posteriormente, germánicos en el noreste y pueblos itálicos en el sur, después de la conquista romana de la Galia Cisalpina. Actualmente viven unos 14 millones de personas en la región de los Alpes."
     }
   },
+  "amphipolis": {
+    "title": "Amphipolis",
+    "url": "https://en.wikipedia.org/wiki/Amphipolis",
+    "extract": "Amphipolis was an important ancient Greek polis (city), and later a Roman city, whose large remains can still be seen. It gave its name to the modern municipality of Amphipoli, in the Serres regional unit of Northern Greece.",
+    "description": "Archeological site in Macedonia, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Kasta_tumulus_and_Lion_of_Amphipolis_location_map_en.jpg/330px-Kasta_tumulus_and_Lion_of_Amphipolis_location_map_en.jpg",
+    "lat": 40.81833333,
+    "lon": 23.84,
+    "es": {
+      "title": "Anfípolis",
+      "url": "https://es.wikipedia.org/wiki/Anf%C3%ADpolis",
+      "extract": "40.82, 23.85"
+    }
+  },
   "amsterdam": {
     "title": "Amsterdam",
     "url": "https://en.wikipedia.org/wiki/Amsterdam",
@@ -1013,6 +1027,20 @@
       "extract": "Cholula de Rivadavia, también llamada San Pedro Cholula —nombre del municipio —, es una ciudad del estado mexicano de Puebla, que forma parte de la Zona Metropolitana de Puebla y se encuentra prácticamente conurbada con la capital del estado, la ciudad de Puebla de Zaragoza; se localiza en el asentamiento de la antigua ciudad prehispánica de Cholula, de la que recibe el nombre. Es cabecera del municipio de San Pedro Cholula."
     }
   },
+  "cnidus": {
+    "title": "Knidos",
+    "url": "https://en.wikipedia.org/wiki/Knidos",
+    "extract": "Knidos or Cnidus was a Greek city in ancient Caria and part of the Dorian Hexapolis, in south-western Asia Minor, modern-day Turkey. It was situated on the Datça peninsula, which forms the southern side of the Sinus Ceramicus, now known as Gulf of Gökova. By the 4th century BC, Knidos was located at the site of modern Tekir, opposite Triopion Island. But earlier, it was probably at the site of modern Datça.",
+    "description": "Ancient Greek peninsular city of Caria, Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Knidos-H%C3%A4fen.jpg/330px-Knidos-H%C3%A4fen.jpg",
+    "lat": 36.68583333,
+    "lon": 27.375,
+    "es": {
+      "title": "Cnido",
+      "url": "https://es.wikipedia.org/wiki/Cnido",
+      "extract": "Cnido o Gnido fue una ciudad griega de Asia Menor situada en la antigua región de Caria."
+    }
+  },
   "colline-gate": {
     "title": "Porta Collina",
     "url": "https://en.wikipedia.org/wiki/Porta_Collina",
@@ -1275,6 +1303,19 @@
       "title": "Ciudad de Dali",
       "url": "https://es.wikipedia.org/wiki/Ciudad_de_Dali",
       "extract": "Dali es un municipio bajo la jurisdicción de la ciudad-prefectura de Dali en la provincia de Yunnan, al sur de la República Popular China. Está ubicada al oeste de las montañas Cangshan y al este del Lago Erhai. Es un importante asentamiento de las minorías bai y yi aunque también hay grupos de tibetanos, hui, han y naxi. Su área es de 1739 km² y su población total para 2020 superó los 770 mil habitantes."
+    }
+  },
+  "decelea": {
+    "title": "Decelea",
+    "url": "https://en.wikipedia.org/wiki/Decelea",
+    "extract": "Decelea, was a deme and ancient village in northern Attica serving as a trade route connecting Euboea with Athens, Greece. It was situated near the entrance of the eastern pass across Mount Parnes, which leads from the northeastern part of the Athenian plain to Oropus, and from thence both to Tanagra on the one hand, and to Delium and Chalcis on the other. It was situated about 120 stadia from Athens, and the same distance from the frontiers of Boeotia. It was visible from Athens and from its heights the ships entering the harbour of Piraeus were visible as well.",
+    "description": "Ancient Athenian administrative unit",
+    "lat": 38.11,
+    "lon": 23.7786,
+    "es": {
+      "title": "Decelia",
+      "url": "https://es.wikipedia.org/wiki/Decelia",
+      "extract": "Decelia —actualmente, en griego moderno: Dekeleia o Dekelia, Deceleia o Decelia— fue un antiguo demo de Atenas, fuente de suministros e importante bastión para la defensa de la región ática."
     }
   },
   "delft": {
@@ -2427,6 +2468,48 @@
       "extract": "Medellín es un municipio y localidad española de la provincia de Badajoz, en la comunidad autónoma de Extremadura. De fundación romana, cabecera del condado homónimo durante la Edad Media y cuna de Hernán Cortés."
     }
   },
+  "megalopolis": {
+    "title": "Megalopolis, Greece",
+    "url": "https://en.wikipedia.org/wiki/Megalopolis%2C_Greece",
+    "extract": "Megalopoli is a town in the southwestern part of the regional unit of Arcadia, southern Greece. It is located on the same site as ancient Megalopolis. When it was founded in 371 BC, it was the first large urbanization in rustic Arcadia. Its theatre had a capacity of 20,000 visitors, making it one of the largest ancient Greek theatres.",
+    "description": "Town in Arcadia, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Megalopoli.jpg/330px-Megalopoli.jpg",
+    "lat": 37.4,
+    "lon": 22.13333333,
+    "es": {
+      "title": "Megalópolis (Grecia)",
+      "url": "https://es.wikipedia.org/wiki/Megal%C3%B3polis_(Grecia)",
+      "extract": "Megalópolis es un municipio y una población de Grecia situado en Arcadia, en el Peloponeso, en el valle del Alfeo. Su nombre quiere decir «la gran ciudad» como la denominó Pausanias. En el periodo de dominación del Imperio otomano se llamaba Sinano (Σινάνο), hasta que recuperó el nombre de Megalópolis en 1836."
+    }
+  },
+  "melos": {
+    "title": "Milos",
+    "url": "https://en.wikipedia.org/wiki/Milos",
+    "extract": "Milos or Melos is a volcanic Greek island in the Aegean Sea, just north of the Sea of Crete. It is the southwestern-most of the Cyclades islands.",
+    "description": "Island in Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Chora_Milos.jpg/330px-Chora_Milos.jpg",
+    "lat": 36.6875,
+    "lon": 24.4325,
+    "es": {
+      "title": "Milo",
+      "url": "https://es.wikipedia.org/wiki/Milo",
+      "extract": "Milo, Milos o Melos es una pequeña isla volcánica griega del mar Egeo, perteneciente al archipiélago de las Cícladas. En sus costas se muestran interesantes fenómenos geológicos y hay restos arqueológicos de las etapas minoica, helenística, romana y bizantina. Está menos afectada por el turismo de masas que otras islas vecinas y su nombre es muy conocido porque en ella se encontró la famosa Venus de Milo."
+    }
+  },
+  "messene": {
+    "title": "Messene",
+    "url": "https://en.wikipedia.org/wiki/Messene",
+    "extract": "Messene, officially Ancient Messene, is a local community within the regional unit of Messenia in the region (perifereia) of Peloponnese.",
+    "description": "Community in Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Messeneasklepeion.jpg/330px-Messeneasklepeion.jpg",
+    "lat": 37.175,
+    "lon": 21.92,
+    "es": {
+      "title": "Mesene",
+      "url": "https://es.wikipedia.org/wiki/Mesene",
+      "extract": "Mesene fue una antigua ciudad griega, ubicada en el Peloponeso, y que llegó a ser capital de la región de Mesenia."
+    }
+  },
   "messenia": {
     "title": "Messenia",
     "url": "https://en.wikipedia.org/wiki/Messenia",
@@ -3034,6 +3117,20 @@
       "extract": "París es la capital de Francia y de la región de Isla de Francia. Es la ciudad más poblada del país y el único departamento unicomunal de Francia. Su área metropolitana es la más grande en población de toda la Unión Europea."
     }
   },
+  "parthenon": {
+    "title": "Parthenon",
+    "url": "https://en.wikipedia.org/wiki/Parthenon",
+    "extract": "The Parthenon is a former temple on the Athenian Acropolis, Greece, that was dedicated to the goddess Athena. Its decorative sculptures are considered some of the high points of classical Greek art, and the Parthenon is considered an enduring symbol of ancient Greece, Western civilisation, and democracy.",
+    "description": "Temple on the Athenian Acropolis, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/330px-The_Parthenon_in_Athens.jpg",
+    "lat": 37.9715,
+    "lon": 23.7266,
+    "es": {
+      "title": "Partenón",
+      "url": "https://es.wikipedia.org/wiki/Parten%C3%B3n",
+      "extract": "El Partenón es un templo consagrado a la protectora de Atenas, Atenea Pártenos, y uno de los principales templos dóricos octóstilos, algo poco frecuente, hecho de mármol pentélico y cubierto con tejas de mármol de Paros, que se conservan. Fue construido entre los años 447 a. C. y 438 a. C. en la Acrópolis de Atenas. Es el templo griego más conocido del mundo, así como uno de los símbolos indiscutibles de Atenas y de Grecia."
+    }
+  },
   "pavia": {
     "title": "Pavia",
     "url": "https://en.wikipedia.org/wiki/Pavia",
@@ -3307,6 +3404,20 @@
       "title": "Pidna",
       "url": "https://es.wikipedia.org/wiki/Pidna",
       "extract": "Pidna fue una ciudad de la costa de Pieria en el golfo Termaico.\nAparece en el siglo V a. C. en posesión de Alejandro I de Macedonia (498–458 a. C.), si bien la ciudad, que era un establecimiento griego, conservaba la autonomía. Los atenienses, en 432 a. C. asediaron Pidna pero, debido a la necesidad de sumar fuerzas para el asedio de Potidea, llegaron a un acuerdo con Pérdicas II de Macedonia, hijo de Alejandro I, y se retiraron de Macedonia. Se cree que la facción promacedonia estaba en el gobierno y la facción proateniense había reclamado la ayuda de Atenas."
+    }
+  },
+  "pylos": {
+    "title": "Pylos",
+    "url": "https://en.wikipedia.org/wiki/Pylos",
+    "extract": "Pylos, historically also known as Navarino, is a town and a former municipality in Messenia, Peloponnese, Greece. Since the 2011 local government reform, it has been part of the municipality Pylos-Nestoras, of which it is the seat and a municipal unit. It was the capital of the former Pylia Province. It is the main harbour on the Bay of Navarino. Nearby villages include Gialova, Pyla, Elaiofyto, Schinolakka, and Palaionero. The town of Pylos has 2,568 inhabitants, the municipal unit of Pylos 4,559 (2021). The municipal unit has an area of 143.911 km2.",
+    "description": "Town in Messenia, Peloponnese, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pylos-sfaktiria.JPG/330px-Pylos-sfaktiria.JPG",
+    "lat": 36.91388889,
+    "lon": 21.69638889,
+    "es": {
+      "title": "Pilos",
+      "url": "https://es.wikipedia.org/wiki/Pilos",
+      "extract": "Pilos es el nombre de una bahía, de una unidad municipal y de una ciudad ubicadas en la costa sudoeste del Peloponeso, pertinente a la unidad periférica de Mesenia y al municipio de Pilos-Néstor en el sur de Grecia. En el año 2021, la población del núcleo urbano era 2568 habitantes, mientras la unidad municipal tenía 4559."
     }
   },
   "pyrgi": {
@@ -3587,6 +3698,20 @@
       "title": "Samnio",
       "url": "https://es.wikipedia.org/wiki/Samnio",
       "extract": "Samnio era una región histórico-geográfica del sur de los Apeninos, en la Italia centro-meridional, que controlaron los samnitas, un grupo de tribus sabelias de 600 a 290 a. C."
+    }
+  },
+  "samos": {
+    "title": "Samos",
+    "url": "https://en.wikipedia.org/wiki/Samos",
+    "extract": "Samos is a Greek island in the eastern Aegean Sea, south of Chios, north of Patmos and the Dodecanese archipelago, and off the coast of western Turkey, from which it is separated by the 1.6-kilometre-wide (1.0 mi) Mycale Strait. It is also a separate regional unit of the North Aegean region.",
+    "description": "Greek island in the eastern Aegean Sea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Samos_049_2009.JPG/330px-Samos_049_2009.JPG",
+    "lat": 37.75,
+    "lon": 26.83333333,
+    "es": {
+      "title": "Samos",
+      "url": "https://es.wikipedia.org/wiki/Samos",
+      "extract": "Samos es una isla de Grecia perteneciente al grupo de las islas Espóradas Orientales. Está localizada en aguas del mar Egeo, muy próxima a la costa de Asia menor, al sur de la isla de Quíos y al norte de la isla de Patmos y del archipiélago del Dodecaneso. En 2011 contaba con una población de 32 977 habitantes."
     }
   },
   "santiago-de-los-caballeros": {
@@ -4060,6 +4185,20 @@
       "title": "La Haya",
       "url": "https://es.wikipedia.org/wiki/La_Haya",
       "extract": "La Haya es una ciudad de los Países Bajos, capital administrativa del país y sede de la realeza neerlandesa. Es conocida mundialmente por albergar las sedes del Tribunal Internacional de Justicia y la Corte Penal Internacional."
+    }
+  },
+  "thebes": {
+    "title": "Thebes, Greece",
+    "url": "https://en.wikipedia.org/wiki/Thebes%2C_Greece",
+    "extract": "Thebes is a city in Boeotia, Central Greece, and one of the oldest continuously inhabited cities in the world. It is the largest city in Boeotia and a major center for the region.",
+    "description": "City in Boeotia, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Vue_Nord_Ville_-_Th%C3%A8bes_%28GR03%29_-_2022-03-21_-_3.jpg/330px-Vue_Nord_Ville_-_Th%C3%A8bes_%28GR03%29_-_2022-03-21_-_3.jpg",
+    "lat": 38.32083333,
+    "lon": 23.31777778,
+    "es": {
+      "title": "Tebas (Grecia)",
+      "url": "https://es.wikipedia.org/wiki/Tebas_(Grecia)",
+      "extract": "Tebas es una ciudad de Grecia, situada al norte de la cordillera de Citerón, que separa la región de Beocia de Ática. Está situada a 48 km al noroeste de Atenas."
     }
   },
   "thermopylae": {

@@ -1177,6 +1177,20 @@
       }
     }
   },
+  "pericles": {
+    "label": "Pericles",
+    "color": "#dc5aaa",
+    "description": "The Athenian statesman Pericles (c. 495-429 BCE): his democratic reforms, the Parthenon and the Funeral Oration, and his leadership into the Peloponnesian War.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Pericles",
+        "description": "El estadista ateniense Pericles (c. 495-429 a. C.): sus reformas democráticas, el Partenón y la oración fúnebre, y su liderazgo hasta el inicio de la guerra del Peloponeso."
+      }
+    }
+  },
   "persian-wars": {
     "label": "Persian Wars",
     "color": "#be7896",
@@ -1446,6 +1460,20 @@
       }
     }
   },
+  "socrates": {
+    "label": "Socrates",
+    "color": "#8cd21e",
+    "description": "The Athenian philosopher Socrates (c. 470-399 BCE): his life and method, his place in Athenian politics, and his trial and death.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Sócrates",
+        "description": "El filósofo ateniense Sócrates (c. 470-399 a. C.): su vida y su método, su lugar en la política ateniense, y su juicio y muerte."
+      }
+    }
+  },
   "spain": {
     "label": "Spain",
     "color": "#00695c",
@@ -1557,6 +1585,20 @@
       "es": {
         "label": "Tecnología",
         "description": "Invenciones e ingeniería."
+      }
+    }
+  },
+  "thebes": {
+    "label": "Thebes",
+    "color": "#961e6e",
+    "description": "The Boeotian city of Thebes: its rivalry with Sparta and Athens, and the Theban hegemony of 371-362 BCE under Epaminondas and Pelopidas.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Tebas",
+        "description": "La ciudad beocia de Tebas: su rivalidad con Esparta y Atenas, y la hegemonía tebana de 371-362 a. C. bajo Epaminondas y Pelópidas."
       }
     }
   },
