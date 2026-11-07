@@ -1013,6 +1013,20 @@
       "extract": "Ceuta es una ciudad autónoma española situada en la península tingitana, en la orilla africana del estrecho de Gibraltar, en su lado oriental. Está bañada por las aguas del mar Mediterráneo, mientras que al oeste y suroeste limita con Marruecos. Su población es de 83 595 habitantes. Con una extensión superficial de 19,87 km², tiene una densidad de 4518,65 hab/km², en la que conviven ciudadanos de diferentes culturas y religiones: principalmente la cristiana y la musulmana, en menor medida la judía y la hindú. Las zonas urbanizadas se sitúan en el istmo y en parte del campo exterior. El centro urbano y los barrios más antiguos se localizan cerca del puerto y por la ladera del monte Hacho, en una pequeña península conocida como Almina."
     }
   },
+  "chaeronea": {
+    "title": "Chaeronea",
+    "url": "https://en.wikipedia.org/wiki/Chaeronea",
+    "extract": "Chaeronea is a village and a former municipality in Boeotia, Greece, located about 35 kilometers east of Delphi. The settlement was formerly known as Kópraina (Κόπραινα), and renamed to Chairóneia (Χαιρώνεια) in 1916. Since the 2011 local government reform it is part of the municipality Livadeia, of which it is a municipal unit. The municipal unit has an area of 111.445 km2, the community is 26.995 km2. Population 993 (2021). It is located near Mount Thourion in the Cephissus river valley, NW of Thebes.",
+    "description": "Village in Boeotia, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/DE_Cheronias.svg/330px-DE_Cheronias.svg.png",
+    "lat": 38.495,
+    "lon": 22.8475,
+    "es": {
+      "title": "Queronea",
+      "url": "https://es.wikipedia.org/wiki/Queronea",
+      "extract": "Queronea es una ciudad y un municipio perteneciente a la Prefectura de Beocia, en la desembocadura del río Cefiso y contigua a la región de la Fócida. Esta ciudad se hizo famosa en la historia por haber sido el escenario de batallas muy importantes y decisivas para el devenir de Atenas."
+    }
+  },
   "cheb": {
     "title": "Cheb",
     "url": "https://en.wikipedia.org/wiki/Cheb",
@@ -1235,6 +1249,20 @@
       "title": "Covadonga",
       "url": "https://es.wikipedia.org/wiki/Covadonga",
       "extract": "Covadonga es una parroquia del concejo de Cangas de Onís, en el Principado de Asturias (España), así como la única población, con la categoría de lugar, de dicha parroquia."
+    }
+  },
+  "crannon": {
+    "title": "Cranon",
+    "url": "https://en.wikipedia.org/wiki/Cranon",
+    "extract": "Cranon or Crannon (Κραννών) was a town and polis (city-state) of Pelasgiotis, in ancient Thessaly, situated southwest of Larissa, and at the distance of 100 stadia from Gyrton, according to Strabo. Spelling differs among the sources: Κράννων and ῂ Κράννωνοϛ; Κραννών, Κράννουν, and Κράννουϛ. To the west it bounded with the territory of Atrax and to the east with that of Scotussa. To the south the ridges of the Revenia separated it from the valley of the river Enipeus.",
+    "description": "Town and polis (city-state) of Pelasgiotis in ancient Thessaly",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ancient_Krannon_from_north.jpg/330px-Ancient_Krannon_from_north.jpg",
+    "lat": 39.50051,
+    "lon": 22.30245,
+    "es": {
+      "title": "Cranón",
+      "url": "https://es.wikipedia.org/wiki/Cran%C3%B3n",
+      "extract": "Cranón fue una antigua ciudad del distrito de Pelasgiótide en Tesalia, al sudoeste de Lárisa. La tradición afirma que antes de la llegada de los tesalios se llamó Efira, cuyos habitantes, los efirios son mencionados por Estrabón en boca de Homero. El topónimo difiere según las fuentes: Κράννων -ωνοϛ, ῂ; Κραννών, Κράννουν, y Κράννουϛ. El gentilicio es cranonio, y también varía: Κραν(ν)ούνιος, Κραννῴνιοϛ, y Κρανώνιοϛ. Estaba situada a unos 25 km al sudoeste de Lárisa. Al oeste limitaba con el territorio de Átrax y al este con el de Escotusa. Al sur las crestas de las Revenia la separaban del valle del río Enipo. Distaba unos 100 estadios de la antigua ciudad de Girtón."
     }
   },
   "crotone": {
@@ -1624,6 +1652,20 @@
       "extract": "El río Gambia es un río de África de 1130 kilómetros de longitud, uno de los mayores del continente. Nace en el macizo Futa Yallon, al norte de Guinea, y desemboca en la ciudad de Banjul (Gambia), a orillas del océano Atlántico. La mitad de su recorrido es navegable."
     }
   },
+  "gaugamela": {
+    "title": "Battle of Gaugamela",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Gaugamela",
+    "extract": "The Battle of Gaugamela, also called the Battle of Arbela, took place in 331 BC between the forces of the Army of Macedon under Alexander the Great and the Persian Army under King Darius III. It was the second and final battle between the two kings, and is considered to be the final blow to the Achaemenid Empire, resulting in its complete conquest by Alexander.",
+    "description": "Major battle of the Wars of Alexander the Great (331 BC)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pietro_da_Cortona_-_Battle_of_Alexander_versus_Darius_-_Google_Art_Project.jpg/330px-Pietro_da_Cortona_-_Battle_of_Alexander_versus_Darius_-_Google_Art_Project.jpg",
+    "lat": 36.56,
+    "lon": 43.44,
+    "es": {
+      "title": "Batalla de Gaugamela",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Gaugamela",
+      "extract": "La batalla de Gaugamela tuvo lugar el 1 de octubre de 331 a. C. en las proximidades de la ribera del río Bumodos, tributario del Gran Zab, a unos 27 km al noreste de Mosul y a 52 km de Arbela. En ella se enfrentaron el ejército persa a las órdenes de su rey, Darío III, y el ejército macedonio bajo el mando de Alejandro Magno. Darío eligió esta localización debido a que era una amplia llanura que favorecía a sus numerosas fuerzas montadas. Sin embargo, fue derrotado y la batalla marcó el hundimiento del Imperio persa. Gaugamela es considerada como una obra maestra en la táctica militar y la mayor victoria de Alejandro Magno."
+    }
+  },
   "gaul": {
     "title": "Gaul",
     "url": "https://en.wikipedia.org/wiki/Gaul",
@@ -1692,6 +1734,20 @@
       "extract": "Les Gonaïves es una comuna de Haití que está situada en el distrito de Les Gonaïves, del departamento de Artibonito."
     }
   },
+  "gordium": {
+    "title": "Gordion",
+    "url": "https://en.wikipedia.org/wiki/Gordion",
+    "extract": "Gordion was the capital city of ancient Phrygia. It was located at the site of modern Yassıhüyük, about 70–80 km (43–50 mi) southwest of Ankara, in the immediate vicinity of Polatlı district. Gordion's location at the confluence of the Sakarya and Porsuk rivers gave it a strategic location with control over fertile land. Gordion lies where the ancient road between Lydia and Assyria/Babylonia crossed the Sangarius river. Occupation at the site is attested from the Early Bronze Age continuously until the 4th century CE and again in the 13th and 14th centuries CE. The Citadel Mound at Gordion is approximately 13.5 hectares in size, and at its height habitation extended beyond this in an area approximately 100 hectares in size. Gordion is the type site of Phrygian civilization, and its well-preserved destruction level of c. 800 BCE is a chronological linchpin in the region. The long tradition of tumuli at the site is an important record of elite monumentality and burial practice during the Iron Age.",
+    "description": "Capital city of ancient Phrygia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Gordion_Early_Phrygian_East_Gate.jpg/330px-Gordion_Early_Phrygian_East_Gate.jpg",
+    "lat": 39.650356,
+    "lon": 31.978243,
+    "es": {
+      "title": "Gordio",
+      "url": "https://es.wikipedia.org/wiki/Gordio",
+      "extract": "Gordio era la capital del antiguo reino de Frigia. Corresponde al actual yacimiento de Yassihüyük, en la actual provincia turca de Ankara, a unos 96 km al sudoeste de la ciudad de Ankara y en el distrito de Polatlı. El núcleo de Gordio, compuesto por la ciudadela, la ciudad baja y una fortaleza, se situaba en la ribera oriental del río Sangario, río que fluye desde Anatolia central hasta el mar Negro, aunque posteriormente surgieron extensos suburbios en el lado opuesto. Su nombre se relaciona con Gordias, uno de los primeros reyes de Frigia. Otro de los reyes relacionados con la ciudad fue su hijo Midas."
+    }
+  },
   "gran-pajonal": {
     "title": "Gran Pajonal",
     "url": "https://en.wikipedia.org/wiki/Gran_Pajonal",
@@ -1732,6 +1788,20 @@
       "title": "Gran Ducado de Toscana",
       "url": "https://es.wikipedia.org/wiki/Gran_Ducado_de_Toscana",
       "extract": "El Gran Ducado de Toscana fue una monarquía italiana que existió, con interrupciones, de 1569 a 1860, reemplazando a la República de Florencia. La capital del gran ducado era Florencia. En el siglo XIX la población del Gran Ducado era de unos 1 815 000 habitantes."
+    }
+  },
+  "granicus": {
+    "title": "Biga Çayı",
+    "url": "https://en.wikipedia.org/wiki/Biga_%C3%87ay%C4%B1",
+    "extract": "The Biga River is a small river in Çanakkale Province in northwestern Turkey. The river begins at the base of Mount Ida and trends generally northeasterly to the Sea of Marmara. It is about 50 kilometres (31 mi) east of the Dardanelles. It flows past the towns of Çan and Biga and enters the Sea of Marmara at Karabiga. It is also known as the Çan and the Kocabaş.",
+    "description": "River in Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Granicus_River.jpg/330px-Granicus_River.jpg",
+    "lat": 40.38333333,
+    "lon": 27.3,
+    "es": {
+      "title": "Río Gránico",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Gr%C3%A1nico",
+      "extract": "El río Gránico, es el nombre clásico con el que se conoce un pequeño río costero del noroeste de Turquía que discurre por la provincia de Çanakkale y desagua en el mar de Mármara."
     }
   },
   "graz": {
@@ -1974,6 +2044,20 @@
       "extract": "El topónimo latino Hispania era el nombre que los romanos daban a la península ibérica y territorios asociados."
     }
   },
+  "hydaspes": {
+    "title": "Jhelum River",
+    "url": "https://en.wikipedia.org/wiki/Jhelum_River",
+    "extract": "The Jhelum River is a major river in South Asia, flowing through India and Pakistan, and is the westernmost of the five major rivers of the Punjab region. It originates at Verinag in India-administered Jammu and Kashmir in the disputed Kashmir region, flows into Pakistan-administered Azad Kashmir, and then flows through the Punjab province of Pakistan. It is a tributary of the Chenab River and has a total length of about 725 kilometres (450 mi).",
+    "description": "River in India and Pakistan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Jhelum_River-Pakistan.jpg/330px-Jhelum_River-Pakistan.jpg",
+    "lat": 31.17,
+    "lon": 72.15,
+    "es": {
+      "title": "Río Jhelum",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Jhelum",
+      "extract": "El río Jhelum es el río más grande y más occidental de los ríos del Panyab pakistaní. Atraviesa el distrito homónimo de Jhelum. Es uno de los afluentes del río Indo y tiene una longitud de cerca de 772 km.Vyeth; en cachemir\nझेलम en idioma hindí\nਜੇਹਲਮ en panyabí\nਜੇਹਲਮ en gurmukhí\nدریاۓ جہلم en shahmukhí"
+    }
+  },
   "ilipa": {
     "title": "Alcalá del Río",
     "url": "https://en.wikipedia.org/wiki/Alcal%C3%A1_del_R%C3%ADo",
@@ -1986,6 +2070,20 @@
       "title": "Alcalá del Río",
       "url": "https://es.wikipedia.org/wiki/Alcal%C3%A1_del_R%C3%ADo",
       "extract": "Alcalá del Río es un municipio y localidad española de la provincia de Sevilla, en la comunidad autónoma de Andalucía. Se sitúa en la comarca de la Vega del Guadalquivir, a unos 15 km al norte de la capital de provincia, Sevilla. Cuenta con una población de 12 335 habitantes y tiene una superficie de 82 km². Además del núcleo de población principal tiene tres pedanías: El Viar, Esquivel y San Ignacio del Viar, construidas por el Instituto Nacional de Colonización (INC). Cuenta con un aeródromo con capacidad de aeronaves ultraligeras: el aeródromo de Alcalá del Río."
+    }
+  },
+  "issus": {
+    "title": "Issus (Cilicia)",
+    "url": "https://en.wikipedia.org/wiki/Issus_(Cilicia)",
+    "extract": "Issus or Issos was an ancient settlement on the strategic coastal plain straddling the small Pinarus River below the navigationally difficult inland mountains towering above to the east in the Turkish Province of Hatay, near the border with Syria. It can be identified with Kinet Höyük in the village of Yeşilköy near Dörtyol in Turkey's Hatay Province. Excavations on the mound occurred between 1992 and 2012 by Bilkent University. It is most notable for being the place of no fewer than three decisive ancient or medieval battles each called in their own era the Battle of Issus:The Battle of Issus or the First Battle of Issus, in which Alexander the Great of Macedonia defeated Darius III of Persia\nBattle of Issus (194) or the Second Battle of Issus, in which P. Cornelius Anullinus defeated Septimius Severus's rival Pescennius Niger\nBattle of Issus (622) or the Third Battle of Issus, in which the Byzantine emperor Heraclius defeated the Sassanid shah Shahrbaraz",
+    "description": "Ancient Greek archaeological site in Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Hatay_in_Turkey.svg/330px-Hatay_in_Turkey.svg.png",
+    "lat": 36.85361111,
+    "lon": 36.15694444,
+    "es": {
+      "title": "Iso (Cilicia)",
+      "url": "https://es.wikipedia.org/wiki/Iso_(Cilicia)",
+      "extract": "Iso es un antiguo asentamiento de Cilicia, próximo a la actual Alejandreta, situada en la planicie costera a ambos lados del río Pinarus, en la provincia turca de Hatay, cerca de la frontera con Siria. Es conocido por haber tenido lugar no menos de tres batallas decisivas de la Antigüedad o de la Edad Media, llamándose cada una de ellas en su época la Batalla de Iso:La Batalla de Iso, en la que Alejandro Magno de Macedonia derrotó a Darío III de Persia. A esta batalla a veces se la conoce como la  'Primera Batalla de Iso',  pero es más conocida simplemente como la Batalla de Iso, debido al gran impacto que produjo en la historia política de la región la derrota del Imperio persa por parte de Alejandro.\nBatalla de Iso (194), o 'Segunda Batalla de Iso' — que enfrentó a las fuerzas del emperador Septimio Severo y las de su rival, Pescenio Niger.\nBatalla de Iso (622), o 'Tercera Batalla de Iso' — entre el Imperio bizantino y el Imperio sasánida, en la cual, se revirtió la situación de desventaja en la que se hallaba el Imperio Romano de Oriente, agotando inevitablemente a ambas potencias frente a otros enemigos nuevos, entre ellos, los Árabes Musulmanes"
     }
   },
   "isthmia": {
@@ -3019,6 +3117,20 @@
       "extract": "Olimpia es un sitio arqueológico situado en la unidad periférica de Élide, en Grecia. En la Antigüedad, era la sede de un importante santuario y además el lugar donde se celebraban los Juegos Olímpicos. Se encuentra al pie del monte Cronio y en el lado derecho del río Alfeo."
     }
   },
+  "olynthus": {
+    "title": "Olynthus",
+    "url": "https://en.wikipedia.org/wiki/Olynthus",
+    "extract": "Olynthus is an ancient city in present-day Chalcidice, Greece. It was built mostly on two flat-topped hills 30–40m in height, in a fertile plain at the head of the Gulf of Torone, near the neck of the peninsula of Pallene, about 2.5 kilometers from the sea, and about 60 stadia from Poteidaea.",
+    "description": "Ancient Greek city",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Bouleuterion_in_Olynthos_2.jpg/330px-Bouleuterion_in_Olynthos_2.jpg",
+    "lat": 40.296,
+    "lon": 23.354,
+    "es": {
+      "title": "Olinto",
+      "url": "https://es.wikipedia.org/wiki/Olinto",
+      "extract": "Olinto fue una antigua ciudad griega y ciudad-Estado (polis) en Tracia, en la actual península de Calcídica, la principal ciudad de los calcídicos, fue construida principalmente sobre dos elevaciones, en una llanura fértil, entre el golfo de Torone y Sitonia,"
+    }
+  },
   "oppenheim": {
     "title": "Oppenheim",
     "url": "https://en.wikipedia.org/wiki/Oppenheim",
@@ -3227,6 +3339,20 @@
       "title": "Pavía",
       "url": "https://es.wikipedia.org/wiki/Pav%C3%ADa",
       "extract": "Pavía es una ciudad italiana de la región de Lombardía, capital de la provincia homónima. Tiene una población de 71 000 habitantes. El río Ticino cruza la ciudad, antes de confluir con el río Po. En el período romano se llamó Ticinum. La ciudad fue la capital del Reino Ostrogodo del 540 al 553, del Reino Lombardo de 572 a 774, del Reino de Italia de 774 a 1024 y sede de la corte Visconti de 1365 a 1413."
+    }
+  },
+  "pella": {
+    "title": "Pella",
+    "url": "https://en.wikipedia.org/wiki/Pella",
+    "extract": "Pella was the capital of the ancient Greek kingdom of Macedon from the 4th century BC up until the Roman conquest in 168 BC. Pella was the birthplace of Philip II in 382 BC, and his son Alexander the Great in 356 BC. It is located 1 km outside the modern town of Pella in Central Macedonia, Greece.",
+    "description": "Capital of the ancient kingdom of Macedon",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/0_Mosa%C3%AFque_de_la_chasse_au_lion_-_Mus%C3%A9e_arch%C3%A9ologique_de_Pella.JPG/330px-0_Mosa%C3%AFque_de_la_chasse_au_lion_-_Mus%C3%A9e_arch%C3%A9ologique_de_Pella.JPG",
+    "lat": 40.754669,
+    "lon": 22.52105,
+    "es": {
+      "title": "Pela (Grecia)",
+      "url": "https://es.wikipedia.org/wiki/Pela_(Grecia)",
+      "extract": "Pela, o Pella, es una antigua ciudad, que se encuentra en la llanura central de la región de Macedonia en Grecia. Importante urbe macedonia situada al oeste del río Axio, o Vardar del eslavo, entre éste y el Lidias, a unos 40 km al noroeste de la antigua Terma, la actual Tesalónica, y a unos 10 km al norte del golfo Termaico. Estaba sobre una colina que dominaba en la Antigüedad un lago cenagoso: esta ciudad de población mixta greco-bárbara pasó a estar bajo el control de los reyes teménidas a principios del siglo V a. C., pero no salió de la oscuridad hasta que se convirtió en su residencia habitual, en una época en la que el reino estaba en plena expansión bajo dependencia de los tracios y de la Liga Calcídica. Se convirtió en la capital del Reino de Macedonia a principios del siglo IV a. C. sustituyendo a Egas, la actual Vergina, y conservó esta categoría en el período helenístico, bajo el reinado de los Antigónidas."
     }
   },
   "pelusium": {
@@ -4700,6 +4826,20 @@
       "title": "Verdún",
       "url": "https://es.wikipedia.org/wiki/Verd%C3%BAn",
       "extract": "Verdún es una ciudad situada en el departamento de Mosa, en la región del Gran Este, en Francia. Tiene una población estimada, en 2019, de 16 942 habitantes. Se trata de una de las dos subprefecturas del departamento y la chef-lieu (capital) del distrito del mismo nombre. Es a su vez la localidad más poblada del departamento."
+    }
+  },
+  "vergina": {
+    "title": "Vergina",
+    "url": "https://en.wikipedia.org/wiki/Vergina",
+    "extract": "Vergina is a small town in Greek Macedonia, part of the Veroia municipality in Imathia, Central Macedonia. Vergina is best known as the site of ancient Aigai, the first capital of Macedon. In 336 BC Philip II was assassinated in Aigai's theatre and his son, Alexander the Great, was proclaimed king.",
+    "description": "Town in northern Greece, site of ancient Aigai",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Facade_of_Philip_II_tomb_Vergina_Greece.jpg/330px-Facade_of_Philip_II_tomb_Vergina_Greece.jpg",
+    "lat": 40.48333333,
+    "lon": 22.31666667,
+    "es": {
+      "title": "Vergina",
+      "url": "https://es.wikipedia.org/wiki/Vergina",
+      "extract": "Vergina es una localidad griega situada en el municipio de Veria, en la unidad regional de Emacia, Macedonia Central. Según el censo de 2021, tiene una población de 2034 habitantes."
     }
   },
   "versailles": {

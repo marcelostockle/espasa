@@ -665,6 +665,15 @@
       }
     }
   },
+  "chaeronea": {
+    "label": "Chaeronea",
+    "wikipedia": "Chaeronea",
+    "translations": {
+      "es": {
+        "label": "Queronea"
+      }
+    }
+  },
   "cheb": {
     "label": "Cheb (Eger)",
     "wikipedia": "Cheb",
@@ -806,6 +815,15 @@
     "translations": {
       "es": {
         "label": "Covadonga"
+      }
+    }
+  },
+  "crannon": {
+    "label": "Crannon",
+    "wikipedia": "Crannon",
+    "translations": {
+      "es": {
+        "label": "Cranón"
       }
     }
   },
@@ -1061,6 +1079,15 @@
       }
     }
   },
+  "gaugamela": {
+    "label": "Gaugamela",
+    "wikipedia": "Gaugamela",
+    "translations": {
+      "es": {
+        "label": "Gaugamela"
+      }
+    }
+  },
   "gaul": {
     "label": "Gaul",
     "wikipedia": "Gaul",
@@ -1106,6 +1133,15 @@
       }
     }
   },
+  "gordium": {
+    "label": "Gordium",
+    "wikipedia": "Gordium",
+    "translations": {
+      "es": {
+        "label": "Gordio"
+      }
+    }
+  },
   "gran-pajonal": {
     "label": "Gran Pajonal",
     "wikipedia": "Gran Pajonal",
@@ -1130,6 +1166,15 @@
     "translations": {
       "es": {
         "label": "Gran Ducado de Toscana"
+      }
+    }
+  },
+  "granicus": {
+    "label": "Granicus River",
+    "wikipedia": "Biga Çayı",
+    "translations": {
+      "es": {
+        "label": "río Gránico"
       }
     }
   },
@@ -1295,12 +1340,30 @@
       }
     }
   },
+  "hydaspes": {
+    "label": "Hydaspes (Jhelum River)",
+    "wikipedia": "Jhelum River",
+    "translations": {
+      "es": {
+        "label": "Hidaspes (río Jhelum)"
+      }
+    }
+  },
   "ilipa": {
     "label": "Ilipa (Alcalá del Río)",
     "wikipedia": "Alcalá del Río",
     "translations": {
       "es": {
         "label": "Ilipa (Alcalá del Río)"
+      }
+    }
+  },
+  "issus": {
+    "label": "Issus",
+    "wikipedia": "Issus (Cilicia)",
+    "translations": {
+      "es": {
+        "label": "Iso"
       }
     }
   },
@@ -1979,6 +2042,15 @@
       }
     }
   },
+  "olynthus": {
+    "label": "Olynthus",
+    "wikipedia": "Olynthus",
+    "translations": {
+      "es": {
+        "label": "Olinto"
+      }
+    }
+  },
   "oppenheim": {
     "label": "Oppenheim",
     "wikipedia": "Oppenheim",
@@ -2111,6 +2183,15 @@
     "translations": {
       "es": {
         "label": "Pavía"
+      }
+    }
+  },
+  "pella": {
+    "label": "Pella",
+    "wikipedia": "Pella",
+    "translations": {
+      "es": {
+        "label": "Pela"
       }
     }
   },
@@ -3074,6 +3155,15 @@
     "translations": {
       "es": {
         "label": "Verdún"
+      }
+    }
+  },
+  "vergina": {
+    "label": "Aigai (Vergina)",
+    "wikipedia": "Vergina",
+    "translations": {
+      "es": {
+        "label": "Egas (Vergina)"
       }
     }
   },

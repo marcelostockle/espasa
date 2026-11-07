@@ -1248,6 +1248,20 @@
       }
     }
   },
+  "philip-ii": {
+    "label": "Philip II of Macedon",
+    "color": "#1f3dff",
+    "description": "Philip II (382-336 BCE), king of Macedon, who unified Greece under Macedonian leadership and prepared the invasion of Persia.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Filipo II de Macedonia",
+        "description": "Filipo II (382-336 a. C.), rey de Macedonia, que unificó Grecia bajo liderazgo macedonio y preparó la invasión de Persia."
+      }
+    }
+  },
   "plato": {
     "label": "Plato",
     "color": "#d2a046",
