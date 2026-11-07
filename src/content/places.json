@@ -188,6 +188,15 @@
       }
     }
   },
+  "arch-of-titus": {
+    "label": "Arch of Titus",
+    "wikipedia": "Arch of Titus",
+    "translations": {
+      "es": {
+        "label": "Arco de Tito"
+      }
+    }
+  },
   "arpino": {
     "label": "Arpinum (Arpino)",
     "wikipedia": "Arpino",
@@ -410,6 +419,15 @@
     "translations": {
       "es": {
         "label": "Berna"
+      }
+    }
+  },
+  "beth-horon": {
+    "label": "Beth Horon",
+    "wikipedia": "Beth-Horon",
+    "translations": {
+      "es": {
+        "label": "Bet Horón"
       }
     }
   },
@@ -1805,6 +1823,15 @@
     "translations": {
       "es": {
         "label": "Massalia (Marsella)"
+      }
+    }
+  },
+  "masada": {
+    "label": "Masada",
+    "wikipedia": "Masada",
+    "translations": {
+      "es": {
+        "label": "Masada"
       }
     }
   },
@@ -3407,6 +3434,24 @@
     "translations": {
       "es": {
         "label": "Xiangyang"
+      }
+    }
+  },
+  "yavneh": {
+    "label": "Yavneh (Jamnia)",
+    "wikipedia": "Yavne",
+    "translations": {
+      "es": {
+        "label": "Yavné (Jamnia)"
+      }
+    }
+  },
+  "yodfat": {
+    "label": "Yodfat (Jotapata)",
+    "wikipedia": "Yodfat",
+    "translations": {
+      "es": {
+        "label": "Yodfat (Jotapata)"
       }
     }
   },

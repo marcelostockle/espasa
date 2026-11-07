@@ -292,6 +292,20 @@
       "extract": "Orange es una localidad y comuna francesa situada en el departamento de Vaucluse, en la región de Provenza-Alpes-Costa Azul, Francia. Llamada \"Cité des Princes\", fue capital del Principado de Orange. En 2007 su población alcanzaba los 30 025 habitantes, a los que se conoce como \"Orangeois\". Su economía proviene de varios sectores: la viticultura, la industria, los servicios y comercios y el ejército. Queda a unos 21 km al norte de Aviñón. Su superficie alcanza las 7420 hectáreas y tiene una altitud media de 50 m s. n. m."
     }
   },
+  "arch-of-titus": {
+    "title": "Arch of Titus",
+    "url": "https://en.wikipedia.org/wiki/Arch_of_Titus",
+    "extract": "The Arch of Titus is a 1st-century AD honorific arch, located on the Via Sacra, Rome, just to the south-east of the Roman Forum. It was constructed in c. 81 AD by Emperor Domitian shortly after the death of his older brother Titus to commemorate Titus's official deification or consecratio and the victory of Titus together with their father, Vespasian, over the Jewish rebellion in Judaea.",
+    "description": "Ancient Roman arch, a landmark of Rome, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Arch_Titus%2C_Forum_Romanum%2C_Rome%2C_Italy.jpg/330px-Arch_Titus%2C_Forum_Romanum%2C_Rome%2C_Italy.jpg",
+    "lat": 41.890717,
+    "lon": 12.488585,
+    "es": {
+      "title": "Arco de Tito",
+      "url": "https://es.wikipedia.org/wiki/Arco_de_Tito",
+      "extract": "El arco de Tito es un arco honorífico, situado en la Vía Sacra, justo al sureste del Foro, en Roma. Fue construido hacia el año 80 d. C. por el emperador romano Domiciano poco después de la muerte de su hermano mayor, Tito, para conmemorar las victorias de este, incluido el Sitio de Jerusalén del 70 d. C. El arco ha proporcionado el modelo general para muchos arcos triunfales erigidos desde el siglo XVI, y es lo que inspiró el Arco de Triunfo en París, Francia."
+    }
+  },
   "arpino": {
     "title": "Arpino",
     "url": "https://en.wikipedia.org/wiki/Arpino",
@@ -637,6 +651,15 @@
       "url": "https://es.wikipedia.org/wiki/Berna",
       "extract": "Berna es una ciudad de Suiza. Tiene el estatus de \"ciudad federal\" (bundesstadt ) y como tal cumple la función de capital del país. Su población, a fines de 2023, era de 145 873 habitantes."
     }
+  },
+  "beth-horon": {
+    "title": "Bethoron",
+    "url": "https://en.wikipedia.org/wiki/Bethoron",
+    "extract": "Bethoron, also Beth-Horon, were two neighboring towns in ancient Israel, situated on the Gibeon–Aijalon road. They served as strategic points along the road, guarding the \"ascent of Bethoron\". While the Hebrew Bible sometimes distinguishes between the two towns—Upper and Lower Bethoron—it often refers to both simply as Bethoron. The towns are mentioned in the Bible and in other ancient sources: Upper Bethoron appears in Joshua 16:5, Lower Bethoron in Joshua 16:3, both in 1 Chronicles 7:24, and the ascent in I Maccabees 3:16.",
+    "description": "Biblical town",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bethoron_Elyon_-_Upper_Bethoron_1880.jpg/330px-Bethoron_Elyon_-_Upper_Bethoron_1880.jpg",
+    "lat": 31.87722222,
+    "lon": 35.11861111
   },
   "bethlehem": {
     "title": "Bethlehem",
@@ -2752,6 +2775,20 @@
       "title": "Marsella",
       "url": "https://es.wikipedia.org/wiki/Marsella",
       "extract": "Marsella es una ciudad portuaria del sur de Francia, capital del departamento de Bocas del Ródano y de la región de Provenza-Alpes-Costa Azul."
+    }
+  },
+  "masada": {
+    "title": "Masada",
+    "url": "https://en.wikipedia.org/wiki/Masada",
+    "extract": "Masada is a mountain-top fortress complex in the Judaean Desert, overlooking the western shore of the Dead Sea in southeastern Israel. The fort, built in the first century BC, was constructed atop a natural plateau rising over 400 m (1,300 ft) above the surrounding terrain, 20 km (12 mi) east of modern Arad.",
+    "description": "Ancient hilltop fortification in Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Israel-2013-Aerial_21-Masada.jpg/330px-Israel-2013-Aerial_21-Masada.jpg",
+    "lat": 31.31555556,
+    "lon": 35.35388889,
+    "es": {
+      "title": "Masada",
+      "url": "https://es.wikipedia.org/wiki/Masada",
+      "extract": "Masada es un yacimiento arqueológico que comprende los restos de varios palacios y fortificaciones que se localizan en la cumbre amesetada de una montaña aislada en la región oriental del desierto de Judea, próxima a la costa sudoccidental del mar Muerto, y dentro de los límites del Concejo Regional de Tamar, en el Distrito Sur de Israel."
     }
   },
   "matanzas": {
@@ -5207,6 +5244,29 @@
       "url": "https://es.wikipedia.org/wiki/Xiangyang",
       "extract": "Xiangyang es una ciudad-prefectura en la provincia de Hubei, República Popular de China. Limita al norte con Nanyang, al sur con Jingmen, al oeste con Shiyan y al sureste con Suizhou.\nSu área es de 19 727 km² y su población total para 2019 superó los 5,68 millones de habitantes."
     }
+  },
+  "yavneh": {
+    "title": "Yavne",
+    "url": "https://en.wikipedia.org/wiki/Yavne",
+    "extract": "Yavne is a city in the Central District of Israel. In 2024 it had a population of 58,090.",
+    "description": "City in Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Yavne_panoramic_view2.JPG/330px-Yavne_panoramic_view2.JPG",
+    "lat": 31.88333333,
+    "lon": 34.73333333,
+    "es": {
+      "title": "Yavne",
+      "url": "https://es.wikipedia.org/wiki/Yavne",
+      "extract": "Yavne o Jamnia es una ciudad del distrito Central de Israel. Según la Oficina Central de Estadísticas de Israel (CBS), a finales de 2009 la ciudad tenía una población de 33.800 habitantes. En sus cercanías se hallan las ruinas de la antigua población de Iamnia. En tiempos del Reino de Jerusalén, se le conocía como Ibelín."
+    }
+  },
+  "yodfat": {
+    "title": "Yodfat",
+    "url": "https://en.wikipedia.org/wiki/Yodfat",
+    "extract": "Yodfat is a moshav shitufi in northern Israel. Located in the Lower Galilee, south of Carmiel and in the vicinity of the Atzmon mountain ridge, north of the Beit Netofa Valley, it falls under the jurisdiction of Misgav Regional Council. In 2024 it had a population of 976.",
+    "description": "Place in Northern, Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Moshavyodfat.jpg/330px-Moshavyodfat.jpg",
+    "lat": 32.83694444,
+    "lon": 35.27361111
   },
   "zama": {
     "title": "Zama (Tunisia)",

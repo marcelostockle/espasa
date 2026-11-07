@@ -511,6 +511,20 @@
       }
     }
   },
+  "first-jewish-roman-war": {
+    "label": "First Jewish-Roman War",
+    "color": "#e61ee6",
+    "description": "The Jewish revolt against Rome (66-73/74 CE): its causes, the siege of Jerusalem, the destruction of the Temple, Masada, and the Flavian response.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Primera Guerra Judeo-Romana",
+        "description": "La revuelta judía contra Roma (66-73/74 d. C.): sus causas, el asedio de Jerusalén, la destrucción del Templo, Masada y la respuesta flavia."
+      }
+    }
+  },
   "francis-drake": {
     "label": "Francis Drake",
     "color": "#a64d79",
@@ -932,6 +946,20 @@
       "es": {
         "label": "José de San Martín",
         "description": "José de San Martín (1778-1850), general argentino que lideró la liberación de Argentina, Chile y el Perú del dominio español y fue Protector del Perú."
+      }
+    }
+  },
+  "josephus": {
+    "label": "Josephus",
+    "color": "#66ffbb",
+    "description": "Flavius Josephus (c. 36-c. 100 CE), Jewish commander turned Roman historian, and his works on the war and on Jewish history.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Flavio Josefo",
+        "description": "Flavio Josefo (c. 36-c. 100 d. C.), comandante judío convertido en historiador romano, y sus obras sobre la guerra y la historia judía."
       }
     }
   },
