@@ -822,6 +822,20 @@
       "extract": "Cádiz es un municipio y ciudad española, es la capital de la provincia homónima, en la comunidad autónoma de Andalucía. Con 109 950 habitantes es la ciudad más poblada de la bahía de Cádiz y la tercera de la provincia tras Jerez de la Frontera y Algeciras. Forma parte del área metropolitana de la Bahía de Cádiz-Jerez, tercera de Andalucía, detrás de las de Sevilla y Málaga, y la undécima de España."
     }
   },
+  "caesarea-maritima": {
+    "title": "Caesarea Maritima",
+    "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima",
+    "extract": "Caesarea, also Caesarea Maritima, Caesarea Palaestinae or Caesarea Stratonis, was an ancient and medieval port city on the coast of the eastern Mediterranean, and later a small fishing village. It was the capital of Roman Judaea, Syria Palaestina and Palaestina Prima, successively, for a period of c. 650 years and a major intellectual hub of the Mediterranean. Today, the site is part of the Caesarea National Park, on the western edge of the Sharon plain in Israel.",
+    "description": "Ancient Levantine city",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Caesarea.JPG/330px-Caesarea.JPG",
+    "lat": 32.5,
+    "lon": 34.89166667,
+    "es": {
+      "title": "Cesarea Marítima",
+      "url": "https://es.wikipedia.org/wiki/Cesarea_Mar%C3%ADtima",
+      "extract": "Cesarea Marítima, originalmente solo Cesarea, fue una de las cuatro colonias romanas para legionarios veteranos en la región de Siria-Fenicia, creada por el Imperio romano. Se encuentra al norte de la región de Samaria, cerca de la frontera con la región Fenicia."
+    }
+  },
   "cairo": {
     "title": "Cairo",
     "url": "https://en.wikipedia.org/wiki/Cairo",
@@ -1694,6 +1708,20 @@
       "extract": "Friburgo es una pequeña ciudad de la Suiza occidental, capital del cantón de Friburgo y del distrito de Sarine. Friburgo es una de las tres ciudades bilingües de Suiza, unas 21.000 personas hablan francés, mientras que unas 8.300 hablan alemán. Se ubica en la región llamada Üechtland."
     }
   },
+  "galilee": {
+    "title": "Galilee",
+    "url": "https://en.wikipedia.org/wiki/Galilee",
+    "extract": "Galilee is a region located in northern Israel and southern Lebanon consisting of two parts: the Upper Galilee and the Lower Galilee. Other sub-regions are the Western Galilee and the Galilee Panhandle.",
+    "description": "Region in northern Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Lower_Galilee_map.svg/330px-Lower_Galilee_map.svg.png",
+    "lat": 32.76,
+    "lon": 35.53,
+    "es": {
+      "title": "Galilea",
+      "url": "https://es.wikipedia.org/wiki/Galilea",
+      "extract": "Galilea es una región histórica montañosa situada al norte de Israel, ubicada entre el mar Mediterráneo y el valle del Zabulón al oeste, la cordillera del Líbano al norte, el valle de Jezreel y Beit She'an al sur, el valle del Jordán, el valle de Hula y el Kinneret al este."
+    }
+  },
   "gambia-river": {
     "title": "Gambia River",
     "url": "https://en.wikipedia.org/wiki/Gambia_River",
@@ -1746,6 +1774,20 @@
       "title": "Ginebra",
       "url": "https://es.wikipedia.org/wiki/Ginebra",
       "extract": "Ginebra es una ciudad y comuna de la Confederación Suiza, ubicada cerca de la frontera con Francia, capital del cantón de Ginebra. Es la ciudad más poblada de Romandía y la segunda de Suiza después de Zúrich. Se encuentra situada a la salida del Ródano del lago de Ginebra y es la capital de la República y Cantón de Ginebra."
+    }
+  },
+  "gerizim": {
+    "title": "Mount Gerizim",
+    "url": "https://en.wikipedia.org/wiki/Mount_Gerizim",
+    "extract": "Mount Gerizim is one of two mountains near the Palestinian city of Nablus and the biblical city of Shechem, located in the north of Palestine's West Bank. It forms the southern side of the valley in which Nablus is situated, the northern side being formed by Mount Ebal. The mountain is one of the highest peaks in the West Bank and rises to 881 m (2,890 ft) above sea level, 70 m (230 ft) lower than Mount Ebal. The mountain is particularly steep on the northern side, is sparsely covered at the top with shrubbery, and lower down there is a spring with a high yield of fresh water. The mountain is mentioned in the Hebrew Bible as the place where, upon first entering the Promised Land after the Exodus, the Israelites performed ceremonies of blessings, as they had been instructed by Moses.",
+    "description": "Mountain in the West Bank",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%D7%A8%D7%9B%D7%A1_%D7%94%D7%A8_%D7%92%D7%A8%D7%99%D7%96%D7%99%D7%9D.jpg/330px-%D7%A8%D7%9B%D7%A1_%D7%94%D7%A8_%D7%92%D7%A8%D7%99%D7%96%D7%99%D7%9D.jpg",
+    "lat": 32.20086111,
+    "lon": 35.27325833,
+    "es": {
+      "title": "Monte Guerizín",
+      "url": "https://es.wikipedia.org/wiki/Monte_Gueriz%C3%ADn",
+      "extract": "El Monte Guerizín o Monte Garizín es uno de los dos montes colindantes con la ciudad cisjordana de Nablus, en Palestina, que delimita por el sur el valle en que se sitúa esta ciudad, mientras que por el norte lo hace el Monte Ebal. Es una de las mayores elevaciones de Cisjordania, ya que alcanza los 868 metros de altura sobre el nivel del mar. Tiene un especial escarpe en su cara que da al norte; está escasamente cubierto de vegetación en su cima, en donde hay un poblado samaritano y un asentamiento israelí llamado Har Brajá. En sus faldas hay una fuente que representa una provisión continua de agua viva para Nablus."
     }
   },
   "ghent": {
@@ -2112,6 +2154,18 @@
       "title": "Río Jhelum",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Jhelum",
       "extract": "El río Jhelum es el río más grande y más occidental de los ríos del Panyab pakistaní. Atraviesa el distrito homónimo de Jhelum. Es uno de los afluentes del río Indo y tiene una longitud de cerca de 772 km.Vyeth; en cachemir\nझेलम en idioma hindí\nਜੇਹਲਮ en panyabí\nਜੇਹਲਮ en gurmukhí\nدریاۓ جہلم en shahmukhí"
+    }
+  },
+  "idumea": {
+    "title": "Edom",
+    "url": "https://en.wikipedia.org/wiki/Edom",
+    "extract": "Edom was an ancient kingdom that stretched across areas in the south of present-day Israel, Jordan, and Palestine. Edom and the Edomites appear in several written sources relating to the late Bronze Age and to the Iron Age in the Levant, including the list of the Egyptian pharaoh Seti I from c. 1215 BC as well as in the chronicle of a campaign by Ramesses III, and the Hebrew Bible.",
+    "description": "Ancient kingdom in the southern Levant",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Kingdoms_around_Israel_830_map.svg/330px-Kingdoms_around_Israel_830_map.svg.png",
+    "es": {
+      "title": "Edom",
+      "url": "https://es.wikipedia.org/wiki/Edom",
+      "extract": "Edom o Idumea era una región del Levante mediterráneo, ubicada al sur de Judea y del mar Muerto, habitada por el pueblo semita de los edomitas o idumeos."
     }
   },
   "ilipa": {
@@ -2559,6 +2613,20 @@
       "title": "Lützen",
       "url": "https://es.wikipedia.org/wiki/L%C3%BCtzen",
       "extract": "Lützen es un municipio alemán del distrito de Burgenland del estado de Sajonia-Anhalt situado aproximadamente a 18 km al suroeste de Leipzig y 14 al noreste de Weissenfels, y que cuenta con 3.629 habitantes."
+    }
+  },
+  "machaerus": {
+    "title": "Machaerus",
+    "url": "https://en.wikipedia.org/wiki/Machaerus",
+    "extract": "Machaerus was a Hasmonean hilltop palace and desert fortress, rebuilt by Herod and now in ruins, near the village of Mukawir in modern-day Jordan. The site is located 25 km (16 mi) southeast of the mouth of the Jordan River overlooking the Dead Sea.",
+    "description": "Hilltop palace in Jordan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Machaerus_Panorama.jpg/330px-Machaerus_Panorama.jpg",
+    "lat": 31.56722222,
+    "lon": 35.62416667,
+    "es": {
+      "title": "Maqueronte",
+      "url": "https://es.wikipedia.org/wiki/Maqueronte",
+      "extract": "Maqueronte es el nombre de una antigua fortaleza ubicada en la cumbre de una colina en la antigua Perea, en la actual Jordania. Se localiza en el pueblo jordano de Mukawir, en las montañas de Moab, al este del Mar Muerto y a unos 25 km al sudeste de la desembocadura del río Jordán. En ella tuvo lugar el encarcelamiento y la posterior ejecución de Juan el Bautista."
     }
   },
   "madeira": {
@@ -4471,6 +4539,20 @@
       "title": "Tarento",
       "url": "https://es.wikipedia.org/wiki/Tarento",
       "extract": "Tarento es una ciudad del sur de Italia, en la región de Apulia. Ubicada a orillas del mar Jónico, en el istmo de la península salentina, da nombre al golfo de Tarento. El casco antiguo de la ciudad se sitúa en una pequeña isla entre el Mediterráneo y el mare Piccolo, una bahía casi cerrada. Fue fundada en el año 706 a. C. con el nombre de Taras."
+    }
+  },
+  "temple-mount": {
+    "title": "Temple Mount",
+    "url": "https://en.wikipedia.org/wiki/Temple_Mount",
+    "extract": "The Temple Mount or al-Haram al-Sharif is an elevated plateau in the Old City of Jerusalem that comprises the Islamic religious compound known as al-Aqsa, which includes the al-Aqsa Mosque and the Dome of the Rock. Historically the location of two successive Jewish temples, the area has been venerated as a holy site for thousands of years including in Judaism, Christianity, and Islam.",
+    "description": "Religious site in Jerusalem",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg/330px-Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg",
+    "lat": 31.77805556,
+    "lon": 35.23583333,
+    "es": {
+      "title": "Monte del Templo",
+      "url": "https://es.wikipedia.org/wiki/Monte_del_Templo",
+      "extract": "El Monte del Templo o Explanada de las Mezquitas es un lugar religioso considerado sagrado de aproximadamente 15 hectáreas ubicado en la ciudad vieja de Jerusalén, en Palestina. Los judíos lo conocen como הַר הַבַּיִת, en alusión al antiguo templo de Jerusalén, mientras que los musulmanes lo denominan المسجد الأقصى, o الحرم القدسي الشريف. Actualmente, la explanada es uno de los lugares sagrados más disputados del mundo. Está considerado el tercer lugar más santo en el islam, y también es el lugar más sagrado del judaísmo, ya que en el monte Moriá se sitúa la historia bíblica del sacrificio de Isaac."
     }
   },
   "tenochtitlan": {

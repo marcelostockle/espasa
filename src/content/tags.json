@@ -694,6 +694,20 @@
       }
     }
   },
+  "hasmonean-kingdom": {
+    "label": "Hasmonean kingdom",
+    "color": "#66ff00",
+    "description": "The Jewish priest-kings of the Hasmonean dynasty (c. 141-37 BCE), from Simon Thassi to Antigonus, and their wars, rule and religious parties.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Reino asmoneo",
+        "description": "Los sacerdotes-reyes judíos de la dinastía asmonea (c. 141-37 a. C.), de Simón Tasi a Antígono, y sus guerras, gobierno y partidos religiosos."
+      }
+    }
+  },
   "hellenistic-kingdoms": {
     "label": "Hellenistic kingdoms",
     "color": "#1ebed2",
@@ -733,6 +747,20 @@
       "es": {
         "label": "Hernán Cortés",
         "description": "Hernán Cortés (h. 1485-1547), conquistador español que dirigió la conquista del Imperio azteca, gobernó la Nueva España y fue nombrado marqués del Valle de Oaxaca."
+      }
+    }
+  },
+  "herodian-dynasty": {
+    "label": "Herodian dynasty",
+    "color": "#aaffaa",
+    "description": "Antipater and the Herodian dynasty (c. 47 BCE-39 CE): Herod the Great, his building works, and his sons Archelaus, Antipas and Philip.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Dinastía herodiana",
+        "description": "Antípatro y la dinastía herodiana (c. 47 a. C.-39 d. C.): Herodes el Grande, sus obras y sus hijos Arquelao, Antipas y Filipo."
       }
     }
   },
@@ -862,6 +890,20 @@
       "es": {
         "label": "Jesuitas",
         "description": "La Compañía de Jesús, orden religiosa católica fundada por Ignacio de Loyola y aprobada en 1540, conocida por sus colegios, sus misiones y su obediencia especial al papa."
+      }
+    }
+  },
+  "jesus": {
+    "label": "Jesus of Nazareth",
+    "color": "#f01010",
+    "description": "Jesus of Nazareth as a historical figure: the setting of his life and death in Roman Judea, and the sources about him.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Jesús de Nazaret",
+        "description": "Jesús de Nazaret como figura histórica: el contexto de su vida y muerte en la Judea romana, y las fuentes sobre él."
       }
     }
   },
@@ -1443,6 +1485,21 @@
       "es": {
         "label": "Imperio romano",
         "description": "El Estado romano bajo los emperadores, desde Augusto hasta la caída del Imperio de Occidente en 476, incluida su cristianización."
+      }
+    }
+  },
+  "roman-judea": {
+    "label": "Roman Judea",
+    "color": "#1010e0",
+    "description": "Judea under Roman control: from Pompey's conquest of 63 BCE through the province of Judea under prefects such as Pontius Pilate.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Judea romana",
+        "description": "Judea bajo control romano: desde la conquista de Pompeyo en 63 a. C. y la provincia de Judea gobernada por prefectos como Poncio Pilato."
       }
     }
   },

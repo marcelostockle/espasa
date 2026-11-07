@@ -539,6 +539,15 @@
       }
     }
   },
+  "caesarea-maritima": {
+    "label": "Caesarea Maritima",
+    "wikipedia": "Caesarea Maritima",
+    "translations": {
+      "es": {
+        "label": "Cesarea Marítima"
+      }
+    }
+  },
   "cairo": {
     "label": "Cairo",
     "wikipedia": "Cairo",
@@ -1106,6 +1115,15 @@
       }
     }
   },
+  "galilee": {
+    "label": "Galilee",
+    "wikipedia": "Galilee",
+    "translations": {
+      "es": {
+        "label": "Galilea"
+      }
+    }
+  },
   "gambia-river": {
     "label": "Gambia River",
     "wikipedia": "Gambia River",
@@ -1139,6 +1157,15 @@
     "translations": {
       "es": {
         "label": "Ginebra"
+      }
+    }
+  },
+  "gerizim": {
+    "label": "Mount Gerizim",
+    "wikipedia": "Mount Gerizim",
+    "translations": {
+      "es": {
+        "label": "monte Garizim"
       }
     }
   },
@@ -1382,6 +1409,15 @@
     "translations": {
       "es": {
         "label": "Hidaspes (río Jhelum)"
+      }
+    }
+  },
+  "idumea": {
+    "label": "Idumea",
+    "wikipedia": "Idumaea",
+    "translations": {
+      "es": {
+        "label": "Idumea"
       }
     }
   },
@@ -1679,6 +1715,15 @@
     "translations": {
       "es": {
         "label": "Lützen"
+      }
+    }
+  },
+  "machaerus": {
+    "label": "Machaerus",
+    "wikipedia": "Machaerus",
+    "translations": {
+      "es": {
+        "label": "Maqueronte"
       }
     }
   },
@@ -2930,6 +2975,15 @@
     "translations": {
       "es": {
         "label": "Tarento (Taranto)"
+      }
+    }
+  },
+  "temple-mount": {
+    "label": "Temple Mount",
+    "wikipedia": "Temple Mount",
+    "translations": {
+      "es": {
+        "label": "Monte del Templo"
       }
     }
   },
