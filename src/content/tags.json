@@ -1347,6 +1347,20 @@
       }
     }
   },
+  "ptolemaic-egypt": {
+    "label": "Ptolemaic Egypt",
+    "color": "#e0189c",
+    "description": "Egypt under the Ptolemaic dynasty (305-30 BCE), founded by Ptolemy I, with Alexandria as its capital and centre of learning.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Egipto ptolemaico",
+        "description": "Egipto bajo la dinastía ptolemaica (305-30 a. C.), fundada por Ptolomeo I, con Alejandría como capital y centro del saber."
+      }
+    }
+  },
   "punic-wars": {
     "label": "Punic Wars",
     "color": "#e4572e",
@@ -1471,6 +1485,20 @@
       "es": {
         "label": "Ciencia",
         "description": "Descubrimientos y método científico."
+      }
+    }
+  },
+  "seleucid-empire": {
+    "label": "Seleucid Empire",
+    "color": "#e8dc20",
+    "description": "The Seleucid Empire (312-63 BCE), the Greek-ruled kingdom founded by Seleucus I across Mesopotamia, Syria and Iran, and its wars and cities.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio seléucida",
+        "description": "El Imperio seléucida (312-63 a. C.), reino de gobierno griego fundado por Seleuco I en Mesopotamia, Siria e Irán, con sus guerras y ciudades."
       }
     }
   },

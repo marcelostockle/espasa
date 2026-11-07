@@ -195,6 +195,34 @@
       "extract": "Anagni es un municipio de 21 200 habitantes de la provincia de Frosinone, en el Valle Latino. Situada en el Lacio meridional, dista unos 50 kilómetros de Roma. Esta antigua ciudad está situada en las colinas del este de Roma, famosa por su relación con cuatro papas de las familias Conti y Caetani y su bien conservado centro histórico."
     }
   },
+  "antikythera": {
+    "title": "Antikythera",
+    "url": "https://en.wikipedia.org/wiki/Antikythera",
+    "extract": "Antikythera or Anticythera, known in antiquity as Aigilia (Αἰγιλία), is a Greek island lying on the edge of the Aegean Sea, between Crete and Peloponnese. Since the 2011 local government reform, it is part of the municipality of Kythira island.",
+    "description": "Greek island",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikythera.JPG/330px-Antikythera.JPG",
+    "lat": 35.86666667,
+    "lon": 23.3,
+    "es": {
+      "title": "Anticitera",
+      "url": "https://es.wikipedia.org/wiki/Anticitera",
+      "extract": "Anticitera es una isla griega situada al sur del Peloponeso y al noroeste de Creta, con una extensión de 20 km²."
+    }
+  },
+  "antioch": {
+    "title": "Antioch",
+    "url": "https://en.wikipedia.org/wiki/Antioch",
+    "extract": "Antioch was a city located in northern Syria at the site of modern Antakya, Turkey. Founded in 300 BC, Antioch became one of the most important cities of the ancient eastern Mediterranean. The capital of the Hellenistic Seleucid Empire, it remained significant under the Roman and Byzantine Empires, and during the Crusades was the centre of the Principality of Antioch.",
+    "description": "Hellenistic city, modern Antakya, Turkey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Antioch_on_the_Orontes_en.svg/330px-Antioch_on_the_Orontes_en.svg.png",
+    "lat": 36.20472222,
+    "lon": 36.18166667,
+    "es": {
+      "title": "Antioquía del Orontes",
+      "url": "https://es.wikipedia.org/wiki/Antioqu%C3%ADa_del_Orontes",
+      "extract": "Antioquía del Orontes, también conocida como Antioquía de Siria, fue una antigua ciudad situada entre la costa sur de Anatolia y la costa de Siria, en las orillas del río Orontes. Actualmente su nombre es Antioquía y es la capital de la provincia de Hatay en Turquía."
+    }
+  },
   "antwerp": {
     "title": "Antwerp",
     "url": "https://en.wikipedia.org/wiki/Antwerp",
@@ -454,6 +482,20 @@
       "title": "Babilonia (ciudad)",
       "url": "https://es.wikipedia.org/wiki/Babilonia_(ciudad)",
       "extract": "Babilonia fue una antigua ciudad de la Baja Mesopotamia situada cerca de la actual ciudad de Hilla en Irak. Fue la capital del antiguo reino babilónico, y durante varios siglos fue considerada un importante centro de comercio, arte y aprendizaje."
+    }
+  },
+  "bactria": {
+    "title": "Bactria",
+    "url": "https://en.wikipedia.org/wiki/Bactria",
+    "extract": "Bactria, or Bactriana, was an ancient civilization in Central Asia, located in the area south of the Oxus River and north of the Hindu Kush mountains, within modern-day Afghanistan, Tajikistan and Uzbekistan. Bactria was strategically located south of Sogdia and west of the Pamir Mountains. These mountain ranges acted as \"walls\" protecting Bactria from three sides, with the Pamir mountains to the north and the Hindu Kush to the south forming a junction, and the Karakoram range towards the east.",
+    "description": "Historical region in Central Asia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/BactriaMap.jpg/330px-BactriaMap.jpg",
+    "lat": 36.7581,
+    "lon": 66.8989,
+    "es": {
+      "title": "Bactriana",
+      "url": "https://es.wikipedia.org/wiki/Bactriana",
+      "extract": "Bactriana o Bactria es el antiguo nombre griego de una región histórica del Asia Central, localizada entre el Hindú Kush al sur, y el río Amu Daria (Oxus) al norte; su capital fue la ciudad de Balh. Hoy ese territorio corresponde a varias naciones, el norte de Afganistán, el sur de Uzbekistán y Tayikistán."
     }
   },
   "bad-wimpfen": {
@@ -1402,6 +1444,20 @@
       "extract": "Delos o Delo es una de las islas griegas más pequeñas. Pertenece al archipiélago de las islas Cícladas, en el mar Egeo."
     }
   },
+  "delphi": {
+    "title": "Delphi",
+    "url": "https://en.wikipedia.org/wiki/Delphi",
+    "extract": "Delphi, in legend previously called Pytho (Πυθώ), was an ancient sacred precinct in central Greece. It was the seat of Pythia, the major oracle who was consulted about important decisions throughout the ancient classical world. The ancient Greeks considered the centre of the world to be in Delphi, marked by the stone monument known as the Omphalos of Delphi. The term omphalos was the Greek word for \"navel.\"",
+    "description": "Sacred site and oracle of Ancient Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Delphi%2C_Greece_-_panoramio.jpg/330px-Delphi%2C_Greece_-_panoramio.jpg",
+    "lat": 38.4823,
+    "lon": 22.5013,
+    "es": {
+      "title": "Delfos",
+      "url": "https://es.wikipedia.org/wiki/Delfos",
+      "extract": "Delfos es un yacimiento arqueológico —declarado Patrimonio Mundial de la Unesco en 1987— y una moderna ciudad de Grecia. En épocas antiguas, era el lugar del oráculo de Delfos, dentro de un templo dedicado al dios Apolo."
+    }
+  },
   "dessau": {
     "title": "Dessau-Roßlau",
     "url": "https://en.wikipedia.org/wiki/Dessau-Ro%C3%9Flau",
@@ -2072,6 +2128,14 @@
       "extract": "Alcalá del Río es un municipio y localidad española de la provincia de Sevilla, en la comunidad autónoma de Andalucía. Se sitúa en la comarca de la Vega del Guadalquivir, a unos 15 km al norte de la capital de provincia, Sevilla. Cuenta con una población de 12 335 habitantes y tiene una superficie de 82 km². Además del núcleo de población principal tiene tres pedanías: El Viar, Esquivel y San Ignacio del Viar, construidas por el Instituto Nacional de Colonización (INC). Cuenta con un aeródromo con capacidad de aeronaves ultraligeras: el aeródromo de Alcalá del Río."
     }
   },
+  "ipsus": {
+    "title": "Ipsus",
+    "url": "https://en.wikipedia.org/wiki/Ipsus",
+    "extract": "Ipsus or Ipsos or Ipsous (Ἴψους), was a town of ancient Phrygia a few miles below Synnada. The place itself never was of any particular note, but it is celebrated in history for the great battle fought in its plains, in 301 BCE, by the aged Antigonus and his son Demetrius against the combined forces of Cassander, Lysimachus, and Seleucus, in which Antigonus lost his conquests and his life. From Hierocles and the Acts of Councils, we learn that in the seventh and eighth centuries it was the see of a Christian bishop. No longer the seat of a residential bishop, Ipsus remains a titular see of the Roman Catholic Church.",
+    "description": "Ancient city in Phrygia",
+    "lat": 38.856193,
+    "lon": 30.549206
+  },
   "issus": {
     "title": "Issus (Cilicia)",
     "url": "https://en.wikipedia.org/wiki/Issus_(Cilicia)",
@@ -2676,6 +2740,20 @@
       "title": "Milo",
       "url": "https://es.wikipedia.org/wiki/Milo",
       "extract": "Milo, Milos o Melos es una pequeña isla volcánica griega del mar Egeo, perteneciente al archipiélago de las Cícladas. En sus costas se muestran interesantes fenómenos geológicos y hay restos arqueológicos de las etapas minoica, helenística, romana y bizantina. Está menos afectada por el turismo de masas que otras islas vecinas y su nombre es muy conocido porque en ella se encontró la famosa Venus de Milo."
+    }
+  },
+  "memphis": {
+    "title": "Memphis, Egypt",
+    "url": "https://en.wikipedia.org/wiki/Memphis%2C_Egypt",
+    "extract": "Memphis, or Men-nefer, was the ancient capital of Inebu-hedj, the first nome of Lower Egypt that was known as mḥw (\"North\"). Its ruins are located in the vicinity of the present-day village of Mit Rahina, in Badrashin markaz (county), Giza Governorate, Egypt.",
+    "description": "Ancient capital of Inebu-hedj, Egypt",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Memphis200401.JPG/330px-Memphis200401.JPG",
+    "lat": 29.84944444,
+    "lon": 31.255,
+    "es": {
+      "title": "Menfis",
+      "url": "https://es.wikipedia.org/wiki/Menfis",
+      "extract": "Menfis, también conocida como Men-nefer, fue la antigua capital de Inebu-hedy, el primer nomo del Bajo Egipto conocido como mḥw (\"norte\"). Sus ruinas se encuentran en las inmediaciones de la actual aldea de Mit Rahina, en el condado de Badrashin, Gobernación de Guiza, Egipto."
     }
   },
   "messene": {
@@ -3299,6 +3377,20 @@
       "extract": "Francisco Pitti es un palacio renacentista en Florencia, Italia, situado en la ribera sur del río Arno, a muy corta distancia del Ponte Vecchio. El inicio de su construcción data de 1458, y fue originalmente la residencia urbana de Luca Pitti, un banquero florentino. En 1549 fue comprado por Leonor Álvarez de Toledo y Osorio), la duquesa consorte de Cosme I de Médici, duque de Florencia y posterior I gran duque de Toscana, siendo —desde ese momento— la residencia oficial de los grandes duques de Toscana."
     }
   },
+  "panias": {
+    "title": "Banias",
+    "url": "https://en.wikipedia.org/wiki/Banias",
+    "extract": "Banias, also spelled Banyas, is a site in the Israeli-occupied Golan Heights, Syria near a natural spring, once associated with the Greek god Pan. It had been inhabited for 2,000 years, until its Syrian population fled and their homes were destroyed by Israel following the 1967 Six-Day War. It is located at the foot of Mount Hermon, north of the Golan Heights, the classical Gaulanitis, in the part occupied by Israel. The spring is the source of the Banias River, one of the main tributaries of the Jordan River. Archaeologists uncovered a shrine dedicated to Pan and related deities, and the remains of an ancient city dating from the Hellenistic and Roman periods.",
+    "description": "Archaeological site in the Golan Heights",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Banias_Spring_Cliff_Pan%27s_Cave.JPG/330px-Banias_Spring_Cliff_Pan%27s_Cave.JPG",
+    "lat": 33.24861111,
+    "lon": 35.69444444,
+    "es": {
+      "title": "Banias",
+      "url": "https://es.wikipedia.org/wiki/Banias",
+      "extract": "Banias es un yacimiento arqueológico de la antigua ciudad de Cesarea de Filipo, ubicado al pie del monte Hermón, al norte de los Altos del Golán. La ciudad estaba situada en la región conocida como \"Panion\", consagrada al dios griego Pan, de quien recibió su nombre. Herodes Filipo II, hijo de Herodes el Grande, amplió y enriqueció la ciudad, dándole el nombre de Cesarea en honor del césar, a lo que añadió ‘de Filipo’ para distinguirla de Cesarea Marítima, ciudad portuaria sobre el Mediterráneo."
+    }
+  },
   "paris": {
     "title": "Paris",
     "url": "https://en.wikipedia.org/wiki/Paris",
@@ -3325,6 +3417,18 @@
       "title": "Partenón",
       "url": "https://es.wikipedia.org/wiki/Parten%C3%B3n",
       "extract": "El Partenón es un templo consagrado a la protectora de Atenas, Atenea Pártenos, y uno de los principales templos dóricos octóstilos, algo poco frecuente, hecho de mármol pentélico y cubierto con tejas de mármol de Paros, que se conservan. Fue construido entre los años 447 a. C. y 438 a. C. en la Acrópolis de Atenas. Es el templo griego más conocido del mundo, así como uno de los símbolos indiscutibles de Atenas y de Grecia."
+    }
+  },
+  "parthia": {
+    "title": "Parthia",
+    "url": "https://en.wikipedia.org/wiki/Parthia",
+    "extract": "Parthia is a historical region located in northeastern Greater Iran. It was conquered and subjugated by the empire of the Medes during the 7th century BC, was incorporated into the subsequent Achaemenid Empire under Cyrus the Great in the 6th century BC, and formed part of the Hellenistic Seleucid Empire after the 4th-century BC conquests of Alexander the Great. The region later served as the political and cultural base of the Eastern Iranian Parni people and Arsacid dynasty, rulers of the Parthian Empire. The Sasanian Empire, the last state of pre-Islamic Iran, also held the region and maintained the seven Parthian clans as part of their feudal aristocracy.",
+    "description": "Historical region located in northeastern Iran",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Median_Empire.jpg/330px-Median_Empire.jpg",
+    "es": {
+      "title": "Partia",
+      "url": "https://es.wikipedia.org/wiki/Partia",
+      "extract": "Partia es una región histórica situada en el noreste de Irán. Fue conquistada y subyugada por el imperio de los medos durante el siglo VII a. C., fue incorporada al posterior imperio aqueménida bajo Ciro el Grande en el siglo VI a. C., y formó parte del Imperio seléucida tras las conquistas de Alejandro Magno en el siglo IV a. C.. Más tarde la región sirvió como base política y cultural de los parnos y de la dinastía arsácida, gobernantes del imperio parto (247 a. C.-224 d. C.). El imperio sasánida, el último estado del Irán preislámico, también dominó la región y mantuvo a los siete clanes partos como parte de su aristocracia feudal."
     }
   },
   "pavia": {
@@ -3672,6 +3776,20 @@
       "extract": "Rain es un municipio situado en el distrito de Danubio-Ries, en el estado federado de Baviera (Alemania), con una población a finales de 2016 de unos 8902 habitantes."
     }
   },
+  "raphia": {
+    "title": "Rafah",
+    "url": "https://en.wikipedia.org/wiki/Rafah",
+    "extract": "Rafah is a largely destroyed and depopulated city in the southern Gaza Strip, Palestine, that serves as the capital of the Rafah Governorate. It is located 30 kilometers (19 mi) south-west of Gaza City. In 2017, Rafah had a population of 171,889. Due to the Gaza war, about 1.4 million people from Gaza City and Khan Yunis, about 70% of Gaza's population, were displaced to Rafah, as of February 2024. By April 2025, most of the city had been destroyed by Israeli forces and fell under Israeli control.",
+    "description": "Palestinian city in southern Gaza Strip",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/An_aerial_view_showing_destruction_in_Rafah_after_Israeli_forces_withdrawal_and_as_the_ceasefire_took_hold%2C_Gaza_Strip.jpg/330px-An_aerial_view_showing_destruction_in_Rafah_after_Israeli_forces_withdrawal_and_as_the_ceasefire_took_hold%2C_Gaza_Strip.jpg",
+    "lat": 31.2725,
+    "lon": 34.25861111,
+    "es": {
+      "title": "Rafah",
+      "url": "https://es.wikipedia.org/wiki/Rafah",
+      "extract": "Rafah o Rafa es una ciudad de Palestina. Ubicada en la Franja de Gaza, 30 kilómetros al sur de la ciudad de Gaza, es la capital de distrito de la Gobernación de Rafah. En 2017, la ciudad contaba con una población de 171 889 habitantes, aunque durante la guerra de Gaza ha sido destruida y despoblada en gran parte por el ejército israelí. En febrero de 2024, debido a la guerra, alrededor de 1,4 millones de habitantes de Ciudad de Gaza y Jan Yunis, el 70% de la población total de la Franja, había sido desplazada hacia Rafah. Para abril de 2025, la mayor parte de la ciudad había sido destruida de manera sistemática por el ejército israelí; las ruinas fueron capturadas, y continúan bajo control israelí al 22 de abril de 2026."
+    }
+  },
   "recife": {
     "title": "Recife",
     "url": "https://en.wikipedia.org/wiki/Recife",
@@ -3712,6 +3830,20 @@
       "title": "Reims",
       "url": "https://es.wikipedia.org/wiki/Reims",
       "extract": "Reims es una ciudad y una comuna francesa situada a unos 130 km al este de París, en el departamento de Marne, en la región de Gran Este. Con una población de unos 178.000 habitantes, es la mayor ciudad de su departamento, aunque no es capital."
+    }
+  },
+  "rhodes": {
+    "title": "Rhodes",
+    "url": "https://en.wikipedia.org/wiki/Rhodes",
+    "extract": "Rhodes is the largest of Greece's Dodecanese islands and their historical capital, as well as the ninth largest island in the Mediterranean Sea. Administratively, Rhodes constitutes a municipality within the Rhodes regional unit, which is part of the South Aegean administrative region. The principal town of the island and seat of the municipality is the city of Rhodes, home to 50,636 inhabitants according to the 2011 census. By 2022, the island's population had grown to 125,113 people. Located northeast of Crete and southeast of Athens, Rhodes is referred to by several nicknames: \"the Island of the Sun\" after its patron sun god Helios; \"the Pearl Island\"; and \"the Island of the Knights\", a reference to the Knights of Saint John of Jerusalem, who ruled the island from 1310 to 1522.",
+    "description": "Island in Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Rhodes_sentinel2_%28cropped%29.jpg/330px-Rhodes_sentinel2_%28cropped%29.jpg",
+    "lat": 36.17,
+    "lon": 27.92,
+    "es": {
+      "title": "Rodas",
+      "url": "https://es.wikipedia.org/wiki/Rodas",
+      "extract": "La isla de Rodas es la isla griega más extensa del archipiélago del Dodecaneso con unos 1400 kilómetros cuadrados. La capital de la isla es la ciudad homónima. Administrativamente, conforma la unidad periférica de Rodas."
     }
   },
   "rijswijk": {

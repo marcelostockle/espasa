@@ -125,6 +125,24 @@
       }
     }
   },
+  "antikythera": {
+    "label": "Antikythera",
+    "wikipedia": "Antikythera",
+    "translations": {
+      "es": {
+        "label": "Anticitera"
+      }
+    }
+  },
+  "antioch": {
+    "label": "Antioch",
+    "wikipedia": "Antioch",
+    "translations": {
+      "es": {
+        "label": "Antioquía"
+      }
+    }
+  },
   "antwerp": {
     "label": "Antwerp",
     "wikipedia": "Antwerp",
@@ -293,6 +311,15 @@
     "translations": {
       "es": {
         "label": "Babilonia"
+      }
+    }
+  },
+  "bactria": {
+    "label": "Bactria",
+    "wikipedia": "Bactria",
+    "translations": {
+      "es": {
+        "label": "Bactriana"
       }
     }
   },
@@ -917,6 +944,15 @@
       }
     }
   },
+  "delphi": {
+    "label": "Delphi",
+    "wikipedia": "Delphi",
+    "translations": {
+      "es": {
+        "label": "Delfos"
+      }
+    }
+  },
   "dessau": {
     "label": "Dessau",
     "wikipedia": "Dessau-Roßlau",
@@ -1358,6 +1394,15 @@
       }
     }
   },
+  "ipsus": {
+    "label": "Ipsus",
+    "wikipedia": "Ipsus",
+    "translations": {
+      "es": {
+        "label": "Ipso"
+      }
+    }
+  },
   "issus": {
     "label": "Issus",
     "wikipedia": "Issus (Cilicia)",
@@ -1751,6 +1796,15 @@
     "translations": {
       "es": {
         "label": "Melos (Milo)"
+      }
+    }
+  },
+  "memphis": {
+    "label": "Memphis",
+    "wikipedia": "Memphis, Egypt",
+    "translations": {
+      "es": {
+        "label": "Menfis"
       }
     }
   },
@@ -2159,6 +2213,15 @@
       }
     }
   },
+  "panias": {
+    "label": "Panium (Banias)",
+    "wikipedia": "Banias",
+    "translations": {
+      "es": {
+        "label": "Paneas (Banias)"
+      }
+    }
+  },
   "paris": {
     "label": "Paris",
     "wikipedia": "Paris",
@@ -2174,6 +2237,15 @@
     "translations": {
       "es": {
         "label": "Partenón"
+      }
+    }
+  },
+  "parthia": {
+    "label": "Parthia",
+    "wikipedia": "Parthia",
+    "translations": {
+      "es": {
+        "label": "Partia"
       }
     }
   },
@@ -2402,6 +2474,15 @@
       }
     }
   },
+  "raphia": {
+    "label": "Raphia (Rafah)",
+    "wikipedia": "Rafah",
+    "translations": {
+      "es": {
+        "label": "Rafia (Rafah)"
+      }
+    }
+  },
   "recife": {
     "label": "Recife",
     "wikipedia": "Recife",
@@ -2426,6 +2507,15 @@
     "translations": {
       "es": {
         "label": "Reims"
+      }
+    }
+  },
+  "rhodes": {
+    "label": "Rhodes",
+    "wikipedia": "Rhodes",
+    "translations": {
+      "es": {
+        "label": "Rodas"
       }
     }
   },
