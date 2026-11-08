@@ -1088,6 +1088,15 @@
       }
     }
   },
+  "emar": {
+    "label": "Emar",
+    "wikipedia": "Emar",
+    "translations": {
+      "es": {
+        "label": "Emar"
+      }
+    }
+  },
   "ephesus": {
     "label": "Ephesus",
     "wikipedia": "Ephesus",

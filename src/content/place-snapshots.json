@@ -1661,6 +1661,18 @@
       "extract": "Lutherstadt Eisleben es un pueblo en Sajonia-Anhalt, Alemania. Famoso por ser el pueblo natal de Martín Lutero, cuyo apellido se inocorporó oficialmente al nombre original, Eisleben. Es la capital del distrito de Mansfelder Land, y en 2004 tenía una población de 21.062 habitantes."
     }
   },
+  "emar": {
+    "title": "Emar",
+    "url": "https://en.wikipedia.org/wiki/Emar",
+    "extract": "Emar, is an archaeological site at Tell Meskene in the Aleppo Governorate of northern Syria. It sits in the great bend of the mid-Euphrates, now on the shoreline of the man-made Lake Assad near the town of Maskanah.",
+    "description": "Ancient city in Syria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/View_from_the_Byzantine_Tower_at_Meskene%2C_ancient_Barbalissos.jpg/330px-View_from_the_Byzantine_Tower_at_Meskene%2C_ancient_Barbalissos.jpg",
+    "es": {
+      "title": "Emar",
+      "url": "https://es.wikipedia.org/wiki/Emar",
+      "extract": "Emar fue una antigua ciudad amorita situada en el norte de Siria, en la actual línea costera del lago artificial de Buhayrat al Asad, cerca de la ciudad de Maskanah. Ha sido fuente de muchas tablillas de arcilla de escritura cuneiforme, siendo junto a Ugarit, Mari y Ebla uno de los sitios arqueológicos más importantes de Siria. Los textos de las tablillas datan desde el siglo XIV a. C. hasta la caída de Emar en 1187 a. C."
+    }
+  },
   "ephesus": {
     "title": "Ephesus",
     "url": "https://en.wikipedia.org/wiki/Ephesus",

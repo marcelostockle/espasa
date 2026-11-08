@@ -1615,6 +1615,20 @@
       }
     }
   },
+  "sea-peoples": {
+    "label": "Sea Peoples",
+    "color": "#28dc50",
+    "description": "The groups named in Egyptian sources from the 14th to the 12th century BCE (Sherden, Lukka, Peleset, Denyen and others) and the modern term \"Sea Peoples\". Identities and origins are debated.",
+    "categories": [
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Pueblos del Mar",
+        "description": "Los grupos citados en las fuentes egipcias entre los siglos XIV y XII a. C. (sherden, lukka, peleset, denyen y otros) y el término moderno «Pueblos del Mar». Su identidad y origen se debaten."
+      }
+    }
+  },
   "seleucid-empire": {
     "label": "Seleucid Empire",
     "color": "#e8dc20",
