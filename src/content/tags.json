@@ -792,6 +792,20 @@
       }
     }
   },
+  "hittite-empire": {
+    "label": "Hittite Empire",
+    "color": "#b43cdc",
+    "description": "The Hittite kingdom of Hatti in Anatolia (c. 1650-1180 BCE): its capital Hattusa, its rivalry with Egypt, Mitanni and Assyria, and its end around 1190 BCE.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio hitita",
+        "description": "El reino hitita de Hatti en Anatolia (c. 1650-1180 a. C.): su capital Hattusa, su rivalidad con Egipto, Mitani y Asiria, y su final hacia el 1190 a. C."
+      }
+    }
+  },
   "holy-roman-empire": {
     "label": "Holy Roman Empire",
     "color": "#ce93d8",
@@ -1006,6 +1020,20 @@
       }
     }
   },
+  "late-bronze-age": {
+    "label": "Late Bronze Age",
+    "color": "#1414b4",
+    "description": "The Eastern Mediterranean and Near East c. 1600-1050 BCE: the palace states and trade networks of Egypt, Hatti, Mycenaean Greece and the Levant, and their disruption around 1200 BCE.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Edad del Bronce Final",
+        "description": "El Mediterráneo oriental y el Próximo Oriente c. 1600-1050 a. C.: los estados palaciales y las redes comerciales de Egipto, Hatti, la Grecia micénica y el Levante, y su alteración hacia el 1200 a. C."
+      }
+    }
+  },
   "leonardo-da-vinci": {
     "label": "Leonardo da Vinci",
     "color": "#7a8b2e",
@@ -1214,6 +1242,20 @@
       "es": {
         "label": "Países Bajos",
         "description": "Los Países Bajos y la República de las Siete Provincias Unidas."
+      }
+    }
+  },
+  "new-kingdom-egypt": {
+    "label": "New Kingdom Egypt",
+    "color": "#b4dc3c",
+    "description": "Egypt in the New Kingdom (c. 1550-1077 BCE), the 18th to 20th Dynasties: the Amarna age, Ramesses II and III, and the end of Egyptian power in the Levant.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Egipto del Imperio Nuevo",
+        "description": "Egipto en el Imperio Nuevo (c. 1550-1077 a. C.), de las dinastías XVIII a XX: la época de Amarna, Ramsés II y III, y el fin del poder egipcio en el Levante."
       }
     }
   },

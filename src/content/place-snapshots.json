@@ -153,6 +153,20 @@
       "extract": "Los Alpes son una cadena de montañas situada en la Europa Central. Su cumbre más alta es el Mont Blanc, con 4810 m s. n. m. Alrededor de los Alpes, favorecidos por ríos importantes de caudal uniforme y ricas tierras de cultivo, se ubicaron desde la prehistoria diversos pueblos, como los celtas, los lingones, leucos, insubrios, helvecios y, posteriormente, germánicos en el noreste y pueblos itálicos en el sur, después de la conquista romana de la Galia Cisalpina. Actualmente viven unos 14 millones de personas en la región de los Alpes."
     }
   },
+  "amarna": {
+    "title": "Amarna",
+    "url": "https://en.wikipedia.org/wiki/Amarna",
+    "extract": "Amarna is an extensive ancient Egyptian archaeological site containing the ruins of Akhetaten, the capital city during the late Eighteenth Dynasty. The city was established in 1346 BC, built at the direction of the Pharaoh Akhenaten, and abandoned shortly after his death in 1332 BC.",
+    "description": "Akhenaten's capital of Egypt, 1346–1332 BC",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Small_aten_temple.jpg/330px-Small_aten_temple.jpg",
+    "lat": 27.64527778,
+    "lon": 30.89638889,
+    "es": {
+      "title": "Amarna",
+      "url": "https://es.wikipedia.org/wiki/Amarna",
+      "extract": "Amarna es el nombre árabe de una región egipcia situada en la ribera oriental del río Nilo, célebre por ser el enclave donde se edificó la ciudad de Ajetatón a mediados del siglo XIV a. C. la nueva capital de Egipto."
+    }
+  },
   "amphipolis": {
     "title": "Amphipolis",
     "url": "https://en.wikipedia.org/wiki/Amphipolis",
@@ -1010,6 +1024,20 @@
       "extract": "Capua es una ciudad de la provincia de Caserta, Italia. En los tiempos antiguos, era la capital regional de la Campania, a 26 km de la actual Nápoles, a orillas del río Volturno. En 2018 contaba con 18 293 habitantes."
     }
   },
+  "carchemish": {
+    "title": "Carchemish",
+    "url": "https://en.wikipedia.org/wiki/Carchemish",
+    "extract": "Carchemish, also spelled Karkemish, was an important ancient capital in the northern part of the region of Syria. At times during its history the city was independent, but it was also part of the Mitanni, Hittite and Neo-Assyrian Empires. In Roman times the city bore the name Europus. Today it is on the frontier between Turkey and Syria.",
+    "description": "Ancient city in Syria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/NeoHittiteStates.gif/330px-NeoHittiteStates.gif",
+    "lat": 36.82944444,
+    "lon": 38.01638889,
+    "es": {
+      "title": "Karkemish",
+      "url": "https://es.wikipedia.org/wiki/Karkemish",
+      "extract": "Karkemish, Carchemish o Carquemís fue una importante ciudad de los imperios mitanno, hitita y asirio, situada en lo que hoy es la actual frontera turco-siria, conocida por los romanos como Europus. Es famosa por ser el lugar de la importante batalla de Karkemish entre babilonios y egipcios, mencionada en la Biblia, cuando la ciudad es llamada Jerablus, probablemente una mutación del nombre en una lengua local para la ciudad, Jarablos y la proximidad con las actuales ciudades de Yarábulus en Siria y Karkamış en Turquía."
+    }
+  },
   "carrhae": {
     "title": "Harran",
     "url": "https://en.wikipedia.org/wiki/Harran",
@@ -1396,6 +1424,20 @@
       "title": "Batalla de Cinoscéfalas (197 a. C.)",
       "url": "https://es.wikipedia.org/wiki/Batalla_de_Cinosc%C3%A9falas_(197_a._C.)",
       "extract": "La batalla de Cinoscéfalas fue un enfrentamiento militar librado en 197 a. C. en el contexto de la segunda guerra macedónica, entre las legiones de la República romana, encabezadas por el procónsul Tito Quincio Flaminino, y el ejército del Reino de Macedonia, liderado por el rey Filipo V. El encuentro terminó en una decisiva victoria de Roma."
+    }
+  },
+  "cyprus": {
+    "title": "Cyprus",
+    "url": "https://en.wikipedia.org/wiki/Cyprus",
+    "extract": "Cyprus, officially the Republic of Cyprus, is an island country in the eastern Mediterranean Sea, located off the coast of the Levant mainland in West Asia. The island of Cyprus, which is the third largest and third most populous island in the Mediterranean, is divided along the United Nations Buffer Zone between the internationally recognised Republic of Cyprus and the Turkish Republic of Northern Cyprus, which is recognised only by Turkey. The south of the island also hosts the British sovereign military bases of Akrotiri and Dhekelia. The capital and largest city of Cyprus is Nicosia.",
+    "description": "Island country in the Mediterranean Sea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/330px-Flag_of_Cyprus.svg.png",
+    "lat": 35,
+    "lon": 33,
+    "es": {
+      "title": "Chipre",
+      "url": "https://es.wikipedia.org/wiki/Chipre",
+      "extract": "Chipre, oficialmente la República de Chipre es un país insular en el Mediterráneo oriental y el único miembro asiático de los veintisiete Estados soberanos que conforman la Unión Europea. Está situado en la isla homónima y su forma de gobierno es la república presidencialista. Su territorio está organizado en seis distritos administrativos. Su capital es Nicosia."
     }
   },
   "cyrene": {
@@ -2058,6 +2100,20 @@
       "extract": "Hangzhou es la capital y la ciudad más grande de la provincia de Zhejiang en la República Popular China. Está situada en las riberas del río Qiantang, cerca de su desembocadura, y a la cabeza de la bahía de Hangzhou, que separa Shanghái y Ningbo. Hangzhou cobró relevancia al ser el extremo sur del Gran Canal, y ha sido una de las ciudades chinas con más renombre durante el último milenio."
     }
   },
+  "hattusa": {
+    "title": "Hattusa",
+    "url": "https://en.wikipedia.org/wiki/Hattusa",
+    "extract": "Hattusa, also Hattuşa, Ḫattuša, Hattusas, or Hattusha, was the capital of the Hittite Empire in the late Bronze Age during two distinct periods. Its ruins lie near modern Boğazkale, Turkey, within the great loop of the Kızılırmak River.",
+    "description": "Capital of the Hittite Empire",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg/330px-Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg",
+    "lat": 40.01972222,
+    "lon": 34.61527778,
+    "es": {
+      "title": "Hattusa",
+      "url": "https://es.wikipedia.org/wiki/Hattusa",
+      "extract": "Hattusa o Hattusas fue la antigua capital del Imperio hitita desde el reinado de Hattusili I, situada en el centro de Anatolia, junto al río Kizil-Irmak, en lo que corresponde hoy en día en ubicación con la aldea de Boğazkale o Bogazköy, en la provincia turca de Çorum. La ciudad contaba con amplios bosques y un fértil campo adyacente, aunque su emplazamiento tenía dos inconvenientes: los ríos de la zona no eran navegables, lo que impedía el transporte fluvial, y la cercanía a la tribu bárbara de los kaskas que fueron una amenaza permanente y constante para Hattusa. El enclave de Hattusa fue declarado por la Unesco como Patrimonio de la Humanidad en el año 1986, abarcando un área protegida de 268 ha."
+    }
+  },
   "heidelberg": {
     "title": "Heidelberg",
     "url": "https://en.wikipedia.org/wiki/Heidelberg",
@@ -2322,6 +2378,19 @@
       "title": "Junín (Perú)",
       "url": "https://es.wikipedia.org/wiki/Jun%C3%ADn_(Per%C3%BA)",
       "extract": "Junín es una ciudad peruana, capital del distrito y la provincia homónimos en el departamento del mismo nombre. Está situada a 4105 m de altitud, en la orilla sur del lago Junín."
+    }
+  },
+  "kadesh": {
+    "title": "Kadesh (Syria)",
+    "url": "https://en.wikipedia.org/wiki/Kadesh_(Syria)",
+    "extract": "Kadesh, or Qadesh, was an ancient city of the Levant on or near the headwaters or a ford of the Orontes River. It was of some importance during the Late Bronze Age and is mentioned in the Amarna letters. It was the site of the Battle of Kadesh between the Hittite and Egyptian empires in the 13th century BC.",
+    "description": "Archaeological site",
+    "lat": 34.5576,
+    "lon": 36.52,
+    "es": {
+      "title": "Qadesh",
+      "url": "https://es.wikipedia.org/wiki/Qadesh",
+      "extract": "Qadesh, también llamada Kadesh o Quidsa, fue una ciudad del Canaán a orillas del río Orontes en lo que hoy es territorio sirio, famosa principalmente por la batalla que enfrentó a hititas y egipcios."
     }
   },
   "kagoshima": {
@@ -4923,6 +4992,20 @@
       "title": "Ulm",
       "url": "https://es.wikipedia.org/wiki/Ulm",
       "extract": "Ulm es una ciudad alemana situada en el estado de Baden-Wurtemberg. Tiene una población estimada, a fines de marzo de 2026, de 130 161 habitantes."
+    }
+  },
+  "uluburun": {
+    "title": "Uluburun shipwreck",
+    "url": "https://en.wikipedia.org/wiki/Uluburun_shipwreck",
+    "extract": "Uluburun is a Late Bronze Age underwater archaeological site, located in the Mediterranean Sea south of Kaş, in Turkey where a shipwreck dated to the late 14th century BC was discovered. The sunken ship, approximately 15 meters long and carrying a cargo of over 20 tons, was lying at a depth of over 40 meters at the time of its discovery.",
+    "description": "14th-century BCE Mediterranean shipwreck",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Uluburun1.jpg/330px-Uluburun1.jpg",
+    "lat": 36.12861111,
+    "lon": 29.68583333,
+    "es": {
+      "title": "Pecio de Uluburun",
+      "url": "https://es.wikipedia.org/wiki/Pecio_de_Uluburun",
+      "extract": "El Pecio de Uluburun es un yacimiento submarino de la Edad del Bronce, descubierto en la costa meridional de Turquía, cerca de la ciudad de Kaç, en la provincia de Antalya. Un pescador de esponjas turco lo descubrió en 1982, y fue excavado usando técnicas de arqueología subacuática en once campañas consecutivas de entre tres y cuatro meses de duración cada una, entre los años 1984 y 1994."
     }
   },
   "usedom": {

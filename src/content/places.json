@@ -98,6 +98,15 @@
       }
     }
   },
+  "amarna": {
+    "label": "Amarna (Akhetaten)",
+    "wikipedia": "Amarna",
+    "translations": {
+      "es": {
+        "label": "Amarna (Ajetatón)"
+      }
+    }
+  },
   "amphipolis": {
     "label": "Amphipolis",
     "wikipedia": "Amphipolis",
@@ -665,6 +674,15 @@
       }
     }
   },
+  "carchemish": {
+    "label": "Carchemish",
+    "wikipedia": "Carchemish",
+    "translations": {
+      "es": {
+        "label": "Carquemis"
+      }
+    }
+  },
   "carrhae": {
     "label": "Carrhae",
     "wikipedia": "Carrhae",
@@ -914,6 +932,15 @@
     "translations": {
       "es": {
         "label": "Cinoscéfalas"
+      }
+    }
+  },
+  "cyprus": {
+    "label": "Cyprus",
+    "wikipedia": "Cyprus",
+    "translations": {
+      "es": {
+        "label": "Chipre"
       }
     }
   },
@@ -1349,6 +1376,15 @@
       }
     }
   },
+  "hattusa": {
+    "label": "Hattusa",
+    "wikipedia": "Hattusa",
+    "translations": {
+      "es": {
+        "label": "Hattusa"
+      }
+    }
+  },
   "heidelberg": {
     "label": "Heidelberg",
     "wikipedia": "Heidelberg",
@@ -1526,6 +1562,15 @@
     "translations": {
       "es": {
         "label": "Junín"
+      }
+    }
+  },
+  "kadesh": {
+    "label": "Kadesh",
+    "wikipedia": "Tell_Nebi_Mend",
+    "translations": {
+      "es": {
+        "label": "Kadesh"
       }
     }
   },
@@ -3227,6 +3272,15 @@
     "translations": {
       "es": {
         "label": "Ulm"
+      }
+    }
+  },
+  "uluburun": {
+    "label": "Uluburun shipwreck",
+    "wikipedia": "Uluburun_shipwreck",
+    "translations": {
+      "es": {
+        "label": "Naufragio de Uluburun"
       }
     }
   },
