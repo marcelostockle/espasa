@@ -233,6 +233,15 @@
       }
     }
   },
+  "ashkelon": {
+    "label": "Ashkelon",
+    "wikipedia": "Ashkelon",
+    "translations": {
+      "es": {
+        "label": "Ascalón"
+      }
+    }
+  },
   "asia-province": {
     "label": "Roman province of Asia",
     "wikipedia": "Asia (Roman province)",
@@ -977,6 +986,15 @@
     "translations": {
       "es": {
         "label": "Decelia"
+      }
+    }
+  },
+  "deir-el-medina": {
+    "label": "Deir el-Medina",
+    "wikipedia": "Deir_el-Medina",
+    "translations": {
+      "es": {
+        "label": "Deir el-Medina"
       }
     }
   },
@@ -1904,6 +1922,15 @@
     "translations": {
       "es": {
         "label": "Medellín"
+      }
+    }
+  },
+  "medinet-habu": {
+    "label": "Medinet Habu",
+    "wikipedia": "Medinet_Habu",
+    "translations": {
+      "es": {
+        "label": "Medinet Habu"
       }
     }
   },

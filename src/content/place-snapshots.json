@@ -360,6 +360,20 @@
       "extract": "Ascoli Satriano es una villa y comune (municipio) de la provincia de Foggia, en la región suroriental italiana de la Apulia."
     }
   },
+  "ashkelon": {
+    "title": "Ashkelon",
+    "url": "https://en.wikipedia.org/wiki/Ashkelon",
+    "extract": "Ashkelon or Ashqelon, is a coastal city in the Southern District of Israel on the Mediterranean coast, 50 kilometres (30 mi) south of Tel Aviv, and 13 kilometres (8 mi) north of the border with the Gaza Strip.\nThe modern city is named after the ancient seaport of Ascalon, which was destroyed in 1270 and whose remains are on the southwestern edge of the modern metropolis.",
+    "description": "City in Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/93439_marina_ashkelon_PikiWiki_Israel.jpg/330px-93439_marina_ashkelon_PikiWiki_Israel.jpg",
+    "lat": 31.66666667,
+    "lon": 34.56666667,
+    "es": {
+      "title": "Ascalón",
+      "url": "https://es.wikipedia.org/wiki/Ascal%C3%B3n",
+      "extract": "Ascalón es una ciudad de Israel, situada a 56 km al sur de Tel Aviv, 73 km al sudoeste de Jerusalén y a 13 km de la frontera norte de la Franja de Gaza. Asentada a orillas del mar Mediterráneo y cerca del desierto del Néguev, tiene un clima especialmente agradable, tanto fresco como seco. Los días lluviosos son raros y posee una de las playas de arenas más finas del país, así como innumerables lugares de entretenimiento."
+    }
+  },
   "asia-province": {
     "title": "Asia (Roman province)",
     "url": "https://en.wikipedia.org/wiki/Asia_(Roman_province)",
@@ -1493,6 +1507,20 @@
       "title": "Decelia",
       "url": "https://es.wikipedia.org/wiki/Decelia",
       "extract": "Decelia —actualmente, en griego moderno: Dekeleia o Dekelia, Deceleia o Decelia— fue un antiguo demo de Atenas, fuente de suministros e importante bastión para la defensa de la región ática."
+    }
+  },
+  "deir-el-medina": {
+    "title": "Deir el-Medina",
+    "url": "https://en.wikipedia.org/wiki/Deir_el-Medina",
+    "extract": "Deir el-Medina, or Dayr al-Madīnah, is an ancient Egyptian workmen's village that was home to the artisans who worked on the tombs in the Valley of the Kings during the 18th to 20th Dynasties of the New Kingdom of Egypt. The ancient name of the settlement was Set maat, and the workmen who lived there were called \"Servants in the Place of Truth\". During the Christian era the temple of Hathor was converted into a monastery of Saint Isidorus the Martyr, from which the Egyptian Arabic name Deir el-Medina is derived.",
+    "description": "Ancient Egyptian village in the Valley of the Kings",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Deir_el-Medina%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_18.jpg/330px-Deir_el-Medina%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_18.jpg",
+    "lat": 25.7283,
+    "lon": 32.6014,
+    "es": {
+      "title": "Deir el-Medina",
+      "url": "https://es.wikipedia.org/wiki/Deir_el-Medina",
+      "extract": "Deir el-Medina fue un antiguo poblado egipcio fundado por Tutmosis I, faraón de la dinastía XVIII. A la entrada del Valle de las Reinas y cerca del de los Reyes, se encuentran los restos del que fuera el más próspero poblado de obreros y artesanos del Antiguo Egipto: Set Maat \"El lugar de la Verdad\", Deir el-Medina, localidad situada en un pequeño valle en la región tebana, próximo a la colina de Qurnet Mura, en la ribera occidental del Nilo, frente a Tebas, actual Luxor (Egipto)."
     }
   },
   "delft": {
@@ -2898,6 +2926,20 @@
       "title": "Medellín (España)",
       "url": "https://es.wikipedia.org/wiki/Medell%C3%ADn_(Espa%C3%B1a)",
       "extract": "Medellín es un municipio y localidad española de la provincia de Badajoz, en la comunidad autónoma de Extremadura. De fundación romana, cabecera del condado homónimo durante la Edad Media y cuna de Hernán Cortés."
+    }
+  },
+  "medinet-habu": {
+    "title": "Medinet Habu",
+    "url": "https://en.wikipedia.org/wiki/Medinet_Habu",
+    "extract": "Medinet Habu is an archaeological locality situated near the foot of the Theban Hills on the West Bank of the River Nile opposite the modern city of Luxor, Egypt. Although other structures are located within the area and important discoveries have also been made at these sites, the location is today associated almost synonymously with the largest and best preserved site, the Mortuary Temple of Ramesses III. It was an important New Kingdom period temple structure in the West Bank of Luxor in Egypt. Aside from its size and architectural and artistic importance, the mortuary temple is probably best known as the source of inscribed reliefs depicting the advent and defeat of the \"sea peoples\" during the reign of Ramesses III, including the Battle of the Delta. Some of the building\nmaterials were re-used from earlier monuments including the destroyed mortuary temple of Tausret the last known ruler and the final pharaoh of the Nineteenth Dynasty of Egypt. The Greco-Roman period temple to Isis, Deir el-Shelwit, lies\n4 kilometers to the south and re-used inscribed blocks from Medinet Habu were found there.",
+    "description": "Mortuary Temple of Ramesses III",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Templo_funerario_de_Rams%C3%A9s_III%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_22.jpg/330px-Templo_funerario_de_Rams%C3%A9s_III%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_22.jpg",
+    "lat": 25.71972222,
+    "lon": 32.60083333,
+    "es": {
+      "title": "Medinet Habu",
+      "url": "https://es.wikipedia.org/wiki/Medinet_Habu",
+      "extract": "Medinet Habu, Dyamet, localidad situada en la orilla occidental del Nilo, frente a Tebas, la ciudad que fue durante siglos centro administrativo y económico de la región y uno de los primeros lugares asociado al dios Amón, en la región tebana."
     }
   },
   "megalopolis": {
