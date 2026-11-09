@@ -320,6 +320,20 @@
       "extract": "El arco de Tito es un arco honorífico, situado en la Vía Sacra, justo al sureste del Foro, en Roma. Fue construido hacia el año 80 d. C. por el emperador romano Domiciano poco después de la muerte de su hermano mayor, Tito, para conmemorar las victorias de este, incluido el Sitio de Jerusalén del 70 d. C. El arco ha proporcionado el modelo general para muchos arcos triunfales erigidos desde el siglo XVI, y es lo que inspiró el Arco de Triunfo en París, Francia."
     }
   },
+  "archanes": {
+    "title": "Archanes",
+    "url": "https://en.wikipedia.org/wiki/Archanes",
+    "extract": "Archanes is a former municipality in the Heraklion regional unit, Crete, Greece. Since the 2011 local government reform it is part of the municipality Archanes-Asterousia, of which it is a municipal unit. The municipal unit has an area of 31.516 km2 (12.168 sq mi). Population 5,064 (2021). It is also the archaeological site of an ancient Minoan settlement in central Crete. The discovery of ancient roads leading from Archanes to Juktas, Anemospilia, Xeri Kara and Vathypetro indicate that Archanes was an important hub in the region during Minoan times. Archaeological evidence indicates that ancient Archanes spread out over the same area as the modern town of Archanes.",
+    "description": "Municipal unit in Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%CE%91%CF%81%CF%87%CE%AC%CE%BD%CE%B5%CF%82_169.JPG/330px-%CE%91%CF%81%CF%87%CE%AC%CE%BD%CE%B5%CF%82_169.JPG",
+    "lat": 35.23333333,
+    "lon": 25.16666667,
+    "es": {
+      "title": "Arjanes",
+      "url": "https://es.wikipedia.org/wiki/Arjanes",
+      "extract": "Arjanes es una localidad y unidad municipal de Grecia que pertenece al municipio de Arjanes-Asterusia y a la unidad periférica de Heraclión, pocos kilómetros al sur de Cnosos, en la zona central de la isla de Creta. La zona contiene importantes ruinas de época minoica, aunque el terreno para las excavaciones está muy limitado por las edificaciones modernas."
+    }
+  },
   "arpino": {
     "title": "Arpino",
     "url": "https://en.wikipedia.org/wiki/Arpino",
@@ -859,6 +873,20 @@
       "extract": "Burgos es una ciudad y municipio de España en la comunidad autónoma de Castilla y León, capital de la provincia homónima. Con 177 402 habitantes, es el segundo municipio más poblado de la comunidad autónoma, tras Valladolid, e integra un área metropolitana de 200 000 habitantes."
     }
   },
+  "byblos": {
+    "title": "Byblos",
+    "url": "https://en.wikipedia.org/wiki/Byblos",
+    "extract": "Byblos, also known as Jbail, Jebeil, Jbeil or Jubayl, is an ancient city in the Keserwan-Jbeil Governorate of Lebanon. The area is believed to have been first settled between 8800 and 7000 BC and continuously inhabited since 5000 BC. During its history, Byblos was invaded by numerous peoples including Egyptian, Assyrian, Persian, Hellenistic, Roman, Umayyad, Abbasid, Genoese, Ayyubid, Mamluk and Ottoman forces. Urbanization is thought to have begun during the third millennium BC when it developed into a city, making it one of the oldest cities in the world, if not the oldest. It is a UNESCO World Heritage Site.",
+    "description": "City in Keserwan-Jbeil, Lebanon",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Byblos_Libanon_2003.JPG/330px-Byblos_Libanon_2003.JPG",
+    "lat": 34.12361111,
+    "lon": 35.65194444,
+    "es": {
+      "title": "Biblos",
+      "url": "https://es.wikipedia.org/wiki/Biblos",
+      "extract": "Biblos es una ciudad ubicada en el Líbano, en la costa del norte del país, a 30 km de Beirut."
+    }
+  },
   "cadiz": {
     "title": "Cádiz",
     "url": "https://en.wikipedia.org/wiki/C%C3%A1diz",
@@ -1386,6 +1414,20 @@
       "extract": "Cranón fue una antigua ciudad del distrito de Pelasgiótide en Tesalia, al sudoeste de Lárisa. La tradición afirma que antes de la llegada de los tesalios se llamó Efira, cuyos habitantes, los efirios son mencionados por Estrabón en boca de Homero. El topónimo difiere según las fuentes: Κράννων -ωνοϛ, ῂ; Κραννών, Κράννουν, y Κράννουϛ. El gentilicio es cranonio, y también varía: Κραν(ν)ούνιος, Κραννῴνιοϛ, y Κρανώνιοϛ. Estaba situada a unos 25 km al sudoeste de Lárisa. Al oeste limitaba con el territorio de Átrax y al este con el de Escotusa. Al sur las crestas de las Revenia la separaban del valle del río Enipo. Distaba unos 100 estadios de la antigua ciudad de Girtón."
     }
   },
+  "crete": {
+    "title": "Crete",
+    "url": "https://en.wikipedia.org/wiki/Crete",
+    "extract": "Crete is the largest and most populous island of Greece, the 89th largest island in the world, and the fifth largest island in the Mediterranean Sea, after Sicily, Sardinia, Cyprus, and Corsica. Crete is located approximately 100 km (62 mi) south of the Peloponnese, and about 300 km (190 mi) southwest of Anatolia. Crete has an area of 8,450 km2 (3,260 mi2) and a coastline of 1,046 km (650 mi). It bounds the southern border of the Aegean Sea, with the Sea of Crete to the north and the Libyan Sea to the south. Crete covers 260 km from west to east but is narrow from north to south, spanning three degrees of longitude but only half a degree of latitude.",
+    "description": "Largest Greek island",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/330px-Island_of_Crete%2C_Greece.JPG",
+    "lat": 35.21,
+    "lon": 24.91,
+    "es": {
+      "title": "Creta",
+      "url": "https://es.wikipedia.org/wiki/Creta",
+      "extract": "Creta es la isla más grande y poblada de Grecia y la quinta en tamaño del mar Mediterráneo. Se encuentra aproximadamente a 100 km al sur del Peloponeso y a unos 300 km al suroeste de Anatolia. Posee una superficie de 8300 km², una línea costera de 1040 kilómetros de longitud y una población de unos 620 000 habitantes. Delimita la frontera sur del mar Egeo, con el mar de Creta al norte y el mar de Libia al sur. Creta se extiende a lo largo de 260 km de este a oeste este, pero es estrecha de norte a sur, abarcando tres grados de longitud, pero apenas medio grado de latitud."
+    }
+  },
   "crotone": {
     "title": "Crotone",
     "url": "https://en.wikipedia.org/wiki/Crotone",
@@ -1701,6 +1743,19 @@
       "extract": "Emar fue una antigua ciudad amorita situada en el norte de Siria, en la actual línea costera del lago artificial de Buhayrat al Asad, cerca de la ciudad de Maskanah. Ha sido fuente de muchas tablillas de arcilla de escritura cuneiforme, siendo junto a Ugarit, Mari y Ebla uno de los sitios arqueológicos más importantes de Siria. Los textos de las tablillas datan desde el siglo XIV a. C. hasta la caída de Emar en 1187 a. C."
     }
   },
+  "enkomi": {
+    "title": "Enkomi",
+    "url": "https://en.wikipedia.org/wiki/Enkomi",
+    "extract": "Enkomi is a village near Famagusta in Cyprus. It is a short distance from a prominent 2nd millennium BC archaeological site also named Enkomi. Enkomi is under the de facto control of Northern Cyprus.",
+    "description": "Place in Famagusta District, Cyprus",
+    "lat": 35.15833333,
+    "lon": 33.89111111,
+    "es": {
+      "title": "Enkomi",
+      "url": "https://es.wikipedia.org/wiki/Enkomi",
+      "extract": "Enkomi es un yacimiento arqueológico de la Edad del Bronce situado a siete km al norte de Famagusta, en la parte noroccidental de la isla de Chipre."
+    }
+  },
   "ephesus": {
     "title": "Ephesus",
     "url": "https://en.wikipedia.org/wiki/Ephesus",
@@ -1950,6 +2005,15 @@
       "url": "https://es.wikipedia.org/wiki/Gordio",
       "extract": "Gordio era la capital del antiguo reino de Frigia. Corresponde al actual yacimiento de Yassihüyük, en la actual provincia turca de Ankara, a unos 96 km al sudoeste de la ciudad de Ankara y en el distrito de Polatlı. El núcleo de Gordio, compuesto por la ciudadela, la ciudad baja y una fortaleza, se situaba en la ribera oriental del río Sangario, río que fluye desde Anatolia central hasta el mar Negro, aunque posteriormente surgieron extensos suburbios en el lado opuesto. Su nombre se relaciona con Gordias, uno de los primeros reyes de Frigia. Otro de los reyes relacionados con la ciudad fue su hijo Midas."
     }
+  },
+  "gortyn": {
+    "title": "Gortyn",
+    "url": "https://en.wikipedia.org/wiki/Gortyn",
+    "extract": "Gortyn, Gortys or Gortyna is a municipality, and an archaeological site, on the Mediterranean island of Crete 45 km (28 mi) away from the island's capital, Heraklion. The seat of the municipality is the village Agioi Deka. Gortyn was the Roman capital of Creta et Cyrenaica. The area was first inhabited around 7000 BC.",
+    "description": "Municipality in Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Gortys_R02.jpg/330px-Gortys_R02.jpg",
+    "lat": 35.0631,
+    "lon": 24.9469
   },
   "gran-pajonal": {
     "title": "Gran Pajonal",
@@ -2459,6 +2523,20 @@
       "title": "Kalmar",
       "url": "https://es.wikipedia.org/wiki/Kalmar",
       "extract": "Kalmar es una ciudad en Småland al sureste de Suecia, situada a orillas del mar Báltico."
+    }
+  },
+  "kerameikos": {
+    "title": "Kerameikos",
+    "url": "https://en.wikipedia.org/wiki/Kerameikos",
+    "extract": "Kerameikos, also known by its Latinized form Ceramicus, is an area of Athens, Greece, located to the northwest of the Acropolis, which includes an extensive area both within and outside the ancient city walls, on both sides of the Dipylon Gate and by the banks of the Eridanos River. It was the potters' quarter of the city, from which the English word ceramic is derived, and was also the site of an important cemetery and numerous funerary sculptures erected along the Sacred Way, a road from Athens to Eleusis.",
+    "description": "Area of Athens, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kerameikos_Cemetery_on_July_28%2C_2019.jpg/330px-Kerameikos_Cemetery_on_July_28%2C_2019.jpg",
+    "lat": 37.97833333,
+    "lon": 23.71888889,
+    "es": {
+      "title": "Cerámico",
+      "url": "https://es.wikipedia.org/wiki/Cer%C3%A1mico",
+      "extract": "El Cerámico es el nombre de un demo, barrio de los alfareros de la antigua Atenas, al noroeste de la Acrópolis.\nSegún Heródoto, su nombre proviene del griego κέραμος keramos, tierra cocida. Para Pausanias, el nombre proviene más bien de Céramo, hijo de Ariadna y de Dioniso."
     }
   },
   "knossos": {
@@ -3040,6 +3118,15 @@
       "extract": "El Metauro es un río de Italia, con una longitud de 110 km desde de su nacimiento en los Apeninos hasta su desembocadura en el mar Adriático."
     }
   },
+  "methone": {
+    "title": "Methoni, Pieria",
+    "url": "https://en.wikipedia.org/wiki/Methoni%2C_Pieria",
+    "extract": "Methoni is a village and a former municipality in Pieria regional unit, Greece. Since the 2011 local government reform it is part of the municipality Pydna-Kolindros, of which it is a municipal unit.",
+    "description": "Village in Central Macedonia, Greece",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/DE_Methonis_Pierias.svg/330px-DE_Methonis_Pierias.svg.png",
+    "lat": 40.43333333,
+    "lon": 22.58333333
+  },
   "mieszkowice": {
     "title": "Mieszkowice",
     "url": "https://en.wikipedia.org/wiki/Mieszkowice",
@@ -3563,6 +3650,13 @@
       "extract": "El palacio de Whitehall fue la antigua residencia principal de los reyes ingleses en Londres desde 1530 hasta 1698."
     }
   },
+  "palaepaphos": {
+    "title": "Paphos (ancient city-state)",
+    "url": "https://en.wikipedia.org/wiki/Paphos_(ancient_city-state)",
+    "extract": "Paphos was a polity of ancient Cyprus located on the Mediterranean coast in the southwest of the island. Paphos was a major economic and religious hub in the eastern Mediterranean from the Middle Bronze Age until its dissolution at the start of the Hellenistic period. Its port and administrative center was the homonymous settlement of Paphos, established c. 1700 BC near modern Kouklia. In the Iron Age, Paphos was known as a polis (city-state) or \"city-kingdom\" of Cyprus. It is unknown to what degree the ancient polity's regional influence approximated the boundaries of the modern Paphos District.",
+    "description": "Ancient city-state in southwest Cyprus",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ruines_de_Baffa_et_de_Koukla_ou_du_nouveau_et_du_vieux_Paphos_%2834423194821%29.jpg/330px-Ruines_de_Baffa_et_de_Koukla_ou_du_nouveau_et_du_vieux_Paphos_%2834423194821%29.jpg"
+  },
   "palatine-hill": {
     "title": "Palatine Hill",
     "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
@@ -3741,6 +3835,20 @@
       "title": "Perugia",
       "url": "https://es.wikipedia.org/wiki/Perugia",
       "extract": "Perugia o, tradicionalmente en español, Perusa es una ciudad italiana, capital de la región de Umbría y de la provincia de Perugia. Se encuentra cerca del río Tíber, en el centro de la península itálica, y tiene una población de 162 467 habitantes. El producto más importante es el chocolate, realizándose una feria anual en octubre sobre este alimento."
+    }
+  },
+  "phaistos": {
+    "title": "Phaistos",
+    "url": "https://en.wikipedia.org/wiki/Phaistos",
+    "extract": "Phaistos, also transliterated as Phaestos, Festos and Latin Phaestus, is a Bronze Age archaeological site at modern Faistos, a municipality in south central Crete. It is notable for the remains of a Minoan palace and the surrounding town.",
+    "description": "Ancient Greek city in Crete",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Map_Minoan_Crete-en.svg/330px-Map_Minoan_Crete-en.svg.png",
+    "lat": 35.05138889,
+    "lon": 24.81361111,
+    "es": {
+      "title": "Festo",
+      "url": "https://es.wikipedia.org/wiki/Festo",
+      "extract": "Festo o Festos fue uno de los principales centros de la civilización minoica, y la más rica y poderosa ciudad del sur de Creta. Estaba situada al sur de la isla, cerca de la costa, en la llanura de Mesará y al sudoeste de Heraclión. Estaba próxima también a Gortina."
     }
   },
   "pharsalus": {
@@ -4404,6 +4512,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Sentinum_3.png/330px-Sentinum_3.png",
     "lat": 43.41848889,
     "lon": 12.85225
+  },
+  "serabit-el-khadim": {
+    "title": "Serabit el-Khadim",
+    "url": "https://en.wikipedia.org/wiki/Serabit_el-Khadim",
+    "extract": "Serabit el-Khadim is a locality in the southwest Sinai Peninsula, Egypt, where valuable resources such as turquoise were mined extensively in antiquity, mainly by the ancient Egyptians. Archaeological excavation, initially by Sir Flinders Petrie, revealed ancient mining camps and a long-lived Temple of Hathor, the Egyptian goddess of sensual power, who was favored as a protector in desert regions and known locally as the mistress of turquoise. ",
+    "description": "Archaeological site in southwestern Sinai",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Serabit_el-Chadim_019.JPG/330px-Serabit_el-Chadim_019.JPG",
+    "lat": 29.03666667,
+    "lon": 33.45916667,
+    "es": {
+      "title": "Sarabit al-Khadim",
+      "url": "https://es.wikipedia.org/wiki/Sarabit_al-Khadim",
+      "extract": "Sarabit al-Khadim «la montaña del sirviente», es una localidad egipcia situada en el sudoeste de la península de Sinaí, en una zona minera donde se extrajeron turquesas desde la antigüedad, principalmente por los habitantes del Antiguo Egipto."
+    }
   },
   "serra-da-barriga": {
     "title": "Serra da Barriga",
@@ -5325,6 +5447,13 @@
       "url": "https://es.wikipedia.org/wiki/Volsinii",
       "extract": "Volsinii fue una antigua ciudad etrusca y después romana."
     }
+  },
+  "wadi-el-hol": {
+    "title": "Wadi el-Hol inscriptions",
+    "url": "https://en.wikipedia.org/wiki/Wadi_el-Hol_inscriptions",
+    "extract": "The Wadi el-Hol inscriptions are two rock inscriptions which appear to show some of the oldest examples of phonetic alphabetic writing discovered to date.",
+    "description": "Inscriptions on the Nile River's west bank",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wadi_el-Hol_inscriptions_II_drawing.jpg/330px-Wadi_el-Hol_inscriptions_II_drawing.jpg"
   },
   "wittenberg": {
     "title": "Wittenberg",

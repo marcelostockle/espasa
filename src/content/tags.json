@@ -1898,6 +1898,20 @@
       }
     }
   },
+  "writing": {
+    "label": "Writing",
+    "color": "#14b478",
+    "description": "The history of writing systems and the earliest evidence for them: scripts, inscriptions and alphabets, from Cretan hieroglyphs and the Proto-Sinaitic signs to the Greek alphabet.",
+    "categories": [
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Escritura",
+        "description": "La historia de los sistemas de escritura y las pruebas más antiguas de ellos: escrituras, inscripciones y alfabetos, desde los jeroglíficos cretenses y los signos protosinaíticos hasta el alfabeto griego."
+      }
+    }
+  },
   "zheng-he": {
     "label": "Zheng He",
     "color": "#9fa8da",
