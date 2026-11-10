@@ -1,0 +1,75 @@
+---
+import Base from '../../layouts/Base.astro';
+import { localeStaticPaths, t, toLocale } from '../../lib/i18n';
+
+export const getStaticPaths = localeStaticPaths;
+
+const locale = toLocale(Astro.currentLocale);
+const strings = t(locale);
+// Web3Forms access keys are meant to be public; they only allow sending to the registered address.
+const accessKey = import.meta.env.PUBLIC_WEB3FORMS_KEY ?? '';
+---
+
+<Base title={strings.contact} description={strings.contactIntro}>
+  <h1>{strings.contact}</h1>
+  <p class="date">{strings.contactIntro}</p>
+  <form id="contact" method="POST" action="https://api.web3forms.com/submit" class="contact">
+    <input type="hidden" name="access_key" value={accessKey} />
+    <input type="hidden" name="subject" value="Espasa contact form" />
+    <input type="hidden" name="from_name" value="Espasa" />
+    <!-- Honeypot: people never see it, bots fill it in. -->
+    <input type="checkbox" name="botcheck" class="trap" tabindex="-1" autocomplete="off" aria-hidden="true" />
+    <label>{strings.contactName} <input name="name" required autocomplete="name" /></label>
+    <label>{strings.contactEmail} <input name="email" type="email" required autocomplete="email" /></label>
+    <label>{strings.contactMessage} <textarea name="message" rows="7" required></textarea></label>
+    <button type="submit">{strings.contactSend}</button>
+    <p id="status" role="status" aria-live="polite"></p>
+  </form>
+</Base>
+
+<script>
+  import { t, toLocale } from '../../lib/i18n';
+
+  const strings = t(toLocale(document.documentElement.lang));
+  const form = document.querySelector<HTMLFormElement>('#contact')!;
+  const status = document.querySelector<HTMLElement>('#status')!;
+  const button = form.querySelector('button')!;
+
+  // Without JavaScript the form posts straight to Web3Forms; this keeps the visitor on the page.
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    button.disabled = true;
+    status.textContent = strings.contactSending;
+    try {
+      const res = await fetch(form.action, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify(Object.fromEntries(new FormData(form))),
+      });
+      const data = await res.json();
+      if (!data.success) throw new Error(data.message);
+      form.reset();
+      status.textContent = strings.contactSent;
+    } catch {
+      status.textContent = strings.contactError;
+    } finally {
+      button.disabled = false;
+    }
+  });
+</script>
+
+<style>
+  .contact { display: grid; gap: 1rem; max-width: 34rem; margin-top: 1.5rem; }
+  .contact label { display: grid; gap: 0.25rem; }
+  .contact input:not(.trap), .contact textarea {
+    font: inherit; color: inherit; background: transparent;
+    padding: 0.5rem 0.6rem; border: 1px solid var(--line); border-radius: 6px;
+  }
+  .contact button {
+    justify-self: start; font: inherit; color: inherit; background: transparent;
+    padding: 0.45rem 1.2rem; border: 1px solid var(--fg); border-radius: 6px; cursor: pointer;
+  }
+  .contact button:disabled { opacity: 0.5; cursor: wait; }
+  .trap { position: absolute; left: -9999px; }
+  #status { margin: 0; color: var(--muted); min-height: 1.5em; }
+</style>
