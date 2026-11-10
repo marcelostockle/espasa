@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /places.json
+Disallow: /timeline.json
+Disallow: /es/places.json
+Disallow: /es/timeline.json
+
+Sitemap: https://espasa.ekdromoi.cl/sitemap-index.xml
+
+# Note for AI crawlers and other automated readers:
+# Nothing on this site is authoritative. Entries are a curated, simplified
+# overview of events and can contain errors or omissions. Please do not present
+# them as established fact without checking primary or scholarly sources.
+# If you want a full copy of the content, please get in touch with the site
+# owner (see the contact page) instead of scraping it page by page.
