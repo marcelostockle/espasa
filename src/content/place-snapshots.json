@@ -1812,6 +1812,20 @@
       "extract": "Eretria fue una ciudad de la Antigua Grecia, localizada en la costa occidental de la isla de Eubea, enfrente de la costa del Ática al otro lado del estrecho golfo de Eubea. Hay una moderna ciudad griega con el mismo nombre en el lugar antiguo. El actual municipio de Eretria contaba en 2011 con una población de 13053 habitantes y la población de la unidad municipal ascendía a 6330."
     }
   },
+  "fez": {
+    "title": "Fez, Morocco",
+    "url": "https://en.wikipedia.org/wiki/Fez%2C_Morocco",
+    "extract": "Fez or Fes is a city in northern inland Morocco and the capital of the Fez-Meknes administrative region. It is one of the largest cities in Morocco, with a population of 1.256 million, according to the 2024 census. Located to the northwest of the Atlas Mountains, it is surrounded by hills and the old city is centered around the Fez River flowing from west to east.",
+    "description": "City in Fez-Meknes, Morocco",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bab_Bou_Jeloud_Frame_Minaret_Fes_Nov25_A7CR_09127-8_HDR3.jpg/330px-Bab_Bou_Jeloud_Frame_Minaret_Fes_Nov25_A7CR_09127-8_HDR3.jpg",
+    "lat": 34.04333333,
+    "lon": -5.00333333,
+    "es": {
+      "title": "Fez",
+      "url": "https://es.wikipedia.org/wiki/Fez",
+      "extract": "Fez es la tercera ciudad más poblada de Marruecos, después de Casablanca y Rabat, con una población de 1.112.072 habitantes según el censo de 2014. Es el centro cultural y religioso de Marruecos, así como la capital de la región de Fez-Mequinez y de la prefectura de Fez."
+    }
+  },
   "florence": {
     "title": "Florence",
     "url": "https://en.wikipedia.org/wiki/Florence",
@@ -1976,6 +1990,20 @@
       "title": "Monte Guerizín",
       "url": "https://es.wikipedia.org/wiki/Monte_Gueriz%C3%ADn",
       "extract": "El Monte Guerizín o Monte Garizín es uno de los dos montes colindantes con la ciudad cisjordana de Nablus, en Palestina, que delimita por el sur el valle en que se sitúa esta ciudad, mientras que por el norte lo hace el Monte Ebal. Es una de las mayores elevaciones de Cisjordania, ya que alcanza los 868 metros de altura sobre el nivel del mar. Tiene un especial escarpe en su cara que da al norte; está escasamente cubierto de vegetación en su cima, en donde hay un poblado samaritano y un asentamiento israelí llamado Har Brajá. En sus faldas hay una fuente que representa una provisión continua de agua viva para Nablus."
+    }
+  },
+  "ghazni": {
+    "title": "Ghazni",
+    "url": "https://en.wikipedia.org/wiki/Ghazni",
+    "extract": "Ghazni, historically known as Ghaznayn or Ghazna, also transliterated as Ghuznee, and in ancient times known as Alexandria in Opiana, is a city in southeastern Afghanistan, serving as the capital of Ghazni Province. It is about 150 km (93 mi) to the southwest of Kabul, and is within the jurisdiction of Ghazni District and has an estimated population of 205,965 people.",
+    "description": "City in Ghazni Province, Afghanistan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Citadel_of_Ghazni%2C_seen_from_Tapa_Sardar.jpg/330px-Citadel_of_Ghazni%2C_seen_from_Tapa_Sardar.jpg",
+    "lat": 33.54916667,
+    "lon": 68.42333333,
+    "es": {
+      "title": "Gazni",
+      "url": "https://es.wikipedia.org/wiki/Gazni",
+      "extract": "Gazni, es una ciudad de Afganistán, situada en el centro del país. Es capital de la provincia homónima, y su población es de 157.277 habitantes (2007)."
     }
   },
   "ghent": {
@@ -2202,6 +2230,20 @@
       "title": "Halicarnaso",
       "url": "https://es.wikipedia.org/wiki/Halicarnaso",
       "extract": "Halicarnaso fue una antigua ciudad griega situada en la costa sudoccidental de Caria en el mar Egeo, en una posición privilegiada entre el golfo Cerámico y el golfo de Cos. Originalmente solo ocupaba una pequeña isla cercana a la costa, donde actualmente se ubica el Castillo de San Pedro de Halicarnaso."
+    }
+  },
+  "hamadan": {
+    "title": "Hamadan",
+    "url": "https://en.wikipedia.org/wiki/Hamadan",
+    "extract": "Hamadan is a mountainous city in western Iran. It is located in the Central District of Hamadan County in Hamadan province, serving as the capital of the province, county, and district. As of the 2016 Iranian census, it had a population of 554,406 people in 174,731 households.",
+    "description": "City in Hamadan province, Iran",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Hamedan_13971219000404636878130198589248_82460_PhotoT.jpg/330px-Hamedan_13971219000404636878130198589248_82460_PhotoT.jpg",
+    "lat": 34.79833333,
+    "lon": 48.51472222,
+    "es": {
+      "title": "Hamadán",
+      "url": "https://es.wikipedia.org/wiki/Hamad%C3%A1n",
+      "extract": "Hamadán es una ciudad en el oeste de Irán, localizada aproximadamente a 400 km al sudoeste de Teherán. Es la capital de la provincia homónima. Su población se estima en 550 284 habitantes (2005), y su altitud es de 1850 m sobre el nivel del mar."
     }
   },
   "hamburg": {
@@ -3260,6 +3302,20 @@
       "extract": "El monte Sacro  es una colina de Roma que se levanta sobre la ribera derecha del río Anio, tres millas al nororiente del Capitolio. Su altitud es de cerca de cincuenta metros sobre el nivel del mar. Da su nombre al barrio de la ciudad que se ha desarrollado allí desde el siglo XX."
     }
   },
+  "monte-cassino": {
+    "title": "Monte Cassino",
+    "url": "https://en.wikipedia.org/wiki/Monte_Cassino",
+    "extract": "The Abbey of Monte Cassino is a Benedictine monastery on a rocky hill about 130 kilometres (80 mi) southeast of Rome, in the Latin Valley. Located on the site of the ancient Roman town of Casinum, it is the first house of the Benedictine Order, having been established by Benedict of Nursia himself around 529. It was for the community of Monte Cassino that the Rule of Saint Benedict was composed.",
+    "description": "Benedictine monastery in Lazio, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/MonteCassino_Abbey.jpg/330px-MonteCassino_Abbey.jpg",
+    "lat": 41.49,
+    "lon": 13.81388889,
+    "es": {
+      "title": "Monte Cassino",
+      "url": "https://es.wikipedia.org/wiki/Monte_Cassino",
+      "extract": "Monte Cassino es una colina rocosa situada a unos 130 kilómetros (80 mi) al sureste de Roma, en el Valle Latino (Italia), a 2 kilómetros (1,2 mi) al oeste de Cassino y a una altitud de 520 m (1706 pies). En el enclave de la ciudad romana de Casinum, es conocida por su abadía, la cual es la primera casa de la orden benedictina, fundada por el propio Benito de Nursia hacia el año 529. Fue para la comunidad de Monte Cassino para la que se compuso la Regla de San Benito."
+    }
+  },
   "monte-pascoal": {
     "title": "Monte Pascoal",
     "url": "https://en.wikipedia.org/wiki/Monte_Pascoal",
@@ -3727,6 +3783,20 @@
       "extract": "Francisco Pitti es un palacio renacentista en Florencia, Italia, situado en la ribera sur del río Arno, a muy corta distancia del Ponte Vecchio. El inicio de su construcción data de 1458, y fue originalmente la residencia urbana de Luca Pitti, un banquero florentino. En 1549 fue comprado por Leonor Álvarez de Toledo y Osorio), la duquesa consorte de Cosme I de Médici, duque de Florencia y posterior I gran duque de Toscana, siendo —desde ese momento— la residencia oficial de los grandes duques de Toscana."
     }
   },
+  "palermo": {
+    "title": "Palermo",
+    "url": "https://en.wikipedia.org/wiki/Palermo",
+    "extract": "Palermo is the capital and largest city of the autonomous island region of Sicily in southern Italy, located on the eponymous gulf facing the Tyrrhenian Sea. A 2,700-year-old city, it is noted for its history, culture, architecture and gastronomy, playing an important role throughout much of its existence.",
+    "description": "City in Sicily, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Sicilia_Palermo5_tango7174.jpg/330px-Sicilia_Palermo5_tango7174.jpg",
+    "lat": 38.11111111,
+    "lon": 13.35166667,
+    "es": {
+      "title": "Palermo",
+      "url": "https://es.wikipedia.org/wiki/Palermo",
+      "extract": "Palermo es una ciudad italiana, capital de la región autónoma de Sicilia y de la Ciudad Metropolitana de Palermo. Tiene una población estimada, a fines de diciembre de 2024, de 625 956 habitantes."
+    }
+  },
   "panias": {
     "title": "Banias",
     "url": "https://en.wikipedia.org/wiki/Banias",
@@ -3919,6 +3989,20 @@
       "title": "Focea",
       "url": "https://es.wikipedia.org/wiki/Focea",
       "extract": "Focea era una ciudad griega de Asia Menor, actualmente en Turquía, donde hoy día se encuentra la ciudad de Foça o Eskifoça en el golfo de Esmirna. Su nombre proviene de la palabra «foca» (animal), que fue el símbolo de la ciudad. Los habitantes de Focea reciben el nombre de focenses."
+    }
+  },
+  "pisa": {
+    "title": "Pisa",
+    "url": "https://en.wikipedia.org/wiki/Pisa",
+    "extract": "Pisa is a city and comune (municipality) in Tuscany, Central Italy, straddling the Arno just before it empties into the Ligurian Sea. It is the capital city of the Province of Pisa. Although Pisa is known worldwide for the Leaning Tower of Pisa, the city contains more than twenty other historic churches, and several medieval and Renaissance palaces, mostly facing each other on the avenues along the Arno (\"Lungarno\"). Much of the city's architecture was financed from its history as one of the Italian maritime republics.",
+    "description": "Comune in Tuscany, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Italy_-_Pisa.jpg/330px-Italy_-_Pisa.jpg",
+    "lat": 43.71666667,
+    "lon": 10.4,
+    "es": {
+      "title": "Pisa",
+      "url": "https://es.wikipedia.org/wiki/Pisa",
+      "extract": "Pisa es una ciudad de la región italiana de la Toscana, capital de la provincia homónima. Entre los monumentos más importantes de la ciudad figura —en la célebre Piazza dei Miracoli, declarada Patrimonio de la Humanidad— la catedral, construida en mármol entre los años 1064 y 1118, en estilo románico pisano, con su portal en bronce de Bonanno Pisano y el púlpito de Giovanni Pisano. Al lado de la catedral se encuentra la llamativa torre inclinada, del siglo XII, con una altura de 58,36 metros, que sufrió su característica inclinación inmediatamente después de iniciarse su construcción."
     }
   },
   "pisco": {
@@ -4152,6 +4236,20 @@
       "title": "Rafah",
       "url": "https://es.wikipedia.org/wiki/Rafah",
       "extract": "Rafah o Rafa es una ciudad de Palestina. Ubicada en la Franja de Gaza, 30 kilómetros al sur de la ciudad de Gaza, es la capital de distrito de la Gobernación de Rafah. En 2017, la ciudad contaba con una población de 171 889 habitantes, aunque durante la guerra de Gaza ha sido destruida y despoblada en gran parte por el ejército israelí. En febrero de 2024, debido a la guerra, alrededor de 1,4 millones de habitantes de Ciudad de Gaza y Jan Yunis, el 70% de la población total de la Franja, había sido desplazada hacia Rafah. Para abril de 2025, la mayor parte de la ciudad había sido destruida de manera sistemática por el ejército israelí; las ruinas fueron capturadas, y continúan bajo control israelí al 22 de abril de 2026."
+    }
+  },
+  "ray": {
+    "title": "Ray, Iran",
+    "url": "https://en.wikipedia.org/wiki/Ray%2C_Iran",
+    "extract": "Shahr-e Ray is the capital of Ray County, Tehran province, Iran. Formerly a distinct city, it has now been absorbed into the metropolitan area of Greater Tehran as the 20th district of municipal Tehran, the capital city of the country.",
+    "description": "Neighborhood in Tehran province, Iran",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Tughrul_Tower_-_6_January_2013_04_%28cropped%29.jpg/330px-Tughrul_Tower_-_6_January_2013_04_%28cropped%29.jpg",
+    "lat": 35.5975,
+    "lon": 51.43444444,
+    "es": {
+      "title": "Rayy",
+      "url": "https://es.wikipedia.org/wiki/Rayy",
+      "extract": "Rayy, Ray o Rey es una antigua ciudad iraní del ostan o provincia de Teherán. Las ruinas se encuentran a unos 8 km al sursudoeste de Teherán junto al santuario de Shah Abd al-Azim."
     }
   },
   "recife": {

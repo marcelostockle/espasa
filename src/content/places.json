@@ -1187,6 +1187,15 @@
       }
     }
   },
+  "fez": {
+    "label": "Fez",
+    "wikipedia": "Fez,_Morocco",
+    "translations": {
+      "es": {
+        "label": "Fez"
+      }
+    }
+  },
   "florence": {
     "label": "Florence",
     "wikipedia": "Florence",
@@ -1292,6 +1301,15 @@
     "translations": {
       "es": {
         "label": "monte Garizim"
+      }
+    }
+  },
+  "ghazni": {
+    "label": "Ghazni",
+    "wikipedia": "Ghazni",
+    "translations": {
+      "es": {
+        "label": "Gazni"
       }
     }
   },
@@ -1445,6 +1463,15 @@
     "translations": {
       "es": {
         "label": "Halicarnaso"
+      }
+    }
+  },
+  "hamadan": {
+    "label": "Hamadan",
+    "wikipedia": "Hamadan",
+    "translations": {
+      "es": {
+        "label": "Hamadán"
       }
     }
   },
@@ -2150,6 +2177,15 @@
       }
     }
   },
+  "monte-cassino": {
+    "label": "Monte Cassino",
+    "wikipedia": "Monte_Cassino",
+    "translations": {
+      "es": {
+        "label": "Montecassino"
+      }
+    }
+  },
   "monte-pascoal": {
     "label": "Monte Pascoal",
     "wikipedia": "Monte Pascoal",
@@ -2456,6 +2492,15 @@
       }
     }
   },
+  "palermo": {
+    "label": "Palermo",
+    "wikipedia": "Palermo",
+    "translations": {
+      "es": {
+        "label": "Palermo"
+      }
+    }
+  },
   "panias": {
     "label": "Panium (Banias)",
     "wikipedia": "Banias",
@@ -2579,6 +2624,15 @@
     "translations": {
       "es": {
         "label": "Focea"
+      }
+    }
+  },
+  "pisa": {
+    "label": "Pisa",
+    "wikipedia": "Pisa",
+    "translations": {
+      "es": {
+        "label": "Pisa"
       }
     }
   },
@@ -2732,6 +2786,15 @@
     "translations": {
       "es": {
         "label": "Rafia (Rafah)"
+      }
+    }
+  },
+  "ray": {
+    "label": "Ray",
+    "wikipedia": "Ray,_Iran",
+    "translations": {
+      "es": {
+        "label": "Rey"
       }
     }
   },
