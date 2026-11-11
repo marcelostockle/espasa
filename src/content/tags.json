@@ -892,6 +892,20 @@
       }
     }
   },
+  "islamic-golden-age": {
+    "label": "Islamic Golden Age",
+    "color": "#3ca0dc",
+    "description": "The learning of the Islamic world from about 750 to 1258 CE: the Baghdad translation movement, Arabic philosophy, science and scholarship, and their transmission to Europe. Political and military history is not included.",
+    "categories": [
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Edad de Oro islámica",
+        "description": "El saber del mundo islámico desde c. 750 hasta 1258 d. C.: el movimiento de traducción de Bagdad, la filosofía, la ciencia y la erudición árabes, y su transmisión a Europa. No incluye la historia política ni militar."
+      }
+    }
+  },
   "italian-renaissance": {
     "label": "Italian Renaissance",
     "color": "#a0522d",
