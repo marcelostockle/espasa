@@ -59,14 +59,14 @@
   "aristotle": {
     "label": "Aristotle",
     "color": "#1e8c5a",
-    "description": "Aristotle (384-322 BCE): his years at the Academy, his tutoring of Alexander, the Lyceum and his works.",
+    "description": "Aristotle (384-322 BCE) and his influence: his years at the Academy, his tutoring of Alexander, the Lyceum and his works, and the later transmission, translation, commentary and criticism of his thought down to Galileo and Bacon.",
     "categories": [
       "Figures"
     ],
     "translations": {
       "es": {
         "label": "Aristóteles",
-        "description": "Aristóteles (384-322 a. C.): sus años en la Academia, la educación de Alejandro, el Liceo y sus obras."
+        "description": "Aristóteles (384-322 a. C.) y su influencia: sus años en la Academia, la educación de Alejandro, el Liceo y sus obras, y la posterior transmisión, traducción, comentario y crítica de su pensamiento hasta Galileo y Bacon."
       }
     }
   },

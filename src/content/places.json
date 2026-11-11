@@ -377,6 +377,15 @@
       }
     }
   },
+  "baghdad": {
+    "label": "Baghdad",
+    "wikipedia": "Baghdad",
+    "translations": {
+      "es": {
+        "label": "Bagdad"
+      }
+    }
+  },
   "bahoruco": {
     "label": "Bahoruco mountains",
     "wikipedia": "Sierra de Bahoruco",
@@ -797,6 +806,15 @@
     "translations": {
       "es": {
         "label": "Cnido"
+      }
+    }
+  },
+  "coimbra": {
+    "label": "Coimbra",
+    "wikipedia": "Coimbra",
+    "translations": {
+      "es": {
+        "label": "Coímbra"
       }
     }
   },

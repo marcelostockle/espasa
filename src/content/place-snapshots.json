@@ -582,6 +582,20 @@
       "extract": "Badajoz es un municipio y ciudad española, capital de la provincia homónima, en la comunidad autónoma de Extremadura. Con una población de 150 209 habitantes, es la ciudad más poblada de Extremadura y su mayor centro económico, comercial y de servicios. El río Guadiana surca la ciudad de este a oeste para después girar hacia el sur, donde hace de frontera con Portugal. En torno al 84,77 % de sus habitantes reside en el núcleo urbano;[cita requerida] el resto está ubicado en diversas pedanías y núcleos dependientes."
     }
   },
+  "baghdad": {
+    "title": "Baghdad",
+    "url": "https://en.wikipedia.org/wiki/Baghdad",
+    "extract": "Baghdad is the capital and the largest city of Iraq. It is located on the banks of the Tigris in central Iraq. With an estimated population of 8 million, it ranks among the most populous and largest cities in the Middle East and the Arab world and constitutes 22% of Iraq's population. Baghdad is a primary financial and commercial center in the region.",
+    "description": "Capital of Iraq",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/330px-5628442718_b10fc2c47f_o.jpg",
+    "lat": 33.31527778,
+    "lon": 44.36611111,
+    "es": {
+      "title": "Bagdad",
+      "url": "https://es.wikipedia.org/wiki/Bagdad",
+      "extract": "Bagdad es la capital federal y la ciudad más poblada de Irak. Su número de habitantes es de 8 765 000, lo que la convierte en la mayor ciudad del país y la segunda del mundo árabe, solo por detrás de El Cairo."
+    }
+  },
   "bahoruco": {
     "title": "Baoruco Mountain Range",
     "url": "https://en.wikipedia.org/wiki/Baoruco_Mountain_Range",
@@ -1216,6 +1230,20 @@
       "title": "Cnido",
       "url": "https://es.wikipedia.org/wiki/Cnido",
       "extract": "Cnido o Gnido fue una ciudad griega de Asia Menor situada en la antigua región de Caria."
+    }
+  },
+  "coimbra": {
+    "title": "Coimbra",
+    "url": "https://en.wikipedia.org/wiki/Coimbra",
+    "extract": "Coimbra, officially the City of Coimbra, is a city and a municipality in Portugal. The population of the municipality at the 2021 census was 140,796, in an area of around 319.40 square kilometres (123.3 sq mi).\nIt is the fourth-largest metropolitan area in Portugal after Lisbon, Porto, and Braga, and it is the largest city of the district of Coimbra and the Central Region, and about 460,000 people live in its intermunicipal community.",
+    "description": "City in Portugal",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Coimbra_e_o_rio_Mondego_%286167200429%29_%28cropped%29.jpg/330px-Coimbra_e_o_rio_Mondego_%286167200429%29_%28cropped%29.jpg",
+    "lat": 40.20277778,
+    "lon": -8.41388889,
+    "es": {
+      "title": "Coímbra",
+      "url": "https://es.wikipedia.org/wiki/Co%C3%ADmbra",
+      "extract": "Coímbra es una ciudad portuguesa, capital del distrito homónimo, en Beira Litoral, situada en la Región Centro y comunidad intermunicipal de Coímbra. Cuenta con 143 396 habitantes, de acuerdo con el censo de 2011."
     }
   },
   "colline-gate": {
