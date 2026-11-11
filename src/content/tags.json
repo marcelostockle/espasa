@@ -1671,6 +1671,20 @@
       }
     }
   },
+  "silk-road": {
+    "label": "Silk Road and East-West contact",
+    "color": "#b4148c",
+    "description": "Contact between Europe, the Middle East, Central Asia, India and China from Alexander's eastern campaigns and the Han envoys to the Mongols and the Ming and Portuguese sea voyages (c. 330 BCE-1500 CE): envoys, merchants, missionaries, travellers and the conquests that linked them.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Ruta de la Seda y contacto Oriente-Occidente",
+        "description": "El contacto entre Europa, Oriente Medio, Asia central, la India y China desde las campañas orientales de Alejandro y los enviados de los Han hasta los mongoles y los viajes marítimos ming y portugueses (c. 330 a. C.-1500 d. C.): enviados, mercaderes, misioneros, viajeros y las conquistas que los unieron."
+      }
+    }
+  },
   "simon-bolivar": {
     "label": "Simón Bolívar",
     "color": "#689f38",

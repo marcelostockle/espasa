@@ -1187,6 +1187,15 @@
       }
     }
   },
+  "fergana": {
+    "label": "Fergana Valley",
+    "wikipedia": "Fergana_Valley",
+    "translations": {
+      "es": {
+        "label": "Valle de Fergana"
+      }
+    }
+  },
   "fez": {
     "label": "Fez",
     "wikipedia": "Fez,_Morocco",
@@ -1700,12 +1709,30 @@
       }
     }
   },
+  "kalka-river": {
+    "label": "Kalka River",
+    "wikipedia": "Kalka_River",
+    "translations": {
+      "es": {
+        "label": "Río Kalka"
+      }
+    }
+  },
   "kalmar": {
     "label": "Kalmar",
     "wikipedia": "Kalmar",
     "translations": {
       "es": {
         "label": "Kalmar"
+      }
+    }
+  },
+  "karakorum": {
+    "label": "Karakorum",
+    "wikipedia": "Karakorum",
+    "translations": {
+      "es": {
+        "label": "Karakórum"
       }
     }
   },
@@ -1796,6 +1823,15 @@
     "translations": {
       "es": {
         "label": "Lavinio"
+      }
+    }
+  },
+  "legnica": {
+    "label": "Legnica",
+    "wikipedia": "Legnica",
+    "translations": {
+      "es": {
+        "label": "Legnica"
       }
     }
   },
@@ -2282,6 +2318,15 @@
     "translations": {
       "es": {
         "label": "Nag Hammadi"
+      }
+    }
+  },
+  "nanjing": {
+    "label": "Nanjing",
+    "wikipedia": "Nanjing",
+    "translations": {
+      "es": {
+        "label": "Nankín"
       }
     }
   },
@@ -2951,6 +2996,15 @@
       }
     }
   },
+  "samarkand": {
+    "label": "Samarkand",
+    "wikipedia": "Samarkand",
+    "translations": {
+      "es": {
+        "label": "Samarcanda"
+      }
+    }
+  },
   "samnium": {
     "label": "Samnium",
     "wikipedia": "Samnium",
@@ -3245,6 +3299,24 @@
     "translations": {
       "es": {
         "label": "Siracusa"
+      }
+    }
+  },
+  "talas-river": {
+    "label": "Talas River",
+    "wikipedia": "Talas_River",
+    "translations": {
+      "es": {
+        "label": "Río Talas"
+      }
+    }
+  },
+  "tangier": {
+    "label": "Tangier",
+    "wikipedia": "Tangier",
+    "translations": {
+      "es": {
+        "label": "Tánger"
       }
     }
   },
@@ -3695,6 +3767,15 @@
     "translations": {
       "es": {
         "label": "Worms"
+      }
+    }
+  },
+  "xian": {
+    "label": "Xi'an",
+    "wikipedia": "Xi'an",
+    "translations": {
+      "es": {
+        "label": "Xi'an"
       }
     }
   },

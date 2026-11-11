@@ -1812,6 +1812,20 @@
       "extract": "Eretria fue una ciudad de la Antigua Grecia, localizada en la costa occidental de la isla de Eubea, enfrente de la costa del Ática al otro lado del estrecho golfo de Eubea. Hay una moderna ciudad griega con el mismo nombre en el lugar antiguo. El actual municipio de Eretria contaba en 2011 con una población de 13053 habitantes y la población de la unidad municipal ascendía a 6330."
     }
   },
+  "fergana": {
+    "title": "Fergana Valley",
+    "url": "https://en.wikipedia.org/wiki/Fergana_Valley",
+    "extract": "The Fergana Valley in Central Asia crosses eastern Uzbekistan, southern Kyrgyzstan and northern Tajikistan.",
+    "description": "Valley in Central Asia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/ValleDeFergan%C3%A1Topogr%C3%A1fico_en.svg/330px-ValleDeFergan%C3%A1Topogr%C3%A1fico_en.svg.png",
+    "lat": 40.90083333,
+    "lon": 71.75777778,
+    "es": {
+      "title": "Valle de Ferganá",
+      "url": "https://es.wikipedia.org/wiki/Valle_de_Fergan%C3%A1",
+      "extract": "El valle de Ferganá es una depresión intramontana de Asia Central, localizada entre la cordillera de Talas Alatau al norte y las montañas Alai al sur. Largo valle triangular en una región a menudo seca, Ferganá es la región más fértil y poblada de toda el Asia Central que debe su fertilidad a dos ríos, el Naryn y Kara Daria, que llegan desde el este, uniéndose cerca de Namangan para formar el río Sir Daria."
+    }
+  },
   "fez": {
     "title": "Fez, Morocco",
     "url": "https://en.wikipedia.org/wiki/Fez%2C_Morocco",
@@ -2581,6 +2595,20 @@
       "extract": "La ciudad de Kagoshima  es la ciudad capital de la prefectura de Kagoshima, sobre la región de Kyushu en la isla de Kyushu, al suroeste de Japón.\nSe estimaba que el 1 de enero de 2005 la ciudad tenía 605 650 habitantes, lo que representa una densidad de población de 1107,81 personas por km². Su extensión es de 546,71 km². La ciudad es apodada \"Nápoles de Oriente\" por su localización en una bahía, su clima templado y su localización junto al estratovolcán Sakurajima, parecido al Vesubio."
     }
   },
+  "kalka-river": {
+    "title": "Kalchyk (river)",
+    "url": "https://en.wikipedia.org/wiki/Kalchyk_(river)",
+    "extract": "The Kalchyk is a river in the Donetsk and Zaporizhzhia Oblasts of Ukraine. It is historically known as the Kalka. It flows into the Kalmius, which it enters near the city of Mariupol.",
+    "description": "River in Donetsk Oblast, Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%D0%9A%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA_%D1%83_%D0%BC%D1%96%D1%81%D1%86%D1%96_%D0%B7%D0%BB%D0%B8%D1%82%D1%82%D1%8F_%D0%B7_%D0%9A%D0%B0%D0%BB%D1%8C%D0%BC%D1%96%D1%83%D1%81%D0%BE%D0%BC.JPG/330px-%D0%9A%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA_%D1%83_%D0%BC%D1%96%D1%81%D1%86%D1%96_%D0%B7%D0%BB%D0%B8%D1%82%D1%82%D1%8F_%D0%B7_%D0%9A%D0%B0%D0%BB%D1%8C%D0%BC%D1%96%D1%83%D1%81%D0%BE%D0%BC.JPG",
+    "lat": 47.1179,
+    "lon": 37.6105,
+    "es": {
+      "title": "Río Kalchik",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Kalchik",
+      "extract": "El río Kálchik es un corto río de Ucrania, un afluente del río Kalmius que fluye desde Listvanka hasta desembocar cerca de la ciudad de Mariúpol. Discurre por el óblast de Donetsk y el óblast de Zakarpatia y su longitud es de 88 km."
+    }
+  },
   "kalmar": {
     "title": "Kalmar",
     "url": "https://en.wikipedia.org/wiki/Kalmar",
@@ -2593,6 +2621,20 @@
       "title": "Kalmar",
       "url": "https://es.wikipedia.org/wiki/Kalmar",
       "extract": "Kalmar es una ciudad en Småland al sureste de Suecia, situada a orillas del mar Báltico."
+    }
+  },
+  "karakorum": {
+    "title": "Karakorum",
+    "url": "https://en.wikipedia.org/wiki/Karakorum",
+    "extract": "Karakorum was the capital of the Mongol Empire between 1235 and 1260, and later served as the capital of the Northern Yuan dynasty in the late 14th and 15th centuries.",
+    "description": "1235–1260 capital of the Mongol Empire",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Erdene_Zuu_Monastery_05.jpg/330px-Erdene_Zuu_Monastery_05.jpg",
+    "lat": 47.21027778,
+    "lon": 102.84777778,
+    "es": {
+      "title": "Karakórum (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/Karak%C3%B3rum_(ciudad)",
+      "extract": "Karakórum fue la capital del Imperio mongol durante el siglo XIII y de la dinastía de Yuan del Norte en los siglos XIV y XV. Sus ruinas se encuentran en la actual provincia de Övörhangay, dentro de Mongolia, cerca de la ciudad de Jarjorin."
     }
   },
   "kerameikos": {
@@ -2731,6 +2773,20 @@
       "title": "Lavinio",
       "url": "https://es.wikipedia.org/wiki/Lavinio",
       "extract": "Lavinio fue una antigua ciudad portuaria del Lacio (Latium), 13 km al sur de Roma.\nHoy día se localiza en la aldea de Pratica di Mare, en la comuna de Pomezia, provincia de Roma."
+    }
+  },
+  "legnica": {
+    "title": "Legnica",
+    "url": "https://en.wikipedia.org/wiki/Legnica",
+    "extract": "Legnica is a city in southwestern Poland, in the central part of Lower Silesia, on the Kaczawa River and the Czarna Woda. As well as being the seat of the county, since 1992 the city has been the seat of the Diocese of Legnica. As of 2023, Legnica had a population of 97,300 inhabitants.",
+    "description": "City in Lower Silesian Voivodeship, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Legnica_-_Stary_Ratusz_na_legnickim_rynku_%28cropped%29.jpg/330px-Legnica_-_Stary_Ratusz_na_legnickim_rynku_%28cropped%29.jpg",
+    "lat": 51.20833333,
+    "lon": 16.16027778,
+    "es": {
+      "title": "Legnica",
+      "url": "https://es.wikipedia.org/wiki/Legnica",
+      "extract": "Legnica es una ciudad y un distrito situado en el suroeste de Polonia. Pertenece al voivodato de la Baja Silesia. Importante nodo de ferrocarril y autopista. Es la tercera ciudad de Baja Silesia, después de Breslavia y Wałbrzych."
     }
   },
   "leipzig": {
@@ -3468,6 +3524,20 @@
       "title": "Nag Hammadi",
       "url": "https://es.wikipedia.org/wiki/Nag_Hammadi",
       "extract": "Nag Hammadi es un pueblo situado en la ribera del río Nilo, en Egipto. Llamado Jenoboskion en la antigüedad, es el lugar en el cual, en el año 320, San Pacomio fundó el primer monasterio cristiano."
+    }
+  },
+  "nanjing": {
+    "title": "Nanjing",
+    "url": "https://en.wikipedia.org/wiki/Nanjing",
+    "extract": "Nanjing is the capital of Jiangsu province in China. The city, which is located in the southwestern corner of the province, has 11 districts, an administrative area of 6,600 square kilometres (2,500 sq mi), and as of 2021 a population of 9,423,400.\nSituated in the Yangtze River Delta, Nanjing has a prominent place in Chinese history and culture, having served as the capital of various Chinese dynasties, kingdoms and republican governments dating from the 3rd century to 1949, and has thus long been a major center of culture, education, research, politics, economy, transport networks and tourism, being home to one of the world's largest inland ports. The city is also one of the fifteen sub-provincial cities in the People's Republic of China's administrative structure, enjoying jurisdictional and economic autonomy only slightly less than that of a province. It has also been awarded the title of 2008 Habitat Scroll of Honor of China, Special UN Habitat Scroll of Honor Award, and National Civilized City. Nanjing is also considered a Beta city classification, together with Chongqing, Hangzhou, and Tianjin by the Globalization and World Cities Research Network, and ranked as one of the world's top 100 cities in the Global Financial Centres Index.",
+    "description": "Capital of Jiangsu, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Nanjing_CBD_from_City_Wall.jpg/330px-Nanjing_CBD_from_City_Wall.jpg",
+    "lat": 32.06083333,
+    "lon": 118.77888889,
+    "es": {
+      "title": "Nankín",
+      "url": "https://es.wikipedia.org/wiki/Nank%C3%ADn",
+      "extract": "Nankín es una ciudad-subprovincia y capital de la provincia de Jiangsu en la República Popular China, situada en el delta del río Yangtsé. Su área es de 6587 km² y su población total para 2020 superó los 9 millones de habitantes."
     }
   },
   "nantes": {
@@ -4490,6 +4560,20 @@
       "extract": "Salvador, fundada como São Salvador da Bahia de Todos os Santos, en español San Salvador de la Bahía de Todos los Santos,es una ciudad brasileña, capital del estado de Bahía y primera capital del Brasil Colonial. Sus habitantes son llamados soteropolitanos, término creado a partir de la traducción al griego del nombre de la ciudad, traducido al español como Ciudad del Salvador, compuesto de Σωτήρ (\"salvador\") y πόλις."
     }
   },
+  "samarkand": {
+    "title": "Samarkand",
+    "url": "https://en.wikipedia.org/wiki/Samarkand",
+    "extract": "Samarkand is a major city in south-eastern Uzbekistan. Among the oldest continuously inhabited cities in Central Asia, it had a population of 882,000 inhabitants as of 2026, making it the second-largest city in Uzbekistan after Tashkent. It is the capital of the Samarkand Region and a district-level city that includes the urban-type settlements of Kimyogarlar, Farkhod, and Khishrav. It also served as the initial capital of the Uzbek Soviet Socialist Republic from 1925 until 1930.",
+    "description": "City in southeastern Uzbekistan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/RegistanSquare_Samarkand.jpg/330px-RegistanSquare_Samarkand.jpg",
+    "lat": 39.65472222,
+    "lon": 66.97583333,
+    "es": {
+      "title": "Samarcanda",
+      "url": "https://es.wikipedia.org/wiki/Samarcanda",
+      "extract": "Samarcanda es la segunda ciudad más grande de Uzbekistán, después de Taskent, tanto en población, como área e importancia industrial. Es a su vez capital de la región de Samarcanda. La Unesco declaró a esta ciudad de 2700 años de antigüedad como Patrimonio de la Humanidad en el año 2001, y fue inscrita como Samarcanda - Encrucijada de culturas."
+    }
+  },
   "samnium": {
     "title": "Samnium",
     "url": "https://en.wikipedia.org/wiki/Samnium",
@@ -4933,6 +5017,34 @@
       "title": "Siracusa",
       "url": "https://es.wikipedia.org/wiki/Siracusa",
       "extract": "Siracusa es una ciudad del sureste de Italia, situada en la costa oriental de la isla de Sicilia, a orillas del mar Jónico. Es la capital de la provincia de Siracusa y posee una importante herencia histórica, cultural y arquitectónica, con vestigios de las civilizaciones griega y romana."
+    }
+  },
+  "talas-river": {
+    "title": "Talas River",
+    "url": "https://en.wikipedia.org/wiki/Talas_River",
+    "extract": "The Talas is a river which rises in the Talas Region of Kyrgyzstan and flows west into the Jambyl Region of Kazakhstan. The river is 661 kilometres (411 mi) long and has a basin area of 52,700 square kilometres (20,300 mi2).",
+    "description": "River in Kyrgyzstan and Kazakhstan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/TALAS_RIVER.JPG/330px-TALAS_RIVER.JPG",
+    "lat": 44.06,
+    "lon": 69.66,
+    "es": {
+      "title": "Río Talas",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Talas",
+      "extract": "El río Talas es un importante río del Asia Central, que corre entre Kirguistán y Kazajistán. Tiene una longitud de 661 km y drena una amplia cuenca de 52 700 km²."
+    }
+  },
+  "tangier": {
+    "title": "Tangier",
+    "url": "https://en.wikipedia.org/wiki/Tangier",
+    "extract": "Tangier, also called Tangiers, is a city in northwestern Morocco, on the coasts of the Mediterranean Sea and the Atlantic Ocean. The city is the capital of the Tangier-Tetouan-Al Hoceima region, as well as the Tangier-Assilah Prefecture of Morocco.",
+    "description": "City in and capital of Tanger-Tetouan-Al Hoceima, Morocco",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Tanger_cor.jpg/330px-Tanger_cor.jpg",
+    "lat": 35.77666667,
+    "lon": -5.80388889,
+    "es": {
+      "title": "Tánger",
+      "url": "https://es.wikipedia.org/wiki/T%C3%A1nger",
+      "extract": "Tánger \n(en árabe: طنجة‎, en lenguas bereberes: ⵜⴰⵏⴳⴰ)\nes una ciudad del norte de Marruecos, ubicada en las proximidades del estrecho de Gibraltar. Bañada por las aguas del océano Atlántico y del mar Mediterráneo, es la capital de la región Tánger-Tetuán-Alhucemas. Durante parte del siglo XX constituyó un protectorado internacional llamado Zona Internacional de Tánger, hasta la incorporación de la ciudad a Marruecos con la independencia del país (1956)."
     }
   },
   "taranto": {
@@ -5621,6 +5733,20 @@
       "title": "Worms (Alemania)",
       "url": "https://es.wikipedia.org/wiki/Worms_(Alemania)",
       "extract": "Worms es una ciudad de Alemania, en la región de Renania-Palatinado, a orillas del río Rin, situada en la región vitivinícola Rheinhessen. Su población a finales de 2004 era de 85 829 habitantes. Fundada por los celtas, que la llamaron Borbetomagus, Worms se disputa con las ciudades de Tréveris y Colonia el título de \"ciudad más antigua de Alemania\". Worms es la única ciudad alemana miembro de la organización Most Ancient European Towns Network. Se halla a unos 70 kilómetros al sur de Fráncfort y a unos 100 kilómetros del aeropuerto de Fráncfort-Hahn."
+    }
+  },
+  "xian": {
+    "title": "Xi'an",
+    "url": "https://en.wikipedia.org/wiki/Xi'an",
+    "extract": "Xi'an is the capital of the Chinese province of Shaanxi. A sub-provincial city on the Guanzhong plain, the city is the most populous in the province and third-most populous in Western China after Chongqing and Chengdu, as well as the most populous in Northwestern China. Based on the city's 2025 1% population sample survey, its estimated year-end resident population was 13.24 million, of whom 10.72 million were urban residents.",
+    "description": "Capital and largest city of Shaanxi, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/330px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg",
+    "lat": 34.26111111,
+    "lon": 108.94222222,
+    "es": {
+      "title": "Xi'an",
+      "url": "https://es.wikipedia.org/wiki/Xi'an",
+      "extract": "Xi'an es la capital de la provincia de Shaanxi ubicado en China. Cuenta con más de 12 millones de habitantes según el censo de 2020. Es mundialmente famosa porque en sus proximidades se encontraron los guerreros de terracota del emperador Qin Shi Huang, y por ser el extremo oriental de la Ruta de la Seda."
     }
   },
   "xiangyang": {
