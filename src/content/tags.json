@@ -925,6 +925,20 @@
       }
     }
   },
+  "galileo-galilei": {
+    "label": "Galileo Galilei",
+    "color": "#7a3f5e",
+    "description": "Italian astronomer, physicist and mathematician (1564-1642): his telescope discoveries, his mechanics and his conflict with the Church.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Galileo Galilei",
+        "description": "Astrónomo, físico y matemático italiano (1564-1642): sus descubrimientos con el telescopio, su mecánica y su conflicto con la Iglesia."
+      }
+    }
+  },
   "gallic-wars": {
     "label": "Gallic Wars",
     "color": "#bee66e",

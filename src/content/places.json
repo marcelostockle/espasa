@@ -224,6 +224,15 @@
       }
     }
   },
+  "arcetri": {
+    "label": "Arcetri",
+    "wikipedia": "Arcetri",
+    "translations": {
+      "es": {
+        "label": "Arcetri"
+      }
+    }
+  },
   "arch-of-titus": {
     "label": "Arch of Titus",
     "wikipedia": "Arch of Titus",
@@ -2717,6 +2726,15 @@
       }
     }
   },
+  "middelburg": {
+    "label": "Middelburg",
+    "wikipedia": "Middelburg, Zeeland",
+    "translations": {
+      "es": {
+        "label": "Middelburg"
+      }
+    }
+  },
   "midway-atoll": {
     "label": "Midway Atoll",
     "wikipedia": "Midway Atoll",
@@ -3128,6 +3146,15 @@
     "translations": {
       "es": {
         "label": "Oxford"
+      }
+    }
+  },
+  "padua": {
+    "label": "Padua",
+    "wikipedia": "Padua",
+    "translations": {
+      "es": {
+        "label": "Padua"
       }
     }
   },

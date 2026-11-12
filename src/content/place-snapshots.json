@@ -348,6 +348,18 @@
       "extract": "Orange es una localidad y comuna francesa situada en el departamento de Vaucluse, en la región de Provenza-Alpes-Costa Azul, Francia. Llamada \"Cité des Princes\", fue capital del Principado de Orange. En 2007 su población alcanzaba los 30 025 habitantes, a los que se conoce como \"Orangeois\". Su economía proviene de varios sectores: la viticultura, la industria, los servicios y comercios y el ejército. Queda a unos 21 km al norte de Aviñón. Su superficie alcanza las 7420 hectáreas y tiene una altitud media de 50 m s. n. m."
     }
   },
+  "arcetri": {
+    "title": "Arcetri",
+    "url": "https://en.wikipedia.org/wiki/Arcetri",
+    "extract": "Arcetri is a neighbourhood in Florence, Italy, positioned among the hills south of the city centre.",
+    "description": "Location in Florence, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Torre_del_gallo.JPG/330px-Torre_del_gallo.JPG",
+    "es": {
+      "title": "Arcetri",
+      "url": "https://es.wikipedia.org/wiki/Arcetri",
+      "extract": "Arcetri es un lugar de Florencia, Italia, situado entre los cerros localizados al sur del centro de la ciudad. Buena parte de su historia está ligada a la influencia de la antigua familia florentina de los Amidei."
+    }
+  },
   "arch-of-titus": {
     "title": "Arch of Titus",
     "url": "https://en.wikipedia.org/wiki/Arch_of_Titus",
@@ -4142,6 +4154,20 @@
     "lat": 40.43333333,
     "lon": 22.58333333
   },
+  "middelburg": {
+    "title": "Middelburg, Zeeland",
+    "url": "https://en.wikipedia.org/wiki/Middelburg%2C_Zeeland",
+    "extract": "Middelburg is a city and municipality in the south-western Netherlands serving as the capital of the province of Zeeland. Situated on the central peninsula of the Zeeland province, Midden-Zeeland, it has a population of about 48,000.",
+    "description": "City in Zeeland, Netherlands",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Middelburg_Stadhuis_01.JPG/330px-Middelburg_Stadhuis_01.JPG",
+    "lat": 51.5,
+    "lon": 3.61666667,
+    "es": {
+      "title": "Midelburgo",
+      "url": "https://es.wikipedia.org/wiki/Midelburgo",
+      "extract": "Midelburgo es una ciudad de los Países Bajos, capital de la provincia de Zelanda. Con una población de 38 000 habitantes, está situada al este de la antigua isla de Walcheren, localizada al suroeste del país."
+    }
+  },
   "midway-atoll": {
     "title": "Midway Atoll",
     "url": "https://en.wikipedia.org/wiki/Midway_Atoll",
@@ -4775,6 +4801,20 @@
       "title": "Oxford",
       "url": "https://es.wikipedia.org/wiki/Oxford",
       "extract": "Oxford es una ciudad universitaria británica ubicada en el condado de Oxfordshire, en Inglaterra, y es la sede de la Universidad de Oxford, la universidad más antigua en el mundo anglófono. Corresponde a la ubicación de la Torre Carfax, a la que se considera el centro de la ciudad."
+    }
+  },
+  "padua": {
+    "title": "Padua",
+    "url": "https://en.wikipedia.org/wiki/Padua",
+    "extract": "Padua is a city and comune (municipality) in the autonomous region of Veneto in northern Italy, and the capital of the province of Padua. The city lies on the banks of the river Bacchiglione, 40 kilometres west of Venice and 29 km southeast of Vicenza. With a population of 208,202 as of 2026, Padua is the 3rd-largest city in Veneto. It is also the economic and communications hub of the area. Padua is sometimes included, with Venice and Treviso, in the Padua–Treviso–Venice metropolitan area (PATREVE), which has a population of around 2,600,000.",
+    "description": "City in Veneto, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Prato_della_Valle.JPG/330px-Prato_della_Valle.JPG",
+    "lat": 45.4078,
+    "lon": 11.8733,
+    "es": {
+      "title": "Padua",
+      "url": "https://es.wikipedia.org/wiki/Padua",
+      "extract": "Padua es una ciudad italiana, capital de la provincia homónima, en la región del Véneto. Tiene una población de 211 316 habitantes y más de 645 000 en su área metropolitana. Cuenta con dos ríos, el Bacchiglione y el Brenta. Es sede de la Universidad de Padua y en ella destaca la basílica de San Antonio de Padua."
     }
   },
   "palace-of-placentia": {
