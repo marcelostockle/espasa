@@ -2132,6 +2132,15 @@
       }
     }
   },
+  "kensington": {
+    "label": "Kensington",
+    "wikipedia": "Kensington",
+    "translations": {
+      "es": {
+        "label": "Kensington"
+      }
+    }
+  },
   "kerameikos": {
     "label": "Kerameikos",
     "wikipedia": "Kerameikos",
@@ -4814,6 +4823,15 @@
       }
     }
   },
+  "westminster-abbey": {
+    "label": "Westminster Abbey",
+    "wikipedia": "Westminster Abbey",
+    "translations": {
+      "es": {
+        "label": "Abadía de Westminster"
+      }
+    }
+  },
   "wittenberg": {
     "label": "Wittenberg",
     "wikipedia": "Wittenberg",
@@ -4829,6 +4847,15 @@
     "translations": {
       "es": {
         "label": "Wittstock"
+      }
+    }
+  },
+  "woolsthorpe-manor": {
+    "label": "Woolsthorpe Manor",
+    "wikipedia": "Woolsthorpe Manor",
+    "translations": {
+      "es": {
+        "label": "Woolsthorpe Manor"
       }
     }
   },

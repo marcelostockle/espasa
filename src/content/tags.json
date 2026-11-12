@@ -1364,6 +1364,20 @@
       }
     }
   },
+  "isaac-newton": {
+    "label": "Isaac Newton",
+    "color": "#8a6d1f",
+    "description": "English mathematician and natural philosopher (1643-1727): his life, work, public offices and disputes.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Isaac Newton",
+        "description": "Matemático y filósofo natural inglés (1643-1727): su vida, su obra, sus cargos públicos y sus disputas."
+      }
+    }
+  },
   "islamic-golden-age": {
     "label": "Islamic Golden Age",
     "color": "#3ca0dc",

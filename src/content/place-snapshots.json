@@ -3246,6 +3246,20 @@
       "extract": "Kerbala es una ciudad de Irak, capital de la provincia de Al Kerbala."
     }
   },
+  "kensington": {
+    "title": "Kensington",
+    "url": "https://en.wikipedia.org/wiki/Kensington",
+    "extract": "Kensington is an area of London in the Royal Borough of Kensington and Chelsea, centred around 2.9 miles (4.6 km) west of Charing Cross.",
+    "description": "District within the Royal Borough of Kensington and Chelsea in central London",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kensington_High_Street_2_Londres.jpg/330px-Kensington_High_Street_2_Londres.jpg",
+    "lat": 51.5,
+    "lon": -0.19,
+    "es": {
+      "title": "Kensington",
+      "url": "https://es.wikipedia.org/wiki/Kensington",
+      "extract": "Kensington es un barrio en el municipio londinense de Kensington y Chelsea en el centro de Londres. Su corazón comercial es Kensington High Street. Esta zona rica y densamente poblada contiene el bien conocido distrito de museos de South Kensington."
+    }
+  },
   "kerameikos": {
     "title": "Kerameikos",
     "url": "https://en.wikipedia.org/wiki/Kerameikos",
@@ -7344,6 +7358,20 @@
       "extract": "La Plaza de Venceslao es una de las plazas más importantes de Praga, República Checa, y el centro cultural y financiero de la Ciudad Nueva. Se han producido aquí muchos sucesos históricos, y es un escenario tradicional para manifestaciones, celebraciones y otras reuniones públicas. La plaza se llama así en honor a San Venceslao, el patrón de Bohemia. Forma parte del centro histórico de Praga, declarado por la UNESCO Patrimonio de la Humanidad."
     }
   },
+  "westminster-abbey": {
+    "title": "Westminster Abbey",
+    "url": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+    "extract": "Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100.",
+    "description": "Church in London, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Westminster_Abbey%2C_Westminster.jpg/330px-Westminster_Abbey%2C_Westminster.jpg",
+    "lat": 51.49944444,
+    "lon": -0.1275,
+    "es": {
+      "title": "Abadía de Westminster",
+      "url": "https://es.wikipedia.org/wiki/Abad%C3%ADa_de_Westminster",
+      "extract": "La abadía de Westminster, formalmente colegiata de San Pedro en Westminster, es una gran iglesia abacial de estilo predominantemente gótico situada en la Ciudad de Westminster de Londres, justo al oeste del Palacio de Westminster. Es uno de los edificios religiosos más significativos del Reino Unido y el lugar de sepultura de numerosos monarcas ingleses y, posteriormente, británicos. Desde la coronación de Guillermo el Conquistador en 1066, las coronaciones de todos los monarcas ingleses y británicos se han realizado en la abadía de Westminster. Desde 1100, se han celebrado dieciséis bodas reales en la abadía."
+    }
+  },
   "wittenberg": {
     "title": "Wittenberg",
     "url": "https://en.wikipedia.org/wiki/Wittenberg",
@@ -7370,6 +7398,20 @@
       "title": "Wittstock",
       "url": "https://es.wikipedia.org/wiki/Wittstock",
       "extract": "Wittstock es una ciudad alemana que pertenece al distrito de Prignitz Oriental-Ruppin en el noroeste del estado de Brandeburgo. Se encuentra situada junto al río Dosse, 20 km al este de Pritzwalk a unos 95 km al noroeste de la capital Berlín."
+    }
+  },
+  "woolsthorpe-manor": {
+    "title": "Woolsthorpe Manor",
+    "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+    "extract": "Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, near Grantham, Lincolnshire, England, is the birthplace and family home of Sir Isaac Newton. In the orchard within the grounds is Newton's famous apple tree. A Grade I listed building, it is now owned by the National Trust and open to the public.",
+    "description": "Family home and birthplace of Isaac Newton",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/LEO3122_2022_04_0002.jpg/330px-LEO3122_2022_04_0002.jpg",
+    "lat": 52.80916667,
+    "lon": -0.63055556,
+    "es": {
+      "title": "Woolsthorpe Manor",
+      "url": "https://es.wikipedia.org/wiki/Woolsthorpe_Manor",
+      "extract": "Woolsthorpe Manor es una casa museo en Woolsthorpe-by-Colsterworth, al sur de Grantham, en el condado inglés de Lincolnshire, conocida por ser la casa familiar y lugar de nacimiento de Isaac Newton."
     }
   },
   "worms": {
