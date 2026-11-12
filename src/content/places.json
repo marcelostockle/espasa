@@ -287,6 +287,15 @@
       }
     }
   },
+  "aswan": {
+    "label": "Syene (Aswan)",
+    "wikipedia": "Aswan",
+    "translations": {
+      "es": {
+        "label": "Siena (Asuán)"
+      }
+    }
+  },
   "athens": {
     "label": "Athens",
     "wikipedia": "Athens",
@@ -566,6 +575,15 @@
       }
     }
   },
+  "bhinmal": {
+    "label": "Bhinmal",
+    "wikipedia": "Bhinmal",
+    "translations": {
+      "es": {
+        "label": "Bhinmal"
+      }
+    }
+  },
   "bogota": {
     "label": "Bogotá",
     "wikipedia": "Bogotá",
@@ -779,6 +797,15 @@
     "translations": {
       "es": {
         "label": "El Callao"
+      }
+    }
+  },
+  "cambridge": {
+    "label": "Cambridge",
+    "wikipedia": "Cambridge",
+    "translations": {
+      "es": {
+        "label": "Cambridge"
       }
     }
   },
@@ -1337,6 +1364,15 @@
     "translations": {
       "es": {
         "label": "Ecbatana"
+      }
+    }
+  },
+  "edinburgh": {
+    "label": "Edinburgh",
+    "wikipedia": "Edinburgh",
+    "translations": {
+      "es": {
+        "label": "Edimburgo"
       }
     }
   },
@@ -1934,6 +1970,15 @@
       }
     }
   },
+  "irinjalakuda": {
+    "label": "Irinjalakuda",
+    "wikipedia": "Irinjalakuda",
+    "translations": {
+      "es": {
+        "label": "Irinjalakuda"
+      }
+    }
+  },
   "issus": {
     "label": "Issus",
     "wikipedia": "Issus (Cilicia)",
@@ -2255,6 +2300,15 @@
     "translations": {
       "es": {
         "label": "Legnica"
+      }
+    }
+  },
+  "leiden": {
+    "label": "Leiden",
+    "wikipedia": "Leiden",
+    "translations": {
+      "es": {
+        "label": "Leiden"
       }
     }
   },
@@ -3182,6 +3236,15 @@
     "translations": {
       "es": {
         "label": "Partia"
+      }
+    }
+  },
+  "pataliputra": {
+    "label": "Pataliputra",
+    "wikipedia": "Pataliputra",
+    "translations": {
+      "es": {
+        "label": "Pataliputra"
       }
     }
   },
@@ -4391,6 +4454,15 @@
       }
     }
   },
+  "toulouse": {
+    "label": "Toulouse",
+    "wikipedia": "Toulouse",
+    "translations": {
+      "es": {
+        "label": "Tolosa"
+      }
+    }
+  },
   "tours": {
     "label": "Tours",
     "wikipedia": "Tours",
@@ -4487,6 +4559,15 @@
     "translations": {
       "es": {
         "label": "Ugarit"
+      }
+    }
+  },
+  "ujjain": {
+    "label": "Ujjain",
+    "wikipedia": "Ujjain",
+    "translations": {
+      "es": {
+        "label": "Ujjain"
       }
     }
   },

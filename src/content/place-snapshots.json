@@ -442,6 +442,20 @@
       "extract": "Asia fue una división administrativa anexada por la Antigua Roma en tiempos tardíos de la República. Se creó en el año 129 a. C. sobre un territorio ampliamente helenizado y rodeado de Estados creados tras la desaparición del Imperio seléucida, fundamentalmente Bitinia, Paflagonia, el Ponto, Galacia, Capadocia, Comagene y lo que quedaba del Imperio seléucida. Era una provincia senatorial gobernada por un procónsul. Esta situación permaneció inalterable en la reorganización del Imperio romano del año 211."
     }
   },
+  "aswan": {
+    "title": "Aswan",
+    "url": "https://en.wikipedia.org/wiki/Aswan",
+    "extract": "Aswan is a city in Upper Egypt and the capital of the Aswan Governorate. The city of Aswan is among the oldest continuously inhabited cities, with its recorded history spanning over 2,600 years.",
+    "description": "City in Egypt",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Panoramic_view_of_Aswan%2C_Egypt.jpg/330px-Panoramic_view_of_Aswan%2C_Egypt.jpg",
+    "lat": 24.08888889,
+    "lon": 32.89972222,
+    "es": {
+      "title": "Asuán",
+      "url": "https://es.wikipedia.org/wiki/Asu%C3%A1n",
+      "extract": "Asuán o Aswan es una ciudad al sur de Egipto, capital de la gobernación de Asuán. Es una de las ciudades habitadas más antiguas hasta la actualidad, con una historia que abarca más de 2.600 años."
+    }
+  },
   "athens": {
     "title": "Athens",
     "url": "https://en.wikipedia.org/wiki/Athens",
@@ -871,6 +885,15 @@
       "extract": "Belén es una ciudad ubicada en el centro de Cisjordania (Palestina), situada a unos 9 km al sur de Jerusalén y enclavada en los montes de Judea. Desde diciembre de 1995, se encuentra administrada por la Autoridad Palestina, que adoptó el nombre de Estado de Palestina en 2013. Belén es la capital de la gobernación homónima. Su población era de 25 266 habitantes en el último censo oficial realizado, el de 2007, si bien la Oficina Central de Estadísticas de Palestina calcula que la población a mediados de 2024 es de 32 837 habitantes, con una mayoría de población musulmana y una importante minoría cristiana, en su mayoría ortodoxa. Su economía se basa sobre todo en el turismo, cuya temporada alta coincide con la Navidad, momento en el que numerosos peregrinos cristianos viajan a la ciudad para visitar la Basílica de la Natividad. El gobierno de Israel, que ocupa militarmente toda Palestina desde 1967, ha rodeado la ciudad de murallas y pasos de control, lo cual impide el libre tránsito de los habitantes y limita los intercambios comerciales. Esto ha provocado una gran disminución del turismo."
     }
   },
+  "bhinmal": {
+    "title": "Bhinmal",
+    "url": "https://en.wikipedia.org/wiki/Bhinmal",
+    "extract": "Bhinmal is an ancient town in the Jalore District of Rajasthan, India. It is 72 kilometres (45 mi) south of Jalore. Bhinmal was the early capital of Gurjara-Pratihara dynasty, comprising modern-day southern Rajasthan and northern Gujarat. The town was the birthplace of the Sanskrit poet Magha and mathematician-astronomer Brahmagupta.",
+    "description": "City in Jalore (Rajasthan), India",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Bhinmal_Railway_Station.jpg/330px-Bhinmal_Railway_Station.jpg",
+    "lat": 25,
+    "lon": 72.25
+  },
   "bogota": {
     "title": "Bogotá",
     "url": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
@@ -1193,6 +1216,20 @@
       "title": "Callao",
       "url": "https://es.wikipedia.org/wiki/Callao",
       "extract": "El Callao es una ciudad portuaria ubicada en la provincia constitucional del Callao, en el centro-oeste del Perú y a su vez en la costa central del litoral peruano y en la zona central occidental de América del Sur. Tiene al oeste el océano Pacífico y a 15 km al este el centro histórico de Lima."
+    }
+  },
+  "cambridge": {
+    "title": "Cambridge",
+    "url": "https://en.wikipedia.org/wiki/Cambridge",
+    "extract": "Cambridge is a city and non-metropolitan district in the county of Cambridgeshire, England. It is the county town of Cambridgeshire and is located on the River Cam, 55 miles (89 km) north of London. As of the 2021 United Kingdom census, the population of the City of Cambridge was 145,700; the population of the wider built-up area was 181,137. There is archaeological evidence of settlement in the area dating back to as early as the Bronze Age, and Cambridge became an important trading centre during the Roman and Viking eras. The first town charters were granted in the 12th century, although modern city status was not officially conferred until 1951.",
+    "description": "City and district in Cambridgeshire, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Cambridge_-_Kings_College_vue_des_backs.jpg/330px-Cambridge_-_Kings_College_vue_des_backs.jpg",
+    "lat": 52.205,
+    "lon": 0.1225,
+    "es": {
+      "title": "Cambridge",
+      "url": "https://es.wikipedia.org/wiki/Cambridge",
+      "extract": "Cambridge es un distrito no metropolitano del Reino Unido, una ciudad universitaria inglesa muy antigua y la capital del condado de Cambridgeshire, a orillas del río Cam."
     }
   },
   "cambridge-massachusetts": {
@@ -2053,6 +2090,20 @@
       "title": "Ecbatana",
       "url": "https://es.wikipedia.org/wiki/Ecbatana",
       "extract": "Ecbatana es, según lo que la tradición supone, la ciudad que era capital del imperio meda de Astiages (Istuvegü), y que, tras su conquista, fue adoptada como capital por el persa Ciro II el Grande, en el sexto año de Nabonido (549 a. C.). Los antiguos griegos la suponían capital de Media, y le atribuían su fundación a Deyoces."
+    }
+  },
+  "edinburgh": {
+    "title": "Edinburgh",
+    "url": "https://en.wikipedia.org/wiki/Edinburgh",
+    "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+    "description": "Capital city of Scotland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/330px-Skyline_of_Edinburgh.jpg",
+    "lat": 55.95333333,
+    "lon": -3.18916667,
+    "es": {
+      "title": "Edimburgo",
+      "url": "https://es.wikipedia.org/wiki/Edimburgo",
+      "extract": "Edimburgo es la capital y un condado de Escocia. Es la segunda ciudad más grande de Escocia tras Glasgow."
     }
   },
   "egypt": {
@@ -2945,6 +2996,20 @@
     "lat": 38.856193,
     "lon": 30.549206
   },
+  "irinjalakuda": {
+    "title": "Irinjalakuda",
+    "url": "https://en.wikipedia.org/wiki/Irinjalakuda",
+    "extract": "Irinjalakuda is a municipal town in Thrissur district, Kerala, India. It is the headquarters of Irinjalakuda Revenue Division, Thrissur Rural Police and Mukundapuram Taluk. After Thrissur, this town has most number of administrative, law-enforcement, and judicial offices in the district. The place is well known for Koodalmanikyam Temple and the Thachudaya Kaimals, who had princely status until 1971. The earliest recorded history of this temples date back to the ninth century of Common Era (CE).",
+    "description": "Municipal Council in Kerala, India",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Sree_Koodalmanikyam_Temple.jpg/330px-Sree_Koodalmanikyam_Temple.jpg",
+    "lat": 10.33,
+    "lon": 76.23,
+    "es": {
+      "title": "Irinjalakuda",
+      "url": "https://es.wikipedia.org/wiki/Irinjalakuda",
+      "extract": "Irinjalakuda es una ciudad y municipio situada en el distrito de Thrissur en el estado de Kerala (India). Su población es de 28741 habitantes (2011). Se encuentra a 24 km de Thrissur y a 49 km de Cochín."
+    }
+  },
   "issus": {
     "title": "Issus (Cilicia)",
     "url": "https://en.wikipedia.org/wiki/Issus_(Cilicia)",
@@ -3443,6 +3508,20 @@
       "title": "Legnica",
       "url": "https://es.wikipedia.org/wiki/Legnica",
       "extract": "Legnica es una ciudad y un distrito situado en el suroeste de Polonia. Pertenece al voivodato de la Baja Silesia. Importante nodo de ferrocarril y autopista. Es la tercera ciudad de Baja Silesia, después de Breslavia y Wałbrzych."
+    }
+  },
+  "leiden": {
+    "title": "Leiden",
+    "url": "https://en.wikipedia.org/wiki/Leiden",
+    "extract": "Leiden is a city and municipality in the province of South Holland, Netherlands. The municipality of Leiden has a population of 127,046, but the city forms one densely connected agglomeration with its suburbs Oegstgeest, Leiderdorp, Voorschoten and Zoeterwoude with 215,602 inhabitants. The Netherlands Central Bureau of Statistics (CBS) further includes Katwijk in the agglomeration which makes the total population of the Leiden urban agglomeration 282,207. Further, Teylingen, Noordwijk, and Noordwijkerhout are included in the larger Leiden urban area, which has 365,913 inhabitants. Leiden is located on the Oude Rijn, at a distance of some 20 km (12 mi) from The Hague to its south and some 40 km (25 mi) from Amsterdam to its north. The recreational area of the Kaag Lakes (Kagerplassen) lies just to the northeast of Leiden.",
+    "description": "City and municipality in South Holland, Netherlands",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Rapenburg_Leiden_Centrum.jpg/330px-Rapenburg_Leiden_Centrum.jpg",
+    "lat": 52.16,
+    "lon": 4.49,
+    "es": {
+      "title": "Leiden",
+      "url": "https://es.wikipedia.org/wiki/Leiden",
+      "extract": "Leiden () es una ciudad situada en la provincia de Holanda Meridional, en los Países Bajos. Tiene una población estimada, en 2023, de 127 089 habitantes."
     }
   },
   "leipzig": {
@@ -4855,6 +4934,20 @@
       "title": "Partia",
       "url": "https://es.wikipedia.org/wiki/Partia",
       "extract": "Partia es una región histórica situada en el noreste de Irán. Fue conquistada y subyugada por el imperio de los medos durante el siglo VII a. C., fue incorporada al posterior imperio aqueménida bajo Ciro el Grande en el siglo VI a. C., y formó parte del Imperio seléucida tras las conquistas de Alejandro Magno en el siglo IV a. C.. Más tarde la región sirvió como base política y cultural de los parnos y de la dinastía arsácida, gobernantes del imperio parto (247 a. C.-224 d. C.). El imperio sasánida, el último estado del Irán preislámico, también dominó la región y mantuvo a los siete clanes partos como parte de su aristocracia feudal."
+    }
+  },
+  "pataliputra": {
+    "title": "Pataliputra",
+    "url": "https://en.wikipedia.org/wiki/Pataliputra",
+    "extract": "Pataliputra, adjacent to modern-day Patna, Bihar, was a city in ancient India, originally built by Magadha ruler Ajatashatru in 490 BCE, as a small fort near the Ganges river. Udayin laid the foundation of the city of Pataliputra at the confluence of two rivers, the Son and the Ganges. He shifted his capital from Rajgriha to Pataliputra due to the latter's central location in the empire.",
+    "description": "Historical city in Bihar, India",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Pataliputra6.jpg/330px-Pataliputra6.jpg",
+    "lat": 25.6125,
+    "lon": 85.12833333,
+    "es": {
+      "title": "Pataliputra",
+      "url": "https://es.wikipedia.org/wiki/Pataliputra",
+      "extract": "Pataliputra o Pataliputta, fue una antigua ciudad del noreste de la India localizada a orillas del río Ganges. Actualmente está en ruinas y prácticamente englobada en su sucesora, Patna."
     }
   },
   "pavia": {
@@ -6703,6 +6796,20 @@
       "extract": "La isla de la Tortuga es una isla del mar Caribe de 37 km de largo, 7 km de ancho y 180 km² de superficie, situada al noroeste de la República de Haití, la cual posee su soberanía. Fue bautizada por Cristóbal Colón durante su primer viaje a América, haciendo referencia a que una de sus montañas se asemeja a la forma de una tortuga. Durante el siglo XVII fue un bastión para piratas y filibusteros que navegaban en la región."
     }
   },
+  "toulouse": {
+    "title": "Toulouse",
+    "url": "https://en.wikipedia.org/wiki/Toulouse",
+    "extract": "Toulouse is a city in Southern France, the prefecture of the Haute-Garonne department and of the Occitania region. The city is on the banks of the River Garonne, 150 kilometres from the Mediterranean Sea, 230 km (143 mi) from the Atlantic Ocean and 680 km (420 mi) from Paris. It is the fourth-largest city in France after Paris, Marseille, and Lyon, with 514,819 inhabitants within its municipal boundaries (2023); its metropolitan area has a population of 1,529,112 inhabitants (2023), an increase of more than 110,000 since 2017.",
+    "description": "City in France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Toulouse_-_vue_du_Vieux_Toulouse_depuis_St_Sernin_06.jpg/330px-Toulouse_-_vue_du_Vieux_Toulouse_depuis_St_Sernin_06.jpg",
+    "lat": 43.6045,
+    "lon": 1.444,
+    "es": {
+      "title": "Toulouse",
+      "url": "https://es.wikipedia.org/wiki/Toulouse",
+      "extract": "Toulouse es una ciudad del sur de Francia, capital del departamento del Alto Garona y de la región de Occitania, así como la capital histórica de la provincia del Languedoc. Con 511 684 habitantes en 2022 es la cuarta ciudad más poblada del país."
+    }
+  },
   "tours": {
     "title": "Tours",
     "url": "https://en.wikipedia.org/wiki/Tours",
@@ -6852,6 +6959,20 @@
       "title": "Ugarit",
       "url": "https://es.wikipedia.org/wiki/Ugarit",
       "extract": "Ugarit fue una antigua ciudad portuaria, situada en la costa mediterránea al norte de Siria a pocos kilómetros de la moderna ciudad de Latakia, en la región oriental conocida como Levante."
+    }
+  },
+  "ujjain": {
+    "title": "Ujjain",
+    "url": "https://en.wikipedia.org/wiki/Ujjain",
+    "extract": "Ujjain, also known as Ujjayini, is a city in Ujjain district of the Indian state of Madhya Pradesh. It is the fifth-largest city in Madhya Pradesh by population and is the administrative as well as religious centre of Ujjain district and Ujjain division. It is one of the Hindu pilgrimage centres of Sapta Puri famous for the Kumbh Mela (Simhastha) held there every 12 years. The ancient and world famous temple of Mahakaleshwar Jyotirlinga is located in the center of the city. The city has been one of the most prominent trade and political centres of the Indian subcontinent from the time of the ancient Mahājanapadas until the British colonisation of India.",
+    "description": "Metropolitan city in Madhya Pradesh, India",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/330px-Mahakaleshwar_Temple%2C_Ujjain.jpg",
+    "lat": 23.17,
+    "lon": 75.79,
+    "es": {
+      "title": "Ujjain",
+      "url": "https://es.wikipedia.org/wiki/Ujjain",
+      "extract": "Ujjain es una ciudad del estado de Madhia Pradesh, en el noroeste de la India. Se encuentra ubicada a orillas del río Ksipra."
     }
   },
   "ulm": {

@@ -1776,6 +1776,20 @@
       }
     }
   },
+  "mathematics": {
+    "label": "Mathematics",
+    "color": "#4b3fb0",
+    "description": "The development of arithmetic, geometry, algebra, trigonometry and calculus, from the earliest surviving texts to Newton and Leibniz.",
+    "categories": [
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Matemáticas",
+        "description": "El desarrollo de la aritmética, la geometría, el álgebra, la trigonometría y el cálculo, desde los primeros textos conservados hasta Newton y Leibniz."
+      }
+    }
+  },
   "medici": {
     "label": "House of Medici",
     "color": "#c97b63",
