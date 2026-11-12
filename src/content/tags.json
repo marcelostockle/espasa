@@ -197,6 +197,22 @@
       }
     }
   },
+  "baltic-states": {
+    "label": "Baltic states",
+    "color": "#5aa9c7",
+    "description": "Estonia, Latvia and Lithuania, annexed by the USSR in 1940 and independent again in 1991.",
+    "categories": [
+      "States",
+      "Places",
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Países bálticos",
+        "description": "Estonia, Letonia y Lituania, anexionadas por la URSS en 1940 e independientes de nuevo en 1991."
+      }
+    }
+  },
   "baroque-music": {
     "label": "Baroque music",
     "color": "#8d6e63",
@@ -579,6 +595,20 @@
       "es": {
         "label": "Distensión",
         "description": "La disminución de las tensiones entre EE. UU. y la URSS en los años sesenta y setenta mediante acuerdos de control de armas y seguridad."
+      }
+    }
+  },
+  "dissolution-of-the-soviet-union": {
+    "label": "Dissolution of the Soviet Union",
+    "color": "#9a2323",
+    "description": "The collapse of the USSR in 1991, from the August coup to its formal end and the birth of fifteen independent states.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Disolución de la Unión Soviética",
+        "description": "El colapso de la URSS en 1991, desde el golpe de agosto hasta su fin formal y el nacimiento de quince Estados independientes."
       }
     }
   },
@@ -1662,6 +1692,20 @@
       }
     }
   },
+  "mikhail-gorbachev": {
+    "label": "Mikhail Gorbachev",
+    "color": "#c07a52",
+    "description": "Last leader of the Soviet Union (1985-1991), who introduced glasnost and perestroika and ended the Cold War.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Mijaíl Gorbachov",
+        "description": "Último líder de la Unión Soviética (1985-1991), que introdujo la glasnost y la perestroika y puso fin a la Guerra Fría."
+      }
+    }
+  },
   "ming-dynasty": {
     "label": "Ming dynasty",
     "color": "#ef5350",
@@ -2275,6 +2319,20 @@
       }
     }
   },
+  "revolutions-of-1989": {
+    "label": "Revolutions of 1989",
+    "color": "#a65fd1",
+    "description": "The wave of largely peaceful revolutions that ended communist rule in Central and Eastern Europe in 1989-1990.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Revoluciones de 1989",
+        "description": "La oleada de revoluciones en gran parte pacíficas que acabó con el comunismo en Europa central y oriental en 1989-1990."
+      }
+    }
+  },
   "richard-nixon": {
     "label": "Richard Nixon",
     "color": "#3d6fb6",
@@ -2329,6 +2387,20 @@
       "es": {
         "label": "República romana",
         "description": "Roma desde su fundación legendaria y los siete reyes tradicionales, pasando por la República, sus conquistas y guerras civiles, hasta el acuerdo de Octavio del 27 a. C."
+      }
+    }
+  },
+  "ronald-reagan": {
+    "label": "Ronald Reagan",
+    "color": "#35509e",
+    "description": "US president from 1981 to 1989, who combined a military buildup with arms-control talks with Gorbachev.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Ronald Reagan",
+        "description": "Presidente de Estados Unidos de 1981 a 1989, que combinó un aumento militar con negociaciones de control de armas con Gorbachov."
       }
     }
   },

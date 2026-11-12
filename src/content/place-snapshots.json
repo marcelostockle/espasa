@@ -940,6 +940,20 @@
       "extract": " Bouvines  es una población y comuna francesa, en la región de Alta Francia, departamento de Norte, en el distrito de Lille y cantón de Cysoing."
     }
   },
+  "brandenburg-gate": {
+    "title": "Brandenburg Gate",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+    "extract": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany. One of the best-known landmarks of the country, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel, the former capital of the Margraviate of Brandenburg. The current structure was built from 1788 to 1791 by orders of King Frederick William II of Prussia, based on designs by the royal architect Carl Gotthard Langhans. The bronze sculpture of the quadriga crowning the gate is a work by the sculptor Johann Gottfried Schadow.",
+    "description": "Triumphal arch and gate in Berlin, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg",
+    "lat": 52.5163,
+    "lon": 13.3777,
+    "es": {
+      "title": "Puerta de Brandeburgo",
+      "url": "https://es.wikipedia.org/wiki/Puerta_de_Brandeburgo",
+      "extract": "La Puerta de Brandeburgo es un monumento neoclásico del siglo xviii situado en Berlín, construido por orden del rey de Prusia, Federico Guillermo II, después de reprimir la revuelta popular holandesa y restaurar el poder orangista en los Países Bajos. Es uno de los monumentos más conocidos de Alemania, y fue construida en la ubicación de la antigua puerta de la ciudad en la que comenzaba la carretera que conducía de Berlín a la Ciudad de Brandeburgo, que era la capital del Margraviato de Brandeburgo."
+    }
+  },
   "breitenfeld": {
     "title": "Breitenfeld, Leipzig",
     "url": "https://en.wikipedia.org/wiki/Breitenfeld%2C_Leipzig",
@@ -997,6 +1011,20 @@
       "title": "Región de Bruselas-Capital",
       "url": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Bruselas-Capital",
       "extract": "La Región de Bruselas-Capital es una de las tres regiones que componen Bélgica. Su capital es la ciudad de Bruselas, la cual es a su vez la capital nacional. Se compone de otros 18 municipios en su área metropolitana."
+    }
+  },
+  "bucharest": {
+    "title": "Bucharest",
+    "url": "https://en.wikipedia.org/wiki/Bucharest",
+    "extract": "Bucharest is the capital and largest city of Romania. The metropolis stands on the River Dâmbovița in south-eastern Romania. Its population is officially estimated at 1.71 million residents within a greater metropolitan area of 2.33 million residents, which makes Bucharest the fifteenth-largest city in Europe. The city has an area of 239 km2 (92 sq mi), while the metropolitan area covers 1,803 km2 (696 sq mi). The city proper is administratively known as the \"Municipality of Bucharest\", and has the same administrative level as that of a national county, being further subdivided into six sectors, each governed by a local mayor. Bucharest is a major cultural, political and economic hub, it is the country's seat of government, and it is an enclave completely surrounded by Ilfov County.",
+    "description": "Capital and largest city of Romania",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bucharest_University_Square_%28cropped%29.jpg/330px-Bucharest_University_Square_%28cropped%29.jpg",
+    "lat": 44.4325,
+    "lon": 26.10388889,
+    "es": {
+      "title": "Bucarest",
+      "url": "https://es.wikipedia.org/wiki/Bucarest",
+      "extract": "Bucarest es la capital y ciudad más poblada de Rumania, así como su principal centro industrial, comercial y cultural. Está situada en el sureste del país a orillas del río Dâmbovița. Cuenta con 2 400 000 habitantes, según datos del censo de 2016, lo que la convierte en la quinta ciudad más poblada de la Unión Europea."
     }
   },
   "buda": {
@@ -1384,6 +1412,20 @@
       "title": "Cheb",
       "url": "https://es.wikipedia.org/wiki/Cheb",
       "extract": "Cheb es una ciudad checa de 33.256 habitantes. Está situada en la región de Karlovy Vary, junto al río Ohře, al pie de los montes Smrčiny y cerca de la frontera con Alemania. Antes de 1945 la ciudad era el centro de la región conocida como Egerland, de habla alemana, dentro del área de influencia de los dialectos austrobávaros."
+    }
+  },
+  "chernobyl": {
+    "title": "Chernobyl",
+    "url": "https://en.wikipedia.org/wiki/Chernobyl",
+    "extract": "Chernobyl, also known as Chornobyl, is a partially abandoned city in Vyshhorod Raion, Kyiv Oblast, Ukraine. It is located within the Chernobyl Exclusion Zone, 90 kilometres (60 mi) to the north of Kyiv and 160 kilometres (100 mi) to the southwest of Gomel in neighbouring Belarus. Prior to being evacuated in the aftermath of the Chernobyl disaster in 1986, it was home to approximately 14,000 residents—considerably less than adjacent Pripyat, which was completely abandoned following the incident. Since then, although living anywhere within the Chernobyl Exclusion Zone is technically illegal, Ukrainian authorities have tolerated those who have taken up living in some of the city's less irradiated areas; Chernobyl's 2020 population estimate was 150 people.",
+    "description": "Partially abandoned city in Kyiv Oblast, Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg/330px-Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg",
+    "lat": 51.27222222,
+    "lon": 30.22416667,
+    "es": {
+      "title": "Chernóbil",
+      "url": "https://es.wikipedia.org/wiki/Chern%C3%B3bil",
+      "extract": "Chernóbil es una ciudad situada al norte de Ucrania, en la óblast de Kiev, cerca de la frontera con Bielorrusia."
     }
   },
   "cholula": {
@@ -3113,6 +3155,20 @@
       "extract": "Košice es la segunda ciudad más poblada de Eslovaquia. Está localizada en la parte este del país, en el valle del río Hornád en el valle de Košice, rodeada por las montañas de Čierna Hora al norte y las montañas Volovské Vrchy al oeste. Es sede de varias universidades y del Tribunal Constitucional de Eslovaquia."
     }
   },
+  "kosovo-polje": {
+    "title": "Kosovo Polje",
+    "url": "https://en.wikipedia.org/wiki/Kosovo_Polje",
+    "extract": "Kosovo Polje or Fushë Kosova is a city and municipality located in the District of Pristina in Kosovo. The municipality has an area of 84.09 km2 (32.47 sq mi) and in 2024 had 63,949 inhabitants making it the eighth most populous municipality in Kosovo.",
+    "description": "City and municipality in Kosovo",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/76/City_of_Fushe_Kosova.jpg",
+    "lat": 42.63333333,
+    "lon": 21.08333333,
+    "es": {
+      "title": "Kosovo Polje",
+      "url": "https://es.wikipedia.org/wiki/Kosovo_Polje",
+      "extract": "Kosovo Polje, literalmente \"campo de Kosovo\" o \"campo de los mirlos\", a veces en alemán: Amselfeld) es una ciudad y municipio en el distrito de Pristina, en Kosovo (Serbia), 8 km al suroeste de la capital, Pristina. En 2003 la ciudad tenía una población total de 28.600 habitantes. La población estimada del municipio es de unas 50.000 personas, según datos de la OSCE."
+    }
+  },
   "kufa": {
     "title": "Kufa",
     "url": "https://en.wikipedia.org/wiki/Kufa",
@@ -3251,6 +3307,20 @@
       "extract": "Leipzig es una ciudad alemana en el noroeste del estado de Sajonia, con 633,592 habitantes en diciembre de 2025. Ya en el año 1165 recibió el derecho de ciudad y de mercado."
     }
   },
+  "lenin-shipyard": {
+    "title": "Gdańsk Shipyard",
+    "url": "https://en.wikipedia.org/wiki/Gda%C5%84sk_Shipyard",
+    "extract": "The Gdańsk Shipyard is a large Polish shipyard, located in the city of Gdańsk, northern Poland. The yard gained international fame when Polish trade union Solidarity was founded there in September 1980. It is situated on the western side of Martwa Wisła and on Ostrów Island.",
+    "description": "Historic shipyard in Gdańsk, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/StoczniaGdanska2.jpg/330px-StoczniaGdanska2.jpg",
+    "lat": 54.37623,
+    "lon": 18.64877,
+    "es": {
+      "title": "Astillero de Gdansk",
+      "url": "https://es.wikipedia.org/wiki/Astillero_de_Gdansk",
+      "extract": "El Astillero de Gdańsk es uno de los mayores astilleros polacos. Está situado en Gdańsk, en la ribera izquierda del Martwa Wisła y en la isla Ostrów. Fue creado tras 1945 en los terrenos previamente ocupados por los astilleros Kaiserliche Werft y Schichau-Werft. Durante la época de la República Popular de Polonia fue conocido como el Astillero Lenin. Tiene la categoría de Patrimonio Europeo."
+    }
+  },
   "lens": {
     "title": "Lens, Pas-de-Calais",
     "url": "https://en.wikipedia.org/wiki/Lens%2C_Pas-de-Calais",
@@ -3328,6 +3398,20 @@
       "title": "Lisboa",
       "url": "https://es.wikipedia.org/wiki/Lisboa",
       "extract": "Lisboa es la capital y la ciudad más poblada de Portugal.Está situada en la desembocadura del río Tajo, es la capital del país, capital del distrito de Lisboa, de la región de Lisboa y del área metropolitana de Lisboa, y es también el principal centro de la subregión de la Gran Lisboa. Lisboa tiene una población de 547 773 habitantes, y su zona metropolitana cuenta con una población de 2 810 923 en una superficie de 2.921,90 km². Esta área contiene el 26% de la población del país. Lisboa es la ciudad más rica de Portugal."
+    }
+  },
+  "ljubljana": {
+    "title": "Ljubljana",
+    "url": "https://en.wikipedia.org/wiki/Ljubljana",
+    "extract": "Ljubljana is the capital and largest city of Slovenia, located along a trade route between the northern Adriatic Sea and the Danube region, north of the country's largest marsh; it has been inhabited since prehistoric times. It is the country's cultural, educational, economic, political and administrative centre and the seat of the Urban Municipality of Ljubljana.",
+    "description": "Capital and largest city of Slovenia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ljubljana_Old_Town%2C_Slovenia_%28Old_Camera%29_%2833286165680%29.jpg/330px-Ljubljana_Old_Town%2C_Slovenia_%28Old_Camera%29_%2833286165680%29.jpg",
+    "lat": 46.05138889,
+    "lon": 14.50611111,
+    "es": {
+      "title": "Liubliana",
+      "url": "https://es.wikipedia.org/wiki/Liubliana",
+      "extract": "Liubliana es la capital y la mayor ciudad de Eslovenia. Surgió como campamento militar romano de la Legio XV Apollinaris a mediados del siglo I a. C., su carácter de ciudad se consolidó con la fundación de la Colonia Iulia Emona años más tarde. Tras sucesivas destrucciones, en el siglo VI se instalaron los antepasados de los eslovenos, y en el siglo XI cayeron bajo el dominio de los francos. Desde 1278, tras su conquista por parte de Rodolfo I de Habsburgo, la ciudad pasó a manos de los Habsburgo, situación que perduró hasta 1797."
     }
   },
   "london": {
@@ -3820,6 +3904,20 @@
       "title": "Mileto",
       "url": "https://es.wikipedia.org/wiki/Mileto",
       "extract": "Mileto fue una antigua ciudad griega de la costa occidental de Anatolia, cerca de la desembocadura del río Menderes en la antigua Caria. Sus ruinas están situadas cerca de la actualmente habitada localidad de Balat."
+    }
+  },
+  "minsk": {
+    "title": "Minsk",
+    "url": "https://en.wikipedia.org/wiki/Minsk",
+    "extract": "Minsk is the capital and largest city of Belarus, located on the Svislach and the now subterranean Nyamiha rivers. As the capital, Minsk has a special administrative status in Belarus and is the administrative centre of Minsk region and Minsk district. As of 2026, it has a population of about two million, making Minsk the 11th-most populous city in Europe. Minsk is one of the administrative capitals of the Commonwealth of Independent States (CIS) and the Eurasian Economic Union (EAEU).",
+    "description": "Capital and largest city of Belarus",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/View_of_Minsk_%28180819%29_09.jpg/330px-View_of_Minsk_%28180819%29_09.jpg",
+    "lat": 53.90055556,
+    "lon": 27.55861111,
+    "es": {
+      "title": "Minsk",
+      "url": "https://es.wikipedia.org/wiki/Minsk",
+      "extract": "Minsk es la capital y ciudad más grande de Bielorrusia. Se encuentra situada en el centro del país, y es atravesada por los ríos Nyamiha y Svíslach. Es la sede administrativa de la Comunidad de Estados Independientes (CEI)."
     }
   },
   "moca": {
@@ -5008,6 +5106,20 @@
       "extract": "Reims es una ciudad y una comuna francesa situada a unos 130 km al este de París, en el departamento de Marne, en la región de Gran Este. Con una población de unos 178.000 habitantes, es la mayor ciudad de su departamento, aunque no es capital."
     }
   },
+  "reykjavik": {
+    "title": "Reykjavík",
+    "url": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+    "extract": "Reykjavík is the capital and largest city of Iceland. It is located on the southern shore of the Faxaflói bay in southwest Iceland and has a latitude of 64°08′ N, making it the world's northernmost capital of a sovereign state. Reykjavík has a population of around 140,000 as of 2026, and the surrounding Capital Region has a population of around 252,000, constituting approximately 64% of Iceland's population.",
+    "description": "Capital and most populous city of Iceland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Reykjav%C3%ADk%2C_view_from_Hallgr%C3%ADmskirkja_%282%29.jpg/330px-Reykjav%C3%ADk%2C_view_from_Hallgr%C3%ADmskirkja_%282%29.jpg",
+    "lat": 64.14583333,
+    "lon": -21.9425,
+    "es": {
+      "title": "Reikiavik",
+      "url": "https://es.wikipedia.org/wiki/Reikiavik",
+      "extract": "Reikiavik oficialmente Reykjavíkurborg, «Ciudad de Reikiavik», es la capital y ciudad más poblada de Islandia. Situada al sur de la bahía Faxaflói, en una zona donde abundan los géiseres, su latitud es de 64°08′N, muy cerca del círculo polar ártico, lo que la convierte en la capital más septentrional de un Estado soberano. Durante el invierno solo recibe cuatro horas diarias de luz solar y durante el verano las noches son tan claras como el día."
+    }
+  },
   "rhodes": {
     "title": "Rhodes",
     "url": "https://en.wikipedia.org/wiki/Rhodes",
@@ -5598,6 +5710,20 @@
       "extract": "Soncino es una localidad y comune italiana de la provincia de Cremona, región de Lombardía, con 7.641 habitantes."
     }
   },
+  "sopron": {
+    "title": "Sopron",
+    "url": "https://en.wikipedia.org/wiki/Sopron",
+    "extract": "Sopron is a city in Hungary on the Austrian border, near Lake Neusiedl/Fertő.",
+    "description": "Place in Western Transdanubia, Hungary",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Storno-h%C3%A1z_T%C5%B1ztorony_%C3%A9s_V%C3%A1rosh%C3%A1za.jpg/330px-Storno-h%C3%A1z_T%C5%B1ztorony_%C3%A9s_V%C3%A1rosh%C3%A1za.jpg",
+    "lat": 47.68489,
+    "lon": 16.58305,
+    "es": {
+      "title": "Sopron",
+      "url": "https://es.wikipedia.org/wiki/Sopron",
+      "extract": "Sopron es una ciudad de Hungría. Tiene una población estimada, a inicios de 2021, de 62 900 habitantes."
+    }
+  },
   "sparta": {
     "title": "Sparta",
     "url": "https://en.wikipedia.org/wiki/Sparta",
@@ -6031,6 +6157,20 @@
       "title": "Tiberíades",
       "url": "https://es.wikipedia.org/wiki/Tiber%C3%ADades",
       "extract": "Tiberíades es una ciudad emplazada en la orilla occidental del mar de Galilea, en la Baja Galilea, en el Distrito Norte de Israel. Según la Oficina Central de Estadísticas de Israel (CBS), a finales de 2019, la ciudad tenía una población de 44 779 habitantes."
+    }
+  },
+  "timisoara": {
+    "title": "Timișoara",
+    "url": "https://en.wikipedia.org/wiki/Timi%C8%99oara",
+    "extract": "Timișoara, officially the Municipality of Timișoara, is the capital city of Timiș County, Banat, and the main economic, social and cultural center in western Romania. Located on the Bega River, Timișoara is considered the informal capital city of the historical Banat region. From 1848 to 1860 it was the capital of the Serbian Vojvodina and the Voivodeship of Serbia and Banat of Temeschwar. With 250,849 inhabitants at the 2021 census, Timișoara is the country's fifth most populous city. It is home to around 400,000 inhabitants in its metropolitan area, while the Timișoara–Arad metropolis concentrates more than 70% of the population of Timiș and Arad counties. Timișoara is a multicultural city, home to 21 ethnic groups and 18 religious denominations. Historically, the most numerous were the Swabian Germans, Jews and Hungarians, who still make up 6% of the population in Timișoara.",
+    "description": "City and county seat in Timiș County, Romania",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Pia%C8%9Ba_Victoriei_Timi%C8%99oara.jpg/330px-Pia%C8%9Ba_Victoriei_Timi%C8%99oara.jpg",
+    "lat": 45.75972222,
+    "lon": 21.23,
+    "es": {
+      "title": "Timișoara",
+      "url": "https://es.wikipedia.org/wiki/Timi%C8%99oara",
+      "extract": "Timișoara es una ciudad con estatus de municipiu ubicada en la región occidental de Rumania. Con una población de 250 849 habitantes en 2021, es la capital del distrito de Timiș."
     }
   },
   "tiryns": {
@@ -6532,6 +6672,20 @@
       "title": "Villa di Castello",
       "url": "https://es.wikipedia.org/wiki/Villa_di_Castello",
       "extract": "La Villa di Castello es una de las villas de los Médici en Florencia, Toscana, Italia central."
+    }
+  },
+  "vilnius": {
+    "title": "Vilnius",
+    "url": "https://en.wikipedia.org/wiki/Vilnius",
+    "extract": "Vilnius is the capital and largest city of Lithuania and the most-populous city in the Baltic states. The city's estimated July 2026 population was 619,405, and the Vilnius urban area has an estimated population of 767,907.",
+    "description": "Capital and largest city of Lithuania",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Vilnius_old_town_by_Augustas_Didzgalvis.jpg/330px-Vilnius_old_town_by_Augustas_Didzgalvis.jpg",
+    "lat": 54.68722222,
+    "lon": 25.28,
+    "es": {
+      "title": "Vilna",
+      "url": "https://es.wikipedia.org/wiki/Vilna",
+      "extract": "Vilna es la capital y ciudad más poblada de Lituania, situada en la provincia homónima. En enero de 2024 contaba con 602 430 habitantes."
     }
   },
   "vilvoorde": {

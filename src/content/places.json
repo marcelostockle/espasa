@@ -611,6 +611,15 @@
       }
     }
   },
+  "brandenburg-gate": {
+    "label": "Brandenburg Gate",
+    "wikipedia": "Brandenburg Gate",
+    "translations": {
+      "es": {
+        "label": "Puerta de Brandeburgo"
+      }
+    }
+  },
   "breitenfeld": {
     "label": "Breitenfeld",
     "wikipedia": "Breitenfeld, Leipzig",
@@ -653,6 +662,15 @@
     "translations": {
       "es": {
         "label": "Bruselas"
+      }
+    }
+  },
+  "bucharest": {
+    "label": "Bucharest",
+    "wikipedia": "Bucharest",
+    "translations": {
+      "es": {
+        "label": "Bucarest"
       }
     }
   },
@@ -905,6 +923,15 @@
     "translations": {
       "es": {
         "label": "Cheb (Eger)"
+      }
+    }
+  },
+  "chernobyl": {
+    "label": "Chernobyl",
+    "wikipedia": "Chernobyl",
+    "translations": {
+      "es": {
+        "label": "Chernóbil"
       }
     }
   },
@@ -2042,6 +2069,15 @@
       }
     }
   },
+  "kosovo-polje": {
+    "label": "Kosovo Polje",
+    "wikipedia": "Kosovo Polje",
+    "translations": {
+      "es": {
+        "label": "Kosovo Polje"
+      }
+    }
+  },
   "kufa": {
     "label": "Kufa",
     "wikipedia": "Kufa",
@@ -2132,6 +2168,15 @@
       }
     }
   },
+  "lenin-shipyard": {
+    "label": "Gdańsk Shipyard",
+    "wikipedia": "Gdańsk Shipyard",
+    "translations": {
+      "es": {
+        "label": "Astillero de Gdansk"
+      }
+    }
+  },
   "lens": {
     "label": "Lens",
     "wikipedia": "Lens, Pas-de-Calais",
@@ -2183,6 +2228,15 @@
     "translations": {
       "es": {
         "label": "Lisboa"
+      }
+    }
+  },
+  "ljubljana": {
+    "label": "Ljubljana",
+    "wikipedia": "Ljubljana",
+    "translations": {
+      "es": {
+        "label": "Ljubljana"
       }
     }
   },
@@ -2507,6 +2561,15 @@
     "translations": {
       "es": {
         "label": "Mileto"
+      }
+    }
+  },
+  "minsk": {
+    "label": "Minsk",
+    "wikipedia": "Minsk",
+    "translations": {
+      "es": {
+        "label": "Minsk"
       }
     }
   },
@@ -3284,6 +3347,15 @@
       }
     }
   },
+  "reykjavik": {
+    "label": "Reykjavík",
+    "wikipedia": "Reykjavík",
+    "translations": {
+      "es": {
+        "label": "Reikiavik"
+      }
+    }
+  },
   "rhodes": {
     "label": "Rhodes",
     "wikipedia": "Rhodes",
@@ -3671,6 +3743,15 @@
       }
     }
   },
+  "sopron": {
+    "label": "Sopron",
+    "wikipedia": "Sopron",
+    "translations": {
+      "es": {
+        "label": "Sopron"
+      }
+    }
+  },
   "sparta": {
     "label": "Sparta",
     "wikipedia": "Sparta",
@@ -3956,6 +4037,15 @@
     "translations": {
       "es": {
         "label": "Tiberíades"
+      }
+    }
+  },
+  "timisoara": {
+    "label": "Timișoara",
+    "wikipedia": "Timișoara",
+    "translations": {
+      "es": {
+        "label": "Timișoara"
       }
     }
   },
@@ -4280,6 +4370,15 @@
     "translations": {
       "es": {
         "label": "Villa de Castello"
+      }
+    }
+  },
+  "vilnius": {
+    "label": "Vilnius",
+    "wikipedia": "Vilnius",
+    "translations": {
+      "es": {
+        "label": "Vilnius"
       }
     }
   },
