@@ -2563,6 +2563,20 @@
       "extract": "El topónimo latino Hispania era el nombre que los romanos daban a la península ibérica y territorios asociados."
     }
   },
+  "hong-kong": {
+    "title": "Hong Kong",
+    "url": "https://en.wikipedia.org/wiki/Hong_Kong",
+    "extract": "Hong Kong is a special administrative region of China. Situated on China's southern coast just south of Shenzhen, it consists of Hong Kong Island, Kowloon, and the New Territories. With 7.5 million residents in a 1,114-square-kilometre (430 sq mi) territory, Hong Kong is the fourth-most densely populated region in the world.",
+    "description": "Special administrative region of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/330px-Flag_of_Hong_Kong.svg.png",
+    "lat": 22.3,
+    "lon": 114.2,
+    "es": {
+      "title": "Hong Kong",
+      "url": "https://es.wikipedia.org/wiki/Hong_Kong",
+      "extract": "Hong Kong, oficialmente Región Administrativa Especial de Hong Kong de la República Popular China, es una de las dos regiones administrativas especiales que existen en la República Popular China, junto con Macao. Ubicado en Asia Oriental, el territorio está rodeado por el mar de la China Meridional en el sur y por China continental en el norte, y limita al oeste con Macao, en la orilla opuesta del delta del río de las Perlas. Posee una superficie total de 1104.4 km² divididos entre la isla de Hong Kong, Kowloon y los Nuevos Territorios."
+    }
+  },
   "hydaspes": {
     "title": "Jhelum River",
     "url": "https://en.wikipedia.org/wiki/Jhelum_River",
@@ -5264,6 +5278,20 @@
       "extract": "Shenyang o Mukden es la capital provincial y la ciudad más poblada de la provincia de Liaoning, en la República Popular de China, así como la ciudad más grande de la región de Manchuria por población urbana. Según el censo de 2010, el área urbana de la ciudad contaba 6,3 millones de habitantes, mientras que la población total del municipio de Shenyang, que tiene el estatuto administrativo de una ciudad subprovincial, es de 8.1 millones. Se ubica en las riberas del río Hun —un afluente del río Liao— e incluye los diez distritos metropolitanos de Shenyang propiamente, la ciudad condado de Xinmin, y dos condados de Kangping y Faku."
     }
   },
+  "shenzhen": {
+    "title": "Shenzhen",
+    "url": "https://en.wikipedia.org/wiki/Shenzhen",
+    "extract": "Shenzhen is a prefecture-level city in Guangdong, China. A special economic zone, it is located on the east bank of the Pearl River estuary on the central coast of Guangdong, bordering Hong Kong to the south, Dongguan to the north, Huizhou to the northeast, and Macau to the southwest. With a population of 18.2 million in 2025, Shenzhen is the third-most-populous city by urban population in China after Shanghai and Beijing. The Port of Shenzhen is the world's fourth-busiest container port. Shenzhen has established itself as a premier global metropolis with a GDP that has surpassed Hong Kong and Singapore in recent years.",
+    "description": "City in Guangdong, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Commercial_area_of_futian_to_east2020.jpg/330px-Commercial_area_of_futian_to_east2020.jpg",
+    "lat": 22.54666667,
+    "lon": 114.05444444,
+    "es": {
+      "title": "Shenzhen",
+      "url": "https://es.wikipedia.org/wiki/Shenzhen",
+      "extract": "Shenzhen es una ciudad subprovincia localizada en el delta del río de las Perlas, en la costa sur de la provincia de Cantón de la República Popular China. Está ubicada en la frontera natural entre China y Hong Kong, en la desembocadura del río de las Perlas."
+    }
+  },
   "shimonoseki": {
     "title": "Shimonoseki",
     "url": "https://en.wikipedia.org/wiki/Shimonoseki",
@@ -5563,6 +5591,20 @@
       "title": "Tánger",
       "url": "https://es.wikipedia.org/wiki/T%C3%A1nger",
       "extract": "Tánger \n(en árabe: طنجة‎, en lenguas bereberes: ⵜⴰⵏⴳⴰ)\nes una ciudad del norte de Marruecos, ubicada en las proximidades del estrecho de Gibraltar. Bañada por las aguas del océano Atlántico y del mar Mediterráneo, es la capital de la región Tánger-Tetuán-Alhucemas. Durante parte del siglo XX constituyó un protectorado internacional llamado Zona Internacional de Tánger, hasta la incorporación de la ciudad a Marruecos con la independencia del país (1956)."
+    }
+  },
+  "tangshan": {
+    "title": "Tangshan",
+    "url": "https://en.wikipedia.org/wiki/Tangshan",
+    "extract": "Tangshan is a coastal, industrial prefecture-level city in the northeast of Hebei province. It is located in the eastern part of Hebei Province and the northeastern part of the North China Plain. It is located in the central area of the Bohai Rim and serves as the main traffic corridor to the Northeast. The city faces the Bohai Sea in the south, the Yan Mountains in the north, Qinhuangdao across the Luan River to the east, and Tianjin to the west.",
+    "description": "Prefecture-level city in Hebei, People's Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/%E5%94%90%E5%B1%B1center.jpg/330px-%E5%94%90%E5%B1%B1center.jpg",
+    "lat": 39.62944444,
+    "lon": 118.17388889,
+    "es": {
+      "title": "Tangshan",
+      "url": "https://es.wikipedia.org/wiki/Tangshan",
+      "extract": "Tangshan es una ciudad-prefectura en la provincia de Hebei, República Popular de China. Se ha dado a conocer por el terremoto de 1976 que midió 7,6 en la escala de Richter y mató al menos a 242 000 personas. La ciudad ha sido reconstruida y se ha convertido en una atracción turística. Su área es de 14 341 km² y su población total para 2010 superó los 7,57 millones de habitantes."
     }
   },
   "taranto": {
@@ -6439,6 +6481,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Zile_gece.jpg/330px-Zile_gece.jpg",
     "lat": 40.3,
     "lon": 35.88333333
+  },
+  "zhenbao-island": {
+    "title": "Zhenbao Island",
+    "url": "https://en.wikipedia.org/wiki/Zhenbao_Island",
+    "extract": "Zhenbao Island or Damansky Island is an island in Hulin, Jixi, Heilongjiang Province, China, with an area of only 0.74 square kilometres (0.29 sq mi). It is on the Ussuri River on the border between Primorsky Krai, Russia, and Heilongjiang Province, China.",
+    "description": "Island in the Ussuri River on the Russia–China border",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E4%BB%8E%E9%AB%98%E5%A4%84%E4%BF%AF%E8%A7%86%E7%8F%8D%E5%AE%9D%E5%B2%9B_-_panoramio.jpg/330px-%E4%BB%8E%E9%AB%98%E5%A4%84%E4%BF%AF%E8%A7%86%E7%8F%8D%E5%AE%9D%E5%B2%9B_-_panoramio.jpg",
+    "lat": 46.48555556,
+    "lon": 133.84444444,
+    "es": {
+      "title": "Zhenbao",
+      "url": "https://es.wikipedia.org/wiki/Zhenbao",
+      "extract": "La Isla de Zhenbao, también conocida por su nombre ruso de Isla de Damanski es una pequeña isla china de 0,74 km² en el río Ussuri en la frontera entre Rusia y China."
+    }
   },
   "zsitvatorok": {
     "title": "Radvaň nad Dunajom",

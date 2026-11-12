@@ -439,6 +439,34 @@
       }
     }
   },
+  "cultural-revolution": {
+    "label": "Cultural Revolution",
+    "color": "#9b1d20",
+    "description": "The decade of political upheaval (1966-1976) launched by Mao Zedong to purge rivals and \"bourgeois\" elements, with Red Guards, mass persecution and economic disruption.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Revolución Cultural",
+        "description": "La década de convulsión política (1966-1976) lanzada por Mao Zedong para purgar a sus rivales y a los elementos «burgueses», con Guardias Rojos, persecución masiva y disrupción económica."
+      }
+    }
+  },
+  "deng-xiaoping": {
+    "label": "Deng Xiaoping",
+    "color": "#2f8f83",
+    "description": "Chinese leader from 1978 until the early 1990s who launched \"reform and opening up\" and presided over the Tiananmen crackdown.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Deng Xiaoping",
+        "description": "Dirigente chino desde 1978 hasta principios de los años noventa, que lanzó la «reforma y apertura» y presidió la represión de Tiananmen."
+      }
+    }
+  },
   "denmark": {
     "label": "Denmark",
     "color": "#e57373",
@@ -1873,6 +1901,20 @@
       }
     }
   },
+  "richard-nixon": {
+    "label": "Richard Nixon",
+    "color": "#3d6fb6",
+    "description": "US president from 1969 to 1974, who opened relations with the People's Republic of China and pursued détente with the USSR.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Richard Nixon",
+        "description": "Presidente de Estados Unidos de 1969 a 1974, que abrió relaciones con la República Popular China y buscó la distensión con la URSS."
+      }
+    }
+  },
   "roman-empire": {
     "label": "Roman Empire",
     "color": "#8d1f3a",
@@ -2281,6 +2323,20 @@
       "es": {
         "label": "Guerra de los Treinta Años",
         "description": "La guerra general europea de 1618-1648, desde la revuelta de Bohemia y la Defenestración de Praga hasta la Paz de Westfalia."
+      }
+    }
+  },
+  "tiananmen-protests": {
+    "label": "Tiananmen protests of 1989",
+    "color": "#b0446e",
+    "description": "The pro-democracy and anti-corruption protests of spring 1989 in Beijing and other Chinese cities, and their violent suppression.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Protestas de Tiananmen de 1989",
+        "description": "Las protestas por la democracia y contra la corrupción de la primavera de 1989 en Pekín y otras ciudades chinas, y su violenta represión."
       }
     }
   },

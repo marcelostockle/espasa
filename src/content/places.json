@@ -1682,6 +1682,15 @@
       }
     }
   },
+  "hong-kong": {
+    "label": "Hong Kong",
+    "wikipedia": "Hong Kong",
+    "translations": {
+      "es": {
+        "label": "Hong Kong"
+      }
+    }
+  },
   "hydaspes": {
     "label": "Hydaspes (Jhelum River)",
     "wikipedia": "Jhelum River",
@@ -3455,6 +3464,15 @@
       }
     }
   },
+  "shenzhen": {
+    "label": "Shenzhen",
+    "wikipedia": "Shenzhen",
+    "translations": {
+      "es": {
+        "label": "Shenzhen"
+      }
+    }
+  },
   "shimonoseki": {
     "label": "Shimonoseki",
     "wikipedia": "Shimonoseki",
@@ -3650,6 +3668,15 @@
     "translations": {
       "es": {
         "label": "Tánger"
+      }
+    }
+  },
+  "tangshan": {
+    "label": "Tangshan",
+    "wikipedia": "Tangshan",
+    "translations": {
+      "es": {
+        "label": "Tangshan"
       }
     }
   },
@@ -4235,6 +4262,15 @@
     "translations": {
       "es": {
         "label": "Zela (Zile)"
+      }
+    }
+  },
+  "zhenbao-island": {
+    "label": "Zhenbao Island",
+    "wikipedia": "Zhenbao Island",
+    "translations": {
+      "es": {
+        "label": "Isla Zhenbao"
       }
     }
   },
