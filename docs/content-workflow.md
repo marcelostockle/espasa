@@ -67,7 +67,7 @@ All skills stop after the dry run and a report. **None imports anything unless y
 - Every year must fall inside the span covered by `src/content/eras.json`. The build fails otherwise.
 
 **Entries**
-- One dated event, title and summary only (max 280 characters). No body is expected.
+- One dated event, title and summary only (aim for about 280 characters; a suggestion, not enforced). No body is expected.
 - Each entry should make sense on its own, next to events from other fields: name the people and places.
 - Every entry has at least one tag and should have at least one `sources` URL (http/https only).
 - Ids are lowercase letters, digits and single hyphens; they become the file name and the URL.
@@ -82,7 +82,7 @@ All skills stop after the dry run and a report. **None imports anything unless y
 - The snapshot describes the place today, not as it was in the period. Pick the article that best fits the period where one exists.
 
 **Languages**
-- The site is English at the root and Spanish under `/es/`. Spanish text is stored beside the English: `translations.es` on entries (`title`, `summary` ≤ 280 chars), tags (`label`, `description`), eras (`label`) and featured items (`title`, `description`).
+- The site is English at the root and Spanish under `/es/`. Spanish text is stored beside the English: `translations.es` on entries (`title`, `summary`, ~280 chars suggested), tags (`label`, `description`), eras (`label`) and featured items (`title`, `description`).
 - Anything without a Spanish version still shows on the Spanish pages, in English and marked `lang="en"`, so a missing translation never hides content.
 - Category names stay as plain English text in the data; their Spanish display names are in `src/lib/i18n.ts` (`categories`). A new category needs an entry there.
 - Interface text and the date format are in `src/lib/i18n.ts` and `src/lib/time.ts`.
@@ -110,7 +110,7 @@ All skills stop after the dry run and a report. **None imports anything unless y
 - **Uncertain items**: circa dates, entries where sources disagreed, weak sources. The report lists them.
 - **Medium-confidence** retag matches (listed by name in the report).
 - **Skipped** entries that already exist.
-- The Spanish text: facts, dates and caveats match the English, summaries fit in 280 characters, names use their usual Spanish forms.
+- The Spanish text: facts, dates and caveats match the English, summaries are roughly 280 characters or fewer (a guideline), names use their usual Spanish forms.
 - Spot-check a few dates against their source; the AI summarizes search results and can be wrong.
 
 ## Files and what edits them

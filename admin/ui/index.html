@@ -279,14 +279,14 @@ function renderEntryEditor(id, e) {
   const title = h('input', { type: 'text', id: 'f-title', value: e.title });
   const summary = h('textarea', { id: 'f-summary', style: 'min-height:4rem' }, e.summary);
   summary.value = e.summary;
-  const counter = h('span', { class: 'muted' }, `${e.summary.length}/280`);
-  summary.addEventListener('input', () => { counter.textContent = `${summary.value.length}/280`; });
+  const counter = h('span', { class: 'muted' }, `${e.summary.length} (suggested ≤ 280)`);
+  summary.addEventListener('input', () => { counter.textContent = `${summary.value.length} (suggested ≤ 280)`; });
   const es = e.translations?.es ?? {};
   const esTitle = h('input', { type: 'text', id: 'f-es-title', value: es.title ?? '' });
   const esSummary = h('textarea', { id: 'f-es-summary', style: 'min-height:4rem' });
   esSummary.value = es.summary ?? '';
-  const esCounter = h('span', { class: 'muted' }, `${esSummary.value.length}/280`);
-  esSummary.addEventListener('input', () => { esCounter.textContent = `${esSummary.value.length}/280`; });
+  const esCounter = h('span', { class: 'muted' }, `${esSummary.value.length} (suggested ≤ 280)`);
+  esSummary.addEventListener('input', () => { esCounter.textContent = `${esSummary.value.length} (suggested ≤ 280)`; });
   const sources = h('textarea', { id: 'f-sources', style: 'min-height:4rem', placeholder: 'https://…' });
   sources.value = (e.sources ?? []).join('\n');
   const body = h('textarea', { id: 'f-body' }); body.value = e.body;

@@ -41,14 +41,14 @@ export const placeFields = z.object({
 /** Entry frontmatter minus `tags` and `places`, which the site validates as references. */
 export const entryFields = z.object({
   title: z.string(),
-  summary: z.string().max(280),
+  summary: z.string(), // ~280 characters is a suggestion, not enforced
   date: historicalDate,
   end: historicalDate.optional(),
   // Where the claim can be checked. http(s) only, because these render as links.
   sources: z
     .array(z.string().url().refine((u) => /^https?:\/\//i.test(u), 'Use an http(s) URL'))
     .default([]),
-  translations: translated({ title: z.string(), summary: z.string().max(280) }),
+  translations: translated({ title: z.string(), summary: z.string() }),
 });
 
 export const eraFields = z
