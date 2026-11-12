@@ -26,6 +26,10 @@ const strings = t(locale);
         <button type="button" id="closeside" class="onlynarrow" aria-label={strings.close}>×</button>
       </div>
       <div id="chosen" class="chosen"></div>
+      <div id="related" class="related" hidden>
+        <p class="relhead">{strings.relatedTopics}</p>
+        <div id="relatedchips" class="chosen"></div>
+      </div>
       <div id="picker" class="picker" role="group" aria-label={strings.topics}></div>
       <p id="nomatch" class="date" hidden>{strings.noTopicMatches}</p>
     </aside>
@@ -231,8 +235,42 @@ const strings = t(locale);
 
   search.addEventListener('input', applyFilter);
 
+  const relatedBox = document.getElementById('related')!;
+  const relatedChips = document.getElementById('relatedchips')!;
+  let totals: Map<string, number> | null = null;
+
+  // Suggest unselected tags that show up often in the currently filtered entries,
+  // weighted by rarity (tf-idf) so broad tags don't crowd out specific ones.
+  function updateRelated(index: Index, filtered: Index['entries']) {
+    totals ??= new Map(
+      index.tags.map((t) => [t.id, index.entries.filter((e) => e.tags.includes(t.id)).length]),
+    );
+    const freq = new Map<string, number>();
+    for (const e of filtered) for (const id of e.tags) if (!selected.has(id)) freq.set(id, (freq.get(id) ?? 0) + 1);
+    const byId = new Map(index.tags.map((t) => [t.id, t]));
+    const minFreq = filtered.length >= 4 ? 2 : 1;
+    const top = [...freq]
+      .filter(([id, f]) => f >= minFreq && byId.has(id))
+      .map(([id, f]) => ({ id, f, score: f * Math.log(index.entries.length / (totals!.get(id) || 1)) }))
+      .sort((a, b) => b.score - a.score || b.f - a.f)
+      .slice(0, 8);
+    const chips = top.map(({ id, f }) => {
+      const t = byId.get(id)!;
+      const chip = document.createElement('button');
+      chip.type = 'button';
+      chip.className = 'chip tinted removable';
+      chip.style.setProperty('--tint', t.color);
+      chip.textContent = `+ ${t.label} (${f})`;
+      chip.addEventListener('click', () => setSelected(id, true));
+      return chip;
+    });
+    relatedChips.replaceChildren(...chips);
+    relatedBox.hidden = !chips.length;
+  }
+
   function render(index: Index) {
     const tags = index.tags.filter((t) => selected.has(t.id));
+    if (!tags.length) relatedBox.hidden = true;
 
     if (!tags.length) {
       grid.replaceChildren(Object.assign(document.createElement('p'), { textContent: strings.selectOne }));
@@ -254,8 +292,11 @@ const strings = t(locale);
 
     const from = fromInput.value === '' ? -Infinity : Number(fromInput.value);
     const to = toInput.value === '' ? Infinity : Number(toInput.value);
-    const rows = index.entries
-      .filter((e) => e.tags.some((id) => selected.has(id)) && e.endYear >= from && e.year <= to)
+    const filtered = index.entries.filter(
+      (e) => e.tags.some((id) => selected.has(id)) && e.endYear >= from && e.year <= to,
+    );
+    updateRelated(index, filtered);
+    const rows = filtered
       .flatMap((e) => {
         const date = document.createElement('div');
         date.className = 'date rowdate';
@@ -355,6 +396,9 @@ const strings = t(locale);
   }
   .chosen { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.75rem; }
   .chosen:empty { display: none; }
+  .related { margin-bottom: 0.75rem; }
+  .related[hidden] { display: none; }
+  .relhead { margin: 0 0 0.35rem; font-size: 0.8rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
   .chip.removable { cursor: pointer; font-family: inherit; color: var(--fg); }
   .chip.removable:hover { border-color: var(--tint); }
   .clearall { background: none; border: 0; color: var(--muted); font: inherit; font-size: 0.8rem; text-decoration: underline; cursor: pointer; }
