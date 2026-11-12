@@ -709,6 +709,20 @@
       }
     }
   },
+  "great-leap-forward": {
+    "label": "Great Leap Forward",
+    "color": "#d98e04",
+    "description": "Mao Zedong's 1958-1962 campaign to industrialize China rapidly through communes and mass mobilization, which caused a devastating famine.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Gran Salto Adelante",
+        "description": "La campaña de Mao Zedong de 1958-1962 para industrializar China con rapidez mediante comunas y movilización de masas, que causó una hambruna devastadora."
+      }
+    }
+  },
   "greek-city-states": {
     "label": "Greek city-states",
     "color": "#2979c9",
@@ -2028,6 +2042,20 @@
       }
     }
   },
+  "sino-soviet-split": {
+    "label": "Sino-Soviet split",
+    "color": "#8e5fa8",
+    "description": "The breakdown of the alliance between the USSR and the People's Republic of China from the late 1950s, over ideology, leadership and borders.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Ruptura chino-soviética",
+        "description": "La ruptura de la alianza entre la URSS y la República Popular China desde finales de los años cincuenta, por motivos ideológicos, de liderazgo y de fronteras."
+      }
+    }
+  },
   "slave-trade": {
     "label": "Slave trade",
     "color": "#2e7d32",
@@ -2198,6 +2226,21 @@
       }
     }
   },
+  "taiwan": {
+    "label": "Taiwan",
+    "color": "#4fb286",
+    "description": "The island of Taiwan and the Republic of China government based there since 1949, including its politics and its status.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Taiwán",
+        "description": "La isla de Taiwán y el gobierno de la República de China establecido allí desde 1949, con su política y su estatus."
+      }
+    }
+  },
   "technology": {
     "label": "Technology",
     "color": "#e08a1e",
@@ -2238,6 +2281,22 @@
       "es": {
         "label": "Guerra de los Treinta Años",
         "description": "La guerra general europea de 1618-1648, desde la revuelta de Bohemia y la Defenestración de Praga hasta la Paz de Westfalia."
+      }
+    }
+  },
+  "tibet": {
+    "label": "Tibet",
+    "color": "#e8a33d",
+    "description": "Tibet and its people, including the Dalai Lama's government and the Chinese takeover from 1950.",
+    "categories": [
+      "States",
+      "Places",
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Tíbet",
+        "description": "El Tíbet y su pueblo, incluido el gobierno del Dalái Lama y la toma de control china desde 1950."
       }
     }
   },

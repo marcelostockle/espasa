@@ -404,6 +404,15 @@
       }
     }
   },
+  "bandung": {
+    "label": "Bandung",
+    "wikipedia": "Bandung",
+    "translations": {
+      "es": {
+        "label": "Bandung"
+      }
+    }
+  },
   "banska-bystrica": {
     "label": "Banská Bystrica",
     "wikipedia": "Banská Bystrica",
@@ -1862,6 +1871,15 @@
       }
     }
   },
+  "kinmen": {
+    "label": "Kinmen",
+    "wikipedia": "Kinmen",
+    "translations": {
+      "es": {
+        "label": "Kinmen (Quemoy)"
+      }
+    }
+  },
   "knossos": {
     "label": "Knossos",
     "wikipedia": "Knossos",
@@ -1988,6 +2006,15 @@
       }
     }
   },
+  "lhasa": {
+    "label": "Lhasa",
+    "wikipedia": "Lhasa",
+    "translations": {
+      "es": {
+        "label": "Lasa"
+      }
+    }
+  },
   "libyssa": {
     "label": "Libyssa",
     "wikipedia": "Libyssa",
@@ -2021,6 +2048,15 @@
     "translations": {
       "es": {
         "label": "Londres"
+      }
+    }
+  },
+  "lop-nur": {
+    "label": "Lop Nur",
+    "wikipedia": "Lop Nur",
+    "translations": {
+      "es": {
+        "label": "Lop Nur"
       }
     }
   },
@@ -3590,6 +3626,15 @@
       }
     }
   },
+  "taipei": {
+    "label": "Taipei",
+    "wikipedia": "Taipei",
+    "translations": {
+      "es": {
+        "label": "Taipei"
+      }
+    }
+  },
   "talas-river": {
     "label": "Talas River",
     "wikipedia": "Talas_River",
@@ -3686,6 +3731,15 @@
     "translations": {
       "es": {
         "label": "Paralelo 38"
+      }
+    }
+  },
+  "tiananmen-square": {
+    "label": "Tiananmen Square",
+    "wikipedia": "Tiananmen Square",
+    "translations": {
+      "es": {
+        "label": "Plaza de Tiananmen"
       }
     }
   },

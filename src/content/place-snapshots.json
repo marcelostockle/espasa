@@ -624,6 +624,20 @@
       "extract": "La península de Baja California, está localizada al noroeste de México. Penetra en el océano Pacífico, formando el golfo de California entre su costa oriental y las costas de Sonora y Sinaloa. Tiene una longitud aproximada de 1250 km y comprende los estados mexicanos de Baja California y Baja California Sur. Inicia en la frontera de México con Estados Unidos y termina en un cabo con enormes formaciones rocosas, entre las que se encuentra el llamado Arco Monumental."
     }
   },
+  "bandung": {
+    "title": "Bandung",
+    "url": "https://en.wikipedia.org/wiki/Bandung",
+    "extract": "Bandung is the capital city of the West Java province of Indonesia. Located on the western highland of Java island, it has one of the coolest climates compared to other provincial capitals in Indonesia, situated 708 meters above sea level, approximately 145 kilometres southeast of Jakarta. Bandung lies in a river basin surrounded by volcanic mountains that provide a natural defense system, which was the primary reason for the Dutch East Indies government's plan to move the capital from Batavia to Bandung.",
+    "description": "Capital city of West Java, Indonesia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg/330px-Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg",
+    "lat": -6.92194444,
+    "lon": 107.60694444,
+    "es": {
+      "title": "Bandung",
+      "url": "https://es.wikipedia.org/wiki/Bandung",
+      "extract": "Bandung es una ciudad indonesia, capital de la provincia de Java occidental. Se trata de la tercera ciudad más grande del país, tras Yakarta y Surabaya. Está situada a 768 metros sobre el nivel del mar."
+    }
+  },
   "banska-bystrica": {
     "title": "Banská Bystrica",
     "url": "https://en.wikipedia.org/wiki/Bansk%C3%A1_Bystrica",
@@ -2833,6 +2847,20 @@
       "extract": "El Cerámico es el nombre de un demo, barrio de los alfareros de la antigua Atenas, al noroeste de la Acrópolis.\nSegún Heródoto, su nombre proviene del griego κέραμος keramos, tierra cocida. Para Pausanias, el nombre proviene más bien de Céramo, hijo de Ariadna y de Dioniso."
     }
   },
+  "kinmen": {
+    "title": "Kinmen",
+    "url": "https://en.wikipedia.org/wiki/Kinmen",
+    "extract": "Kinmen, alternatively known as Quemoy, is a group of islands and a county of Taiwan, only 10 km (6 mi) east from the city of Xiamen in Fujian, located at the southeastern coast of the People's Republic of China, from which they are separated by Xiamen Bay. Kinmen is also 187 km (116 mi) west from the closest shoreline of the island of Taiwan across the Taiwan Strait.",
+    "description": "County of Fuchien Province, Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kinmen_Montage.png/330px-Kinmen_Montage.png",
+    "lat": 24.44,
+    "lon": 118.33,
+    "es": {
+      "title": "Kinmen",
+      "url": "https://es.wikipedia.org/wiki/Kinmen",
+      "extract": "Kinmen es un pequeño archipiélago administrado por la República de China como el Condado de Kinmen. Abarca unos 153 km² y comprende las islas de Gran Kinmen, Pequeña Kinmen, Wuqiu y varios islotes; se ubica muy cerca de las costas de China continental, a menos de 2 km de Xiamen. Es reclamado por la República Popular China como parte de la prefectura de Quanzhou en la provincia de Fujian."
+    }
+  },
   "knossos": {
     "title": "Knossos",
     "url": "https://en.wikipedia.org/wiki/Knossos",
@@ -3027,6 +3055,20 @@
       "extract": "Lesbos es una isla griega que forma parte de un gran conjunto de islas cercanas a la costa de Turquía. Su capital es Mitilene. Junto a algunas islas menores, constituye la unidad periférica de Lesbos, siendo su isla homónima la más grande e importante del archipiélago."
     }
   },
+  "lhasa": {
+    "title": "Lhasa",
+    "url": "https://en.wikipedia.org/wiki/Lhasa",
+    "extract": "Lhasa, officially the Chengguan District of Lhasa City, is the inner urban district of Lhasa City, Tibet Autonomous Region, Southwestern China.",
+    "description": "Urban district of the City of Lhasa in Tibet",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Lhasa_-_Pot%C3%A1la_-_panoramio.jpg/330px-Lhasa_-_Pot%C3%A1la_-_panoramio.jpg",
+    "lat": 29.6539,
+    "lon": 91.1175,
+    "es": {
+      "title": "Chengguan (Lhasa)",
+      "url": "https://es.wikipedia.org/wiki/Chengguan_(Lhasa)",
+      "extract": "Chengguan léase Cheng-Kuán es el distrito sede la Prefectura de Lhasa en la Región autónoma del Tíbet, República Popular China. Su área es 3940 km² y su población total para 2010 fue cercana a los 300 mil habitantes."
+    }
+  },
   "libyssa": {
     "title": "Libyssa",
     "url": "https://en.wikipedia.org/wiki/Libyssa",
@@ -3076,6 +3118,20 @@
       "title": "Londres",
       "url": "https://es.wikipedia.org/wiki/Londres",
       "extract": "Londres es la capital y la mayor ciudad de Inglaterra y de Reino Unido. Ubicada a orillas del río Támesis, Londres ha sido un importante asentamiento humano desde que fue fundada por los romanos con el nombre de Londinium hace casi dos milenios. El núcleo antiguo de la urbe, la City de Londres, conserva básicamente su perímetro medieval de una milla cuadrada. Desde el siglo XIX el nombre «Londres» también hace referencia a toda la metrópolis desarrollada alrededor de este núcleo. El grueso de esta conurbación constituye la región de Londres y el área administrativa del Gran Londres, gobernado por el alcalde y la asamblea de Londres."
+    }
+  },
+  "lop-nur": {
+    "title": "Lop Nur",
+    "url": "https://en.wikipedia.org/wiki/Lop_Nur",
+    "extract": "Lop Nur or Lop Nor is a now largely dried-up salt lake formerly located within the Lop Depression in the eastern fringe of the Tarim Basin in the southeastern portion of the Xinjiang Autonomous Region, northwestern China, between the Taklamakan and Kumtag deserts. Administratively, the lake is in Lop Nur town, also known as Luozhong of Ruoqiang County, which in its turn is part of the Bayingolin Mongol Autonomous Prefecture.",
+    "description": "Former salt lake in Bayingolin Prefecture, Xinjiang, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Basin_of_Lop_Nur_90.25E%2C_40.10N%2C_Desert_of_Lop%2C_Kum_Tagh_and_Astin_Tagh.jpg/330px-Basin_of_Lop_Nur_90.25E%2C_40.10N%2C_Desert_of_Lop%2C_Kum_Tagh_and_Astin_Tagh.jpg",
+    "lat": 40.16666667,
+    "lon": 90.58333333,
+    "es": {
+      "title": "Lop Nor",
+      "url": "https://es.wikipedia.org/wiki/Lop_Nor",
+      "extract": "El Lop Nor, llamado también lago Lop es un grupo de pequeños, y hoy en día estacionales, lagos salados y marjales localizados entre el desierto de Taklamakán y el desierto de Gobi, al sur de las montañas Kuruktag, en la esquina suroriental de la Región Autónoma Uigur de Sinkiang, al noroeste de la República Popular China. Históricamente, era un gran lago que hoy está totalmente seco dado que el caudal de los ríos que lo alimentaban ha sido empleado para usos humanos y agrícolas. Hoy día la región forma parte del desierto de Lop."
     }
   },
   "lubeck": {
@@ -5467,6 +5523,20 @@
       "extract": "Szklarska Poręba es una localidad y un municipio del distrito de Jelenia Góra, en el voivodato de Baja Silesia (Polonia). En 2011, según la Oficina Central de Estadística polaca, cubría una superficie de 75,44 km² y tenía una población de 6833 habitantes."
     }
   },
+  "taipei": {
+    "title": "Taipei",
+    "url": "https://en.wikipedia.org/wiki/Taipei",
+    "extract": "Taipei, officially Taipei City, is the capital and a special municipality of Taiwan. Located in Northern Taiwan, Taipei City is an enclave of the municipality of New Taipei City that sits about 25 kilometres (16 mi) southwest of the northern port city of Keelung. Most of the city rests on the Taipei Basin, an ancient lakebed. The basin is bounded by the relatively narrow valleys of the Keelung and Xindian rivers, which join to form the Tamsui River along the city's western border.",
+    "description": "Capital city of Taiwan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Skyline_2022.06.29.jpg/330px-Taipei_Skyline_2022.06.29.jpg",
+    "lat": 25.0375,
+    "lon": 121.5625,
+    "es": {
+      "title": "Taipéi",
+      "url": "https://es.wikipedia.org/wiki/Taip%C3%A9i",
+      "extract": "Taipéi(臺北市 o 台北市T, Táiběi ShìP) es la capital de la República de China desde 1949. Su estatus oficial es el de capital de la nación y de municipio especial. Es el centro político, económico y cultural del país. La ciudad tiene un metro elevado y está conectada por tren de alta velocidad con Kaohsiung. Además es sede de varias universidades, el Museo Nacional del Palacio y otras instituciones culturales como la Academia Sínica, y el Taipei 101, el undécimo edificio más alto del mundo."
+    }
+  },
   "talas-river": {
     "title": "Talas River",
     "url": "https://en.wikipedia.org/wiki/Talas_River",
@@ -5612,6 +5682,20 @@
     "url": "https://en.wikipedia.org/wiki/Circles_of_latitude_between_the_35th_parallel_north_and_the_40th_parallel_north",
     "extract": "Following are circles of latitude between the 35th parallel north and the 40th parallel north:",
     "description": "Circles of latitude"
+  },
+  "tiananmen-square": {
+    "title": "Tiananmen Square",
+    "url": "https://en.wikipedia.org/wiki/Tiananmen_Square",
+    "extract": "Tiananmen Square or Tian'anmen Square is a city square in the city centre of Beijing, China, named after the Tiananmen located to its north, which separates it from the Forbidden City imperial palace complex. The square holds the Monument to the People's Heroes, the Great Hall of the People, the National Museum of China, and the Chairman Mao Memorial Hall. They were inscribed in the UNESCO World Heritage Sites in 2024 as a part of the Beijing Central Axis.",
+    "description": "Public square in Beijing, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Tiananmen_Square_%2854137047250%29.jpg/330px-Tiananmen_Square_%2854137047250%29.jpg",
+    "lat": 39.90333333,
+    "lon": 116.39166667,
+    "es": {
+      "title": "Plaza de Tiananmén",
+      "url": "https://es.wikipedia.org/wiki/Plaza_de_Tiananm%C3%A9n",
+      "extract": "La plaza de Tiananmén o plaza de la Puerta de la Paz Celestial es una plaza situada en Pekín, construida e ideada dentro del plan urbanístico de la capital de China, con la creación de la República Popular China en 1949, convirtiéndose en símbolo de la nueva China."
+    }
   },
   "tiberias": {
     "title": "Tiberias",
