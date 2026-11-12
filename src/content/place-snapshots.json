@@ -1414,6 +1414,20 @@
       "extract": "Queronea es una ciudad y un municipio perteneciente a la Prefectura de Beocia, en la desembocadura del río Cefiso y contigua a la región de la Fócida. Esta ciudad se hizo famosa en la historia por haber sido el escenario de batallas muy importantes y decisivas para el devenir de Atenas."
     }
   },
+  "changchun": {
+    "title": "Changchun",
+    "url": "https://en.wikipedia.org/wiki/Changchun",
+    "extract": "Changchun is the capital and largest city of Jilin Province, China, on the Songliao Plain. Changchun is administered as a sub-provincial city, comprising seven districts, one county and three county-level cities. At the 2020 census of China, Changchun had a population of 9,066,906. Changchun's metro area, comprising five districts and one development area, had a population of 5,019,477. Shuangyang and Jiutai districts are not urbanized yet. It is one of the biggest cities in Northeast China, along with Shenyang, Dalian and Harbin.",
+    "description": "Capital city of Jilin Province, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Changchun_Geological_Palace_%2820230723154904%29.jpg/330px-Changchun_Geological_Palace_%2820230723154904%29.jpg",
+    "lat": 43.897,
+    "lon": 125.326,
+    "es": {
+      "title": "Changchun",
+      "url": "https://es.wikipedia.org/wiki/Changchun",
+      "extract": "Changchun es una subprovincia y la capital de la provincia de Jilin en la República Popular China. Entre 1932 y 1945 la ciudad fue renombrada Hsinking y se convirtió en la capital del estado títere japonés de Manchukuo. Después de la fundación de la República Popular China, en 1954 Changchun se convirtió en la capital de la provincia de Jilin."
+    }
+  },
   "cheb": {
     "title": "Cheb",
     "url": "https://en.wikipedia.org/wiki/Cheb",
@@ -2218,6 +2232,18 @@
       "extract": "Fráncfort del Meno, comúnmente llamada Fráncfort, es una ciudad financiera y comercial de Hesse, Alemania. Con 763 380 habitantes, es también la quinta ciudad más poblada del país. De acuerdo con Eurostat, la aglomeración urbana de la que Fráncfort forma parte cuenta con 2 500 000 habitantes. Aunque la capital administrativa de Hesse es Wiesbaden, Fráncfort tiene una importancia económica mayor tanto en el estado como en Alemania y en la Unión Europea."
     }
   },
+  "french-indochina": {
+    "title": "French Indochina",
+    "url": "https://en.wikipedia.org/wiki/French_Indochina",
+    "extract": "French Indochina, officially known as the Indochinese Union and after 1941 as the Indochinese Federation, was a group of French-dependent territories in Southeast Asia from 1887 to 1954. It was initially a federation of French colonies (1887–1949), later a confederation of French associated states (1949–1954). It comprised Cambodia, Laos, Guangzhouwan of China (1898–1945), and the Vietnamese regions of Tonkin, Annam and Cochinchina. It was established in 1887 and was dissolved in 1954. In 1949, Vietnam was reunited and it regained Cochinchina. Its capitals were Hanoi (1902–1945) and Saigon.",
+    "description": "1887–1954 French territories in Southeast Asia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png",
+    "es": {
+      "title": "Indochina francesa",
+      "url": "https://es.wikipedia.org/wiki/Indochina_francesa",
+      "extract": "La Indochina francesa fue un territorio colonial francés situado en la región asiática de Indochina y la parte norte de la península de Leizhou. Fue oficialmente conocida como Unión Indochina desde 1887. A partir de 1941, recibió el nombre de Federación Indochina como parte de la Unión Francesa."
+    }
+  },
   "fribourg": {
     "title": "Fribourg",
     "url": "https://en.wikipedia.org/wiki/Fribourg",
@@ -2272,6 +2298,20 @@
       "title": "Río Gambia",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Gambia",
       "extract": "El río Gambia es un río de África de 1130 kilómetros de longitud, uno de los mayores del continente. Nace en el macizo Futa Yallon, al norte de Guinea, y desemboca en la ciudad de Banjul (Gambia), a orillas del océano Atlántico. La mitad de su recorrido es navegable."
+    }
+  },
+  "ganghwa-island": {
+    "title": "Ganghwa Island",
+    "url": "https://en.wikipedia.org/wiki/Ganghwa_Island",
+    "extract": "Ganghwa Island (Korean: 강화도), also Ganghwado, is an island in Ganghwa County, Incheon, South Korea. It is in the Yellow Sea and in an estuary of the Han River.",
+    "description": "Island in the Yellow Sea, South Korea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ganghwa1.jpg/330px-Ganghwa1.jpg",
+    "lat": 37.71,
+    "lon": 126.44,
+    "es": {
+      "title": "Isla Ganghwa",
+      "url": "https://es.wikipedia.org/wiki/Isla_Ganghwa",
+      "extract": "Ganghwa es una isla en el estuario del río Han, en la costa oeste de Corea del Sur. La isla de Ganghwa está separada de Gimpo, en el continente, por un estrecho canal, que es atravesado por dos puentes. El canal principal del río Han la separa de la isla de Gaeseong en Corea del Norte."
     }
   },
   "gaugamela": {
@@ -3155,6 +3195,20 @@
       "extract": "El Cerámico es el nombre de un demo, barrio de los alfareros de la antigua Atenas, al noroeste de la Acrópolis.\nSegún Heródoto, su nombre proviene del griego κέραμος keramos, tierra cocida. Para Pausanias, el nombre proviene más bien de Céramo, hijo de Ariadna y de Dioniso."
     }
   },
+  "khalkhin-gol": {
+    "title": "Khalkhin Gol",
+    "url": "https://en.wikipedia.org/wiki/Khalkhin_Gol",
+    "extract": "The Khalkh River is a river in eastern Mongolia and northern China's Inner Mongolia region. The river is also referred to with the Mongolian genitive suffix -iin as the Khalkhin Gol, or River of Khalkh.",
+    "description": "River in eastern Mongolia and China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D1%83%D0%BB%D1%81_%D1%85%D0%B0%D0%BB%D1%85_%D0%B3%D0%BE%D0%BB.png/330px-%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D1%83%D0%BB%D1%81_%D1%85%D0%B0%D0%BB%D1%85_%D0%B3%D0%BE%D0%BB.png",
+    "lat": 47.89555556,
+    "lon": 117.83555556,
+    "es": {
+      "title": "Río Jalja",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Jalja",
+      "extract": "El río Jalja es un río fronterizo entre Mongolia oriental y China septentrional, cuya longitud es de 232 km. Desemboca en el lago Buir, un lago endorreico compartido por ambos países."
+    }
+  },
   "kinmen": {
     "title": "Kinmen",
     "url": "https://en.wikipedia.org/wiki/Kinmen",
@@ -3239,6 +3293,20 @@
       "extract": "Kufa es una ciudad de Irak situada a unos 170 km al sur de Bagdad y a 10 km al noroeste de Náyaf. Tenía 110.000 habitantes en 2003. Es, junto a Karbala y Náyaf una de las tres grandes ciudades chiíes de Irak."
     }
   },
+  "kuril-islands": {
+    "title": "Kuril Islands",
+    "url": "https://en.wikipedia.org/wiki/Kuril_Islands",
+    "extract": "The Kuril Islands or Kurile Islands are a volcanic archipelago administered as part of Sakhalin Oblast in the Russian Far East. The islands stretch approximately 1,300 km (810 mi) northeast from Hokkaido in Japan to Kamchatka Peninsula in Russia, separating the Sea of Okhotsk from the north Pacific Ocean. There are 56 islands and many minor islets. The Kuril Islands consist of the Greater Kuril Chain and, at the southwest end, the parallel Lesser Kuril Chain. The group termed the 'South Kurils' consists of those of the Lesser Kuril Chain together with Kunashir and Iturup in the Greater Kuril Chain. The Vries Strait between Iturup and Urup forms the Miyabe Line dividing the North and South Kurils. The Kuril Islands cover an area of around 10,503.2 square kilometres (4,055.3 sq mi), with a population of roughly 20,000.",
+    "description": "Island chain in Northeast Asia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Kuril_Island.jpg/330px-Kuril_Island.jpg",
+    "lat": 47,
+    "lon": 152.1,
+    "es": {
+      "title": "Islas Kuriles",
+      "url": "https://es.wikipedia.org/wiki/Islas_Kuriles",
+      "extract": "Las islas Kuriles, también denominadas como islas Curiles, son un archipiélago de islas en su mayoría volcánicas, que se extiende unos 1300 km en dirección nordeste desde Hokkaidō, en Japón, hasta la península de Kamchatka, separando el mar de Ojotsk del océano Pacífico Norte."
+    }
+  },
   "kuwait-city": {
     "title": "Kuwait City",
     "url": "https://en.wikipedia.org/wiki/Kuwait_City",
@@ -3251,6 +3319,20 @@
       "title": "Kuwait (ciudad)",
       "url": "https://es.wikipedia.org/wiki/Kuwait_(ciudad)",
       "extract": "La ciudad de Kuwait es la capital del Estado de Kuwait y de la gobernación de Al Asimah. Tiene una población de 63 600 habitantes, que llegan a más de 2 300 000 habitantes en su conurbación. Es el centro económico, comercial, cultural y de transportes del emirato."
+    }
+  },
+  "kyoto": {
+    "title": "Kyoto",
+    "url": "https://en.wikipedia.org/wiki/Kyoto",
+    "extract": "Kyoto, officially Kyoto City , is the capital city of Kyoto Prefecture in the Kansai region of Japan's largest and most populous island of Honshu. As of 2020, the city had a population of 1.46 million, making it the ninth-most populous city in Japan. More than half (56.8%) of Kyoto Prefecture's population resides in the city. The city is the cultural anchor of the substantially larger Greater Kyoto, a metropolitan statistical area home to approximately 3.8 million people. It is also part of the even larger Keihanshin metropolitan area, along with Osaka and Kobe.",
+    "description": "City in the Kansai region of Japan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg/330px-Kiyomizu-dera%2C_Kyoto%2C_November_2016_-02.jpg",
+    "lat": 35.01161,
+    "lon": 135.76811,
+    "es": {
+      "title": "Kioto",
+      "url": "https://es.wikipedia.org/wiki/Kioto",
+      "extract": "Kioto  es una ciudad de Japón, localizada en la parte central de la isla de Honshu. Es la capital de la prefectura homónima y tradicionalmente también ha sido considerada capital de la región de Kansai, aunque esta sea solo una referencia geográfica más que un territorio administrativo concreto. Así mismo, está integrada dentro de la región metropolitana de Keihanshin, compuesta por las áreas circundantes de las ciudades de Osaka, Kōbe y la misma Kioto. Cuenta con una población de alrededor de 1 465 000 habitantes, situándose entre las ciudades japonesas más pobladas. El área total del territorio de la ciudad es de 827,83 km²."
     }
   },
   "la-higuera": {
@@ -3967,6 +4049,20 @@
     "lat": 40.43333333,
     "lon": 22.58333333
   },
+  "midway-atoll": {
+    "title": "Midway Atoll",
+    "url": "https://en.wikipedia.org/wiki/Midway_Atoll",
+    "extract": "Midway Atoll is a 2.4 sq mi (6.2 km2) atoll in the North Pacific Ocean. Midway Atoll is an insular area of the United States, and is an unorganized and unincorporated territory of the U.S.",
+    "description": "US atoll in the North Pacific Ocean",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Midway_Atoll_aerial_photo_2008.JPG/330px-Midway_Atoll_aerial_photo_2008.JPG",
+    "lat": 28.2075,
+    "lon": -177.35,
+    "es": {
+      "title": "Islas Midway",
+      "url": "https://es.wikipedia.org/wiki/Islas_Midway",
+      "extract": "Las islas Midway es uno de los catorce territorios no incorporados de los Estados Unidos."
+    }
+  },
   "mieszkowice": {
     "title": "Mieszkowice",
     "url": "https://en.wikipedia.org/wiki/Mieszkowice",
@@ -4448,6 +4544,20 @@
       "extract": "Núremberg, antiguamente en español Nuremberga, es una ciudad alemana a orillas del río Pegnitz, en la región de la Franconia Media, perteneciente al estado de Baviera. Tiene una población de 544 200 habitantes (2023), por lo que es la segunda ciudad más poblada del estado tras Múnich y la decimocuarta del país."
     }
   },
+  "okinawa-island": {
+    "title": "Okinawa Island",
+    "url": "https://en.wikipedia.org/wiki/Okinawa_Island",
+    "extract": "Okinawa Island , also known as Okinawa Main Island , is the largest of the Okinawa Islands and the Ryukyu (Nansei) Islands of Japan in the Kyushu region. The island is approximately 106 kilometres (66 mi) long, an average 11 kilometres (7 mi) wide, and has an area of 1,206.98 square kilometers (466.02 sq mi). It is roughly 640 kilometres south of the main island of Kyushu and the rest of Japan. It is 500 km northeast of Taiwan. The total population of Okinawa Island was 1,384,762 in 2009. The greater Naha area has roughly 800,000 residents, while the city itself has about 320,000 people. Naha is the seat of Okinawa Prefecture on the southwestern part of Okinawa Island. Okinawa has a humid subtropical climate.",
+    "description": "Largest of the Okinawa Islands in Japan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Okinawa_Island-ISS042.jpg/330px-Okinawa_Island-ISS042.jpg",
+    "lat": 26.47944444,
+    "lon": 127.92777778,
+    "es": {
+      "title": "Isla de Okinawa",
+      "url": "https://es.wikipedia.org/wiki/Isla_de_Okinawa",
+      "extract": "La isla de Okinawa es la mayor de las islas Ryūkyū de Japón, con una superficie de 1201.03 km², donde se sitúa la ciudad de Naha, capital de la prefectura de Okinawa. En la isla se localizan las ruinas de seis gusuku, fortalezas típicas de la cultura de Okinawa, que han sido declaradas Patrimonio de la Humanidad por la Unesco."
+    }
+  },
   "old-summer-palace": {
     "title": "Old Summer Palace",
     "url": "https://en.wikipedia.org/wiki/Old_Summer_Palace",
@@ -4761,6 +4871,20 @@
       "extract": "Pavía es una ciudad italiana de la región de Lombardía, capital de la provincia homónima. Tiene una población de 71 000 habitantes. El río Ticino cruza la ciudad, antes de confluir con el río Po. En el período romano se llamó Ticinum. La ciudad fue la capital del Reino Ostrogodo del 540 al 553, del Reino Lombardo de 572 a 774, del Reino de Italia de 774 a 1024 y sede de la corte Visconti de 1365 a 1413."
     }
   },
+  "pearl-harbor": {
+    "title": "Pearl Harbor",
+    "url": "https://en.wikipedia.org/wiki/Pearl_Harbor",
+    "extract": "Pearl Harbor is a lagoon harbor on the island of Oʻahu, Hawaii, United States, west of Honolulu. It was often visited by the naval fleet of the United States before it was acquired from the Hawaiian Kingdom by the U.S. with the signing of the Reciprocity Treaty of 1875. Much of the harbor and surrounding lands are now a United States Navy deep-water naval base. It is also the headquarters of the United States Pacific Fleet. The U.S. government first obtained exclusive use of the inlet and the right to maintain a repair and coaling station for ships here in 1887. The surprise attack on the harbor by the Imperial Japanese Navy on December 7, 1941, led the United States to declare war on the Empire of Japan, marking the United States' entry into World War II.",
+    "description": "Harbor on the island of Oahu, Hawaii",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/330px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG",
+    "lat": 21.3679,
+    "lon": -157.9771,
+    "es": {
+      "title": "Pearl Harbor",
+      "url": "https://es.wikipedia.org/wiki/Pearl_Harbor",
+      "extract": "Pearl Harbor es un puerto natural en el interior de una laguna costera de la isla de Oahu, Hawái. Se halla \nen inmediaciones de Pearl City y al oeste de la capital del archipiélago, Honolulu. Gran parte del puerto y alrededores pertenecen a una base naval de la Armada de los Estados Unidos, donde opera el cuartel general de la Flota del Pacífico."
+    }
+  },
   "pella": {
     "title": "Pella",
     "url": "https://en.wikipedia.org/wiki/Pella",
@@ -4985,6 +5109,20 @@
       "extract": "Ponto era el nombre dado en la antigüedad a las vastas extensiones de tierra del noreste de Asia Menor que bordeaban el Ponto Euxino, llamado con frecuencia por los griegos simplemente Pontos, que sería la forma corrompida del nombre original Pontôi. La importancia real de este nombre puramente territorial varió enormemente a lo largo del tiempo. Los griegos lo aplicaron con ligereza a diversas partes de las costas del Euxino, hasta que con la conformación del Reino del Ponto el término se relacionó directamente con la zona ya mencionada, e incluso hasta nuestros días, el nombre perdura en el griego moderno, a pesar de que la zona hoy sea parte del territorio de Turquía. La primera fuente escrita que usa esta denominación es la Anábasis de Jenofonte."
     }
   },
+  "port-arthur": {
+    "title": "Lüshunkou",
+    "url": "https://en.wikipedia.org/wiki/L%C3%BCshunkou",
+    "extract": "Lüshunkou District, commonly known as Lüshun (旅顺), is a district of Dalian, Liaoning Province, China. The district has an area of 512.15 km2 (197.74 sq mi) and a permanent population of 398,579 as of 2020.",
+    "description": "District in Liaoning, People's Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/L%C3%BCshunkouPrison-EntranceGate.jpg/330px-L%C3%BCshunkouPrison-EntranceGate.jpg",
+    "lat": 38.85083333,
+    "lon": 121.25694444,
+    "es": {
+      "title": "Lüshunkou",
+      "url": "https://es.wikipedia.org/wiki/L%C3%BCshunkou",
+      "extract": "Lüshunkou, también llamada Lüshun, anteriormente Port Arthur, es una ciudad-distrito bajo la administración directa de la ciudad-subprovincial de Dalian. Se ubica en el extremo sur de la punta de la península de Liaodong en el territorio de la actual República Popular China. A principios del siglo XX fue un puerto colonial ruso. El lugar es célebre por haber sido escenario de la batalla del mar Amarillo en el marco de la guerra ruso-japonesa entre 1904 y 1905."
+    }
+  },
   "port-au-prince": {
     "title": "Port-au-Prince",
     "url": "https://en.wikipedia.org/wiki/Port-au-Prince",
@@ -5020,6 +5158,20 @@
       "title": "Porto Seguro",
       "url": "https://es.wikipedia.org/wiki/Porto_Seguro",
       "extract": "Porto Seguro es una ciudad situada en el extremo sur del estado de Bahía, en el nordeste brasileño. El municipio fue fundado en 1534 y declarado oficialmente el punto de llegada de los portugueses en Brasil. En la actualidad posee cerca de 140 000 habitantes y está ubicada en casi su totalidad por el patrimonio histórico, no siendo permitida la construcción de edificios altos .[cita requerida]"
+    }
+  },
+  "portsmouth-new-hampshire": {
+    "title": "Portsmouth, New Hampshire",
+    "url": "https://en.wikipedia.org/wiki/Portsmouth%2C_New_Hampshire",
+    "extract": "Portsmouth is a city in Rockingham County, New Hampshire, United States. It had a population of 21,956 at the 2020 census. A historic seaport and popular summer tourist destination on the Piscataqua River bordering the state of Maine, Portsmouth was formerly home to Pease Air Force Base, since converted to Portsmouth International Airport at Pease.",
+    "description": "City in New Hampshire, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Portsmouth%2C_NH.jpg/330px-Portsmouth%2C_NH.jpg",
+    "lat": 43.05805556,
+    "lon": -70.7825,
+    "es": {
+      "title": "Portsmouth (Nuevo Hampshire)",
+      "url": "https://es.wikipedia.org/wiki/Portsmouth_(Nuevo_Hampshire)",
+      "extract": "Portsmouth es una ciudad ubicada en el condado de Rockingham en el estado estadounidense de Nuevo Hampshire. En el Censo de 2010 tenía una población de 20 779 habitantes y una densidad poblacional de 476,16 personas por km². En el Censo de 2020 tenía una población de 21 956 habitantes."
     }
   },
   "potosi": {
@@ -5146,6 +5298,20 @@
       "title": "Pirgi",
       "url": "https://es.wikipedia.org/wiki/Pirgi",
       "extract": "Pirgi fue un antiguo puerto etrusco del Lacio, Italia central, al noroeste de Caere. Su lugar lo ocupa hoy el municipio de Santa Severa."
+    }
+  },
+  "qingdao": {
+    "title": "Qingdao",
+    "url": "https://en.wikipedia.org/wiki/Qingdao",
+    "extract": "Qingdao, previously transliterated as Tsingtao, is a prefecture-level city in China's Shandong province. Lying across the Shandong Peninsula and looking out to the Yellow Sea, it borders the prefecture-level cities of Yantai to the northeast, Weifang to the west, and Rizhao to the southwest. The Jiaozhou Bay Bridge links Qingdao's main urban area with Huangdao district, straddling Jiaozhou Bay.",
+    "description": "City in Shandong, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Qingdao_Harbour_51341-Qingdao_%2849055637186%29.jpg/330px-Qingdao_Harbour_51341-Qingdao_%2849055637186%29.jpg",
+    "lat": 36.0669,
+    "lon": 120.3827,
+    "es": {
+      "title": "Qingdao",
+      "url": "https://es.wikipedia.org/wiki/Qingdao",
+      "extract": "Qingdao es una ciudad portuaria de la provincia de Shandong en la República Popular China. Antiguamente era conocida como Jiao'ao. Está situada en la península de Shandong y orientada en dirección al mar Amarillo. Actualmente es un importante puerto marítimo, base naval y centro industrial. Entre 1898 y 1914 fue la capital de la concesión colonial alemana de Jiaozhou. En esta ciudad se realizaron parte de las competiciones náuticas de los Juegos Olímpicos de Pekín 2008. Su área es de 11 282 km² y su población total para 2020 superó los 10 millones de habitantes."
     }
   },
   "qumran": {
@@ -5386,6 +5552,20 @@
       "extract": "Ruijin es un municipio bajo la administración directa de la Prefectura Ganzhou en la Provincia de Jiangxi, República Popular China. Su área es de 2441 km² y su población total para 2020 superó los 600 mil habitantes."
     }
   },
+  "ryukyu-kingdom": {
+    "title": "Ryukyu Kingdom",
+    "url": "https://en.wikipedia.org/wiki/Ryukyu_Kingdom",
+    "extract": "The Ryukyu Kingdom was a kingdom in the Ryukyu Islands from 1429 until 1872, when it was reorganized as the Ryukyu Domain, before being fully abolished in 1879. It was ruled as a tributary state of the Ming dynasty by the Ryukyuan monarchy, who unified Okinawa Island to end the Sanzan period, and subsequently extended the kingdom to the Amami Islands and Sakishima Islands. The Ryukyu Kingdom played a central role in the maritime trade networks of medieval East Asia and Southeast Asia despite its small size. The Ryukyu Kingdom became a vassal state of the Satsuma Domain of Japan after the invasion of Ryukyu in 1609 but retained de jure independence until it was transformed into the Ryukyu Domain by the Empire of Japan in 1872. The Ryukyu Domain was abolished by the Meiji government in 1879 and reorganized as Okinawa Prefecture, and the Ryukyuan monarchy was integrated into the new Japanese nobility.",
+    "description": "Island kingdom in East Asia (1429–1879)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Merchant_flag_of_the_Ryukyu_Kingdom.svg/330px-Merchant_flag_of_the_Ryukyu_Kingdom.svg.png",
+    "lat": 26.2,
+    "lon": 127.68333333,
+    "es": {
+      "title": "Reino de Ryūkyū",
+      "url": "https://es.wikipedia.org/wiki/Reino_de_Ry%C5%ABky%C5%AB",
+      "extract": "El Reino de Ryūkyū fue un reino independiente que gobernó la mayoría de las islas Ryūkyū desde el siglo XIV al siglo XIX. Los reyes ryukyuenses unificaron la isla de Okinawa y extendieron el reino a las islas Amami e islas Yaeyama junto a Taiwán. A pesar de su pequeño tamaño, el reino jugó un papel central en las redes de comercio marítimo del este y del sureste de Asia en la época medieval."
+    }
+  },
   "saguntum": {
     "title": "Sagunto",
     "url": "https://en.wikipedia.org/wiki/Sagunto",
@@ -5426,6 +5606,20 @@
       "title": "Saint-Julien-en-Genevois",
       "url": "https://es.wikipedia.org/wiki/Saint-Julien-en-Genevois",
       "extract": "Saint-Julien-en-Genevois es una comuna francesa situada en el departamento de Alta Saboya, de la región de Auvernia-Ródano-Alpes. Es la subprefectura de su distrito y el bureau centralisateur de su cantón. Pertenece al Gran Ginebra."
+    }
+  },
+  "sakhalin": {
+    "title": "Sakhalin",
+    "url": "https://en.wikipedia.org/wiki/Sakhalin",
+    "extract": "Sakhalin is an island in Northeast Asia which is a part of Russia. Its north coast lies 6.5 km (4.0 mi) off the southeastern coast of Khabarovsk Krai, while its southern tip lies 40 kilometres (25 mi) north of the Japanese island of Hokkaido. An island of the West Pacific, Sakhalin separates the Sea of Okhotsk to its east from the Sea of Japan to its southwest. It is administered as part of Sakhalin Oblast and is the largest island of Russia, with an area of 72,492 square kilometres (27,989 sq mi). The island has a population of roughly 500,000, the majority of whom are Russians. The indigenous peoples of the island are the Ainu, Oroks, and Nivkhs, who are now present in only very small numbers.",
+    "description": "Island in Northeast Asia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Sakhalin_%28detail%29.PNG/330px-Sakhalin_%28detail%29.PNG",
+    "lat": 51,
+    "lon": 143,
+    "es": {
+      "title": "Isla de Sajalín",
+      "url": "https://es.wikipedia.org/wiki/Isla_de_Sajal%C3%ADn",
+      "extract": "La isla de Sajalín es una isla rusa, en el mar de Ojotsk, separada de Hokkaidô por el estrecho de La Pérouse, y de Siberia por el estrecho de Tartaria. Administrativamente, pertenece al óblast de Sajalín, cuya capital y centro administrativo es Yuzhno-Sajalinsk."
     }
   },
   "salamanca": {
@@ -5866,6 +6060,20 @@
       "extract": "El Sele es un importante río de la región italiana de la Campania, de 64 km de longitud, el segundo de la región y del sur de Italia por volumen medio de aguas después del Volturno, y que desemboca en el Mar Tirreno"
     }
   },
+  "singapore": {
+    "title": "Singapore",
+    "url": "https://en.wikipedia.org/wiki/Singapore",
+    "extract": "Singapore, officially the Republic of Singapore, is an island country and city-state in Southeast Asia. Its territory comprises a main island, over 60 satellite islands and islets, and one outlying islet. The country is about one degree of latitude north of the equator, off the southern tip of the Malay Peninsula, bordering the Strait of Malacca to the west, the Singapore Strait to the south along with the Riau Islands in Indonesia, the South China Sea to the east and the Straits of Johor along with the State of Johor in Malaysia to the north.",
+    "description": "Island country in Southeast Asia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/330px-Flag_of_Singapore.svg.png",
+    "lat": 1.28333333,
+    "lon": 103.83333333,
+    "es": {
+      "title": "Singapur",
+      "url": "https://es.wikipedia.org/wiki/Singapur",
+      "extract": "Singapur, oficialmente conocida como República de Singapur, es una ciudad-Estado y país insular, situada en el corazón marítimo del Sudeste asiático. Enclavada entre el estrecho de Malaca, el estrecho de Singapur, el mar de la China Meridional y el estrecho de Johor, tiene una posición geográfica estratégica que ha influido significativamente en la historia de la región. El territorio del país comprende una isla principal y 63 islas e islotes satélites y una periférica. Sus proyectos de tierras ganadas al mar han aumentado la superficie combinada en aproximadamente un 25 % desde la independencia del país."
+    }
+  },
   "sistine-chapel": {
     "title": "Sistine Chapel",
     "url": "https://en.wikipedia.org/wiki/Sistine_Chapel",
@@ -5904,6 +6112,20 @@
       "title": "Sopron",
       "url": "https://es.wikipedia.org/wiki/Sopron",
       "extract": "Sopron es una ciudad de Hungría. Tiene una población estimada, a inicios de 2021, de 62 900 habitantes."
+    }
+  },
+  "south-seas-mandate": {
+    "title": "South Seas Mandate",
+    "url": "https://en.wikipedia.org/wiki/South_Seas_Mandate",
+    "extract": "The South Seas Mandate was a League of Nations mandate given to the Empire of Japan by the League of Nations following World War I. The mandate consisted of islands in the north Pacific Ocean that had been part of German New Guinea within the German colonial empire, in a part of the world broadly known as the South Seas. The islands were occupied by Japan during World War I, and Japan subsequently governed them under the mandate as part of the Japanese colonial empire. During World War II the United States captured the islands, and after the war the United Nations revoked the mandate and established in its place the Trust Territory of the Pacific Islands which was governed by the United States. The islands are now part of Palau, the Northern Mariana Islands, the Federated States of Micronesia, and the Republic of the Marshall Islands.",
+    "description": "Japanese mandate territory (1919–1947)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/330px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png",
+    "lat": 7.34166667,
+    "lon": 134.47194444,
+    "es": {
+      "title": "Mandato del Pacífico Sur",
+      "url": "https://es.wikipedia.org/wiki/Mandato_del_Pac%C3%ADfico_Sur",
+      "extract": "El Mandato del Pacífico Sur o el Mandato de las Islas del Mar del Sur  consistió en una serie de archipiélagos situados en Micronesia y administrados por el Imperio del Japón como Mandato de la Sociedad de las Naciones, entre los años 1919 y 1947. Este territorio abarcaba los actuales países de Islas Marshall, Estados Federados de Micronesia, Palaos y la Mancomunidad de las Islas Marianas del Norte, bajo control estadounidense."
     }
   },
   "sparta": {
@@ -6123,6 +6345,20 @@
       "title": "Taipéi",
       "url": "https://es.wikipedia.org/wiki/Taip%C3%A9i",
       "extract": "Taipéi(臺北市 o 台北市T, Táiběi ShìP) es la capital de la República de China desde 1949. Su estatus oficial es el de capital de la nación y de municipio especial. Es el centro político, económico y cultural del país. La ciudad tiene un metro elevado y está conectada por tren de alta velocidad con Kaohsiung. Además es sede de varias universidades, el Museo Nacional del Palacio y otras instituciones culturales como la Academia Sínica, y el Taipei 101, el undécimo edificio más alto del mundo."
+    }
+  },
+  "taiwan": {
+    "title": "Taiwan",
+    "url": "https://en.wikipedia.org/wiki/Taiwan",
+    "extract": "Taiwan, officially the Republic of China (ROC), is a country in East Asia. The main island of Taiwan, formerly known as Formosa, lies between the East and South China Seas in the northwestern Pacific Ocean, with the People's Republic of China (PRC) to the northwest, Japan to the northeast, and the Philippines to the south. It has an area of 35,808 square kilometers, with mountain ranges dominating the eastern two-thirds and plains in the western third, where its highly urbanized population is concentrated. The combined territories under ROC control consist of 168 islands in total covering 36,193 square kilometers. The largest metropolitan area is formed by Taipei, New Taipei City, and Keelung. With around 23.9 million inhabitants, Taiwan is among the most densely populated countries.",
+    "description": "Country in East Asia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/330px-Flag_of_the_Republic_of_China.svg.png",
+    "lat": 24,
+    "lon": 121,
+    "es": {
+      "title": "República de China",
+      "url": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_de_China",
+      "extract": "La República de China es un Estado con reconocimiento limitado situado en Asia Oriental. Su nombre oficial está ligado a un reconocimiento limitado desde 1949 al estar ubicado principalmente en el archipiélago de Taiwán, este último es el nombre con el que es popularmente conocido. Sus países vecinos son la República Popular China (RPC) al noroeste, Japón al noreste, y Filipinas al sur. La isla de Taiwán, también conocida históricamente como Formosa, tiene un área de 35 808 km², con cadenas montañosas que dominan los dos tercios orientales y llanuras en el tercio occidental, donde se concentra su población altamente urbanizada. Taipéi es la capital y conforma el área metropolitana más grande. Otras ciudades importantes son Kaohsiung, Taichung, Tainan y Taoyuan. Con 23,4 millones de habitantes, Taiwán se encuentra entre los Estados más densamente poblados y es el país con más habitantes y con la economía más potente de entre aquellos que no forman parte de las Naciones Unidas."
     }
   },
   "talas-river": {
@@ -6397,6 +6633,20 @@
       "extract": "Tokio , oficialmente Metrópolis de Tokio, es la capital de facto de Japón, ubicada en el centro este de la isla de Honshu, concretamente en la región de Kantō. Es la una de las ciudades más pobladas del mundo, en conjunto es una de las 47 prefecturas de Japón. Es el centro de la política, economía, educación, comunicación y cultura del país. Cuenta también con la mayor concentración de sedes corporativas, instituciones financieras, universidades y colegios, museos, teatros, establecimientos comerciales y de entretenimiento de todo Japón."
     }
   },
+  "tokyo-bay": {
+    "title": "Tokyo Bay",
+    "url": "https://en.wikipedia.org/wiki/Tokyo_Bay",
+    "extract": "Tokyo Bay  is a bay located in the southern Kantō region of Japan spanning the coasts of Tokyo, Kanagawa Prefecture, and Chiba Prefecture, on the southern coast of the island of Honshu. Tokyo Bay is connected to the Pacific Ocean by the Uraga Channel. The Tokyo Bay region is the most populous and the largest industrialized area in Japan.",
+    "description": "Bay in Kantō region, Japan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Tokyo_Bay_by_Sentinel-2%2C_2018-10-30.jpg/330px-Tokyo_Bay_by_Sentinel-2%2C_2018-10-30.jpg",
+    "lat": 35.5225,
+    "lon": 139.91,
+    "es": {
+      "title": "Bahía de Tokio",
+      "url": "https://es.wikipedia.org/wiki/Bah%C3%ADa_de_Tokio",
+      "extract": "La bahía de Tokio  es una bahía de Japón en aguas del océano Pacífico, ubicada en la parte central de la costa meridional de la gran isla de Honshū, limitada por la península de Boso y la península de Miura. Está ubicada al sur de la región de Kanto y en ella están los puertos de Tokio, Chiba, Kawasaki, Yokohama y Yokosuka. La bahía conecta con el océano por el canal Uraga."
+    }
+  },
   "toledo": {
     "title": "Toledo, Spain",
     "url": "https://en.wikipedia.org/wiki/Toledo%2C_Spain",
@@ -6535,6 +6785,20 @@
       "title": "Troya",
       "url": "https://es.wikipedia.org/wiki/Troya",
       "extract": "Troya o Ilión es una antigua ciudad anatolia situada en el emplazamiento hoy conocido como la colina de Hisarlik,. Según los estudios de Frank Starke (1997), de J. David Hawkins (1998) y de W. D. Niemeier (1999), la palabra Wilusa era la denominación usada en hitita para la ciudad de Troya."
+    }
+  },
+  "tsushima-strait": {
+    "title": "Tsushima Strait",
+    "url": "https://en.wikipedia.org/wiki/Tsushima_Strait",
+    "extract": "Tsushima Strait  or Eastern Channel is a channel of the Korea Strait, which lies between Korea and Japan, connecting the Sea of Japan, the Yellow Sea, and the East China Sea.",
+    "description": "Channel of the Korea Strait",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Korea_Strait.png/330px-Korea_Strait.png",
+    "lat": 34.0075,
+    "lon": 129.49,
+    "es": {
+      "title": "Estrecho de Tsushima",
+      "url": "https://es.wikipedia.org/wiki/Estrecho_de_Tsushima",
+      "extract": "El estrecho del Este, o estrecho de Tsushima , también conocido como estrecho de Tsu Shima o estrecho de Tsu-Shima, es el canal oriental del estrecho de Corea, que se encuentra entre el extremo meridional de la península de Corea y las islas japonesas de Honshū y Kyūshū, conectando el mar del Japón con el mar de China Oriental."
     }
   },
   "tuileries": {
@@ -6882,6 +7146,20 @@
       "title": "Vilvoorde",
       "url": "https://es.wikipedia.org/wiki/Vilvoorde",
       "extract": "Vilvorde o Vilvoorde es una ciudad de Bélgica situada en la Región Flamenca, en la provincia del Brabante Flamenco.\nVilvoorde también es el nombre del municipio donde se halla esta ciudad."
+    }
+  },
+  "vladivostok": {
+    "title": "Vladivostok",
+    "url": "https://en.wikipedia.org/wiki/Vladivostok",
+    "extract": "Vladivostok is the largest city and the administrative center of Primorsky Krai and the capital of the Far Eastern Federal District of Russia. It is located around the Golden Horn Bay on the Sea of Japan, covering an area of 331.16 square kilometers, with a population of 603,519 residents as of 2021. Vladivostok is the second-largest city in the Far Eastern Federal District, as well as the Russian Far East, after Khabarovsk. It is located approximately 45 kilometers (28 mi) from the China–Russia border and 134 kilometers (83 mi) from the North Korea–Russia border.",
+    "description": "Largest city and administrative center of Primorsky Krai, Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Vladivostok._GUM_Department_Store_P8070703_2200.jpg/330px-Vladivostok._GUM_Department_Store_P8070703_2200.jpg",
+    "lat": 43.115,
+    "lon": 131.8853,
+    "es": {
+      "title": "Vladivostok",
+      "url": "https://es.wikipedia.org/wiki/Vladivostok",
+      "extract": "Vladivostok es una ciudad portuaria de Rusia ubicada en el Extremo Oriente Ruso, capital del Distrito federal del Extremo Oriente y centro administrativo del Krai de Primorie. La ciudad se encuentra muy próxima a la frontera rusa con China y Corea del Norte, a 9302 km de Moscú y es el puerto ruso más importante del océano Pacífico. La población de la ciudad era de 592 069 habitantes según el censo de 2010."
     }
   },
   "volsinii": {

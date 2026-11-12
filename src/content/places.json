@@ -926,6 +926,15 @@
       }
     }
   },
+  "changchun": {
+    "label": "Changchun",
+    "wikipedia": "Changchun",
+    "translations": {
+      "es": {
+        "label": "Changchun"
+      }
+    }
+  },
   "cheb": {
     "label": "Cheb (Eger)",
     "wikipedia": "Cheb",
@@ -1448,6 +1457,15 @@
       }
     }
   },
+  "french-indochina": {
+    "label": "French Indochina",
+    "wikipedia": "French Indochina",
+    "translations": {
+      "es": {
+        "label": "Indochina francesa"
+      }
+    }
+  },
   "fribourg": {
     "label": "Fribourg",
     "wikipedia": "Fribourg",
@@ -1481,6 +1499,15 @@
     "translations": {
       "es": {
         "label": "río Gambia"
+      }
+    }
+  },
+  "ganghwa-island": {
+    "label": "Ganghwa Island",
+    "wikipedia": "Ganghwa Island",
+    "translations": {
+      "es": {
+        "label": "Isla de Ganghwa"
       }
     }
   },
@@ -2069,6 +2096,15 @@
       }
     }
   },
+  "khalkhin-gol": {
+    "label": "Khalkhin Gol",
+    "wikipedia": "Khalkhin Gol",
+    "translations": {
+      "es": {
+        "label": "Río Khalkhin Gol"
+      }
+    }
+  },
   "kinmen": {
     "label": "Kinmen",
     "wikipedia": "Kinmen",
@@ -2123,12 +2159,30 @@
       }
     }
   },
+  "kuril-islands": {
+    "label": "Kuril Islands",
+    "wikipedia": "Kuril Islands",
+    "translations": {
+      "es": {
+        "label": "Islas Kuriles"
+      }
+    }
+  },
   "kuwait-city": {
     "label": "Kuwait City",
     "wikipedia": "Kuwait City",
     "translations": {
       "es": {
         "label": "Ciudad de Kuwait"
+      }
+    }
+  },
+  "kyoto": {
+    "label": "Kyoto",
+    "wikipedia": "Kyoto",
+    "translations": {
+      "es": {
+        "label": "Kioto"
       }
     }
   },
@@ -2600,6 +2654,15 @@
       }
     }
   },
+  "midway-atoll": {
+    "label": "Midway Atoll",
+    "wikipedia": "Midway Atoll",
+    "translations": {
+      "es": {
+        "label": "Atolón de Midway"
+      }
+    }
+  },
   "mieszkowice": {
     "label": "Bärwalde (Mieszkowice)",
     "wikipedia": "Mieszkowice",
@@ -2915,6 +2978,15 @@
       }
     }
   },
+  "okinawa-island": {
+    "label": "Okinawa Island",
+    "wikipedia": "Okinawa Island",
+    "translations": {
+      "es": {
+        "label": "Isla de Okinawa"
+      }
+    }
+  },
   "old-summer-palace": {
     "label": "Old Summer Palace",
     "wikipedia": "Old Summer Palace",
@@ -3122,6 +3194,15 @@
       }
     }
   },
+  "pearl-harbor": {
+    "label": "Pearl Harbor",
+    "wikipedia": "Pearl Harbor",
+    "translations": {
+      "es": {
+        "label": "Pearl Harbor"
+      }
+    }
+  },
   "pella": {
     "label": "Pella",
     "wikipedia": "Pella",
@@ -3266,6 +3347,15 @@
       }
     }
   },
+  "port-arthur": {
+    "label": "Port Arthur (Lüshunkou)",
+    "wikipedia": "Lüshunkou District",
+    "translations": {
+      "es": {
+        "label": "Port Arthur (Lüshunkou)"
+      }
+    }
+  },
   "port-au-prince": {
     "label": "Port-au-Prince",
     "wikipedia": "Port-au-Prince",
@@ -3290,6 +3380,15 @@
     "translations": {
       "es": {
         "label": "Porto Seguro"
+      }
+    }
+  },
+  "portsmouth-new-hampshire": {
+    "label": "Portsmouth, New Hampshire",
+    "wikipedia": "Portsmouth, New Hampshire",
+    "translations": {
+      "es": {
+        "label": "Portsmouth (Nuevo Hampshire)"
       }
     }
   },
@@ -3371,6 +3470,15 @@
     "translations": {
       "es": {
         "label": "Pyrgi"
+      }
+    }
+  },
+  "qingdao": {
+    "label": "Qingdao",
+    "wikipedia": "Qingdao",
+    "translations": {
+      "es": {
+        "label": "Qingdao"
       }
     }
   },
@@ -3527,6 +3635,15 @@
       }
     }
   },
+  "ryukyu-kingdom": {
+    "label": "Ryukyu Kingdom",
+    "wikipedia": "Ryukyu Kingdom",
+    "translations": {
+      "es": {
+        "label": "Reino de Ryukyu"
+      }
+    }
+  },
   "saguntum": {
     "label": "Saguntum",
     "wikipedia": "Sagunto",
@@ -3551,6 +3668,15 @@
     "translations": {
       "es": {
         "label": "Saint-Julien-en-Genevois"
+      }
+    }
+  },
+  "sakhalin": {
+    "label": "Sakhalin",
+    "wikipedia": "Sakhalin",
+    "translations": {
+      "es": {
+        "label": "Sajalín"
       }
     }
   },
@@ -3842,6 +3968,15 @@
       }
     }
   },
+  "singapore": {
+    "label": "Singapore",
+    "wikipedia": "Singapore",
+    "translations": {
+      "es": {
+        "label": "Singapur"
+      }
+    }
+  },
   "sistine-chapel": {
     "label": "Sistine Chapel",
     "wikipedia": "Sistine Chapel",
@@ -3866,6 +4001,15 @@
     "translations": {
       "es": {
         "label": "Sopron"
+      }
+    }
+  },
+  "south-seas-mandate": {
+    "label": "South Seas Mandate",
+    "wikipedia": "South Seas Mandate",
+    "translations": {
+      "es": {
+        "label": "Mandato de los Mares del Sur"
       }
     }
   },
@@ -4010,6 +4154,15 @@
     "translations": {
       "es": {
         "label": "Taipei"
+      }
+    }
+  },
+  "taiwan": {
+    "label": "Taiwan",
+    "wikipedia": "Taiwan",
+    "translations": {
+      "es": {
+        "label": "Taiwán"
       }
     }
   },
@@ -4193,6 +4346,15 @@
       }
     }
   },
+  "tokyo-bay": {
+    "label": "Tokyo Bay",
+    "wikipedia": "Tokyo Bay",
+    "translations": {
+      "es": {
+        "label": "Bahía de Tokio"
+      }
+    }
+  },
   "toledo": {
     "label": "Toledo",
     "wikipedia": "Toledo, Spain",
@@ -4280,6 +4442,15 @@
     "translations": {
       "es": {
         "label": "Troya"
+      }
+    }
+  },
+  "tsushima-strait": {
+    "label": "Tsushima Strait",
+    "wikipedia": "Tsushima Strait",
+    "translations": {
+      "es": {
+        "label": "Estrecho de Tsushima"
       }
     }
   },
@@ -4505,6 +4676,15 @@
     "translations": {
       "es": {
         "label": "Vilvoorde"
+      }
+    }
+  },
+  "vladivostok": {
+    "label": "Vladivostok",
+    "wikipedia": "Vladivostok",
+    "translations": {
+      "es": {
+        "label": "Vladivostok"
       }
     }
   },

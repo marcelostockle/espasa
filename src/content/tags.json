@@ -855,6 +855,20 @@
       }
     }
   },
+  "first-sino-japanese-war": {
+    "label": "First Sino-Japanese War",
+    "color": "#7fb069",
+    "description": "The 1894-1895 war between Japan and Qing China over Korea, which gave Japan Taiwan and a place among the great powers.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Primera guerra sino-japonesa",
+        "description": "La guerra de 1894-1895 entre Japón y la China Qing por Corea, que dio a Japón Taiwán y un lugar entre las grandes potencias."
+      }
+    }
+  },
   "francis-drake": {
     "label": "Francis Drake",
     "color": "#a64d79",
@@ -1405,6 +1419,20 @@
       "es": {
         "label": "Japón",
         "description": "Japón: su gobierno, su imperio y sus relaciones exteriores."
+      }
+    }
+  },
+  "japanese-empire": {
+    "label": "Japanese Empire",
+    "color": "#c2185b",
+    "description": "The Empire of Japan from the Meiji Restoration (1868) to its surrender in 1945: its modernization, colonies, protectorates and conquests.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio japonés",
+        "description": "El Imperio de Japón desde la Restauración Meiji (1868) hasta su rendición en 1945: su modernización, colonias, protectorados y conquistas."
       }
     }
   },
@@ -2502,6 +2530,20 @@
       }
     }
   },
+  "russo-japanese-war": {
+    "label": "Russo-Japanese War",
+    "color": "#a9774f",
+    "description": "The 1904-1905 war between Japan and Russia over Manchuria and Korea, won by Japan.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra ruso-japonesa",
+        "description": "La guerra de 1904-1905 entre Japón y Rusia por Manchuria y Corea, ganada por Japón."
+      }
+    }
+  },
   "saddam-hussein": {
     "label": "Saddam Hussein",
     "color": "#5a2d2d",
@@ -3069,6 +3111,20 @@
       "es": {
         "label": "Winston Churchill",
         "description": "Estadista británico, primer ministro en 1940-1945 y 1951-1955, figura destacada de la alianza de guerra y de los inicios de la Guerra Fría."
+      }
+    }
+  },
+  "world-war-ii": {
+    "label": "World War II",
+    "color": "#556b2f",
+    "description": "The global war of 1939-1945 between the Allies and the Axis, in Europe, Asia, Africa and the Pacific.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Segunda Guerra Mundial",
+        "description": "La guerra global de 1939-1945 entre los Aliados y el Eje, en Europa, Asia, África y el Pacífico."
       }
     }
   },
