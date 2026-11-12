@@ -297,6 +297,20 @@
       }
     }
   },
+  "chiang-kai-shek": {
+    "label": "Chiang Kai-shek",
+    "color": "#47658a",
+    "description": "Nationalist leader who headed the Republic of China from 1928 and, after losing the mainland in 1949, ruled Taiwan until 1975.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Chiang Kai-shek",
+        "description": "Líder nacionalista que encabezó la República de China desde 1928 y, tras perder el continente en 1949, gobernó Taiwán hasta 1975."
+      }
+    }
+  },
   "chile": {
     "label": "Chile",
     "color": "#ffab91",
@@ -309,6 +323,34 @@
       "es": {
         "label": "Chile",
         "description": "El territorio del actual Chile como lugar: su costa, el dominio colonial español y los mapuches, desde la llegada de los españoles en 1536 hasta la independencia en 1818."
+      }
+    }
+  },
+  "chinese-civil-war": {
+    "label": "Chinese Civil War",
+    "color": "#8f5a3c",
+    "description": "The conflict between the Kuomintang government and the Communists, from 1927 to 1949 with long interruptions, ending in Communist victory on the mainland.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra Civil China",
+        "description": "El conflicto entre el gobierno del Kuomintang y los comunistas, de 1927 a 1949 con largas interrupciones, que terminó con la victoria comunista en el continente."
+      }
+    }
+  },
+  "chinese-communist-party": {
+    "label": "Chinese Communist Party",
+    "color": "#b5121b",
+    "description": "The party founded in 1921 that won the civil war in 1949 and has ruled the People's Republic of China since.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Partido Comunista de China",
+        "description": "El partido fundado en 1921 que ganó la guerra civil en 1949 y gobierna la República Popular China desde entonces."
       }
     }
   },
@@ -992,6 +1034,21 @@
       }
     }
   },
+  "japan": {
+    "label": "Japan",
+    "color": "#e2536a",
+    "description": "Japan: its government, empire and foreign relations.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Japón",
+        "description": "Japón: su gobierno, su imperio y sus relaciones exteriores."
+      }
+    }
+  },
   "jesuits": {
     "label": "Jesuits",
     "color": "#4682b4",
@@ -1202,6 +1259,20 @@
       "es": {
         "label": "Macedonia",
         "description": "El reino de Macedonia, desde su ascenso con Filipo II y Alejandro Magno hasta su conquista por Roma en el siglo II a. C."
+      }
+    }
+  },
+  "mao-zedong": {
+    "label": "Mao Zedong",
+    "color": "#c8102e",
+    "description": "Communist leader who rose to command the Chinese Communist Party and ruled the People's Republic of China from 1949 until his death in 1976.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Mao Zedong",
+        "description": "Líder comunista que llegó a dirigir el Partido Comunista de China y gobernó la República Popular China desde 1949 hasta su muerte en 1976."
       }
     }
   },
@@ -1460,6 +1531,20 @@
       }
     }
   },
+  "opium-wars": {
+    "label": "Opium Wars",
+    "color": "#a45a52",
+    "description": "The two wars (1839-1842, 1856-1860) in which Britain, and later France, forced China to open to trade and accept unequal treaties.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerras del Opio",
+        "description": "Las dos guerras (1839-1842, 1856-1860) en las que Gran Bretaña, y luego Francia, obligaron a China a abrirse al comercio y aceptar tratados desiguales."
+      }
+    }
+  },
   "ottoman-empire": {
     "label": "Ottoman Empire",
     "color": "#e91e63",
@@ -1688,6 +1773,20 @@
       }
     }
   },
+  "qing-dynasty": {
+    "label": "Qing dynasty",
+    "color": "#c19a3b",
+    "description": "The last imperial dynasty of China (1644-1912), including its decline, reforms and fall.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Dinastía Qing",
+        "description": "La última dinastía imperial de China (1644-1912), incluidos su declive, sus reformas y su caída."
+      }
+    }
+  },
   "religion": {
     "label": "Religion",
     "color": "#8a5cd1",
@@ -1728,6 +1827,21 @@
       "es": {
         "label": "Tolerancia religiosa",
         "description": "Edictos, tratados y leyes que concedieron libertades religiosas o pusieron fin a conflictos religiosos."
+      }
+    }
+  },
+  "republic-of-china": {
+    "label": "Republic of China",
+    "color": "#3a7ca5",
+    "description": "The state founded in 1912 after the fall of the Qing, on the mainland until 1949 and then on Taiwan.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "República de China",
+        "description": "El Estado fundado en 1912 tras la caída de los Qing, en el continente hasta 1949 y después en Taiwán."
       }
     }
   },
@@ -1841,6 +1955,20 @@
       "es": {
         "label": "Pueblos del Mar",
         "description": "Los grupos citados en las fuentes egipcias entre los siglos XIV y XII a. C. (sherden, lukka, peleset, denyen y otros) y el término moderno «Pueblos del Mar». Su identidad y origen se debaten."
+      }
+    }
+  },
+  "second-sino-japanese-war": {
+    "label": "Second Sino-Japanese War",
+    "color": "#5f7a4e",
+    "description": "The war between China and Japan from 1937 to 1945, which devastated China and reshaped the balance between Nationalists and Communists.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Segunda Guerra Sino-Japonesa",
+        "description": "La guerra entre China y Japón de 1937 a 1945, que devastó China y alteró el equilibrio entre nacionalistas y comunistas."
       }
     }
   },
@@ -2000,6 +2128,20 @@
       }
     }
   },
+  "sun-yat-sen": {
+    "label": "Sun Yat-sen",
+    "color": "#2d9f6f",
+    "description": "Revolutionary leader and first provisional president of the Republic of China, founder of the Kuomintang.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Sun Yat-sen",
+        "description": "Líder revolucionario y primer presidente provisional de la República de China, fundador del Kuomintang."
+      }
+    }
+  },
   "sweden": {
     "label": "Sweden",
     "color": "#4fc3f7",
@@ -2039,6 +2181,20 @@
       "es": {
         "label": "Taínos",
         "description": "Los taínos, pueblos indígenas de las Antillas Mayores y las Bahamas, y su encuentro con la colonización española desde 1492 hasta mediados del siglo XVI."
+      }
+    }
+  },
+  "taiping-rebellion": {
+    "label": "Taiping Rebellion",
+    "color": "#d1495b",
+    "description": "The civil war of 1850-1864 in which the Taiping Heavenly Kingdom challenged Qing rule, one of the deadliest conflicts in history.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Rebelión Taiping",
+        "description": "La guerra civil de 1850-1864 en que el Reino Celestial Taiping desafió el dominio Qing, uno de los conflictos más mortíferos de la historia."
       }
     }
   },

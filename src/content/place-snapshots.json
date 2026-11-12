@@ -680,6 +680,20 @@
       "extract": "La Bastilla era una fortaleza que protegía el costado oriental de la ciudad de París, conocida formalmente como la Bastille Saint-Antoine. Desempeñó un papel importante en los conflictos internos de Francia y durante la mayor parte de su historia fue usada como una prisión estatal por los reyes de Francia. Fue tomada por una multitud el 14 de julio de 1789 durante la Revolución francesa, convirtiéndose en un símbolo importante del movimiento republicano francés. Tiempo después fue demolida y reemplazada por la Plaza de la Bastilla."
     }
   },
+  "beijing": {
+    "title": "Beijing",
+    "url": "https://en.wikipedia.org/wiki/Beijing",
+    "extract": "Beijing, previously romanized as Peking, is the capital city of China. With more than 21.8 million residents, it is the world's most populous national capital city, as well as China's second-largest city by urban area, after Shanghai. It is located in Northern China and is governed as a provincial-level direct-administered municipality with 16 municipal districts. Beijing is mostly surrounded by Hebei Province and neighbors Tianjin Municipality to the southeast; together, the three divisions form the Jing-Jin-Ji cluster.",
+    "description": "Capital city of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg/330px-Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg",
+    "lat": 39.90666667,
+    "lon": 116.3975,
+    "es": {
+      "title": "Pekín",
+      "url": "https://es.wikipedia.org/wiki/Pek%C3%ADn",
+      "extract": "Pekín o Beijing\n(en chino, 北京; pinyin, )\nes la capital de la República Popular China y una de las ciudades más pobladas del mundo. La municipalidad de Pekín, que incluye otras varias ciudades, contaba con 21 890 000 habitantes en 2020. Es, junto con Shanghái, Tianjin y Chongqing, uno de los cuatro municipios bajo jurisdicción central del país."
+    }
+  },
   "benevento": {
     "title": "Benevento",
     "url": "https://en.wikipedia.org/wiki/Benevento",
@@ -1258,6 +1272,20 @@
       "title": "Cholula de Rivadavia",
       "url": "https://es.wikipedia.org/wiki/Cholula_de_Rivadavia",
       "extract": "Cholula de Rivadavia, también llamada San Pedro Cholula —nombre del municipio —, es una ciudad del estado mexicano de Puebla, que forma parte de la Zona Metropolitana de Puebla y se encuentra prácticamente conurbada con la capital del estado, la ciudad de Puebla de Zaragoza; se localiza en el asentamiento de la antigua ciudad prehispánica de Cholula, de la que recibe el nombre. Es cabecera del municipio de San Pedro Cholula."
+    }
+  },
+  "chongqing": {
+    "title": "Chongqing",
+    "url": "https://en.wikipedia.org/wiki/Chongqing",
+    "extract": "Chongqing is a provincial-level direct-administered municipality in Southwestern China. It is one of the four direct-administered municipalities of China and the only one located inland.",
+    "description": "Municipality in Southwestern China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/September_2025_in_Chongqing_05.jpg/330px-September_2025_in_Chongqing_05.jpg",
+    "lat": 29.5637,
+    "lon": 106.5504,
+    "es": {
+      "title": "Chongqing",
+      "url": "https://es.wikipedia.org/wiki/Chongqing",
+      "extract": "Chongqing es uno de los cuatro municipios bajo jurisdicción central de la República Popular China. Se creó como municipio, el 14 de marzo de 1997, para potenciar la zona y controlar la presa de las Tres Gargantas. Hasta antes de crearse como municipio formaba parte de la provincia de Sichuan."
     }
   },
   "cnidus": {
@@ -3764,6 +3792,20 @@
       "extract": "Nagasaki  es una ciudad japonesa, capital de la prefectura de Nagasaki, ubicada sobre la costa sudoeste de la isla de Kyūshū. Tenía una población estimada, en septiembre de 2021, de 401 515 habitantes. Su nombre significa \"cabo largo\"."
     }
   },
+  "nanchang": {
+    "title": "Nanchang",
+    "url": "https://en.wikipedia.org/wiki/Nanchang",
+    "extract": "Nanchang is the capital of Jiangxi, China. Located in the north-central part of the province and in the hinterland of Poyang Lake Plain, it is bounded on the west by the Jiuling Mountains, and on the east by Poyang Lake. Because of its strategic location connecting the prosperous East and South China, it has become a major railway hub in Southern China in recent decades.",
+    "description": "Capital of Jiangxi, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Nanchang_Skyline.jpg/330px-Nanchang_Skyline.jpg",
+    "lat": 28.683,
+    "lon": 115.858,
+    "es": {
+      "title": "Nanchang",
+      "url": "https://es.wikipedia.org/wiki/Nanchang",
+      "extract": "Nanchang es una ciudad-prefectura capital de la provincia de Jiangxi, al sudeste de la República Popular China. El habla local es el dialecto más representativa del chino gan (贛語).\nSu área es de 7194 km² y su población total para 2020 superó los 6 millones de habitantes."
+    }
+  },
   "nanjing": {
     "title": "Nanjing",
     "url": "https://en.wikipedia.org/wiki/Nanjing",
@@ -3886,6 +3928,20 @@
       "title": "Núremberg",
       "url": "https://es.wikipedia.org/wiki/N%C3%BAremberg",
       "extract": "Núremberg, antiguamente en español Nuremberga, es una ciudad alemana a orillas del río Pegnitz, en la región de la Franconia Media, perteneciente al estado de Baviera. Tiene una población de 544 200 habitantes (2023), por lo que es la segunda ciudad más poblada del estado tras Múnich y la decimocuarta del país."
+    }
+  },
+  "old-summer-palace": {
+    "title": "Old Summer Palace",
+    "url": "https://en.wikipedia.org/wiki/Old_Summer_Palace",
+    "extract": "The Old Summer Palace, also known as Yuanmingyuan or Yuanmingyuan Park, originally called the Imperial Gardens, and sometimes called the Winter Palace, was a complex of palaces and gardens in present-day Haidian District, Beijing, China. It is 8 kilometres (5 mi) north-west of the walls of the former Imperial City section of Beijing. Widely perceived as the pinnacle work of Chinese imperial garden and palace design, the Old Summer Palace was known for its extensive collection of gardens, its building architecture and numerous art and historical treasures. Constructed throughout the 18th and early 19th centuries, the Old Summer Palace was the main imperial residence of the Qianlong Emperor of the Qing dynasty and his successors, and where they handled state affairs; the Forbidden City was used for formal ceremonies. The Garden was reputed as the \"Garden of Gardens\" in its heyday was \"arguably the greatest concentration of historic treasures in the world, dating and representing a full 5,000 years of an ancient civilization\", according to Stuart McGee, chaplain to the British forces.",
+    "description": "Former palace and garden complex in Beijing, China; destroyed in 1860",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Yuanmingyuan_Ruins_of_Dashuifa_20120715.JPG/330px-Yuanmingyuan_Ruins_of_Dashuifa_20120715.JPG",
+    "lat": 40.00722222,
+    "lon": 116.2925,
+    "es": {
+      "title": "Antiguo Palacio de Verano",
+      "url": "https://es.wikipedia.org/wiki/Antiguo_Palacio_de_Verano",
+      "extract": "El Antiguo Palacio de Verano es el nombre con el que se conoce en Occidente al Jardín del Perfecto Brillo, originalmente llamado Jardines Imperiales. Fue un complejo de palacios y jardines, construido entre el siglo XVIII y principios del XIX, situado a 8 kilómetros al noroeste de los muros de la Ciudad Imperial en Pekín."
     }
   },
   "olympia": {
@@ -4756,6 +4812,20 @@
       "extract": "El Rubicón es un río poco profundo de régimen torrencial del nordeste de Italia, que discurre por la provincia de Forlì-Cesena y desemboca en el mar Adriático. Parece que el nombre deriva del color del agua, ya que discurre por una región arcillosa, que la tiñe de un color rubí."
     }
   },
+  "ruijin": {
+    "title": "Ruijin",
+    "url": "https://en.wikipedia.org/wiki/Ruijin",
+    "extract": "Ruijin is a county-level city of Ganzhou in the mountains bordering Fujian Province in the south-eastern part of Jiangxi Province. Formerly a county, Ruijin became a county-level city on May 18, 1994.",
+    "description": "County-level & Sub-prefectural city in Jiangxi, People's Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ruijin_Shazhouba_Geming_Jiuzhi_2014.05.30_16-39-34.jpg/330px-Ruijin_Shazhouba_Geming_Jiuzhi_2014.05.30_16-39-34.jpg",
+    "lat": 25.886,
+    "lon": 116.027,
+    "es": {
+      "title": "Ruijin",
+      "url": "https://es.wikipedia.org/wiki/Ruijin",
+      "extract": "Ruijin es un municipio bajo la administración directa de la Prefectura Ganzhou en la Provincia de Jiangxi, República Popular China. Su área es de 2441 km² y su población total para 2020 superó los 600 mil habitantes."
+    }
+  },
   "saguntum": {
     "title": "Sagunto",
     "url": "https://en.wikipedia.org/wiki/Sagunto",
@@ -5108,6 +5178,48 @@
       "title": "Xanadú",
       "url": "https://es.wikipedia.org/wiki/Xanad%C3%BA",
       "extract": "Xanadú, Xanadu, Zanadu o Shangdu era la capital de verano del Imperio mongol de Kublai Kan, imperio que ocupaba gran parte de Asia. Hallazgos arqueológicos concluyen que la ciudad estaba situada en la actual provincia de Mongolia Interior, en China. La ciudad tenía tres partes: la «ciudad exterior», la «ciudad interior» y el palacio, donde Kublai Kan permanecía en verano. Se cree que el palacio de Xanadú era la mitad de grande que la Ciudad Prohibida, en Pekín. Los restos modernos más visibles son las murallas en tierra, así como la plataforma circular de ladrillo en el centro de la ciudad interior."
+    }
+  },
+  "shanghai": {
+    "title": "Shanghai",
+    "url": "https://en.wikipedia.org/wiki/Shanghai",
+    "extract": "Shanghai is a provincial-level direct-administered municipality in China. It has a population of 30,050,000 in the urban area as of 2026, thus making it China's most populous city and the fifth-largest city in the world by population. The city is located on the southern estuary of the Yangtze River, with the Huangpu River bisecting the city.",
+    "description": "Municipality and largest city in China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg/330px-Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg",
+    "lat": 31.2325,
+    "lon": 121.46916667,
+    "es": {
+      "title": "Shanghái",
+      "url": "https://es.wikipedia.org/wiki/Shangh%C3%A1i",
+      "extract": "Shanghái es la ciudad más poblada de China y una de las más grandes del mundo. Administrativamente, es uno de los cuatro municipios a nivel central. Cuenta con más de 24 millones de habitantes. Situada en la China del Este, Shanghái yace en el delta del río Yangtsé, centrada en la costa del mar de la China Oriental y es administrada al máximo nivel con la categoría de municipio de control directo."
+    }
+  },
+  "shenyang": {
+    "title": "Shenyang",
+    "url": "https://en.wikipedia.org/wiki/Shenyang",
+    "extract": "Shenyang, formerly known by its Manchu name Mukden, is a sub-provincial city in China and the provincial capital of Liaoning province. It is the province's most populous city with a population of 9,070,093 as of the 2020 census, also making it the largest city in Manchuria by urban population, and the second-largest by metropolitan population. The Shenyang metropolitan area is one of the major megalopolises in China, with a population of over 23 million. The city's administrative region includes the ten metropolitan districts, the county-level city of Xinmin, and the counties of Kangping and Faku.",
+    "description": "Capital of Liaoning, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/%E6%B2%88%E9%98%B3%E9%9D%92%E5%B9%B4%E5%85%AC%E5%9B%AD.jpg/330px-%E6%B2%88%E9%98%B3%E9%9D%92%E5%B9%B4%E5%85%AC%E5%9B%AD.jpg",
+    "lat": 41.8025,
+    "lon": 123.42805556,
+    "es": {
+      "title": "Shenyang",
+      "url": "https://es.wikipedia.org/wiki/Shenyang",
+      "extract": "Shenyang o Mukden es la capital provincial y la ciudad más poblada de la provincia de Liaoning, en la República Popular de China, así como la ciudad más grande de la región de Manchuria por población urbana. Según el censo de 2010, el área urbana de la ciudad contaba 6,3 millones de habitantes, mientras que la población total del municipio de Shenyang, que tiene el estatuto administrativo de una ciudad subprovincial, es de 8.1 millones. Se ubica en las riberas del río Hun —un afluente del río Liao— e incluye los diez distritos metropolitanos de Shenyang propiamente, la ciudad condado de Xinmin, y dos condados de Kangping y Faku."
+    }
+  },
+  "shimonoseki": {
+    "title": "Shimonoseki",
+    "url": "https://en.wikipedia.org/wiki/Shimonoseki",
+    "extract": "Shimonoseki  is a city located in Yamaguchi Prefecture, Japan. The city used to be referred to as Bakan (馬関). As of 30 June 2023, the city had an estimated population of 248,193 in 128,762 households and a population density of 350 persons per km2. The total area of the city is 716.18 square kilometres (276.52 sq mi). It is the largest city in Yamaguchi Prefecture and the fifth-largest city in the Chūgoku region in terms of population. It is nicknamed the 'home of Fugu' for the locally caught and cooked pufferfish, and is the largest harvester of the pufferfish in Japan.",
+    "description": "City in Yamaguchi Prefecture, Japan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Central_Shimonoseki_and_Kanmon_Strait.JPG/330px-Central_Shimonoseki_and_Kanmon_Strait.JPG",
+    "lat": 33.95777778,
+    "lon": 130.94138889,
+    "es": {
+      "title": "Shimonoseki",
+      "url": "https://es.wikipedia.org/wiki/Shimonoseki",
+      "extract": "La ciudad de Shimonoseki  de Japón está situada en el extremo suroeste de la isla de Honshū, en la prefectura de Yamaguchi. Se ubica frente a la ciudad de Kitakyūshū, en la isla de Kyūshū, y ambas se comunican por túneles de ferrocarril y de carretera. Shimonoseki es uno de los principales puertos pesqueros del país y un importante núcleo industrial con astilleros, fábricas de productos químicos, textiles, de conservas e ingeniería. La principal atracción turística es el santuario shinto dedicado al Emperador Antoku. En Shimonoseki, antes denominada Akamagaseki y que popularmente se conocía como Bakan, se firmó el tratado que puso fin a la Primera Guerra Sino-japonesa de 1894-1895."
     }
   },
   "sierra-morena": {
@@ -5541,6 +5653,20 @@
       "title": "Tlaxcala de Xicohténcatl",
       "url": "https://es.wikipedia.org/wiki/Tlaxcala_de_Xicoht%C3%A9ncatl",
       "extract": "Tlaxcala, oficialmente llamada Tlaxcala de Xicohténcatl, es una ciudad mexicana, capital y sede de los poderes, secretarías y dependencias del estado de Tlaxcala, así como cabecera del municipio homónimo. En 2020, agrupó un total de 13 555 habitantes, siendo la capital estatal menos poblada del país, mientras que su área metropolitana conformada por 19 municipios registró 501 655 habitantes en el año 2010, lo que la convierte en la zona más grande y poblada de la región."
+    }
+  },
+  "tokyo": {
+    "title": "Tokyo",
+    "url": "https://en.wikipedia.org/wiki/Tokyo",
+    "extract": "Tokyo, officially the Tokyo Metropolis, is the capital and most populous city of Japan. The population of the city proper was over 14 million as of 2023. The Greater Tokyo Area, which includes Tokyo and parts of six neighboring prefectures, is the third-most populous metropolitan area in the world, with 33 million residents as of 2025.",
+    "description": "Capital and most populous city of Japan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/330px-Skyscrapers_of_Shinjuku_2009_January.jpg",
+    "lat": 35.68972222,
+    "lon": 139.69222222,
+    "es": {
+      "title": "Tokio",
+      "url": "https://es.wikipedia.org/wiki/Tokio",
+      "extract": "Tokio , oficialmente Metrópolis de Tokio, es la capital de facto de Japón, ubicada en el centro este de la isla de Honshu, concretamente en la región de Kantō. Es la una de las ciudades más pobladas del mundo, en conjunto es una de las 47 prefecturas de Japón. Es el centro de la política, economía, educación, comunicación y cultura del país. Cuenta también con la mayor concentración de sedes corporativas, instituciones financieras, universidades y colegios, museos, teatros, establecimientos comerciales y de entretenimiento de todo Japón."
     }
   },
   "toledo": {
@@ -6105,6 +6231,20 @@
       "extract": "Worms es una ciudad de Alemania, en la región de Renania-Palatinado, a orillas del río Rin, situada en la región vitivinícola Rheinhessen. Su población a finales de 2004 era de 85 829 habitantes. Fundada por los celtas, que la llamaron Borbetomagus, Worms se disputa con las ciudades de Tréveris y Colonia el título de \"ciudad más antigua de Alemania\". Worms es la única ciudad alemana miembro de la organización Most Ancient European Towns Network. Se halla a unos 70 kilómetros al sur de Fráncfort y a unos 100 kilómetros del aeropuerto de Fráncfort-Hahn."
     }
   },
+  "wuhan": {
+    "title": "Wuhan",
+    "url": "https://en.wikipedia.org/wiki/Wuhan",
+    "extract": "Wuhan is the capital of Hubei, China. With a population of 13,861,900, it is the most populous city in Hubei and the seventh-most-populous city in China. It is also one of China's nine national central cities.",
+    "description": "Capital of Hubei, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%E6%AD%A6%E6%B1%89%E9%BB%84%E9%B9%A4%E6%A5%BC%E4%BF%AF%E7%9E%B0.jpg/330px-%E6%AD%A6%E6%B1%89%E9%BB%84%E9%B9%A4%E6%A5%BC%E4%BF%AF%E7%9E%B0.jpg",
+    "lat": 30.595,
+    "lon": 114.2975,
+    "es": {
+      "title": "Wuhan",
+      "url": "https://es.wikipedia.org/wiki/Wuhan",
+      "extract": "Wuhan es la capital de la provincia de Hubei y la ciudad más poblada en la zona central de la República Popular China. Está localizada en la confluencia de los ríos Yangtsé y Han. Tiene una población aproximada de 11 millones de habitantes en un área de 8467 km² cuando se incluye el área metropolitana."
+    }
+  },
   "xian": {
     "title": "Xi'an",
     "url": "https://en.wikipedia.org/wiki/Xi'an",
@@ -6161,6 +6301,20 @@
       "extract": "El río Yalu o río Amrok es un río fronterizo de Asia oriental. Junto con el río Tumen, al este las estribaciones del monte Paektu, forman la frontera sino-norcoreana. Su valle se convirtió en escenario de varios conflictos militares en los últimos siglos. El nombre chino proviene de una palabra manchú que significa «el límite entre dos campos». Según algún académico, la frontera entre Corea y China a lo largo del río Yalu es la frontera internacional sin cambios más larga de la historia, con al menos 1000 años."
     }
   },
+  "yanan": {
+    "title": "Yan'an",
+    "url": "https://en.wikipedia.org/wiki/Yan'an",
+    "extract": "Yan'an is a prefecture-level city in the Shaanbei region of Shaanxi province, China, bordering Shanxi to the east and Gansu to the west. It administers several counties, including Zhidan, which served as the headquarters of the Chinese Communist Party (CCP) before the city of Yan'an proper took that role.",
+    "description": "Prefecture-level city in Shaanxi, People's Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Baota_Mountain_4.jpg/330px-Baota_Mountain_4.jpg",
+    "lat": 36.65,
+    "lon": 109.494,
+    "es": {
+      "title": "Yan'an",
+      "url": "https://es.wikipedia.org/wiki/Yan'an",
+      "extract": "Yan'an es una ciudad-prefectura en la provincia de Shaanxi, República Popular de China. Su área es de 37 030 km² y su población total para 2010 superó los 2,18 millones de habitantes."
+    }
+  },
   "yavneh": {
     "title": "Yavne",
     "url": "https://en.wikipedia.org/wiki/Yavne",
@@ -6214,6 +6368,20 @@
       "title": "Radvaň nad Dunajom",
       "url": "https://es.wikipedia.org/wiki/Radva%C5%88_nad_Dunajom",
       "extract": "Radvaň nad Dunajom es un municipio del distrito de Komárno en la región de Nitra, Eslovaquia, con una población estimada a final del año 2025 de 702 habitantes."
+    }
+  },
+  "zunyi": {
+    "title": "Zunyi",
+    "url": "https://en.wikipedia.org/wiki/Zunyi",
+    "extract": "Zunyi is a prefecture-level city in northern Guizhou province, People's Republic of China, situated between the provincial capital Guiyang to the south and Chongqing to the north, also bordering Sichuan to the northwest. Along with Guiyang and Liupanshui, it is one of the most important cities of the province. The metro area is made of three urban districts of the city, Huichuan, Honghuagang, and Bozhou, which had a population of 2,360,549 people. The whole prefecture, including 14 county-level administrative areas, had a population of 6,606,675 at the 2020 census.",
+    "description": "Prefecture-level city in Guizhou, People's Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E6%B0%91%E4%B8%BB%E8%B7%AF_7007.jpg/330px-%E6%B0%91%E4%B8%BB%E8%B7%AF_7007.jpg",
+    "lat": 27.722,
+    "lon": 107.031,
+    "es": {
+      "title": "Zunyi",
+      "url": "https://es.wikipedia.org/wiki/Zunyi",
+      "extract": "Zunyi es una ciudad-prefectura en la provincia de Guizhou, República Popular China. Situada aproximadamente a 120 kilómetros de la capital provincial. Limita al norte con la municipalidad de Chongqing, al sur con Guiyang, al oeste con Bijie y al este con Tongren. Su área es la más grande de la provincia con sus 30 762 km² y su población total es de 7,43 millones."
     }
   },
   "zurich": {

@@ -440,6 +440,15 @@
       }
     }
   },
+  "beijing": {
+    "label": "Beijing",
+    "wikipedia": "Beijing",
+    "translations": {
+      "es": {
+        "label": "Pekín"
+      }
+    }
+  },
   "benevento": {
     "label": "Beneventum (Benevento)",
     "wikipedia": "Benevento",
@@ -824,6 +833,15 @@
     "translations": {
       "es": {
         "label": "Cholula"
+      }
+    }
+  },
+  "chongqing": {
+    "label": "Chongqing",
+    "wikipedia": "Chongqing",
+    "translations": {
+      "es": {
+        "label": "Chongqing"
       }
     }
   },
@@ -2474,6 +2492,15 @@
       }
     }
   },
+  "nanchang": {
+    "label": "Nanchang",
+    "wikipedia": "Nanchang",
+    "translations": {
+      "es": {
+        "label": "Nanchang"
+      }
+    }
+  },
   "nanjing": {
     "label": "Nanjing",
     "wikipedia": "Nanjing",
@@ -2552,6 +2579,15 @@
     "translations": {
       "es": {
         "label": "Núremberg"
+      }
+    }
+  },
+  "old-summer-palace": {
+    "label": "Old Summer Palace",
+    "wikipedia": "Old Summer Palace",
+    "translations": {
+      "es": {
+        "label": "Antiguo Palacio de Verano"
       }
     }
   },
@@ -3122,6 +3158,15 @@
       }
     }
   },
+  "ruijin": {
+    "label": "Ruijin",
+    "wikipedia": "Ruijin",
+    "translations": {
+      "es": {
+        "label": "Ruijin"
+      }
+    }
+  },
   "saguntum": {
     "label": "Saguntum",
     "wikipedia": "Sagunto",
@@ -3353,6 +3398,33 @@
     "translations": {
       "es": {
         "label": "Shangdu"
+      }
+    }
+  },
+  "shanghai": {
+    "label": "Shanghai",
+    "wikipedia": "Shanghai",
+    "translations": {
+      "es": {
+        "label": "Shanghái"
+      }
+    }
+  },
+  "shenyang": {
+    "label": "Shenyang",
+    "wikipedia": "Shenyang",
+    "translations": {
+      "es": {
+        "label": "Shenyang"
+      }
+    }
+  },
+  "shimonoseki": {
+    "label": "Shimonoseki",
+    "wikipedia": "Shimonoseki",
+    "translations": {
+      "es": {
+        "label": "Shimonoseki"
       }
     }
   },
@@ -3641,6 +3713,15 @@
     "translations": {
       "es": {
         "label": "Tlaxcala"
+      }
+    }
+  },
+  "tokyo": {
+    "label": "Tokyo",
+    "wikipedia": "Tokyo",
+    "translations": {
+      "es": {
+        "label": "Tokio"
       }
     }
   },
@@ -4013,6 +4094,15 @@
       }
     }
   },
+  "wuhan": {
+    "label": "Wuhan",
+    "wikipedia": "Wuhan",
+    "translations": {
+      "es": {
+        "label": "Wuhan"
+      }
+    }
+  },
   "xian": {
     "label": "Xi'an",
     "wikipedia": "Xi'an",
@@ -4046,6 +4136,15 @@
     "translations": {
       "es": {
         "label": "Río Yalu"
+      }
+    }
+  },
+  "yanan": {
+    "label": "Yan'an",
+    "wikipedia": "Yan'an",
+    "translations": {
+      "es": {
+        "label": "Yan'an"
       }
     }
   },
@@ -4091,6 +4190,15 @@
     "translations": {
       "es": {
         "label": "Zsitvatorok"
+      }
+    }
+  },
+  "zunyi": {
+    "label": "Zunyi",
+    "wikipedia": "Zunyi",
+    "translations": {
+      "es": {
+        "label": "Zunyi"
       }
     }
   },
