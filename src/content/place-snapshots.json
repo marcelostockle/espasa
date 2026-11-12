@@ -736,6 +736,20 @@
       "extract": "La Bastilla era una fortaleza que protegía el costado oriental de la ciudad de París, conocida formalmente como la Bastille Saint-Antoine. Desempeñó un papel importante en los conflictos internos de Francia y durante la mayor parte de su historia fue usada como una prisión estatal por los reyes de Francia. Fue tomada por una multitud el 14 de julio de 1789 durante la Revolución francesa, convirtiéndose en un símbolo importante del movimiento republicano francés. Tiempo después fue demolida y reemplazada por la Plaza de la Bastilla."
     }
   },
+  "bay-of-pigs": {
+    "title": "Bay of Pigs",
+    "url": "https://en.wikipedia.org/wiki/Bay_of_Pigs",
+    "extract": "The Bay of Pigs is an inlet of the Gulf of Cazones, located on the southern coast of Cuba. By 1910, it was included in Santa Clara Province and then Las Villas Province by 1961, but in 1976, it was reassigned to Matanzas Province, when the original six provinces of Cuba were re-organized into 14 new Provinces of Cuba.",
+    "description": "Bay on the island of Cuba",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Varkensbaai2.jpg/330px-Varkensbaai2.jpg",
+    "lat": 22.21666667,
+    "lon": -81.16666667,
+    "es": {
+      "title": "Bahía de Cochinos",
+      "url": "https://es.wikipedia.org/wiki/Bah%C3%ADa_de_Cochinos",
+      "extract": "La bahía de Cochinos está ubicada en la costa suroccidental de Cuba, en un entrante del golfo de Cazones. En 1910 pasó a formar parte de la provincia de Santa Clara, en 1961 reasignado a la provincia de Las Villas y finalmente, en 1976 cuando de las seis provincias originales de Cuba se produjo una reorganización general para pasar a catorce (14), transferido a la provincia de Matanzas."
+    }
+  },
   "beijing": {
     "title": "Beijing",
     "url": "https://en.wikipedia.org/wiki/Beijing",
@@ -2638,6 +2652,20 @@
       "extract": "Hattusa o Hattusas fue la antigua capital del Imperio hitita desde el reinado de Hattusili I, situada en el centro de Anatolia, junto al río Kizil-Irmak, en lo que corresponde hoy en día en ubicación con la aldea de Boğazkale o Bogazköy, en la provincia turca de Çorum. La ciudad contaba con amplios bosques y un fértil campo adyacente, aunque su emplazamiento tenía dos inconvenientes: los ríos de la zona no eran navegables, lo que impedía el transporte fluvial, y la cercanía a la tribu bárbara de los kaskas que fueron una amenaza permanente y constante para Hattusa. El enclave de Hattusa fue declarado por la Unesco como Patrimonio de la Humanidad en el año 1986, abarcando un área protegida de 268 ha."
     }
   },
+  "havana": {
+    "title": "Havana",
+    "url": "https://en.wikipedia.org/wiki/Havana",
+    "extract": "Havana is the capital and largest city of Cuba. The heart of La Habana Province, Havana is the country's main port and commercial center. It is the most populous city, the largest by area, and the second-largest metropolitan area in the Caribbean region. The population in 2021 was 2,142,939 inhabitants, and its area is 728.26 km2 (281.18 sq mi) for the capital city and 8,475.57 km2 for the metropolitan zone. Its official population dropped to 1,749,964 inhabitants by the end of 2024.",
+    "description": "Capital and largest city of Cuba",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/DJI_0197_crp_wiki.jpg/330px-DJI_0197_crp_wiki.jpg",
+    "lat": 23.13666667,
+    "lon": -82.35888889,
+    "es": {
+      "title": "La Habana",
+      "url": "https://es.wikipedia.org/wiki/La_Habana",
+      "extract": "La Habana es la capital de Cuba, su ciudad más poblada y el principal centro político, económico, cultural y turístico del país. Situada en la costa noroccidental de la isla, junto al estrecho de la Florida, constituye además uno de los principales puertos del Caribe. En 2023 contaba con una población de 1 814 207 habitantes."
+    }
+  },
   "heidelberg": {
     "title": "Heidelberg",
     "url": "https://en.wikipedia.org/wiki/Heidelberg",
@@ -3962,6 +3990,20 @@
       "extract": "Mohács es una ciudad en el condado de Baranya, Hungría, en la orilla derecha del Danubio."
     }
   },
+  "moncada-barracks": {
+    "title": "Attack on the Moncada Barracks",
+    "url": "https://en.wikipedia.org/wiki/Attack_on_the_Moncada_Barracks",
+    "extract": "The Moncada Barracks were military barracks in Santiago de Cuba, Cuba named after General Guillermo Moncada, a hero of the Cuban War of Independence. On 26 July 1953, the barracks was the site of an armed attack by a small group of revolutionaries led by Fidel Castro. That day a simultaneous attack was carried out on the Carlos M. de Céspedes Barracks in Bayamo directed by Raúl Martínez Ararás by order of Castro. The attack failed and the surviving revolutionaries were imprisoned. This armed attack is widely accepted as the beginning of the Cuban Revolution. The date on which the attack took place, 26 July, was adopted by Castro as the name for his revolutionary movement, Movimiento 26 Julio, which eventually toppled the dictatorship of Fulgencio Batista on 1 January 1959.",
+    "description": "1953 attack starting the Cuban Revolution",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Moncadabarracks1953.jpg/330px-Moncadabarracks1953.jpg",
+    "lat": 20.02638889,
+    "lon": -75.81916667,
+    "es": {
+      "title": "Asalto al Cuartel Moncada",
+      "url": "https://es.wikipedia.org/wiki/Asalto_al_Cuartel_Moncada",
+      "extract": "El asalto al Cuartel Moncada, en Santiago de Cuba, fue una acción armada realizada el 26 de julio de 1953 por miembros del Partido Ortodoxo dirigidos por Fidel Castro con el fin de derrocar al dictador Fulgencio Batista. También ese día, por orden de Castro, Raúl Martínez Ararás dirigió un ataque simultáneo contra el Cuartel Carlos Manuel de Céspedes, en Bayamo. El asalto al Cuartel Moncada se considera el inicio de la Revolución cubana. La fecha fue adoptada por Castro y otros guerrilleros en el nombre del Movimiento 26 de Julio (M-26-7), que al fin derrocará a la dictadura de Batista."
+    }
+  },
   "monkwearmouth-jarrow": {
     "title": "Monkwearmouth–Jarrow Abbey",
     "url": "https://en.wikipedia.org/wiki/Monkwearmouth%E2%80%93Jarrow_Abbey",
@@ -4952,6 +4994,20 @@
       "extract": "Praga es la capital de la República Checa y de la región de Bohemia. Situada a orillas del río Moldava, tiene aproximadamente 1,36 millones de habitantes, lo que la convierte en la ciudad más poblada del país y la séptima de Europa Central. El área metropolitana de Praga cuenta con una población de 2,7 millones de habitantes. Su belleza y patrimonio histórico la convierten en una de las veinte ciudades más visitadas del mundo."
     }
   },
+  "punta-del-este": {
+    "title": "Punta del Este",
+    "url": "https://en.wikipedia.org/wiki/Punta_del_Este",
+    "extract": "Punta del Este is a seaside city and peninsula on the Atlantic Coast in the Maldonado Department of southeastern Uruguay. Starting as a small town, Punta del Este grew to become a resort for the Latin and North American jet set and tourists. The city has been called \"The Hamptons of South America\", as well as \"The Monaco of the South\", \"The Miami Beach of South America\", \"The Pearl of the Atlantic\", and \"The St. Tropez of South America\". Many famous people have visited, resided, or acquired vacation properties in Punta del Este and its surroundings.",
+    "description": "Uruguayan seaside resort city",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%D0%9F%D1%83%D0%BD%D1%82%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%AD%D1%81%D1%82%D0%B5.jpg/330px-%D0%9F%D1%83%D0%BD%D1%82%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%AD%D1%81%D1%82%D0%B5.jpg",
+    "lat": -34.96666667,
+    "lon": -54.95,
+    "es": {
+      "title": "Punta del Este",
+      "url": "https://es.wikipedia.org/wiki/Punta_del_Este",
+      "extract": "Punta del Este es una ciudad peninsular, situada en el extremo sur de Uruguay, en el departamento de Maldonado, a 5 km de distancia de la ciudad capital homónima del mismo. Está ubicada sobre una estrecha franja de tierra que convencionalmente separa el Río de la Plata del Océano Atlántico."
+    }
+  },
   "pydna": {
     "title": "Pydna",
     "url": "https://en.wikipedia.org/wiki/Pydna",
@@ -5386,6 +5442,34 @@
       "extract": "San Francisco, de forma oficial Ciudad y Condado de San Francisco, es una ciudad que ocupa la cuarta posición de ciudad más poblada del estado de California y la 17.ª de Estados Unidos, con una población estimada de 827 526 habitantes a mediados de 2024. Es la única ciudad-condado consolidada de California, y al abarcar una superficie territorial de 121 km², cuenta con la tercera densidad de población más alta del país entre las ciudades que superan los doscientos mil habitantes, tras Nueva York y Ciudad de Jersey. Es el centro cultural, financiero y de transportes del Área de la Bahía de San Francisco."
     }
   },
+  "santa-clara": {
+    "title": "Santa Clara, Cuba",
+    "url": "https://en.wikipedia.org/wiki/Santa_Clara%2C_Cuba",
+    "extract": "Santa Clara is the capital city of the Cuban province of Villa Clara. It is centrally located in the province and Cuba. Santa Clara is the fifth-most populous Cuban city, with a population of nearly 245,959.",
+    "description": "City in Villa Clara, Cuba",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Calle_Parque_SC.JPG/330px-Calle_Parque_SC.JPG",
+    "lat": 22.40691944,
+    "lon": -79.96493889,
+    "es": {
+      "title": "Santa Clara (Cuba)",
+      "url": "https://es.wikipedia.org/wiki/Santa_Clara_(Cuba)",
+      "extract": "Santa Clara, capital de la provincia de Villa Clara y cabecera del municipio de igual nombre, es una ciudad localizada en las inmediaciones del centro geográfico de Cuba. Imprescindible plaza cultural y significativo enclave industrial y científico del país caribeño, se le conoce por la batalla homónima que diera el triunfo a la Revolución Cubana, así como por acoger en su suelo los restos del comandante guerrillero argentino-cubano, Ernesto Guevara y sus compañeros de lucha."
+    }
+  },
+  "santiago-de-cuba": {
+    "title": "Santiago de Cuba",
+    "url": "https://en.wikipedia.org/wiki/Santiago_de_Cuba",
+    "extract": "Santiago de Cuba is the second-largest city in Cuba and the capital city of Santiago de Cuba Province. It lies in the southeastern part of the island, some 870 km (540 mi) southeast of the Cuban capital of Havana.",
+    "description": "Municipality in Cuba",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Santiago_de_cuba_al_atardecer.jpg/330px-Santiago_de_cuba_al_atardecer.jpg",
+    "lat": 20.02166667,
+    "lon": -75.82944444,
+    "es": {
+      "title": "Santiago de Cuba",
+      "url": "https://es.wikipedia.org/wiki/Santiago_de_Cuba",
+      "extract": "Santiago de Cuba es la segunda ciudad más importante de Cuba debido a su historia, economía y población. Fue históricamente capital de la provincia de Oriente (1878-1976) y capital del país durante los primeros años del dominio Colonial español; es en la actualidad cabecera de la provincia que lleva su nombre. El conquistador español Diego Velázquez de Cuéllar la fundó en 1515, siendo una de las siete primeras villas de Cuba."
+    }
+  },
   "santiago-de-los-caballeros": {
     "title": "Santiago de los Caballeros",
     "url": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros",
@@ -5654,6 +5738,20 @@
       "title": "Shimonoseki",
       "url": "https://es.wikipedia.org/wiki/Shimonoseki",
       "extract": "La ciudad de Shimonoseki  de Japón está situada en el extremo suroeste de la isla de Honshū, en la prefectura de Yamaguchi. Se ubica frente a la ciudad de Kitakyūshū, en la isla de Kyūshū, y ambas se comunican por túneles de ferrocarril y de carretera. Shimonoseki es uno de los principales puertos pesqueros del país y un importante núcleo industrial con astilleros, fábricas de productos químicos, textiles, de conservas e ingeniería. La principal atracción turística es el santuario shinto dedicado al Emperador Antoku. En Shimonoseki, antes denominada Akamagaseki y que popularmente se conocía como Bakan, se firmó el tratado que puso fin a la Primera Guerra Sino-japonesa de 1894-1895."
+    }
+  },
+  "sierra-maestra": {
+    "title": "Sierra Maestra",
+    "url": "https://en.wikipedia.org/wiki/Sierra_Maestra",
+    "extract": "The Sierra Maestra is a mountain range that runs westward across the south of the old Oriente Province in southeast Cuba, rising abruptly from the coast. The range falls mainly within the Santiago de Cuba and in Granma Provinces. Some view it as a series of connecting ranges, which join with others to the west. At 1,974 m (~6,500 ft), Pico Turquino is the range's – and the country's – highest point. The area is rich in minerals, especially copper, manganese, chromium, and iron.",
+    "description": "Mountain range of Cuba",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pico_Torquino_in_the_Sierra_Maestra%2C_Cuba%27s_highest_mountain%2C_1974_meters.jpg/330px-Pico_Torquino_in_the_Sierra_Maestra%2C_Cuba%27s_highest_mountain%2C_1974_meters.jpg",
+    "lat": 20,
+    "lon": -76.75,
+    "es": {
+      "title": "Sierra Maestra",
+      "url": "https://es.wikipedia.org/wiki/Sierra_Maestra",
+      "extract": "La Sierra Maestra es una cadena montañosa en la región suroriental de Cuba, principalmente en las provincias de Granma y Santiago de Cuba. Su punto más alto es el Pico Turquino con 1.974 m s. n. m.."
     }
   },
   "sierra-morena": {

@@ -385,6 +385,20 @@
       }
     }
   },
+  "che-guevara": {
+    "label": "Che Guevara",
+    "color": "#6e8b3d",
+    "description": "Argentine-born revolutionary, a commander of the Cuban Revolution and later a guerrilla leader, killed in Bolivia in 1967.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Che Guevara",
+        "description": "Revolucionario de origen argentino, comandante de la Revolución cubana y luego guerrillero, muerto en Bolivia en 1967."
+      }
+    }
+  },
   "chiang-kai-shek": {
     "label": "Chiang Kai-shek",
     "color": "#47658a",
@@ -515,7 +529,7 @@
   "cuba": {
     "label": "Cuba",
     "color": "#00838f",
-    "description": "The island of Cuba: Spanish colony from the conquest of 1511, the wars of independence, the US occupations and the republic until 1958.",
+    "description": "The island of Cuba: Spanish colony from the conquest of 1511, the wars of independence, the US occupations and the republic to the present day.",
     "categories": [
       "States",
       "Places"
@@ -523,7 +537,35 @@
     "translations": {
       "es": {
         "label": "Cuba",
-        "description": "La isla de Cuba: colonia española desde la conquista de 1511, las guerras de independencia, las ocupaciones estadounidenses y la república hasta 1958."
+        "description": "La isla de Cuba: colonia española desde la conquista de 1511, las guerras de independencia, las ocupaciones estadounidenses y la república hasta el día actual."
+      }
+    }
+  },
+  "cuban-missile-crisis": {
+    "label": "Cuban Missile Crisis",
+    "color": "#e0a526",
+    "description": "The October 1962 confrontation between the US and USSR over Soviet nuclear missiles in Cuba, and its immediate sequel.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Crisis de los misiles de Cuba",
+        "description": "El enfrentamiento de octubre de 1962 entre EE. UU. y la URSS por los misiles nucleares soviéticos en Cuba, y su secuela inmediata."
+      }
+    }
+  },
+  "cuban-revolution": {
+    "label": "Cuban Revolution",
+    "color": "#d4452f",
+    "description": "The revolution that overthrew Batista in 1959 and the socialist state that followed, from the Moncada attack (1953) onward.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Revolución cubana",
+        "description": "La revolución que derrocó a Batista en 1959 y el Estado socialista que la siguió, desde el asalto al Moncada (1953) en adelante."
       }
     }
   },
@@ -782,6 +824,20 @@
       "es": {
         "label": "Exploración",
         "description": "Viajes y travesías realizados para alcanzar, cartografiar o conocer tierras y pueblos lejanos."
+      }
+    }
+  },
+  "fidel-castro": {
+    "label": "Fidel Castro",
+    "color": "#9c2b2b",
+    "description": "Leader of the Cuban Revolution and ruler of Cuba from 1959 until 2008.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Fidel Castro",
+        "description": "Líder de la Revolución cubana y gobernante de Cuba de 1959 a 2008."
       }
     }
   },
@@ -1392,6 +1448,20 @@
       "es": {
         "label": "Juan Calvino",
         "description": "Teólogo y reformador francés (1509–1564) de Ginebra, cuyas Institutas y cuyo orden eclesiástico dieron forma a la tradición reformada."
+      }
+    }
+  },
+  "john-f-kennedy": {
+    "label": "John F. Kennedy",
+    "color": "#4a6a9b",
+    "description": "US president from 1961 until his assassination in 1963, who faced the Bay of Pigs, Berlin and the Cuban Missile Crisis.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "John F. Kennedy",
+        "description": "Presidente de Estados Unidos de 1961 hasta su asesinato en 1963, que afrontó Bahía de Cochinos, Berlín y la crisis de los misiles de Cuba."
       }
     }
   },

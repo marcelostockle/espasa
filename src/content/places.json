@@ -476,6 +476,15 @@
       }
     }
   },
+  "bay-of-pigs": {
+    "label": "Bay of Pigs",
+    "wikipedia": "Bay of Pigs",
+    "translations": {
+      "es": {
+        "label": "Bahía de Cochinos"
+      }
+    }
+  },
   "beijing": {
     "label": "Beijing",
     "wikipedia": "Beijing",
@@ -1727,6 +1736,15 @@
       }
     }
   },
+  "havana": {
+    "label": "Havana",
+    "wikipedia": "Havana",
+    "translations": {
+      "es": {
+        "label": "La Habana"
+      }
+    }
+  },
   "heidelberg": {
     "label": "Heidelberg",
     "wikipedia": "Heidelberg",
@@ -2600,6 +2618,15 @@
       }
     }
   },
+  "moncada-barracks": {
+    "label": "Moncada Barracks",
+    "wikipedia": "Moncada Barracks",
+    "translations": {
+      "es": {
+        "label": "Cuartel Moncada"
+      }
+    }
+  },
   "monkwearmouth-jarrow": {
     "label": "Monkwearmouth–Jarrow Abbey",
     "wikipedia": "Monkwearmouth–Jarrow Abbey",
@@ -3248,6 +3275,15 @@
       }
     }
   },
+  "punta-del-este": {
+    "label": "Punta del Este",
+    "wikipedia": "Punta del Este",
+    "translations": {
+      "es": {
+        "label": "Punta del Este"
+      }
+    }
+  },
   "pydna": {
     "label": "Pydna",
     "wikipedia": "Pydna",
@@ -3527,6 +3563,24 @@
       }
     }
   },
+  "santa-clara": {
+    "label": "Santa Clara",
+    "wikipedia": "Santa Clara, Cuba",
+    "translations": {
+      "es": {
+        "label": "Santa Clara"
+      }
+    }
+  },
+  "santiago-de-cuba": {
+    "label": "Santiago de Cuba",
+    "wikipedia": "Santiago de Cuba",
+    "translations": {
+      "es": {
+        "label": "Santiago de Cuba"
+      }
+    }
+  },
   "santiago-de-los-caballeros": {
     "label": "Santiago",
     "wikipedia": "Santiago de los Caballeros",
@@ -3704,6 +3758,15 @@
     "translations": {
       "es": {
         "label": "Shimonoseki"
+      }
+    }
+  },
+  "sierra-maestra": {
+    "label": "Sierra Maestra",
+    "wikipedia": "Sierra Maestra",
+    "translations": {
+      "es": {
+        "label": "Sierra Maestra"
       }
     }
   },
