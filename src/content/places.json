@@ -89,6 +89,15 @@
       }
     }
   },
+  "almaty": {
+    "label": "Almaty",
+    "wikipedia": "Almaty",
+    "translations": {
+      "es": {
+        "label": "Almatý"
+      }
+    }
+  },
   "alps": {
     "label": "Alps",
     "wikipedia": "Alps",
@@ -185,6 +194,15 @@
     "translations": {
       "es": {
         "label": "Vía Apia"
+      }
+    }
+  },
+  "aral-sea": {
+    "label": "Aral Sea",
+    "wikipedia": "Aral Sea",
+    "translations": {
+      "es": {
+        "label": "Mar de Aral"
       }
     }
   },
@@ -1592,6 +1610,15 @@
       }
     }
   },
+  "halabja": {
+    "label": "Halabja",
+    "wikipedia": "Halabja",
+    "translations": {
+      "es": {
+        "label": "Halabja"
+      }
+    }
+  },
   "halicarnassus": {
     "label": "Halicarnassus",
     "wikipedia": "Halicarnassus",
@@ -1853,6 +1880,15 @@
       }
     }
   },
+  "kabul": {
+    "label": "Kabul",
+    "wikipedia": "Kabul",
+    "translations": {
+      "es": {
+        "label": "Kabul"
+      }
+    }
+  },
   "kadesh": {
     "label": "Kadesh",
     "wikipedia": "Tell_Nebi_Mend",
@@ -1967,6 +2003,15 @@
     "translations": {
       "es": {
         "label": "Kufa"
+      }
+    }
+  },
+  "kuwait-city": {
+    "label": "Kuwait City",
+    "wikipedia": "Kuwait City",
+    "translations": {
+      "es": {
+        "label": "Ciudad de Kuwait"
       }
     }
   },
@@ -2201,6 +2246,15 @@
     "translations": {
       "es": {
         "label": "Magnesia del Sípilo"
+      }
+    }
+  },
+  "mahabad": {
+    "label": "Mahabad",
+    "wikipedia": "Mahabad",
+    "translations": {
+      "es": {
+        "label": "Mahabad"
       }
     }
   },
@@ -3740,6 +3794,15 @@
     "translations": {
       "es": {
         "label": "Tarento (Taranto)"
+      }
+    }
+  },
+  "tehran": {
+    "label": "Tehran",
+    "wikipedia": "Tehran",
+    "translations": {
+      "es": {
+        "label": "Teherán"
       }
     }
   },

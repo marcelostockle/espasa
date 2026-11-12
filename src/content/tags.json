@@ -13,6 +13,21 @@
       }
     }
   },
+  "afghanistan": {
+    "label": "Afghanistan",
+    "color": "#6b8a3f",
+    "description": "Afghanistan, its governments and the wars fought over it.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Afganistán",
+        "description": "Afganistán, sus gobiernos y las guerras libradas por su control."
+      }
+    }
+  },
   "al-andalus": {
     "label": "Al-Andalus",
     "color": "#ffd54f",
@@ -336,6 +351,21 @@
       "es": {
         "label": "Cataluña",
         "description": "Cataluña y su Principado, con Barcelona, desde los condados medievales hasta la revuelta de 1640 contra la corona española."
+      }
+    }
+  },
+  "central-asia": {
+    "label": "Central Asia",
+    "color": "#d19a54",
+    "description": "Central Asia and its peoples, including Soviet Kazakhstan, Uzbekistan and neighbors, and their independence.",
+    "categories": [
+      "Places",
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Asia Central",
+        "description": "Asia Central y sus pueblos, incluidos Kazajistán y Uzbekistán soviéticos y sus vecinos, y su independencia."
       }
     }
   },
@@ -850,6 +880,20 @@
       }
     }
   },
+  "gulf-war": {
+    "label": "Gulf War",
+    "color": "#cf8a1a",
+    "description": "The 1990-1991 crisis in which Iraq invaded Kuwait and a US-led coalition expelled it.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra del Golfo",
+        "description": "La crisis de 1990-1991 en que Irak invadió Kuwait y una coalición liderada por EE. UU. lo expulsó."
+      }
+    }
+  },
   "gustavus-adolphus": {
     "label": "Gustavus Adolphus",
     "color": "#ba68c8",
@@ -1134,6 +1178,34 @@
       }
     }
   },
+  "iran-iraq-war": {
+    "label": "Iran-Iraq War",
+    "color": "#a8703a",
+    "description": "The war of 1980-1988 between Iran and Iraq, one of the longest conventional wars of the 20th century.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra Irán-Irak",
+        "description": "La guerra de 1980-1988 entre Irán e Irak, una de las guerras convencionales más largas del siglo XX."
+      }
+    }
+  },
+  "iranian-revolution": {
+    "label": "Iranian Revolution",
+    "color": "#d9442b",
+    "description": "The 1978-1979 revolution that overthrew the Shah and created the Islamic Republic, and its immediate aftermath.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Revolución iraní",
+        "description": "La revolución de 1978-1979 que derrocó al sha y creó la República Islámica, y sus consecuencias inmediatas."
+      }
+    }
+  },
   "iraq": {
     "label": "Iraq",
     "color": "#a07d2e",
@@ -1361,6 +1433,20 @@
       "es": {
         "label": "Kublai Kan",
         "description": "Kublai Kan (1215-1294), Gran Kan del Imperio mongol desde 1260 y fundador de la dinastía Yuan de China."
+      }
+    }
+  },
+  "kurds": {
+    "label": "Kurds",
+    "color": "#b3a038",
+    "description": "The Kurdish people, spread across Turkey, Iran, Iraq and Syria, and their struggles for autonomy.",
+    "categories": [
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Kurdos",
+        "description": "El pueblo kurdo, repartido entre Turquía, Irán, Irak y Siria, y sus luchas por la autonomía."
       }
     }
   },
@@ -2146,6 +2232,20 @@
       }
     }
   },
+  "ruhollah-khomeini": {
+    "label": "Ruhollah Khomeini",
+    "color": "#3d3d8f",
+    "description": "Shia cleric who led the Iranian Revolution and was Supreme Leader of the Islamic Republic until his death in 1989.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Ruholá Jomeini",
+        "description": "Clérigo chií que dirigió la Revolución iraní y fue Líder Supremo de la República Islámica hasta su muerte en 1989."
+      }
+    }
+  },
   "russian-empire": {
     "label": "Russian Empire",
     "color": "#9c27b0",
@@ -2157,6 +2257,20 @@
       "es": {
         "label": "Imperio ruso",
         "description": "El Imperio ruso y sus zares."
+      }
+    }
+  },
+  "saddam-hussein": {
+    "label": "Saddam Hussein",
+    "color": "#5a2d2d",
+    "description": "Iraqi Ba'athist leader and president from 1979 to 2003.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Sadam Huseín",
+        "description": "Dirigente baazista iraquí y presidente de 1979 a 2003."
       }
     }
   },
@@ -2326,6 +2440,20 @@
       "es": {
         "label": "Sócrates",
         "description": "El filósofo ateniense Sócrates (c. 470-399 a. C.): su vida y su método, su lugar en la política ateniense, y su juicio y muerte."
+      }
+    }
+  },
+  "soviet-afghan-war": {
+    "label": "Soviet-Afghan War",
+    "color": "#944a3a",
+    "description": "The Soviet intervention in Afghanistan (1979-1989) and the mujahideen war against it.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra soviético-afgana",
+        "description": "La intervención soviética en Afganistán (1979-1989) y la guerra de los muyahidines contra ella."
       }
     }
   },

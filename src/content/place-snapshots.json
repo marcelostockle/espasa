@@ -139,6 +139,20 @@
       "extract": "Argel es la capital y la mayor ciudad de Argelia. Argel está situada en el litoral mediterráneo y es el principal puerto del noroeste del Magreb."
     }
   },
+  "almaty": {
+    "title": "Almaty",
+    "url": "https://en.wikipedia.org/wiki/Almaty",
+    "extract": "Almaty is the most populous city in Kazakhstan, with more than two million residents.",
+    "description": "Largest city in Kazakhstan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Almaty_K%C3%B6k_T%C3%B6be.jpg/330px-Almaty_K%C3%B6k_T%C3%B6be.jpg",
+    "lat": 43.23333333,
+    "lon": 76.95,
+    "es": {
+      "title": "Almaty",
+      "url": "https://es.wikipedia.org/wiki/Almaty",
+      "extract": "Almaty, conocida como Verny (Верный) durante el periodo del Imperio ruso y hasta 1993 como Almá-Atá, es la ciudad más grande de Kazajistán. Cuenta con una población de 2 039 376 habitantes, aproximadamente el 11 % de la población total del país, y más de 2,7 millones en su área urbanizada, que incluye Talgar, Boraldai, Otegen Batyr y otros suburbios. Fue la capital de la República Socialista Soviética de Kazajistán desde 1929 hasta 1991 y posteriormente del Kazajistán independiente entre 1991 y 1997, cuando el gobierno trasladó la capital a Astaná, ubicada al norte del país y a doce horas en tren."
+    }
+  },
   "alps": {
     "title": "Alps",
     "url": "https://en.wikipedia.org/wiki/Alps",
@@ -290,6 +304,20 @@
       "title": "Vía Apia",
       "url": "https://es.wikipedia.org/wiki/V%C3%ADa_Apia",
       "extract": "La Vía Apia fue una de las más importantes calzadas de la antigua Roma que unía a dicha ciudad con Brindisi, el más importante puerto comercial con el Mediterráneo oriental y Oriente Medio. Estacio describió su importancia al describirla por su nombre común:\n\n\n \n"
+    }
+  },
+  "aral-sea": {
+    "title": "Aral Sea",
+    "url": "https://en.wikipedia.org/wiki/Aral_Sea",
+    "extract": "The Aral Sea was an endorheic salt lake lying between Kazakhstan to its north and Uzbekistan to its south, which began shrinking in the 1950s - 1960s and had largely dried up into desert by 2007. It was in the Aktobe and Kyzylorda regions of Kazakhstan and the Karakalpakstan autonomous region of Uzbekistan. The name roughly translates from Mongolic and Turkic languages to \"Sea of Islands\", a reference to the large number of islands that once dotted its waters. The Aral Sea drainage basin encompasses Uzbekistan and parts of Afghanistan, Iran, Kazakhstan, Kyrgyzstan, Tajikistan, and Turkmenistan.",
+    "description": "Lake in Kazakhstan and Uzbekistan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Aral_Sea_1964_vs._August_25%2C_2026.png/330px-Aral_Sea_1964_vs._August_25%2C_2026.png",
+    "lat": 45,
+    "lon": 60,
+    "es": {
+      "title": "Mar de Aral",
+      "url": "https://es.wikipedia.org/wiki/Mar_de_Aral",
+      "extract": "El mar de Aral es una laguna salada endorreica o mar interior, situado en Asia Central, entre Kazajistán, al norte, y Uzbekistán, al sur. Si bien es denominado «mar», Kazajistán y Uzbekistán son considerados Estados sin litoral. Antiguamente, era uno de los cuatro lagos más grandes del mundo, con una superficie de 68 000 km². En la actualidad, el mar de Aral se ha reducido a menos del 10 % de su tamaño original, hecho que se ha calificado como uno de los mayores desastres medioambientales ocurridos en la historia reciente, semejante al del lago Chad en el centro de África."
     }
   },
   "aranjuez": {
@@ -2428,6 +2456,20 @@
     "lat": 33.618,
     "lon": 130.333
   },
+  "halabja": {
+    "title": "Halabja",
+    "url": "https://en.wikipedia.org/wiki/Halabja",
+    "extract": "Halabja (هەڵەبجە) is a city in the Kurdistan Region of Iraq and the capital of Halabja Governorate, located about 240 km (150 mi) northeast of Baghdad and 14 km (9 mi) from the Iranian border.",
+    "description": "City in Kurdistan Region, Iraq",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Halabja.jpg/330px-Halabja.jpg",
+    "lat": 35.18333333,
+    "lon": 45.98333333,
+    "es": {
+      "title": "Halabja",
+      "url": "https://es.wikipedia.org/wiki/Halabja",
+      "extract": "Halabja es una ciudad de Irak en la entidad federal autónoma del Kurdistán iraquí. Se encuentra situada en la llamada llanura de Halabja o de Shahrizor, a 240 kilómetros al noreste de Bagdad y a 14 kilómetros de la frontera iraní."
+    }
+  },
   "halicarnassus": {
     "title": "Halicarnassus",
     "url": "https://en.wikipedia.org/wiki/Halicarnassus",
@@ -2820,6 +2862,20 @@
       "extract": "Junín es una ciudad peruana, capital del distrito y la provincia homónimos en el departamento del mismo nombre. Está situada a 4105 m de altitud, en la orilla sur del lago Junín."
     }
   },
+  "kabul": {
+    "title": "Kabul",
+    "url": "https://en.wikipedia.org/wiki/Kabul",
+    "extract": "Kabul is the capital and largest city of Afghanistan. It is within the jurisdiction of Kabul District and has an estimated population of 5,333,284 people. Located in the eastern half of the country, forming part of the Kabul Province, the city is administratively divided into five zones and 22 municipal districts. The current mayor of the city is Mawlawi Abdul Rashid.",
+    "description": "Capital and the largest city of Afghanistan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kabul%2C_Afghanistan_view.jpg/330px-Kabul%2C_Afghanistan_view.jpg",
+    "lat": 34.52527778,
+    "lon": 69.17833333,
+    "es": {
+      "title": "Kabul",
+      "url": "https://es.wikipedia.org/wiki/Kabul",
+      "extract": "Kabul es la capital y la ciudad más grande de Afganistán, con una población estimada en 2015 de 4.635.000 habitantes. Capital de la provincia de Kabul, es un centro económico y cultural situado estratégicamente en un valle estrecho que rodea al río Kabul, en la parte alta de las montañas antes del paso Khyber."
+    }
+  },
   "kadesh": {
     "title": "Kadesh (Syria)",
     "url": "https://en.wikipedia.org/wiki/Kadesh_(Syria)",
@@ -2999,6 +3055,20 @@
       "title": "Kufa",
       "url": "https://es.wikipedia.org/wiki/Kufa",
       "extract": "Kufa es una ciudad de Irak situada a unos 170 km al sur de Bagdad y a 10 km al noroeste de Náyaf. Tenía 110.000 habitantes en 2003. Es, junto a Karbala y Náyaf una de las tres grandes ciudades chiíes de Irak."
+    }
+  },
+  "kuwait-city": {
+    "title": "Kuwait City",
+    "url": "https://en.wikipedia.org/wiki/Kuwait_City",
+    "extract": "Kuwait City is the capital and largest city of Kuwait. Located at the heart of the country on the south shore of Kuwait Bay on the Persian Gulf, it is the political, cultural and economic primate city of the emirate, being home to the headquarters of most Kuwaiti corporations and the entirety of its banking system.",
+    "description": "Capital and largest city of Kuwait",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Kuwait_City_Skyline_1.jpg/330px-Kuwait_City_Skyline_1.jpg",
+    "lat": 29.36972222,
+    "lon": 47.97833333,
+    "es": {
+      "title": "Kuwait (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/Kuwait_(ciudad)",
+      "extract": "La ciudad de Kuwait es la capital del Estado de Kuwait y de la gobernación de Al Asimah. Tiene una población de 63 600 habitantes, que llegan a más de 2 300 000 habitantes en su conurbación. Es el centro económico, comercial, cultural y de transportes del emirato."
     }
   },
   "la-isabela": {
@@ -3354,6 +3424,20 @@
       "title": "Magnesia del Sípilo",
       "url": "https://es.wikipedia.org/wiki/Magnesia_del_S%C3%ADpilo",
       "extract": "Magnesia del Sípilo fue una era una antigua ciudad y ciudad-Estado (polis) de Lidia. En la actualidad está ubicada en la ciudad de Manisa, en Turquía."
+    }
+  },
+  "mahabad": {
+    "title": "Mahabad",
+    "url": "https://en.wikipedia.org/wiki/Mahabad",
+    "extract": "Mahabad is a city in the Central District of Mahabad County, West Azerbaijan province, Iran, serving as capital of both the county and the district. Due to its historic significance to Kurdish nationalism, Mahabad is seen as the capital of Iranian Kurdistan by the Unrepresented Nations and Peoples Organization.",
+    "description": "City in West Azerbaijan province, Iran",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mahabad-Dec_2006.JPG/330px-Mahabad-Dec_2006.JPG",
+    "lat": 36.76777778,
+    "lon": 45.73388889,
+    "es": {
+      "title": "Mahabad",
+      "url": "https://es.wikipedia.org/wiki/Mahabad",
+      "extract": "Mahabad es un pequeño pueblo situada al oeste en la provincia de Azerbaiyán Occidental de Irán. Con una población de 12.434 habitantes, fue capital de la República Independiente de Mahabad en 1946. La mayoría de su población es de origen kurdo. En el año 2004 se produjeron graves disturbios en la ciudad como protesta por la muerte de Shivan Qaderi. En respuesta, el gobierno iraní envió cerca de 12.000 soldados a la región."
     }
   },
   "manchester": {
@@ -5703,6 +5787,20 @@
       "title": "Tarento",
       "url": "https://es.wikipedia.org/wiki/Tarento",
       "extract": "Tarento es una ciudad del sur de Italia, en la región de Apulia. Ubicada a orillas del mar Jónico, en el istmo de la península salentina, da nombre al golfo de Tarento. El casco antiguo de la ciudad se sitúa en una pequeña isla entre el Mediterráneo y el mare Piccolo, una bahía casi cerrada. Fue fundada en el año 706 a. C. con el nombre de Taras."
+    }
+  },
+  "tehran": {
+    "title": "Tehran",
+    "url": "https://en.wikipedia.org/wiki/Tehran",
+    "extract": "Tehran is the capital and largest city of Iran. It is also the capital of Tehran province and the administrative center for Tehran County and its Central District. With a population of around 9 million in the city, and 16.8 million in the metropolitan area, Tehran is the most populous city in Iran and West Asia, the largest metropolitan area in the Middle East and the 24th-most-populous metropolitan area in the world. Greater Tehran includes several municipalities, including Eslamshahr, Shahriar, Qods, Malard, Golestan, Varamin, Pakdasht, Qarchak, Nasimshahr, Parand, Pardis, Andisheh, Fardis, Tajrish, and Rey.",
+    "description": "Capital and largest city of Iran",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/330px-North_of_Tehran_Skyline_view.jpg",
+    "lat": 35.6889,
+    "lon": 51.3897,
+    "es": {
+      "title": "Teherán",
+      "url": "https://es.wikipedia.org/wiki/Teher%C3%A1n",
+      "extract": "Teherán es la capital de la República Islámica de Irán. Está situada en el norte del país, en una meseta al pie de los montes Alborz. Debido a su población e importancia constituye una de las urbes más importantes del llamado mundo islámico."
     }
   },
   "tel-aviv": {
