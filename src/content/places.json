@@ -1133,6 +1133,15 @@
       }
     }
   },
+  "cuito-cuanavale": {
+    "label": "Cuito Cuanavale",
+    "wikipedia": "Cuito Cuanavale",
+    "translations": {
+      "es": {
+        "label": "Cuito Cuanavale"
+      }
+    }
+  },
   "cumae": {
     "label": "Cumae",
     "wikipedia": "Cumae",
@@ -1637,6 +1646,15 @@
       }
     }
   },
+  "grenada": {
+    "label": "Grenada",
+    "wikipedia": "Grenada",
+    "translations": {
+      "es": {
+        "label": "Granada"
+      }
+    }
+  },
   "guadalete": {
     "label": "Guadalete",
     "wikipedia": "Guadalete",
@@ -2114,6 +2132,15 @@
       }
     }
   },
+  "la-higuera": {
+    "label": "La Higuera",
+    "wikipedia": "La Higuera, Bolivia",
+    "translations": {
+      "es": {
+        "label": "La Higuera"
+      }
+    }
+  },
   "la-isabela": {
     "label": "La Isabela",
     "wikipedia": "La Isabela",
@@ -2276,6 +2303,15 @@
       }
     }
   },
+  "luanda": {
+    "label": "Luanda",
+    "wikipedia": "Luanda",
+    "translations": {
+      "es": {
+        "label": "Luanda"
+      }
+    }
+  },
   "lubeck": {
     "label": "Lübeck",
     "wikipedia": "Lübeck",
@@ -2408,6 +2444,15 @@
     "translations": {
       "es": {
         "label": "Marburgo"
+      }
+    }
+  },
+  "mariel": {
+    "label": "Mariel",
+    "wikipedia": "Mariel, Cuba",
+    "translations": {
+      "es": {
+        "label": "Mariel"
       }
     }
   },
@@ -2804,6 +2849,15 @@
     "translations": {
       "es": {
         "label": "Neuchâtel"
+      }
+    }
+  },
+  "new-york-city": {
+    "label": "New York City",
+    "wikipedia": "New York City",
+    "translations": {
+      "es": {
+        "label": "Nueva York"
       }
     }
   },

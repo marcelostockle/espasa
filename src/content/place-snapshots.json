@@ -1736,6 +1736,20 @@
       "extract": "Ctesifonte fue la capital de los imperios parto y sasánida. Estaba localizada a orillas del río Tigris y fue prontamente abandonada después de la fundación de Bagdad. Llegó a ser una de las ciudades más importantes de la antigua región de Mesopotamia."
     }
   },
+  "cuito-cuanavale": {
+    "title": "Cuito Cuanavale",
+    "url": "https://en.wikipedia.org/wiki/Cuito_Cuanavale",
+    "extract": "Cuito Cuanavale, occasionally spelt Kuito Kuanavale or Kwito Kwanavale, is a municipality in Cuando province in Angola.",
+    "description": "Municipality in Cuando, Angola",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Cuito_Cuanavale-i_v%C3%A1rosh%C3%A1za.jpg/330px-Cuito_Cuanavale-i_v%C3%A1rosh%C3%A1za.jpg",
+    "lat": -15.16666667,
+    "lon": 19.16666667,
+    "es": {
+      "title": "Cuito Cuanavale",
+      "url": "https://es.wikipedia.org/wiki/Cuito_Cuanavale",
+      "extract": " Cuito Cuanavale  es una comuna y también un municipio de la provincia de Cuando, en el sureste de Angola, región fronteriza con Namibia y Zambia."
+    }
+  },
   "cumae": {
     "title": "Cumae",
     "url": "https://en.wikipedia.org/wiki/Cumae",
@@ -2503,6 +2517,20 @@
       "extract": "Gran Moravia fue un imperio medieval de la Europa central desarrollado entre el 833 y el siglo X, constituyendo la primera realidad estatal que se forjó entre los antepasados de checos, moravos y eslovacos. El núcleo territorial del imperio fue el río Morava, hoy en la República Checa y Eslovaquia, y en su expansión llegó a abarcar zonas de las modernas Hungría, Rumania, Polonia, Austria, Alemania, Serbia, Eslovenia, Croacia y Ucrania."
     }
   },
+  "grenada": {
+    "title": "Grenada",
+    "url": "https://en.wikipedia.org/wiki/Grenada",
+    "extract": "Grenada is an archipelagic country of the West Indies in the eastern Caribbean Sea. The southernmost of the Windward Islands, Grenada is directly south of Saint Vincent and the Grenadines and about 160 kilometres north of Trinidad and the South American mainland.",
+    "description": "Country in the Caribbean",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/330px-Flag_of_Grenada.svg.png",
+    "lat": 12.1,
+    "lon": -61.7,
+    "es": {
+      "title": "Granada (país)",
+      "url": "https://es.wikipedia.org/wiki/Granada_(pa%C3%ADs)",
+      "extract": "Granada es un país insular de América, que forma parte de las Antillas Menores, en el mar Caribe. Es el segundo país independiente más pequeño del hemisferio occidental por lo que es considerado un micro-Estado. Se encuentra en la zona sureste del mar Caribe, al sur de San Vicente y las Granadinas, a 160 km al norte de Trinidad y Tobago y al nordeste del territorio continental de Venezuela, y a 109 km al sur de San Vicente y las Granadinas."
+    }
+  },
   "guadalete": {
     "title": "Guadalete",
     "url": "https://en.wikipedia.org/wiki/Guadalete",
@@ -3225,6 +3253,20 @@
       "extract": "La ciudad de Kuwait es la capital del Estado de Kuwait y de la gobernación de Al Asimah. Tiene una población de 63 600 habitantes, que llegan a más de 2 300 000 habitantes en su conurbación. Es el centro económico, comercial, cultural y de transportes del emirato."
     }
   },
+  "la-higuera": {
+    "title": "La Higuera",
+    "url": "https://en.wikipedia.org/wiki/La_Higuera",
+    "extract": "La Higuera is a small village in Bolivia located in the Province of Vallegrande, in the Department of Santa Cruz. It is situated in the La Higuera Canton belonging to the Pucará Municipality.",
+    "description": "Place in Santa Cruz, Bolivia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Che_Guevara_statue.jpg/330px-Che_Guevara_statue.jpg",
+    "lat": -18.79472222,
+    "lon": -64.20111111,
+    "es": {
+      "title": "La Higuera (Bolivia)",
+      "url": "https://es.wikipedia.org/wiki/La_Higuera_(Bolivia)",
+      "extract": "La Higuera es una pequeña localidad de los valles de Bolivia, ubicada al centro del país. Se encuentra en el municipio de Pucará al sur de la provincia de Vallegrande en el departamento de Santa Cruz, a una distancia de 60 km de la ciudad de Vallegrande. Cuenta con una población de un poco más de 100 habitantes."
+    }
+  },
   "la-isabela": {
     "title": "La Isabela",
     "url": "https://en.wikipedia.org/wiki/La_Isabela",
@@ -3470,6 +3512,20 @@
       "extract": "El Lop Nor, llamado también lago Lop es un grupo de pequeños, y hoy en día estacionales, lagos salados y marjales localizados entre el desierto de Taklamakán y el desierto de Gobi, al sur de las montañas Kuruktag, en la esquina suroriental de la Región Autónoma Uigur de Sinkiang, al noroeste de la República Popular China. Históricamente, era un gran lago que hoy está totalmente seco dado que el caudal de los ríos que lo alimentaban ha sido empleado para usos humanos y agrícolas. Hoy día la región forma parte del desierto de Lop."
     }
   },
+  "luanda": {
+    "title": "Luanda",
+    "url": "https://en.wikipedia.org/wiki/Luanda",
+    "extract": "Luanda is the capital and largest city of Angola. It is Angola's primary port, and its major industrial, cultural and urban centre. Located on Angola's northern Atlantic coast, Luanda is Angola's administrative centre, its chief seaport, and also the capital of the Luanda Province. Luanda and its metropolitan area is the most populous Portuguese-speaking national capital in the world and the most populous Lusophone city outside Brazil. In 2024 the population reached more than 8.8 million inhabitants.",
+    "description": "Capital and largest city of Angola",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Luanda_2025_focused_%28cropped%29.jpg/330px-Luanda_2025_focused_%28cropped%29.jpg",
+    "lat": -8.82722222,
+    "lon": 13.24388889,
+    "es": {
+      "title": "Luanda",
+      "url": "https://es.wikipedia.org/wiki/Luanda",
+      "extract": "Luanda es la capital y principal ciudad de Angola. Está situada en la costa del océano Atlántico, y es el principal puerto y centro económico del país. También es capital de la provincia homónima."
+    }
+  },
   "lubeck": {
     "title": "Lübeck",
     "url": "https://en.wikipedia.org/wiki/L%C3%BCbeck",
@@ -3676,6 +3732,20 @@
       "title": "Marburgo",
       "url": "https://es.wikipedia.org/wiki/Marburgo",
       "extract": "Marburgo es una ciudad del estado federado de Hesse, Alemania, en el valle del río Lahn, que atraviesa la ciudad. Desde el siglo XII es una ciudad libre y es por esta herencia medieval que junto a otras seis ciudades de Hesse tiene actualmente un estatuto especial. Es uno de los mayores empleadores y el factor económico más importante de la región. Tiene aproximadamente 80 000 habitantes."
+    }
+  },
+  "mariel": {
+    "title": "Mariel, Cuba",
+    "url": "https://en.wikipedia.org/wiki/Mariel%2C_Cuba",
+    "extract": "Mariel is a municipality and town in the Artemisa Province of Cuba. It is located approximately 40 kilometres (25 mi) west of the city of Havana.",
+    "description": "Municipality in Artemisa, Cuba",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/da/Shield_of_Mariel.jpg",
+    "lat": 22.99361111,
+    "lon": -82.75388889,
+    "es": {
+      "title": "Mariel (Cuba)",
+      "url": "https://es.wikipedia.org/wiki/Mariel_(Cuba)",
+      "extract": "Mariel es un municipio de la Provincia de Artemisa en Cuba. Mariel es también el nombre del poblado cabecera municipal y de la bahía y puerto."
     }
   },
   "marseille": {
@@ -4280,6 +4350,20 @@
       "title": "Neuchâtel",
       "url": "https://es.wikipedia.org/wiki/Neuch%C3%A2tel",
       "extract": "Neuchâtel es una ciudad y comuna de la Suiza romanda, capital del cantón y del distrito de Neuchâtel. Está situada a orillas del Lago de Neuchâtel y sobre el flanco sur del macizo del Jura."
+    }
+  },
+  "new-york-city": {
+    "title": "New York City",
+    "url": "https://en.wikipedia.org/wiki/New_York_City",
+    "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance, commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+    "description": "Most populous city in the United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+    "lat": 40.7128,
+    "lon": -74.0061,
+    "es": {
+      "title": "Nueva York",
+      "url": "https://es.wikipedia.org/wiki/Nueva_York",
+      "extract": "Nueva York, a menudo llamada Ciudad de Nueva York, es la ciudad más poblada y visitada de los Estados Unidos y una de las más densamente pobladas a nivel mundial. Desde finales del siglo xix es uno de los centros de la política y la economía mundial, albergando la sede de la Organización de las Naciones Unidas y de numerosas empresas e instituciones financieras de importancia global, entre ellas Wall Street. Nueva York es considerada una ciudad global, debido a que ejerce influencia a escala mundial en los medios de comunicación, la política, la educación, la arquitectura, el entretenimiento, las artes y la moda. Por todo ello, se considera una de las ciudades más globalizadas del planeta, con una gran diversidad cultural."
     }
   },
   "nicopolis-ad-istrum": {
