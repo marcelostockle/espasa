@@ -1,0 +1,124 @@
+---
+import { categoryName, localePath, t, type Locale } from '../lib/i18n';
+
+interface Props {
+  locale: Locale;
+  groups: { category: string; tags: { id: string; label: string; color: string; count: number }[] }[];
+}
+
+const { locale, groups } = Astro.props;
+const strings = t(locale);
+---
+
+<div class="topics">
+  <input id="topicsearch" type="search" placeholder={strings.searchTopics} aria-label={strings.searchTopics} autocomplete="off" hidden />
+  <div class="topicgroups">
+    {
+      groups.map((group) => (
+        <details class="topicgroup" data-category={group.category}>
+          <summary>
+            <span class="gname">{categoryName(group.category, locale)}</span>
+            <span class="n">{group.tags.length}</span>
+          </summary>
+          <ul>
+            {group.tags.map((tag) => (
+              <li data-text={tag.label}>
+                <a href={localePath(locale, `/tags/${tag.id}/`)} style={`--tint:${tag.color}`}>
+                  <span class="dot" />
+                  <span class="ptext">{tag.label}</span>
+                  <span class="n">{tag.count}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </details>
+      ))
+    }
+  </div>
+  <p id="topicnomatch" class="date" hidden>{strings.noTopicMatches}</p>
+</div>
+
+<script>
+  const search = document.getElementById('topicsearch') as HTMLInputElement;
+  const nomatch = document.getElementById('topicnomatch')!;
+  const groups = [...document.querySelectorAll<HTMLDetailsElement>('.topicgroup')];
+  const items = new Map(
+    groups.map((g) => [g, [...g.querySelectorAll<HTMLElement>('li')]] as const),
+  );
+  // Categories the user opened by hand; searching opens others temporarily.
+  const opened = new Set(groups.filter((g) => g.open));
+  const fold = (s: string) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+
+  // Without JS the groups still work as plain details; the search box needs it.
+  search.hidden = false;
+
+  for (const g of groups) {
+    g.addEventListener('toggle', () => {
+      if (search.value) return;
+      g.open ? opened.add(g) : opened.delete(g);
+    });
+  }
+
+  search.addEventListener('input', () => {
+    const q = fold(search.value.trim());
+    let any = false;
+    for (const g of groups) {
+      let hit = false;
+      for (const li of items.get(g)!) {
+        const show = !q || fold(li.dataset.text ?? '').includes(q);
+        li.hidden = !show;
+        hit ||= show;
+      }
+      g.hidden = !hit;
+      g.open = q ? hit : opened.has(g);
+      any ||= hit;
+    }
+    nomatch.hidden = any;
+  });
+</script>
+
+<style>
+  .topics input[type='search'] {
+    width: 100%;
+    max-width: 24rem;
+    margin-bottom: 1rem;
+    padding: 0.4rem 0.6rem;
+    font: inherit;
+    color: inherit;
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 0.3rem;
+  }
+  .topicgroups {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 0 2rem;
+    align-items: start;
+  }
+  .topicgroup { border-top: 1px solid var(--line); }
+  .topicgroup[hidden], li[hidden] { display: none; }
+  summary {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.4rem 0;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  .gname { flex: 1; }
+  .n { color: var(--muted); font-size: 0.8rem; font-weight: 400; font-variant-numeric: tabular-nums; }
+  ul { list-style: none; margin: 0 0 0.5rem; padding: 0; }
+  li a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.2rem 0.4rem;
+    border-radius: 0.3rem;
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+  li a:hover { background: linear-gradient(90deg, color-mix(in srgb, var(--tint) 30%, transparent), color-mix(in srgb, var(--tint) 8%, transparent)); }
+  .ptext { flex: 1; }
+  .dot { width: 0.6rem; height: 0.6rem; border-radius: 50%; background: var(--tint); flex: none; }
+</style>

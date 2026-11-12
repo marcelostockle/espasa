@@ -2,9 +2,10 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Search from '../../components/Search.astro';
+import TopicBrowser from '../../components/TopicBrowser.astro';
 import { getSortedEntries, getTags, groupTagsByCategory } from '../../lib/entries';
 import { getEraBuckets, formatEraRange } from '../../lib/eras';
-import { categoryName, localePath, localeStaticPaths, t, toLocale } from '../../lib/i18n';
+import { localePath, localeStaticPaths, t, toLocale } from '../../lib/i18n';
 import { eraLabel, featuredText, tagText } from '../../lib/localize';
 
 export const getStaticPaths = localeStaticPaths;
@@ -62,22 +63,7 @@ function compareUrl(f: (typeof featured)[number]) {
 
   <section>
     <h2>{strings.topics}</h2>
-    <div class="groups">
-      {
-        groups.map((group) => (
-          <div>
-            <h3>{categoryName(group.category, locale)}</h3>
-            <p>
-              {group.tags.map((tag) => (
-                <a class="chip tinted" style={`--tint:${tag.color}`} href={localePath(locale, `/tags/${tag.id}/`)}>
-                  {tag.label} <span class="n">{tag.count}</span>
-                </a>
-              ))}
-            </p>
-          </div>
-        ))
-      }
-    </div>
+    <TopicBrowser locale={locale} groups={groups} />
   </section>
 
   <section>
@@ -105,14 +91,10 @@ function compareUrl(f: (typeof featured)[number]) {
     color: var(--muted);
     margin: 0 0 0.75rem;
   }
-  h3 { margin: 0 0 0.25rem; font-size: 0.95rem; }
   .featured { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.75rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
   .featured li { padding: 1rem; border: 1px solid var(--line); border-radius: 0.5rem; }
   .featured a { font-weight: 600; }
   .featured p { margin: 0.25rem 0 0; color: var(--muted); font-size: 0.9rem; }
-  .groups { display: flex; gap: 1rem 2.5rem; flex-wrap: wrap; }
-  .groups p { display: flex; gap: 0.4rem; flex-wrap: wrap; margin: 0; }
-  .n { opacity: 0.7; font-variant-numeric: tabular-nums; }
   .eras { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; }
   .eras li { display: flex; flex-direction: column; }
   .eras a { font-weight: 600; text-decoration: none; }
