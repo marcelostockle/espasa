@@ -764,6 +764,20 @@
       "extract": "Beirut es la capital y principal puerto marítimo del Líbano. Perteneciente a la gobernación de Beirut, en 2019 se estimaba que su población era de unos 3 300 000 habitantes."
     }
   },
+  "belgrade": {
+    "title": "Belgrade",
+    "url": "https://en.wikipedia.org/wiki/Belgrade",
+    "extract": "Belgrade is the capital and largest city of Serbia. It is located at the confluence of the Sava and Danube rivers and at the crossroads of the Pannonian Plain and the Balkan Peninsula. According to the 2022 census, the population of Belgrade city proper stands at 1,197,114, its contiguous urban area has 1,298,661 inhabitants, while the population of the city's administrative area totals 1,682,720 people. It is one of the major cities of Southeast Europe and the third-most populous city on the river Danube.",
+    "description": "Capital and largest city of Serbia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Belgrade_from_the_Belgrade_Tower_%28October_2026%2C_1%29.jpg/330px-Belgrade_from_the_Belgrade_Tower_%28October_2026%2C_1%29.jpg",
+    "lat": 44.81777778,
+    "lon": 20.45694444,
+    "es": {
+      "title": "Belgrado",
+      "url": "https://es.wikipedia.org/wiki/Belgrado",
+      "extract": "Belgrado es la capital y ciudad más poblada de la República de Serbia. También fue capital y ciudad más poblada de la antigua Yugoslavia."
+    }
+  },
   "benevento": {
     "title": "Benevento",
     "url": "https://en.wikipedia.org/wiki/Benevento",
@@ -790,6 +804,20 @@
       "title": "Berlín",
       "url": "https://es.wikipedia.org/wiki/Berl%C3%ADn",
       "extract": "Berlín es la capital de Alemania y uno de los dieciséis estados federados alemanes. Se localiza al noreste de Alemania. Por la ciudad fluyen los ríos Spree, Havel, Panke, Dahme y Wuhle."
+    }
+  },
+  "berlin-wall": {
+    "title": "Berlin Wall",
+    "url": "https://en.wikipedia.org/wiki/Berlin_Wall",
+    "extract": "The Berlin Wall was a guarded concrete barrier that encircled West Berlin from 1961 to 1989, separating it from East Berlin and the German Democratic Republic. Construction of the Berlin Wall was commenced by the government of the GDR on 13 August 1961. It included guard towers placed along large concrete walls, \"External wall\" (Vordermauer,) and \"Internal wall\" (Hinterlandmauer,) accompanied by a wide area in-between that contained anti-vehicle trenches, trace-control strip, beds of nails and other defenses. The primary intention for the Wall's construction was to prevent East German citizens from fleeing to the West.",
+    "description": "Cold War barrier around West Berlin (1961–1989)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/330px-Berlinermauer.jpg",
+    "lat": 52.50444444,
+    "lon": 13.44111111,
+    "es": {
+      "title": "Muro de Berlín",
+      "url": "https://es.wikipedia.org/wiki/Muro_de_Berl%C3%ADn",
+      "extract": "El Muro de Berlín fue un muro de seguridad que formaba parte de la frontera interalemana desde el 13 de agosto de 1961 hasta el 9 de noviembre de 1989. Rodeaba y separaba la zona de la ciudad berlinesa encuadrada en el espacio económico de la República Federal de Alemania (RFA), Berlín Oeste, de la capital de la República Democrática Alemana (RDA), Berlín Este, durante esos años. Es el símbolo más conocido de la Guerra Fría y de la división de Alemania. Este muro era denominado Muro de Protección Antifascista por la RDA, mientras que los medios de comunicación y parte de la opinión pública occidental se referían a él como Muro de la vergüenza (Schandmauer)."
     }
   },
   "bern": {
@@ -983,6 +1011,20 @@
       "title": "Buda (ciudad)",
       "url": "https://es.wikipedia.org/wiki/Buda_(ciudad)",
       "extract": "Buda es la parte de Budapest, la capital de Hungría, que se encuentra en la orilla oeste del Danubio. Históricamente, Buda designaba solo la ciudad amurallada real situada en la colina del Castillo, que fue construida por Bela IV entre 1247 y 1249 y sirvió como la capital del Reino de Hungría desde 1361 hasta 1873. En 1873, Buda fue unificada administrativamente con Pest y Óbuda para formar la moderna Budapest."
+    }
+  },
+  "budapest": {
+    "title": "Budapest",
+    "url": "https://en.wikipedia.org/wiki/Budapest",
+    "extract": "Budapest is the capital and largest city of Hungary. It is Hungary's primate city with 1.7 million inhabitants and its greater metro area has a population of about 3.3 million, representing one-third of the country's population and producing more than 40% of the country's economic output. Budapest is the political, economic, and cultural center of the country, among the ten largest cities in the European Union and the second largest urban area in Central and Eastern Europe. Budapest stands on the River Danube and is strategically located at the center of the Pannonian Basin, lying on ancient trade routes linking the hills of Transdanubia with the Great Plain.",
+    "description": "Capital and largest city of Hungary",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg/330px-View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg",
+    "lat": 47.4925,
+    "lon": 19.05138889,
+    "es": {
+      "title": "Budapest",
+      "url": "https://es.wikipedia.org/wiki/Budapest",
+      "extract": "Budapest es la capital y ciudad más poblada de Hungría, así como su principal centro industrial, comercial y de transportes. Posee 1,78 millones de habitantes (2025), que representan un quinto de la población total de Hungría. Es la segunda ciudad más poblada de Europa central y la décima de la Unión Europea. La ciudad ocupa una superficie de 525 km² y su área metropolitana cuenta con una población de 3,3 millones de habitantes. Budapest se constituyó como tal el 17 de noviembre de 1873, al unificarse las ciudades de Buda y Óbuda, en la orilla oeste del Danubio, y Pest, en la orilla este."
     }
   },
   "buenos-aires": {
@@ -2188,6 +2230,20 @@
       "extract": "Galia es el nombre romano dado a una región de la Europa Occidental actualmente formada por Francia, Bélgica, el oeste de Suiza, el norte de Italia y zonas de Alemania y los Países Bajos al oeste del Rin. También las islas británicas, e Hispania estaban pobladas por tribus celtas. Así, la palabra galo se refiere habitualmente a los habitantes celtas de esa región en tiempos antiguos y fue principalmente empleada por los romanos, que muy raras veces llamaban celtas a este conjunto de diversas tribus. El gentilicio se conservó a través de los tiempos solamente en la extensión de tierras que hoy componen Francia y aún hoy sigue llamándose galos a los franceses, y de hecho Gallia es el nombre griego moderno de Francia. También el nombre de Galicia tiene el mismo origen referido a la población gala o celta."
     }
   },
+  "gdansk": {
+    "title": "Gdańsk",
+    "url": "https://en.wikipedia.org/wiki/Gda%C5%84sk",
+    "extract": "Gdańsk, historically known in English as Danzig, is a city on the Baltic coast of northern Poland, and the capital of the Pomeranian Voivodeship. With a population of 486,492, it is Poland's sixth-largest city and its major seaport. Gdańsk lies at the mouth of the Motława River and is situated at the southern edge of Gdańsk Bay, close to the city of Gdynia and the resort town of Sopot; these form a metropolitan area called the Tricity (Trójmiasto), with a population of approximately 1.5 million.",
+    "description": "City in Pomeranian Voivodeship, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_06.jpg/330px-Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_06.jpg",
+    "lat": 54.3475,
+    "lon": 18.64527778,
+    "es": {
+      "title": "Gdansk",
+      "url": "https://es.wikipedia.org/wiki/Gdansk",
+      "extract": "Gdansk es la sexta mayor ciudad de Polonia y la mayor ciudad portuaria de este país. Entre 1975 y 1998 fue capital del desaparecido voivodato de Gdansk y, desde 1998, es la capital del voivodato de Pomerania. En esta ciudad se encuentra el famoso astillero donde se fundó el sindicato Solidaridad. En español también es conocida tradicionalmente como Dánzig por la adaptación de su nombre en alemán y popularmente es llamada la «capital del ámbar»."
+    }
+  },
   "geneva": {
     "title": "Geneva",
     "url": "https://en.wikipedia.org/wiki/Geneva",
@@ -2589,6 +2645,20 @@
       "title": "Dardanelos",
       "url": "https://es.wikipedia.org/wiki/Dardanelos",
       "extract": "Los Dardanelos o estrecho de los Dardanelos es un estrecho ubicado entre Europa y Asia. Es el antiguo Helesponto (Ἑλλήσποντος) de la Grecia clásica. Comunica el mar Egeo con el mar interior de Mármara y su archipiélago. Mide 61 km de longitud, entre 1600 y 6500 m de anchura y tiene una profundidad media de unos 50 m."
+    }
+  },
+  "helsinki": {
+    "title": "Helsinki",
+    "url": "https://en.wikipedia.org/wiki/Helsinki",
+    "extract": "Helsinki, until about 1930 known in English by its Swedish name of Helsingfors, is the capital and most populous city in Finland. It is on the shore of the Gulf of Finland and is the seat of southern Finland's Uusimaa region. About 694,000 people live in the municipality, with 1.3 million in the capital region and 1.6 million in the metropolitan area. As the most populous urban area in Finland, it is the country's most significant centre for politics, education, finance, culture, and research. Helsinki is 80 kilometres (50 mi) north of Tallinn, Estonia, 400 kilometres (250 mi) east of Stockholm, Sweden, and 300 kilometres (190 mi) west of Saint Petersburg, Russia. Helsinki is a bilingual municipality with Finnish and Swedish as its official languages.",
+    "description": "Capital and most populous city of Finland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Suomenlinna_%28cropped%29.jpg/330px-Suomenlinna_%28cropped%29.jpg",
+    "lat": 60.17083333,
+    "lon": 24.9375,
+    "es": {
+      "title": "Helsinki",
+      "url": "https://es.wikipedia.org/wiki/Helsinki",
+      "extract": "Helsinki es la capital y la ciudad más grande de la República de Finlandia. Está situada en la costa sur del país, a la orilla del golfo de Finlandia. Forma parte de la región de Uusimaa."
     }
   },
   "heraclea-lucania": {
@@ -4756,6 +4826,20 @@
       "extract": "Potsdam es una ciudad alemana ubicada en las inmediaciones de Berlín, junto al río Havel. Tiene una población estimada, a fines de 2021, de 183,154 habitantes."
     }
   },
+  "poznan": {
+    "title": "Poznań",
+    "url": "https://en.wikipedia.org/wiki/Pozna%C5%84",
+    "extract": "Poznań is a city on the River Warta in west Poland, within the Greater Poland region. The city is an important cultural and business center with customs such as Saint John's Fair, traditional Saint Martin's croissants, and a local dialect. Among its most important heritage sites are the Renaissance Old Town, Town Hall and Poznań Cathedral.",
+    "description": "City in Greater Poland Voivodeship, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Stary_Rynek_w_Poznaniu%2C_widok_z_drona_%28cropped%29.jpg/330px-Stary_Rynek_w_Poznaniu%2C_widok_z_drona_%28cropped%29.jpg",
+    "lat": 52.40833333,
+    "lon": 16.93361111,
+    "es": {
+      "title": "Poznan",
+      "url": "https://es.wikipedia.org/wiki/Poznan",
+      "extract": "Poznan, también llamada tradicionalmente en español Posnania, es una de las más antiguas y grandes ciudades de Polonia, situada a orillas del río Varta. Tiene una población estimada, a mediados de 2021, de 530 464 habitantes."
+    }
+  },
   "prague": {
     "title": "Prague",
     "url": "https://en.wikipedia.org/wiki/Prague",
@@ -6509,6 +6593,20 @@
       "title": "Washington D. C.",
       "url": "https://es.wikipedia.org/wiki/Washington_D._C.",
       "extract": "Washington D. C., oficialmente denominada Distrito de Columbia, es la capital federal de Estados Unidos. Se administra como distrito federal, una entidad diferente a los cincuenta estados que componen dicha nación, que depende directamente del Gobierno federal. El Distrito de Columbia fue fundado el 16 de julio de 1790, y en 1791 se oficializó, dentro del distrito, una nueva ciudad denominada Washington, al este de la ya existente Georgetown. En 1871 se unificaron los gobiernos de estas dos ciudades y del resto de poblaciones del distrito en una sola entidad, D. C.."
+    }
+  },
+  "wenceslas-square": {
+    "title": "Wenceslas Square",
+    "url": "https://en.wikipedia.org/wiki/Wenceslas_Square",
+    "extract": "Wenceslas Square is one of the main city squares and the centre of the business and cultural communities in the New Town of Prague, Czech Republic. Many historical events occurred there, and it is a traditional setting for demonstrations, celebrations, and other public gatherings. It is also the place with the busiest pedestrian traffic in the whole country. The square is named after Saint Wenceslas, the patron saint of Bohemia. It is part of the historic centre of Prague, a World Heritage Site.",
+    "description": "City square in Prague, Czechia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Prague_Praha_2014_Holmstad_Vaclavplassen_i_nybyen_Nove_Mesto_flott.jpg/330px-Prague_Praha_2014_Holmstad_Vaclavplassen_i_nybyen_Nove_Mesto_flott.jpg",
+    "lat": 50.08138889,
+    "lon": 14.4275,
+    "es": {
+      "title": "Plaza de Wenceslao",
+      "url": "https://es.wikipedia.org/wiki/Plaza_de_Wenceslao",
+      "extract": "La Plaza de Venceslao es una de las plazas más importantes de Praga, República Checa, y el centro cultural y financiero de la Ciudad Nueva. Se han producido aquí muchos sucesos históricos, y es un escenario tradicional para manifestaciones, celebraciones y otras reuniones públicas. La plaza se llama así en honor a San Venceslao, el patrón de Bohemia. Forma parte del centro histórico de Praga, declarado por la UNESCO Patrimonio de la Humanidad."
     }
   },
   "wittenberg": {

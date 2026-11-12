@@ -494,6 +494,15 @@
       }
     }
   },
+  "belgrade": {
+    "label": "Belgrade",
+    "wikipedia": "Belgrade",
+    "translations": {
+      "es": {
+        "label": "Belgrado"
+      }
+    }
+  },
   "benevento": {
     "label": "Beneventum (Benevento)",
     "wikipedia": "Benevento",
@@ -509,6 +518,15 @@
     "translations": {
       "es": {
         "label": "Berlín"
+      }
+    }
+  },
+  "berlin-wall": {
+    "label": "Berlin Wall",
+    "wikipedia": "Berlin Wall",
+    "translations": {
+      "es": {
+        "label": "Muro de Berlín"
       }
     }
   },
@@ -644,6 +662,15 @@
     "translations": {
       "es": {
         "label": "Buda"
+      }
+    }
+  },
+  "budapest": {
+    "label": "Budapest",
+    "wikipedia": "Budapest",
+    "translations": {
+      "es": {
+        "label": "Budapest"
       }
     }
   },
@@ -1430,6 +1457,15 @@
       }
     }
   },
+  "gdansk": {
+    "label": "Gdańsk",
+    "wikipedia": "Gdańsk",
+    "translations": {
+      "es": {
+        "label": "Gdansk"
+      }
+    }
+  },
   "geneva": {
     "label": "Geneva",
     "wikipedia": "Geneva",
@@ -1697,6 +1733,15 @@
     "translations": {
       "es": {
         "label": "Helesponto (Dardanelos)"
+      }
+    }
+  },
+  "helsinki": {
+    "label": "Helsinki",
+    "wikipedia": "Helsinki",
+    "translations": {
+      "es": {
+        "label": "Helsinki"
       }
     }
   },
@@ -3122,6 +3167,15 @@
       }
     }
   },
+  "poznan": {
+    "label": "Poznań",
+    "wikipedia": "Poznań",
+    "translations": {
+      "es": {
+        "label": "Poznan"
+      }
+    }
+  },
   "prague": {
     "label": "Prague",
     "wikipedia": "Prague",
@@ -4271,6 +4325,15 @@
     "translations": {
       "es": {
         "label": "Washington D. C."
+      }
+    }
+  },
+  "wenceslas-square": {
+    "label": "Wenceslas Square",
+    "wikipedia": "Wenceslas Square",
+    "translations": {
+      "es": {
+        "label": "Plaza de Wenceslao"
       }
     }
   },
