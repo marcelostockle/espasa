@@ -354,6 +354,20 @@
       }
     }
   },
+  "cold-war": {
+    "label": "Cold War",
+    "color": "#6b7f8c",
+    "description": "The 1945-1991 rivalry between the United States and Soviet Union and their allies, fought through alliances, proxy wars, arms races and ideology rather than direct war.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra Fría",
+        "description": "La rivalidad de 1945 a 1991 entre Estados Unidos, la Unión Soviética y sus aliados, librada mediante alianzas, guerras indirectas, carreras armamentistas e ideología, sin guerra directa."
+      }
+    }
+  },
   "counter-reformation": {
     "label": "Counter-Reformation",
     "color": "#90a4ae",
@@ -394,6 +408,21 @@
       "es": {
         "label": "Dinamarca",
         "description": "El Reino de Dinamarca-Noruega, su monarquía luterana y su rivalidad con Suecia por el control del Báltico."
+      }
+    }
+  },
+  "divided-germany": {
+    "label": "Divided Germany",
+    "color": "#7d7d3c",
+    "description": "Germany and Berlin under four-power occupation and then as two states, West and East (1945-1990).",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Alemania dividida",
+        "description": "Alemania y Berlín bajo ocupación de las cuatro potencias y luego como dos Estados, occidental y oriental (1945-1990)."
       }
     }
   },
@@ -465,6 +494,21 @@
       "es": {
         "label": "Cristianismo primitivo",
         "description": "Los primeros siglos cristianos, desde los seguidores de Jesús y la misión de Pablo hasta la formación del canon del Nuevo Testamento y los concilios de la Antigüedad tardía."
+      }
+    }
+  },
+  "eastern-bloc": {
+    "label": "Eastern Bloc",
+    "color": "#8c2f39",
+    "description": "The communist states of Central and Eastern Europe under Soviet influence after 1945, and the institutions that bound them to Moscow.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Bloque del Este",
+        "description": "Los Estados comunistas de Europa central y oriental bajo influencia soviética después de 1945, y las instituciones que los ataron a Moscú."
       }
     }
   },
@@ -719,6 +763,20 @@
       "es": {
         "label": "Aníbal",
         "description": "General cartaginés (247-c. 183 a. C.): su mando en Iberia, su invasión de Italia en la segunda guerra púnica y su exilio."
+      }
+    }
+  },
+  "harry-truman": {
+    "label": "Harry S. Truman",
+    "color": "#4a78c2",
+    "description": "US president from 1945 to 1953, who oversaw the atomic bombings, the Truman Doctrine, NATO and the Korean War.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Harry S. Truman",
+        "description": "Presidente de Estados Unidos de 1945 a 1953, bajo cuyo mandato se produjeron los bombardeos atómicos, la Doctrina Truman, la OTAN y la guerra de Corea."
       }
     }
   },
@@ -991,6 +1049,20 @@
       }
     }
   },
+  "joseph-stalin": {
+    "label": "Joseph Stalin",
+    "color": "#7a1f2e",
+    "description": "Soviet leader from the late 1920s until his death in 1953, who led the USSR through World War II and shaped the early Cold War.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Iósif Stalin",
+        "description": "Líder soviético desde finales de los años veinte hasta su muerte en 1953, que condujo a la URSS durante la Segunda Guerra Mundial y moldeó los inicios de la Guerra Fría."
+      }
+    }
+  },
   "josephus": {
     "label": "Josephus",
     "color": "#66ffbb",
@@ -1031,6 +1103,35 @@
       "es": {
         "label": "Julio César",
         "description": "General, político y dictador romano (100-44 a. C.): su carrera, la conquista de la Galia, la guerra civil y su asesinato."
+      }
+    }
+  },
+  "korea": {
+    "label": "Korea",
+    "color": "#3aa17e",
+    "description": "The Korean peninsula and its states, including its division in 1945 into North and South.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Corea",
+        "description": "La península de Corea y sus Estados, incluida su división en 1945 entre norte y sur."
+      }
+    }
+  },
+  "korean-war": {
+    "label": "Korean War",
+    "color": "#d9822b",
+    "description": "The war of 1950-1953 between North and South Korea, in which UN forces led by the United States and Chinese forces intervened.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra de Corea",
+        "description": "La guerra de 1950-1953 entre Corea del Norte y Corea del Sur, en la que intervinieron fuerzas de la ONU lideradas por Estados Unidos y fuerzas chinas."
       }
     }
   },
@@ -1143,6 +1244,20 @@
       "es": {
         "label": "Marco Antonio",
         "description": "General y triunviro romano (83-30 a. C.): lugarteniente de César, rival y aliado de Octavio y pareja de Cleopatra hasta Accio."
+      }
+    }
+  },
+  "marshall-plan": {
+    "label": "Marshall Plan",
+    "color": "#5aa469",
+    "description": "The US program of economic aid for the reconstruction of Western Europe (1948-1952) and the Soviet-bloc responses to it.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Plan Marshall",
+        "description": "El programa estadounidense de ayuda económica para la reconstrucción de Europa occidental (1948-1952) y las respuestas del bloque soviético."
       }
     }
   },
@@ -1272,6 +1387,20 @@
       }
     }
   },
+  "nato": {
+    "label": "NATO",
+    "color": "#3b5998",
+    "description": "The North Atlantic Treaty Organization, the Western military alliance founded in 1949, and its membership and structure.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "OTAN",
+        "description": "La Organización del Tratado del Atlántico Norte, la alianza militar occidental fundada en 1949, y su composición y estructura."
+      }
+    }
+  },
   "netherlands": {
     "label": "Netherlands",
     "color": "#4dd0e1",
@@ -1316,6 +1445,21 @@
       }
     }
   },
+  "nuclear-weapons": {
+    "label": "Nuclear weapons",
+    "color": "#e8c11a",
+    "description": "The development, use, testing and strategy of nuclear weapons, from the first atomic bombs onward.",
+    "categories": [
+      "Society",
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Armas nucleares",
+        "description": "El desarrollo, uso, prueba y estrategia de las armas nucleares, desde las primeras bombas atómicas en adelante."
+      }
+    }
+  },
   "ottoman-empire": {
     "label": "Ottoman Empire",
     "color": "#e91e63",
@@ -1356,6 +1500,21 @@
       "es": {
         "label": "Guerra del Peloponeso",
         "description": "La guerra entre Atenas y Esparta y sus aliados (431-404 a. C.), con sus causas y consecuencias."
+      }
+    }
+  },
+  "peoples-republic-of-china": {
+    "label": "People's Republic of China",
+    "color": "#e0452e",
+    "description": "The communist state proclaimed in 1949 on mainland China: its government, policies and foreign relations.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "República Popular China",
+        "description": "El Estado comunista proclamado en 1949 en la China continental: su gobierno, sus políticas y sus relaciones exteriores."
       }
     }
   },
@@ -1769,6 +1928,21 @@
       }
     }
   },
+  "soviet-union": {
+    "label": "Soviet Union",
+    "color": "#cc1f36",
+    "description": "The Union of Soviet Socialist Republics (1922-1991): its government, foreign policy and the satellite system it led after 1945.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Unión Soviética",
+        "description": "La Unión de Repúblicas Socialistas Soviéticas (1922-1991): su gobierno, su política exterior y el sistema de países satélite que lideró después de 1945."
+      }
+    }
+  },
   "spain": {
     "label": "Spain",
     "color": "#00695c",
@@ -1940,6 +2114,35 @@
       }
     }
   },
+  "united-nations": {
+    "label": "United Nations",
+    "color": "#4fa3e0",
+    "description": "The international organization founded in 1945 to maintain peace and security, including its Security Council and its major resolutions.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Naciones Unidas",
+        "description": "La organización internacional fundada en 1945 para mantener la paz y la seguridad, incluido su Consejo de Seguridad y sus principales resoluciones."
+      }
+    }
+  },
+  "united-states": {
+    "label": "United States",
+    "color": "#2f6fd0",
+    "description": "The United States of America: its government, foreign policy and role in world events.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Estados Unidos",
+        "description": "Los Estados Unidos de América: su gobierno, su política exterior y su papel en los acontecimientos mundiales."
+      }
+    }
+  },
   "wallenstein": {
     "label": "Albrecht von Wallenstein",
     "color": "#6a8d73",
@@ -1965,6 +2168,20 @@
       "es": {
         "label": "Guerra",
         "description": "Grandes guerras y campañas."
+      }
+    }
+  },
+  "winston-churchill": {
+    "label": "Winston Churchill",
+    "color": "#6e5a9e",
+    "description": "British statesman, prime minister in 1940-1945 and 1951-1955, a leading figure of the wartime alliance and the early Cold War.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Winston Churchill",
+        "description": "Estadista británico, primer ministro en 1940-1945 y 1951-1955, figura destacada de la alianza de guerra y de los inicios de la Guerra Fría."
       }
     }
   },

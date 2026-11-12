@@ -694,6 +694,20 @@
       "extract": "Benevento es una ciudad italiana de 57 456 habitantes, capital de la provincia homónima, en la región de Campania. La población del área urbana alcanza los 110 000 habitantes."
     }
   },
+  "berlin": {
+    "title": "Berlin",
+    "url": "https://en.wikipedia.org/wiki/Berlin",
+    "extract": "Berlin is the capital and largest city of Germany. With 3.7 million inhabitants, it has the highest population within its city limits of any city in the European Union (EU). The metropolis is also one of the states of Germany, being the third-smallest state in the country by area. Berlin is surrounded by the state of Brandenburg, bordering Brandenburg's capital Potsdam to the southwest. The urban area of Berlin has a population of 4.5 million, making it the second most populous in Germany after the Ruhr. The Berlin-Brandenburg capital region has around 6.2 million inhabitants and is Germany's second-largest metropolitan region after the Rhine-Ruhr region, as well as the fifth-biggest metropolitan region by GDP in the EU. Berlin is a global city of culture, politics, media and science.",
+    "description": "Capital and largest city of Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg/330px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg",
+    "lat": 52.52,
+    "lon": 13.405,
+    "es": {
+      "title": "Berlín",
+      "url": "https://es.wikipedia.org/wiki/Berl%C3%ADn",
+      "extract": "Berlín es la capital de Alemania y uno de los dieciséis estados federados alemanes. Se localiza al noreste de Alemania. Por la ciudad fluyen los ríos Spree, Havel, Panke, Dahme y Wuhle."
+    }
+  },
   "bern": {
     "title": "Bern",
     "url": "https://en.wikipedia.org/wiki/Bern",
@@ -772,6 +786,20 @@
       "extract": "Bolonia o Boloña es una ciudad del norte de Italia, capital de la ciudad metropolitana homónima y de la región de Emilia-Romaña, situada entre los ríos Reno y Savena, cerca de los Apeninos. Es una de las ciudades históricas mejor conservadas y tiene el segundo casco antiguo medieval más grande de Europa, después del de Venecia. El comune tiene una población de 390 734 habitantes."
     }
   },
+  "bonn": {
+    "title": "Bonn",
+    "url": "https://en.wikipedia.org/wiki/Bonn",
+    "extract": "Bonn, officially the Federal City of Bonn, is a federal city in the German state of North Rhine-Westphalia, located on the banks of the Rhine. With a population exceeding 320,000, it lies about 24 km (15 mi) south-southeast of Cologne, in the southernmost part of the Rhine-Ruhr region. Bonn served as the capital of West Germany from 1949 until 1990 and was the seat of government for reunified Germany until 1999, when the government relocated to Berlin. The city holds historical significance as the birthplace of Germany's current constitution, the Basic Law.",
+    "description": "Federal city in North Rhine-Westphalia, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/General_view_over_bonn_%28cropped%29.jpg/330px-General_view_over_bonn_%28cropped%29.jpg",
+    "lat": 50.7353,
+    "lon": 7.1022,
+    "es": {
+      "title": "Bonn",
+      "url": "https://es.wikipedia.org/wiki/Bonn",
+      "extract": "Bonn es una ciudad alemana del estado federado de Renania del Norte-Westfalia. Fue la capital de la República Federal de Alemania hasta la reunificación del país en 1990, y sede del gobierno hasta 1999. Forma parte de la macrorregión metropolitana del Rin-Ruhr."
+    }
+  },
   "bourges": {
     "title": "Bourges",
     "url": "https://en.wikipedia.org/wiki/Bourges",
@@ -807,6 +835,20 @@
     "description": "Stadtteil of Leipzig in Saxony, Germany",
     "lat": 51.40277778,
     "lon": 12.34444444
+  },
+  "bretton-woods": {
+    "title": "Bretton Woods, New Hampshire",
+    "url": "https://en.wikipedia.org/wiki/Bretton_Woods%2C_New_Hampshire",
+    "extract": "Bretton Woods is an area within the town of Carroll, New Hampshire, United States, whose principal points of interest are three leisure and recreation facilities. Being virtually surrounded by the White Mountain National Forest, the vista from Bretton Woods toward Mount Washington and the Presidential Range includes no significant artificial structures other than the Mount Washington Cog Railway and the Mount Washington Hotel.",
+    "description": "Unincorporated community in New Hampshire, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mtwashingtonresort.JPG/330px-Mtwashingtonresort.JPG",
+    "lat": 44.25805556,
+    "lon": -71.44111111,
+    "es": {
+      "title": "Bretton Woods (Nuevo Hampshire)",
+      "url": "https://es.wikipedia.org/wiki/Bretton_Woods_(Nuevo_Hampshire)",
+      "extract": "Bretton Woods es un área ubicada dentro del condado de Carroll, en el estado de Nuevo Hampshire, Estados Unidos. Se encuentra a lo largo de la ruta 302, a 8 km al este de la aldea de Twin Mountain y 32 km de paisajes Crawford Notch al noroeste de la ciudad de Bartlett. Rodeada del Bosque Nacional White Mountain, sus principales puntos de interés son tres instalaciones de ocio y recreo."
+    }
   },
   "brielle": {
     "title": "Brielle",
@@ -1733,6 +1775,20 @@
       "extract": "Dresde es la capital del estado federado de Sajonia, en Alemania. Limita al noroeste con el distrito de Meißen, al noreste con el de Bautzen y al sur con el de distrito de Suiza Sajona-Montes Metálicos Orientales. Dresde se encuentra justo en el centro de la conurbación homónima. Esta aglomeración, junto con la de Chemnitz-Zwickau y la de Leipzig-Halle, constituyen la llamada “región metropolitana del triángulo sajón”. La población total de Dresde supera los 550 000 habitantes y su correspondiente Regierungsbezirk o región administrativa, el millón y medio."
     }
   },
+  "east-berlin": {
+    "title": "East Berlin",
+    "url": "https://en.wikipedia.org/wiki/East_Berlin",
+    "extract": "East Berlin was the capital of East Germany (GDR) from 1949 to 1990. From 1945, it was the Soviet occupation sector of Berlin. The American, British, and French sectors were known as West Berlin. From 13 August 1961 until 9 November 1989, East Berlin was separated from West Berlin by the Berlin Wall. The Western Allied powers did not recognize East Berlin as the GDR's capital, nor the GDR's authority to govern East Berlin. For most of its administrative existence, East Berlin was officially known as Berlin, capital of the GDR by the GDR government. On 3 October 1990, the day Germany was officially reunified, East and West Berlin formally reunited as the city of Berlin.",
+    "description": "Capital of East Germany (1949–1990)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_East_Berlin_%281956%E2%80%931990%29.svg/330px-Flag_of_East_Berlin_%281956%E2%80%931990%29.svg.png",
+    "lat": 52.51861111,
+    "lon": 13.40444444,
+    "es": {
+      "title": "Berlín Este",
+      "url": "https://es.wikipedia.org/wiki/Berl%C3%ADn_Este",
+      "extract": "Berlín Este o Berlín Oriental fue el nombre que recibió la parte de la ciudad de Berlín que inicialmente quedó bajo administración de la Unión Soviética desde el final de la Segunda Guerra Mundial en 1945 y que luego pasó a ser capital de la República Democrática Alemana (RDA). Los ciudadanos de la RDA la llamaban simplemente Berlín, aunque el nombre oficial de la ciudad era Berlín, capital de la RDA. La sede del gobierno municipal se encontraba en el distrito de Berlín-Mitte, concretamente en el edificio Rotes Rathaus, o Ayuntamiento rojo, que actualmente sigue siendo sede del gobierno municipal de Berlín."
+    }
+  },
   "ebro": {
     "title": "Ebro",
     "url": "https://en.wikipedia.org/wiki/Ebro",
@@ -1950,6 +2006,20 @@
       "title": "Friburgo (Suiza)",
       "url": "https://es.wikipedia.org/wiki/Friburgo_(Suiza)",
       "extract": "Friburgo es una pequeña ciudad de la Suiza occidental, capital del cantón de Friburgo y del distrito de Sarine. Friburgo es una de las tres ciudades bilingües de Suiza, unas 21.000 personas hablan francés, mientras que unas 8.300 hablan alemán. Se ubica en la región llamada Üechtland."
+    }
+  },
+  "fulton": {
+    "title": "Fulton, Missouri",
+    "url": "https://en.wikipedia.org/wiki/Fulton%2C_Missouri",
+    "extract": "Fulton is the largest city in and the county seat of Callaway County, Missouri, United States. Located about 22 miles (35 km) northeast of Jefferson City and the Missouri River and 20 miles (32 km) east of Columbia, the city is part of the Jefferson City, Missouri, Metropolitan Statistical Area. The population was 12,600 at the 2020 census. The city is home to two universities, Westminster College and William Woods University; the Missouri School for the Deaf; the Fulton State Hospital; and the Fulton Reception and Diagnostic Center state prison. Missouri's only nuclear power plant, the Callaway Plant is located 13 miles (21 km) southeast of Fulton.",
+    "description": "City in Missouri, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Fulton%2C_Missouri.jpg/330px-Fulton%2C_Missouri.jpg",
+    "lat": 38.85527778,
+    "lon": -91.95111111,
+    "es": {
+      "title": "Fulton (Misuri)",
+      "url": "https://es.wikipedia.org/wiki/Fulton_(Misuri)",
+      "extract": "Fulton es una ciudad ubicada en el condado de Callaway en el estado estadounidense de Misuri. En el Censo de 2010 tenía una población de 12790 habitantes y una densidad poblacional de 398,47 personas por km²."
     }
   },
   "galilee": {
@@ -2423,6 +2493,20 @@
       "extract": "Hipona o Hippo Regius, fue una antigua ciudad de Numidia a la orilla del río Ubus, en la actual Argelia."
     }
   },
+  "hiroshima": {
+    "title": "Hiroshima",
+    "url": "https://en.wikipedia.org/wiki/Hiroshima",
+    "extract": "Hiroshima  is the capital of Hiroshima Prefecture in Japan. As of August 1, 2026, the city had an estimated population of 1,170,194. The gross domestic product (GDP) in Greater Hiroshima, Hiroshima Urban Employment Area, was US$61.3 billion as of 2010. Kazumi Matsui has been the city's mayor since April 2011. The Hiroshima metropolitan area is the second largest urban area in the Chugoku Region of Japan, following the Okayama metropolitan area.",
+    "description": "City in Chūgoku, Japan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Atomic_Bomb_Dome_and_Motoyaso_River%2C_Hiroshima%2C_Northwest_view_20190417_1.jpg/330px-Atomic_Bomb_Dome_and_Motoyaso_River%2C_Hiroshima%2C_Northwest_view_20190417_1.jpg",
+    "lat": 34.39138889,
+    "lon": 132.45194444,
+    "es": {
+      "title": "Hiroshima",
+      "url": "https://es.wikipedia.org/wiki/Hiroshima",
+      "extract": "Hiroshima  es la capital de la prefectura de Hiroshima, en la región de Chūgoku, al oeste de Japón."
+    }
+  },
   "hispania": {
     "title": "Hispania",
     "url": "https://en.wikipedia.org/wiki/Hispania",
@@ -2475,6 +2559,20 @@
       "title": "Alcalá del Río",
       "url": "https://es.wikipedia.org/wiki/Alcal%C3%A1_del_R%C3%ADo",
       "extract": "Alcalá del Río es un municipio y localidad española de la provincia de Sevilla, en la comunidad autónoma de Andalucía. Se sitúa en la comarca de la Vega del Guadalquivir, a unos 15 km al norte de la capital de provincia, Sevilla. Cuenta con una población de 12 335 habitantes y tiene una superficie de 82 km². Además del núcleo de población principal tiene tres pedanías: El Viar, Esquivel y San Ignacio del Viar, construidas por el Instituto Nacional de Colonización (INC). Cuenta con un aeródromo con capacidad de aeronaves ultraligeras: el aeródromo de Alcalá del Río."
+    }
+  },
+  "incheon": {
+    "title": "Incheon",
+    "url": "https://en.wikipedia.org/wiki/Incheon",
+    "extract": "Incheon is a city located in northwestern South Korea, bordering Seoul and Gyeonggi Province to the east. Inhabited since the Neolithic, Incheon was home to just 4,700 people when it became an international port in 1883. As of February 2020, about 3 million people live in the city, making it South Korea's third-most-populous city after Seoul and Busan.",
+    "description": "City in South Korea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Songdo_Central_Park_and_Posco_Tower_Songdo.jpg/330px-Songdo_Central_Park_and_Posco_Tower_Songdo.jpg",
+    "lat": 37.48333333,
+    "lon": 126.63333333,
+    "es": {
+      "title": "Incheon",
+      "url": "https://es.wikipedia.org/wiki/Incheon",
+      "extract": "Incheon pronunciado: [in.tɕʰʌn], oficialmente Ciudad Metropolitana de Incheon, es una de las seis ciudades metropolitanas que, junto a las nueve provincias, la ciudad especial y la ciudad autónoma especial, forman Corea del Sur."
     }
   },
   "ipsus": {
@@ -3526,6 +3624,20 @@
       "extract": "Montmartre es una colina de 130 metros de altura situada en la ribera derecha del río Sena, en el XVIII Distrito de París, y conocida principalmente por la cúpula blanca de la Basílica del Sacré Cœur, que está en su cumbre. Cerca, otra iglesia, la más antigua de la colina es Saint Pierre de Montmartre, fundada por la reina de Francia en el siglo XII. En la cripta de la capilla del Martyrium, ubicada en la calle Yvonne Le Tac, se fundó la orden de sacerdotes jesuitas el 15 de agosto de 1534."
     }
   },
+  "moscow": {
+    "title": "Moscow",
+    "url": "https://en.wikipedia.org/wiki/Moscow",
+    "extract": "Moscow is the capital and largest city of Russia, situated on the Moskva River in Central Russia. The city has a population estimated at more than 13 million residents within city limits, more than 19.1 million residents in the urban area, and more than 21.5 million residents in the metropolitan area. The city covers an area of 2,511 square kilometers (970 sq mi); the urban area covers 5,891 square kilometers (2,275 sq mi); and the metropolitan area covers more than 26,000 square kilometers (10,000 sq mi). Moscow is among the world's largest cities: the most populous city entirely in Europe, the largest urban and metropolitan areas in Europe, and the largest city by land area on the European continent.",
+    "description": "Capital and most populous city of Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg/330px-Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
+    "lat": 55.75583333,
+    "lon": 37.61777778,
+    "es": {
+      "title": "Moscú",
+      "url": "https://es.wikipedia.org/wiki/Mosc%C3%BA",
+      "extract": "Moscú es la capital y la ciudad más poblada de Rusia, siendo además una de las tres ciudades federales que, junto con los cuarenta y ocho óblast, veinticuatro repúblicas, nueve krais, cuatro distritos autónomos y un óblast autónomo, conforman los ochenta y nueve sujetos federales del país. La ciudad es un importante centro político, económico, cultural y científico de Rusia y del continente. Moscú es la megaciudad más septentrional de la Tierra y la ciudad más poblada de Europa. Su población es de 13 104 177 habitantes. En virtud de su expansión territorial al suroeste del óblast de Moscú, el 1 de julio de 2012 la capital aumentó su área en 2,5 veces, desde unos 1000 km² hasta 2500 km², y ganó una población adicional de 250 000 habitantes."
+    }
+  },
   "mossel-bay": {
     "title": "Mossel Bay",
     "url": "https://en.wikipedia.org/wiki/Mossel_Bay",
@@ -3636,6 +3748,20 @@
       "title": "Nag Hammadi",
       "url": "https://es.wikipedia.org/wiki/Nag_Hammadi",
       "extract": "Nag Hammadi es un pueblo situado en la ribera del río Nilo, en Egipto. Llamado Jenoboskion en la antigüedad, es el lugar en el cual, en el año 320, San Pacomio fundó el primer monasterio cristiano."
+    }
+  },
+  "nagasaki": {
+    "title": "Nagasaki",
+    "url": "https://en.wikipedia.org/wiki/Nagasaki",
+    "extract": "Nagasaki , officially Nagasaki City , is the capital and the largest city of Nagasaki Prefecture on the island of Kyushu in Japan.",
+    "description": "Core city in Kyushu, Japan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Nagasaki_City_View_from_Glover_Garden%2C_Nagasaki_2014.jpg/330px-Nagasaki_City_View_from_Glover_Garden%2C_Nagasaki_2014.jpg",
+    "lat": 32.74472222,
+    "lon": 129.87361111,
+    "es": {
+      "title": "Nagasaki",
+      "url": "https://es.wikipedia.org/wiki/Nagasaki",
+      "extract": "Nagasaki  es una ciudad japonesa, capital de la prefectura de Nagasaki, ubicada sobre la costa sudoeste de la isla de Kyūshū. Tenía una población estimada, en septiembre de 2021, de 401 515 habitantes. Su nombre significa \"cabo largo\"."
     }
   },
   "nanjing": {
@@ -3993,6 +4119,20 @@
       "extract": "Banias es un yacimiento arqueológico de la antigua ciudad de Cesarea de Filipo, ubicado al pie del monte Hermón, al norte de los Altos del Golán. La ciudad estaba situada en la región conocida como \"Panion\", consagrada al dios griego Pan, de quien recibió su nombre. Herodes Filipo II, hijo de Herodes el Grande, amplió y enriqueció la ciudad, dándole el nombre de Cesarea en honor del césar, a lo que añadió ‘de Filipo’ para distinguirla de Cesarea Marítima, ciudad portuaria sobre el Mediterráneo."
     }
   },
+  "panmunjom": {
+    "title": "Panmunjom",
+    "url": "https://en.wikipedia.org/wiki/Panmunjom",
+    "extract": "Panmunjom was a village just north of the de facto border between North Korea and South Korea, where the 1953 Korean Armistice Agreement that ended the Korean War was signed. It was located in what is now Paju, Gyeonggi Province, South Korea, and Panmun-guyok, Kaesong, North Korea. The building where the armistice was signed still stands.",
+    "description": "Former village in Korea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/North_Korean_Peace_Museum_%281976%29_-_Panmunjom.jpg/330px-North_Korean_Peace_Museum_%281976%29_-_Panmunjom.jpg",
+    "lat": 37.96,
+    "lon": 126.665,
+    "es": {
+      "title": "Panmunjom",
+      "url": "https://es.wikipedia.org/wiki/Panmunjom",
+      "extract": "Panmunjeom, localizada en Josan-ri, Gunnae-myeon, Paju-si, dentro de Gyeonggi-do, se refiere al lugar, incluidos los alrededores, donde se realiza la mayor parte de las negociaciones entre Corea del Norte y Corea del Sur, la cual está localizada en la zona desmilitarizada que se encuentra entre ambos países, es el lugar donde se firmó el armisticio en 1953, que detuvo la guerra que había comenzado en 1950."
+    }
+  },
   "paris": {
     "title": "Paris",
     "url": "https://en.wikipedia.org/wiki/Paris",
@@ -4322,6 +4462,20 @@
       "extract": "Potosí, o Villa Imperial de Potosí, es una ciudad del suroeste de Bolivia, capital y ciudad más poblada del departamento homónimo y de la provincia de Frías. Fundada en 1545, fue uno de los centros mineros más importantes de la época colonial. Se extiende a las faldas de la legendaria montaña llamada Cerro Rico, en la cual se situó la mina de plata más grande del mundo desde mediados del siglo XVI hasta mediados del siglo XVII, convirtiéndola rápidamente en uno de los centros urbanos más prósperos y poblados del siglo XVI y XVII, llegando a financiar la economía del imperio español y mundial."
     }
   },
+  "potsdam": {
+    "title": "Potsdam",
+    "url": "https://en.wikipedia.org/wiki/Potsdam",
+    "extract": "Potsdam is the capital and largest city of the German state of Brandenburg. It is part of the Berlin/Brandenburg Metropolitan Region. Potsdam sits on the River Havel, a tributary of the Elbe, downstream of Berlin, and lies embedded in a hilly morainic landscape dotted with many lakes, around 20 of which are located within Potsdam's city limits. It lies some 25 kilometres southwest of Berlin's city centre. The name of the city and of many of its boroughs are of Slavic origin.",
+    "description": "Capital of Brandenburg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg/330px-Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg",
+    "lat": 52.40055556,
+    "lon": 13.05916667,
+    "es": {
+      "title": "Potsdam",
+      "url": "https://es.wikipedia.org/wiki/Potsdam",
+      "extract": "Potsdam es una ciudad alemana ubicada en las inmediaciones de Berlín, junto al río Havel. Tiene una población estimada, a fines de 2021, de 183,154 habitantes."
+    }
+  },
   "prague": {
     "title": "Prague",
     "url": "https://en.wikipedia.org/wiki/Prague",
@@ -4362,6 +4516,20 @@
       "title": "Pilos",
       "url": "https://es.wikipedia.org/wiki/Pilos",
       "extract": "Pilos es el nombre de una bahía, de una unidad municipal y de una ciudad ubicadas en la costa sudoeste del Peloponeso, pertinente a la unidad periférica de Mesenia y al municipio de Pilos-Néstor en el sur de Grecia. En el año 2021, la población del núcleo urbano era 2568 habitantes, mientras la unidad municipal tenía 4559."
+    }
+  },
+  "pyongyang": {
+    "title": "Pyongyang",
+    "url": "https://en.wikipedia.org/wiki/Pyongyang",
+    "extract": "Pyongyang (Korean: 평양) is the capital and largest city of North Korea. According to the 2008 population census, it has a population of 3,255,288. Pyongyang is located on the Taedong River about 109 kilometers upstream from its mouth on the Yellow Sea. Pyongyang is a directly administered city with a status equal to that of the North Korean provinces.",
+    "description": "Capital and largest city of North Korea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ryugyong_Hotel._Pyongyang%2C_North_Korea._%282605005424%29.jpg/330px-Ryugyong_Hotel._Pyongyang%2C_North_Korea._%282605005424%29.jpg",
+    "lat": 39.01666667,
+    "lon": 125.7475,
+    "es": {
+      "title": "Pionyang",
+      "url": "https://es.wikipedia.org/wiki/Pionyang",
+      "extract": "Pionyang es la capital y ciudad más poblada de Corea del Norte, localizada en el suroeste del país, cerca del río Taedong. En el censo de 2008, la ciudad contaba con una población de 3 255 388 habitantes. La ciudad tiene la administración de gobierno directo, al mismo nivel de una provincia."
     }
   },
   "pyrgi": {
@@ -4714,6 +4882,20 @@
       "extract": "Samos es una isla de Grecia perteneciente al grupo de las islas Espóradas Orientales. Está localizada en aguas del mar Egeo, muy próxima a la costa de Asia menor, al sur de la isla de Quíos y al norte de la isla de Patmos y del archipiélago del Dodecaneso. En 2011 contaba con una población de 32 977 habitantes."
     }
   },
+  "san-francisco": {
+    "title": "San Francisco",
+    "url": "https://en.wikipedia.org/wiki/San_Francisco",
+    "extract": "San Francisco, officially the City and County of San Francisco, is the 17th-largest city and second-densest major city in the United States, with a 2025 population of 826,079. It is the fourth-most populous city in California and the second most-populous in the Bay Area. Some 4.6 million residents live in the city's metropolitan statistical area. Around 9.2 million live in the San Jose–San Francisco–Oakland combined statistical area, the fifth-largest in the United States. San Francisco is a global center for technology and finance, and is well-known for its affluence, eclectic architecture, and mild climate.",
+    "description": "City and county in California, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/330px-Zeppelin-ride-020100925-195_%285029394846%29.jpg",
+    "lat": 37.7775,
+    "lon": -122.41638889,
+    "es": {
+      "title": "San Francisco (California)",
+      "url": "https://es.wikipedia.org/wiki/San_Francisco_(California)",
+      "extract": "San Francisco, de forma oficial Ciudad y Condado de San Francisco, es una ciudad que ocupa la cuarta posición de ciudad más poblada del estado de California y la 17.ª de Estados Unidos, con una población estimada de 827 526 habitantes a mediados de 2024. Es la única ciudad-condado consolidada de California, y al abarcar una superficie territorial de 121 km², cuenta con la tercera densidad de población más alta del país entre las ciudades que superan los doscientos mil habitantes, tras Nueva York y Ciudad de Jersey. Es el centro cultural, financiero y de transportes del Área de la Bahía de San Francisco."
+    }
+  },
   "santiago-de-los-caballeros": {
     "title": "Santiago de los Caballeros",
     "url": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros",
@@ -4826,6 +5008,20 @@
       "extract": "Esmalcalda es una ciudad alemana del estado de Turingia."
     }
   },
+  "semipalatinsk": {
+    "title": "Semipalatinsk Test Site",
+    "url": "https://en.wikipedia.org/wiki/Semipalatinsk_Test_Site",
+    "extract": "The Semipalatinsk Test Site or Semipalatinsk-21, also known as \"The Polygon\", was the primary testing venue for the Soviet Union's nuclear weapons. It is located in Zhanasemey District, Abai Region, Kazakhstan, south of the valley of the Irtysh River. The test site was part of the former Kazakh SSR. The scientific buildings for the test site were located around 150 km (93 mi) west of the town of Semipalatinsk, later renamed Semey, near the border of East Kazakhstan Region and Pavlodar Region. Most of the nuclear tests took place at various sites further to the west and the south, some as far as into Karagandy Region.",
+    "description": "Nuclear testing venue for the Soviet Union in northeast Kazakhstan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Wfm_sts_overview.png/330px-Wfm_sts_overview.png",
+    "lat": 50.38333333,
+    "lon": 77.78333333,
+    "es": {
+      "title": "Sitio de pruebas de Semipalátinsk",
+      "url": "https://es.wikipedia.org/wiki/Sitio_de_pruebas_de_Semipal%C3%A1tinsk",
+      "extract": "\n\nEl Sitio de pruebas de Semipalátinsk fue la principal instalación de pruebas nucleares de la antigua Unión Soviética. En 1949, la Unión Soviética realizó su primer ensayo nuclear, la RDS-1, en estas instalaciones. Está situada en la estepa en el noreste de Kazajistán, al sur del valle del río Irtish. Los edificios científicos se encuentran 150 km al oeste de la ciudad de Semipalátinsk, cerca de la frontera oriental de la provincia de Kazajistán Oriental y la provincia de Pavlodar."
+    }
+  },
   "sentinum": {
     "title": "Sentinum",
     "url": "https://en.wikipedia.org/wiki/Sentinum",
@@ -4834,6 +5030,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Sentinum_3.png/330px-Sentinum_3.png",
     "lat": 43.41848889,
     "lon": 12.85225
+  },
+  "seoul": {
+    "title": "Seoul",
+    "url": "https://en.wikipedia.org/wiki/Seoul",
+    "extract": "Seoul, officially Seoul Special Metropolitan City, is the capital and largest city of South Korea, and the largest city in the whole of Korea. The broader Seoul Metropolitan Area, encompassing Seoul, Gyeonggi Province and Incheon, emerged as the world's sixth largest metropolitan economy in 2022, behind New York, Tokyo, Los Angeles, Paris, and London, and hosts more than half of South Korea's population. Although Seoul's population peaked at over 10 million, it has gradually decreased since 2014, standing at about 9.6 million residents as of 2024.",
+    "description": "Capital and largest city of South Korea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg/330px-%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg",
+    "lat": 37.56,
+    "lon": 126.99,
+    "es": {
+      "title": "Seúl",
+      "url": "https://es.wikipedia.org/wiki/Se%C3%BAl",
+      "extract": "Seúl, pronunciado: [sʌ.ul] (), oficialmente Ciudad Especial de Seúl, es la capital y ciudad más poblada de Corea del Sur desde la creación de esta república en 1948, la capital histórica de Corea desde hace más de 600 años y la ciudad más poblada de la península de Corea. El área metropolitana de Seúl, abarca la provincia de Gyeonggi e Incheon, se convirtió en la sexta mayor economía metropolitana del mundo en 2022, por detrás de Tokio, Nueva York, Los Ángeles, Londres y París y acoge a más de la mitad de la población de Corea del Sur. Aunque la población de Seúl alcanzó un máximo de algo más de 10 millones, ha disminuido gradualmente desde 2014, situándose en aproximadamente 9,61 millones de residentes en 2024. Seúl es la sede del Gobierno surcoreano."
+    }
   },
   "serabit-el-khadim": {
     "title": "Serabit el-Khadim",
@@ -5131,6 +5341,20 @@
       "extract": "Siracusa es una ciudad del sureste de Italia, situada en la costa oriental de la isla de Sicilia, a orillas del mar Jónico. Es la capital de la provincia de Siracusa y posee una importante herencia histórica, cultural y arquitectónica, con vestigios de las civilizaciones griega y romana."
     }
   },
+  "szklarska-poreba": {
+    "title": "Szklarska Poręba",
+    "url": "https://en.wikipedia.org/wiki/Szklarska_Por%C4%99ba",
+    "extract": "Szklarska Poręba is a border town in Karkonosze County, Lower Silesian Voivodeship, in south-western Poland. The town has a population of around 6,500. It is a popular ski resort.",
+    "description": "Place in Lower Silesian Voivodeship, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/PL%2C_Szklarska_Por%C4%99ba_DSC_0175-001.JPG/330px-PL%2C_Szklarska_Por%C4%99ba_DSC_0175-001.JPG",
+    "lat": 50.83333333,
+    "lon": 15.53333333,
+    "es": {
+      "title": "Szklarska Poręba",
+      "url": "https://es.wikipedia.org/wiki/Szklarska_Por%C4%99ba",
+      "extract": "Szklarska Poręba es una localidad y un municipio del distrito de Jelenia Góra, en el voivodato de Baja Silesia (Polonia). En 2011, según la Oficina Central de Estadística polaca, cubría una superficie de 75,44 km² y tenía una población de 6833 habitantes."
+    }
+  },
   "talas-river": {
     "title": "Talas River",
     "url": "https://en.wikipedia.org/wiki/Talas_River",
@@ -5270,6 +5494,12 @@
       "url": "https://es.wikipedia.org/wiki/Term%C3%B3pilas",
       "extract": "Las Termópilas es un desfiladero en Grecia. Su nombre quiere decir «fuentes calientes», debido a sus numerosos manantiales naturales de aguas termales. Otra posible traducción sería \"puertas calientes\". Según el mito, las aguas de las Termópilas se calentaron cuando Heracles se sumergió en ellas mientras moría abrasado por el veneno en el cual se convirtió la sangre del centauro Neso la cual Deyanira aplicó en su túnica."
     }
+  },
+  "thirty-eighth-parallel": {
+    "title": "Circles of latitude between the 35th parallel north and the 40th parallel north",
+    "url": "https://en.wikipedia.org/wiki/Circles_of_latitude_between_the_35th_parallel_north_and_the_40th_parallel_north",
+    "extract": "Following are circles of latitude between the 35th parallel north and the 40th parallel north:",
+    "description": "Circles of latitude"
   },
   "tiberias": {
     "title": "Tiberias",
@@ -5805,6 +6035,34 @@
     "description": "Inscriptions on the Nile River's west bank",
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wadi_el-Hol_inscriptions_II_drawing.jpg/330px-Wadi_el-Hol_inscriptions_II_drawing.jpg"
   },
+  "warsaw": {
+    "title": "Warsaw",
+    "url": "https://en.wikipedia.org/wiki/Warsaw",
+    "extract": "Warsaw, officially the Capital City of Warsaw, is the capital and most populous city of Poland. The metropolis stands on the river Vistula in east-central Poland. Its population is officially estimated at 1.87 million residents within a greater metropolitan area of around 3.5 million residents, which makes Warsaw the 7th most populous city in the European Union. The city area measures 517 square kilometres and comprises 18 districts, while the metropolitan area covers 6,100 square kilometres. Warsaw is classified as an alpha global city, a major political, economic and cultural hub, and the country's seat of government. It is also the capital of the Masovian Voivodeship.",
+    "description": "Capital and largest city of Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg/330px-Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg",
+    "lat": 52.23,
+    "lon": 21.01111111,
+    "es": {
+      "title": "Varsovia",
+      "url": "https://es.wikipedia.org/wiki/Varsovia",
+      "extract": "Varsovia es la capital y ciudad más grande de Polonia desde 1596. Es también la sede del presidente de la República, del Parlamento y del resto de las autoridades centrales. Cuenta con una población de 1 745 000 habitantes, lo que la convierte en la séptima ciudad más poblada de la Unión Europea, y posee unos 3 101 000 habitantes en su área metropolitana."
+    }
+  },
+  "washington-dc": {
+    "title": "Washington, D.C.",
+    "url": "https://en.wikipedia.org/wiki/Washington%2C_D.C.",
+    "extract": "Washington, D.C., officially the District of Columbia and commonly shortened to Washington, or DC, is the capital city of the United States, and its only federal district.",
+    "description": "Capital city of the United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/330px-12-07-13-washington-by-RalfR-08.jpg",
+    "lat": 38.90472222,
+    "lon": -77.01638889,
+    "es": {
+      "title": "Washington D. C.",
+      "url": "https://es.wikipedia.org/wiki/Washington_D._C.",
+      "extract": "Washington D. C., oficialmente denominada Distrito de Columbia, es la capital federal de Estados Unidos. Se administra como distrito federal, una entidad diferente a los cincuenta estados que componen dicha nación, que depende directamente del Gobierno federal. El Distrito de Columbia fue fundado el 16 de julio de 1790, y en 1791 se oficializó, dentro del distrito, una nueva ciudad denominada Washington, al este de la ya existente Georgetown. En 1871 se unificaron los gobiernos de estas dos ciudades y del resto de poblaciones del distrito en una sola entidad, D. C.."
+    }
+  },
   "wittenberg": {
     "title": "Wittenberg",
     "url": "https://en.wikipedia.org/wiki/Wittenberg",
@@ -5873,6 +6131,34 @@
       "title": "Xiangyang",
       "url": "https://es.wikipedia.org/wiki/Xiangyang",
       "extract": "Xiangyang es una ciudad-prefectura en la provincia de Hubei, República Popular de China. Limita al norte con Nanyang, al sur con Jingmen, al oeste con Shiyan y al sureste con Suizhou.\nSu área es de 19 727 km² y su población total para 2019 superó los 5,68 millones de habitantes."
+    }
+  },
+  "yalta": {
+    "title": "Yalta",
+    "url": "https://en.wikipedia.org/wiki/Yalta",
+    "extract": "Yalta is a resort city on the south coast of the Crimean Peninsula surrounded by the Black Sea. It serves as the administrative center of Yalta Municipality, one of the regions within Crimea. Yalta, along with the rest of Crimea, is internationally recognised as part of Ukraine, and is considered part of the Autonomous Republic of Crimea. However, it is controlled de facto by Russia, which annexed Crimea in 2014 and regards the town as part of the Republic of Crimea. According to the most recent census, its population was 76,746 .",
+    "description": "City on the southern Crimean Peninsula",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Widok_na_Ja%C5%82t%C4%99_ze_statku_07.JPG/330px-Widok_na_Ja%C5%82t%C4%99_ze_statku_07.JPG",
+    "lat": 44.49944444,
+    "lon": 34.17,
+    "es": {
+      "title": "Yalta",
+      "url": "https://es.wikipedia.org/wiki/Yalta",
+      "extract": "Yalta es una ciudad de la Crimea a orillas de la costa septentrional del mar Negro, en el sur de la península. Es un importante puerto comercial y de pasajeros. La ciudad está ubicada en el sitio de la antigua colonia griega de Yalita, nombre que conservó hasta el siglo XV."
+    }
+  },
+  "yalu-river": {
+    "title": "Yalu River",
+    "url": "https://en.wikipedia.org/wiki/Yalu_River",
+    "extract": "The Yalu River or Amnok River is a river on the border between China and North Korea. Together with the Tumen River to its east, and a small portion of Paektu Mountain, the Yalu forms the border between China and North Korea. Its valley has been the scene of several military conflicts in the past centuries. \nIt borders North Korea to the south and China to the north.",
+    "description": "River on the border between China and North Korea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%E5%B7%A1%E9%81%93%E5%B7%A5%E5%87%BA%E5%93%81_photo_by_Xundaogong_-_panoramio_%2866%29.jpg/330px-%E5%B7%A1%E9%81%93%E5%B7%A5%E5%87%BA%E5%93%81_photo_by_Xundaogong_-_panoramio_%2866%29.jpg",
+    "lat": 39.86666667,
+    "lon": 124.31666667,
+    "es": {
+      "title": "Río Yalu",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Yalu",
+      "extract": "El río Yalu o río Amrok es un río fronterizo de Asia oriental. Junto con el río Tumen, al este las estribaciones del monte Paektu, forman la frontera sino-norcoreana. Su valle se convirtió en escenario de varios conflictos militares en los últimos siglos. El nombre chino proviene de una palabra manchú que significa «el límite entre dos campos». Según algún académico, la frontera entre Corea y China a lo largo del río Yalu es la frontera internacional sin cambios más larga de la historia, con al menos 1000 años."
     }
   },
   "yavneh": {

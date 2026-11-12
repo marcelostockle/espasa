@@ -449,6 +449,15 @@
       }
     }
   },
+  "berlin": {
+    "label": "Berlin",
+    "wikipedia": "Berlin",
+    "translations": {
+      "es": {
+        "label": "Berlín"
+      }
+    }
+  },
   "bern": {
     "label": "Bern",
     "wikipedia": "Bern",
@@ -503,6 +512,15 @@
       }
     }
   },
+  "bonn": {
+    "label": "Bonn",
+    "wikipedia": "Bonn",
+    "translations": {
+      "es": {
+        "label": "Bonn"
+      }
+    }
+  },
   "bourges": {
     "label": "Bourges",
     "wikipedia": "Bourges",
@@ -527,6 +545,15 @@
     "translations": {
       "es": {
         "label": "Breitenfeld"
+      }
+    }
+  },
+  "bretton-woods": {
+    "label": "Bretton Woods",
+    "wikipedia": "Bretton Woods, New Hampshire",
+    "translations": {
+      "es": {
+        "label": "Bretton Woods"
       }
     }
   },
@@ -1133,6 +1160,15 @@
       }
     }
   },
+  "east-berlin": {
+    "label": "East Berlin",
+    "wikipedia": "East Berlin",
+    "translations": {
+      "es": {
+        "label": "Berlín Oriental"
+      }
+    }
+  },
   "ebro": {
     "label": "Ebro river",
     "wikipedia": "Ebro",
@@ -1274,6 +1310,15 @@
     "translations": {
       "es": {
         "label": "Friburgo"
+      }
+    }
+  },
+  "fulton": {
+    "label": "Fulton, Missouri",
+    "wikipedia": "Fulton, Missouri",
+    "translations": {
+      "es": {
+        "label": "Fulton (Misuri)"
       }
     }
   },
@@ -1592,6 +1637,15 @@
       }
     }
   },
+  "hiroshima": {
+    "label": "Hiroshima",
+    "wikipedia": "Hiroshima",
+    "translations": {
+      "es": {
+        "label": "Hiroshima"
+      }
+    }
+  },
   "hispania": {
     "label": "Hispania",
     "wikipedia": "Hispania",
@@ -1625,6 +1679,15 @@
     "translations": {
       "es": {
         "label": "Ilipa (Alcalá del Río)"
+      }
+    }
+  },
+  "incheon": {
+    "label": "Incheon",
+    "wikipedia": "Incheon",
+    "translations": {
+      "es": {
+        "label": "Inchon"
       }
     }
   },
@@ -2321,6 +2384,15 @@
       }
     }
   },
+  "moscow": {
+    "label": "Moscow",
+    "wikipedia": "Moscow",
+    "translations": {
+      "es": {
+        "label": "Moscú"
+      }
+    }
+  },
   "mossel-bay": {
     "label": "Mossel Bay",
     "wikipedia": "Mossel Bay",
@@ -2390,6 +2462,15 @@
     "translations": {
       "es": {
         "label": "Nag Hammadi"
+      }
+    }
+  },
+  "nagasaki": {
+    "label": "Nagasaki",
+    "wikipedia": "Nagasaki",
+    "translations": {
+      "es": {
+        "label": "Nagasaki"
       }
     }
   },
@@ -2627,6 +2708,15 @@
       }
     }
   },
+  "panmunjom": {
+    "label": "Panmunjom",
+    "wikipedia": "Panmunjom",
+    "translations": {
+      "es": {
+        "label": "Panmunjom"
+      }
+    }
+  },
   "paris": {
     "label": "Paris",
     "wikipedia": "Paris",
@@ -2843,6 +2933,15 @@
       }
     }
   },
+  "potsdam": {
+    "label": "Potsdam",
+    "wikipedia": "Potsdam",
+    "translations": {
+      "es": {
+        "label": "Potsdam"
+      }
+    }
+  },
   "prague": {
     "label": "Prague",
     "wikipedia": "Prague",
@@ -2867,6 +2966,15 @@
     "translations": {
       "es": {
         "label": "Pilos"
+      }
+    }
+  },
+  "pyongyang": {
+    "label": "Pyongyang",
+    "wikipedia": "Pyongyang",
+    "translations": {
+      "es": {
+        "label": "Pionyang"
       }
     }
   },
@@ -3095,6 +3203,15 @@
       }
     }
   },
+  "san-francisco": {
+    "label": "San Francisco",
+    "wikipedia": "San Francisco",
+    "translations": {
+      "es": {
+        "label": "San Francisco"
+      }
+    }
+  },
   "santiago-de-los-caballeros": {
     "label": "Santiago",
     "wikipedia": "Santiago de los Caballeros",
@@ -3167,12 +3284,30 @@
       }
     }
   },
+  "semipalatinsk": {
+    "label": "Semipalatinsk Test Site",
+    "wikipedia": "Semipalatinsk Test Site",
+    "translations": {
+      "es": {
+        "label": "Polígono de Semipalátinsk"
+      }
+    }
+  },
   "sentinum": {
     "label": "Sentinum",
     "wikipedia": "Sentinum",
     "translations": {
       "es": {
         "label": "Sentino"
+      }
+    }
+  },
+  "seoul": {
+    "label": "Seoul",
+    "wikipedia": "Seoul",
+    "translations": {
+      "es": {
+        "label": "Seúl"
       }
     }
   },
@@ -3374,6 +3509,15 @@
       }
     }
   },
+  "szklarska-poreba": {
+    "label": "Szklarska Poręba",
+    "wikipedia": "Szklarska Poręba",
+    "translations": {
+      "es": {
+        "label": "Szklarska Poręba"
+      }
+    }
+  },
   "talas-river": {
     "label": "Talas River",
     "wikipedia": "Talas_River",
@@ -3461,6 +3605,15 @@
     "translations": {
       "es": {
         "label": "Termópilas"
+      }
+    }
+  },
+  "thirty-eighth-parallel": {
+    "label": "38th parallel",
+    "wikipedia": "38th parallel north",
+    "translations": {
+      "es": {
+        "label": "Paralelo 38"
       }
     }
   },
@@ -3815,6 +3968,24 @@
       }
     }
   },
+  "warsaw": {
+    "label": "Warsaw",
+    "wikipedia": "Warsaw",
+    "translations": {
+      "es": {
+        "label": "Varsovia"
+      }
+    }
+  },
+  "washington-dc": {
+    "label": "Washington, D.C.",
+    "wikipedia": "Washington, D.C.",
+    "translations": {
+      "es": {
+        "label": "Washington D. C."
+      }
+    }
+  },
   "wittenberg": {
     "label": "Wittenberg",
     "wikipedia": "Wittenberg",
@@ -3857,6 +4028,24 @@
     "translations": {
       "es": {
         "label": "Xiangyang"
+      }
+    }
+  },
+  "yalta": {
+    "label": "Yalta",
+    "wikipedia": "Yalta",
+    "translations": {
+      "es": {
+        "label": "Yalta"
+      }
+    }
+  },
+  "yalu-river": {
+    "label": "Yalu River",
+    "wikipedia": "Yalu River",
+    "translations": {
+      "es": {
+        "label": "Río Yalu"
       }
     }
   },
