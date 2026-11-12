@@ -59,6 +59,7 @@ const path = stripLocale(Astro.url.pathname);
     </aside>
     <footer class="site">
       <a href={localePath(locale, '/contact/')}>{strings.contact}</a>
+      <a href={localePath(locale, '/privacy/')}>{strings.privacy}</a>
     </footer>
     <PlacePopup />
     <script>
@@ -137,6 +138,7 @@ const path = stripLocale(Astro.url.pathname);
     background: linear-gradient(90deg, color-mix(in srgb, var(--tint) 24%, transparent), color-mix(in srgb, var(--tint) 6%, transparent));
   }
   footer.site { margin: 0 4rem; padding: 1rem 0 2rem; border-top: 1px solid var(--line); font-size: 0.9rem; }
+  footer.site { display: flex; gap: 1.25rem; }
   footer.site a { color: var(--muted); }
   footer.site a:hover { color: var(--fg); }
   .date { color: var(--muted); font-variant-numeric: tabular-nums; }

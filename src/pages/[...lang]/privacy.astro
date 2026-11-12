@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import { localeStaticPaths, t, toLocale } from '../../lib/i18n';
+
+export const getStaticPaths = localeStaticPaths;
+
+const locale = toLocale(Astro.currentLocale);
+const strings = t(locale);
+---
+
+<Base title={strings.privacy} description={strings.privacyIntro}>
+  <h1>{strings.privacy}</h1>
+  <p class="date">{strings.privacyIntro}</p>
+  <ul class="privacy">
+    {
+      strings.privacyItems.map(([lead, rest]) => (
+        <li>
+          <strong>{lead}</strong> {rest}
+        </li>
+      ))
+    }
+  </ul>
+</Base>
+
+<style>
+  .privacy { max-width: 46rem; padding-left: 1.1rem; }
+  .privacy li + li { margin-top: 0.75rem; }
+</style>
