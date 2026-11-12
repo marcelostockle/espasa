@@ -15,11 +15,25 @@ const strings = t(locale);
     <label>{strings.fromYear} <input id="from" type="number" step="1" placeholder={strings.any} /></label>
     <label>{strings.toYear} <input id="to" type="number" step="1" placeholder={strings.any} /></label>
     <span class="date">{strings.bceHint}</span>
+    <span class="rangebreak" aria-hidden="true"></span>
     <label><input id="detail" type="checkbox" /> {strings.showSummaries}</label>
     <label><input id="single" type="checkbox" /> {strings.singleLane}</label>
   </div>
-  <div id="picker" class="picker" role="group" aria-label={strings.topics}></div>
-  <div id="grid" class="grid" aria-live="polite"></div>
+  <div class="compare">
+    <aside id="sidebar" class="sidebar" aria-label={strings.topics}>
+      <div class="sidehead">
+        <input id="tagsearch" type="search" placeholder={strings.searchTopics} aria-label={strings.searchTopics} autocomplete="off" />
+        <button type="button" id="closeside" class="onlynarrow" aria-label={strings.close}>×</button>
+      </div>
+      <div id="chosen" class="chosen"></div>
+      <div id="picker" class="picker" role="group" aria-label={strings.topics}></div>
+      <p id="nomatch" class="date" hidden>{strings.noTopicMatches}</p>
+    </aside>
+    <div class="results">
+      <button type="button" id="openside" class="onlynarrow opener"></button>
+      <div id="grid" class="grid" aria-live="polite"></div>
+    </div>
+  </div>
   <noscript><p>{strings.needsJs} <a href={localePath(locale, '/')}>{strings.needsJsLink}</a> {strings.needsJsEnd}</p></noscript>
 </Base>
 
@@ -68,8 +82,37 @@ const strings = t(locale);
     history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
   }
 
-  function render(index: Index) {
-    const tags = index.tags.filter((t) => selected.has(t.id));
+  const sidebar = document.getElementById('sidebar')!;
+  const search = document.getElementById('tagsearch') as HTMLInputElement;
+  const chosen = document.getElementById('chosen')!;
+  const nomatch = document.getElementById('nomatch')!;
+  const openSide = document.getElementById('openside')!;
+  document.getElementById('closeside')!.addEventListener('click', () => sidebar.classList.remove('open'));
+  openSide.addEventListener('click', () => sidebar.classList.add('open'));
+
+  // Case- and accent-insensitive, so "persia" finds "Persia aqueménida".
+  const fold = (s: string) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+
+  interface PickGroup {
+    category: string;
+    el: HTMLDetailsElement;
+    badge: HTMLElement;
+    items: { li: HTMLElement; text: string; id: string }[];
+  }
+  let pickGroups: PickGroup[] = [];
+  // A tag can belong to several categories, so one tag can have several checkboxes.
+  const boxes = new Map<string, HTMLInputElement[]>();
+  // Categories the user opened by hand; search and selections open others temporarily.
+  const opened = new Set<string>();
+
+  function setSelected(id: string, on: boolean) {
+    on ? selected.add(id) : selected.delete(id);
+    syncUrl();
+    updatePicker();
+    render(loaded);
+  }
+
+  function buildPicker(index: Index) {
     const counts = new Map<string, number>();
     for (const e of index.entries) for (const id of e.tags) counts.set(id, (counts.get(id) ?? 0) + 1);
     const groups = new Map<string, Index['tags']>();
@@ -81,38 +124,115 @@ const strings = t(locale);
     const ordered = [...groups].sort(([a], [b]) =>
       a === 'Other' ? 1 : b === 'Other' ? -1 : categoryName(a, locale).localeCompare(categoryName(b, locale), locale),
     );
-    picker.replaceChildren(
-      ...ordered.map(([category, members]) => {
-        const group = document.createElement('div');
-        group.className = 'pickgroup';
-        const title = document.createElement('h3');
-        title.textContent = categoryName(category, locale);
-        const row = document.createElement('div');
-        row.className = 'pickrow';
-        row.append(
-          ...members.map((t) => {
-            const label = document.createElement('label');
-            label.className = 'chip tinted pick';
-            label.style.setProperty('--tint', t.color);
-            const box = document.createElement('input');
-            box.type = 'checkbox';
-            box.checked = selected.has(t.id);
-            box.addEventListener('change', () => {
-              box.checked ? selected.add(t.id) : selected.delete(t.id);
-              syncUrl();
-              render(index);
-            });
-            const n = document.createElement('span');
-            n.className = 'n';
-            n.textContent = String(counts.get(t.id) ?? 0);
-            label.append(box, ' ', t.label, ' ', n);
-            return label;
-          }),
-        );
-        group.append(title, row);
-        return group;
-      }),
-    );
+    pickGroups = ordered.map(([category, members]) => {
+      const el = document.createElement('details');
+      el.className = 'pickgroup';
+      const summary = document.createElement('summary');
+      const name = document.createElement('span');
+      name.className = 'gname';
+      name.textContent = categoryName(category, locale);
+      const badge = document.createElement('span');
+      badge.className = 'gbadge';
+      const total = document.createElement('span');
+      total.className = 'n';
+      total.textContent = String(members.length);
+      summary.append(name, badge, total);
+      el.addEventListener('toggle', () => {
+        if (search.value) return;
+        el.open ? opened.add(category) : opened.delete(category);
+      });
+      const list = document.createElement('ul');
+      list.className = 'picklist';
+      const sorted = [...members].sort((a, b) => a.label.localeCompare(b.label, locale));
+      const items = sorted.map((t) => {
+        const li = document.createElement('li');
+        const label = document.createElement('label');
+        label.className = 'pick';
+        label.style.setProperty('--tint', t.color);
+        const box = document.createElement('input');
+        box.type = 'checkbox';
+        box.dataset.id = t.id;
+        box.addEventListener('change', () => setSelected(t.id, box.checked));
+        boxes.set(t.id, [...(boxes.get(t.id) ?? []), box]);
+        const dot = document.createElement('span');
+        dot.className = 'dot';
+        const text = document.createElement('span');
+        text.className = 'ptext';
+        text.textContent = t.label;
+        const n = document.createElement('span');
+        n.className = 'n';
+        n.textContent = String(counts.get(t.id) ?? 0);
+        label.append(box, dot, text, n);
+        li.append(label);
+        list.append(li);
+        return { li, text: fold(t.label), id: t.id };
+      });
+      el.append(summary, list);
+      return { category, el, badge, items };
+    });
+    picker.replaceChildren(...pickGroups.map((g) => g.el));
+    applyFilter();
+  }
+
+  function applyFilter() {
+    const q = fold(search.value.trim());
+    let any = false;
+    for (const g of pickGroups) {
+      let hit = false;
+      for (const i of g.items) {
+        const show = !q || i.text.includes(q);
+        i.li.hidden = !show;
+        hit ||= show;
+      }
+      g.el.hidden = !hit;
+      g.el.open = q ? hit : opened.has(g.category) || g.items.some((i) => selected.has(i.id));
+      any ||= hit;
+    }
+    nomatch.hidden = any;
+  }
+
+  function updatePicker() {
+    for (const [id, list] of boxes) for (const b of list) b.checked = selected.has(id);
+    for (const g of pickGroups) {
+      const n = g.items.filter((i) => selected.has(i.id)).length;
+      g.badge.textContent = n ? String(n) : '';
+      g.el.classList.toggle('has-selection', n > 0);
+    }
+    const byId = new Map(loaded.tags.map((t) => [t.id, t]));
+    const chips = [...selected].flatMap((id) => {
+      const t = byId.get(id);
+      if (!t) return [];
+      const chip = document.createElement('button');
+      chip.type = 'button';
+      chip.className = 'chip tinted removable';
+      chip.style.setProperty('--tint', t.color);
+      chip.textContent = `${t.label} ×`;
+      chip.setAttribute('aria-label', `${strings.remove}: ${t.label}`);
+      chip.addEventListener('click', () => setSelected(id, false));
+      return [chip];
+    });
+    if (chips.length > 1) {
+      const clear = document.createElement('button');
+      clear.type = 'button';
+      clear.className = 'clearall';
+      clear.textContent = strings.clearAll;
+      clear.addEventListener('click', () => {
+        selected.clear();
+        syncUrl();
+        updatePicker();
+        applyFilter();
+        render(loaded);
+      });
+      chips.push(clear);
+    }
+    chosen.replaceChildren(...chips);
+    openSide.textContent = `${strings.topics} (${selected.size})`;
+  }
+
+  search.addEventListener('input', applyFilter);
+
+  function render(index: Index) {
+    const tags = index.tags.filter((t) => selected.has(t.id));
 
     if (!tags.length) {
       grid.replaceChildren(Object.assign(document.createElement('p'), { textContent: strings.selectOne }));
@@ -207,14 +327,111 @@ const strings = t(locale);
 
   const res = await fetch(localePath(locale, '/timeline.json'));
   loaded = (await res.json()) as Index;
+  buildPicker(loaded);
+  updatePicker();
   render(loaded);
 </script>
 
 <style is:global>
-  .picker { display: flex; gap: 1rem 2.5rem; flex-wrap: wrap; margin: 1rem 0 1.5rem; }
-  .pickgroup h3 { margin: 0 0 0.25rem; font-size: 0.95rem; }
-  .pickrow { display: flex; gap: 0.4rem; flex-wrap: wrap; }
-  .pickrow .n { opacity: 0.7; font-variant-numeric: tabular-nums; }
+  .compare { display: grid; grid-template-columns: 19rem minmax(0, 1fr); gap: 2rem; align-items: start; margin-top: 1.25rem; }
+  .sidebar {
+    position: sticky;
+    top: 1rem;
+    max-height: calc(100vh - 2rem);
+    overflow-y: auto;
+    padding-right: 1.25rem;
+    border-right: 2px solid color-mix(in srgb, var(--fg) 25%, var(--bg));
+  }
+  .sidehead { display: flex; gap: 0.5rem; position: sticky; top: 0; background: var(--bg); padding-bottom: 0.5rem; z-index: 1; }
+  .sidebar input[type="search"] {
+    flex: 1;
+    min-width: 0;
+    padding: 0.4rem 0.6rem;
+    font: inherit;
+    color: inherit;
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 0.3rem;
+  }
+  .chosen { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.75rem; }
+  .chosen:empty { display: none; }
+  .chip.removable { cursor: pointer; font-family: inherit; color: var(--fg); }
+  .chip.removable:hover { border-color: var(--tint); }
+  .clearall { background: none; border: 0; color: var(--muted); font: inherit; font-size: 0.8rem; text-decoration: underline; cursor: pointer; }
+  .pickgroup { border-top: 1px solid var(--line); }
+  .pickgroup[hidden], .picklist li[hidden] { display: none; }
+  .pickgroup summary {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.4rem 0;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  .pickgroup .gname { flex: 1; }
+  .gbadge:not(:empty) {
+    padding: 0 0.45rem;
+    border-radius: 999px;
+    background: var(--fg);
+    color: var(--bg);
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+  .picker .n { color: var(--muted); font-size: 0.8rem; font-weight: 400; font-variant-numeric: tabular-nums; }
+  .picklist { list-style: none; margin: 0 0 0.5rem; padding: 0; }
+  .pick {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.2rem 0.4rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  .pick:hover { background: color-mix(in srgb, var(--fg) 6%, transparent); }
+  .pick .ptext { flex: 1; }
+  .pick .dot { width: 0.6rem; height: 0.6rem; border-radius: 50%; background: var(--tint); flex: none; }
+  .pick:has(input:checked) { background: linear-gradient(90deg, color-mix(in srgb, var(--tint) 30%, transparent), color-mix(in srgb, var(--tint) 8%, transparent)); }
+  .opener, #closeside {
+    padding: 0.35rem 0.8rem;
+    font: inherit;
+    color: inherit;
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 0.3rem;
+    cursor: pointer;
+  }
+  .onlynarrow { display: none; }
+  /* Solid, full-width call to action on narrow screens. */
+  .opener {
+    display: none;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.7rem 1rem;
+    font-weight: 600;
+    background: var(--fg);
+    color: var(--bg);
+    border-color: var(--fg);
+  }
+  .rangebreak { display: none; }
+  @media (max-width: 56rem) {
+    .rangebreak { display: block; flex-basis: 100%; height: 0; }
+    .compare { grid-template-columns: minmax(0, 1fr); }
+    .onlynarrow { display: inline-block; }
+    .opener.onlynarrow { display: block; }
+    .sidebar {
+      border-right: 0;
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 20;
+      max-height: none;
+      padding: 1rem 1.25rem;
+      background: var(--bg);
+    }
+    .sidebar.open { display: block; }
+  }
   .range { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-top: 1rem; }
   .range input {
     width: 7rem;
@@ -229,12 +446,7 @@ const strings = t(locale);
     width: auto;
     margin-right: 0.25rem;
   }
-  .pick { cursor: pointer; }
   .pick input { accent-color: var(--tint); }
-  .pick:has(input:checked) {
-    border-color: var(--tint);
-    background: linear-gradient(90deg, color-mix(in srgb, var(--tint) 45%, transparent), color-mix(in srgb, var(--tint) 15%, transparent));
-  }
   .grid {
     display: grid;
     grid-template-columns: 9rem repeat(var(--cols, 1), minmax(9rem, 1fr));
