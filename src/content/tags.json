@@ -42,6 +42,48 @@
       }
     }
   },
+  "anwar-sadat": {
+    "label": "Anwar Sadat",
+    "color": "#8c7a45",
+    "description": "President of Egypt (1970-1981), who fought the 1973 war and then made peace with Israel.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Anwar el Sadat",
+        "description": "Presidente de Egipto (1970-1981), que libró la guerra de 1973 y luego hizo la paz con Israel."
+      }
+    }
+  },
+  "arab-israeli-conflict": {
+    "label": "Arab-Israeli conflict",
+    "color": "#3f7f93",
+    "description": "The conflict between Israel, the Palestinians and neighboring Arab states from the 1940s onward, including its wars, displacement and peace efforts.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Conflicto árabe-israelí",
+        "description": "El conflicto entre Israel, los palestinos y los Estados árabes vecinos desde los años cuarenta, con sus guerras, desplazamientos y esfuerzos de paz."
+      }
+    }
+  },
+  "arab-nationalism": {
+    "label": "Arab nationalism",
+    "color": "#b34f7a",
+    "description": "The political movement for Arab unity and independence from foreign control, from Nasserism to the Ba'ath Party.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Nacionalismo árabe",
+        "description": "El movimiento político por la unidad árabe y la independencia frente al control extranjero, del nasserismo al partido Baaz."
+      }
+    }
+  },
   "archaeology": {
     "label": "Archaeology",
     "color": "#bcaaa4",
@@ -582,6 +624,21 @@
       }
     }
   },
+  "egypt": {
+    "label": "Egypt",
+    "color": "#c9a66b",
+    "description": "Modern Egypt from the 1952 revolution onward: its governments, wars and foreign policy.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Egipto",
+        "description": "El Egipto moderno desde la revolución de 1952: sus gobiernos, guerras y política exterior."
+      }
+    }
+  },
   "electoral-palatinate": {
     "label": "Electoral Palatinate",
     "color": "#26a69a",
@@ -720,6 +777,20 @@
       "es": {
         "label": "Guerra de las Galias",
         "description": "La conquista de la Galia por César (58-50 a. C.), sus cruces del Rin y desembarcos en Britania, y la revuelta de Vercingétorix."
+      }
+    }
+  },
+  "gamal-abdel-nasser": {
+    "label": "Gamal Abdel Nasser",
+    "color": "#a06a3c",
+    "description": "Egyptian officer and president (1954-1970), leader of Arab nationalism and of the Non-Aligned world.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Gamal Abdel Nasser",
+        "description": "Militar y presidente egipcio (1954-1970), líder del nacionalismo árabe y del mundo no alineado."
       }
     }
   },
@@ -1048,6 +1119,36 @@
       }
     }
   },
+  "iran": {
+    "label": "Iran",
+    "color": "#12a37f",
+    "description": "Iran under the Pahlavi shahs and the Islamic Republic, including its oil politics and foreign relations.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Irán",
+        "description": "Irán bajo los shas Pahlavi y la República Islámica, con su política petrolera y sus relaciones exteriores."
+      }
+    }
+  },
+  "iraq": {
+    "label": "Iraq",
+    "color": "#a07d2e",
+    "description": "Modern Iraq: its monarchy, republic and Ba'athist state, and its wars.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Irak",
+        "description": "El Irak moderno: su monarquía, su república y su Estado baazista, y sus guerras."
+      }
+    }
+  },
   "islamic-golden-age": {
     "label": "Islamic Golden Age",
     "color": "#3ca0dc",
@@ -1059,6 +1160,21 @@
       "es": {
         "label": "Edad de Oro islámica",
         "description": "El saber del mundo islámico desde c. 750 hasta 1258 d. C.: el movimiento de traducción de Bagdad, la filosofía, la ciencia y la erudición árabes, y su transmisión a Europa. No incluye la historia política ni militar."
+      }
+    }
+  },
+  "israel": {
+    "label": "Israel",
+    "color": "#4a6fe3",
+    "description": "The State of Israel, founded in 1948: its government, wars and foreign relations.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Israel",
+        "description": "El Estado de Israel, fundado en 1948: su gobierno, sus guerras y sus relaciones exteriores."
       }
     }
   },
@@ -1259,6 +1375,21 @@
       "es": {
         "label": "Edad del Bronce Final",
         "description": "El Mediterráneo oriental y el Próximo Oriente c. 1600-1050 a. C.: los estados palaciales y las redes comerciales de Egipto, Hatti, la Grecia micénica y el Levante, y su alteración hacia el 1200 a. C."
+      }
+    }
+  },
+  "lebanon": {
+    "label": "Lebanon",
+    "color": "#b83a3a",
+    "description": "Lebanon and its civil war, sectarian politics and the foreign powers entangled in it.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Líbano",
+        "description": "El Líbano y su guerra civil, su política sectaria y las potencias extranjeras implicadas."
       }
     }
   },
@@ -1573,6 +1704,20 @@
       }
     }
   },
+  "oil-politics": {
+    "label": "Oil politics",
+    "color": "#3a3a3a",
+    "description": "Oil as a factor in world politics, from concessions and nationalizations to OPEC and the embargoes and price shocks of the 1970s.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Política del petróleo",
+        "description": "El petróleo como factor de la política mundial, de las concesiones y nacionalizaciones a la OPEP y los embargos y crisis de precios de los años setenta."
+      }
+    }
+  },
   "opium-wars": {
     "label": "Opium Wars",
     "color": "#a45a52",
@@ -1598,6 +1743,20 @@
       "es": {
         "label": "Imperio otomano",
         "description": "El Estado otomano y sus sultanes, desde la conquista de Constantinopla en 1453 hasta el repliegue de Europa central hacia 1700."
+      }
+    }
+  },
+  "palestinians": {
+    "label": "Palestinians",
+    "color": "#7aa05b",
+    "description": "The Arab people of Palestine, their displacement in 1948, life under occupation and national movement.",
+    "categories": [
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Palestinos",
+        "description": "El pueblo árabe de Palestina, su desplazamiento en 1948, su vida bajo ocupación y su movimiento nacional."
       }
     }
   },
@@ -1713,6 +1872,35 @@
       "es": {
         "label": "Platón",
         "description": "El filósofo ateniense Platón (c. 428-348 a. C.): sus diálogos, la Academia y sus viajes a Siracusa."
+      }
+    }
+  },
+  "plo": {
+    "label": "Palestine Liberation Organization",
+    "color": "#6f9e3c",
+    "description": "The umbrella organization of Palestinian national movements founded in 1964, led by Yasser Arafat from 1969.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Organización para la Liberación de Palestina",
+        "description": "La organización paraguas de los movimientos nacionales palestinos fundada en 1964 y dirigida por Yasir Arafat desde 1969."
+      }
+    }
+  },
+  "political-islam": {
+    "label": "Political Islam",
+    "color": "#2f9a5b",
+    "description": "Movements and states that seek to organize politics and law on Islamic principles, from the Muslim Brotherhood to Khomeini.",
+    "categories": [
+      "Society",
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Islam político",
+        "description": "Movimientos y Estados que buscan organizar la política y la ley según principios islámicos, de los Hermanos Musulmanes a Jomeini."
       }
     }
   },
@@ -1986,6 +2174,21 @@
       }
     }
   },
+  "saudi-arabia": {
+    "label": "Saudi Arabia",
+    "color": "#1f7a4d",
+    "description": "The Kingdom of Saudi Arabia: its rulers, oil wealth, role in Islam and foreign relations.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Arabia Saudita",
+        "description": "El Reino de Arabia Saudita: sus gobernantes, su riqueza petrolera, su papel en el islam y sus relaciones exteriores."
+      }
+    }
+  },
   "science": {
     "label": "Science",
     "color": "#2a7de1",
@@ -2184,6 +2387,20 @@
       }
     }
   },
+  "suez-crisis": {
+    "label": "Suez Crisis",
+    "color": "#d17a3a",
+    "description": "The 1956 crisis in which Britain, France and Israel invaded Egypt after Nasser nationalized the Suez Canal.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Crisis de Suez",
+        "description": "La crisis de 1956 en que Gran Bretaña, Francia e Israel invadieron Egipto tras nacionalizar Nasser el canal de Suez."
+      }
+    }
+  },
   "sulla": {
     "label": "Sulla",
     "color": "#c42bb0",
@@ -2237,6 +2454,21 @@
       "es": {
         "label": "Confederación Suiza",
         "description": "La antigua Confederación Suiza de los cantones y sus aliados, como Berna, Friburgo y Zúrich, y el Estado suizo que surgió de ella."
+      }
+    }
+  },
+  "syria": {
+    "label": "Syria",
+    "color": "#7d5ba6",
+    "description": "Modern Syria, including the Ba'ath Party and the Assad regime.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Siria",
+        "description": "La Siria moderna, incluido el partido Baaz y el régimen de los Asad."
       }
     }
   },

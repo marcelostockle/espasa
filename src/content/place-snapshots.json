@@ -167,6 +167,20 @@
       "extract": "Amarna es el nombre árabe de una región egipcia situada en la ribera oriental del río Nilo, célebre por ser el enclave donde se edificó la ciudad de Ajetatón a mediados del siglo XIV a. C. la nueva capital de Egipto."
     }
   },
+  "amman": {
+    "title": "Amman",
+    "url": "https://en.wikipedia.org/wiki/Amman",
+    "extract": "Amman is the capital and the largest city of Jordan, and the country's economic, political, and cultural center. With a population of five million as of 2026, Amman is Jordan's primate city and is the largest city in the Levant region, the seventh-largest city in the Arab world, and the eighth-largest metropolitan area in the Middle East.",
+    "description": "Capital city of Jordan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/New_Abdali_2024.png/330px-New_Abdali_2024.png",
+    "lat": 31.94972222,
+    "lon": 35.93277778,
+    "es": {
+      "title": "Amán",
+      "url": "https://es.wikipedia.org/wiki/Am%C3%A1n",
+      "extract": "Amán, conocido anteriormente en Occidente como Filadelfia por influencia grecorromana, es la capital del Reino Hachemita de Jordania además de ser el centro comercial, industrial y administrativo del reino. Su población es de 4 007 526, siendo el 40 por ciento aproximadamente de la población del país. Es una de las ciudades árabes más liberales y occidentalizadas."
+    }
+  },
   "amphipolis": {
     "title": "Amphipolis",
     "url": "https://en.wikipedia.org/wiki/Amphipolis",
@@ -708,6 +722,20 @@
       "extract": "Pekín o Beijing\n(en chino, 北京; pinyin, )\nes la capital de la República Popular China y una de las ciudades más pobladas del mundo. La municipalidad de Pekín, que incluye otras varias ciudades, contaba con 21 890 000 habitantes en 2020. Es, junto con Shanghái, Tianjin y Chongqing, uno de los cuatro municipios bajo jurisdicción central del país."
     }
   },
+  "beirut": {
+    "title": "Beirut",
+    "url": "https://en.wikipedia.org/wiki/Beirut",
+    "extract": "Beirut is the capital and largest city of Lebanon. As of 2025, Greater Beirut has a population of 2.4 million, just under half of Lebanon's population, which makes it the twelfth-largest city in the Levant region and the sixteenth-largest in the Arab world. The city is situated on a peninsula at the midpoint of Lebanon's Mediterranean coast. Beirut has been inhabited for more than 5,000 years, making it one of the oldest cities in the world.",
+    "description": "Capital and largest city of Lebanon",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg/330px-Platinum_Tower_3_-_Beirut_-_Nabil_Gholam_Achitects.jpg",
+    "lat": 33.89805556,
+    "lon": 35.50583333,
+    "es": {
+      "title": "Beirut",
+      "url": "https://es.wikipedia.org/wiki/Beirut",
+      "extract": "Beirut es la capital y principal puerto marítimo del Líbano. Perteneciente a la gobernación de Beirut, en 2019 se estimaba que su población era de unos 3 300 000 habitantes."
+    }
+  },
   "benevento": {
     "title": "Benevento",
     "url": "https://en.wikipedia.org/wiki/Benevento",
@@ -1067,6 +1095,20 @@
       "title": "Cambridge (Massachusetts)",
       "url": "https://es.wikipedia.org/wiki/Cambridge_(Massachusetts)",
       "extract": "Cambridge es una ciudad ubicada en el condado de Middlesex en el estado de Massachusetts, Estados Unidos. En el Censo de 2020 tenía una población de 118 403 habitantes y una densidad poblacional de 7182 personas por km². Se encuentra al este del estado, a las afueras de Boston."
+    }
+  },
+  "camp-david": {
+    "title": "Camp David",
+    "url": "https://en.wikipedia.org/wiki/Camp_David",
+    "extract": "Camp David is a 125-acre (51-hectare) country retreat for the president of the United States. It lies in the wooded hills of Catoctin Mountain Park, in Frederick County, Maryland, near the towns of Thurmont and Emmitsburg, about 62 miles north-northwest of Washington, D.C. It is officially named Naval Support Facility Thurmont. Technically a military installation, it is staffed primarily by the Seabees, the Civil Engineer Corps (CEC), the United States Navy, and the United States Marine Corps. Naval construction battalions are tasked with Camp David construction and send detachments as needed.",
+    "description": "Country retreat of the US president",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Laurel_Cabin%2C_Camp_David_2012.jpg/330px-Laurel_Cabin%2C_Camp_David_2012.jpg",
+    "lat": 39.64833333,
+    "lon": -77.465,
+    "es": {
+      "title": "Camp David",
+      "url": "https://es.wikipedia.org/wiki/Camp_David",
+      "extract": "Camp David es un refugio rural de 51 hectáreas para el presidente de los Estados Unidos. Se encuentra en las colinas boscosas del Parque de la Montaña Catoctin, en el Condado de Frederick (Maryland), cerca de las ciudades de Thurmont y Emmitsburg, a unos 100 kilómetros al nornoroeste de la capital, Washington D. C.Su nombre en clave es Instalación de Apoyo Naval Thurmont. Técnicamente, es una instalación militar, y su personal está compuesto principalmente por los Seabees, el Cuerpo de Ingenieros Civiles, la Armada y el Cuerpo de Marines. Los batallones de construcción naval se encargan de la construcción de Camp David y envían destacamentos según sea necesario."
     }
   },
   "cannae": {
@@ -2295,6 +2337,20 @@
       "extract": "Graz históricamente conocida en español como Graetz, es una ciudad austriaca, capital del estado federado de Estiria. Es la segunda ciudad más grande del país. Ciudad universitaria por excelencia, fue nombrada Capital Europea de la Cultura en el año 2003."
     }
   },
+  "great-bitter-lake": {
+    "title": "Great Bitter Lake",
+    "url": "https://en.wikipedia.org/wiki/Great_Bitter_Lake",
+    "extract": "The Great Bitter Lake is a large saltwater lake in Egypt which is part of the Suez Canal. Before the canal was built in 1869, the Great Bitter Lake was a dry salt valley or basin. References are made to the Great Bitter Lake in the ancient Pyramid Texts.",
+    "description": "Saltwater lake that is part of the Suez Canal in Egypt",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Great_Bitter_Lake%2C_Egypt.jpg/330px-Great_Bitter_Lake%2C_Egypt.jpg",
+    "lat": 30.3225,
+    "lon": 32.3825,
+    "es": {
+      "title": "Gran Lago Amargo",
+      "url": "https://es.wikipedia.org/wiki/Gran_Lago_Amargo",
+      "extract": "El Gran Lago Amargo es un lago de agua salada de Egipto, situado entre las partes norte y sur del canal de Suez. Se halla contiguo al Pequeño Lago Amargo. Los dos lagos ocupan conjuntamente un área de 250 km². También se comunica por el norte, a través del canal de Suez, con el lago Manzala y con el lago Timsah."
+    }
+  },
   "great-moravia": {
     "title": "Great Moravia",
     "url": "https://en.wikipedia.org/wiki/Great_Moravia",
@@ -2664,6 +2720,20 @@
       "title": "Istmia",
       "url": "https://es.wikipedia.org/wiki/Istmia",
       "extract": "Istmia es un sitio arqueológico, antiguo santuario de Poseidón, situado al noreste del Peloponeso (Grecia) cerca del istmo de Corinto, donde en la Antigüedad tenían lugar los Juegos Ístmicos."
+    }
+  },
+  "jabalia": {
+    "title": "Jabalia",
+    "url": "https://en.wikipedia.org/wiki/Jabalia",
+    "extract": "Jabalia, also spelled Jabalya, is a city in the Gaza Strip, Palestine, located 4 kilometers (2.5 mi) north of Gaza City, in the North Gaza Governorate of the Gaza Strip. According to the Palestinian Central Bureau of Statistics, Jabalia had a population of 172,704 in 2017. In addition to Jabalia, the city municipality contains the Jabalia refugee camp and the town of Nazla, the latter of which was an independent village council before being merged with Jabalia.",
+    "description": "City in northern Gaza, Palestine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6099.jpg/330px-Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6099.jpg",
+    "lat": 31.52805556,
+    "lon": 34.48305556,
+    "es": {
+      "title": "Jabaliya",
+      "url": "https://es.wikipedia.org/wiki/Jabaliya",
+      "extract": "Jabaliya, Jabalia o Yabalia es una ciudad palestina ubicada cuatro kilómetros al norte de Gaza. La ciudad está en la Gobernación del Norte en la Franja de Gaza. Según la Oficina Central Palestina de Estadística, el municipio tenía una población de 82.877 personas a mediados del año 2006."
     }
   },
   "janiculum": {
@@ -5509,6 +5579,20 @@
       "extract": "Subiaco es un municipio de 9.332 habitantes, a 408 m s. n. m. en el valle superior del Aniene, en la ribera oriental del río."
     }
   },
+  "suez-canal": {
+    "title": "Suez Canal",
+    "url": "https://en.wikipedia.org/wiki/Suez_Canal",
+    "extract": "The Suez Canal is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez and dividing Africa and Asia. The 193.3-kilometre-long (120.1-mile) canal is a key trade route between Europe and Asia.",
+    "description": "Artificial sea-level waterway in Egypt",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Iss016e019375.jpg/330px-Iss016e019375.jpg",
+    "lat": 30.705,
+    "lon": 32.34416667,
+    "es": {
+      "title": "Canal de Suez",
+      "url": "https://es.wikipedia.org/wiki/Canal_de_Suez",
+      "extract": "El canal de Suez es un canal artificial navegable situado en Egipto, que une el mar Mediterráneo con el golfo de Suez, en el mar Rojo, a través del istmo de Suez. El canal convirtió a la región de la península del Sinaí en una nueva península, constituyendo la frontera entre los continentes de África y Asia. Su longitud es de 193 km entre Puerto Saíd, en la ribera mediterránea, y Suez, en la costa del mar Rojo."
+    }
+  },
   "susa": {
     "title": "Susa",
     "url": "https://en.wikipedia.org/wiki/Susa",
@@ -5619,6 +5703,20 @@
       "title": "Tarento",
       "url": "https://es.wikipedia.org/wiki/Tarento",
       "extract": "Tarento es una ciudad del sur de Italia, en la región de Apulia. Ubicada a orillas del mar Jónico, en el istmo de la península salentina, da nombre al golfo de Tarento. El casco antiguo de la ciudad se sitúa en una pequeña isla entre el Mediterráneo y el mare Piccolo, una bahía casi cerrada. Fue fundada en el año 706 a. C. con el nombre de Taras."
+    }
+  },
+  "tel-aviv": {
+    "title": "Tel Aviv",
+    "url": "https://en.wikipedia.org/wiki/Tel_Aviv",
+    "extract": "Tel Aviv, officially Tel Aviv-Yafo, and also known as Tel Aviv-Jaffa, is the most populous city in the Gush Dan metropolitan area of Israel. Located on the Israeli Mediterranean coastline and with a population of 494,900, it is the economic and technological center of the country and a global high-tech hub. If East Jerusalem is considered part of Israel, Tel Aviv is the country's second-most-populous city, after Jerusalem; if not, Tel Aviv is the most populous city, ahead of West Jerusalem.",
+    "description": "City in Central Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Sarona_CBD_01_%28cropped%29.jpg/330px-Sarona_CBD_01_%28cropped%29.jpg",
+    "lat": 32.08,
+    "lon": 34.78,
+    "es": {
+      "title": "Tel Aviv",
+      "url": "https://es.wikipedia.org/wiki/Tel_Aviv",
+      "extract": "Tel Aviv-Yafo, generalmente llamada Tel Aviv, es la segunda ciudad más poblada de Israel con una población aproximada de 411 800 habitantes. Tiene una superficie de 51,4 km² y está situada en la costa mediterránea del país. Se trata de la mayor y más poblada ciudad en el área metropolitana del Gush Dan, donde residen 3 850 000 personas. El actual alcalde de la ciudad es Ron Huldai, del partido Demócratas."
     }
   },
   "temple-mount": {

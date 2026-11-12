@@ -107,6 +107,15 @@
       }
     }
   },
+  "amman": {
+    "label": "Amman",
+    "wikipedia": "Amman",
+    "translations": {
+      "es": {
+        "label": "Amán"
+      }
+    }
+  },
   "amphipolis": {
     "label": "Amphipolis",
     "wikipedia": "Amphipolis",
@@ -458,6 +467,15 @@
       }
     }
   },
+  "beirut": {
+    "label": "Beirut",
+    "wikipedia": "Beirut",
+    "translations": {
+      "es": {
+        "label": "Beirut"
+      }
+    }
+  },
   "benevento": {
     "label": "Beneventum (Benevento)",
     "wikipedia": "Benevento",
@@ -698,6 +716,15 @@
     "translations": {
       "es": {
         "label": "Cambridge (Massachusetts)"
+      }
+    }
+  },
+  "camp-david": {
+    "label": "Camp David",
+    "wikipedia": "Camp David",
+    "translations": {
+      "es": {
+        "label": "Camp David"
       }
     }
   },
@@ -1502,6 +1529,15 @@
       }
     }
   },
+  "great-bitter-lake": {
+    "label": "Great Bitter Lake",
+    "wikipedia": "Great Bitter Lake",
+    "translations": {
+      "es": {
+        "label": "Gran Lago Amargo"
+      }
+    }
+  },
   "great-moravia": {
     "label": "Great Moravia",
     "wikipedia": "Great Moravia",
@@ -1751,6 +1787,15 @@
     "translations": {
       "es": {
         "label": "Istmia"
+      }
+    }
+  },
+  "jabalia": {
+    "label": "Jabalia",
+    "wikipedia": "Jabalia",
+    "translations": {
+      "es": {
+        "label": "Yabalia"
       }
     }
   },
@@ -3617,6 +3662,15 @@
       }
     }
   },
+  "suez-canal": {
+    "label": "Suez Canal",
+    "wikipedia": "Suez Canal",
+    "translations": {
+      "es": {
+        "label": "Canal de Suez"
+      }
+    }
+  },
   "susa": {
     "label": "Susa",
     "wikipedia": "Susa",
@@ -3686,6 +3740,15 @@
     "translations": {
       "es": {
         "label": "Tarento (Taranto)"
+      }
+    }
+  },
+  "tel-aviv": {
+    "label": "Tel Aviv",
+    "wikipedia": "Tel Aviv",
+    "translations": {
+      "es": {
+        "label": "Tel Aviv"
       }
     }
   },
