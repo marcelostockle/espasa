@@ -440,6 +440,20 @@
       }
     }
   },
+  "early-caliphate": {
+    "label": "Early caliphate",
+    "color": "#c8c814",
+    "description": "The first Islamic caliphates, the Rashidun and the Umayyads (632-750), and the Abbasid takeover up to the founding of Baghdad (762): conquests, civil wars and the institutions of the early Muslim state.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Califato temprano",
+        "description": "Los primeros califatos islámicos, el rashidún y el omeya (632-750), y el ascenso abasí hasta la fundación de Bagdad (762): conquistas, guerras civiles e instituciones del primer Estado musulmán."
+      }
+    }
+  },
   "early-christianity": {
     "label": "Early Christianity",
     "color": "#33691e",
@@ -1202,6 +1216,20 @@
       }
     }
   },
+  "muhammad": {
+    "label": "Muhammad",
+    "color": "#3c50dc",
+    "description": "Muhammad (c. 570-632), the Prophet of Islam, and the early Islamic community in his lifetime: the revelations, the Hijra to Medina and his death. Much of the evidence is traditional.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Mahoma",
+        "description": "Mahoma (c. 570-632), el Profeta del islam, y la primera comunidad islámica en vida suya: las revelaciones, la hégira a Medina y su muerte. Buena parte de las pruebas es tradicional."
+      }
+    }
+  },
   "music": {
     "label": "Music",
     "color": "#5e35b1",
@@ -1612,6 +1640,20 @@
       "es": {
         "label": "Imperio ruso",
         "description": "El Imperio ruso y sus zares."
+      }
+    }
+  },
+  "sasanian-empire": {
+    "label": "Sasanian Empire",
+    "color": "#c8783c",
+    "description": "The Persian empire of the Sasanian dynasty (224-651 CE): its wars with Rome and Byzantium, its exhaustion after 628 and its fall to the Arab conquest.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Imperio sasánida",
+        "description": "El imperio persa de la dinastía sasánida (224-651 d. C.): sus guerras con Roma y Bizancio, su agotamiento tras 628 y su caída ante la conquista árabe."
       }
     }
   },

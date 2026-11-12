@@ -1470,6 +1470,20 @@
       "extract": "Crotona es una ciudad y municipio con 61 392 habitantes (2009), capital de la provincia de Crotona, en la costa oriental de Calabria (Italia), frente al mar Jónico, en la zona llamada golfo de Tarento."
     }
   },
+  "ctesiphon": {
+    "title": "Ctesiphon",
+    "url": "https://en.wikipedia.org/wiki/Ctesiphon",
+    "extract": "Ctesiphon was an ancient city in modern Iraq, on the eastern bank of the Tigris, about 35 kilometres (22 mi) (22 mi) southeast of Baghdad. Ctesiphon served as a royal capital of the Iranian empires for over eight hundred years, in the Parthian and Sasanian periods. It fell in 637, during the Muslim conquest of Persia.",
+    "description": "Ancient city in present-day Iraq",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ctesiphon_map-en_reformat.svg/330px-Ctesiphon_map-en_reformat.svg.png",
+    "lat": 33.09361111,
+    "lon": 44.58055556,
+    "es": {
+      "title": "Ctesifonte",
+      "url": "https://es.wikipedia.org/wiki/Ctesifonte",
+      "extract": "Ctesifonte fue la capital de los imperios parto y sasánida. Estaba localizada a orillas del río Tigris y fue prontamente abandonada después de la fundación de Bagdad. Llegó a ser una de las ciudades más importantes de la antigua región de Mesopotamia."
+    }
+  },
   "cumae": {
     "title": "Cumae",
     "url": "https://en.wikipedia.org/wiki/Cumae",
@@ -1564,6 +1578,20 @@
       "title": "Ciudad de Dali",
       "url": "https://es.wikipedia.org/wiki/Ciudad_de_Dali",
       "extract": "Dali es un municipio bajo la jurisdicción de la ciudad-prefectura de Dali en la provincia de Yunnan, al sur de la República Popular China. Está ubicada al oeste de las montañas Cangshan y al este del Lago Erhai. Es un importante asentamiento de las minorías bai y yi aunque también hay grupos de tibetanos, hui, han y naxi. Su área es de 1739 km² y su población total para 2020 superó los 770 mil habitantes."
+    }
+  },
+  "damascus": {
+    "title": "Damascus",
+    "url": "https://en.wikipedia.org/wiki/Damascus",
+    "extract": "Damascus is the capital and largest city of Syria. It is the oldest capital city in the world. Known colloquially in Syria as aš-Šām and dubbed, poetically, the \"City of Jasmine\", Damascus is a major cultural center of the Levant and the Arab world.",
+    "description": "Capital city of Syria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Damascus%2C_Syria%2C_Panoramic_view_of_Damascus.jpg/330px-Damascus%2C_Syria%2C_Panoramic_view_of_Damascus.jpg",
+    "lat": 33.51305556,
+    "lon": 36.30944444,
+    "es": {
+      "title": "Damasco",
+      "url": "https://es.wikipedia.org/wiki/Damasco",
+      "extract": "Damasco, comúnmente conocida en Siria como الشام ash-Shām y apodada la «Ciudad del Jazmín», es la capital y la segunda ciudad más poblada de Siria después de Alepo. Además de ser una de las ciudades habitadas más antiguas del mundo con más de 4000 años de historia, Damasco es un importante centro cultural y religioso del Levante mediterráneo. La ciudad tenía una población estimada de 1 711 000 habitantes en 2009."
     }
   },
   "decelea": {
@@ -2595,6 +2623,20 @@
       "extract": "La ciudad de Kagoshima  es la ciudad capital de la prefectura de Kagoshima, sobre la región de Kyushu en la isla de Kyushu, al suroeste de Japón.\nSe estimaba que el 1 de enero de 2005 la ciudad tenía 605 650 habitantes, lo que representa una densidad de población de 1107,81 personas por km². Su extensión es de 546,71 km². La ciudad es apodada \"Nápoles de Oriente\" por su localización en una bahía, su clima templado y su localización junto al estratovolcán Sakurajima, parecido al Vesubio."
     }
   },
+  "kairouan": {
+    "title": "Kairouan",
+    "url": "https://en.wikipedia.org/wiki/Kairouan",
+    "extract": "Kairouan or Kairwan, also spelled El Qayrawān, is the capital of the Kairouan Governorate in Tunisia and a UNESCO World Heritage Site. The city was founded by the Umayyads around 670, in the period of Caliph Mu'awiya ; this is when it became an important centre for Sunni Islamic scholarship and Quranic learning, attracting Muslims from various parts of the world. The Mosque of Uqba is situated in the city.",
+    "description": "City in Kairouan Governorate, Tunisia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Montage_ville_de_Kairouan.png/330px-Montage_ville_de_Kairouan.png",
+    "lat": 35.67722222,
+    "lon": 10.10083333,
+    "es": {
+      "title": "Keruán",
+      "url": "https://es.wikipedia.org/wiki/Keru%C3%A1n",
+      "extract": "Keruán es una ciudad de Túnez y la capital de la gobernación de Keruán, localizada a unos 160 kilómetros al sur de la capital. En 2003 la ciudad tenía una población de unos 150 000 habitantes aproximadamente. Fundada alrededor del año 670, el nombre original deriva del persa Kâravân y acabó convirtiéndose en kairuwân. El 11 de agosto de 2021, fue registrada la temperatura máxima histórica de 50,3 grados Celsius (122,5 °F)."
+    }
+  },
   "kalka-river": {
     "title": "Kalchyk (river)",
     "url": "https://en.wikipedia.org/wiki/Kalchyk_(river)",
@@ -2635,6 +2677,20 @@
       "title": "Karakórum (ciudad)",
       "url": "https://es.wikipedia.org/wiki/Karak%C3%B3rum_(ciudad)",
       "extract": "Karakórum fue la capital del Imperio mongol durante el siglo XIII y de la dinastía de Yuan del Norte en los siglos XIV y XV. Sus ruinas se encuentran en la actual provincia de Övörhangay, dentro de Mongolia, cerca de la ciudad de Jarjorin."
+    }
+  },
+  "karbala": {
+    "title": "Karbala",
+    "url": "https://en.wikipedia.org/wiki/Karbala",
+    "extract": "Karbala is a major city in Iraq, and the capital of Karbala Governorate. With a population of around 800,000 people in 2024, Karbala is the second-largest city in central Iraq, after Baghdad. The city is located a few miles east of Lake Milh, also known as Razzaza Lake. With presence of the Imam Husayn and Al-Abbas Shrines, Karbala is a profoundly holy city in Shia Islam. It is one of the main political, spiritual, and cultural hubs of Shia Islam.",
+    "description": "City in Karbala Governorate, Iraq",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Karbala_City_3.jpg/330px-Karbala_City_3.jpg",
+    "lat": 32.61666667,
+    "lon": 44.03333333,
+    "es": {
+      "title": "Kerbala",
+      "url": "https://es.wikipedia.org/wiki/Kerbala",
+      "extract": "Kerbala es una ciudad de Irak, capital de la provincia de Al Kerbala."
     }
   },
   "kerameikos": {
@@ -2691,6 +2747,20 @@
       "title": "Košice",
       "url": "https://es.wikipedia.org/wiki/Ko%C5%A1ice",
       "extract": "Košice es la segunda ciudad más poblada de Eslovaquia. Está localizada en la parte este del país, en el valle del río Hornád en el valle de Košice, rodeada por las montañas de Čierna Hora al norte y las montañas Volovské Vrchy al oeste. Es sede de varias universidades y del Tribunal Constitucional de Eslovaquia."
+    }
+  },
+  "kufa": {
+    "title": "Kufa",
+    "url": "https://en.wikipedia.org/wiki/Kufa",
+    "extract": "Kufa, also spelled Kufah, is a city in Iraq, about 170 kilometres (110 mi) south of Baghdad, and 10 kilometres (6.2 mi) northeast of Najaf. It is located on the banks of the Euphrates River. The estimated population in 2003 was 110,000. Along with Najaf, Karbala, Mashhad, Kadhimiya, Samarra and Qom, Kufa is a holy city in Shia Islam.",
+    "description": "City in Najaf, Iraq",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B3%D9%87%D9%84%D8%A9.jpg/330px-%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B3%D9%87%D9%84%D8%A9.jpg",
+    "lat": 32.03,
+    "lon": 44.4,
+    "es": {
+      "title": "Kufa",
+      "url": "https://es.wikipedia.org/wiki/Kufa",
+      "extract": "Kufa es una ciudad de Irak situada a unos 170 km al sur de Bagdad y a 10 km al noroeste de Náyaf. Tenía 110.000 habitantes en 2003. Es, junto a Karbala y Náyaf una de las tres grandes ciudades chiíes de Irak."
     }
   },
   "la-isabela": {
@@ -3118,6 +3188,20 @@
       "extract": "San Carlos y San Severino de Matanzas es una ciudad y municipio de Cuba, capital de la provincia homónima. Fue fundada en octubre de 1693 entre la desembocadura de los ríos Yumurí, San Juan y Canímar."
     }
   },
+  "mecca": {
+    "title": "Mecca",
+    "url": "https://en.wikipedia.org/wiki/Mecca",
+    "extract": "Mecca, officially Makkah al-Mukarramah, is a city in the Hejaz region of western Saudi Arabia and is the capital of Mecca Province. Mecca is considered the birthplace of Islam and the Islamic prophet Muhammad, as well as being the holiest city in Islam.",
+    "description": "Holiest city in Islam and capital of Mecca Province, Saudi Arabia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/330px-Great_Mosque_of_Mecca1.jpg",
+    "lat": 21.4225,
+    "lon": 39.82333333,
+    "es": {
+      "title": "La Meca",
+      "url": "https://es.wikipedia.org/wiki/La_Meca",
+      "extract": "La Meca es la principal ciudad de la región del Hiyaz, en la actual Arabia Saudita, y una de las más importantes de la península de Arabia. Está situada al oeste de la península y cuenta con 2 385 509 habitantes, localizada en un estrecho valle, a 277 m sobre el nivel del mar; se ubica a 80 km del mar Rojo."
+    }
+  },
   "medellin": {
     "title": "Medellín, Spain",
     "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn%2C_Spain",
@@ -3130,6 +3214,20 @@
       "title": "Medellín (España)",
       "url": "https://es.wikipedia.org/wiki/Medell%C3%ADn_(Espa%C3%B1a)",
       "extract": "Medellín es un municipio y localidad española de la provincia de Badajoz, en la comunidad autónoma de Extremadura. De fundación romana, cabecera del condado homónimo durante la Edad Media y cuna de Hernán Cortés."
+    }
+  },
+  "medina": {
+    "title": "Medina",
+    "url": "https://en.wikipedia.org/wiki/Medina",
+    "extract": "Medina, officially al-Madinah al-Munawwarah, also known as al-Madinah an-Nabawiyyah and Taybah, is the capital, administrative centre, and largest city of Medina Province in the Hejaz region of western Saudi Arabia. It is the second holiest city in Islam after Mecca, and one of the oldest and most important places in Islamic history. The population as of 2022 is 1,477,023, making it the fourth-most populous city in the country. Around 58.5% of the population are Saudi citizens and 41.5% are foreigners. The city joined the UNESCO Global Network of Learning Cities in 2024. Located at the core of the Medina Province in the western reaches of the country, the city is distributed over 589 km2 (227 sq mi), of which 293 km2 (113 sq mi) constitutes the city's urban area, while the rest is occupied by the Hejaz Mountains, empty valleys, agricultural spaces, and older dormant volcanoes.",
+    "description": "Second-holiest city in Islam and Capital of Medina Province, Saudi Arabia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg/330px-Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
+    "lat": 24.47,
+    "lon": 39.61,
+    "es": {
+      "title": "Medina",
+      "url": "https://es.wikipedia.org/wiki/Medina",
+      "extract": "Medina es una ciudad en Arabia Saudita, y una de las más importantes de la península de Arabia. Aunque se la suele nombrar Medina simplemente, para diferenciarla se usan las denominaciones المدينة المنورة, مدينة النبي o مدينة رسول الله. Antes de la aparición del islam se la conocía como يثرب. Al conjunto formado por esta última ciudad y Medina se le llama en árabe Al-Haramayn Ash-Sharifayn, es decir, \"Los Dos Santos Lugares\"."
     }
   },
   "medinet-habu": {
@@ -3186,6 +3284,20 @@
       "title": "Menfis",
       "url": "https://es.wikipedia.org/wiki/Menfis",
       "extract": "Menfis, también conocida como Men-nefer, fue la antigua capital de Inebu-hedy, el primer nomo del Bajo Egipto conocido como mḥw (\"norte\"). Sus ruinas se encuentran en las inmediaciones de la actual aldea de Mit Rahina, en el condado de Badrashin, Gobernación de Guiza, Egipto."
+    }
+  },
+  "merv": {
+    "title": "Merv",
+    "url": "https://en.wikipedia.org/wiki/Merv",
+    "extract": "Merv, also called the Merve Oasis, was a major Iranian city in Central Asia, located on the historical Silk Road, near today's Mary, Turkmenistan. Human settlements on the site of Merv existed from the 3rd millennium BC until the 18th century AD. It changed hands repeatedly throughout history. Under the Achaemenid Empire, it was the center of the satrapy of Margiana. It was subsequently ruled by Hellenistic Kings, Parthians, Sasanians, Arabs, Ghaznavids, Seljuqs, Khwarazmians and Timurids, among others.",
+    "description": "Ancient major city in Central Asia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Turkmenistan_Merv_city.jpg/330px-Turkmenistan_Merv_city.jpg",
+    "lat": 37.66277778,
+    "lon": 62.1925,
+    "es": {
+      "title": "Merv",
+      "url": "https://es.wikipedia.org/wiki/Merv",
+      "extract": "Merv fue una ciudad-oasis de gran importancia de Asia Central sobre la histórica Ruta de la Seda, en el actual Turkmenistán, cerca de la actual ciudad de Mary. Durante el siglo XII fue brevemente la ciudad más poblada del mundo. En 1999 la Unesco la declaró como Patrimonio de la Humanidad, llamándolo Parque Nacional Histórico y Cultural de la Antigua Merv. Se corresponde con la actual ciudad de Erk Gala."
     }
   },
   "messene": {

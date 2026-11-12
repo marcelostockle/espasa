@@ -962,6 +962,15 @@
       }
     }
   },
+  "ctesiphon": {
+    "label": "Ctesiphon",
+    "wikipedia": "Ctesiphon",
+    "translations": {
+      "es": {
+        "label": "Ctesifonte"
+      }
+    }
+  },
   "cumae": {
     "label": "Cumae",
     "wikipedia": "Cumae",
@@ -1022,6 +1031,15 @@
     "translations": {
       "es": {
         "label": "Dali"
+      }
+    }
+  },
+  "damascus": {
+    "label": "Damascus",
+    "wikipedia": "Damascus",
+    "translations": {
+      "es": {
+        "label": "Damasco"
       }
     }
   },
@@ -1709,6 +1727,15 @@
       }
     }
   },
+  "kairouan": {
+    "label": "Kairouan",
+    "wikipedia": "Kairouan",
+    "translations": {
+      "es": {
+        "label": "Kairuán"
+      }
+    }
+  },
   "kalka-river": {
     "label": "Kalka River",
     "wikipedia": "Kalka_River",
@@ -1733,6 +1760,15 @@
     "translations": {
       "es": {
         "label": "Karakórum"
+      }
+    }
+  },
+  "karbala": {
+    "label": "Karbala",
+    "wikipedia": "Karbala",
+    "translations": {
+      "es": {
+        "label": "Kerbala"
       }
     }
   },
@@ -1769,6 +1805,15 @@
     "translations": {
       "es": {
         "label": "Košice"
+      }
+    }
+  },
+  "kufa": {
+    "label": "Kufa",
+    "wikipedia": "Kufa",
+    "translations": {
+      "es": {
+        "label": "Kufa"
       }
     }
   },
@@ -2051,12 +2096,30 @@
       }
     }
   },
+  "mecca": {
+    "label": "Mecca",
+    "wikipedia": "Mecca",
+    "translations": {
+      "es": {
+        "label": "La Meca"
+      }
+    }
+  },
   "medellin": {
     "label": "Medellín",
     "wikipedia": "Medellín, Spain",
     "translations": {
       "es": {
         "label": "Medellín"
+      }
+    }
+  },
+  "medina": {
+    "label": "Medina",
+    "wikipedia": "Medina",
+    "translations": {
+      "es": {
+        "label": "Medina"
       }
     }
   },
@@ -2093,6 +2156,15 @@
     "translations": {
       "es": {
         "label": "Menfis"
+      }
+    }
+  },
+  "merv": {
+    "label": "Merv",
+    "wikipedia": "Merv",
+    "translations": {
+      "es": {
+        "label": "Merv"
       }
     }
   },
