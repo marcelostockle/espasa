@@ -2808,6 +2808,20 @@
       "extract": "Eretria fue una ciudad de la Antigua Grecia, localizada en la costa occidental de la isla de Eubea, enfrente de la costa del Ática al otro lado del estrecho golfo de Eubea. Hay una moderna ciudad griega con el mismo nombre en el lugar antiguo. El actual municipio de Eretria contaba en 2011 con una población de 13053 habitantes y la población de la unidad municipal ascendía a 6330."
     }
   },
+  "ferapontov-monastery": {
+    "title": "Ferapontov Monastery",
+    "url": "https://en.wikipedia.org/wiki/Ferapontov_Monastery",
+    "extract": "The Ferapontov Monastery is a monastery of the Russian Orthodox Church in Ferapontovo, Kirillovsky District, Vologda Oblast, Russia. The monastery was founded by Saint Ferapont in 1398. In 2000, the monastery was added to the UNESCO list of World Heritage Sites.",
+    "description": "Orthodox monastery in Ferapontovo, Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ferapontovo_drone_cut.jpg/330px-Ferapontovo_drone_cut.jpg",
+    "lat": 59.95638889,
+    "lon": 38.5675,
+    "es": {
+      "title": "Monasterio de Ferapóntov",
+      "url": "https://es.wikipedia.org/wiki/Monasterio_de_Ferap%C3%B3ntov",
+      "extract": "El monasterio de Ferapóntov, en la (región) óblast de Vólogda, se considera como uno de los más bellos ejemplos del arte y de la arquitectura medieval rusa, razón por la cual está en la lista del Patrimonio de la Humanidad de la Unesco."
+    }
+  },
   "fergana": {
     "title": "Fergana Valley",
     "url": "https://en.wikipedia.org/wiki/Fergana_Valley",
@@ -5721,6 +5735,20 @@
       "extract": "Nevada City es un pueblo ubicado en el Estado de California. Es la sede del condado de Nevada. Sus primeros pobladores se establecieron en 1849."
     }
   },
+  "new-jerusalem-monastery": {
+    "title": "New Jerusalem Monastery",
+    "url": "https://en.wikipedia.org/wiki/New_Jerusalem_Monastery",
+    "extract": "The Resurrection Monastery or New Jerusalem Monastery is a major monastery of the Russian Orthodox Church in Moscow Oblast, Russia.",
+    "description": "Russian monastery in Moscow Oblast",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Istra%2C_Moscow_Oblast%2C_Russia_-_panoramio_%2810%29.jpg/330px-Istra%2C_Moscow_Oblast%2C_Russia_-_panoramio_%2810%29.jpg",
+    "lat": 55.9216,
+    "lon": 36.8459,
+    "es": {
+      "title": "Monasterio de la Nueva Jerusalén",
+      "url": "https://es.wikipedia.org/wiki/Monasterio_de_la_Nueva_Jerusal%C3%A9n",
+      "extract": "El monasterio de la Resurrección o monasterio de la Nueva Jerusalén es un importante monasterio masculino de la Iglesia Ortodoxa Rusa localizado en el óblast de Moscú, Rusia. El monasterio de Voskresensky ha dado lugar a la aldea homónima, que se ha convertido en la ciudad de Voskresensk."
+    }
+  },
   "new-york-city": {
     "title": "New York City",
     "url": "https://en.wikipedia.org/wiki/New_York_City",
@@ -6724,6 +6752,15 @@
       "url": "https://es.wikipedia.org/wiki/Punta_del_Este",
       "extract": "Punta del Este es una ciudad peninsular, situada en el extremo sur de Uruguay, en el departamento de Maldonado, a 5 km de distancia de la ciudad capital homónima del mismo. Está ubicada sobre una estrecha franja de tierra que convencionalmente separa el Río de la Plata del Océano Atlántico."
     }
+  },
+  "pustozyorsk": {
+    "title": "Pustozersk",
+    "url": "https://en.wikipedia.org/wiki/Pustozersk",
+    "extract": "Pustozersk or Pustozyorsk was the first town built by Russians north of the Arctic Circle. It was the administrative center of Yugra and Pechora regions of the Russian Empire. It was situated in what is today Nenets Autonomous Okrug, about 20 km south-west of Naryan-Mar.",
+    "description": "Defunct town in Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Pustozersk-1908-11.jpg/330px-Pustozersk-1908-11.jpg",
+    "lat": 67.53333333,
+    "lon": 52.58333333
   },
   "pydna": {
     "title": "Pydna",
@@ -7828,6 +7865,20 @@
       "extract": "La Capilla Sixtina es una capilla del Palacio Apostólico de la Ciudad del Vaticano, la residencia oficial del papa. Es la estancia más conocida del conjunto palaciego y también forma parte de los Museos Vaticanos."
     }
   },
+  "solovetsky-monastery": {
+    "title": "Solovetsky Monastery",
+    "url": "https://en.wikipedia.org/wiki/Solovetsky_Monastery",
+    "extract": "The Solovetsky Monastery is a fortified monastery located on the Solovetsky Islands in the White Sea in northern Russia. It was one of the largest Christian citadels in northern Russia before it was became a Soviet prison and labor camp from 1926 to 1939, and it served as a prototype for the camps of the Gulag system. The monastery has experienced several major changes and military sieges. Its most important structures date from the 16th century, when Filip Kolychev was its hegumen.",
+    "description": "Fortified monastery on the Solovetsky Islands, Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C.jpg/330px-%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C.jpg",
+    "lat": 65.02444444,
+    "lon": 35.71055556,
+    "es": {
+      "title": "Monasterio Solovetski",
+      "url": "https://es.wikipedia.org/wiki/Monasterio_Solovetski",
+      "extract": "El monasterio Solovetski fue la mayor ciudadela de la Cristiandad en el norte de Rusia antes de ser convertido en una prisión y campo de concentración soviético especial (1926-1939), que sirvió como prototipo del sistema Gulag. Situado en las islas Solovetski en el mar Blanco, el monasterio pasó por muchos cambios de fortuna y sitios militares. Sus estructuras más importantes datan del siglo XVI, cuando Filip Kolychov fue su hegúmeno."
+    }
+  },
   "soncino": {
     "title": "Soncino, Lombardy",
     "url": "https://en.wikipedia.org/wiki/Soncino%2C_Lombardy",
@@ -8644,6 +8695,20 @@
       "title": "Trento",
       "url": "https://es.wikipedia.org/wiki/Trento",
       "extract": "Trento es una ciudad italiana situada en la región de Trentino-Alto Adigio. Es la capital de la región y de la provincia autónoma de Trento. La ciudad, conocida internacionalmente por el Concilio de Trento, fue territorio austríaco hasta la Primera Guerra Mundial. Está situada en el profundo valle del Adigio."
+    }
+  },
+  "trinity-lavra-of-st-sergius": {
+    "title": "Trinity Lavra of St. Sergius",
+    "url": "https://en.wikipedia.org/wiki/Trinity_Lavra_of_St._Sergius",
+    "extract": "The Trinity Lavra of St. Sergius is a lavra and the most important Russian monastery, being the spiritual centre of the Russian Orthodox Church. The monastery is situated in the town of Sergiyev Posad, about 70 kilometres (43 mi) to the northeast from Moscow by the road leading to Yaroslavl, and currently is home to over 300 monks.",
+    "description": "Russian monastery and the spiritual centre of the Russian Orthodox Church",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%B2_%D0%9F%D0%BE%D1%81%D0%B0%D0%B4._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B0_%D0%BB%D0%B0%D0%B2%D1%80%D0%B0._1.jpg/330px-%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%B2_%D0%9F%D0%BE%D1%81%D0%B0%D0%B4._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B0_%D0%BB%D0%B0%D0%B2%D1%80%D0%B0._1.jpg",
+    "lat": 56.31035,
+    "lon": 38.1312,
+    "es": {
+      "title": "Laura de la Trinidad y San Sergio",
+      "url": "https://es.wikipedia.org/wiki/Laura_de_la_Trinidad_y_San_Sergio",
+      "extract": "El monasterio de la Trinidad y San Sergio en la ciudad de Sérguiyev Posad es un importante monasterio ruso y centro espiritual de la iglesia ortodoxa rusa, dedicado a San Sergio de Rádonezh. Sérguiev Posad se encuentra a unos 70 kilómetros al noreste de Moscú en la carretera que va a Yaroslavl. Actualmente alberga a unos 300 monjes. Según la Unesco, que lo declaró Patrimonio de la Humanidad en 1993, se trata de «un buen ejemplo de monasterio ortodoxo en funcionamiento, con rasgos militares típicos de los siglos XV al XVIII, período durante el que se desarrolló»."
     }
   },
   "troy": {

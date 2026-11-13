@@ -1844,6 +1844,15 @@
       }
     }
   },
+  "ferapontov-monastery": {
+    "label": "Ferapontov Monastery",
+    "wikipedia": "Ferapontov Monastery",
+    "translations": {
+      "es": {
+        "label": "Monasterio de Ferapontov"
+      }
+    }
+  },
   "fergana": {
     "label": "Fergana Valley",
     "wikipedia": "Fergana_Valley",
@@ -3761,6 +3770,15 @@
       }
     }
   },
+  "new-jerusalem-monastery": {
+    "label": "New Jerusalem Monastery",
+    "wikipedia": "New Jerusalem Monastery",
+    "translations": {
+      "es": {
+        "label": "Monasterio de la Nueva Jerusalén"
+      }
+    }
+  },
   "new-york-city": {
     "label": "New York City",
     "wikipedia": "New York City",
@@ -4415,6 +4433,15 @@
     "translations": {
       "es": {
         "label": "Punta del Este"
+      }
+    }
+  },
+  "pustozyorsk": {
+    "label": "Pustozyorsk",
+    "wikipedia": "Pustozyorsk",
+    "translations": {
+      "es": {
+        "label": "Pustozyorsk"
       }
     }
   },
@@ -5138,6 +5165,15 @@
       }
     }
   },
+  "solovetsky-monastery": {
+    "label": "Solovetsky Monastery",
+    "wikipedia": "Solovetsky Monastery",
+    "translations": {
+      "es": {
+        "label": "Monasterio de Solovetsky"
+      }
+    }
+  },
   "soncino": {
     "label": "Soncino",
     "wikipedia": "Soncino, Lombardy",
@@ -5675,6 +5711,15 @@
     "translations": {
       "es": {
         "label": "Trento"
+      }
+    }
+  },
+  "trinity-lavra-of-st-sergius": {
+    "label": "Trinity Lavra of St. Sergius",
+    "wikipedia": "Trinity Lavra of St. Sergius",
+    "translations": {
+      "es": {
+        "label": "Lavra de la Trinidad y San Sergio"
       }
     }
   },

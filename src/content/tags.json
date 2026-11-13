@@ -2863,6 +2863,21 @@
       }
     }
   },
+  "russian-church-schism": {
+    "label": "Russian Church Schism",
+    "color": "#d0663f",
+    "description": "The Raskol: the split in the Russian Orthodox Church from the 1650s over Patriarch Nikon's liturgical reforms, the rise of the Old Believers, their persecution and the long road to toleration and reconciliation.",
+    "categories": [
+      "Society",
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Cisma de la Iglesia rusa",
+        "description": "El Raskol: la ruptura de la Iglesia ortodoxa rusa desde la década de 1650 por las reformas litúrgicas del patriarca Nikon, el surgimiento de los viejos creyentes, su persecución y el largo camino hacia la tolerancia y la reconciliación."
+      }
+    }
+  },
   "russian-empire": {
     "label": "Russian Empire",
     "color": "#9c27b0",
@@ -2874,6 +2889,21 @@
       "es": {
         "label": "Imperio ruso",
         "description": "El Imperio ruso y sus zares."
+      }
+    }
+  },
+  "russian-orthodox-church": {
+    "label": "Russian Orthodox Church",
+    "color": "#4a9aa8",
+    "description": "The Orthodox Church in Russia: its patriarchs and councils, its relations with the tsars and the Soviet state, and its liturgy and institutions.",
+    "categories": [
+      "Culture",
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Iglesia ortodoxa rusa",
+        "description": "La Iglesia ortodoxa en Rusia: sus patriarcas y concilios, sus relaciones con los zares y el Estado soviético, y su liturgia e instituciones."
       }
     }
   },
