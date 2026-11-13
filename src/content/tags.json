@@ -613,6 +613,21 @@
       }
     }
   },
+  "colonial-north-america": {
+    "label": "Colonial North America",
+    "color": "#b0603b",
+    "description": "European colonies and settlers in North America north of Mexico, from the first English and French attempts in the 1580s-1600s to the eve of independence in 1776.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Norteamérica colonial",
+        "description": "Las colonias y colonos europeos en América del Norte al norte de México, desde los primeros intentos ingleses y franceses (1580-1600) hasta vísperas de la independencia en 1776."
+      }
+    }
+  },
   "counter-reformation": {
     "label": "Counter-Reformation",
     "color": "#90a4ae",
@@ -2148,6 +2163,20 @@
       }
     }
   },
+  "native-americans": {
+    "label": "Native Americans",
+    "color": "#c0504d",
+    "description": "The Indigenous peoples of what is now the United States and Canada, and their encounters, treaties and wars with European and American settlers.",
+    "categories": [
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Pueblos indígenas de Norteamérica",
+        "description": "Los pueblos indígenas de lo que hoy son Estados Unidos y Canadá, y sus encuentros, tratados y guerras con los colonos europeos y estadounidenses."
+      }
+    }
+  },
   "nato": {
     "label": "NATO",
     "color": "#3b5998",
@@ -3473,6 +3502,20 @@
       "es": {
         "label": "Guerra",
         "description": "Grandes guerras y campañas."
+      }
+    }
+  },
+  "westward-expansion": {
+    "label": "Westward expansion",
+    "color": "#a3b34a",
+    "description": "The movement of settlers from the Atlantic seaboard across the Appalachians and the American continent, and the laws and policies that governed it.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Expansión hacia el oeste",
+        "description": "El movimiento de colonos desde la costa atlántica a través de los Apalaches y del continente norteamericano, y las leyes y políticas que lo regularon."
       }
     }
   },

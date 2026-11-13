@@ -35,6 +35,15 @@
       }
     }
   },
+  "albany-new-york": {
+    "label": "Albany, New York",
+    "wikipedia": "Albany, New York",
+    "translations": {
+      "es": {
+        "label": "Albany (Nueva York)"
+      }
+    }
+  },
   "alcala-de-henares": {
     "label": "Alcalá de Henares",
     "wikipedia": "Alcalá de Henares",
@@ -230,6 +239,15 @@
     "translations": {
       "es": {
         "label": "Apamea"
+      }
+    }
+  },
+  "appalachian-mountains": {
+    "label": "Appalachian Mountains",
+    "wikipedia": "Appalachian Mountains",
+    "translations": {
+      "es": {
+        "label": "Montes Apalaches"
       }
     }
   },
@@ -788,6 +806,24 @@
     "translations": {
       "es": {
         "label": "Bonn"
+      }
+    }
+  },
+  "boonesborough-kentucky": {
+    "label": "Boonesborough, Kentucky",
+    "wikipedia": "Boonesborough, Kentucky",
+    "translations": {
+      "es": {
+        "label": "Boonesborough (Kentucky)"
+      }
+    }
+  },
+  "boston": {
+    "label": "Boston",
+    "wikipedia": "Boston",
+    "translations": {
+      "es": {
+        "label": "Boston"
       }
     }
   },
@@ -1862,6 +1898,15 @@
       }
     }
   },
+  "fort-monroe": {
+    "label": "Point Comfort (Fort Monroe)",
+    "wikipedia": "Fort Monroe",
+    "translations": {
+      "es": {
+        "label": "Point Comfort (Fort Monroe)"
+      }
+    }
+  },
   "frankfurt": {
     "label": "Frankfurt",
     "wikipedia": "Frankfurt",
@@ -2348,6 +2393,15 @@
       }
     }
   },
+  "homestead-national-historical-park": {
+    "label": "Homestead National Historical Park",
+    "wikipedia": "Homestead National Historical Park",
+    "translations": {
+      "es": {
+        "label": "Parque Histórico Nacional Homestead"
+      }
+    }
+  },
   "hong-kong": {
     "label": "Hong Kong",
     "wikipedia": "Hong Kong",
@@ -2420,6 +2474,15 @@
       }
     }
   },
+  "independence-missouri": {
+    "label": "Independence, Missouri",
+    "wikipedia": "Independence, Missouri",
+    "translations": {
+      "es": {
+        "label": "Independence (Misuri)"
+      }
+    }
+  },
   "ipsus": {
     "label": "Ipsus",
     "wikipedia": "Ipsus",
@@ -2471,6 +2534,15 @@
     "translations": {
       "es": {
         "label": "Yabalia"
+      }
+    }
+  },
+  "jamestown-virginia": {
+    "label": "Jamestown, Virginia",
+    "wikipedia": "Jamestown, Virginia",
+    "translations": {
+      "es": {
+        "label": "Jamestown (Virginia)"
       }
     }
   },
@@ -3599,6 +3671,15 @@
       }
     }
   },
+  "mystic-connecticut": {
+    "label": "Mystic, Connecticut",
+    "wikipedia": "Mystic, Connecticut",
+    "translations": {
+      "es": {
+        "label": "Mystic (Connecticut)"
+      }
+    }
+  },
   "nag-hammadi": {
     "label": "Nag Hammadi",
     "wikipedia": "Nag Hammadi",
@@ -3713,6 +3794,15 @@
     "translations": {
       "es": {
         "label": "Nördlingen"
+      }
+    }
+  },
+  "northwest-territory": {
+    "label": "Northwest Territory",
+    "wikipedia": "Northwest Territory",
+    "translations": {
+      "es": {
+        "label": "Territorio del Noroeste"
       }
     }
   },
@@ -4121,6 +4211,15 @@
       }
     }
   },
+  "philadelphia": {
+    "label": "Philadelphia",
+    "wikipedia": "Philadelphia",
+    "translations": {
+      "es": {
+        "label": "Filadelfia"
+      }
+    }
+  },
   "philippi": {
     "label": "Philippi",
     "wikipedia": "Philippi",
@@ -4301,6 +4400,15 @@
       }
     }
   },
+  "provincetown-massachusetts": {
+    "label": "Provincetown, Massachusetts",
+    "wikipedia": "Provincetown, Massachusetts",
+    "translations": {
+      "es": {
+        "label": "Provincetown (Massachusetts)"
+      }
+    }
+  },
   "punta-del-este": {
     "label": "Punta del Este",
     "wikipedia": "Punta del Este",
@@ -4352,6 +4460,15 @@
     "translations": {
       "es": {
         "label": "Qingdao"
+      }
+    }
+  },
+  "quebec-city": {
+    "label": "Quebec City",
+    "wikipedia": "Quebec City",
+    "translations": {
+      "es": {
+        "label": "Ciudad de Quebec"
       }
     }
   },
@@ -4514,6 +4631,15 @@
     "translations": {
       "es": {
         "label": "Río de Janeiro"
+      }
+    }
+  },
+  "roanoke-island": {
+    "label": "Roanoke Island",
+    "wikipedia": "Roanoke Island",
+    "translations": {
+      "es": {
+        "label": "Isla Roanoke"
       }
     }
   },
@@ -5072,6 +5198,15 @@
     "translations": {
       "es": {
         "label": "Sremski Karlovci"
+      }
+    }
+  },
+  "st-marys-city-maryland": {
+    "label": "St. Mary's City, Maryland",
+    "wikipedia": "St. Mary's City, Maryland",
+    "translations": {
+      "es": {
+        "label": "St. Mary's City (Maryland)"
       }
     }
   },

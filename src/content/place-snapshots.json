@@ -55,6 +55,20 @@
       "extract": "Aix-en-Provence, o Aix en Provenza, es una ciudad francesa, antigua capital de la región histórica de Provenza. Aunque está a unos 30 km al norte de Marsella, se considera parte de su área metropolitana, siendo la tercera aglomeración urbana más grande del país tras París y Lyon. Es una de las subprefecturas del departamento de Bocas del Ródano, en la región de Provenza-Alpes-Costa Azul."
     }
   },
+  "albany-new-york": {
+    "title": "Albany, New York",
+    "url": "https://en.wikipedia.org/wiki/Albany%2C_New_York",
+    "extract": "Albany is the capital city of the U.S. state of New York. It is also the county seat of, and the most populous city in Albany County. Albany is located on the west bank of the Hudson River, approximately ten miles (16 km) south of its confluence with the Mohawk River. Its population was 99,224 at the time of the 2020 census and was estimated at 102,305 in 2026.",
+    "description": "Capital city of New York, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Albany%2C_New_York.jpg/330px-Albany%2C_New_York.jpg",
+    "lat": 42.6525,
+    "lon": -73.75722222,
+    "es": {
+      "title": "Albany",
+      "url": "https://es.wikipedia.org/wiki/Albany",
+      "extract": "Albany es la capital del estado de Nueva York y del condado de Albany, en los Estados Unidos. Tiene una población de 97 750 habitantes en 2010. Es el mayor centro urbano del Distrito Capital, la cuarta región metropolitana más populosa del estado y la 56.ª más poblada de todos los Estados Unidos."
+    }
+  },
   "alcala-de-henares": {
     "title": "Alcalá de Henares",
     "url": "https://en.wikipedia.org/wiki/Alcal%C3%A1_de_Henares",
@@ -358,6 +372,18 @@
       "title": "Apamea (Frigia)",
       "url": "https://es.wikipedia.org/wiki/Apamea_(Frigia)",
       "extract": "Apamea fue una ciudad helenística de Frigia, cerca del actual distrito de Dinar en Turquía. También se denominaba Apamea Ciboto."
+    }
+  },
+  "appalachian-mountains": {
+    "title": "Appalachian Mountains",
+    "url": "https://en.wikipedia.org/wiki/Appalachian_Mountains",
+    "extract": "The Appalachian Mountains are a vast mountain range situated in eastern North America, extending roughly 2,050 miles (3,300 km) from central Alabama to Newfoundland along a generally southwest–northeast axis. Alongside the Appalachian Plateau province—with which they are not entirely synonymous—the mountains form a wider system comprising the region's backbone. The range's highest peak is 6,684-foot (2,037 m) Mount Mitchell in the Black Mountains subrange of North Carolina, which themselves are part of the larger Blue Ridge Mountains. Saint Pierre and Miquelon, an overseas collectivity of France, is part of the range, meaning it technically spans portions of three countries. It is geologically related to the Scottish Highlands, Atlas Mountains, Scandinavian Mountains, and Ouachitas, as these ranges all originally belonged to the sprawling Central Pangean Mountains before plate tectonics tore them apart.",
+    "description": "Mountain range in eastern North America",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Blue_Ridge_Parkway_Sunset_%2843691100%29.jpeg/330px-Blue_Ridge_Parkway_Sunset_%2843691100%29.jpeg",
+    "es": {
+      "title": "Apalaches",
+      "url": "https://es.wikipedia.org/wiki/Apalaches",
+      "extract": "(en inglés: Appalachian Mountains o Appalachians; en francés: Appalaches) es una importante cordillera ubicada en el este de Norteamérica. Se extiende desde la isla de Terranova, en Canadá, pasando por la colectividad de ultramar francés de San Pedro y Miquelón, hasta Alabama en los Estados Unidos, aunque su parte más septentrional termina en la península de la península gaspesiana, en Quebec. Constituye el elemento morfológico más sobresaliente de la parte oriental de América Septentrional."
     }
   },
   "appian-way": {
@@ -1199,6 +1225,29 @@
       "title": "Bonn",
       "url": "https://es.wikipedia.org/wiki/Bonn",
       "extract": "Bonn es una ciudad alemana del estado federado de Renania del Norte-Westfalia. Fue la capital de la República Federal de Alemania hasta la reunificación del país en 1990, y sede del gobierno hasta 1999. Forma parte de la macrorregión metropolitana del Rin-Ruhr."
+    }
+  },
+  "boonesborough-kentucky": {
+    "title": "Boonesborough, Kentucky",
+    "url": "https://en.wikipedia.org/wiki/Boonesborough%2C_Kentucky",
+    "extract": "Boonesborough or Boonesboro is an unincorporated community in Madison County, Kentucky, United States. Founded by famed frontiersman Daniel Boone in 1775 as one of the first English-speaking settlements west of the Appalachian Mountains, Boonesborough lies in the central part of the state along the Kentucky River and is the site of Fort Boonesborough State Park, which includes the Kentucky River Museum. The park site has been rebuilt to look like a working fort of the time that Boone resided there.",
+    "description": "Historic site in Kentucky",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Boonesborough-1778.jpg/330px-Boonesborough-1778.jpg",
+    "lat": 37.90833333,
+    "lon": -84.27194444
+  },
+  "boston": {
+    "title": "Boston",
+    "url": "https://en.wikipedia.org/wiki/Boston",
+    "extract": "Boston is the capital and most populous city of the U.S. state of Massachusetts. It serves as a cultural and financial center of New England, a region of the Northeastern United States. Boston has an area of 48.4 square miles (125 km2) and a population of 675,647 as of the 2020 census, making it the third-most populous city in the Northeastern United States after New York City and Philadelphia. The larger Greater Boston metropolitan statistical area had a population of 5 million in 2025, making it the largest metropolis in New England and the eleventh-largest in the United States.",
+    "description": "Capital and largest city in Massachusetts, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/ISH_WC_Boston4.jpg/330px-ISH_WC_Boston4.jpg",
+    "lat": 42.36027778,
+    "lon": -71.05777778,
+    "es": {
+      "title": "Boston",
+      "url": "https://es.wikipedia.org/wiki/Boston",
+      "extract": "Boston es la capital y ciudad más poblada del estado de Massachusetts, y una de las ciudades más antiguas de los Estados Unidos. Al tratarse de la ciudad más poblada de Nueva Inglaterra, Boston es considerada el centro económico y cultural de la región y es referida en ocasiones como la «Capital de Nueva Inglaterra» de manera no oficial. En 2008 la ciudad contaba con una población de 645 169 habitantes, lo que la convierte en la vigésima primera ciudad más poblada del país. Boston es, también, el centro neurálgico de un área metropolitana muy poblada y extensa denominada Gran Boston, con una población de 4,5 millones de habitantes, la décima mayor área metropolitana de la nación. El Gran Boston, como región a la que se desplazan multitud de trabajadores, incluye siete condados de Massachusetts, todo Rhode Island y partes de Nuevo Hampshire; con lo que suma un total de 7,5 millones de habitantes, por lo que esta área estadística combinada es la quinta de los Estados Unidos por población."
     }
   },
   "boulogne-sur-mer": {
@@ -2843,6 +2892,20 @@
       "extract": "El Fort de Joux o castillo de Joux es un castillo medieval francés, convertido en una fortaleza, situada en La Cluse-et-Mijoux, en el departamento de Doubs, en las montañas del Jura. Custodiaba el paso de montaña \"Cluse de Pontarlier\"."
     }
   },
+  "fort-monroe": {
+    "title": "Fort Monroe",
+    "url": "https://en.wikipedia.org/wiki/Fort_Monroe",
+    "extract": "Fort Monroe is a former military installation in Hampton, Virginia, at Old Point Comfort, the southern tip of the Virginia Peninsula, United States. It is managed by partnership between the Fort Monroe Authority for the Commonwealth of Virginia, the National Park Service, and the city of Hampton as the Fort Monroe National Monument. Along with Fort Wool, Fort Monroe originally guarded the navigation channel between the Chesapeake Bay and Hampton Roads—the natural roadstead at the confluence of the Elizabeth, the Nansemond and the James rivers.",
+    "description": "Moated, six-sided, historical bastion fort in Hampton, Virginia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Fort_Monroe_Aerial.jpg/330px-Fort_Monroe_Aerial.jpg",
+    "lat": 37.00361111,
+    "lon": -76.3075,
+    "es": {
+      "title": "Fort Monroe",
+      "url": "https://es.wikipedia.org/wiki/Fort_Monroe",
+      "extract": "Fort Monroe —en el registro de sitios históricos Monumento Nacional de Fort Monroe— es una instalación militar clausurada en Hampton, Virginia en Old Point Comfort, el extremo sur de la Península de Virginia, Estados Unidos. Junto con Fort Wool, Fort Monroe protegió originalmente el canal de navegación entre Chesapeake Bay y Hampton Roads, la rada natural en la confluencia de los ríos Elizabeth, Nansemond y James. Hasta su baja en 1946, las áreas protegidas por el fuerte eran todas las regiones de la Bahía de Chesapeake y el Río Potomac, incluyendo los accesos por agua a las ciudades de Washington D. C. y Baltimore, Maryland, junto con importantes astilleros y bases navales en el área de Hampton Roads. Rodeado por un foso, el fuerte con un bastión de seis lados es el más grande por área jamás construido en los Estados Unidos."
+    }
+  },
   "frankfurt": {
     "title": "Frankfurt",
     "url": "https://en.wikipedia.org/wiki/Frankfurt",
@@ -3573,6 +3636,15 @@
       "extract": "El topónimo latino Hispania era el nombre que los romanos daban a la península ibérica y territorios asociados."
     }
   },
+  "homestead-national-historical-park": {
+    "title": "Homestead National Historical Park",
+    "url": "https://en.wikipedia.org/wiki/Homestead_National_Historical_Park",
+    "extract": "Homestead National Historical Park, a unit of the National Park System known as the Homestead National Monument of America prior to 2021, commemorates passage of the Homestead Act of 1862, which allowed any qualified person to claim up to 160 acres (0.65 km2) of federally owned land in exchange for five years of residence and the cultivation and improvement of the property. The Act eventually transferred 270,000,000 acres (1,100,000 km2) from public to private ownership.",
+    "description": "National park in Nebraska, U.S.",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Palmer-Epard_Cabin_interior.jpg/330px-Palmer-Epard_Cabin_interior.jpg",
+    "lat": 40.28527778,
+    "lon": -96.82194444
+  },
   "hong-kong": {
     "title": "Hong Kong",
     "url": "https://en.wikipedia.org/wiki/Hong_Kong",
@@ -3678,6 +3750,20 @@
       "extract": "Incheon pronunciado: [in.tɕʰʌn], oficialmente Ciudad Metropolitana de Incheon, es una de las seis ciudades metropolitanas que, junto a las nueve provincias, la ciudad especial y la ciudad autónoma especial, forman Corea del Sur."
     }
   },
+  "independence-missouri": {
+    "title": "Independence, Missouri",
+    "url": "https://en.wikipedia.org/wiki/Independence%2C_Missouri",
+    "extract": "Independence is a city mostly in, and one of two county seats of, Jackson County, Missouri, United States. It is a satellite city of Kansas City, Missouri, and is the largest suburb on the Missouri side of the Kansas City metropolitan area. In 2020, it had a total population of 123,011, making it the fifth-most populous city in Missouri. A small part of the city extends into Clay County.",
+    "description": "City in Missouri, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jackson_County_Courthouse_Independence_MO-cropped.jpg/330px-Jackson_County_Courthouse_Independence_MO-cropped.jpg",
+    "lat": 39.0925,
+    "lon": -94.41388889,
+    "es": {
+      "title": "Independence (Misuri)",
+      "url": "https://es.wikipedia.org/wiki/Independence_(Misuri)",
+      "extract": "Independence es una ciudad ubicada en el condado de Jackson en el estado estadounidense de Misuri. En el censo de 2010 tenía una población de 116 830 habs. y una densidad poblacional de 576,49 hab/km². Se encuentra sobre la orilla derecha del río Misuri, y forma parte del área metropolitana de Kansas City."
+    }
+  },
   "ipsus": {
     "title": "Ipsus",
     "url": "https://en.wikipedia.org/wiki/Ipsus",
@@ -3753,6 +3839,20 @@
       "title": "Jabaliya",
       "url": "https://es.wikipedia.org/wiki/Jabaliya",
       "extract": "Jabaliya, Jabalia o Yabalia es una ciudad palestina ubicada cuatro kilómetros al norte de Gaza. La ciudad está en la Gobernación del Norte en la Franja de Gaza. Según la Oficina Central Palestina de Estadística, el municipio tenía una población de 82.877 personas a mediados del año 2006."
+    }
+  },
+  "jamestown-virginia": {
+    "title": "Jamestown",
+    "url": "https://en.wikipedia.org/wiki/Jamestown",
+    "extract": "The Jamestown settlement in the Colony of Virginia was the first permanent English settlement in the Americas. It was located, in what later became James City County, on the northeast bank of the James River, about 2.5 mi (4 km) southwest of present-day Williamsburg. It was established by the Virginia Company of London as \"James Fort\" on May 4, 1607 O.S. (May 14, 1607 N.S.). It followed earlier, failed English colonization attempts, including the 1585 Roanoke Colony. A river island was selected to evade Spanish naval patrols; however, it was infested with mosquitoes, lacked potable water, and was used by the Paspahegh people. Despite supply missions, only 60 of the original 214 settlers survived the 1609–1610 winter known as Starving Time. In 1612, West Indies tobacco was successfully cultivated, leading to an economic boom for the colony and England.",
+    "description": "Town and fort established in the Virginia Colony",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Jamestownzuniga.jpg/330px-Jamestownzuniga.jpg",
+    "lat": 37.20916667,
+    "lon": -76.7775,
+    "es": {
+      "title": "Jamestown (Virginia)",
+      "url": "https://es.wikipedia.org/wiki/Jamestown_(Virginia)",
+      "extract": "Jamestown o Fuerte de Jamestown fue el primer asentamiento permanente inglés en lo que ahora es Estados Unidos. Fue fundada en el 1607 a orillas del río James sobre una península, en el actual condado de James City de Virginia."
     }
   },
   "janiculum": {
@@ -5481,6 +5581,20 @@
       "extract": "Milazzo es una localidad italiana de la provincia de Mesina, región de Sicilia, con 32.676 habitantes."
     }
   },
+  "mystic-connecticut": {
+    "title": "Mystic, Connecticut",
+    "url": "https://en.wikipedia.org/wiki/Mystic%2C_Connecticut",
+    "extract": "Mystic is a village and census-designated place (CDP) in Groton and Stonington, Connecticut.",
+    "description": "Census-designated place in Connecticut, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Mystic%2C_Connecticut_aerial_view.jpg/330px-Mystic%2C_Connecticut_aerial_view.jpg",
+    "lat": 41.35416667,
+    "lon": -71.96638889,
+    "es": {
+      "title": "Mystic (Connecticut)",
+      "url": "https://es.wikipedia.org/wiki/Mystic_(Connecticut)",
+      "extract": "Mystic es un lugar designado por el censo ubicado en el condado de New London en el estado estadounidense de Connecticut. En el año 2000 tenía una población de 4,001 habitantes y una densidad poblacional de 460 personas por km²."
+    }
+  },
   "nag-hammadi": {
     "title": "Nag Hammadi",
     "url": "https://en.wikipedia.org/wiki/Nag_Hammadi",
@@ -5661,6 +5775,20 @@
       "title": "Nördlingen",
       "url": "https://es.wikipedia.org/wiki/N%C3%B6rdlingen",
       "extract": "Nördlingen es una localidad con más de 20 000 habitantes del distrito de Danubio-Ries, en Baviera, Alemania. Escenario de dos batallas acontecidas durante la guerra de los Treinta Años, la antigua Ciudad Imperial de Nördlingen se encuentra a lo largo de la Ruta Romántica, en medio de un cráter de meteorito, caído hace 15 millones de años, cuya extensión de casi 25 km de diámetro determina hoy en día la región del Ries de Nördlingen, y a una altitud de 429 m s. n. m."
+    }
+  },
+  "northwest-territory": {
+    "title": "Northwest Territory",
+    "url": "https://en.wikipedia.org/wiki/Northwest_Territory",
+    "extract": "The Northwest Territory, also known as the Old Northwest and formally as the Territory Northwest of the River Ohio, was formed from part of the unorganized western territory of the United States after the American Revolution. Established in 1787 by the Congress of the Confederation through the Northwest Ordinance, it was the nation's first post-colonial organized incorporated territory.",
+    "description": "United States territory (1787–1803)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_the_United_States_%281777%E2%80%931795%29.svg/330px-Flag_of_the_United_States_%281777%E2%80%931795%29.svg.png",
+    "lat": 41,
+    "lon": -86,
+    "es": {
+      "title": "Territorio del Noroeste",
+      "url": "https://es.wikipedia.org/wiki/Territorio_del_Noroeste",
+      "extract": "El Territorio del Noroeste, también conocido como Viejo Noroeste y como Territorio del Noroeste de Ohio, fue un territorio de los Estados Unidos de América, anexionado como parte del acuerdo que dio fin a la Revolución estadounidense de 1776, que ganaron los patriotas. El territorio se creó oficialmente en el Congreso Estadounidense el 13 de julio de 1787. En sus orígenes, abarcaba los actuales estados de Ohio, Indiana, Illinois, Míchigan y Wisconsin, así como el este de Minnesota. La región tenía más de 673 000 kilómetros cuadrados. El territorio fue reivindicado por Nueva York, Massachusetts, Connecticut y Virginia."
     }
   },
   "novosibirsk": {
@@ -6280,6 +6408,20 @@
       "extract": "Farsala es un municipio y ciudad griega de Tesalia. En el año 2011 el municipio de Farsala contaba con 18 545 habitantes y el núcleo urbano tenía 9298."
     }
   },
+  "philadelphia": {
+    "title": "Philadelphia",
+    "url": "https://en.wikipedia.org/wiki/Philadelphia",
+    "extract": "Philadelphia, colloquially referred to as Philly, is the most populous city in the U.S. state of Pennsylvania and the sixth-most populous city in the United States. Its population was 1.60 million at the 2020 census and estimated at 1.57 million in 2025. The Philadelphia metropolitan area, also known as the Delaware Valley, is located in both the Mid-Atlantic and northeastern United States; home to 6.33 million residents, it is the nation's ninth-largest metropolitan area. Philadelphia is known for its culture, cuisine, and history, maintaining contemporary influence in technology and business, sports, and music.",
+    "description": "Most populous city in Pennsylvania, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Philadelphia_skyline_20240528_%28cropped_2-1%29.jpg/330px-Philadelphia_skyline_20240528_%28cropped_2-1%29.jpg",
+    "lat": 39.9528,
+    "lon": -75.1636,
+    "es": {
+      "title": "Filadelfia",
+      "url": "https://es.wikipedia.org/wiki/Filadelfia",
+      "extract": "Filadelfia es la mayor ciudad del estado de Pensilvania, Estados Unidos. Está ubicada sobre la orilla occidental del río Delaware —poco antes de su desembocadura en la bahía de Delaware—, que la separa del estado de Nueva Jersey, y en un punto intermedio entre las importantes ciudades de Nueva York y Washington D. C. Es la quinta ciudad del país por población y la 51.ª del mundo. El condado de Filadelfia, del que es sede, tiene 1 526 000 habs. y su área metropolitana alcanza los seis millones de habitantes."
+    }
+  },
   "philippi": {
     "title": "Philippi",
     "url": "https://en.wikipedia.org/wiki/Philippi",
@@ -6555,6 +6697,20 @@
       "extract": "Providence es la capital y la ciudad más grande de Rhode Island en los Estados Unidos, y una de las primeras ciudades en ser fundadas en ese país. Ubicada en el condado de Providence, la ciudad es la segunda más grande de Nueva Inglaterra. Su población en 2010 era de 178 042 habitantes, mientras que la de su área metropolitana era de 1 600 856 habitantes."
     }
   },
+  "provincetown-massachusetts": {
+    "title": "Provincetown, Massachusetts",
+    "url": "https://en.wikipedia.org/wiki/Provincetown%2C_Massachusetts",
+    "extract": "Provincetown is a town located at the tip of Cape Cod in Massachusetts. A small coastal resort town with a year-round population of 3,664 as of the 2020 United States census, Provincetown has a summer population as high as 60,000. It contains the census-designated place of the same name. Often called \"P-town\" or \"Ptown\", the locale is known as a vacation destination for its beaches, harbor, artists, and tourist industry, particularly for LGBTQ people.",
+    "description": "Town in Massachusetts, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/View_of_Provincetown_from_Pilgrim_Monument_looking_east%2C_MA%2C_USA_-_Sept%2C_2013.jpg/330px-View_of_Provincetown_from_Pilgrim_Monument_looking_east%2C_MA%2C_USA_-_Sept%2C_2013.jpg",
+    "lat": 42.058,
+    "lon": -70.179,
+    "es": {
+      "title": "Provincetown",
+      "url": "https://es.wikipedia.org/wiki/Provincetown",
+      "extract": "Provincetown es un pueblo ubicado en la punta del cabo Cod, en el condado de Barnstable, Massachusetts, Estados Unidos. En el Censo de 2010 tenía una población de 2942 habs. y una densidad poblacional de 65 hab/km²."
+    }
+  },
   "punta-del-este": {
     "title": "Punta del Este",
     "url": "https://en.wikipedia.org/wiki/Punta_del_Este",
@@ -6637,6 +6793,20 @@
       "title": "Qingdao",
       "url": "https://es.wikipedia.org/wiki/Qingdao",
       "extract": "Qingdao es una ciudad portuaria de la provincia de Shandong en la República Popular China. Antiguamente era conocida como Jiao'ao. Está situada en la península de Shandong y orientada en dirección al mar Amarillo. Actualmente es un importante puerto marítimo, base naval y centro industrial. Entre 1898 y 1914 fue la capital de la concesión colonial alemana de Jiaozhou. En esta ciudad se realizaron parte de las competiciones náuticas de los Juegos Olímpicos de Pekín 2008. Su área es de 11 282 km² y su población total para 2020 superó los 10 millones de habitantes."
+    }
+  },
+  "quebec-city": {
+    "title": "Quebec City",
+    "url": "https://en.wikipedia.org/wiki/Quebec_City",
+    "extract": "Quebec City is the capital city of the Canadian province of Quebec. As of 2026, the city has a population of 595,190 and the Quebec City census metropolitan area had a population of 839,311 in 2021. It is the twelfth-largest city and the seventh-largest metropolitan area in Canada. It is also the second-largest city in the province, after Montreal. It has a humid continental climate with warm summers coupled with cold and snowy winters.",
+    "description": "Provincial capital of Quebec, Canada",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Quebec_City_in_September_2026.jpg/330px-Quebec_City_in_September_2026.jpg",
+    "lat": 46.81388889,
+    "lon": -71.20805556,
+    "es": {
+      "title": "Quebec (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/Quebec_(ciudad)",
+      "extract": "Quebec es la capital de la provincia de Quebec, ubicada al este de Canadá y fundada por Samuel de Champlain en 1608. Su centro histórico, un recinto amurallado de estilo francés del siglo XVIII, fue declarada Patrimonio de la Humanidad por la Unesco en 1985."
     }
   },
   "quito": {
@@ -6883,6 +7053,20 @@
       "title": "Río de Janeiro",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_de_Janeiro",
       "extract": "Río de Janeiro, fundada como São Sebastião do Rio de Janeiro, es una ciudad y municipio brasileño, capital del estado homónimo, ubicada en el sureste del país. Es la segunda ciudad más poblada de Brasil después de São Paulo. Es considerada la ciudad de Brasil más conocida a nivel Internacional."
+    }
+  },
+  "roanoke-island": {
+    "title": "Roanoke Island",
+    "url": "https://en.wikipedia.org/wiki/Roanoke_Island",
+    "extract": "Roanoke Island is an island in Dare County, bordered by the Outer Banks of North Carolina. It was named after the historical Roanoke, a Carolina Algonquian people who inhabited the area in the 16th century at the time of English colonization.",
+    "description": "Island in the Outer Banks of North Carolina, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Roanoke_NASA_World_Wind.jpg/330px-Roanoke_NASA_World_Wind.jpg",
+    "lat": 35.889,
+    "lon": -75.661,
+    "es": {
+      "title": "Isla de Roanoke",
+      "url": "https://es.wikipedia.org/wiki/Isla_de_Roanoke",
+      "extract": "La isla de Roanoke es una isla del condado de Dare, limítrofe con los Bancos Externos de Carolina del Norte. Debe su nombre al histórico pueblo roanoke, un pueblo algonquino que habitaba la zona en el siglo XVI, en el comienzo de la colonización británica de América."
     }
   },
   "rocroi": {
@@ -7739,6 +7923,15 @@
       "url": "https://es.wikipedia.org/wiki/Sremski_Karlovci",
       "extract": "Sremski Karlovci es una villa y municipio de Serbia, en el distrito de Bačka del Sur, en la provincia autónoma de Voivodina."
     }
+  },
+  "st-marys-city-maryland": {
+    "title": "St. Mary's City, Maryland",
+    "url": "https://en.wikipedia.org/wiki/St._Mary's_City%2C_Maryland",
+    "extract": "St. Mary's City is a former colonial town that was founded in March 1634, as Maryland's first capital. It is now a state-run historic area, which includes a reconstruction of the original colonial settlement and a designated living history venue and museum complex. Half the area is occupied by the campus of St. Mary's College of Maryland. The entire area contains a community of about 933 permanent residents and some 1,400 students living in campus dorms and apartments.",
+    "description": "Unincorporated community in United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/St._Mary%27s_State_House%2C_Maryland.jpg/330px-St._Mary%27s_State_House%2C_Maryland.jpg",
+    "lat": 38.18916667,
+    "lon": -76.43222222
   },
   "st-peters-basilica": {
     "title": "St. Peter's Basilica",
