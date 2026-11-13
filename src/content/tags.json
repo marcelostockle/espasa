@@ -284,6 +284,20 @@
       }
     }
   },
+  "brahms": {
+    "label": "Johannes Brahms",
+    "color": "#4f5d75",
+    "description": "German composer (1833-1897) who upheld Classical forms in Romantic music, active mostly in Vienna.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Johannes Brahms",
+        "description": "Compositor alemán (1833-1897) que mantuvo las formas clásicas en la música romántica, activo sobre todo en Viena."
+      }
+    }
+  },
   "brazil": {
     "label": "Brazil",
     "color": "#00bfa5",
@@ -468,6 +482,20 @@
       "es": {
         "label": "Partido Comunista de China",
         "description": "El partido fundado en 1921 que ganó la guerra civil en 1949 y gobierna la República Popular China desde entonces."
+      }
+    }
+  },
+  "chopin": {
+    "label": "Frédéric Chopin",
+    "color": "#c9707c",
+    "description": "Polish composer and pianist (1810-1849) who wrote almost exclusively for piano and lived in Paris from 1831.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Frédéric Chopin",
+        "description": "Compositor y pianista polaco (1810-1849) que escribió casi solo para piano y vivió en París desde 1831."
       }
     }
   },
@@ -1753,6 +1781,20 @@
       }
     }
   },
+  "liszt": {
+    "label": "Franz Liszt",
+    "color": "#e3b23c",
+    "description": "Hungarian composer and piano virtuoso (1811-1886), inventor of the symphonic poem and a champion of new music.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Franz Liszt",
+        "description": "Compositor y virtuoso del piano húngaro (1811-1886), creador del poema sinfónico y defensor de la música nueva."
+      }
+    }
+  },
   "literature": {
     "label": "Literature",
     "color": "#827717",
@@ -1778,6 +1820,20 @@
       "es": {
         "label": "Macedonia",
         "description": "El reino de Macedonia, desde su ascenso con Filipo II y Alejandro Magno hasta su conquista por Roma en el siglo II a. C."
+      }
+    }
+  },
+  "mahler": {
+    "label": "Gustav Mahler",
+    "color": "#8a9a5b",
+    "description": "Austro-Bohemian composer and conductor (1860-1911) whose symphonies close the Romantic tradition.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Gustav Mahler",
+        "description": "Compositor y director austro-bohemio (1860-1911) cuyas sinfonías cierran la tradición romántica."
       }
     }
   },
@@ -2016,6 +2072,20 @@
       "es": {
         "label": "Guerras napoleónicas",
         "description": "Las guerras entre la Francia napoleónica y las coaliciones formadas contra ella, 1803-1815."
+      }
+    }
+  },
+  "nationalism": {
+    "label": "Nationalism",
+    "color": "#d4723b",
+    "description": "The political and cultural movements asserting the identity and self-rule of nations, especially in 19th-century Europe.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Nacionalismo",
+        "description": "Movimientos políticos y culturales que afirman la identidad y la autonomía de las naciones, sobre todo en la Europa del siglo XIX."
       }
     }
   },
@@ -2563,6 +2633,20 @@
       }
     }
   },
+  "risorgimento": {
+    "label": "Risorgimento",
+    "color": "#2f9e6e",
+    "description": "The 19th-century movement that unified the Italian states into the Kingdom of Italy.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Risorgimento",
+        "description": "Movimiento del siglo XIX que unificó los Estados italianos en el Reino de Italia."
+      }
+    }
+  },
   "roman-empire": {
     "label": "Roman Empire",
     "color": "#8d1f3a",
@@ -2603,6 +2687,20 @@
       "es": {
         "label": "República romana",
         "description": "Roma desde su fundación legendaria y los siete reyes tradicionales, pasando por la República, sus conquistas y guerras civiles, hasta el acuerdo de Octavio del 27 a. C."
+      }
+    }
+  },
+  "romantic-music": {
+    "label": "Romantic music",
+    "color": "#8e2f5f",
+    "description": "Western art music of the Romantic period (c. 1815-1910): expressive, programmatic and nationalist music, from the Lied and the piano miniature to the symphonic poem and the music drama.",
+    "categories": [
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Música romántica",
+        "description": "Música culta occidental del período romántico (c. 1815-1910): música expresiva, programática y nacionalista, desde el lied y la miniatura pianística hasta el poema sinfónico y el drama musical."
       }
     }
   },
@@ -2702,6 +2800,20 @@
       "es": {
         "label": "Arabia Saudita",
         "description": "El Reino de Arabia Saudita: sus gobernantes, su riqueza petrolera, su papel en el islam y sus relaciones exteriores."
+      }
+    }
+  },
+  "schubert": {
+    "label": "Franz Schubert",
+    "color": "#4aa3a2",
+    "description": "Austrian composer (1797-1828), a master of the Lied who bridged Classical and Romantic music.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Franz Schubert",
+        "description": "Compositor austríaco (1797-1828), maestro del lied que une el Clasicismo y el Romanticismo."
       }
     }
   },
@@ -3061,6 +3173,20 @@
       }
     }
   },
+  "tchaikovsky": {
+    "label": "Pyotr Ilyich Tchaikovsky",
+    "color": "#7ec8e3",
+    "description": "Russian composer (1840-1893) of ballets, symphonies and operas.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Piotr Ilich Chaikovski",
+        "description": "Compositor ruso (1840-1893) de ballets, sinfonías y óperas."
+      }
+    }
+  },
   "technology": {
     "label": "Technology",
     "color": "#e08a1e",
@@ -3189,6 +3315,34 @@
       "es": {
         "label": "Estados Unidos",
         "description": "Los Estados Unidos de América: su gobierno, su política exterior y su papel en los acontecimientos mundiales."
+      }
+    }
+  },
+  "verdi": {
+    "label": "Giuseppe Verdi",
+    "color": "#9e3b26",
+    "description": "Italian opera composer (1813-1901), whose works became a voice of the Risorgimento.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Giuseppe Verdi",
+        "description": "Compositor de ópera italiano (1813-1901), cuyas obras fueron voz del Risorgimento."
+      }
+    }
+  },
+  "wagner": {
+    "label": "Richard Wagner",
+    "color": "#5b3a8c",
+    "description": "German composer (1813-1883) of music dramas, founder of the Bayreuth Festival.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Richard Wagner",
+        "description": "Compositor alemán (1813-1883) de dramas musicales, fundador del Festival de Bayreuth."
       }
     }
   },

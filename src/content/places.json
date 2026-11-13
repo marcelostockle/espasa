@@ -548,6 +548,24 @@
       }
     }
   },
+  "bayreuth": {
+    "label": "Bayreuth",
+    "wikipedia": "Bayreuth",
+    "translations": {
+      "es": {
+        "label": "Bayreuth"
+      }
+    }
+  },
+  "bayreuth-festspielhaus": {
+    "label": "Bayreuth Festspielhaus",
+    "wikipedia": "Bayreuth Festspielhaus",
+    "translations": {
+      "es": {
+        "label": "Festspielhaus de Bayreuth"
+      }
+    }
+  },
   "beckton-gas-works": {
     "label": "Beckton Gas Works",
     "wikipedia": "Beckton Gas Works",
@@ -692,6 +710,15 @@
       }
     }
   },
+  "bolshoi-theatre": {
+    "label": "Bolshoi Theatre, Moscow",
+    "wikipedia": "Bolshoi Theatre",
+    "translations": {
+      "es": {
+        "label": "Teatro Bolshói de Moscú"
+      }
+    }
+  },
   "bonn": {
     "label": "Bonn",
     "wikipedia": "Bonn",
@@ -734,6 +761,15 @@
     "translations": {
       "es": {
         "label": "Breitenfeld"
+      }
+    }
+  },
+  "bremen": {
+    "label": "Bremen",
+    "wikipedia": "Bremen",
+    "translations": {
+      "es": {
+        "label": "Bremen"
       }
     }
   },
@@ -995,6 +1031,15 @@
     "translations": {
       "es": {
         "label": "Carquemis"
+      }
+    }
+  },
+  "carnegie-hall": {
+    "label": "Carnegie Hall",
+    "wikipedia": "Carnegie Hall",
+    "translations": {
+      "es": {
+        "label": "Carnegie Hall"
       }
     }
   },
@@ -2375,6 +2420,15 @@
       }
     }
   },
+  "karlsruhe": {
+    "label": "Karlsruhe",
+    "wikipedia": "Karlsruhe",
+    "translations": {
+      "es": {
+        "label": "Karlsruhe"
+      }
+    }
+  },
   "kensington": {
     "label": "Kensington",
     "wikipedia": "Kensington",
@@ -2399,6 +2453,15 @@
     "translations": {
       "es": {
         "label": "Río Khalkhin Gol"
+      }
+    }
+  },
+  "khedivial-opera-house": {
+    "label": "Khedivial Opera House, Cairo",
+    "wikipedia": "Khedivial Opera House",
+    "translations": {
+      "es": {
+        "label": "Ópera Jedival de El Cairo"
       }
     }
   },
@@ -2492,6 +2555,15 @@
       }
     }
   },
+  "la-fenice": {
+    "label": "La Fenice, Venice",
+    "wikipedia": "La Fenice",
+    "translations": {
+      "es": {
+        "label": "La Fenice de Venecia"
+      }
+    }
+  },
   "la-higuera": {
     "label": "La Higuera",
     "wikipedia": "La Higuera, Bolivia",
@@ -2516,6 +2588,15 @@
     "translations": {
       "es": {
         "label": "La Rochelle"
+      }
+    }
+  },
+  "la-scala": {
+    "label": "La Scala, Milan",
+    "wikipedia": "La Scala",
+    "translations": {
+      "es": {
+        "label": "La Scala de Milán"
       }
     }
   },
@@ -2879,6 +2960,15 @@
       }
     }
   },
+  "mariinsky-theatre": {
+    "label": "Mariinsky Theatre, Saint Petersburg",
+    "wikipedia": "Mariinsky Theatre",
+    "translations": {
+      "es": {
+        "label": "Teatro Mariinski de San Petersburgo"
+      }
+    }
+  },
   "marseille": {
     "label": "Massalia (Marseille)",
     "wikipedia": "Marseille",
@@ -3065,6 +3155,15 @@
     "translations": {
       "es": {
         "label": "Mikulov"
+      }
+    }
+  },
+  "milan": {
+    "label": "Milan",
+    "wikipedia": "Milan",
+    "translations": {
+      "es": {
+        "label": "Milán"
       }
     }
   },
@@ -3455,6 +3554,15 @@
       }
     }
   },
+  "opera-comique": {
+    "label": "Opéra-Comique, Paris",
+    "wikipedia": "Opéra-Comique",
+    "translations": {
+      "es": {
+        "label": "Opéra-Comique de París"
+      }
+    }
+  },
   "oppenheim": {
     "label": "Oppenheim",
     "wikipedia": "Oppenheim",
@@ -3470,6 +3578,15 @@
     "translations": {
       "es": {
         "label": "Osca (Huesca)"
+      }
+    }
+  },
+  "oslo": {
+    "label": "Oslo",
+    "wikipedia": "Oslo",
+    "translations": {
+      "es": {
+        "label": "Oslo"
       }
     }
   },
@@ -3959,6 +4076,15 @@
       }
     }
   },
+  "raiding": {
+    "label": "Raiding",
+    "wikipedia": "Raiding, Austria",
+    "translations": {
+      "es": {
+        "label": "Raiding"
+      }
+    }
+  },
   "rain-bavaria": {
     "label": "Rain",
     "wikipedia": "Rain, Swabia",
@@ -4121,6 +4247,15 @@
       }
     }
   },
+  "roncole-verdi": {
+    "label": "Roncole Verdi",
+    "wikipedia": "Roncole Verdi",
+    "translations": {
+      "es": {
+        "label": "Le Roncole"
+      }
+    }
+  },
   "rubicon": {
     "label": "Rubicon",
     "wikipedia": "Rubicon",
@@ -4172,6 +4307,15 @@
     "translations": {
       "es": {
         "label": "Saint-Julien-en-Genevois"
+      }
+    }
+  },
+  "saint-petersburg": {
+    "label": "Saint Petersburg",
+    "wikipedia": "Saint Petersburg",
+    "translations": {
+      "es": {
+        "label": "San Petersburgo"
       }
     }
   },
@@ -5057,6 +5201,15 @@
       }
     }
   },
+  "turin": {
+    "label": "Turin",
+    "wikipedia": "Turin",
+    "translations": {
+      "es": {
+        "label": "Turín"
+      }
+    }
+  },
   "tyre": {
     "label": "Tyre",
     "wikipedia": "Tyre, Lebanon",
@@ -5309,6 +5462,15 @@
       }
     }
   },
+  "votkinsk": {
+    "label": "Votkinsk",
+    "wikipedia": "Votkinsk",
+    "translations": {
+      "es": {
+        "label": "Votkinsk"
+      }
+    }
+  },
   "wadi-el-hol": {
     "label": "Wadi el-Hol",
     "wikipedia": "Wadi_el-Hol",
@@ -5333,6 +5495,15 @@
     "translations": {
       "es": {
         "label": "Washington D. C."
+      }
+    }
+  },
+  "weimar": {
+    "label": "Weimar",
+    "wikipedia": "Weimar",
+    "translations": {
+      "es": {
+        "label": "Weimar"
       }
     }
   },
@@ -5477,6 +5648,15 @@
     "translations": {
       "es": {
         "label": "Zela (Zile)"
+      }
+    }
+  },
+  "zelazowa-wola": {
+    "label": "Żelazowa Wola",
+    "wikipedia": "Żelazowa Wola",
+    "translations": {
+      "es": {
+        "label": "Żelazowa Wola"
       }
     }
   },

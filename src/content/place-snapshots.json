@@ -846,6 +846,34 @@
       "extract": "La bahía de Cochinos está ubicada en la costa suroccidental de Cuba, en un entrante del golfo de Cazones. En 1910 pasó a formar parte de la provincia de Santa Clara, en 1961 reasignado a la provincia de Las Villas y finalmente, en 1976 cuando de las seis provincias originales de Cuba se produjo una reorganización general para pasar a catorce (14), transferido a la provincia de Matanzas."
     }
   },
+  "bayreuth": {
+    "title": "Bayreuth",
+    "url": "https://en.wikipedia.org/wiki/Bayreuth",
+    "extract": "Bayreuth is a town in northern Bavaria, Germany, on the Red Main river in a valley between the Franconian Jura and the Fichtel Mountains. The town's roots date back to 1194. In the 21st century, it is the capital of Upper Franconia and has a population of 72,148 (2015). It hosts the annual Bayreuth Festival, at which performances of operas by the 19th-century German composer Richard Wagner are presented.",
+    "description": "Town in Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Marktplatz_Bayreuth.JPG/330px-Marktplatz_Bayreuth.JPG",
+    "lat": 49.94805556,
+    "lon": 11.57833333,
+    "es": {
+      "title": "Bayreuth",
+      "url": "https://es.wikipedia.org/wiki/Bayreuth",
+      "extract": "Bayreuth es una ciudad de la región administrativa de Alta Franconia, en el estado de Baviera (Alemania). Está situada a orillas del río Meno rojo —una de las afluentes principales del río Meno—, en el este de Alemania. Es capital del distrito homónimo, y forma el límite oriental de la región conocida como la Suiza Francona. Su población era de 72.670 habitantes."
+    }
+  },
+  "bayreuth-festspielhaus": {
+    "title": "Bayreuth Festspielhaus",
+    "url": "https://en.wikipedia.org/wiki/Bayreuth_Festspielhaus",
+    "extract": "The Bayreuth Festspielhaus or Bayreuth Festival Theatre is an opera house north of Bayreuth, Germany, built by the 19th-century German composer Richard Wagner and dedicated solely to the performance of his stage works. It is the venue for the annual Bayreuth Festival, for which it was specifically conceived and built. Its official name is Richard-Wagner-Festspielhaus. It is the home of the Bayreuth Festival Orchestra.",
+    "description": "Opera house in Bayreuth, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Bayreuth_Festspielhaus_2006-07-16.jpg/330px-Bayreuth_Festspielhaus_2006-07-16.jpg",
+    "lat": 49.96,
+    "lon": 11.57972222,
+    "es": {
+      "title": "Festspielhaus de Bayreuth",
+      "url": "https://es.wikipedia.org/wiki/Festspielhaus_de_Bayreuth",
+      "extract": "El Festspielhaus de Bayreuth o Bayreuther Festspielhaus es un teatro de ópera de Bayreuth, en Baviera, Alemania, que se dedica exclusivamente a la representación de las óperas compuestas por Richard Wagner. Es la sede del Festival de Bayreuth, para el que fue especialmente concebido y construido por el propio Wagner. Fue el lugar donde se estrenó Parsifal, la última ópera de Wagner (1882), así como Sigfrido y El ocaso de los dioses, las dos últimas partes del ciclo El anillo del nibelungo, que vio aquí también su primera representación integral (1876)."
+    }
+  },
   "beckton-gas-works": {
     "title": "Beckton Gas Works",
     "url": "https://en.wikipedia.org/wiki/Beckton_Gas_Works",
@@ -1049,6 +1077,20 @@
       "extract": "Bolonia o Boloña es una ciudad del norte de Italia, capital de la ciudad metropolitana homónima y de la región de Emilia-Romaña, situada entre los ríos Reno y Savena, cerca de los Apeninos. Es una de las ciudades históricas mejor conservadas y tiene el segundo casco antiguo medieval más grande de Europa, después del de Venecia. El comune tiene una población de 390 734 habitantes."
     }
   },
+  "bolshoi-theatre": {
+    "title": "Bolshoi Theatre",
+    "url": "https://en.wikipedia.org/wiki/Bolshoi_Theatre",
+    "extract": "The Bolshoi Theatre is a historic opera house in Moscow, Russia, originally designed by architect Joseph Bové. Before the October Revolution it was a part of the Imperial Theatres of the Russian Empire along with Maly Theatre in Moscow and a few theatres in Saint Petersburg.",
+    "description": "Theatre in Moscow, Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Moscow-Bolshoi-Theare-1.jpg/330px-Moscow-Bolshoi-Theare-1.jpg",
+    "lat": 55.76027778,
+    "lon": 37.61861111,
+    "es": {
+      "title": "Teatro Bolshói (Moscú)",
+      "url": "https://es.wikipedia.org/wiki/Teatro_Bolsh%C3%B3i_(Mosc%C3%BA)",
+      "extract": "El Teatro Bolshói es un histórico teatro de ópera de Moscú (Rusia), diseñado originalmente por el arquitecto Osip Bové. Antes de la Revolución de Octubre, formaba parte de los Teatros Imperiales del Imperio ruso, junto con el Teatro Maly de Moscú y algunos teatros de San Petersburgo."
+    }
+  },
   "bonn": {
     "title": "Bonn",
     "url": "https://en.wikipedia.org/wiki/Bonn",
@@ -1112,6 +1154,20 @@
     "description": "Stadtteil of Leipzig in Saxony, Germany",
     "lat": 51.40277778,
     "lon": 12.34444444
+  },
+  "bremen": {
+    "title": "Bremen",
+    "url": "https://en.wikipedia.org/wiki/Bremen",
+    "extract": "Bremen, officially the City Municipality of Bremen, is the capital and most populous city of the German state of the Free Hanseatic City of Bremen, a two-city-state consisting of the city of Bremen itself, and Bremerhaven. An important port city with about 586,000 inhabitants, this Hanseatic city is the 11th-largest city of Germany and the second-largest city in Northern Germany after Hamburg.",
+    "description": "City in Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Bremen_Rathaus%2C_Roland_und_Dom-blaue-Stunde-2024-msu-8259-.jpg/330px-Bremen_Rathaus%2C_Roland_und_Dom-blaue-Stunde-2024-msu-8259-.jpg",
+    "lat": 53.07583333,
+    "lon": 8.80722222,
+    "es": {
+      "title": "Bremen",
+      "url": "https://es.wikipedia.org/wiki/Bremen",
+      "extract": "Bremen es una ciudad del noroeste de Alemania, que forma junto con el puerto de Bremen o Bremerhaven, a unos 60 km al noroeste, la Ciudad Libre Hanseática de Bremen, o Estado de Bremen. La ciudad que alberga más de 566 573 habitantes, es la tercera ciudad del norte de Alemania por población, tan sólo por detrás de Berlín y Hamburgo y la undécima a nivel nacional."
+    }
   },
   "bretton-woods": {
     "title": "Bretton Woods, New Hampshire",
@@ -1509,6 +1565,20 @@
       "title": "Karkemish",
       "url": "https://es.wikipedia.org/wiki/Karkemish",
       "extract": "Karkemish, Carchemish o Carquemís fue una importante ciudad de los imperios mitanno, hitita y asirio, situada en lo que hoy es la actual frontera turco-siria, conocida por los romanos como Europus. Es famosa por ser el lugar de la importante batalla de Karkemish entre babilonios y egipcios, mencionada en la Biblia, cuando la ciudad es llamada Jerablus, probablemente una mutación del nombre en una lengua local para la ciudad, Jarablos y la proximidad con las actuales ciudades de Yarábulus en Siria y Karkamış en Turquía."
+    }
+  },
+  "carnegie-hall": {
+    "title": "Carnegie Hall",
+    "url": "https://en.wikipedia.org/wiki/Carnegie_Hall",
+    "extract": "Carnegie Hall is a concert venue at 881 Seventh Avenue, between 56th and 57th Streets, in Midtown Manhattan, New York City. Designed by architect William Burnet Tuthill and built by its namesake, industrialist and philanthropist Andrew Carnegie, the venue is one of the most prestigious in the world for both classical music and popular music. Carnegie Hall has its own artistic programming, development, and marketing departments and presents about 250 performances each season. It is also rented out to performing groups, though it has not had a resident company since the New York Philharmonic moved to Lincoln Center in 1962.",
+    "description": "Concert venue in Manhattan, New York",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Carnegie_Hall_-_Full_%2848155558466%29.jpg/330px-Carnegie_Hall_-_Full_%2848155558466%29.jpg",
+    "lat": 40.765,
+    "lon": -73.98,
+    "es": {
+      "title": "Carnegie Hall",
+      "url": "https://es.wikipedia.org/wiki/Carnegie_Hall",
+      "extract": "El Carnegie Hall es una sala de conciertos en Manhattan, Nueva York. Es uno de los sitios ilustres de los Estados Unidos tanto para los músicos clásicos como para los populares, famoso no solo por su belleza e historia, sino por su extraordinaria acústica. El Carnegie Hall se encuentra inscrito como un Hito Histórico Nacional en el Registro Nacional de Lugares Históricos desde el 15 de octubre de 1966. William Tuthill fue el arquitecto del Carnegie Hall. Ubicado entre la séptima Avenida y la Calle 50, a dos manzanas de Central Park."
     }
   },
   "carrhae": {
@@ -3607,6 +3677,20 @@
       "extract": "Kerbala es una ciudad de Irak, capital de la provincia de Al Kerbala."
     }
   },
+  "karlsruhe": {
+    "title": "Karlsruhe",
+    "url": "https://en.wikipedia.org/wiki/Karlsruhe",
+    "extract": "Karlsruhe is the third-largest city of the German state of Baden-Württemberg, after its capital Stuttgart and Mannheim, and the 22nd-largest city in the nation, with 308,436 inhabitants. It is also a former capital of Baden, a historic region named after Hohenbaden Castle in the city of Baden-Baden. Located on the right bank of the Rhine near the French border, between the Mannheim-Ludwigshafen conurbation to the north and Strasbourg to the south, Karlsruhe is Germany's legal center, being home to the Federal Constitutional Court, the Federal Court of Justice and the Public Prosecutor General.",
+    "description": "City in Baden-Württemberg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg/330px-Karlsruhe_asv2022-10_img07_Schloss_Karlsruhe.jpg",
+    "lat": 49.0092097,
+    "lon": 8.4039514,
+    "es": {
+      "title": "Karlsruhe",
+      "url": "https://es.wikipedia.org/wiki/Karlsruhe",
+      "extract": "Karlsruhe es la tercera ciudad más grande de Baden-Wurtemberg al suroeste de Alemania, a 15 km de la frontera con Francia."
+    }
+  },
   "kensington": {
     "title": "Kensington",
     "url": "https://en.wikipedia.org/wiki/Kensington",
@@ -3647,6 +3731,20 @@
       "title": "Río Jalja",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Jalja",
       "extract": "El río Jalja es un río fronterizo entre Mongolia oriental y China septentrional, cuya longitud es de 232 km. Desemboca en el lago Buir, un lago endorreico compartido por ambos países."
+    }
+  },
+  "khedivial-opera-house": {
+    "title": "Khedivial Opera House",
+    "url": "https://en.wikipedia.org/wiki/Khedivial_Opera_House",
+    "extract": "The Khedivial Opera House or Egyptian Royal Opera House was an opera house in Cairo, Egypt, the oldest opera house in all of Africa and the Middle East. It was inaugurated on 1 November 1869 and it burned down on 28 October 1971, and was superseded by the Cairo Opera House on 10 October 1988.",
+    "description": "Former opera house in Cairo, Egypt",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ModernEgypt%2C_Khedivial_Opera_House%2C_BAP_25178.jpg/330px-ModernEgypt%2C_Khedivial_Opera_House%2C_BAP_25178.jpg",
+    "lat": 30.0507,
+    "lon": 31.248,
+    "es": {
+      "title": "Teatro de Ópera del Jedive",
+      "url": "https://es.wikipedia.org/wiki/Teatro_de_%C3%93pera_del_Jedive",
+      "extract": "La Ópera del Jedive o la Ópera Real fue un teatro de ópera en El Cairo, Egipto, el más antiguo de toda África. Se inauguró el 1 de noviembre de 1869 y se incendió el 28 de octubre de 1971."
     }
   },
   "khorasan": {
@@ -3789,6 +3887,20 @@
       "extract": "Kioto  es una ciudad de Japón, localizada en la parte central de la isla de Honshu. Es la capital de la prefectura homónima y tradicionalmente también ha sido considerada capital de la región de Kansai, aunque esta sea solo una referencia geográfica más que un territorio administrativo concreto. Así mismo, está integrada dentro de la región metropolitana de Keihanshin, compuesta por las áreas circundantes de las ciudades de Osaka, Kōbe y la misma Kioto. Cuenta con una población de alrededor de 1 465 000 habitantes, situándose entre las ciudades japonesas más pobladas. El área total del territorio de la ciudad es de 827,83 km²."
     }
   },
+  "la-fenice": {
+    "title": "La Fenice",
+    "url": "https://en.wikipedia.org/wiki/La_Fenice",
+    "extract": "Teatro La Fenice is a historic opera house in Venice, Italy. It is one of \"the most famous and renowned landmarks in the history of Italian theatre\" and in the history of opera as a whole. Especially in the 19th century, La Fenice became the site of many famous operatic premieres at which several works by the four major bel canto era composers—Rossini, Bellini, Donizetti, and Verdi—were performed.",
+    "description": "Opera house in Venice, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Gran_Teatro_La_Fenice%2C_Venice_%2830906998336%29.jpg/330px-Gran_Teatro_La_Fenice%2C_Venice_%2830906998336%29.jpg",
+    "lat": 45.4337,
+    "lon": 12.3339,
+    "es": {
+      "title": "La Fenice",
+      "url": "https://es.wikipedia.org/wiki/La_Fenice",
+      "extract": "Teatro La Fenice es un teatro de la ciudad de Venecia (Italia), considerado uno de los teatros de ópera más famosos por haberse estrenado en él muchas de las óperas italianas más conocidas. Inaugurado en 1792, tras dos incendios en 1836 y 1996, continúa en activo desde 2003."
+    }
+  },
   "la-higuera": {
     "title": "La Higuera",
     "url": "https://en.wikipedia.org/wiki/La_Higuera",
@@ -3829,6 +3941,20 @@
       "title": "La Rochelle",
       "url": "https://es.wikipedia.org/wiki/La_Rochelle",
       "extract": "La Rochelle es una ciudad ubicada en la costa atlántica de Francia, capital del departamento de Charente Marítimo, en la región de Nueva Aquitania. Ha sido un centro de pesca y comercio desde el siglo XII. La ciudad antigua tiene casas medievales con entramado de madera y arquitectura renacentista, que incluye callejones cubiertos con arcos del siglo XVII. Alberga un aeropuerto compartido con la isla de Ré."
+    }
+  },
+  "la-scala": {
+    "title": "La Scala",
+    "url": "https://en.wikipedia.org/wiki/La_Scala",
+    "extract": "La Scala is a historic opera house in Milan, Italy. The theatre was inaugurated on 3 August 1778 and was originally known as il Nuovo Regio Ducale Teatro alla Scala. The premiere performance was Antonio Salieri's Europa riconosciuta.",
+    "description": "Opera house in Milan, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Exterior_Teatro_Alla_Scala_high_quality_01.jpg/330px-Exterior_Teatro_Alla_Scala_high_quality_01.jpg",
+    "lat": 45.4675,
+    "lon": 9.18916667,
+    "es": {
+      "title": "Teatro de La Scala",
+      "url": "https://es.wikipedia.org/wiki/Teatro_de_La_Scala",
+      "extract": "La Scala, abreviatura del nombre oficial italiano, Teatro alla Scala es un famoso teatro de ópera de Milán, Italia. El teatro fue inaugurado el 3 de agosto de 1778 y originalmente se conocía como Nuovo Regio Ducale Teatro alla Scala. La primera representación que se estrenó en el teatro fue la ópera Europa riconosciuta de Antonio Salieri."
     }
   },
   "lagos-portugal": {
@@ -4382,6 +4508,20 @@
       "extract": "Mariel es un municipio de la Provincia de Artemisa en Cuba. Mariel es también el nombre del poblado cabecera municipal y de la bahía y puerto."
     }
   },
+  "mariinsky-theatre": {
+    "title": "Mariinsky Theatre",
+    "url": "https://en.wikipedia.org/wiki/Mariinsky_Theatre",
+    "extract": "The Mariinsky Theatre is a historic opera house in Saint Petersburg, Russia. Opened in 1860, it became the preeminent music theatre of late 19th-century Russia, where many of the stage masterpieces of Tchaikovsky, Mussorgsky, and Rimsky-Korsakov received their premieres. Through most of the Soviet era, it was known as the Kirov Theatre. Today, the Mariinsky Theatre is home to the Mariinsky Ballet, Mariinsky Opera and Mariinsky Orchestra. After Yuri Temirkanov's retirement in 1988, the conductor Valery Gergiev became the theatre's general director.",
+    "description": "Theatre in Saint Petersburg, Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80%2C_%D1%84%D0%B0%D1%81%D0%B0%D0%B4_%28edited_version%29.jpg/330px-%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80%2C_%D1%84%D0%B0%D1%81%D0%B0%D0%B4_%28edited_version%29.jpg",
+    "lat": 59.92555556,
+    "lon": 30.29611111,
+    "es": {
+      "title": "Teatro Mariinski",
+      "url": "https://es.wikipedia.org/wiki/Teatro_Mariinski",
+      "extract": "El Teatro Mariinski, conocido durante la época soviética como el Teatro de Ópera y Ballet Kírov (1935-1992) y como Academia Nacional de Ópera y Ballet (1920-1935), es un teatro histórico de ópera y ballet en San Petersburgo, Rusia. \nEs sede del célebre Ballet Mariinski y de la Orquesta del Teatro Mariinski."
+    }
+  },
   "marseille": {
     "title": "Marseille",
     "url": "https://en.wikipedia.org/wiki/Marseille",
@@ -4664,6 +4804,20 @@
       "title": "Míkulov",
       "url": "https://es.wikipedia.org/wiki/M%C3%ADkulov",
       "extract": "Míkulov es una ciudad de la región de Moravia del sur de la República Checa, en la frontera con Baja Austria."
+    }
+  },
+  "milan": {
+    "title": "Milan",
+    "url": "https://en.wikipedia.org/wiki/Milan",
+    "extract": "Milan is the capital and largest city of the region of Lombardy, in northern Italy, and the seat of the Metropolitan City of Milan. It is the second-largest city in Italy after the country's capital, Rome, with a population of 1,362,863 in 2026. The city's wider metropolitan area is the largest in Italy, and the fourth-largest in the European Union, with an estimated population of 6.55 million. Milan is considered Italy's economic capital, and its metropolitan area accounts for about 20% of the country's GDP.",
+    "description": "Second-largest city in Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/330px-Milan_Cathedral_from_Piazza_del_Duomo.jpg",
+    "lat": 45.46694444,
+    "lon": 9.19,
+    "es": {
+      "title": "Milán",
+      "url": "https://es.wikipedia.org/wiki/Mil%C3%A1n",
+      "extract": "Milán es la mayor área metropolitana de Italia y el segundo municipio de Italia por población después de Roma, capital de la Ciudad metropolitana de Milán y de la región de Lombardía. Se encuentra ubicada en la llanura padana, una de las regiones más desarrolladas de Italia. En 2008, el PIB de la ciudad se estimó que era de 366 000 millones de euros, según el INSEE, siendo el segundo más alto de Europa después de la región de París."
     }
   },
   "miletus": {
@@ -5264,6 +5418,18 @@
       "extract": "Olinto fue una antigua ciudad griega y ciudad-Estado (polis) en Tracia, en la actual península de Calcídica, la principal ciudad de los calcídicos, fue construida principalmente sobre dos elevaciones, en una llanura fértil, entre el golfo de Torone y Sitonia,"
     }
   },
+  "opera-comique": {
+    "title": "Opéra-Comique",
+    "url": "https://en.wikipedia.org/wiki/Op%C3%A9ra-Comique",
+    "extract": "The Opéra-Comique is a Paris opera company which was founded around 1714 by some of the popular theatres of the Parisian fairs. In 1762 the company was merged with – and for a time took the name of – its chief rival, the Comédie-Italienne at the Hôtel de Bourgogne. It was also called the Théâtre-Italien up to about 1793, when it again became most commonly known as the Opéra-Comique. The company's official name is Théâtre national de l'Opéra-Comique, and its theatre, with a capacity of around 1,248 seats, sometimes referred to as the Salle Favart, is located at Place Boïeldieu in the 2nd arrondissement of Paris, not far from the Palais Garnier, one of the theatres of the Paris Opéra. The musicians and others associated with the Opéra-Comique have made important contributions to operatic history and tradition in France and to French opera. Its mission is to reconnect with its history and discover its unique repertoire to ensure production and dissemination of operas for the wider public. Mainstays of the repertory at the Opéra-Comique during its history have included works which have each been performed more than 1,000 times by the company: Cavalleria Rusticana, Le chalet, La dame blanche, Le domino noir, La fille du régiment, Lakmé, Manon, Mignon, Les noces de Jeannette, Le pré aux clercs, Tosca, La bohème, Werther and Carmen, the last having been performed more than 2,500 times.",
+    "description": "Opera company in Paris, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Salle_Favart_proscenium.jpg/330px-Salle_Favart_proscenium.jpg",
+    "es": {
+      "title": "Teatro Nacional de la Opéra-Comique",
+      "url": "https://es.wikipedia.org/wiki/Teatro_Nacional_de_la_Op%C3%A9ra-Comique",
+      "extract": "El Teatro Nacional de la Opéra-Comique es una sala de espectáculos situada en la plaza Boieldieu, en el II Distrito de la ciudad de París. Recibe su nombre del género lírico al que estuvo consagrada, la opéra-comique, conocido como Comédie Italienne[cita requerida] y que le valió en su origen la denominación de Teatro de los Italianos, si bien dicha institución también tuvo sedes de representación dramática en el Théâtre Feydeau, la Sala Favart, el Théâtre Louvois y el actual Théâtre de l'Odéon."
+    }
+  },
   "oppenheim": {
     "title": "Oppenheim",
     "url": "https://en.wikipedia.org/wiki/Oppenheim",
@@ -5290,6 +5456,20 @@
       "title": "Huesca",
       "url": "https://es.wikipedia.org/wiki/Huesca",
       "extract": "Huesca es una ciudad y municipio español, capital de la provincia homónima y de la comarca de la Hoya de Huesca, situada al norte de la comunidad autónoma de Aragón. Cuenta con una población de 55 454 habitantes, repartidos en una superficie de 161,03 km², con lo que es una de las capitales de provincia con menor población en España, en ella vive casi un cuarto de la población de la provincia. Celebra sus fiestas mayores en honor a San Lorenzo, patrón de la ciudad, del 9 al 15 de agosto."
+    }
+  },
+  "oslo": {
+    "title": "Oslo",
+    "url": "https://en.wikipedia.org/wiki/Oslo",
+    "extract": "Oslo is the capital and largest city of Norway. It constitutes both a county and a municipality. The municipality of Oslo had a population of 724,290 in 2025, while the city's greater urban area had a population of 1,110,887 in 2025, and the metropolitan area had an estimated population of 1,546,706 in 2021.",
+    "description": "Capital and most populous city of Norway",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nationaltheatret_evening.jpg/330px-Nationaltheatret_evening.jpg",
+    "lat": 59.91333333,
+    "lon": 10.73888889,
+    "es": {
+      "title": "Oslo",
+      "url": "https://es.wikipedia.org/wiki/Oslo",
+      "extract": "Oslo es la capital y la ciudad más poblada de Noruega, además de ser su centro político, económico y cultural. Políticamente constituye un municipio y a la vez una de las diecinueve provincias del país. Según el censo del 21 de noviembre de 2018, su población era de 673 469 habitantes. Es la tercera ciudad y área urbana escandinava más poblada, solo superada por Copenhague y Estocolmo."
     }
   },
   "osnabruck": {
@@ -6034,6 +6214,19 @@
       "extract": "Qumrán es un sitio arqueológico localizado en Cisjordania (Palestina), en el norte del Valle del Mar Muerto y administrado por el Parque Nacional Qumrandebido a la ocupación israelí. Está emplazado en una meseta de marga seca a unos 1,5 km de la costa noroeste del Mar Muerto, junto al kibutz de Kalia. El asentamiento del período helenístico fue construido durante el reinado del mandatario asmoneo Juan Hircano I entre 134 y 104 a. C., y tuvo diferentes etapas de ocupación hasta probablemente la caída de Jerusalén en el año 70, cuando Tito y la Legio X Fretensis destruyeron el asentamiento esenio en el año 68. La importancia de este wadi es la presencia de las ruinas (khirbet) de Qumrán y de las cuevas descubiertas en 1947, que contenían un valioso tesoro arqueológico y bíblico."
     }
   },
+  "raiding": {
+    "title": "Raiding, Austria",
+    "url": "https://en.wikipedia.org/wiki/Raiding%2C_Austria",
+    "extract": "Raiding is a small Austrian market town in the district of Oberpullendorf in Burgenland. It is the birthplace of Franz Liszt.",
+    "description": "Place in Burgenland, Austria",
+    "lat": 47.56666667,
+    "lon": 16.53333333,
+    "es": {
+      "title": "Raiding",
+      "url": "https://es.wikipedia.org/wiki/Raiding",
+      "extract": "Raiding es un pueblo ubicado al este de Austria, en el estado de Burgenland."
+    }
+  },
   "rain-bavaria": {
     "title": "Rain, Swabia",
     "url": "https://en.wikipedia.org/wiki/Rain%2C_Swabia",
@@ -6280,6 +6473,20 @@
       "extract": "Roma es una ciudad, capital de la región del Lacio y de Italia. Con una población de 2 857 321 habitantes, es el municipio más poblado de Italia y la tercera ciudad más poblada de la Unión Europea. Por antonomasia, se la conoce desde la Antigüedad como la Urbe (Urbs). También es llamada «La Ciudad Eterna»."
     }
   },
+  "roncole-verdi": {
+    "title": "Le Roncole",
+    "url": "https://en.wikipedia.org/wiki/Le_Roncole",
+    "extract": "Le Roncole is a village in the province of Parma of Italy, a frazione of the comune of Busseto. It is located 140 km southeast of Milan.",
+    "description": "Village in Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Giuseppe_Verdi_casa_natale.jpg/330px-Giuseppe_Verdi_casa_natale.jpg",
+    "lat": 44.9525,
+    "lon": 10.07222222,
+    "es": {
+      "title": "Le Roncole",
+      "url": "https://es.wikipedia.org/wiki/Le_Roncole",
+      "extract": "Le Roncole es un pueblo en la provincia de Parma de Italia, una frazione de la comune de Busseto. Está localizado 140 km al sureste de Milán."
+    }
+  },
   "rubicon": {
     "title": "Rubicon",
     "url": "https://en.wikipedia.org/wiki/Rubicon",
@@ -6362,6 +6569,20 @@
       "title": "Saint-Julien-en-Genevois",
       "url": "https://es.wikipedia.org/wiki/Saint-Julien-en-Genevois",
       "extract": "Saint-Julien-en-Genevois es una comuna francesa situada en el departamento de Alta Saboya, de la región de Auvernia-Ródano-Alpes. Es la subprefectura de su distrito y el bureau centralisateur de su cantón. Pertenece al Gran Ginebra."
+    }
+  },
+  "saint-petersburg": {
+    "title": "Saint Petersburg",
+    "url": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+    "extract": "Saint Petersburg, formerly known as Petrograd and then Leningrad, is the second-largest city in Russia, after Moscow, the nation's capital. St. Petersburg is situated on the Neva River at the head of the Gulf of Finland on the Baltic Sea. Its area of 1,439 km2 (556 sq mi) makes it the smallest administrative division of Russia. In the 2021 census, the city had 5,601,911 residents, making it the fourth-most-populous city in Europe, the most populous city on the Baltic Sea, and the world's northernmost city with a population of more than one million. As the former capital of the Russian Empire and a historically strategic Baltic port, St Petersburg is governed as a federal city.",
+    "description": "Second-largest city in Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg/330px-Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg",
+    "lat": 59.9375,
+    "lon": 30.30861111,
+    "es": {
+      "title": "San Petersburgo",
+      "url": "https://es.wikipedia.org/wiki/San_Petersburgo",
+      "extract": "San Petersburgo, anteriormente conocida como Leningrado (Ленинград) y Petrogrado (Петроград), y también llamada Píter de forma coloquial, es una ciudad en Rusia. Es además una de las tres ciudades federales que, junto con los 48 óblast, 24 repúblicas, nueve krais, cuatro distritos autónomos y un óblast autónomo, conforman los 89 sujetos federales del país. Situada sobre la desembocadura del río Nevá en el golfo de Finlandia, con 5 383 890 habitantes (2019) es la segunda ciudad más poblada e importante del país, solo superada por la capital, Moscú. Se la conoce también como «la Venecia del Norte», por sus numerosos canales. Es considerada una de las capitales más bellas de Europa, y una de las capitales culturales de Europa y del mundo."
     }
   },
   "sakhalin": {
@@ -7711,6 +7932,20 @@
       "extract": "El palacio de las Tullerías fue un palacio imperial y real situado en el centro de París, formando junto al Louvre un único complejo arquitectónico."
     }
   },
+  "turin": {
+    "title": "Turin",
+    "url": "https://en.wikipedia.org/wiki/Turin",
+    "extract": "Turin is a city and a business and cultural centre in northern Italy. It is the capital and largest city of Piedmont and of the Metropolitan City of Turin. From 1861 to 1865, it was the first capital of the Kingdom of Italy. The city is mainly on the western bank of the River Po, below its Susa Valley, and is surrounded by the western Alpine arch and Superga hill. The population of the city proper is 855,654 as of 2026, while the population of the urban area is estimated by Eurostat to be 1.7 million inhabitants. The Turin metropolitan area is estimated by the OECD to have a population of 2.2 million.",
+    "description": "City in Piedmont, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Torino_Piazza_Castello_11.jpg/330px-Torino_Piazza_Castello_11.jpg",
+    "lat": 45.07916667,
+    "lon": 7.67611111,
+    "es": {
+      "title": "Turín",
+      "url": "https://es.wikipedia.org/wiki/Tur%C3%ADn",
+      "extract": "Turín es una ciudad, importante centro cultural y de negocios del norte de Italia, capital de la región de Piamonte, localizada principalmente en el margen izquierdo del río Po y rodeada por los Alpes. Tiene una población de 856 745 habitantes."
+    }
+  },
   "tyre": {
     "title": "Tyre, Lebanon",
     "url": "https://en.wikipedia.org/wiki/Tyre%2C_Lebanon",
@@ -8092,6 +8327,20 @@
       "extract": "Volsinii fue una antigua ciudad etrusca y después romana."
     }
   },
+  "votkinsk": {
+    "title": "Votkinsk",
+    "url": "https://en.wikipedia.org/wiki/Votkinsk",
+    "extract": "Votkinsk, also known as Votka, is an industrial town in the Udmurt Republic, Russia. As of 2021, its population was 97,471.",
+    "description": "Town in the Udmurt Republic, Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Annunciation_Cathedral%2C_Votkinsk-2.jpg/330px-Annunciation_Cathedral%2C_Votkinsk-2.jpg",
+    "lat": 57.05,
+    "lon": 54,
+    "es": {
+      "title": "Vótkinsk",
+      "url": "https://es.wikipedia.org/wiki/V%C3%B3tkinsk",
+      "extract": "Vótkinsk es una pequeña ciudad industrial de los montes Urales, en la república rusa de Udmurtia. Fue el lugar de nacimiento del músico Piotr Ilich Chaikovski (1840-1893), y donde vivieron sus hermanos Modest, Ippolit, Anatoli y Alexandra. Se encuentra a dos kilómetros de los Montes Urales. Según el censo de 2013 cuenta con una población de 98.287 habitantes."
+    }
+  },
   "wadi-el-hol": {
     "title": "Wadi el-Hol inscriptions",
     "url": "https://en.wikipedia.org/wiki/Wadi_el-Hol_inscriptions",
@@ -8125,6 +8374,20 @@
       "title": "Washington D. C.",
       "url": "https://es.wikipedia.org/wiki/Washington_D._C.",
       "extract": "Washington D. C., oficialmente denominada Distrito de Columbia, es la capital federal de Estados Unidos. Se administra como distrito federal, una entidad diferente a los cincuenta estados que componen dicha nación, que depende directamente del Gobierno federal. El Distrito de Columbia fue fundado el 16 de julio de 1790, y en 1791 se oficializó, dentro del distrito, una nueva ciudad denominada Washington, al este de la ya existente Georgetown. En 1871 se unificaron los gobiernos de estas dos ciudades y del resto de poblaciones del distrito en una sola entidad, D. C.."
+    }
+  },
+  "weimar": {
+    "title": "Weimar",
+    "url": "https://en.wikipedia.org/wiki/Weimar",
+    "extract": "Weimar is a city in the German state of Thuringia, in Central Germany between Erfurt to the west and Jena to the east, 80 km (50 mi) southwest of Leipzig, 170 km (106 mi) north of Nuremberg and 170 km (106 mi) west of Dresden. Together with the neighbouring cities of Erfurt and Jena, it forms the central metropolitan area of Thuringia, with approximately 500,000 inhabitants. The city itself has a population of 65,000. Weimar is well known because of its cultural heritage and importance in German history.",
+    "description": "Town in Thuringia, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Weimar_stadtschloss_front_2025.jpg/330px-Weimar_stadtschloss_front_2025.jpg",
+    "lat": 50.98111111,
+    "lon": 11.32944444,
+    "es": {
+      "title": "Weimar",
+      "url": "https://es.wikipedia.org/wiki/Weimar",
+      "extract": "Weimar es una ciudad del estado federado de Turingia en Alemania, conocida por su rico legado cultural. Está situada a orillas del río Ilm y al pie de la montaña de Ettersberg, al norte del bosque de Turingia. La ciudad está dividida en trece distritos."
     }
   },
   "wenceslas-square": {
@@ -8335,6 +8598,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Zile_gece.jpg/330px-Zile_gece.jpg",
     "lat": 40.3,
     "lon": 35.88333333
+  },
+  "zelazowa-wola": {
+    "title": "Żelazowa Wola",
+    "url": "https://en.wikipedia.org/wiki/%C5%BBelazowa_Wola",
+    "extract": "Żelazowa Wola is a village in Gmina Sochaczew, Sochaczew County, Masovian Voivodeship, in east-central Poland.",
+    "description": "Village in Masovian Voivodeship, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Poland_Zelazowa_Wola.jpg/330px-Poland_Zelazowa_Wola.jpg",
+    "lat": 52.25,
+    "lon": 20.31666667,
+    "es": {
+      "title": "Żelazowa Wola",
+      "url": "https://es.wikipedia.org/wiki/%C5%BBelazowa_Wola",
+      "extract": "Żelazowa Wola [] es una aldea al lado del río Utrata en el Voivodato de Mazovia, a 50 km de Varsovia, Polonia."
+    }
   },
   "zhenbao-island": {
     "title": "Zhenbao Island",
