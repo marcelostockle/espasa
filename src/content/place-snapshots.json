@@ -402,6 +402,20 @@
       "extract": "Arjanes es una localidad y unidad municipal de Grecia que pertenece al municipio de Arjanes-Asterusia y a la unidad periférica de Heraclión, pocos kilómetros al sur de Cnosos, en la zona central de la isla de Creta. La zona contiene importantes ruinas de época minoica, aunque el terreno para las excavaciones está muy limitado por las edificaciones modernas."
     }
   },
+  "arco-idaho": {
+    "title": "Arco, Idaho",
+    "url": "https://en.wikipedia.org/wiki/Arco%2C_Idaho",
+    "extract": "Arco is a city in Butte County, Idaho, United States. The population was 879 as of the 2020 United States census, down from 995 at the 2010 census. Arco is the county seat and largest city in Butte County.",
+    "description": "City in Idaho, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Arco%2C_Idaho.jpg/330px-Arco%2C_Idaho.jpg",
+    "lat": 43.62583333,
+    "lon": -113.30166667,
+    "es": {
+      "title": "Arco (Idaho)",
+      "url": "https://es.wikipedia.org/wiki/Arco_(Idaho)",
+      "extract": "Arco es una ciudad ubicada en el condado de Butte, Idaho, Estados Unidos. Tiene una población estimada, a mediados de 2022, de 913 habitantes."
+    }
+  },
   "arpino": {
     "title": "Arpino",
     "url": "https://en.wikipedia.org/wiki/Arpino",
@@ -1607,6 +1621,20 @@
       "extract": "Chernóbil es una ciudad situada al norte de Ucrania, en la óblast de Kiev, cerca de la frontera con Bielorrusia."
     }
   },
+  "chicago": {
+    "title": "Chicago",
+    "url": "https://en.wikipedia.org/wiki/Chicago",
+    "extract": "Chicago is the most populous city in the U.S. state of Illinois and in the Midwestern United States. Located on the western shore of Lake Michigan, it is the third-most populous city in the United States and the fifth-most populous city in North America, with a population of 2.74 million at the 2020 census. The Chicago metropolitan area has approximately 9.62 million residents according to the 2020 census and is the third-largest metropolitan statistical area in the country and part of the fourth-largest combined statistical area in the United States, spanning 19 counties in three states and with a population of nearly 10 million. Chicago is the county seat of Cook County, the second-most populous county in the U.S.",
+    "description": "Most populous city in Illinois, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/330px-Chicago_River_ferry_b.jpg",
+    "lat": 41.88194444,
+    "lon": -87.62777778,
+    "es": {
+      "title": "Chicago",
+      "url": "https://es.wikipedia.org/wiki/Chicago",
+      "extract": "Chicago es la ciudad más poblada del estado de Illinois, Estados Unidos, y la tercera del país, después de Nueva York y Los Ángeles.Ubicada a lo largo de la costa suroeste del lago Míchigan, es la sede del condado de Cook y el núcleo principal del área metropolitana de Chicago, una conurbación integrada por los condados periféricos y que cuenta con una población de 9.5 millones de habitantes."
+    }
+  },
   "cholula": {
     "title": "Cholula, Puebla",
     "url": "https://en.wikipedia.org/wiki/Cholula%2C_Puebla",
@@ -2493,6 +2521,20 @@
       "extract": "Friburgo es una pequeña ciudad de la Suiza occidental, capital del cantón de Friburgo y del distrito de Sarine. Friburgo es una de las tres ciudades bilingües de Suiza, unas 21.000 personas hablan francés, mientras que unas 8.300 hablan alemán. Se ubica en la región llamada Üechtland."
     }
   },
+  "fukushima-daiichi": {
+    "title": "Fukushima Daiichi Nuclear Power Plant",
+    "url": "https://en.wikipedia.org/wiki/Fukushima_Daiichi_Nuclear_Power_Plant",
+    "extract": "The Fukushima Daiichi Nuclear Power Plant  is a disabled nuclear power plant located on a 350-hectare (860-acre) site in the towns of Ōkuma and Futaba in Fukushima Prefecture, Japan. The plant suffered major damage from the magnitude 9.1 earthquake and tsunami that hit Japan on March 11, 2011. The chain of events caused meltdowns, radiation leaks and severely damaged several of its reactors, making them impossible to restart. The working reactors were not restarted after the events.",
+    "description": "Disabled nuclear power plant in Japan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Fukushima_Daiichi_04780015_%288388174045%29.jpg/330px-Fukushima_Daiichi_04780015_%288388174045%29.jpg",
+    "lat": 37.42305556,
+    "lon": 141.03305556,
+    "es": {
+      "title": "Central nuclear Fukushima I",
+      "url": "https://es.wikipedia.org/wiki/Central_nuclear_Fukushima_I",
+      "extract": "La central nuclear Fukushima Dai-ichi o Fukushima I  es una planta nuclear con un conjunto de seis reactores de agua en ebullición, situada en la villa de Ōkuma en el distrito Futaba de la prefectura de Fukushima, en Japón."
+    }
+  },
   "fulton": {
     "title": "Fulton, Missouri",
     "url": "https://en.wikipedia.org/wiki/Fulton%2C_Missouri",
@@ -2818,6 +2860,20 @@
       "title": "Granada (país)",
       "url": "https://es.wikipedia.org/wiki/Granada_(pa%C3%ADs)",
       "extract": "Granada es un país insular de América, que forma parte de las Antillas Menores, en el mar Caribe. Es el segundo país independiente más pequeño del hemisferio occidental por lo que es considerado un micro-Estado. Se encuentra en la zona sureste del mar Caribe, al sur de San Vicente y las Granadinas, a 160 km al norte de Trinidad y Tobago y al nordeste del territorio continental de Venezuela, y a 109 km al sur de San Vicente y las Granadinas."
+    }
+  },
+  "groton-connecticut": {
+    "title": "Groton, Connecticut",
+    "url": "https://en.wikipedia.org/wiki/Groton%2C_Connecticut",
+    "extract": "Groton is a town in New London County, Connecticut, located on the Thames River. It is the home of General Dynamics Electric Boat, which is the major contractor for submarine work for the United States Navy. The Naval Submarine Base New London is located in Groton, and the pharmaceutical company Pfizer is also a major employer. Avery Point in Groton is home to a regional campus of the University of Connecticut. The town is part of the Southeastern Connecticut Planning Region. The population was 38,411 at the 2020 census.",
+    "description": "Town in New London County, Connecticut",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/USS_Nautilus_SSN571.JPG/330px-USS_Nautilus_SSN571.JPG",
+    "lat": 41.34833333,
+    "lon": -72.0775,
+    "es": {
+      "title": "Groton (Connecticut)",
+      "url": "https://es.wikipedia.org/wiki/Groton_(Connecticut)",
+      "extract": "Groton es un pueblo que se encuentra junto al río Thames en el Condado de New London, Connecticut. En el censo del año 2010, el pueblo tenía una población de 10 389 habitantes. Allí está la sede de la General Dynamics Electric Boat, la mayor contratista de submarinos de la Marina de EE. UU.. La compañía farmacéutica Pfizer es la empresa que genera más empleos en el municipio."
     }
   },
   "guadalete": {
@@ -5003,6 +5059,20 @@
       "extract": "Núremberg, antiguamente en español Nuremberga, es una ciudad alemana a orillas del río Pegnitz, en la región de la Franconia Media, perteneciente al estado de Baviera. Tiene una población de 544 200 habitantes (2023), por lo que es la segunda ciudad más poblada del estado tras Múnich y la decimocuarta del país."
     }
   },
+  "obninsk": {
+    "title": "Obninsk",
+    "url": "https://en.wikipedia.org/wiki/Obninsk",
+    "extract": "Obninsk is a city in Kaluga Oblast, Russia, located on the bank of the Protva River 100 kilometers (62 mi) southwest of Moscow and 80 kilometers (50 mi) northeast of Kaluga. Its population is 125,376 at the 2021 census.",
+    "description": "City in Kaluga Oblast, Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Obninsk_2021.jpg/330px-Obninsk_2021.jpg",
+    "lat": 55.09305556,
+    "lon": 36.61055556,
+    "es": {
+      "title": "Óbninsk",
+      "url": "https://es.wikipedia.org/wiki/%C3%93bninsk",
+      "extract": "Óbninsk es una ciudad en el centro de la parte europea de la Federación de Rusia. Es el primer naukogrado de Rusia. Está situada al norte de la óblast de Kaluga, a 108 km al suroeste de Moscú. No lejos de la orilla del río Protvá."
+    }
+  },
   "okinawa-island": {
     "title": "Okinawa Island",
     "url": "https://en.wikipedia.org/wiki/Okinawa_Island",
@@ -6403,6 +6473,20 @@
       "extract": "Esmalcalda es una ciudad alemana del estado de Turingia."
     }
   },
+  "sellafield": {
+    "title": "Sellafield",
+    "url": "https://en.wikipedia.org/wiki/Sellafield",
+    "extract": "Sellafield, formerly known as Windscale, is a large multi-function nuclear site close to Seascale on the coast of Cumbria, England. As of August 2022, primary activities are nuclear waste processing and storage and nuclear decommissioning. Former activities included nuclear power generation from 1956 to 2003, and nuclear fuel reprocessing from 1952 to 2022.",
+    "description": "Nuclear site in Cumbria, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aerial_view_Sellafield%2C_Cumbria_-_geograph.org.uk_-_50827.jpg/330px-Aerial_view_Sellafield%2C_Cumbria_-_geograph.org.uk_-_50827.jpg",
+    "lat": 54.4205,
+    "lon": -3.4975,
+    "es": {
+      "title": "Sellafield",
+      "url": "https://es.wikipedia.org/wiki/Sellafield",
+      "extract": "Sellafield es operado por British Nuclear Fuels Limited, pero es propiedad desde el 1 de abril de 2005 de la Nuclear Decommissioning Authority. Alberga las plantas de reprocesado de combustible nuclear Thorp y Magnox, el reactor nuclear inactivo Magnox Calder Hall, la segunda estación de energía nuclear comercial del mundo, y otras viejas instalaciones."
+    }
+  },
   "semipalatinsk": {
     "title": "Semipalatinsk Test Site",
     "url": "https://en.wikipedia.org/wiki/Semipalatinsk_Test_Site",
@@ -6559,6 +6643,20 @@
       "title": "Shimonoseki",
       "url": "https://es.wikipedia.org/wiki/Shimonoseki",
       "extract": "La ciudad de Shimonoseki  de Japón está situada en el extremo suroeste de la isla de Honshū, en la prefectura de Yamaguchi. Se ubica frente a la ciudad de Kitakyūshū, en la isla de Kyūshū, y ambas se comunican por túneles de ferrocarril y de carretera. Shimonoseki es uno de los principales puertos pesqueros del país y un importante núcleo industrial con astilleros, fábricas de productos químicos, textiles, de conservas e ingeniería. La principal atracción turística es el santuario shinto dedicado al Emperador Antoku. En Shimonoseki, antes denominada Akamagaseki y que popularmente se conocía como Bakan, se firmó el tratado que puso fin a la Primera Guerra Sino-japonesa de 1894-1895."
+    }
+  },
+  "shippingport": {
+    "title": "Shippingport Atomic Power Station",
+    "url": "https://en.wikipedia.org/wiki/Shippingport_Atomic_Power_Station",
+    "extract": "The Shippingport Atomic Power Station was the world's first full-scale atomic electric power plant devoted exclusively to peacetime uses.\nIt was located near the later Beaver Valley Nuclear Generating Station on the Ohio River in Beaver County, Pennsylvania, United States, about 25 miles (40 km) from Pittsburgh.",
+    "description": "United States atomic electricity plant (1957–1982)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Shippingport_Reactor.jpg/330px-Shippingport_Reactor.jpg",
+    "lat": 40.62111111,
+    "lon": -80.43527778,
+    "es": {
+      "title": "Central nuclear de Shippingport",
+      "url": "https://es.wikipedia.org/wiki/Central_nuclear_de_Shippingport",
+      "extract": "La central nuclear de Shippingport, está situada en el río Ohio en el Condado de Beaver, Pensilvania cerca de 40 km de Pittsburgh. Empezó a funcionar el 2 de diciembre de 1957, y estuvo funcionando hasta octubre de 1982."
     }
   },
   "sierra-maestra": {
@@ -7105,6 +7203,20 @@
     "url": "https://en.wikipedia.org/wiki/Circles_of_latitude_between_the_35th_parallel_north_and_the_40th_parallel_north",
     "extract": "Following are circles of latitude between the 35th parallel north and the 40th parallel north:",
     "description": "Circles of latitude"
+  },
+  "three-mile-island": {
+    "title": "Three Mile Island Nuclear Generating Station",
+    "url": "https://en.wikipedia.org/wiki/Three_Mile_Island_Nuclear_Generating_Station",
+    "extract": "Three Mile Island Nuclear Generating Station, is a shut-down nuclear power plant on Three Mile Island in Pennsylvania, US, on the Susquehanna River just south of Harrisburg. It has two separate units, Unit 1 (TMI-1) and Unit 2 (TMI-2).",
+    "description": "Closed power plant in Pennsylvania, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f3/Historic_logo_of_the_Three_Mile_Island_Nuclear_Generating_Station.svg/330px-Historic_logo_of_the_Three_Mile_Island_Nuclear_Generating_Station.svg.png",
+    "lat": 40.15388889,
+    "lon": -76.72472222,
+    "es": {
+      "title": "Planta de energía nuclear Three Mile Island",
+      "url": "https://es.wikipedia.org/wiki/Planta_de_energ%C3%ADa_nuclear_Three_Mile_Island",
+      "extract": "La central nuclear de Three Mile Island es una central nuclear civil situada en la isla artificial de Three Mile Island, en el río Susquehanna, cerca de Harrisburg, Pensilvania, Estados Unidos. Inicialmente contaba con dos reactores de agua presurizada, pero después de que el TMI-2 sufriera una fusión en 1979, su núcleo fue retirado del emplazamiento."
+    }
   },
   "tiananmen-square": {
     "title": "Tiananmen Square",

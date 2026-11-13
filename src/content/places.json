@@ -260,6 +260,15 @@
       }
     }
   },
+  "arco-idaho": {
+    "label": "Arco, Idaho",
+    "wikipedia": "Arco, Idaho",
+    "translations": {
+      "es": {
+        "label": "Arco (Idaho)"
+      }
+    }
+  },
   "arpino": {
     "label": "Arpinum (Arpino)",
     "wikipedia": "Arpino",
@@ -1061,6 +1070,15 @@
       }
     }
   },
+  "chicago": {
+    "label": "Chicago",
+    "wikipedia": "Chicago",
+    "translations": {
+      "es": {
+        "label": "Chicago"
+      }
+    }
+  },
   "cholula": {
     "label": "Cholula",
     "wikipedia": "Cholula, Puebla",
@@ -1637,6 +1655,15 @@
       }
     }
   },
+  "fukushima-daiichi": {
+    "label": "Fukushima Daiichi",
+    "wikipedia": "Fukushima Daiichi Nuclear Power Plant",
+    "translations": {
+      "es": {
+        "label": "Fukushima Daiichi"
+      }
+    }
+  },
   "fulton": {
     "label": "Fulton, Missouri",
     "wikipedia": "Fulton, Missouri",
@@ -1850,6 +1877,15 @@
     "translations": {
       "es": {
         "label": "Granada"
+      }
+    }
+  },
+  "groton-connecticut": {
+    "label": "Groton, Connecticut",
+    "wikipedia": "Groton, Connecticut",
+    "translations": {
+      "es": {
+        "label": "Groton (Connecticut)"
       }
     }
   },
@@ -3284,6 +3320,15 @@
       }
     }
   },
+  "obninsk": {
+    "label": "Obninsk",
+    "wikipedia": "Obninsk",
+    "translations": {
+      "es": {
+        "label": "Obninsk"
+      }
+    }
+  },
   "okinawa-island": {
     "label": "Okinawa Island",
     "wikipedia": "Okinawa Island",
@@ -4193,6 +4238,15 @@
       }
     }
   },
+  "sellafield": {
+    "label": "Sellafield",
+    "wikipedia": "Sellafield",
+    "translations": {
+      "es": {
+        "label": "Sellafield"
+      }
+    }
+  },
   "semipalatinsk": {
     "label": "Semipalatinsk Test Site",
     "wikipedia": "Semipalatinsk Test Site",
@@ -4298,6 +4352,15 @@
     "translations": {
       "es": {
         "label": "Shimonoseki"
+      }
+    }
+  },
+  "shippingport": {
+    "label": "Shippingport Atomic Power Station",
+    "wikipedia": "Shippingport Atomic Power Station",
+    "translations": {
+      "es": {
+        "label": "Central atómica de Shippingport"
       }
     }
   },
@@ -4658,6 +4721,15 @@
     "translations": {
       "es": {
         "label": "Paralelo 38"
+      }
+    }
+  },
+  "three-mile-island": {
+    "label": "Three Mile Island",
+    "wikipedia": "Three Mile Island Nuclear Generating Station",
+    "translations": {
+      "es": {
+        "label": "Three Mile Island"
       }
     }
   },
