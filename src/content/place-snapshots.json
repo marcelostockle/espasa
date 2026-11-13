@@ -55,6 +55,20 @@
       "extract": "Aix-en-Provence, o Aix en Provenza, es una ciudad francesa, antigua capital de la región histórica de Provenza. Aunque está a unos 30 km al norte de Marsella, se considera parte de su área metropolitana, siendo la tercera aglomeración urbana más grande del país tras París y Lyon. Es una de las subprefecturas del departamento de Bocas del Ródano, en la región de Provenza-Alpes-Costa Azul."
     }
   },
+  "alamo-mission": {
+    "title": "Alamo Mission",
+    "url": "https://en.wikipedia.org/wiki/Alamo_Mission",
+    "extract": "The Alamo is a historic Spanish mission and fortress compound founded in the 18th century by Catholic missionaries in what is now San Antonio, Texas, United States. It was the site of the Battle of the Alamo in 1836, a pivotal event of the Texas Revolution in which American folk heroes James Bowie and Davy Crockett were killed. Today it is a museum in the Alamo Plaza Historic District and a part of the San Antonio Missions World Heritage Site.",
+    "description": "Fort in San Antonio, Texas, U.S.",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Alamo_pano.jpg/330px-Alamo_pano.jpg",
+    "lat": 29.42583333,
+    "lon": -98.48611111,
+    "es": {
+      "title": "Misión de El Álamo (Texas)",
+      "url": "https://es.wikipedia.org/wiki/Misi%C3%B3n_de_El_%C3%81lamo_(Texas)",
+      "extract": "El Álamo o la Misión de San Antonio de Valero, en su denominación original, fue la primera misión española establecida a lo largo del río San Antonio, establecida por fray Antonio de Olivares y los indios Xarames el 1 de mayo de 1718. El día 5 de mayo de 1718 se fundó la villa de Bexar, y se estableció en ella el presidio de San Antonio de Béjar y la Acequia Madre de Valero, siendo la villa el origen de la actual ciudad de San Antonio en Texas."
+    }
+  },
   "albany-new-york": {
     "title": "Albany, New York",
     "url": "https://en.wikipedia.org/wiki/Albany%2C_New_York",
@@ -7434,6 +7448,20 @@
       "extract": "Salem es una ciudad ubicada en el condado de Essex del estado estadounidense de Massachusetts."
     }
   },
+  "salt-lake-city": {
+    "title": "Salt Lake City",
+    "url": "https://en.wikipedia.org/wiki/Salt_Lake_City",
+    "extract": "Salt Lake City, often shortened to Salt Lake or SLC, is the capital and most populous city of the U.S. state of Utah. It is the county seat of Salt Lake County, the most populous county in the state. The population was 199,723 at the 2020 census, while the Salt Lake City metropolitan area has an estimated 1.3 million residents and is the 46th-largest metropolitan area in the United States. It is also part of the larger Salt Lake City–Ogden–Provo combined statistical area, an urban corridor along a 120-mile (190 km) segment of the Wasatch Front with a population of approximately 2.8 million. It is one of the principal urban centers within the Great Basin, along with Reno, Nevada.",
+    "description": "State capital and largest city of Utah, U.S.",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/SLC_Skyline_2024.jpg/330px-SLC_Skyline_2024.jpg",
+    "lat": 40.76083333,
+    "lon": -111.89111111,
+    "es": {
+      "title": "Salt Lake City",
+      "url": "https://es.wikipedia.org/wiki/Salt_Lake_City",
+      "extract": "Salt Lake City, a menudo abreviada a Salt Lake o SLC, es la capital y la ciudad más poblada del estado de Utah, Estados Unidos. Con una población estimada de 189 314 habitantes en 2012, la ciudad se encuentra en el núcleo del área metropolitana de Salt Lake City, que tiene una población total de 1 175 905 habitantes; además, se sitúa en una zona urbana mucho mayor conocida como Wasatch Front, que tiene una población de 2 328 299 habitantes. Situada a 1288 m, al sureste del Gran Lago Salado, es una de las dos principales zonas urbanas de la Gran Cuenca, y la más grande de la zona montañosa del oeste."
+    }
+  },
   "salvador": {
     "title": "Salvador, Bahia",
     "url": "https://en.wikipedia.org/wiki/Salvador%2C_Bahia",
@@ -7518,6 +7546,15 @@
       "extract": "San Diego es una ciudad estadounidense ubicada en el Condado de San Diego, en la costa del océano Pacífico en el sur de California a 190 kilómetros al sur de Los Ángeles e inmediatamente adyacente a la frontera con México."
     }
   },
+  "san-felipe-de-austin": {
+    "title": "San Felipe de Austin State Historic Site",
+    "url": "https://en.wikipedia.org/wiki/San_Felipe_de_Austin_State_Historic_Site",
+    "extract": "San Felipe de Austin State Historic Site is an American historic site located in San Felipe, Austin County, Texas. The site preserves the location of the first provisional capital and Anglo-American colony in Mexican Texas.",
+    "description": "United States historic place",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/San_felipe_de_austin_shs_2007.jpg/330px-San_felipe_de_austin_shs_2007.jpg",
+    "lat": 29.80694444,
+    "lon": -96.0975
+  },
   "san-francisco": {
     "title": "San Francisco",
     "url": "https://en.wikipedia.org/wiki/San_Francisco",
@@ -7531,6 +7568,15 @@
       "url": "https://es.wikipedia.org/wiki/San_Francisco_(California)",
       "extract": "San Francisco, de forma oficial Ciudad y Condado de San Francisco, es una ciudad que ocupa la cuarta posición de ciudad más poblada del estado de California y la 17.ª de Estados Unidos, con una población estimada de 827 526 habitantes a mediados de 2024. Es la única ciudad-condado consolidada de California, y al abarcar una superficie territorial de 121 km², cuenta con la tercera densidad de población más alta del país entre las ciudades que superan los doscientos mil habitantes, tras Nueva York y Ciudad de Jersey. Es el centro cultural, financiero y de transportes del Área de la Bahía de San Francisco."
     }
+  },
+  "san-jacinto-battleground": {
+    "title": "San Jacinto Battleground State Historic Site",
+    "url": "https://en.wikipedia.org/wiki/San_Jacinto_Battleground_State_Historic_Site",
+    "extract": "The San Jacinto Battleground State Historic Site includes the location of the Battle of San Jacinto. It is located off the Houston Ship Channel in unincorporated Harris County, Texas, near the city of Houston. The site was designated a National Historic Landmark in 1960.",
+    "description": "United States historic place",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/SanJacinto_aerial_Monument_and_Pool_2.jpg/330px-SanJacinto_aerial_Monument_and_Pool_2.jpg",
+    "lat": 29.74888889,
+    "lon": -95.08027778
   },
   "san-lorenzo-santa-fe": {
     "title": "San Lorenzo, Santa Fe",
@@ -8474,6 +8520,20 @@
       "extract": "Tenochtitlan, también conocida como México-Tenochtitlan (), fue el altépetl (ciudad-estado) de la civilización mexica y capital de la Triple Alianza,de la que formaba parte junto a Tetzcuco y Tlacopan. Durante la conquista española fue destruida y se fundó sobre sus restos la Ciudad de México, que fue la capital del Virreinato de la Nueva España y luego la capital de los Estados Unidos Mexicanos."
     }
   },
+  "texas": {
+    "title": "Texas",
+    "url": "https://en.wikipedia.org/wiki/Texas",
+    "extract": "Texas is a state in the United States. Located in the south-central part of the country, it borders Louisiana, Arkansas, Oklahoma, and New Mexico. It also borders Mexico along the Rio Grande, and has a coastline on the Gulf of Mexico. Covering 268,596 square miles (695,660 km2) and with an estimated population of over 31.7 million residents in 2025, it is the second-largest state by both area and population. Texas is nicknamed the \"Lone Star State\" for the single star depicted on the Republic of Texas flag in 1836 during the Texas war for independence from Mexico, symbolizing Texans' enduring independent spirit and distinct national identity. The lone star design was originally flown in 1819 during the Long Expedition, an early attempt to liberate Texas from Spanish imperial rule.",
+    "description": "U.S. state",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/330px-Flag_of_Texas.svg.png",
+    "lat": 31,
+    "lon": -99,
+    "es": {
+      "title": "Texas",
+      "url": "https://es.wikipedia.org/wiki/Texas",
+      "extract": "Texas o Tejas es uno de los cincuenta estados que, junto con Washington D. C., forman los Estados Unidos. Su capital es Austin, y su ciudad más poblada es Houston. Está ubicado en la región Sur del país, división Centro Suroeste. Limita, al norte con Oklahoma —la mitad oriental de esta frontera la forma el río Rojo—; al noreste con Arkansas —de nuevo, parte de esta frontera la forma el río Rojo—; al este con el río Sabina —que lo separa de Luisiana—; al sureste con el golfo de México ; al suroeste con el río Bravo, que lo separa a través de una larga frontera de México ; y al oeste con Nuevo México."
+    }
+  },
   "thapsus": {
     "title": "Thapsus",
     "url": "https://en.wikipedia.org/wiki/Thapsus",
@@ -9412,6 +9472,13 @@
       "extract": "Washington D. C., oficialmente denominada Distrito de Columbia, es la capital federal de Estados Unidos. Se administra como distrito federal, una entidad diferente a los cincuenta estados que componen dicha nación, que depende directamente del Gobierno federal. El Distrito de Columbia fue fundado el 16 de julio de 1790, y en 1791 se oficializó, dentro del distrito, una nueva ciudad denominada Washington, al este de la ya existente Georgetown. En 1871 se unificaron los gobiernos de estas dos ciudades y del resto de poblaciones del distrito en una sola entidad, D. C.."
     }
   },
+  "washington-on-the-brazos": {
+    "title": "Washington-on-the-Brazos State Historic Site",
+    "url": "https://en.wikipedia.org/wiki/Washington-on-the-Brazos_State_Historic_Site",
+    "extract": "The Washington-on-the-Brazos State Historic Site is a historic site at Washington-on-the-Brazos, Texas, where the Convention of 1836 adopted the Texas Declaration of Independence. The government of Texas purchased 50 acres (20 ha) of the old townsite in 1916 and built a replica of the building where the delegates met. The state acquired more of the site in 1976 and 1996.",
+    "description": "Historic site in Washington, Texas",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Independence_Hall%2C_Washington_on_the_Brazos%2C_Texas.jpg/330px-Independence_Hall%2C_Washington_on_the_Brazos%2C_Texas.jpg"
+  },
   "weimar": {
     "title": "Weimar",
     "url": "https://en.wikipedia.org/wiki/Weimar",
@@ -9508,6 +9575,20 @@
       "title": "Worms (Alemania)",
       "url": "https://es.wikipedia.org/wiki/Worms_(Alemania)",
       "extract": "Worms es una ciudad de Alemania, en la región de Renania-Palatinado, a orillas del río Rin, situada en la región vitivinícola Rheinhessen. Su población a finales de 2004 era de 85 829 habitantes. Fundada por los celtas, que la llamaron Borbetomagus, Worms se disputa con las ciudades de Tréveris y Colonia el título de \"ciudad más antigua de Alemania\". Worms es la única ciudad alemana miembro de la organización Most Ancient European Towns Network. Se halla a unos 70 kilómetros al sur de Fráncfort y a unos 100 kilómetros del aeropuerto de Fráncfort-Hahn."
+    }
+  },
+  "wounded-knee-south-dakota": {
+    "title": "Wounded Knee, South Dakota",
+    "url": "https://en.wikipedia.org/wiki/Wounded_Knee%2C_South_Dakota",
+    "extract": "Wounded Knee is a census-designated place (CDP) on the Pine Ridge Indian Reservation in Oglala Lakota County, South Dakota, United States. The population was 364 at the 2020 census.",
+    "description": "Census-designated place in South Dakota, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Wounded_Knee%2C_SD_%2815340932%29.jpg/330px-Wounded_Knee%2C_SD_%2815340932%29.jpg",
+    "lat": 43.14555556,
+    "lon": -102.37222222,
+    "es": {
+      "title": "Wounded Knee (Dakota del Sur)",
+      "url": "https://es.wikipedia.org/wiki/Wounded_Knee_(Dakota_del_Sur)",
+      "extract": "Wounded Knee es un lugar designado por el censo ubicado en el condado de Shannon en el estado estadounidense de Dakota del Sur. En el Censo de 2010 tenía una población de 382 habitantes y una densidad de 137,84 personas por km². Fue el escenario de dos conflictos entre los indios Sioux y el Gobierno estadounidense."
     }
   },
   "wuhan": {

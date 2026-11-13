@@ -35,6 +35,15 @@
       }
     }
   },
+  "alamo-mission": {
+    "label": "The Alamo, San Antonio",
+    "wikipedia": "Alamo Mission in San Antonio",
+    "translations": {
+      "es": {
+        "label": "El Álamo, San Antonio"
+      }
+    }
+  },
   "albany-new-york": {
     "label": "Albany, New York",
     "wikipedia": "Albany, New York",
@@ -4886,6 +4895,15 @@
       }
     }
   },
+  "salt-lake-city": {
+    "label": "Salt Lake City",
+    "wikipedia": "Salt Lake City",
+    "translations": {
+      "es": {
+        "label": "Salt Lake City"
+      }
+    }
+  },
   "salvador": {
     "label": "Salvador",
     "wikipedia": "Salvador, Bahia",
@@ -4940,12 +4958,30 @@
       }
     }
   },
+  "san-felipe-de-austin": {
+    "label": "San Felipe de Austin",
+    "wikipedia": "San Felipe de Austin State Historic Site",
+    "translations": {
+      "es": {
+        "label": "San Felipe de Austin"
+      }
+    }
+  },
   "san-francisco": {
     "label": "San Francisco",
     "wikipedia": "San Francisco",
     "translations": {
       "es": {
         "label": "San Francisco"
+      }
+    }
+  },
+  "san-jacinto-battleground": {
+    "label": "San Jacinto Battleground",
+    "wikipedia": "San Jacinto Battleground State Historic Site",
+    "translations": {
+      "es": {
+        "label": "Campo de batalla de San Jacinto"
       }
     }
   },
@@ -5570,6 +5606,15 @@
       }
     }
   },
+  "texas": {
+    "label": "Texas",
+    "wikipedia": "Texas",
+    "translations": {
+      "es": {
+        "label": "Texas"
+      }
+    }
+  },
   "thapsus": {
     "label": "Thapsus",
     "wikipedia": "Thapsus",
@@ -6191,6 +6236,15 @@
       }
     }
   },
+  "washington-on-the-brazos": {
+    "label": "Washington-on-the-Brazos",
+    "wikipedia": "Washington-on-the-Brazos State Historic Site",
+    "translations": {
+      "es": {
+        "label": "Washington-on-the-Brazos"
+      }
+    }
+  },
   "weimar": {
     "label": "Weimar",
     "wikipedia": "Weimar",
@@ -6251,6 +6305,15 @@
     "translations": {
       "es": {
         "label": "Worms"
+      }
+    }
+  },
+  "wounded-knee-south-dakota": {
+    "label": "Wounded Knee, South Dakota",
+    "wikipedia": "Wounded Knee, South Dakota",
+    "translations": {
+      "es": {
+        "label": "Wounded Knee (Dakota del Sur)"
       }
     }
   },
