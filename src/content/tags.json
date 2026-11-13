@@ -313,6 +313,21 @@
       }
     }
   },
+  "bolivia": {
+    "label": "Bolivia",
+    "color": "#e9b44c",
+    "description": "Bolivia, its governments and wars, including its loss of the Pacific coast.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Bolivia",
+        "description": "Bolivia, sus gobiernos y guerras, incluida la pérdida de su costa del Pacífico."
+      }
+    }
+  },
   "brahms": {
     "label": "Johannes Brahms",
     "color": "#4f5d75",
@@ -2259,6 +2274,20 @@
       "es": {
         "label": "Imperio otomano",
         "description": "El Estado otomano y sus sultanes, desde la conquista de Constantinopla en 1453 hasta el repliegue de Europa central hacia 1700."
+      }
+    }
+  },
+  "pacific-war": {
+    "label": "War of the Pacific",
+    "color": "#1b9aaa",
+    "description": "The 1879-1884 war in which Chile fought Peru and Bolivia over the nitrate-rich Atacama coast, and its aftermath, including Bolivia's loss of its coastline.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra del Pacífico",
+        "description": "La guerra de 1879-1884 en que Chile combatió contra el Perú y Bolivia por la costa salitrera del Atacama, y sus consecuencias, incluida la pérdida del litoral boliviano."
       }
     }
   },

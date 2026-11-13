@@ -152,12 +152,30 @@
       }
     }
   },
+  "ancon": {
+    "label": "Ancón",
+    "wikipedia": "Ancón District",
+    "translations": {
+      "es": {
+        "label": "Ancón"
+      }
+    }
+  },
   "andes-crossing": {
     "label": "Los Andes",
     "wikipedia": "Crossing of the Andes",
     "translations": {
       "es": {
         "label": "Cruce de los Andes"
+      }
+    }
+  },
+  "angamos": {
+    "label": "Punta Angamos",
+    "wikipedia": "Battle of Angamos",
+    "translations": {
+      "es": {
+        "label": "Punta Angamos"
       }
     }
   },
@@ -185,6 +203,15 @@
     "translations": {
       "es": {
         "label": "Antioquía"
+      }
+    }
+  },
+  "antofagasta": {
+    "label": "Antofagasta",
+    "wikipedia": "Antofagasta",
+    "translations": {
+      "es": {
+        "label": "Antofagasta"
       }
     }
   },
@@ -284,6 +311,15 @@
     "translations": {
       "es": {
         "label": "Arco (Idaho)"
+      }
+    }
+  },
+  "arica": {
+    "label": "Arica",
+    "wikipedia": "Arica",
+    "translations": {
+      "es": {
+        "label": "Arica"
       }
     }
   },
@@ -2294,6 +2330,15 @@
       }
     }
   },
+  "huamachuco": {
+    "label": "Huamachuco",
+    "wikipedia": "Huamachuco",
+    "translations": {
+      "es": {
+        "label": "Huamachuco"
+      }
+    }
+  },
   "hydaspes": {
     "label": "Hydaspes (Jhelum River)",
     "wikipedia": "Jhelum River",
@@ -2336,6 +2381,15 @@
     "translations": {
       "es": {
         "label": "Ipso"
+      }
+    }
+  },
+  "iquique": {
+    "label": "Iquique",
+    "wikipedia": "Iquique",
+    "translations": {
+      "es": {
+        "label": "Iquique"
       }
     }
   },
@@ -2654,6 +2708,15 @@
       }
     }
   },
+  "la-concepcion": {
+    "label": "La Concepción",
+    "wikipedia": "Battle of La Concepción",
+    "translations": {
+      "es": {
+        "label": "La Concepción"
+      }
+    }
+  },
   "la-fenice": {
     "label": "La Fenice, Venice",
     "wikipedia": "La Fenice",
@@ -2678,6 +2741,15 @@
     "translations": {
       "es": {
         "label": "La Isabela"
+      }
+    }
+  },
+  "la-paz": {
+    "label": "La Paz",
+    "wikipedia": "La Paz",
+    "translations": {
+      "es": {
+        "label": "La Paz"
       }
     }
   },
@@ -4013,6 +4085,15 @@
       }
     }
   },
+  "pisagua": {
+    "label": "Pisagua",
+    "wikipedia": "Pisagua, Chile",
+    "translations": {
+      "es": {
+        "label": "Pisagua"
+      }
+    }
+  },
   "pisco": {
     "label": "Pisco",
     "wikipedia": "Pisco, Peru",
@@ -5039,6 +5120,15 @@
       }
     }
   },
+  "tacna": {
+    "label": "Tacna",
+    "wikipedia": "Tacna",
+    "translations": {
+      "es": {
+        "label": "Tacna"
+      }
+    }
+  },
   "taipei": {
     "label": "Taipei",
     "wikipedia": "Taipei",
@@ -5090,6 +5180,15 @@
     "translations": {
       "es": {
         "label": "Tarento (Taranto)"
+      }
+    }
+  },
+  "tarapaca": {
+    "label": "Tarapacá",
+    "wikipedia": "Battle of Tarapacá",
+    "translations": {
+      "es": {
+        "label": "Tarapacá"
       }
     }
   },

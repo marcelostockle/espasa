@@ -237,6 +237,20 @@
       "extract": "Anagni es un municipio de 21 200 habitantes de la provincia de Frosinone, en el Valle Latino. Situada en el Lacio meridional, dista unos 50 kilómetros de Roma. Esta antigua ciudad está situada en las colinas del este de Roma, famosa por su relación con cuatro papas de las familias Conti y Caetani y su bien conservado centro histórico."
     }
   },
+  "ancon": {
+    "title": "Ancón District",
+    "url": "https://en.wikipedia.org/wiki/Anc%C3%B3n_District",
+    "extract": "Ancón is a district of northern Lima Province in Peru. It is a popular beach resort destination of Lima, visited every summer by millions of people from Lima. It is the largest district of the Lima Province.",
+    "description": "District in Lima, Peru",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ancon_Apartments_%286930670661%29.jpg/330px-Ancon_Apartments_%286930670661%29.jpg",
+    "lat": -11.73333333,
+    "lon": -77.15,
+    "es": {
+      "title": "Distrito de Ancón",
+      "url": "https://es.wikipedia.org/wiki/Distrito_de_Anc%C3%B3n",
+      "extract": "El distrito de Ancón es uno de los cuarenta y tres distritos que conforman la provincia de Lima, ubicada en el departamento homónimo, en el Perú. Limita al norte con el distrito de Aucallama, provincia de Huaral, al noreste con el distrito de Huamantanga, provincia de Canta, al este con el distrito de Carabayllo, al sur con el distrito de Puente Piedra y el distrito de Ventanilla, provincia constitucional del Callao, al suroeste con el distrito de Santa Rosa y al oeste con el océano Pacífico."
+    }
+  },
   "andes-crossing": {
     "title": "Crossing of the Andes",
     "url": "https://en.wikipedia.org/wiki/Crossing_of_the_Andes",
@@ -247,6 +261,20 @@
       "title": "Cruce de los Andes",
       "url": "https://es.wikipedia.org/wiki/Cruce_de_los_Andes",
       "extract": "El Cruce de los Andes fue un conjunto de maniobras realizadas por el Ejército de los Andes de las Provincias Unidas del Río de la Plata —actual Argentina— y tropas chilenas exiliadas en la ciudad de Mendoza, entre enero y febrero de 1817, para atravesar con una fuerza de 4 000 soldados regulares y 1 200 milicianos la cordillera de los Andes desde la región argentina de Cuyo hasta Chile, y enfrentar a las tropas realistas del Imperio español que allí se encontraban. Formó parte del plan que el general argentino José de San Martín desarrolló para llevar a cabo la Expedición Libertadora de Argentina, Chile y Perú. Fue apoyado por la Guerra de zapa, dirigida por el chileno Manuel Rodríguez."
+    }
+  },
+  "angamos": {
+    "title": "Battle of Angamos",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Angamos",
+    "extract": "The Battle of Angamos was a naval encounter of the War of the Pacific fought between the navies of Chile and Perú at Punta Angamos, on 8 October 1879. The battle was the culminating point of a naval campaign that lasted about five months in which the Chilean Navy had the sole mission of eliminating its Peruvian counterpart. In the struggle, two armored frigates, led by Commodore Galvarino Riveros Cárdenas and Navy Captain Juan José Latorre battered and later captured the Peruvian monitor Huáscar, under Rear Admiral Miguel Grau Seminario.",
+    "description": "1879 naval battle during the War of the Pacific",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Angamos5.jpg/330px-Angamos5.jpg",
+    "lat": -23,
+    "lon": -71,
+    "es": {
+      "title": "Combate naval de Angamos",
+      "url": "https://es.wikipedia.org/wiki/Combate_naval_de_Angamos",
+      "extract": "El combate naval de Angamos fue un enfrentamiento de la campaña naval de la Guerra del Pacífico en el que el monitor blindado Huáscar fue capturado por el núcleo de la escuadra chilena mediante una maniobra envolvente."
     }
   },
   "angostura": {
@@ -289,6 +317,20 @@
       "title": "Antioquía del Orontes",
       "url": "https://es.wikipedia.org/wiki/Antioqu%C3%ADa_del_Orontes",
       "extract": "Antioquía del Orontes, también conocida como Antioquía de Siria, fue una antigua ciudad situada entre la costa sur de Anatolia y la costa de Siria, en las orillas del río Orontes. Actualmente su nombre es Antioquía y es la capital de la provincia de Hatay en Turquía."
+    }
+  },
+  "antofagasta": {
+    "title": "Antofagasta",
+    "url": "https://en.wikipedia.org/wiki/Antofagasta",
+    "extract": "Antofagasta is a port city in northern Chile, about 1,100 kilometres (700 mi) north of Santiago. It is the capital of Antofagasta Province and Antofagasta Region. As of the 2024 census, with a population of 401,096, it is the 5th-largest city in Chile.",
+    "description": "City and commune in northern Chile",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Montaje_de_Antofagasta.jpg/330px-Montaje_de_Antofagasta.jpg",
+    "lat": -23.65,
+    "lon": -70.4,
+    "es": {
+      "title": "Antofagasta",
+      "url": "https://es.wikipedia.org/wiki/Antofagasta",
+      "extract": "Antofagasta es una ciudad, puerto y comuna del Norte de Chile, la capital de la provincia y la Región de Antofagasta. Según el censo de 2024, realizado por el INE, es la sexta ciudad más poblada del país y la comuna más poblada fuera de la Región Metropolitana con 401 096 habitantes. Las principales actividades industriales de Antofagasta se encuentran íntimamente ligadas a la minería. Desde la década de 1970, ha presentado un sostenido crecimiento en las áreas relativas a la construcción, comercio y hotelería, además de un notable desarrollo urbano."
     }
   },
   "antwerp": {
@@ -440,6 +482,20 @@
       "title": "Arco (Idaho)",
       "url": "https://es.wikipedia.org/wiki/Arco_(Idaho)",
       "extract": "Arco es una ciudad ubicada en el condado de Butte, Idaho, Estados Unidos. Tiene una población estimada, a mediados de 2022, de 913 habitantes."
+    }
+  },
+  "arica": {
+    "title": "Arica",
+    "url": "https://en.wikipedia.org/wiki/Arica",
+    "extract": "Arica is a port city and commune in the Arica Province of northern Chile's Arica y Parinacota Region. It is Chile's northernmost city, being located only 18 km (11 mi) south of the border with Peru. The city is the capital of both the Arica Province and the Arica and Parinacota Region. Arica is located at the bend of South America's western coast known as the Arica Bend or Arica Elbow. It is also where two valleys which dissect the Atacama Desert, Azapa and Lluta, converge. These valleys provide citrus and olives for export.",
+    "description": "City in Arica y Parinacota, Chile",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandera_de_Arica.svg/330px-Bandera_de_Arica.svg.png",
+    "lat": -18.47839,
+    "lon": -70.32122,
+    "es": {
+      "title": "Arica",
+      "url": "https://es.wikipedia.org/wiki/Arica",
+      "extract": "San Marcos de Arica, conocida simplemente como Arica, fundada el 25 de abril de 1541 es una ciudad, comuna y puerto del Norte Grande de Chile, capital de la provincia de Arica y de la Región de Arica y Parinacota."
     }
   },
   "arpino": {
@@ -3489,6 +3545,20 @@
       "extract": "La presa Hoover es una presa de hormigón de arco-gravedad, ubicada en el curso del río Colorado, en la frontera entre los estados de Arizona y Nevada. Está situada 48 km al sureste de Las Vegas."
     }
   },
+  "huamachuco": {
+    "title": "Huamachuco",
+    "url": "https://en.wikipedia.org/wiki/Huamachuco",
+    "extract": "Huamachuco is a town in northern Peru and capital of the province of Sánchez Carrión in La Libertad Region. The city is the seat of the Territorial Prelature of Huamachuco. Lake Sausacocha lies to the northeast.",
+    "description": "Town in La Libertad, Peru",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bienvenidos_a_Huamachuco.jpg/330px-Bienvenidos_a_Huamachuco.jpg",
+    "lat": -7.81202778,
+    "lon": -78.04869444,
+    "es": {
+      "title": "Huamachuco",
+      "url": "https://es.wikipedia.org/wiki/Huamachuco",
+      "extract": "Huamachuco es una ciudad peruana, capital del distrito homónimo y de la provincia de Sánchez Carrión en el departamento de La Libertad. Tenía 78 000 habs., según estimación y proyección del INEI para 2020."
+    }
+  },
   "hydaspes": {
     "title": "Jhelum River",
     "url": "https://en.wikipedia.org/wiki/Jhelum_River",
@@ -3550,6 +3620,20 @@
     "description": "Ancient city in Phrygia",
     "lat": 38.856193,
     "lon": 30.549206
+  },
+  "iquique": {
+    "title": "Iquique",
+    "url": "https://en.wikipedia.org/wiki/Iquique",
+    "extract": "Iquique is a port city and commune in northern Chile, capital of both the Iquique Province and Tarapacá Region. It lies on the Pacific coast, west of the Pampa del Tamarugal, which is part of the Atacama Desert. Its name comes from the Aymara language: \"Iki Iki,\" meaning \"land of dreams.\" It has a population of 199,587 according to the 2024 census. It is also the main commune of Greater Iquique. The city developed during the heyday of the saltpetre mining in the Atacama Desert in the 19th century. Once a Peruvian city with a large Chilean population, it was conquered by Chile in the War of the Pacific (1879–1883). Today it is one of only two free ports of Chile, the other one being Punta Arenas, in the country's far south.",
+    "description": "City and Commune in Tarapacá, Chile",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Iquiquechile.jpg/330px-Iquiquechile.jpg",
+    "lat": -20.21666667,
+    "lon": -70.15,
+    "es": {
+      "title": "Iquique",
+      "url": "https://es.wikipedia.org/wiki/Iquique",
+      "extract": "Iquique es una ciudad-puerto y comuna ubicada en el norte grande de Chile, capital de la provincia homónima y de la Región de Tarapacá."
+    }
   },
   "irinjalakuda": {
     "title": "Irinjalakuda",
@@ -4039,6 +4123,18 @@
       "extract": "Kioto  es una ciudad de Japón, localizada en la parte central de la isla de Honshu. Es la capital de la prefectura homónima y tradicionalmente también ha sido considerada capital de la región de Kansai, aunque esta sea solo una referencia geográfica más que un territorio administrativo concreto. Así mismo, está integrada dentro de la región metropolitana de Keihanshin, compuesta por las áreas circundantes de las ciudades de Osaka, Kōbe y la misma Kioto. Cuenta con una población de alrededor de 1 465 000 habitantes, situándose entre las ciudades japonesas más pobladas. El área total del territorio de la ciudad es de 827,83 km²."
     }
   },
+  "la-concepcion": {
+    "title": "Battle of La Concepción",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_La_Concepci%C3%B3n",
+    "extract": "The Battle of La Concepción was fought between Chilean and Peruvian forces on July 9 and 10, 1882, during the Breña campaign of the War of the Pacific. Heavily outnumbered, the Chilean detachment of 77 men under the command of Captain Ignacio Carrera Pinto was annihilated by a 1,300-strong Peruvian force, many of them armed with spears, commanded by Col. Juan Gasto and Ambrosio Salazar after a 27-hour fight in the small town of Concepción in the Peruvian Andes.",
+    "description": "1882 battle during the War of the Pacific",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Combatoflaconcepcion.svg/330px-Combatoflaconcepcion.svg.png",
+    "es": {
+      "title": "Combate de Concepción",
+      "url": "https://es.wikipedia.org/wiki/Combate_de_Concepci%C3%B3n",
+      "extract": "El combate de Concepción —como se conoce en la historiografía peruana— o combate de La Concepción —como se conoce en la historiografía chilena— corresponde a la campaña terrestre de la Sierra en el marco de la Guerra del Pacífico."
+    }
+  },
   "la-fenice": {
     "title": "La Fenice",
     "url": "https://en.wikipedia.org/wiki/La_Fenice",
@@ -4079,6 +4175,20 @@
       "title": "La Isabela",
       "url": "https://es.wikipedia.org/wiki/La_Isabela",
       "extract": "La Isabela fue una villa fundada por Cristóbal Colón en 1494 durante su Segundo Viaje, situada en la provincia de Puerto Plata, República Dominicana."
+    }
+  },
+  "la-paz": {
+    "title": "La Paz",
+    "url": "https://en.wikipedia.org/wiki/La_Paz",
+    "extract": "La Paz, officially Nuestra Señora de La Paz, is the seat of government of Bolivia. With 755,732 residents as of 2024, it is the third-most populous city in Bolivia. Its metropolitan area, which includes the neighboring city of El Alto, and other smaller towns, is the second most populous urban area in Bolivia, with a population of 2.2 million, after Santa Cruz de la Sierra with a population of 2.3 million. The city is also the capital of the department of the same name.",
+    "description": "Seat of government of Bolivia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vista_del_centro_de_La_Paz.jpg/330px-Vista_del_centro_de_La_Paz.jpg",
+    "lat": -16.49583333,
+    "lon": -68.13333333,
+    "es": {
+      "title": "La Paz",
+      "url": "https://es.wikipedia.org/wiki/La_Paz",
+      "extract": "La Paz es la sede de gobierno y centro financiero de Bolivia, además de ser la capital del departamento de La Paz. En la ciudad se albergan los órganos ejecutivo, legislativo y electoral. La Plaza Murillo, plaza principal de la ciudad, se encuentra a una altitud aproximada de 3636 m s. n. m."
     }
   },
   "la-rochelle": {
@@ -6119,6 +6229,20 @@
       "extract": "Pisa es una ciudad de la región italiana de la Toscana, capital de la provincia homónima. Entre los monumentos más importantes de la ciudad figura —en la célebre Piazza dei Miracoli, declarada Patrimonio de la Humanidad— la catedral, construida en mármol entre los años 1064 y 1118, en estilo románico pisano, con su portal en bronce de Bonanno Pisano y el púlpito de Giovanni Pisano. Al lado de la catedral se encuentra la llamativa torre inclinada, del siglo XII, con una altura de 58,36 metros, que sufrió su característica inclinación inmediatamente después de iniciarse su construcción."
     }
   },
+  "pisagua": {
+    "title": "Pisagua, Chile",
+    "url": "https://en.wikipedia.org/wiki/Pisagua%2C_Chile",
+    "extract": "Pisagua is a town and fishing village in Huara, a commune of Tarapacá Region, Chile. In 2002, its population was numbered at 260 people. In 2007, the commune of Huaura was incorporated into the newly created Tamarugal Province.",
+    "description": "Chilean town",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Pisagua1.jpg/330px-Pisagua1.jpg",
+    "lat": -19.6,
+    "lon": -70.21666667,
+    "es": {
+      "title": "Pisagua",
+      "url": "https://es.wikipedia.org/wiki/Pisagua",
+      "extract": "Pisagua es una localidad chilena, ubicada en la zona costera septentrional de dicho país. El caserío, que posee una población de 260 habitantes según el censo de 2002, pertenece administrativamente a la comuna de Huara, en la provincia del Tamarugal, Región de Tarapacá."
+    }
+  },
   "pisco": {
     "title": "Pisco, Peru",
     "url": "https://en.wikipedia.org/wiki/Pisco%2C_Peru",
@@ -7686,6 +7810,20 @@
       "extract": "Szklarska Poręba es una localidad y un municipio del distrito de Jelenia Góra, en el voivodato de Baja Silesia (Polonia). En 2011, según la Oficina Central de Estadística polaca, cubría una superficie de 75,44 km² y tenía una población de 6833 habitantes."
     }
   },
+  "tacna": {
+    "title": "Tacna",
+    "url": "https://en.wikipedia.org/wiki/Tacna",
+    "extract": "Tacna, officially San Pedro de Tacna, is a city in southern Peru and the capital of the department of Tacna. Located in the Caplina River valley about 35 km (22 mi) north of the border with Chile, it is one of the country's main commercial centers and Peru's tenth most populous city. Known for its strong patriotic identity, Tacna features numerous monuments and place names commemorating Peru's independence and the War of the Pacific. Its inhabitants are known as tacneños.",
+    "description": "City in Peru",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Catedral_Nuestra_Se%C3%B1ora_del_Rosario_de_Tacna.jpg/330px-Catedral_Nuestra_Se%C3%B1ora_del_Rosario_de_Tacna.jpg",
+    "lat": -18.01466,
+    "lon": -70.24887,
+    "es": {
+      "title": "Tacna",
+      "url": "https://es.wikipedia.org/wiki/Tacna",
+      "extract": "Tacna es una ciudad peruana, capital de la provincia y del departamento homónimo en el extremo sur del país. Su área urbana se extiende por cinco distritos conurbados que albergan una población de 325 160 habitantes según estimación y proyección del INEI para el 2020."
+    }
+  },
   "taipei": {
     "title": "Taipei",
     "url": "https://en.wikipedia.org/wiki/Taipei",
@@ -7768,6 +7906,18 @@
       "title": "Tarento",
       "url": "https://es.wikipedia.org/wiki/Tarento",
       "extract": "Tarento es una ciudad del sur de Italia, en la región de Apulia. Ubicada a orillas del mar Jónico, en el istmo de la península salentina, da nombre al golfo de Tarento. El casco antiguo de la ciudad se sitúa en una pequeña isla entre el Mediterráneo y el mare Piccolo, una bahía casi cerrada. Fue fundada en el año 706 a. C. con el nombre de Taras."
+    }
+  },
+  "tarapaca": {
+    "title": "Battle of Tarapacá",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Tarapac%C3%A1",
+    "extract": "The Battle of Tarapacá occurred on 27 November 1879 during the Tarapacá Campaign of the War of the Pacific. A Chilean force of 2,300 soldiers divided in three columns attacked a Peruvian contingent of 4,486 troops at Tarapacá commanded by Gen Juan Buendía, resulting in a harsh defeat. The Chilean 2nd Line Regiment was the most damaged unit, losing almost half of its force, along with its commander Lt. Col. Eleuterio Ramírez and his second in command, Lt. Col. Bartolomé Vivar. The unit lost its banner, which was recovered six months later after the Battle of Tacna. Despite the victory, the Allies could not contest for the domination of the Tarapacá department, abandoning it to Chilean control.",
+    "description": "1879 battle of the War of the Pacific",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Batalla_de_Tarapac%C3%A1.JPG/330px-Batalla_de_Tarapac%C3%A1.JPG",
+    "es": {
+      "title": "Batalla de Tarapacá",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Tarapac%C3%A1",
+      "extract": "La batalla de Tarapacá fue una acción ocurrida el 27 de noviembre de 1879 en la localidad de Tarapacá, entonces parte del departamento peruano de Tarapacá, durante la campaña terrestre de la guerra del Pacífico. En ella se enfrentaron fuerzas peruanas al mando del general Juan Buendía y fuerzas chilenas comandadas por el coronel Luis Arteaga, y finalizó con una victoria táctica del ejército del Perú, aunque sin alterar el curso general de la guerra."
     }
   },
   "tehran": {
