@@ -787,6 +787,21 @@
       }
     }
   },
+  "energy": {
+    "label": "Energy",
+    "color": "#b5651d",
+    "description": "Fuels and power sources (water, wind, wood, coal, steam, oil, electricity, nuclear) and the machines that put them to work.",
+    "categories": [
+      "Knowledge",
+      "Material culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Energía",
+        "description": "Combustibles y fuentes de energía (agua, viento, leña, carbón, vapor, petróleo, electricidad, nuclear) y las máquinas que las aprovechan."
+      }
+    }
+  },
   "etruscans": {
     "label": "Etruscans",
     "color": "#d2a679",

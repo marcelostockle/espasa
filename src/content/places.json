@@ -467,6 +467,15 @@
       }
     }
   },
+  "barbegal": {
+    "label": "Barbegal",
+    "wikipedia": "Barbegal aqueduct and mill",
+    "translations": {
+      "es": {
+        "label": "Barbegal"
+      }
+    }
+  },
   "barcelona": {
     "label": "Barcelona",
     "wikipedia": "Barcelona",
@@ -2168,6 +2177,15 @@
       }
     }
   },
+  "khorasan": {
+    "label": "Khorasan",
+    "wikipedia": "Greater Khorasan",
+    "translations": {
+      "es": {
+        "label": "Jorasán"
+      }
+    }
+  },
   "kinmen": {
     "label": "Kinmen",
     "wikipedia": "Kinmen",
@@ -2984,6 +3002,15 @@
     "translations": {
       "es": {
         "label": "Nantes"
+      }
+    }
+  },
+  "nanyang": {
+    "label": "Nanyang",
+    "wikipedia": "Nanyang, Henan",
+    "translations": {
+      "es": {
+        "label": "Nanyang"
       }
     }
   },

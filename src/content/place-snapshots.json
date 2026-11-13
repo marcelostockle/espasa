@@ -720,6 +720,20 @@
       "extract": "Banská Bystrica es una ciudad de Eslovaquia situada a orillas del río Hron. Según el número de habitantes es la tercera en Eslovaquia."
     }
   },
+  "barbegal": {
+    "title": "Barbegal aqueduct and mills",
+    "url": "https://en.wikipedia.org/wiki/Barbegal_aqueduct_and_mills",
+    "extract": "The Barbegal aqueduct and mills was a Roman watermill complex in the commune of Fontvieille, Bouches-du-Rhône, near the town of Arles, in southern France. The complex has been referred to as \"the greatest known concentration of mechanical power in the ancient world\" and the 16 overshot wheels are considered to be the largest ancient mill complex.",
+    "description": "Roman watermill complex in France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Barbegal_aqueduct_01.jpg/330px-Barbegal_aqueduct_01.jpg",
+    "lat": 43.7025,
+    "lon": 4.72138889,
+    "es": {
+      "title": "Acueducto y molinos de Barbegal",
+      "url": "https://es.wikipedia.org/wiki/Acueducto_y_molinos_de_Barbegal",
+      "extract": "El acueducto y los molinos de Barbegal es un complejo de molinos de agua romanos situado en el territorio del municipio de Fontvieille, Bouches-du-Rhône, cerca de la ciudad de Arlés, en el sur de Francia. Se ha hecho referencia al complejo como \"la mayor concentración conocida de potencia mecánica en el mundo antiguo\" y las 16 ruedas pescantes se consideran el mayor complejo de molinos antiguos."
+    }
+  },
   "barcelona": {
     "title": "Barcelona",
     "url": "https://en.wikipedia.org/wiki/Barcelona",
@@ -3300,6 +3314,20 @@
       "extract": "El río Jalja es un río fronterizo entre Mongolia oriental y China septentrional, cuya longitud es de 232 km. Desemboca en el lago Buir, un lago endorreico compartido por ambos países."
     }
   },
+  "khorasan": {
+    "title": "Khorasan",
+    "url": "https://en.wikipedia.org/wiki/Khorasan",
+    "extract": "Khorasan is a historical eastern region in the Iranian Plateau in West and Central Asia that encompasses western and northern Afghanistan, northeastern Iran, the eastern halves of Turkmenistan and Uzbekistan, western Tajikistan, and portions of Kyrgyzstan and Kazakhstan.",
+    "description": "Historical region of Greater Iran",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Khorasan-Transoxiana-Khwarazm_nopaths.svg/330px-Khorasan-Transoxiana-Khwarazm_nopaths.svg.png",
+    "lat": 36,
+    "lon": 62,
+    "es": {
+      "title": "Gran Jorasán",
+      "url": "https://es.wikipedia.org/wiki/Gran_Joras%C3%A1n",
+      "extract": "El Gran Jorasán, Antiguo Jorasán o Jorasán es una región histórica de Persia. Englobaba partes del actual Irán, Afganistán, Tayikistán, Turkmenistán y Uzbekistán."
+    }
+  },
   "kinmen": {
     "title": "Kinmen",
     "url": "https://en.wikipedia.org/wiki/Kinmen",
@@ -4551,6 +4579,20 @@
       "title": "Nantes",
       "url": "https://es.wikipedia.org/wiki/Nantes",
       "extract": "Nantes es una ciudad francesa situada en la orilla del río Loira, a 50 km del océano Atlántico. Es la capital del departamento de Loira Atlántico y de la región de Países del Loira. Es el centro de una conurbación de más 300 000 habitantes[cita requerida]. Se la considera, junto a la de Saint-Nazaire, como la mayor área metropolitana del oeste de Francia."
+    }
+  },
+  "nanyang": {
+    "title": "Nanyang, Henan",
+    "url": "https://en.wikipedia.org/wiki/Nanyang%2C_Henan",
+    "extract": "Nanyang is a prefecture-level city in the southwest of Henan province, China. The city with the largest administrative area in Henan, Nanyang borders Xinyang to the southeast, Zhumadian to the east, Pingdingshan to the northeast, Luoyang to the north, Sanmenxia to the northwest, the province of Shaanxi to the west, and the province of Hubei to the south.",
+    "description": "Prefecture-level city in Henan, People's Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/HNBC_%284%29.jpg/330px-HNBC_%284%29.jpg",
+    "lat": 33.018,
+    "lon": 112.5786,
+    "es": {
+      "title": "Nanyang",
+      "url": "https://es.wikipedia.org/wiki/Nanyang",
+      "extract": "Nanyang es una ciudad-prefectura en la provincia de Henan, en la República Popular China. Las fronteras son: Sanmenxia al norte, la provincia de Hubei, al sur, Shaanxi al oeste y Zhumadian al este. Su área es de 26 511 km² y su población total para 2020 superó los 9,7 millones de habitantes."
     }
   },
   "neuchatel": {
