@@ -260,7 +260,8 @@
     "color": "#9575cd",
     "description": "The Kingdom of Bohemia and its Estates under the Habsburgs, with Prague as an imperial capital, to the revolt of 1618.",
     "categories": [
-      "States/Places"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -617,7 +618,8 @@
     "color": "#e57373",
     "description": "The Kingdom of Denmark-Norway, its Lutheran monarchy and its rivalry with Sweden for control of the Baltic.",
     "categories": [
-      "States/Places"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -775,7 +777,8 @@
     "color": "#26a69a",
     "description": "The Rhenish Palatinate under its Wittelsbach electors, with Heidelberg as its capital, and its role as the leading Calvinist state of the Empire.",
     "categories": [
-      "States/Places"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -1283,7 +1286,8 @@
     "color": "#6d4c41",
     "description": "The Kingdom of Hungary and Transylvania, divided between Habsburgs, Ottomans and Transylvanian princes after Mohács in 1526.",
     "categories": [
-      "States/Places"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -2450,7 +2454,8 @@
     "color": "#d32f2f",
     "description": "The city-state of Geneva, from the bishop's franchises of 1387 through its Reformation and independence from Savoy to its annexation by France in 1798 and entry into the Swiss Confederation in 1815.",
     "categories": [
-      "States/Places"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -2902,7 +2907,8 @@
     "color": "#4fc3f7",
     "description": "The Kingdom of Sweden under the Vasa dynasty, its Lutheran Reformation and its rise as a Baltic power.",
     "categories": [
-      "States/Places"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
@@ -2916,7 +2922,8 @@
     "color": "#5c6bc0",
     "description": "The Old Swiss Confederacy of the cantons and their allies, such as Bern, Fribourg and Zurich, and the Swiss state that grew from it.",
     "categories": [
-      "States/Places"
+      "States",
+      "Places"
     ],
     "translations": {
       "es": {
