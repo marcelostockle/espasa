@@ -197,6 +197,15 @@
       }
     }
   },
+  "appleton-wisconsin": {
+    "label": "Appleton, Wisconsin",
+    "wikipedia": "Appleton, Wisconsin",
+    "translations": {
+      "es": {
+        "label": "Appleton (Wisconsin)"
+      }
+    }
+  },
   "aral-sea": {
     "label": "Aral Sea",
     "wikipedia": "Aral Sea",
@@ -737,6 +746,15 @@
       }
     }
   },
+  "brno": {
+    "label": "Brno",
+    "wikipedia": "Brno",
+    "translations": {
+      "es": {
+        "label": "Brno"
+      }
+    }
+  },
   "bromsebro": {
     "label": "Brömsebro",
     "wikipedia": "Brömsebro",
@@ -1211,6 +1229,15 @@
     "translations": {
       "es": {
         "label": "Covadonga"
+      }
+    }
+  },
+  "cragside": {
+    "label": "Cragside",
+    "wikipedia": "Cragside",
+    "translations": {
+      "es": {
+        "label": "Cragside"
       }
     }
   },
@@ -2042,6 +2069,15 @@
       }
     }
   },
+  "hoover-dam": {
+    "label": "Hoover Dam",
+    "wikipedia": "Hoover Dam",
+    "translations": {
+      "es": {
+        "label": "Presa Hoover"
+      }
+    }
+  },
   "hydaspes": {
     "label": "Hydaspes (Jhelum River)",
     "wikipedia": "Jhelum River",
@@ -2420,6 +2456,15 @@
       }
     }
   },
+  "lauffen-am-neckar": {
+    "label": "Lauffen am Neckar",
+    "wikipedia": "Lauffen am Neckar",
+    "translations": {
+      "es": {
+        "label": "Lauffen am Neckar"
+      }
+    }
+  },
   "lavinium": {
     "label": "Lavinium",
     "wikipedia": "Lavinium",
@@ -2552,6 +2597,15 @@
     "translations": {
       "es": {
         "label": "Lop Nur"
+      }
+    }
+  },
+  "lowell": {
+    "label": "Lowell, Massachusetts",
+    "wikipedia": "Lowell, Massachusetts",
+    "translations": {
+      "es": {
+        "label": "Lowell (Massachusetts)"
       }
     }
   },
@@ -3149,12 +3203,30 @@
       }
     }
   },
+  "nevada-city": {
+    "label": "Nevada City, California",
+    "wikipedia": "Nevada City, California",
+    "translations": {
+      "es": {
+        "label": "Nevada City (California)"
+      }
+    }
+  },
   "new-york-city": {
     "label": "New York City",
     "wikipedia": "New York City",
     "translations": {
       "es": {
         "label": "Nueva York"
+      }
+    }
+  },
+  "niagara-falls-new-york": {
+    "label": "Niagara Falls, New York",
+    "wikipedia": "Niagara Falls, New York",
+    "translations": {
+      "es": {
+        "label": "Niagara Falls (Nueva York)"
       }
     }
   },

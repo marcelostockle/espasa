@@ -306,6 +306,20 @@
       "extract": "La Vía Apia fue una de las más importantes calzadas de la antigua Roma que unía a dicha ciudad con Brindisi, el más importante puerto comercial con el Mediterráneo oriental y Oriente Medio. Estacio describió su importancia al describirla por su nombre común:\n\n\n \n"
     }
   },
+  "appleton-wisconsin": {
+    "title": "Appleton, Wisconsin",
+    "url": "https://en.wikipedia.org/wiki/Appleton%2C_Wisconsin",
+    "extract": "Appleton is a city in the U.S. state of Wisconsin. It is the county seat of Outagamie County, with small portions extending into Calumet and Winnebago counties. Located on the Fox River north of Lake Winnebago, it is 30 miles (48 km) southwest of Green Bay and 100 miles (160 km) north of Milwaukee. The city had a population of 75,644 at the 2020 census, making it the sixth-most populous city in Wisconsin. The Appleton metropolitan statistical area had 243,147 residents. Appleton is part of the broader Fox Cities region.",
+    "description": "City in Wisconsin, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Downtown_Appleton_Skyline.jpg/330px-Downtown_Appleton_Skyline.jpg",
+    "lat": 44.26666667,
+    "lon": -88.4,
+    "es": {
+      "title": "Appleton (Wisconsin)",
+      "url": "https://es.wikipedia.org/wiki/Appleton_(Wisconsin)",
+      "extract": "Appleton es una ciudad ubicada en el condado de Outagamie en el estado estadounidense de Wisconsin. En el Censo de 2010 tenía una población de 72 623 habitantes y una densidad poblacional de 1129,96 personas por km²."
+    }
+  },
   "aral-sea": {
     "title": "Aral Sea",
     "url": "https://en.wikipedia.org/wiki/Aral_Sea",
@@ -1113,6 +1127,20 @@
       "extract": "Bristol es una ciudad y uno de los cuarenta y siete condados de Inglaterra, Reino Unido. Ubicado en la región Sudoeste limita al noreste con Gloucestershire, al sur y suroeste con Somerset y al noroeste con el canal de Bristol. Es uno de los dos centros administrativos del suroeste de Inglaterra. Desde sus inicios, su prosperidad ha estado ligada a su puerto comercial, el cual dio origen al centro de la ciudad."
     }
   },
+  "brno": {
+    "title": "Brno",
+    "url": "https://en.wikipedia.org/wiki/Brno",
+    "extract": "Brno is a city in the South Moravian Region of the Czech Republic. Located at the confluence of the Svitava and Svratka rivers, Brno has about 404,000 inhabitants, making it the second-largest city in the Czech Republic after the capital, Prague, and one of the 100 largest cities in the European Union. The Brno metropolitan area has approximately 730,000 inhabitants.",
+    "description": "Statutory city in the Czech Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Brno_Montage_IV.png/330px-Brno_Montage_IV.png",
+    "lat": 49.1925,
+    "lon": 16.60833333,
+    "es": {
+      "title": "Brno",
+      "url": "https://es.wikipedia.org/wiki/Brno",
+      "extract": "Brno es una ciudad de la República Checa y la capital de la Región de Moravia Meridional. Con 404 296 habitantes al final de 2025, es la segunda ciudad más poblada del país, después de Praga. El municipio constituye por sí solo el Distrito de Brno-město y es el núcleo de un área metropolitana funcional de 184 municipios, unos 735 000 habitantes y 1978 km²."
+    }
+  },
   "bromsebro": {
     "title": "Brömsebro",
     "url": "https://en.wikipedia.org/wiki/Br%C3%B6msebro",
@@ -1843,6 +1871,20 @@
       "title": "Covadonga",
       "url": "https://es.wikipedia.org/wiki/Covadonga",
       "extract": "Covadonga es una parroquia del concejo de Cangas de Onís, en el Principado de Asturias (España), así como la única población, con la categoría de lugar, de dicha parroquia."
+    }
+  },
+  "cragside": {
+    "title": "Cragside",
+    "url": "https://en.wikipedia.org/wiki/Cragside",
+    "extract": "Cragside is a Tudor Revival country house near the town of Rothbury in Northumberland, England. Dating to the Victorian era, it was the home of William Armstrong, 1st Baron Armstrong, founder of the Armstrong Whitworth armaments firm. An industrial magnate, scientist, philanthropist and inventor of the hydraulic crane and the Armstrong gun, Armstrong also displayed his inventiveness in the domestic sphere, making Cragside the first house in the world to be lit using hydroelectric power. The estate was technologically advanced: the architect of the house, Richard Norman Shaw, wrote that it was equipped with \"wonderful hydraulic machines that do all sorts of things\". In the grounds, Armstrong built dams and lakes to power a sawmill, a water-powered laundry, early versions of a dishwasher and a dumb waiter, a hydraulic lift and a hydroelectric rotisserie. In 1887, Armstrong was raised to the peerage, the first engineer or scientist to be ennobled, and became Baron Armstrong of Cragside.",
+    "description": "Country house in Northumberland, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Cragside3.jpg/330px-Cragside3.jpg",
+    "lat": 55.3136,
+    "lon": -1.8853,
+    "es": {
+      "title": "Cragside",
+      "url": "https://es.wikipedia.org/wiki/Cragside",
+      "extract": "Cragside es una casa de campo victoriana cerca de la ciudad de Rothbury en Northumberland, Inglaterra. Fue el hogar de William Armstrong, primer barón Armstrong, fundador de la firma de armamentos Armstrong Whitworth. Magnate industrial, científico, filántropo e inventor de la grúa hidráulica y del cañón Armstrong, también mostró su inventiva en el ámbito doméstico, convirtiendo a Cragside en la primera casa del mundo en iluminarse con energía hidroeléctrica. La finca estaba tecnológicamente avanzada; el arquitecto de la casa, Richard Norman Shaw, escribió que estaba equipada con \"maravillosas máquinas hidráulicas que hacen todo tipo de cosas\". En sus terrenos, Armstrong construyó presas y lagos para alimentar un aserradero, una lavandería impulsada con agua, las primeras versiones de un lavaplatos y un montaplatos, un ascensor hidráulico y un asador alimentado hidroeléctricamente. En 1887, Armstrong fue elevado a la nobleza, el primer ingeniero o científico en ser ennoblecido en el Reino Unido, y se convirtió en el barón Armstrong de Cragside."
     }
   },
   "crannon": {
@@ -3104,6 +3146,20 @@
       "extract": "Hong Kong, oficialmente Región Administrativa Especial de Hong Kong de la República Popular China, es una de las dos regiones administrativas especiales que existen en la República Popular China, junto con Macao. Ubicado en Asia Oriental, el territorio está rodeado por el mar de la China Meridional en el sur y por China continental en el norte, y limita al oeste con Macao, en la orilla opuesta del delta del río de las Perlas. Posee una superficie total de 1104.4 km² divididos entre la isla de Hong Kong, Kowloon y los Nuevos Territorios."
     }
   },
+  "hoover-dam": {
+    "title": "Hoover Dam",
+    "url": "https://en.wikipedia.org/wiki/Hoover_Dam",
+    "extract": "The Hoover Dam is a concrete arch–gravity dam in the Black Canyon of the Colorado River, on the boundary between the U.S. states of Nevada and Arizona. Constructed between 1931 and 1936, during the Great Depression, it was dedicated on September 30, 1935, by President Franklin D. Roosevelt. Its construction was the result of a massive effort involving thousands of workers, and cost over 96 lives. Bills passed by Congress during its construction referred to it as Hoover Dam, but the Roosevelt administration named it Boulder Dam. In 1947, Congress reinstated the name Hoover Dam.",
+    "description": "Dam in Nevada and Arizona, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2017_Aerial_view_Hoover_Dam_4774.jpg/330px-2017_Aerial_view_Hoover_Dam_4774.jpg",
+    "lat": 36.01555556,
+    "lon": -114.73777778,
+    "es": {
+      "title": "Presa Hoover",
+      "url": "https://es.wikipedia.org/wiki/Presa_Hoover",
+      "extract": "La presa Hoover es una presa de hormigón de arco-gravedad, ubicada en el curso del río Colorado, en la frontera entre los estados de Arizona y Nevada. Está situada 48 km al sureste de Las Vegas."
+    }
+  },
   "hydaspes": {
     "title": "Jhelum River",
     "url": "https://en.wikipedia.org/wiki/Jhelum_River",
@@ -3680,6 +3736,20 @@
       "extract": "El Lacio fue una región histórico-geográfica constituida por la parte meridional del actual Lacio —en la Italia central— situada al sur del río Tíber —que la separaba de los territorios etruscos — y al norte del río Garigliano —que la separaba de Campania— limitada por la costa tirrenica y extendiéndose por las estribaciones de los Apeninos centrales hacia el interior."
     }
   },
+  "lauffen-am-neckar": {
+    "title": "Lauffen am Neckar",
+    "url": "https://en.wikipedia.org/wiki/Lauffen_am_Neckar",
+    "extract": "Lauffen am Neckar or simply Lauffen is a town in the district of Heilbronn, Baden-Württemberg, Germany. It is on the river Neckar, 9 kilometres southwest of Heilbronn. The town is famous as the birthplace of the poet Friedrich Hölderlin and for its quality wines – in particular the \"Lauffener Katzenbeißer Schwarzriesling\".",
+    "description": "Town in Baden-Württemberg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lauffen-am-neckar-2005.jpg/330px-Lauffen-am-neckar-2005.jpg",
+    "lat": 49.08333333,
+    "lon": 9.15,
+    "es": {
+      "title": "Lauffen am Neckar",
+      "url": "https://es.wikipedia.org/wiki/Lauffen_am_Neckar",
+      "extract": "Lauffen am Neckar es una ciudad en el estado federado de Baden-Wurtemberg, Alemania. Está situada en el distrito de Heilbronn y es conocida por ser el lugar de nacimiento del poeta alemán Friedrich Hölderlin."
+    }
+  },
   "lavinium": {
     "title": "Lavinium",
     "url": "https://en.wikipedia.org/wiki/Lavinium",
@@ -3883,6 +3953,20 @@
       "title": "Lop Nor",
       "url": "https://es.wikipedia.org/wiki/Lop_Nor",
       "extract": "El Lop Nor, llamado también lago Lop es un grupo de pequeños, y hoy en día estacionales, lagos salados y marjales localizados entre el desierto de Taklamakán y el desierto de Gobi, al sur de las montañas Kuruktag, en la esquina suroriental de la Región Autónoma Uigur de Sinkiang, al noroeste de la República Popular China. Históricamente, era un gran lago que hoy está totalmente seco dado que el caudal de los ríos que lo alimentaban ha sido empleado para usos humanos y agrícolas. Hoy día la región forma parte del desierto de Lop."
+    }
+  },
+  "lowell": {
+    "title": "Lowell, Massachusetts",
+    "url": "https://en.wikipedia.org/wiki/Lowell%2C_Massachusetts",
+    "extract": "Lowell is a city in Massachusetts, United States. Alongside Cambridge, it is one of the two traditional seats of Middlesex County. With an estimated population of 115,554 in 2020, it was the fifth most populous city in Massachusetts as of the last census, and the third most populous in the Boston metropolitan statistical area. The city is also part of a smaller Massachusetts statistical area, called Greater Lowell, and of New England's Merrimack Valley region.",
+    "description": "City in Massachusetts, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lowell%2C_Massachusetts.jpg/330px-Lowell%2C_Massachusetts.jpg",
+    "lat": 42.63944444,
+    "lon": -71.31472222,
+    "es": {
+      "title": "Lowell (Massachusetts)",
+      "url": "https://es.wikipedia.org/wiki/Lowell_(Massachusetts)",
+      "extract": "Lowell es una ciudad ubicada en el condado de Middlesex en el estado estadounidense de Massachusetts. En el censo de 2010 tenía una población de 106.519 habitantes y una densidad poblacional de 2.831,28 personas por km². Toma su nombre del empresario e industrial Francis Cabot Lowell. Fundada en 1826, fue cuna de la Revolución Industrial en los EE. UU. Es la cuarta ciudad más poblada de Massachussetts y la segunda del área metropolitana de Boston. Hasta 1999 fue junto a Cambridge capital/sede de condado."
     }
   },
   "luanda": {
@@ -4795,6 +4879,20 @@
       "extract": "Neuchâtel es una ciudad y comuna de la Suiza romanda, capital del cantón y del distrito de Neuchâtel. Está situada a orillas del Lago de Neuchâtel y sobre el flanco sur del macizo del Jura."
     }
   },
+  "nevada-city": {
+    "title": "Nevada City, California",
+    "url": "https://en.wikipedia.org/wiki/Nevada_City%2C_California",
+    "extract": "Nevada City is a city in and the county seat of Nevada County, California, United States, 60 miles (97 km) northeast of Sacramento, 84 miles (135 km) southwest of Reno and 147 miles (237 km) northeast of San Francisco. The population was 3,152 as of the 2020 census.",
+    "description": "City in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Broad_Street_Downtown_Area_in_Nevada_City%2C_California.jpg/330px-Broad_Street_Downtown_Area_in_Nevada_City%2C_California.jpg",
+    "lat": 39.26138889,
+    "lon": -121.01861111,
+    "es": {
+      "title": "Nevada City",
+      "url": "https://es.wikipedia.org/wiki/Nevada_City",
+      "extract": "Nevada City es un pueblo ubicado en el Estado de California. Es la sede del condado de Nevada. Sus primeros pobladores se establecieron en 1849."
+    }
+  },
   "new-york-city": {
     "title": "New York City",
     "url": "https://en.wikipedia.org/wiki/New_York_City",
@@ -4807,6 +4905,20 @@
       "title": "Nueva York",
       "url": "https://es.wikipedia.org/wiki/Nueva_York",
       "extract": "Nueva York, a menudo llamada Ciudad de Nueva York, es la ciudad más poblada y visitada de los Estados Unidos y una de las más densamente pobladas a nivel mundial. Desde finales del siglo xix es uno de los centros de la política y la economía mundial, albergando la sede de la Organización de las Naciones Unidas y de numerosas empresas e instituciones financieras de importancia global, entre ellas Wall Street. Nueva York es considerada una ciudad global, debido a que ejerce influencia a escala mundial en los medios de comunicación, la política, la educación, la arquitectura, el entretenimiento, las artes y la moda. Por todo ello, se considera una de las ciudades más globalizadas del planeta, con una gran diversidad cultural."
+    }
+  },
+  "niagara-falls-new-york": {
+    "title": "Niagara Falls, New York",
+    "url": "https://en.wikipedia.org/wiki/Niagara_Falls%2C_New_York",
+    "extract": "Niagara Falls is a city in Niagara County, New York, United States. As of the 2020 census, the city had a total population of 48,671. It is adjacent to the Niagara River, across from the city of Niagara Falls, Ontario, and named after the famed Niagara Falls which they share. The city is within the Buffalo–Niagara Falls metropolitan area and the Western New York region.",
+    "description": "City in New York, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Niagara_Falls_001.JPG/330px-Niagara_Falls_001.JPG",
+    "lat": 43.1,
+    "lon": -79.01666667,
+    "es": {
+      "title": "Niagara Falls (Nueva York)",
+      "url": "https://es.wikipedia.org/wiki/Niagara_Falls_(Nueva_York)",
+      "extract": "Niagara Falls fundada en 1892, es una ciudad situada en la orilla este del río Niágara en el condado epónimo, situado en el estado de Nueva York, Estados Unidos de América. En el año 2000 tenía una población de 55,593 habitantes y una densidad poblacional de 1,527.3 personas por km². Niagara Falls es una ciudad fronteriza con Canadá. En ella se encuentran las famosas cataratas del Niágara, que la separan de su ciudad homónima en Ontario."
     }
   },
   "nicopolis-ad-istrum": {
