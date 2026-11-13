@@ -314,6 +314,15 @@
       }
     }
   },
+  "askov": {
+    "label": "Askov",
+    "wikipedia": "Askov",
+    "translations": {
+      "es": {
+        "label": "Askov"
+      }
+    }
+  },
   "aswan": {
     "label": "Syene (Aswan)",
     "wikipedia": "Aswan",
@@ -1013,6 +1022,15 @@
     "translations": {
       "es": {
         "label": "Castilleja de la Cuesta"
+      }
+    }
+  },
+  "castleton-vermont": {
+    "label": "Castleton, Vermont",
+    "wikipedia": "Castleton, Vermont",
+    "translations": {
+      "es": {
+        "label": "Castleton (Vermont)"
       }
     }
   },
@@ -1724,6 +1742,15 @@
     "translations": {
       "es": {
         "label": "Gdansk"
+      }
+    }
+  },
+  "gedser": {
+    "label": "Gedser",
+    "wikipedia": "Gedser",
+    "translations": {
+      "es": {
+        "label": "Gedser"
       }
     }
   },
@@ -2474,6 +2501,15 @@
       }
     }
   },
+  "larderello": {
+    "label": "Larderello",
+    "wikipedia": "Larderello",
+    "translations": {
+      "es": {
+        "label": "Larderello"
+      }
+    }
+  },
   "lateran-basilica": {
     "label": "Lateran Basilica",
     "wikipedia": "Archbasilica of Saint John Lateran",
@@ -2597,6 +2633,15 @@
     "translations": {
       "es": {
         "label": "Lisboa"
+      }
+    }
+  },
+  "livermore": {
+    "label": "Lawrence Livermore National Laboratory",
+    "wikipedia": "Lawrence Livermore National Laboratory",
+    "translations": {
+      "es": {
+        "label": "Laboratorio Nacional Lawrence Livermore"
       }
     }
   },
@@ -3284,6 +3329,15 @@
       }
     }
   },
+  "novosibirsk": {
+    "label": "Novosibirsk",
+    "wikipedia": "Novosibirsk",
+    "translations": {
+      "es": {
+        "label": "Novosibirsk"
+      }
+    }
+  },
   "noyon": {
     "label": "Noyon",
     "wikipedia": "Noyon",
@@ -3884,6 +3938,15 @@
     "translations": {
       "es": {
         "label": "Rainhill"
+      }
+    }
+  },
+  "rance-tidal-power-station": {
+    "label": "Rance Tidal Power Station",
+    "wikipedia": "Rance Tidal Power Station",
+    "translations": {
+      "es": {
+        "label": "Central mareomotriz del Rance"
       }
     }
   },
@@ -5153,6 +5216,15 @@
     "translations": {
       "es": {
         "label": "Vilvoorde"
+      }
+    }
+  },
+  "vindeby": {
+    "label": "Vindeby",
+    "wikipedia": "Vindeby Offshore Wind Farm",
+    "translations": {
+      "es": {
+        "label": "Parque eólico marino de Vindeby"
       }
     }
   },

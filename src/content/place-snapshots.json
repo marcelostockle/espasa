@@ -482,6 +482,20 @@
       "extract": "Asia fue una división administrativa anexada por la Antigua Roma en tiempos tardíos de la República. Se creó en el año 129 a. C. sobre un territorio ampliamente helenizado y rodeado de Estados creados tras la desaparición del Imperio seléucida, fundamentalmente Bitinia, Paflagonia, el Ponto, Galacia, Capadocia, Comagene y lo que quedaba del Imperio seléucida. Era una provincia senatorial gobernada por un procónsul. Esta situación permaneció inalterable en la reorganización del Imperio romano del año 211."
     }
   },
+  "askov": {
+    "title": "Askov, Minnesota",
+    "url": "https://en.wikipedia.org/wiki/Askov%2C_Minnesota",
+    "extract": "Askov is a city in Pine County, Minnesota, United States. The population was 331 at the 2020 census.",
+    "description": "City in Minnesota, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Askovsign.jpg/330px-Askovsign.jpg",
+    "lat": 46.18861111,
+    "lon": -92.7825,
+    "es": {
+      "title": "Askov (Minnesota)",
+      "url": "https://es.wikipedia.org/wiki/Askov_(Minnesota)",
+      "extract": "Askov es una ciudad ubicada en el condado de Pine, Minnesota, Estados Unidos. Tiene una población estimada, a mediados de 2021, de 333 habitantes."
+    }
+  },
   "aswan": {
     "title": "Aswan",
     "url": "https://en.wikipedia.org/wiki/Aswan",
@@ -1535,6 +1549,20 @@
       "title": "Castilleja de la Cuesta",
       "url": "https://es.wikipedia.org/wiki/Castilleja_de_la_Cuesta",
       "extract": "Castilleja de la Cuesta es un municipio y localidad española perteneciente a la provincia de Sevilla, en la comunidad autónoma de Andalucía. Se sitúa en la comarca Metropolitana de Sevilla. Cuenta con una población de 17 074 habitantes."
+    }
+  },
+  "castleton-vermont": {
+    "title": "Castleton, Vermont",
+    "url": "https://en.wikipedia.org/wiki/Castleton%2C_Vermont",
+    "extract": "Castleton is a town in Rutland County, Vermont, United States. Castleton is about 15 miles (24 km) to the west of Rutland, the county's seat and most populous city, and about 7 miles (11 km) east of the New York/Vermont state border. The town had a population of 4,458 at the 2020 census. A campus of Vermont State University is located there, with roots dating to 1787.",
+    "description": "Town in Vermont, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Castleton_Vermont_20040701.jpg/330px-Castleton_Vermont_20040701.jpg",
+    "lat": 43.6275,
+    "lon": -73.15694444,
+    "es": {
+      "title": "Castleton (Vermont)",
+      "url": "https://es.wikipedia.org/wiki/Castleton_(Vermont)",
+      "extract": "Castleton es un pueblo ubicado en el condado de Rutland en el estado estadounidense de Vermont. En el año 2010 tenía una población de 4,717 habitantes y una densidad poblacional de 43 personas por km²."
     }
   },
   "caudine-forks": {
@@ -2630,6 +2658,15 @@
       "url": "https://es.wikipedia.org/wiki/Gdansk",
       "extract": "Gdansk es la sexta mayor ciudad de Polonia y la mayor ciudad portuaria de este país. Entre 1975 y 1998 fue capital del desaparecido voivodato de Gdansk y, desde 1998, es la capital del voivodato de Pomerania. En esta ciudad se encuentra el famoso astillero donde se fundó el sindicato Solidaridad. En español también es conocida tradicionalmente como Dánzig por la adaptación de su nombre en alemán y popularmente es llamada la «capital del ámbar»."
     }
+  },
+  "gedser": {
+    "title": "Gedser",
+    "url": "https://en.wikipedia.org/wiki/Gedser",
+    "extract": "Gedser is a town at the southern tip of the Danish island of Falster in the Guldborgsund Municipality in Sjælland region. It is the southernmost town in Denmark, and also the southernmost point of Scandinavia and the Nordic countries. The town has a population of 610. It is an important port town on the Baltic Sea.",
+    "description": "Town in Zealand, Denmark",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Gedser_-_udsigt1.JPG/330px-Gedser_-_udsigt1.JPG",
+    "lat": 54.58333333,
+    "lon": 11.93333333
   },
   "geneva": {
     "title": "Geneva",
@@ -3766,6 +3803,20 @@
       "extract": "Lagos es una ciudad portuguesa perteneciente al distrito de Faro, región del Algarve.\nEl municipio del mismo nombre al que pertenece tiene una población total de 33 500 habitantes. La ciudad en sí, histórica y turística, tiene aproximadamente 22 000 personas. La mayoría de la población vive en la costa y trabaja en turismo y servicios. La región interior, mucho menos habitada, se dedica a la agricultura y silvicultura. Lagos es una de las ciudades más visitadas en el Algarve y Portugal.[cita requerida]"
     }
   },
+  "larderello": {
+    "title": "Larderello",
+    "url": "https://en.wikipedia.org/wiki/Larderello",
+    "extract": "Larderello is a frazione of the comune of Pomarance, in Tuscany in central Italy, renowned for its geothermal productivity.",
+    "description": "Frazione in Tuscany, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Larderello_001.JPG/330px-Larderello_001.JPG",
+    "lat": 43.23972222,
+    "lon": 10.88888889,
+    "es": {
+      "title": "Larderello",
+      "url": "https://es.wikipedia.org/wiki/Larderello",
+      "extract": "Larderello es una frazione de la comune de Pomarance, en Toscana en el centro de Italia, conocida por su producción de energía geotérmica."
+    }
+  },
   "lateran-basilica": {
     "title": "Archbasilica of Saint John Lateran",
     "url": "https://en.wikipedia.org/wiki/Archbasilica_of_Saint_John_Lateran",
@@ -3953,6 +4004,20 @@
       "title": "Lisboa",
       "url": "https://es.wikipedia.org/wiki/Lisboa",
       "extract": "Lisboa es la capital y la ciudad más poblada de Portugal.Está situada en la desembocadura del río Tajo, es la capital del país, capital del distrito de Lisboa, de la región de Lisboa y del área metropolitana de Lisboa, y es también el principal centro de la subregión de la Gran Lisboa. Lisboa tiene una población de 547 773 habitantes, y su zona metropolitana cuenta con una población de 2 810 923 en una superficie de 2.921,90 km². Esta área contiene el 26% de la población del país. Lisboa es la ciudad más rica de Portugal."
+    }
+  },
+  "livermore": {
+    "title": "Lawrence Livermore National Laboratory",
+    "url": "https://en.wikipedia.org/wiki/Lawrence_Livermore_National_Laboratory",
+    "extract": "Lawrence Livermore National Laboratory (LLNL) is a federally funded research and development center in Livermore, California, United States. Established in 1952, the laboratory is sponsored by the United States Department of Energy and administered privately by Lawrence Livermore National Security, LLC.",
+    "description": "Federal research center in California, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/IMAG3049-livermore-lab_cropped.jpg/330px-IMAG3049-livermore-lab_cropped.jpg",
+    "lat": 37.69,
+    "lon": -121.71,
+    "es": {
+      "title": "Laboratorio Nacional Lawrence Livermore",
+      "url": "https://es.wikipedia.org/wiki/Laboratorio_Nacional_Lawrence_Livermore",
+      "extract": "El Laboratorio Nacional Lawrence Livermore es un centro de desarrollo e investigación financiado con fondos federales de los Estados Unidos que fue fundado en 1952 por la Universidad de California.\nEstá financiado principalmente por el Departamento de Energía.\nDesde el 1 de octubre de 2007, la gestión del laboratorio corre a cargo de la sociedad Lawrence Livermore National Security, LLC (LLNS), constituida por la Universidad de California, Bechtel, Babcock & Wilcox, URS y el Battelle Memorial Institute, además de estar afiliada con Texas A&M University System.\nAsí se sustituyó a la Universidad de California como única entidad gestora del laboratorio, labor que había realizado desde su fundación 55 años antes."
     }
   },
   "liverpool": {
@@ -5005,6 +5070,20 @@
       "extract": "Nördlingen es una localidad con más de 20 000 habitantes del distrito de Danubio-Ries, en Baviera, Alemania. Escenario de dos batallas acontecidas durante la guerra de los Treinta Años, la antigua Ciudad Imperial de Nördlingen se encuentra a lo largo de la Ruta Romántica, en medio de un cráter de meteorito, caído hace 15 millones de años, cuya extensión de casi 25 km de diámetro determina hoy en día la región del Ries de Nördlingen, y a una altitud de 429 m s. n. m."
     }
   },
+  "novosibirsk": {
+    "title": "Novosibirsk",
+    "url": "https://en.wikipedia.org/wiki/Novosibirsk",
+    "extract": "Novosibirsk is the administrative centre and largest city of Novosibirsk Oblast and the Siberian Federal District in Russia. As of the 2021 census, it had a population of 1,633,595, making it the third-most populous city in Russia after Moscow and Saint Petersburg. Additionally, it is the largest city in North Asia and the most populous Russian city that does not have the status of a federal subject. Novosibirsk is located in southwestern Siberia, on the banks of the Ob River.",
+    "description": "City and administrative centre of Novosibirsk Oblast, Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Opera-and-Ballet-theatre-Novosibirsk.jpg/330px-Opera-and-Ballet-theatre-Novosibirsk.jpg",
+    "lat": 55.05,
+    "lon": 82.95,
+    "es": {
+      "title": "Novosibirsk",
+      "url": "https://es.wikipedia.org/wiki/Novosibirsk",
+      "extract": "Novosibirsk es una ciudad ubicada en el centro-sur de Rusia, capital del óblast homónimo y del distrito federal de Siberia. Con 1 612 833 habitantes en 2018 es la tercera más poblada del país, por detrás de Moscú y San Petersburgo."
+    }
+  },
   "noyon": {
     "title": "Noyon",
     "url": "https://en.wikipedia.org/wiki/Noyon",
@@ -5926,6 +6005,15 @@
       "url": "https://es.wikipedia.org/wiki/Rainhill",
       "extract": "Rainhill es un pueblo grande y una parroquia civil dentro del Distrito metropolitano de St Helens, en Merseyside, Inglaterra. La población de la parroquia civil registrada en el censo de 2011 era de 10.853 habitantes."
     }
+  },
+  "rance-tidal-power-station": {
+    "title": "Rance Tidal Power Station",
+    "url": "https://en.wikipedia.org/wiki/Rance_Tidal_Power_Station",
+    "extract": "The Rance Tidal Power Station is a tidal power station located on the estuary of the Rance River in Brittany, France.",
+    "description": "Dam in Brittany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Barrage_de_la_Rance.jpg/330px-Barrage_de_la_Rance.jpg",
+    "lat": 48.61805556,
+    "lon": -2.02333333
   },
   "raphia": {
     "title": "Rafah",
@@ -7872,6 +7960,14 @@
       "url": "https://es.wikipedia.org/wiki/Vilvoorde",
       "extract": "Vilvorde o Vilvoorde es una ciudad de Bélgica situada en la Región Flamenca, en la provincia del Brabante Flamenco.\nVilvoorde también es el nombre del municipio donde se halla esta ciudad."
     }
+  },
+  "vindeby": {
+    "title": "Vindeby Offshore Wind Farm",
+    "url": "https://en.wikipedia.org/wiki/Vindeby_Offshore_Wind_Farm",
+    "extract": "Vindeby Offshore Wind Farm was the first offshore wind farm in the world, erected in 1991 off the coast of the town of Vindeby on the Danish island of Lolland. It was decommissioned for cost reasons in 2017 after 25 years of useful life.",
+    "description": "First offshore wind farm in the world",
+    "lat": 54.97,
+    "lon": 11.13
   },
   "vladivostok": {
     "title": "Vladivostok",
