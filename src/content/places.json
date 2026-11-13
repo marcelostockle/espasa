@@ -449,6 +449,15 @@
       }
     }
   },
+  "baku": {
+    "label": "Baku",
+    "wikipedia": "Baku",
+    "translations": {
+      "es": {
+        "label": "Bakú"
+      }
+    }
+  },
   "bandung": {
     "label": "Bandung",
     "wikipedia": "Bandung",
@@ -509,6 +518,15 @@
     "translations": {
       "es": {
         "label": "Bahía de Cochinos"
+      }
+    }
+  },
+  "beckton-gas-works": {
+    "label": "Beckton Gas Works",
+    "wikipedia": "Beckton Gas Works",
+    "translations": {
+      "es": {
+        "label": "Fábrica de gas de Beckton"
       }
     }
   },
@@ -608,6 +626,15 @@
     "translations": {
       "es": {
         "label": "Birmingham"
+      }
+    }
+  },
+  "bobrka": {
+    "label": "Bóbrka",
+    "wikipedia": "Bóbrka, Krosno County",
+    "translations": {
+      "es": {
+        "label": "Bóbrka"
       }
     }
   },
@@ -1031,6 +1058,15 @@
     "translations": {
       "es": {
         "label": "Chongqing"
+      }
+    }
+  },
+  "cleveland": {
+    "label": "Cleveland",
+    "wikipedia": "Cleveland",
+    "translations": {
+      "es": {
+        "label": "Cleveland"
       }
     }
   },
@@ -1547,6 +1583,15 @@
       }
     }
   },
+  "fredonia-new-york": {
+    "label": "Fredonia, New York",
+    "wikipedia": "Fredonia, New York",
+    "translations": {
+      "es": {
+        "label": "Fredonia (Nueva York)"
+      }
+    }
+  },
   "french-indochina": {
     "label": "French Indochina",
     "wikipedia": "French Indochina",
@@ -1940,6 +1985,15 @@
     "translations": {
       "es": {
         "label": "Heraclea"
+      }
+    }
+  },
+  "highland-park-michigan": {
+    "label": "Highland Park, Michigan",
+    "wikipedia": "Highland Park, Michigan",
+    "translations": {
+      "es": {
+        "label": "Highland Park (Míchigan)"
       }
     }
   },
@@ -2615,6 +2669,15 @@
     "translations": {
       "es": {
         "label": "Mánchester"
+      }
+    }
+  },
+  "mannheim": {
+    "label": "Mannheim",
+    "wikipedia": "Mannheim",
+    "translations": {
+      "es": {
+        "label": "Mannheim"
       }
     }
   },
@@ -3734,6 +3797,15 @@
       }
     }
   },
+  "redruth": {
+    "label": "Redruth",
+    "wikipedia": "Redruth",
+    "translations": {
+      "es": {
+        "label": "Redruth"
+      }
+    }
+  },
   "regensburg": {
     "label": "Regensburg",
     "wikipedia": "Regensburg",
@@ -4247,6 +4319,15 @@
       }
     }
   },
+  "spindletop": {
+    "label": "Spindletop",
+    "wikipedia": "Spindletop",
+    "translations": {
+      "es": {
+        "label": "Spindletop"
+      }
+    }
+  },
   "sremski-karlovci": {
     "label": "Karlowitz",
     "wikipedia": "Sremski Karlovci",
@@ -4550,6 +4631,15 @@
     "translations": {
       "es": {
         "label": "Tirinto"
+      }
+    }
+  },
+  "titusville-pennsylvania": {
+    "label": "Titusville, Pennsylvania",
+    "wikipedia": "Titusville, Pennsylvania",
+    "translations": {
+      "es": {
+        "label": "Titusville (Pensilvania)"
       }
     }
   },

@@ -692,6 +692,20 @@
       "extract": "La península de Baja California, está localizada al noroeste de México. Penetra en el océano Pacífico, formando el golfo de California entre su costa oriental y las costas de Sonora y Sinaloa. Tiene una longitud aproximada de 1250 km y comprende los estados mexicanos de Baja California y Baja California Sur. Inicia en la frontera de México con Estados Unidos y termina en un cabo con enormes formaciones rocosas, entre las que se encuentra el llamado Arco Monumental."
     }
   },
+  "baku": {
+    "title": "Baku",
+    "url": "https://en.wikipedia.org/wiki/Baku",
+    "extract": "Baku is the capital and largest city of Azerbaijan, as well as the largest city on the Caspian Sea and in the Caucasus region. Baku is 28 metres (92 ft) below sea level, which makes it the lowest lying national capital in the world and the largest city in the world below sea level. Baku lies on the southern shore of the Absheron Peninsula, along the Bay of Baku. Baku's urban population is estimated at over two million people. Baku is the primate city of Azerbaijan. It is the sole metropolis in the country, and about 25% of all inhabitants of the country live in Baku's metropolitan area.",
+    "description": "Capital and largest city of Azerbaijan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Baku_city_at_night.jpg/330px-Baku_city_at_night.jpg",
+    "lat": 40.37555556,
+    "lon": 49.8325,
+    "es": {
+      "title": "Bakú",
+      "url": "https://es.wikipedia.org/wiki/Bak%C3%BA",
+      "extract": "Bakú es la capital y ciudad más poblada de Azerbaiyán, del mar Caspio y del Cáucaso. Está situada en la costa sur de la península de Absheron, que se proyecta en el Caspio. La ciudad se compone de dos partes principales: el centro y la ciudad vieja interior. En enero de 2018, Bakú tenía una población de 2 262 600 habitantes, de los cuales 153 400 eran desplazados internos y 143 400 refugiados de la guerra de Alto Karabaj."
+    }
+  },
   "bandung": {
     "title": "Bandung",
     "url": "https://en.wikipedia.org/wiki/Bandung",
@@ -789,6 +803,15 @@
       "url": "https://es.wikipedia.org/wiki/Bah%C3%ADa_de_Cochinos",
       "extract": "La bahía de Cochinos está ubicada en la costa suroccidental de Cuba, en un entrante del golfo de Cazones. En 1910 pasó a formar parte de la provincia de Santa Clara, en 1961 reasignado a la provincia de Las Villas y finalmente, en 1976 cuando de las seis provincias originales de Cuba se produjo una reorganización general para pasar a catorce (14), transferido a la provincia de Matanzas."
     }
+  },
+  "beckton-gas-works": {
+    "title": "Beckton Gas Works",
+    "url": "https://en.wikipedia.org/wiki/Beckton_Gas_Works",
+    "extract": "Beckton Gas Works was a major London gasworks built to manufacture coal gas and other products including coke from coal. It has been variously described as \"the largest such plant in the world\" and \"the largest gas works in Europe\". It operated from 1870 to 1976, with an associated by-products works that operated from 1879 to 1970. The works were located on East Ham Level, on the north bank of the Thames at Gallions Reach, to the west of Barking Creek.",
+    "description": "Former gas works in London",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Beckton_gas_works_%283%29.jpg/330px-Beckton_gas_works_%283%29.jpg",
+    "lat": 51.515876,
+    "lon": 0.071965
   },
   "beijing": {
     "title": "Beijing",
@@ -933,6 +956,15 @@
       "url": "https://es.wikipedia.org/wiki/Birmingham",
       "extract": "Birmingham es una ciudad y un municipio metropolitano situado en el condado metropolitano de las Tierras Medias Occidentales, en la región de las Tierras Medias Occidentales de Inglaterra. Según el censo de 2021, tiene una población de 1 144 919 habitantes."
     }
+  },
+  "bobrka": {
+    "title": "Bóbrka, Gmina Chorkówka",
+    "url": "https://en.wikipedia.org/wiki/B%C3%B3brka%2C_Gmina_Chork%C3%B3wka",
+    "extract": "Bóbrka is a village in the administrative district of Gmina Chorkówka, within Krosno County, Subcarpathian Voivodeship, in south-eastern Poland.",
+    "description": "Village in Subcarpathian Voivodeship, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/02022_0350_Historic_oil_field_administration_building%2C_so_called_%C5%81ukasiewicz%E2%80%99s_House_from_1865.jpg/330px-02022_0350_Historic_oil_field_administration_building%2C_so_called_%C5%81ukasiewicz%E2%80%99s_House_from_1865.jpg",
+    "lat": 49.63277778,
+    "lon": 21.69861111
   },
   "bogota": {
     "title": "Bogotá",
@@ -1573,6 +1605,20 @@
       "title": "Chongqing",
       "url": "https://es.wikipedia.org/wiki/Chongqing",
       "extract": "Chongqing es uno de los cuatro municipios bajo jurisdicción central de la República Popular China. Se creó como municipio, el 14 de marzo de 1997, para potenciar la zona y controlar la presa de las Tres Gargantas. Hasta antes de crearse como municipio formaba parte de la provincia de Sichuan."
+    }
+  },
+  "cleveland": {
+    "title": "Cleveland",
+    "url": "https://en.wikipedia.org/wiki/Cleveland",
+    "extract": "Cleveland is a city in the U.S. state of Ohio, located along the southern shore of Lake Erie. It is across the lake from the Canadian province of Ontario, and is approximately 60 miles west of the Ohio–Pennsylvania state line. Cleveland is the most populous city on Lake Erie, the 2nd-most populous city in Ohio, and the 53rd-most populous city in the United States, with a population of 372,624 at the 2020 census. It also serves as the county seat of Cuyahoga County. The Greater Cleveland metropolitan area, with an estimated 2.17 million residents, is the 34th-largest metropolitan area in the U.S.",
+    "description": "City in Ohio, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Cleveland_skyline_from_Lakewood_Park%2C_January_2026.jpg/330px-Cleveland_skyline_from_Lakewood_Park%2C_January_2026.jpg",
+    "lat": 41.4992,
+    "lon": -81.6947,
+    "es": {
+      "title": "Cleveland",
+      "url": "https://es.wikipedia.org/wiki/Cleveland",
+      "extract": "Cleveland, oficialmente City of Cleveland, es una ciudad del estado estadounidense de Ohio y es la sede del condado de Cuyahoga. Se halla en la parte noreste del estado, en la ribera sur del lago Erie, al otro lado de la frontera lacustre de Estados Unidos con Canadá y a unos 97 km al oeste de Pensilvania. Cleveland es además la mayor ciudad del lago Erie, una de las principales ciudades de la región de los Grandes Lagos, y la 54.ª ciudad más grande de Estados Unidos, con una población de 372 624 habitantes en 2020. La ciudad ancla tanto el área estadística metropolitana (MSA) del Gran Cleveland como el área estadística combinada (CSA) más grande de Cleveland-Akron-Canton. La CSA es la más poblada de Ohio y la 17 más grande del país, con una población de 3,63 millones en 2020, mientras que la MSA ocupa el puesto 34 con 2,09 millones."
     }
   },
   "cnidus": {
@@ -2365,6 +2411,20 @@
       "extract": "Fráncfort del Meno, comúnmente llamada Fráncfort, es una ciudad financiera y comercial de Hesse, Alemania. Con 763 380 habitantes, es también la quinta ciudad más poblada del país. De acuerdo con Eurostat, la aglomeración urbana de la que Fráncfort forma parte cuenta con 2 500 000 habitantes. Aunque la capital administrativa de Hesse es Wiesbaden, Fráncfort tiene una importancia económica mayor tanto en el estado como en Alemania y en la Unión Europea."
     }
   },
+  "fredonia-new-york": {
+    "title": "Fredonia, New York",
+    "url": "https://en.wikipedia.org/wiki/Fredonia%2C_New_York",
+    "extract": "Fredonia is a village in Chautauqua County, New York, United States. The population was 9,871 as of the 2020 census. Fredonia is in the town of Pomfret south of Lake Erie. The village is the home of the State University of New York at Fredonia.",
+    "description": "Village in New York, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/US_Post_Office%E2%80%94Fredonia_NY_Nov_10.JPG/330px-US_Post_Office%E2%80%94Fredonia_NY_Nov_10.JPG",
+    "lat": 42.44055556,
+    "lon": -79.33194444,
+    "es": {
+      "title": "Fredonia (Nueva York)",
+      "url": "https://es.wikipedia.org/wiki/Fredonia_(Nueva_York)",
+      "extract": "Forestville es una villa ubicada en el condado de Chautauqua en el estado estadounidense de Nueva York. En el año 2000 tenía una población de 10,706 habitantes y una densidad poblacional de 796 personas por km²."
+    }
+  },
   "french-indochina": {
     "title": "French Indochina",
     "url": "https://en.wikipedia.org/wiki/French_Indochina",
@@ -2958,6 +3018,20 @@
       "title": "Batalla de Heraclea",
       "url": "https://es.wikipedia.org/wiki/Batalla_de_Heraclea",
       "extract": "La batalla de Heraclea tuvo lugar en el 280 a. C., en la ciudad de Heraclea, la actual Policoro, dando inicio a las Guerras Pírricas. Estas guerras fueron el último intento de las polis de la Magna Grecia de impedir la expansión por la península itálica de la joven República romana. Para conseguir frenar a los romanos llamaron en su ayuda al rey Pirro de Epiro; de ahí el nombre del conflicto."
+    }
+  },
+  "highland-park-michigan": {
+    "title": "Highland Park, Michigan",
+    "url": "https://en.wikipedia.org/wiki/Highland_Park%2C_Michigan",
+    "extract": "Highland Park is a city in Wayne County in the U.S. state of Michigan. An enclave of Detroit, Highland Park is located roughly 6 miles (9.7 km) north of Downtown Detroit and is surrounded by Detroit on most sides. As of the 2020 census, the city had a population of 8,977.",
+    "description": "City in Michigan, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Medbury%27s-Grove_Lawn_Subdivisions_Historic_District_3.jpg/330px-Medbury%27s-Grove_Lawn_Subdivisions_Historic_District_3.jpg",
+    "lat": 42.40555556,
+    "lon": -83.09694444,
+    "es": {
+      "title": "Highland Park (Míchigan)",
+      "url": "https://es.wikipedia.org/wiki/Highland_Park_(M%C3%ADchigan)",
+      "extract": "Highland Park es una ciudad ubicada en el condado de Wayne en el estado estadounidense de Míchigan. En el Censo de 2010 tenía una población de 11 776 habitantes y una densidad poblacional de 1530,37 personas por km²."
     }
   },
   "himera": {
@@ -3989,6 +4063,20 @@
       "title": "Mánchester",
       "url": "https://es.wikipedia.org/wiki/M%C3%A1nchester",
       "extract": "Mánchester es una ciudad y un municipio metropolitano del condado de Gran Mánchester en Inglaterra, Reino Unido. Obtuvo su estatus de ciudad en 1890 y tenía una población aproximada de 530 300 habitantes en 2015 con una población urbana de 3,2 millones. A su vez, forma parte de la tercera aglomeración urbana del Reino Unido, después de Londres y Birmingham."
+    }
+  },
+  "mannheim": {
+    "title": "Mannheim",
+    "url": "https://en.wikipedia.org/wiki/Mannheim",
+    "extract": "Mannheim, officially the University City of Mannheim, is the second-largest city in Baden-Württemberg after Stuttgart, the state capital, and Germany's 21st-largest city, with a population of over 315,000. It is located at the border with Rhineland-Palatinate. The city is the cultural and economic centre of the Rhine-Neckar, Germany's seventh-largest metropolitan region, with nearly 2.4 million inhabitants.",
+    "description": "City in Baden-Württemberg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg/330px-Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg",
+    "lat": 49.48777778,
+    "lon": 8.46611111,
+    "es": {
+      "title": "Mannheim",
+      "url": "https://es.wikipedia.org/wiki/Mannheim",
+      "extract": "Mannheim es una ciudad situada en Baden-Wurtemberg, uno de los estados federados de Alemania. Es una ciudad industrial en la que habitan 309 119 personas (2020), lo que la convierte en la segunda ciudad más poblada del estado tras Stuttgart y en la vigésimo primera de Alemania. Forma junto a la ciudad de Ludwigshafen situada al otro lado del Rin una aglomeración urbana que supera los 480.000 habitantes y es el corazón de la región metropolitana Rhein-Neckar, séptima área del país con una población superior a los 2,4 millones de habitantes y más de 900 000 empleos industriales."
     }
   },
   "mantua": {
@@ -5699,6 +5787,20 @@
       "extract": "Recife es una ciudad situada en la costa del océano Atlántico del noreste de Brasil. Es la capital del Estado de Pernambuco. Tiene una población estimada, en 2025, de 1.710.000 habitantes."
     }
   },
+  "redruth": {
+    "title": "Redruth",
+    "url": "https://en.wikipedia.org/wiki/Redruth",
+    "extract": "Redruth is a town and civil parish in Cornwall, England. It lies approximately 9 miles (14 km) west of Truro, 12 miles (19 km) east of St Ives, 18 miles (29 km) north-east of Penzance and 11 miles (18 km) north-west of Falmouth. At the 2021 census, the population of the parish was 15,626 and the population of the built-up area was 15,455.",
+    "description": "Town and civil parish in Cornwall, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Redruth.jpg/330px-Redruth.jpg",
+    "lat": 50.23277778,
+    "lon": -5.22638889,
+    "es": {
+      "title": "Redruth",
+      "url": "https://es.wikipedia.org/wiki/Redruth",
+      "extract": "Redruth es una localidad situada en el condado de Cornualles, en Inglaterra, con una población en 2016 de 20 864 habitantes."
+    }
+  },
   "regensburg": {
     "title": "Regensburg",
     "url": "https://en.wikipedia.org/wiki/Regensburg",
@@ -6485,6 +6587,20 @@
       "extract": "Espira es una ciudad del estado federado alemán de Renania-Palatinado. Tiene aproximadamente 50 000 habitantes y se halla a orillas del río Rin, 25 km al sur de Mannheim y 25 km al norte de Karlsruhe. Fue fundada por los romanos, lo que convierte a Espira en una de las ciudades más antiguas de Alemania. En la antigüedad, la zona se conocía como Noviomagus y Civitas Nemetum, de la tribu teutónica de los németes, que estaban asentados en la zona."
     }
   },
+  "spindletop": {
+    "title": "Spindletop",
+    "url": "https://en.wikipedia.org/wiki/Spindletop",
+    "extract": "Spindletop is an oil field located in the southern portion of Beaumont, Texas, in the United States. The Spindletop dome was derived from the Louann Salt evaporite layer of the Jurassic geologic period. On January 10, 1901, a well at Spindletop struck oil. The Spindletop gusher blew for 9 days at a rate estimated at 100,000 barrels (16,000 m3) of oil per day. Gulf Oil and Texaco, now part of Chevron Corporation, were formed to develop production at Spindletop. The Spindletop discovery led the United States into the oil age. Prior to Spindletop, oil was primarily used for lighting and as a lubricant. Because of the quantity of oil discovered, burning petroleum as a fuel for mass consumption suddenly became economically feasible.",
+    "description": "Oil field in southeastern Texas, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Lucas_gusher.jpg/330px-Lucas_gusher.jpg",
+    "lat": 30.02,
+    "lon": -94.07527778,
+    "es": {
+      "title": "Spindletop",
+      "url": "https://es.wikipedia.org/wiki/Spindletop",
+      "extract": "Spindletop es un campo petrolero ubicado en la parte sur de Beaumont, Texas, en los Estados Unidos. El 10 de enero de 1901, un pozo expulsó petróleo en forma incontrolada en la colina de Spindletop, formando un surtidor, que durante 9 días, expulsó unos 16.000 m³ de petróleo diarios."
+    }
+  },
   "sremski-karlovci": {
     "title": "Sremski Karlovci",
     "url": "https://en.wikipedia.org/wiki/Sremski_Karlovci",
@@ -6946,6 +7062,20 @@
       "title": "Tirinto",
       "url": "https://es.wikipedia.org/wiki/Tirinto",
       "extract": "Tirinto o Tirinte es un emplazamiento arqueológico micénico en el nomos griego de la Argólida en la península del Peloponeso, algunos kilómetros al norte de Nauplia."
+    }
+  },
+  "titusville-pennsylvania": {
+    "title": "Titusville, Pennsylvania",
+    "url": "https://en.wikipedia.org/wiki/Titusville%2C_Pennsylvania",
+    "extract": "Titusville is a city in the far eastern corner of Crawford County, Pennsylvania, United States. The population was 5,262 at the 2020 census. Titusville is known as the birthplace of the American oil industry and for a number of years was the leading oil-producing region in the world. It was also notable for its lumber industry, including 17 sawmills, as well as its plastic and toolmaking industries. It is part of the Meadville micropolitan area.",
+    "description": "City in Pennsylvania, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/PA_8-27_in_Titusville.jpg/330px-PA_8-27_in_Titusville.jpg",
+    "lat": 41.62694444,
+    "lon": -79.67611111,
+    "es": {
+      "title": "Titusville (Pensilvania)",
+      "url": "https://es.wikipedia.org/wiki/Titusville_(Pensilvania)",
+      "extract": "Titusville es una ciudad ubicada en el extremo oriental del condado de Crawford. En 2010, la ciudad tenía una población de 5.601 habitantes, que pasaron a 5.262 personas en el censo de 2020. En 1859, se extrajo por primera vez petróleo, siendo Titusville la pionera y dando inicio a la industria petrolera moderna. Durante varios años fue la principal región productora de petróleo del mundo. También destacó por su industria maderera, que incluía 17 aserraderos, así como por sus industrias de plástico y fabricación de herramientas. Forma parte del área metropolitana de Meadville."
     }
   },
   "tlaxcala": {
