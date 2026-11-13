@@ -1645,6 +1645,20 @@
       "extract": "Camp David es un refugio rural de 51 hectáreas para el presidente de los Estados Unidos. Se encuentra en las colinas boscosas del Parque de la Montaña Catoctin, en el Condado de Frederick (Maryland), cerca de las ciudades de Thurmont y Emmitsburg, a unos 100 kilómetros al nornoroeste de la capital, Washington D. C.Su nombre en clave es Instalación de Apoyo Naval Thurmont. Técnicamente, es una instalación militar, y su personal está compuesto principalmente por los Seabees, el Cuerpo de Ingenieros Civiles, la Armada y el Cuerpo de Marines. Los batallones de construcción naval se encargan de la construcción de Camp David y envían destacamentos según sea necesario."
     }
   },
+  "camp-dubois": {
+    "title": "Camp Dubois",
+    "url": "https://en.wikipedia.org/wiki/Camp_Dubois",
+    "extract": "Camp Dubois, near present-day Wood River, Illinois, served as the winter camp and launch-point for the exploration of the Louisiana Purchase and Pacific Northwest by the Lewis and Clark Expedition of the United States.",
+    "description": "United States historic place; launching point for the Lewis and Clark Expedition",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Camp_Dubois_reconstruction_034.jpg/330px-Camp_Dubois_reconstruction_034.jpg",
+    "lat": 38.80272222,
+    "lon": -90.10125,
+    "es": {
+      "title": "Campamento Dubois",
+      "url": "https://es.wikipedia.org/wiki/Campamento_Dubois",
+      "extract": "El Campamento Dubois, ubicado cerca del actual Wood River, Illinois, sirvió como campamento de invierno y punto de partida para la expedición de Lewis y Clark."
+    }
+  },
   "cannae": {
     "title": "Cannae",
     "url": "https://en.wikipedia.org/wiki/Cannae",
@@ -2114,6 +2128,20 @@
       "title": "Colonia (Alemania)",
       "url": "https://es.wikipedia.org/wiki/Colonia_(Alemania)",
       "extract": "Colonia es una ciudad del oeste de Alemania. Con alrededor de 1,1 millones de habitantes, es la cuarta ciudad más poblada del país –después de Berlín, Hamburgo y Múnich–, y la más poblada de la macrorregión metropolitana del Rin-Ruhr y del Estado federado de Renania del Norte-Westfalia, cuya capital, sin embargo, es Düsseldorf."
+    }
+  },
+  "coloma-california": {
+    "title": "Coloma, California",
+    "url": "https://en.wikipedia.org/wiki/Coloma%2C_California",
+    "extract": "Coloma is a census-designated place (CDP) in El Dorado County, California, United States. It is approximately 36 miles (58 km) northeast of Sacramento. Coloma is most noted for being the site where James W. Marshall found gold in the Sierra Nevada foothills, at Sutter's Mill on January 24, 1848, leading to the California gold rush. As of the 2020 census, Coloma had a population of 521.",
+    "description": "Census-designated place in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Coloma%2C_California_street2.jpg/330px-Coloma%2C_California_street2.jpg",
+    "lat": 38.8028,
+    "lon": -120.8944,
+    "es": {
+      "title": "Coloma (California)",
+      "url": "https://es.wikipedia.org/wiki/Coloma_(California)",
+      "extract": "Coloma es un lugar designado por el censo ubicado en el condado de El Dorado, California, Estados Unidos. Según el censo de 2020, tiene una población de 521 habitantes."
     }
   },
   "colonia-del-sacramento": {
@@ -2891,6 +2919,15 @@
       "url": "https://es.wikipedia.org/wiki/Fontainebleau",
       "extract": "Fontainebleau es una ciudad del área metropolitana de París (Francia). Se encuentra a 55,5 km al sursureste del centro de París, en el departamento de Sena y Marne. Es la subprefectura del distrito de Fontainebleau."
     }
+  },
+  "fort-clatsop": {
+    "title": "Fort Clatsop",
+    "url": "https://en.wikipedia.org/wiki/Fort_Clatsop",
+    "extract": "Fort Clatsop was the encampment of the Lewis and Clark Expedition in the Oregon Country near the mouth of the Columbia River during the winter of 1805–1806. Located along the Lewis and Clark River at the north end of the Clatsop Plains approximately 5 miles (8.0 km) southwest of Astoria, the fort was the last encampment of the Corps of Discovery, before embarking on their return trip east to St. Louis.",
+    "description": "United States historic place",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Fort_Clatsop_replica_2007.jpg/330px-Fort_Clatsop_replica_2007.jpg",
+    "lat": 46.13361111,
+    "lon": -123.88027778
   },
   "fort-de-joux": {
     "title": "Fort de Joux",
@@ -3776,6 +3813,18 @@
       "title": "Independence (Misuri)",
       "url": "https://es.wikipedia.org/wiki/Independence_(Misuri)",
       "extract": "Independence es una ciudad ubicada en el condado de Jackson en el estado estadounidense de Misuri. En el censo de 2010 tenía una población de 116 830 habs. y una densidad poblacional de 576,49 hab/km². Se encuentra sobre la orilla derecha del río Misuri, y forma parte del área metropolitana de Kansas City."
+    }
+  },
+  "indian-territory": {
+    "title": "Indian Territory",
+    "url": "https://en.wikipedia.org/wiki/Indian_Territory",
+    "extract": "Indian Territory and the Indian Territories are terms that generally described an evolving land area set aside by the United States government for the relocation of Native Americans who held original Indian title to their land as an independent nation. The concept of an Indian territory was an outcome of the U.S. federal government's 18th- and 19th-century policy of Indian removal. After the American Civil War (1861–1865), the policy of the U.S. government was one of assimilation.",
+    "description": "Historic sovereign territory set aside for Native American nations, 1834–1907",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_the_Choctaw_Brigade.svg/330px-Flag_of_the_Choctaw_Brigade.svg.png",
+    "es": {
+      "title": "Territorio Indio (Estados Unidos)",
+      "url": "https://es.wikipedia.org/wiki/Territorio_Indio_(Estados_Unidos)",
+      "extract": "El Territorio Indio o territorios indios fue un terreno ofrecido por el gobierno de Estados Unidos para la reubicación de los nativos estadounidenses que habían tenido sus hogares en esas tierras. En general, las tribus las cedieron al gobierno a cambio de unos territorios que Estados Unidos había adquirido de Napoleón Bonaparte, la compra de la Luisiana. El concepto de un «territorio indio» viene de una política de deportación de los nativos. Después de la guerra civil estadounidense, la política del gobierno se convirtió en una de asimilación cultural."
     }
   },
   "ipsus": {
@@ -5749,6 +5798,20 @@
       "extract": "El monasterio de la Resurrección o monasterio de la Nueva Jerusalén es un importante monasterio masculino de la Iglesia Ortodoxa Rusa localizado en el óblast de Moscú, Rusia. El monasterio de Voskresensky ha dado lugar a la aldea homónima, que se ha convertido en la ciudad de Voskresensk."
     }
   },
+  "new-orleans": {
+    "title": "New Orleans",
+    "url": "https://en.wikipedia.org/wiki/New_Orleans",
+    "extract": "New Orleans is a consolidated city-parish located along the Mississippi River in the U.S. state of Louisiana. With a population of 383,997 at the 2020 census, New Orleans is the most populous city in Louisiana, the second-most populous in the Deep South, and the twelfth-most populous in the Southeastern United States; the New Orleans metropolitan area, with about 1 million residents, is the 59th-most populous metropolitan area in the United States. New Orleans serves as a major port and commercial hub for the broader Gulf Coast region. The city is coextensive with Orleans Parish.",
+    "description": "Consolidated city-parish in Louisiana, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg/330px-New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg",
+    "lat": 29.9761,
+    "lon": -90.0783,
+    "es": {
+      "title": "Nueva Orleans",
+      "url": "https://es.wikipedia.org/wiki/Nueva_Orleans",
+      "extract": "Nueva Orleans es una ciudad al sureste del estado de Luisiana, sobre el delta del río Misisipi. Antes de la catástrofe del huracán Katrina, en 2005, la población de Nueva Orleans alcanzaba los 400 000 habitantes, reduciéndose a la mitad tras dicha destrucción; posteriormente, su población aumentó llegando a los 389 617 habitantes en 2015."
+    }
+  },
   "new-york-city": {
     "title": "New York City",
     "url": "https://en.wikipedia.org/wiki/New_York_City",
@@ -6723,6 +6786,20 @@
       "title": "Praga",
       "url": "https://es.wikipedia.org/wiki/Praga",
       "extract": "Praga es la capital de la República Checa y de la región de Bohemia. Situada a orillas del río Moldava, tiene aproximadamente 1,36 millones de habitantes, lo que la convierte en la ciudad más poblada del país y la séptima de Europa Central. El área metropolitana de Praga cuenta con una población de 2,7 millones de habitantes. Su belleza y patrimonio histórico la convierten en una de las veinte ciudades más visitadas del mundo."
+    }
+  },
+  "promontory-utah": {
+    "title": "Promontory, Utah",
+    "url": "https://en.wikipedia.org/wiki/Promontory%2C_Utah",
+    "extract": "Promontory is an area of high ground in Box Elder County, Utah, United States, 32 mi (51 km) west of Brigham City and 66 mi (106 km) northwest of Salt Lake City. Rising to an elevation of 4,902 feet (1,494 m) above sea level, it lies to the north of the Promontory Mountains and the Great Salt Lake. It is notable as the location of Promontory Summit, where the first transcontinental railroad in the United States, from Sacramento to Omaha, was officially completed on May 10, 1869. The location is sometimes confused with Promontory Point, a location further south along the southern tip of the Promontory Mountains. Both locations are significant to the Overland Route: Promontory Summit was where the original, now abandoned, alignment crossed just north of the Promontory Mountains; while Promontory Point is where the modern alignment, called the Lucin Cutoff, crosses the southern tip of the Promontory Mountains.",
+    "description": "Area of high ground in Box Elder County, Utah",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Promontory_utah_locatormap.png/330px-Promontory_utah_locatormap.png",
+    "lat": 41.61861111,
+    "lon": -112.5475,
+    "es": {
+      "title": "Promontory (Utah)",
+      "url": "https://es.wikipedia.org/wiki/Promontory_(Utah)",
+      "extract": "Promontory es un lugar en el condado de Box Elder, Utah, en los Estados Unidos, situado a una altitud de 1494 m. Está a 51 km al oeste de Brigham City y 107 km al noroeste de Salt Lake City, al norte del Gran Lago Salado."
     }
   },
   "providence-rhode-island": {
@@ -8723,6 +8800,18 @@
       "title": "Tower Hill",
       "url": "https://es.wikipedia.org/wiki/Tower_Hill",
       "extract": "Tower Hill o Colina de la Torre es una elevación ubicada al noroeste de la Torre de Londres, en el barrio londinense de Tower Hamlets, en el límite de la City de Londres."
+    }
+  },
+  "trail-of-tears-national-historic-trail": {
+    "title": "Trail of Tears",
+    "url": "https://en.wikipedia.org/wiki/Trail_of_Tears",
+    "extract": "The Trail of Tears was the forced displacement and ethnic cleansing of about 60,000 Native Americans of the \"Five Civilized Tribes\", including their black slaves, between 1830 and 1850 by the United States government.",
+    "description": "Forced relocation and ethnic cleansing of the southeastern Native American tribes",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/TrailofTearsMemorial-3.jpg/330px-TrailofTearsMemorial-3.jpg",
+    "es": {
+      "title": "Sendero de Lágrimas",
+      "url": "https://es.wikipedia.org/wiki/Sendero_de_L%C3%A1grimas",
+      "extract": "El Sendero de Lágrimas fue una serie de desplazamientos forzados de aproximadamente 100 000 indígenas de las denominadas Cinco Tribus Civilizadas entre 1830 y 1850 por parte del gobierno de Estados Unidos. Esta limpieza étnica, que formaba parte de la expulsión de los nativos, fue gradual y se produjo durante un periodo de casi dos décadas. Los miembros de las naciones cherokee, muscogee (creek), seminola, chickasaw y choctaw fueron expulsados por la fuerza desde sus tierras ancestrales en el sureste de Estados Unidos a zonas al oeste del río Misisipi que habían sido designadas Territorio Indio por el gobierno de Estados Unidos. Los traslados forzosos fueron llevados a cabo por las autoridades gubernamentales tras la aprobación de la Ley de Traslado Forzoso de los Indios en 1830. El traslado de los cherokees en 1838 fue provocado por el descubrimiento de oro cerca de Dahlonega (Georgia) en 1828, lo que dio lugar a la fiebre del oro de Georgia."
     }
   },
   "trasimene": {

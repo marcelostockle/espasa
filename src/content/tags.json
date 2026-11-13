@@ -2023,6 +2023,21 @@
       }
     }
   },
+  "mexico": {
+    "label": "Mexico",
+    "color": "#339966",
+    "description": "Mexico as an independent state since 1821: its territory, politics, wars and relations with the United States.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "México",
+        "description": "México como Estado independiente desde 1821: su territorio, su política, sus guerras y sus relaciones con Estados Unidos."
+      }
+    }
+  },
   "mikhail-gorbachev": {
     "label": "Mikhail Gorbachev",
     "color": "#c07a52",

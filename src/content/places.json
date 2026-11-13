@@ -1088,6 +1088,15 @@
       }
     }
   },
+  "camp-dubois": {
+    "label": "Camp Dubois",
+    "wikipedia": "Camp Dubois",
+    "translations": {
+      "es": {
+        "label": "Campamento Dubois"
+      }
+    }
+  },
   "cannae": {
     "label": "Cannae",
     "wikipedia": "Cannae",
@@ -1391,6 +1400,15 @@
     "translations": {
       "es": {
         "label": "Colonia"
+      }
+    }
+  },
+  "coloma-california": {
+    "label": "Coloma, California",
+    "wikipedia": "Coloma, California",
+    "translations": {
+      "es": {
+        "label": "Coloma (California)"
       }
     }
   },
@@ -1895,6 +1913,15 @@
     "translations": {
       "es": {
         "label": "Fontainebleau"
+      }
+    }
+  },
+  "fort-clatsop": {
+    "label": "Fort Clatsop",
+    "wikipedia": "Fort Clatsop",
+    "translations": {
+      "es": {
+        "label": "Fuerte Clatsop"
       }
     }
   },
@@ -2489,6 +2516,15 @@
     "translations": {
       "es": {
         "label": "Independence (Misuri)"
+      }
+    }
+  },
+  "indian-territory": {
+    "label": "Indian Territory",
+    "wikipedia": "Indian Territory",
+    "translations": {
+      "es": {
+        "label": "Territorio Indio"
       }
     }
   },
@@ -3779,6 +3815,15 @@
       }
     }
   },
+  "new-orleans": {
+    "label": "New Orleans",
+    "wikipedia": "New Orleans",
+    "translations": {
+      "es": {
+        "label": "Nueva Orleans"
+      }
+    }
+  },
   "new-york-city": {
     "label": "New York City",
     "wikipedia": "New York City",
@@ -4415,6 +4460,15 @@
     "translations": {
       "es": {
         "label": "Praga"
+      }
+    }
+  },
+  "promontory-utah": {
+    "label": "Promontory, Utah",
+    "wikipedia": "Promontory, Utah",
+    "translations": {
+      "es": {
+        "label": "Promontory (Utah)"
       }
     }
   },
@@ -5729,6 +5783,15 @@
     "translations": {
       "es": {
         "label": "Tower Hill"
+      }
+    }
+  },
+  "trail-of-tears-national-historic-trail": {
+    "label": "Trail of Tears National Historic Trail",
+    "wikipedia": "Trail of Tears National Historic Trail",
+    "translations": {
+      "es": {
+        "label": "Ruta Histórica Nacional del Sendero de las Lágrimas"
       }
     }
   },
