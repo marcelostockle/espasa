@@ -1262,6 +1262,20 @@
       "extract": "Burgos es una ciudad y municipio de España en la comunidad autónoma de Castilla y León, capital de la provincia homónima. Con 177 402 habitantes, es el segundo municipio más poblado de la comunidad autónoma, tras Valladolid, e integra un área metropolitana de 200 000 habitantes."
     }
   },
+  "burgtheater": {
+    "title": "Burgtheater",
+    "url": "https://en.wikipedia.org/wiki/Burgtheater",
+    "extract": "The Burgtheater (German: [ˈbʊʁk.teˌaːtɐ]; literally: \"Castle Theater\" but alternatively translated as \" Court Theater\", originally known as K.K. Theater an der Burg, then until 1918 as the K.K. Hofburgtheater, is the national theater of Austria, located in Vienna. It is the most important German-language theater and one of the most important theatres in the world. The Burgtheater was opened in 1741 and has become known as die Burg by the Viennese population; its theater company has created a traditional style and speech typical of Burgtheater performances.",
+    "description": "National theatre in Vienna, Austria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Wien_-_Burgtheater.JPG/330px-Wien_-_Burgtheater.JPG",
+    "lat": 48.21027778,
+    "lon": 16.36138889,
+    "es": {
+      "title": "Burgtheater",
+      "url": "https://es.wikipedia.org/wiki/Burgtheater",
+      "extract": "El Burgtheater, originalmente llamado K.K. Theater an der Burg, y a partir de 1920 K.K. Hofburgtheater, es el Teatro Nacional de Austria en Viena y uno de los más importantes teatros del mundo en idioma alemán. El Burgtheater fue inaugurado en 1741 y la población de Viena lo conoce por el nombre \"die Burg\"; su compañía de teatro ha creado un estilo tradicional y el decir de sus locuciones es distintivo del Burgtheater. En la actualidad el edificio que alberga al teatro se encuentra situado en la Ringstraße."
+    }
+  },
   "byblos": {
     "title": "Byblos",
     "url": "https://en.wikipedia.org/wiki/Byblos",
@@ -2342,6 +2356,20 @@
       "title": "Período helenístico de Egipto",
       "url": "https://es.wikipedia.org/wiki/Per%C3%ADodo_helen%C3%ADstico_de_Egipto",
       "extract": "El periodo helenístico de Egipto, también llamado como el Egipto ptolemaico, el Reino ptelomaico o el Imperio ptolemaico, fue un período artístico e histórico en el que la dinastía ptolemaica ostentaba el poder en todo Egipto y en algunas regiones más de Oriente Medio. Fue una entidad política griega con sede en Egipto durante el periodo helenístico. El reino fue fundado en el año 305 a. C. por el general macedonio-griego Ptolomeo I Sóter —compañero de Alejandro Magno— y gobernado por la dinastía ptolemaica hasta la muerte de Cleopatra VII en el año 30 a. C., que dejó en manos de los romanos todo Egipto.Con un reinado de casi tres siglos, los Ptolomeos constituyeron la dinastía más longeva y la última del antiguo Egipto, marcando el inicio de una era distintiva de sincretismo religioso y cultural entre las culturas griega y egipcia."
+    }
+  },
+  "eisenstadt": {
+    "title": "Eisenstadt",
+    "url": "https://en.wikipedia.org/wiki/Eisenstadt",
+    "extract": "Eisenstadt is the capital city of the Austrian state of Burgenland. With a population of 16,118, it is the smallest state capital and the 38th-largest city in Austria overall. It lies at the foot of the Leitha Mountains.",
+    "description": "Statutory city in Burgenland, Austria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Kismarton_l%C3%A9gifot%C3%B33.jpg/330px-Kismarton_l%C3%A9gifot%C3%B33.jpg",
+    "lat": 47.85,
+    "lon": 16.51666667,
+    "es": {
+      "title": "Eisenstadt",
+      "url": "https://es.wikipedia.org/wiki/Eisenstadt",
+      "extract": "Eisenstadt es una ciudad de Austria y es la capital del estado federado de Burgenland. Tiene una población de 14.241 habitantes (2016). Eisenstadt se encuentra en una llanura que desciende hasta el río Wulka, al sur de la sierra conocida como la Leithagebirge, a unos 12 km de la frontera húngara."
     }
   },
   "eisleben": {
@@ -4986,6 +5014,20 @@
       "extract": "Nanyang es una ciudad-prefectura en la provincia de Henan, en la República Popular China. Las fronteras son: Sanmenxia al norte, la provincia de Hubei, al sur, Shaanxi al oeste y Zhumadian al este. Su área es de 26 511 km² y su población total para 2020 superó los 9,7 millones de habitantes."
     }
   },
+  "naples": {
+    "title": "Naples",
+    "url": "https://en.wikipedia.org/wiki/Naples",
+    "extract": "Naples is the capital and largest city of the region of Campania, in southern Italy. With a population of 905,050 residents within its administrative boundaries as of 2026, it is the largest city in southern Italy and the third-largest city in Italy after Rome and Milan. The Metropolitan City of Naples, the administrative entity that replaced the former Province of Naples in 2015, is Italy's third most populous metropolitan city with 2,954,847 residents as of 2026 – or the second largest according to OECD data. Its metropolitan area, the seventh most populous in the European Union, has a population of approximately 4.4 million and stretches beyond the boundaries of the city proper for approximately 30 kilometres. Naples also plays a key role in international diplomacy, being home to NATO's Allied Joint Force Command Naples, located in Lago Patria, within the municipality of Giugliano in Campania and a regional office of the Parliamentary Assembly of the Mediterranean.",
+    "description": "Regional capital city of Campania, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Napoli_-_Maschio_Angioino_-_202209302342_3.jpg/330px-Napoli_-_Maschio_Angioino_-_202209302342_3.jpg",
+    "lat": 40.8358,
+    "lon": 14.2486,
+    "es": {
+      "title": "Nápoles",
+      "url": "https://es.wikipedia.org/wiki/N%C3%A1poles",
+      "extract": "Nápoles es la ciudad más poblada del sur de Italia, capital de la ciudad metropolitana homónima y de la región de Campania. Es el tercer municipio italiano por población, teniendo 905 259 habitantes que, unidos a los de la ciudad metropolitana, se elevan a más de tres millones. Está situada a medio camino entre el Vesubio y otra área volcánica, los Campos Flégreos. Nápoles también desempeña un papel clave en la diplomacia y cooperación internacional, ya que alberga el Allied Joint Force Command Naples de la OTAN y, principalmente debido a su histórica vocación global, la Asamblea Parlamentaria del Mediterráneo (PAM)."
+    }
+  },
   "neuchatel": {
     "title": "Neuchâtel",
     "url": "https://en.wikipedia.org/wiki/Neuch%C3%A2tel",
@@ -6169,6 +6211,19 @@
       "extract": "Rocroi es una comuna francesa situada en la región de las Champaña-Ardenas. en el departamento de las Ardenas."
     }
   },
+  "rohrau": {
+    "title": "Rohrau, Austria",
+    "url": "https://en.wikipedia.org/wiki/Rohrau%2C_Austria",
+    "extract": "Rohrau is a village in the state of Lower Austria. The name comes from two German words: Rohr (reed) and Au. South of the village is a riparian forest and a swamp covered with reed.",
+    "description": "Municipality in Lower Austria, Austria",
+    "lat": 48.06666667,
+    "lon": 16.85833333,
+    "es": {
+      "title": "Rohrau",
+      "url": "https://es.wikipedia.org/wiki/Rohrau",
+      "extract": "Rohrau es una ciudad ubicada en el estado federado de Baja Austria, muy cerca del límite con el Burgenland, en Austria. El 8,66% de la tierra está cubierta de bosques, el resto se usa para la agricultura. Es una localidad de atractivo turístico por el músico Joseph Haydn, quien nació en ella y que es recordado en una casa-museo; además recibe turistas por la Colección Harrach de pintura antigua, que se alberga en el Schloss Harrach, palacio-castillo de la familia aristocrática Harrach."
+    }
+  },
   "roman-forum": {
     "title": "Roman Forum",
     "url": "https://en.wikipedia.org/wiki/Roman_Forum",
@@ -6349,6 +6404,20 @@
       "title": "Salvador (Bahía)",
       "url": "https://es.wikipedia.org/wiki/Salvador_(Bah%C3%ADa)",
       "extract": "Salvador, fundada como São Salvador da Bahia de Todos os Santos, en español San Salvador de la Bahía de Todos los Santos,es una ciudad brasileña, capital del estado de Bahía y primera capital del Brasil Colonial. Sus habitantes son llamados soteropolitanos, término creado a partir de la traducción al griego del nombre de la ciudad, traducido al español como Ciudad del Salvador, compuesto de Σωτήρ (\"salvador\") y πόλις."
+    }
+  },
+  "salzburg": {
+    "title": "Salzburg",
+    "url": "https://en.wikipedia.org/wiki/Salzburg",
+    "extract": "Salzburg is the fourth-largest city in Austria. In 2026 its population was 157,994. The city lies on the Salzach River, near the border with Germany and at the foot of the Alps mountains.",
+    "description": "Capital of the state of Salzburg, Austria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Salzburg_%2848489551981%29.jpg/330px-Salzburg_%2848489551981%29.jpg",
+    "lat": 47.8,
+    "lon": 13.045,
+    "es": {
+      "title": "Salzburgo",
+      "url": "https://es.wikipedia.org/wiki/Salzburgo",
+      "extract": "Salzburgo es la cuarta ciudad más poblada de Austria, con 154 211 habitantes (2019), capital del estado federado (Bundesland) de Salzburgo y de la región homónima, una de las nueve en que se divide este país. Está cerca de la frontera nacional con Alemania. Su nombre proviene de la sal de las importantes minas que hay en las cercanías y con cuyo comercio la ciudad se desarrolló a lo largo de varios siglos. En el siglo VIII d. C., particularmente, alcanzó un alto grado de prosperidad por tal comercio y por los impuestos que se cobraban al paso de las barcazas que transportaban la sal y otras mercancías por el río Salzach que atraviesa la ciudad."
     }
   },
   "samarkand": {
@@ -7256,6 +7325,20 @@
       "title": "La Haya",
       "url": "https://es.wikipedia.org/wiki/La_Haya",
       "extract": "La Haya es una ciudad de los Países Bajos, capital administrativa del país y sede de la realeza neerlandesa. Es conocida mundialmente por albergar las sedes del Tribunal Internacional de Justicia y la Corte Penal Internacional."
+    }
+  },
+  "theater-an-der-wien": {
+    "title": "Theater an der Wien",
+    "url": "https://en.wikipedia.org/wiki/Theater_an_der_Wien",
+    "extract": "The Theater an der Wien is a historic theatre in Vienna located on the Left Wienzeile in the Mariahilf district. Completed in 1801, the theatre has hosted the premieres of many celebrated works of theatre, opera, and symphonic music. Since 2006, it has served primarily as an opera house, hosting its own company.",
+    "description": "Historic building in Vienna, Austria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/2020-05-23_Theater_an_der_Wien_Linke_Wienzeile.jpg/330px-2020-05-23_Theater_an_der_Wien_Linke_Wienzeile.jpg",
+    "lat": 48.19958333,
+    "lon": 16.36388889,
+    "es": {
+      "title": "Theater an der Wien",
+      "url": "https://es.wikipedia.org/wiki/Theater_an_der_Wien",
+      "extract": "El Theater an der Wien es un teatro histórico de Viena."
     }
   },
   "thebes": {

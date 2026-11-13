@@ -836,6 +836,15 @@
       }
     }
   },
+  "burgtheater": {
+    "label": "Burgtheater, Vienna",
+    "wikipedia": "Burgtheater",
+    "translations": {
+      "es": {
+        "label": "Burgtheater de Viena"
+      }
+    }
+  },
   "byblos": {
     "label": "Byblos",
     "wikipedia": "Byblos",
@@ -1535,6 +1544,15 @@
     "translations": {
       "es": {
         "label": "Egipto ptolemaico"
+      }
+    }
+  },
+  "eisenstadt": {
+    "label": "Eisenstadt",
+    "wikipedia": "Eisenstadt",
+    "translations": {
+      "es": {
+        "label": "Eisenstadt"
       }
     }
   },
@@ -3275,6 +3293,15 @@
       }
     }
   },
+  "naples": {
+    "label": "Naples",
+    "wikipedia": "Naples",
+    "translations": {
+      "es": {
+        "label": "Nápoles"
+      }
+    }
+  },
   "neuchatel": {
     "label": "Neuchâtel",
     "wikipedia": "Neuchâtel",
@@ -4049,6 +4076,15 @@
       }
     }
   },
+  "rohrau": {
+    "label": "Rohrau",
+    "wikipedia": "Rohrau, Austria",
+    "translations": {
+      "es": {
+        "label": "Rohrau"
+      }
+    }
+  },
   "roman-forum": {
     "label": "Roman Forum",
     "wikipedia": "Roman Forum",
@@ -4163,6 +4199,15 @@
     "translations": {
       "es": {
         "label": "San Salvador de Bahía"
+      }
+    }
+  },
+  "salzburg": {
+    "label": "Salzburg",
+    "wikipedia": "Salzburg",
+    "translations": {
+      "es": {
+        "label": "Salzburgo"
       }
     }
   },
@@ -4757,6 +4802,15 @@
     "translations": {
       "es": {
         "label": "La Haya"
+      }
+    }
+  },
+  "theater-an-der-wien": {
+    "label": "Theater an der Wien",
+    "wikipedia": "Theater an der Wien",
+    "translations": {
+      "es": {
+        "label": "Theater an der Wien"
       }
     }
   },

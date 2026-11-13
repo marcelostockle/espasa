@@ -241,6 +241,20 @@
       }
     }
   },
+  "beethoven": {
+    "label": "Ludwig van Beethoven",
+    "color": "#1f5f8b",
+    "description": "German composer (1770-1827) who carried the Classical forms into the Romantic era, notably in his nine symphonies, despite growing deafness.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Ludwig van Beethoven",
+        "description": "Compositor alemán (1770-1827) que llevó las formas clásicas al Romanticismo, sobre todo en sus nueve sinfonías, pese a su creciente sordera."
+      }
+    }
+  },
   "bible": {
     "label": "The Bible",
     "color": "#a68a64",
@@ -482,6 +496,20 @@
       "es": {
         "label": "Cicerón",
         "description": "Orador, político y escritor romano (106-43 a. C.): sus procesos, su consulado y la conjuración de Catilina, y sus discursos y cartas."
+      }
+    }
+  },
+  "classical-music": {
+    "label": "Classical music",
+    "color": "#b8860b",
+    "description": "Western art music of the Classical period (c. 1730-1820), centered on Vienna and the Mannheim school: symphony, string quartet, sonata form and reformed opera.",
+    "categories": [
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Música clásica",
+        "description": "Música culta occidental del período clásico (c. 1730-1820), centrada en Viena y la escuela de Mannheim: sinfonía, cuarteto de cuerda, forma sonata y ópera reformada."
       }
     }
   },
@@ -1554,6 +1582,20 @@
       }
     }
   },
+  "joseph-haydn": {
+    "label": "Joseph Haydn",
+    "color": "#c06c84",
+    "description": "Austrian composer (1732-1809), the leading figure in the development of the Classical symphony and string quartet.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Joseph Haydn",
+        "description": "Compositor austríaco (1732-1809), figura principal en el desarrollo de la sinfonía y el cuarteto de cuerda clásicos."
+      }
+    }
+  },
   "joseph-stalin": {
     "label": "Joseph Stalin",
     "color": "#7a1f2e",
@@ -1904,6 +1946,20 @@
       "es": {
         "label": "Imperio mongol",
         "description": "El Imperio mongol y los janatos que lo sucedieron, incluida la dinastía Yuan de Kublai Kan en China, entre los siglos XIII y XIV."
+      }
+    }
+  },
+  "mozart": {
+    "label": "Wolfgang Amadeus Mozart",
+    "color": "#e08fd0",
+    "description": "Austrian composer (1756-1791), a child prodigy who wrote symphonies, concertos, chamber music and operas, including Don Giovanni and The Magic Flute.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Wolfgang Amadeus Mozart",
+        "description": "Compositor austríaco (1756-1791), niño prodigio autor de sinfonías, conciertos, música de cámara y óperas como Don Giovanni y La flauta mágica."
       }
     }
   },
