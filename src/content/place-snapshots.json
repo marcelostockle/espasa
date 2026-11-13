@@ -5915,6 +5915,20 @@
       "extract": "Ocaña es un municipio colombiano ubicado en el departamento de Norte de Santander, al nororiente del país. Se encuentra dentro de la Subregión de Occidente en la región del Catatumbo, conocida coloquialmente como la Provincia de Ocaña. El municipio cuenta con una extensión de 672,27 km² y una altitud media de 1202 m s. n. m. Está ubicado al occidente del departamento, sobre la cordillera oriental y se encuentra atravesado por dos ríos: el Algodonal y el Tejo, además de varias quebradas."
     }
   },
+  "ohkay-owingeh": {
+    "title": "Ohkay Owingeh, New Mexico",
+    "url": "https://en.wikipedia.org/wiki/Ohkay_Owingeh%2C_New_Mexico",
+    "extract": "Ohkay Owingeh, known by its Spanish name as San Juan de los Caballeros, or informally as San Juan Pueblo, a name with official status from 1598 to 2005, is a Tewa pueblo in Rio Arriba County, New Mexico. For statistical purposes, the United States Census Bureau has defined that community as a census-designated place (CDP). Ohkay Owingeh is also the federally recognized tribe of Pueblo people inhabiting the town.",
+    "description": "Pueblo in Rio Arriba County, New Mexico",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/San_Juan_Bautista_Church_at_Ohkay_Owingeh_Pueblo.JPG/330px-San_Juan_Bautista_Church_at_Ohkay_Owingeh_Pueblo.JPG",
+    "lat": 36.05416667,
+    "lon": -106.07027778,
+    "es": {
+      "title": "Ohkay Owingeh",
+      "url": "https://es.wikipedia.org/wiki/Ohkay_Owingeh",
+      "extract": "Ohkay Owingeh es un lugar designado por el censo ubicado en el condado de Río Arriba, en el estado estadounidense de Nuevo México. En el Censo de 2010 tenía una población de 1143 habitantes. Tiene una población estimada, en 2019, de 1256 habitantes."
+    }
+  },
   "okinawa-island": {
     "title": "Okinawa Island",
     "url": "https://en.wikipedia.org/wiki/Okinawa_Island",
@@ -7329,6 +7343,20 @@
       "extract": "La isla de Salamina es una isla griega del mar Egeo, la mayor de las islas del golfo Sarónico, localizada a una milla náutica de la costa del Ática y de El Pireo. Existe un servicio de ferry cada 15 minutos entre la isla y la costa."
     }
   },
+  "salem-massachusetts": {
+    "title": "Salem, Massachusetts",
+    "url": "https://en.wikipedia.org/wiki/Salem%2C_Massachusetts",
+    "extract": "Salem is a historic coastal city in Essex County, Massachusetts, United States, located on the North Shore of Greater Boston. Continuous settlement by Europeans began in 1626 with English colonists. Salem was one of the most significant seaports for trading commodities in early American history. Prior to the dissolution of county governments in Massachusetts in 1999, it served as one of two county seats for Essex County, alongside Lawrence.",
+    "description": "City in Massachusetts, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Federal_Street_District.jpg/330px-Federal_Street_District.jpg",
+    "lat": 42.51944444,
+    "lon": -70.89722222,
+    "es": {
+      "title": "Salem (Massachusetts)",
+      "url": "https://es.wikipedia.org/wiki/Salem_(Massachusetts)",
+      "extract": "Salem es una ciudad ubicada en el condado de Essex del estado estadounidense de Massachusetts."
+    }
+  },
   "salvador": {
     "title": "Salvador, Bahia",
     "url": "https://en.wikipedia.org/wiki/Salvador%2C_Bahia",
@@ -7399,6 +7427,20 @@
       "extract": "Samos es una isla de Grecia perteneciente al grupo de las islas Espóradas Orientales. Está localizada en aguas del mar Egeo, muy próxima a la costa de Asia menor, al sur de la isla de Quíos y al norte de la isla de Patmos y del archipiélago del Dodecaneso. En 2011 contaba con una población de 32 977 habitantes."
     }
   },
+  "san-diego": {
+    "title": "San Diego",
+    "url": "https://en.wikipedia.org/wiki/San_Diego",
+    "extract": "San Diego is a city on the Pacific coast of Southern California, next to the Mexican border. It is the eighth-most populous city in the U.S. and second-most populous city in California with a population of over 1.4 million, while the San Diego area with over 3.3 million residents is the 18th-largest metropolitan area in the country. San Diego is the county seat of San Diego County. It is known for its mild Mediterranean climate, extensive beaches and parks, long association with the United States Navy, and recent emergence as a wireless, electronics, healthcare, and biotechnology development center.",
+    "description": "City in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/330px-La_Jolla_Shores_view_%28cropped%29.jpg",
+    "lat": 32.715,
+    "lon": -117.1625,
+    "es": {
+      "title": "San Diego (California)",
+      "url": "https://es.wikipedia.org/wiki/San_Diego_(California)",
+      "extract": "San Diego es una ciudad estadounidense ubicada en el Condado de San Diego, en la costa del océano Pacífico en el sur de California a 190 kilómetros al sur de Los Ángeles e inmediatamente adyacente a la frontera con México."
+    }
+  },
   "san-francisco": {
     "title": "San Francisco",
     "url": "https://en.wikipedia.org/wiki/San_Francisco",
@@ -7439,6 +7481,20 @@
       "title": "Santa Clara (Cuba)",
       "url": "https://es.wikipedia.org/wiki/Santa_Clara_(Cuba)",
       "extract": "Santa Clara, capital de la provincia de Villa Clara y cabecera del municipio de igual nombre, es una ciudad localizada en las inmediaciones del centro geográfico de Cuba. Imprescindible plaza cultural y significativo enclave industrial y científico del país caribeño, se le conoce por la batalla homónima que diera el triunfo a la Revolución Cubana, así como por acoger en su suelo los restos del comandante guerrillero argentino-cubano, Ernesto Guevara y sus compañeros de lucha."
+    }
+  },
+  "santa-fe-new-mexico": {
+    "title": "Santa Fe, New Mexico",
+    "url": "https://en.wikipedia.org/wiki/Santa_Fe%2C_New_Mexico",
+    "extract": "Santa Fe is the capital city of the U.S. state of New Mexico. It is the fourth-most populous city in the state with a population of 87,505 as of the 2020 census, while the Santa Fe metropolitan area has an estimated 158,000 people. The greater Albuquerque–Santa Fe–Los Alamos combined statistical area includes eight counties in north-central New Mexico with 1.16 million residents. The county seat of Santa Fe County, Santa Fe is situated at the foothills of the Sangre de Cristo Mountains at the highest altitude of any U.S. state capital, with an elevation of 6,998 feet.",
+    "description": "Capital city of New Mexico, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Palace_of_the_Governors.jpg/330px-Palace_of_the_Governors.jpg",
+    "lat": 35.6875,
+    "lon": -105.93861111,
+    "es": {
+      "title": "Santa Fe (Nuevo México)",
+      "url": "https://es.wikipedia.org/wiki/Santa_Fe_(Nuevo_M%C3%A9xico)",
+      "extract": "La Villa Real de la Santa Fe de San Francisco de Asís, conocida simplemente como Santa Fe, es una ciudad ubicada en el condado de Santa Fe en el estado estadounidense de Nuevo México, del cual es su capital. En el censo de 2010 tenía una población de 67 947 hab. y una densidad de 569,77 hab/km². Está situada en el centro norte del estado, a unos 102 km al noreste de Albuquerque, la ciudad más grande del estado, y a poca distancia al este del río Bravo y al oeste del río Pecos."
     }
   },
   "santa-marta": {
@@ -7973,6 +8029,20 @@
       "title": "Sremski Karlovci",
       "url": "https://es.wikipedia.org/wiki/Sremski_Karlovci",
       "extract": "Sremski Karlovci es una villa y municipio de Serbia, en el distrito de Bačka del Sur, en la provincia autónoma de Voivodina."
+    }
+  },
+  "st-augustine-florida": {
+    "title": "St. Augustine, Florida",
+    "url": "https://en.wikipedia.org/wiki/St._Augustine%2C_Florida",
+    "extract": "St. Augustine or Saint Augustine is a city in and the county seat of St. Johns County, Florida, United States. Located 40 miles (64 km) south of downtown Jacksonville, the city is on the Atlantic coast of northeastern Florida. Founded in 1565 by Spanish settlers, it is the oldest continuously inhabited European-established settlement in what is now the contiguous United States.",
+    "description": "City in Florida, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Aerial_view_of_the_Castillo_de_San_Marcos%2C_St._Augustine%2C_FL_2025-05-20.jpg/330px-Aerial_view_of_the_Castillo_de_San_Marcos%2C_St._Augustine%2C_FL_2025-05-20.jpg",
+    "lat": 29.88916667,
+    "lon": -81.30416667,
+    "es": {
+      "title": "San Agustín (Florida)",
+      "url": "https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Florida)",
+      "extract": "San Agustín es una ciudad del condado de San Juan de Florida, Estados Unidos, en la región conocida como «la Primera Costa de Florida». En el censo del año 2020, la ciudad tenía una población de 14 329 habitantes. Fue fundada en septiembre de 1565 por el explorador y almirante español Pedro Menéndez de Avilés y es la ciudad de origen español y europeo más antigua del territorio continental de Estados Unidos habitada de forma permanente."
     }
   },
   "st-marys-city-maryland": {

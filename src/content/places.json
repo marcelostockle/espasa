@@ -3887,6 +3887,15 @@
       }
     }
   },
+  "ohkay-owingeh": {
+    "label": "Ohkay Owingeh, New Mexico",
+    "wikipedia": "Ohkay Owingeh, New Mexico",
+    "translations": {
+      "es": {
+        "label": "Ohkay Owingeh (Nuevo México)"
+      }
+    }
+  },
   "okinawa-island": {
     "label": "Okinawa Island",
     "wikipedia": "Okinawa Island",
@@ -4814,6 +4823,15 @@
       }
     }
   },
+  "salem-massachusetts": {
+    "label": "Salem, Massachusetts",
+    "wikipedia": "Salem, Massachusetts",
+    "translations": {
+      "es": {
+        "label": "Salem (Massachusetts)"
+      }
+    }
+  },
   "salvador": {
     "label": "Salvador",
     "wikipedia": "Salvador, Bahia",
@@ -4859,6 +4877,15 @@
       }
     }
   },
+  "san-diego": {
+    "label": "San Diego",
+    "wikipedia": "San Diego",
+    "translations": {
+      "es": {
+        "label": "San Diego"
+      }
+    }
+  },
   "san-francisco": {
     "label": "San Francisco",
     "wikipedia": "San Francisco",
@@ -4883,6 +4910,15 @@
     "translations": {
       "es": {
         "label": "Santa Clara"
+      }
+    }
+  },
+  "santa-fe-new-mexico": {
+    "label": "Santa Fe, New Mexico",
+    "wikipedia": "Santa Fe, New Mexico",
+    "translations": {
+      "es": {
+        "label": "Santa Fe (Nuevo México)"
       }
     }
   },
@@ -5234,6 +5270,15 @@
     "translations": {
       "es": {
         "label": "Sremski Karlovci"
+      }
+    }
+  },
+  "st-augustine-florida": {
+    "label": "St. Augustine, Florida",
+    "wikipedia": "St. Augustine, Florida",
+    "translations": {
+      "es": {
+        "label": "San Agustín (Florida)"
       }
     }
   },
