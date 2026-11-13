@@ -1412,6 +1412,15 @@
       }
     }
   },
+  "cucuta": {
+    "label": "Cúcuta",
+    "wikipedia": "Cúcuta",
+    "translations": {
+      "es": {
+        "label": "Cúcuta"
+      }
+    }
+  },
   "cuito-cuanavale": {
     "label": "Cuito Cuanavale",
     "wikipedia": "Cuito Cuanavale",
@@ -3824,6 +3833,15 @@
       }
     }
   },
+  "pasto": {
+    "label": "Pasto",
+    "wikipedia": "Pasto, Colombia",
+    "translations": {
+      "es": {
+        "label": "Pasto"
+      }
+    }
+  },
   "pataliputra": {
     "label": "Pataliputra",
     "wikipedia": "Pataliputra",
@@ -4136,6 +4154,15 @@
     "translations": {
       "es": {
         "label": "Qingdao"
+      }
+    }
+  },
+  "quito": {
+    "label": "Quito",
+    "wikipedia": "Quito",
+    "translations": {
+      "es": {
+        "label": "Quito"
       }
     }
   },

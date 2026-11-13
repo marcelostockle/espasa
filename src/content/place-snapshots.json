@@ -2153,6 +2153,20 @@
       "extract": "Ctesifonte fue la capital de los imperios parto y sasánida. Estaba localizada a orillas del río Tigris y fue prontamente abandonada después de la fundación de Bagdad. Llegó a ser una de las ciudades más importantes de la antigua región de Mesopotamia."
     }
   },
+  "cucuta": {
+    "title": "Cúcuta",
+    "url": "https://en.wikipedia.org/wiki/C%C3%BAcuta",
+    "extract": "Cúcuta, officially San José de Cúcuta, is a Colombian municipality, capital of the department of Norte de Santander and nucleus of the Metropolitan Area of Cúcuta. The city is located in the homonymous valley, beneath the Eastern Ranges of the Colombian Andes, on the border with Venezuela.",
+    "description": "Municipality of Colombia in North Santander",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Panor%C3%A1mica_de_San_Jos%C3%A9_de_C%C3%BAcuta%2C_Colombia.jpg/330px-Panor%C3%A1mica_de_San_Jos%C3%A9_de_C%C3%BAcuta%2C_Colombia.jpg",
+    "lat": 7.89416667,
+    "lon": -72.50388889,
+    "es": {
+      "title": "Cúcuta",
+      "url": "https://es.wikipedia.org/wiki/C%C3%BAcuta",
+      "extract": "Cúcuta, oficialmente San José de Cúcuta, es un municipio colombiano, capital del departamento de Norte de Santander y núcleo del área metropolitana de Cúcuta. La ciudad está situada en el valle homónimo, al pie de la Cordillera Oriental de los Andes colombianos, próxima a la frontera con Venezuela. Comprende una superficie aproximada de 1117 km², con un área urbana de 64 km² y un área rural de 1053 km². Tiene una población de 812 176 habitantes, lo que lo ubica como el municipio más poblado del departamento y el sexto municipio más poblado del país. De la misma forma, el área metropolitana de Cúcuta, conformada por los municipios de Villa del Rosario, Los Patios, El Zulia, San Cayetano y Puerto Santander, cuenta con una población que supera el millón de habitantes."
+    }
+  },
   "cuito-cuanavale": {
     "title": "Cuito Cuanavale",
     "url": "https://en.wikipedia.org/wiki/Cuito_Cuanavale",
@@ -5827,6 +5841,20 @@
       "extract": "Partia es una región histórica situada en el noreste de Irán. Fue conquistada y subyugada por el imperio de los medos durante el siglo VII a. C., fue incorporada al posterior imperio aqueménida bajo Ciro el Grande en el siglo VI a. C., y formó parte del Imperio seléucida tras las conquistas de Alejandro Magno en el siglo IV a. C.. Más tarde la región sirvió como base política y cultural de los parnos y de la dinastía arsácida, gobernantes del imperio parto (247 a. C.-224 d. C.). El imperio sasánida, el último estado del Irán preislámico, también dominó la región y mantuvo a los siete clanes partos como parte de su aristocracia feudal."
     }
   },
+  "pasto": {
+    "title": "Pasto, Colombia",
+    "url": "https://en.wikipedia.org/wiki/Pasto%2C_Colombia",
+    "extract": "Pasto, officially San Juan de Pasto, is the capital of the department of Nariño, in southern Colombia. Pasto was founded in 1537 and named after Indigenous people of the area. In the 2018 census, the municipality had a population of 392,930. Pasto is located in the Atriz Valley on the Andes cordillera, at the foot of the Galeras volcano.",
+    "description": "Municipality and city in Pacific Region/Andes Region, Colombia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/VolcanGaleras.jpg/330px-VolcanGaleras.jpg",
+    "lat": 1.20777778,
+    "lon": -77.27722222,
+    "es": {
+      "title": "Pasto (Colombia)",
+      "url": "https://es.wikipedia.org/wiki/Pasto_(Colombia)",
+      "extract": "Pasto, oficialmente San Juan de Pasto, es un municipio colombiano, capital del departamento de Nariño. Se ubica en el suroccidente de la nación, en la región Andina."
+    }
+  },
   "pataliputra": {
     "title": "Pataliputra",
     "url": "https://en.wikipedia.org/wiki/Pataliputra",
@@ -6310,6 +6338,20 @@
       "title": "Qingdao",
       "url": "https://es.wikipedia.org/wiki/Qingdao",
       "extract": "Qingdao es una ciudad portuaria de la provincia de Shandong en la República Popular China. Antiguamente era conocida como Jiao'ao. Está situada en la península de Shandong y orientada en dirección al mar Amarillo. Actualmente es un importante puerto marítimo, base naval y centro industrial. Entre 1898 y 1914 fue la capital de la concesión colonial alemana de Jiaozhou. En esta ciudad se realizaron parte de las competiciones náuticas de los Juegos Olímpicos de Pekín 2008. Su área es de 11 282 km² y su población total para 2020 superó los 10 millones de habitantes."
+    }
+  },
+  "quito": {
+    "title": "Quito",
+    "url": "https://en.wikipedia.org/wiki/Quito",
+    "extract": "Quito, officially San Francisco de Quito, is the capital of Ecuador, and the province of Pichincha. It is the largest city in Pichincha and the second-largest city in Ecuador, with an estimated population of 1.7 million in the city and 2.8 million in its metropolitan area. Quito is in a valley on the eastern slopes of Pichincha, an active stratovolcano in the Andes.",
+    "description": "Capital city of Ecuador",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg/330px-FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg",
+    "lat": -0.22,
+    "lon": -78.5125,
+    "es": {
+      "title": "Quito",
+      "url": "https://es.wikipedia.org/wiki/Quito",
+      "extract": "Quito, oficialmente San Francisco de Quito, es la capital de la República del Ecuador. Asimismo, es la capital de la provincia de Pichincha y cabecera cantonal del Distrito Metropolitano de Quito. Se ubica en el norte de la Sierra ecuatoriana, sobre la hoya del río Guayllabamba, en las laderas orientales del volcán Pichincha, a una altitud promedio de 2850 m s. n. m., lo que la convierte en la capital constitucional a mayor altitud del mundo. El perímetro urbano de la ciudad se extiende sobre un largo y angosto valle andino, que debido a su altitud disfruta de un clima fresco y templado durante todo el año. Quito destaca por su rico patrimonio cultural e histórico al albergar uno de los centros históricos mejor conservados de América Latina."
     }
   },
   "qumran": {
