@@ -152,6 +152,15 @@
       }
     }
   },
+  "andes-crossing": {
+    "label": "Los Andes",
+    "wikipedia": "Crossing of the Andes",
+    "translations": {
+      "es": {
+        "label": "Cruce de los Andes"
+      }
+    }
+  },
   "angostura": {
     "label": "Angostura (Ciudad Bolívar)",
     "wikipedia": "Ciudad Bolívar",
@@ -737,6 +746,15 @@
       }
     }
   },
+  "boulogne-sur-mer": {
+    "label": "Boulogne-sur-Mer",
+    "wikipedia": "Boulogne-sur-Mer",
+    "translations": {
+      "es": {
+        "label": "Boulogne-sur-Mer"
+      }
+    }
+  },
   "bourges": {
     "label": "Bourges",
     "wikipedia": "Bourges",
@@ -1148,6 +1166,15 @@
     "translations": {
       "es": {
         "label": "Ceuta"
+      }
+    }
+  },
+  "chacabuco": {
+    "label": "Chacabuco",
+    "wikipedia": "Battle of Chacabuco",
+    "translations": {
+      "es": {
+        "label": "Chacabuco"
       }
     }
   },
@@ -2969,6 +2996,15 @@
       }
     }
   },
+  "maipu": {
+    "label": "Maipú",
+    "wikipedia": "Battle of Maipú",
+    "translations": {
+      "es": {
+        "label": "Maipú"
+      }
+    }
+  },
   "manchester": {
     "label": "Manchester",
     "wikipedia": "Manchester",
@@ -3119,6 +3155,15 @@
     "translations": {
       "es": {
         "label": "Menfis"
+      }
+    }
+  },
+  "mendoza": {
+    "label": "Mendoza",
+    "wikipedia": "Mendoza, Argentina",
+    "translations": {
+      "es": {
+        "label": "Mendoza"
       }
     }
   },
@@ -4499,6 +4544,15 @@
       }
     }
   },
+  "san-lorenzo-santa-fe": {
+    "label": "San Lorenzo, Santa Fe",
+    "wikipedia": "San Lorenzo, Santa Fe",
+    "translations": {
+      "es": {
+        "label": "San Lorenzo (Santa Fe)"
+      }
+    }
+  },
   "santa-clara": {
     "label": "Santa Clara",
     "wikipedia": "Santa Clara, Cuba",
@@ -4514,6 +4568,15 @@
     "translations": {
       "es": {
         "label": "Santa Marta"
+      }
+    }
+  },
+  "santiago-chile": {
+    "label": "Santiago",
+    "wikipedia": "Santiago",
+    "translations": {
+      "es": {
+        "label": "Santiago de Chile"
       }
     }
   },
@@ -5309,6 +5372,15 @@
       }
     }
   },
+  "tucuman": {
+    "label": "San Miguel de Tucumán",
+    "wikipedia": "San Miguel de Tucumán",
+    "translations": {
+      "es": {
+        "label": "San Miguel de Tucumán"
+      }
+    }
+  },
   "tuileries": {
     "label": "Tuileries Palace",
     "wikipedia": "Tuileries Palace",
@@ -5414,6 +5486,15 @@
     "translations": {
       "es": {
         "label": "Valencia"
+      }
+    }
+  },
+  "valparaiso": {
+    "label": "Valparaíso",
+    "wikipedia": "Valparaíso",
+    "translations": {
+      "es": {
+        "label": "Valparaíso"
       }
     }
   },
@@ -5729,6 +5810,15 @@
     "translations": {
       "es": {
         "label": "Yan'an"
+      }
+    }
+  },
+  "yapeyu": {
+    "label": "Yapeyú",
+    "wikipedia": "Yapeyú, Corrientes",
+    "translations": {
+      "es": {
+        "label": "Yapeyú"
       }
     }
   },

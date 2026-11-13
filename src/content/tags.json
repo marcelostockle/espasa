@@ -113,6 +113,21 @@
       }
     }
   },
+  "argentina": {
+    "label": "Argentina",
+    "color": "#3fa7d6",
+    "description": "Argentina and its precursor, the United Provinces of the Río de la Plata: independence, governments, wars and national history.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Argentina",
+        "description": "Argentina y su antecesora, las Provincias Unidas del Río de la Plata: independencia, gobiernos, guerras y historia nacional."
+      }
+    }
+  },
   "aristotle": {
     "label": "Aristotle",
     "color": "#1e8c5a",

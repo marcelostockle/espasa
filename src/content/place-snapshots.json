@@ -237,6 +237,18 @@
       "extract": "Anagni es un municipio de 21 200 habitantes de la provincia de Frosinone, en el Valle Latino. Situada en el Lacio meridional, dista unos 50 kilómetros de Roma. Esta antigua ciudad está situada en las colinas del este de Roma, famosa por su relación con cuatro papas de las familias Conti y Caetani y su bien conservado centro histórico."
     }
   },
+  "andes-crossing": {
+    "title": "Crossing of the Andes",
+    "url": "https://en.wikipedia.org/wiki/Crossing_of_the_Andes",
+    "extract": "The Crossing of the Andes was one of the most important feats in the Argentine and Chilean wars of independence. A combined army of Argentine soldiers and Chilean exiles crossed the Andes mountains to invade Chile, leading to its liberation from Spanish rule.",
+    "description": "Feat in the South American wars of independence",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/El_cruce_de_los_Andes_por_el_Gral._San_Mart%C3%ADn.JPG/330px-El_cruce_de_los_Andes_por_el_Gral._San_Mart%C3%ADn.JPG",
+    "es": {
+      "title": "Cruce de los Andes",
+      "url": "https://es.wikipedia.org/wiki/Cruce_de_los_Andes",
+      "extract": "El Cruce de los Andes fue un conjunto de maniobras realizadas por el Ejército de los Andes de las Provincias Unidas del Río de la Plata —actual Argentina— y tropas chilenas exiliadas en la ciudad de Mendoza, entre enero y febrero de 1817, para atravesar con una fuerza de 4 000 soldados regulares y 1 200 milicianos la cordillera de los Andes desde la región argentina de Cuyo hasta Chile, y enfrentar a las tropas realistas del Imperio español que allí se encontraban. Formó parte del plan que el general argentino José de San Martín desarrolló para llevar a cabo la Expedición Libertadora de Argentina, Chile y Perú. Fue apoyado por la Guerra de zapa, dirigida por el chileno Manuel Rodríguez."
+    }
+  },
   "angostura": {
     "title": "Ciudad Bolívar",
     "url": "https://en.wikipedia.org/wiki/Ciudad_Bol%C3%ADvar",
@@ -1119,6 +1131,20 @@
       "extract": "Bonn es una ciudad alemana del estado federado de Renania del Norte-Westfalia. Fue la capital de la República Federal de Alemania hasta la reunificación del país en 1990, y sede del gobierno hasta 1999. Forma parte de la macrorregión metropolitana del Rin-Ruhr."
     }
   },
+  "boulogne-sur-mer": {
+    "title": "Boulogne-sur-Mer",
+    "url": "https://en.wikipedia.org/wiki/Boulogne-sur-Mer",
+    "extract": "Boulogne-sur-Mer, often called just Boulogne, is a port city in Northern France. It is a sub-prefecture of the department of Pas-de-Calais. Boulogne lies on the Côte d'Opale, a touristic stretch of French coast on the English Channel between Calais and Normandy, and the most visited location in the region after the Lille conurbation. Boulogne is its department's third-largest city after Calais and Arras. It is also the country's largest fishing port, specialising in herring.",
+    "description": "Subprefecture and commune in Hauts-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Boulogne_vue_generale_phare_beffroi_mer.jpg/330px-Boulogne_vue_generale_phare_beffroi_mer.jpg",
+    "lat": 50.7264,
+    "lon": 1.6147,
+    "es": {
+      "title": "Boulogne-sur-Mer",
+      "url": "https://es.wikipedia.org/wiki/Boulogne-sur-Mer",
+      "extract": "Boulogne-sur-Mer es una localidad del norte de Francia, en el departamento del Paso de Calais, del cual es una subprefectura y la segunda ciudad más poblada después de Calais. Se encuentra junto al canal de la Mancha. Aquí murió el libertador Don José de San Martín."
+    }
+  },
   "bourges": {
     "title": "Bourges",
     "url": "https://en.wikipedia.org/wiki/Bourges",
@@ -1745,6 +1771,20 @@
       "title": "Ceuta",
       "url": "https://es.wikipedia.org/wiki/Ceuta",
       "extract": "Ceuta es una ciudad autónoma española situada en la península tingitana, en la orilla africana del estrecho de Gibraltar, en su lado oriental. Está bañada por las aguas del mar Mediterráneo, mientras que al oeste y suroeste limita con Marruecos. Su población es de 83 595 habitantes. Con una extensión superficial de 19,87 km², tiene una densidad de 4518,65 hab/km², en la que conviven ciudadanos de diferentes culturas y religiones: principalmente la cristiana y la musulmana, en menor medida la judía y la hindú. Las zonas urbanizadas se sitúan en el istmo y en parte del campo exterior. El centro urbano y los barrios más antiguos se localizan cerca del puerto y por la ladera del monte Hacho, en una pequeña península conocida como Almina."
+    }
+  },
+  "chacabuco": {
+    "title": "Battle of Chacabuco",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Chacabuco",
+    "extract": "The Battle of Chacabuco, fought during the Chilean War of Independence, took place on February 12, 1817. The Army of the Andes, from the United Provinces of the Río de la Plata and led by Captain–General José de San Martín, defeated a Spanish force commanded by Rafael Maroto. This victory was a significant defeat for the Captaincy General of Chile, the royalist government established after the division of the Viceroyalty of Peru.",
+    "description": "1817 battle of the Chilean and Argentine wars of independence",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Battle_of_Chacabuco.jpg/330px-Battle_of_Chacabuco.jpg",
+    "lat": -32.99305556,
+    "lon": -70.68388889,
+    "es": {
+      "title": "Batalla de Chacabuco",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Chacabuco",
+      "extract": "La batalla de Chacabuco fue una decisiva contienda de la Independencia de Chile en la cual combatieron el Ejército de los Andes, formado por tropas de las Provincias Unidas del Río de la Plata y chilenas exiliadas en Mendoza, y el Ejército Realista, resultando en una firme victoria para el bando independentista comandado por el general José de San Martín. La batalla tuvo lugar el 12 de febrero de 1817, en la Hacienda de Chacabuco (Colina), a 55 km al norte de la ciudad de Santiago"
     }
   },
   "chaeronea": {
@@ -4522,6 +4562,20 @@
       "extract": "Mahabad es un pequeño pueblo situada al oeste en la provincia de Azerbaiyán Occidental de Irán. Con una población de 12.434 habitantes, fue capital de la República Independiente de Mahabad en 1946. La mayoría de su población es de origen kurdo. En el año 2004 se produjeron graves disturbios en la ciudad como protesta por la muerte de Shivan Qaderi. En respuesta, el gobierno iraní envió cerca de 12.000 soldados a la región."
     }
   },
+  "maipu": {
+    "title": "Battle of Maipú",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Maip%C3%BA",
+    "extract": "The Battle of Maipú was fought near Santiago, Chile on 5 April 1818, between South American rebels and Spanish royalists, during the Chilean War of Independence. The Patriot rebels led by Argentine general José de San Martín effectively destroyed the Spanish forces commanded by General Mariano Osorio, and completed the independence of the core area of Chile from Spanish domination.",
+    "description": "1818 battle of the Chilean War of Independence",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/BatallaDeMaipu.jpg/330px-BatallaDeMaipu.jpg",
+    "lat": -33.50111111,
+    "lon": -70.77194444,
+    "es": {
+      "title": "Batalla de Maipú",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Maip%C3%BA",
+      "extract": "La batalla de Maipú, también conocida como batalla de Maipo, fue un enfrentamiento armado decisivo dentro del contexto de la guerra de la Independencia de Chile. Tuvo lugar el 5 de abril de 1818 en el sector conocido como Cerrillos del Maipo, al poniente de la ciudad de Santiago, donde se enfrentaron las fuerzas patriotas del Ejército Unido Libertador de Chile –formado por las tropas rioplatenses y chilenas– al mando del general José de San Martín, contra el ejército realista al mando del general Mariano Osorio, compuesto por expedicionarios del Virreinato del Perú y de España, así como por tropas de la Capitanía General de Chile."
+    }
+  },
   "manchester": {
     "title": "Manchester",
     "url": "https://en.wikipedia.org/wiki/Manchester",
@@ -4758,6 +4812,20 @@
       "title": "Menfis",
       "url": "https://es.wikipedia.org/wiki/Menfis",
       "extract": "Menfis, también conocida como Men-nefer, fue la antigua capital de Inebu-hedy, el primer nomo del Bajo Egipto conocido como mḥw (\"norte\"). Sus ruinas se encuentran en las inmediaciones de la actual aldea de Mit Rahina, en el condado de Badrashin, Gobernación de Guiza, Egipto."
+    }
+  },
+  "mendoza": {
+    "title": "Mendoza, Argentina",
+    "url": "https://en.wikipedia.org/wiki/Mendoza%2C_Argentina",
+    "extract": "Mendoza, officially the City of Mendoza, is the capital of the province of Mendoza in Argentina. It is located in the northern-central part of the province, in a region of foothills and high plains, on the eastern side of the Andes. As of the 2010 census [INDEC], Mendoza had a population of 115,041 with a metropolitan population of 1,055,679, making Greater Mendoza the fourth largest census metropolitan area in the country.",
+    "description": "City in Argentina",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_view_of_Mendoza.png/330px-Aerial_view_of_Mendoza.png",
+    "lat": -32.88972222,
+    "lon": -68.84444444,
+    "es": {
+      "title": "Mendoza (Argentina)",
+      "url": "https://es.wikipedia.org/wiki/Mendoza_(Argentina)",
+      "extract": "Mendoza es una ciudad del oeste de Argentina y capital de la provincia homónima. Se localiza en la llanura al este de la cordillera de los Andes. Es una de las principales ciudades del país y, con su aglomerado urbano, denominado Gran Mendoza, alcanza una población total que supera el millón de habitantes. Su superficie es de 57 km², aunque su área metropolitana se extiende 168 km²."
     }
   },
   "merthyr-tydfil": {
@@ -6865,6 +6933,20 @@
       "extract": "San Francisco, de forma oficial Ciudad y Condado de San Francisco, es una ciudad que ocupa la cuarta posición de ciudad más poblada del estado de California y la 17.ª de Estados Unidos, con una población estimada de 827 526 habitantes a mediados de 2024. Es la única ciudad-condado consolidada de California, y al abarcar una superficie territorial de 121 km², cuenta con la tercera densidad de población más alta del país entre las ciudades que superan los doscientos mil habitantes, tras Nueva York y Ciudad de Jersey. Es el centro cultural, financiero y de transportes del Área de la Bahía de San Francisco."
     }
   },
+  "san-lorenzo-santa-fe": {
+    "title": "San Lorenzo, Santa Fe",
+    "url": "https://en.wikipedia.org/wiki/San_Lorenzo%2C_Santa_Fe",
+    "extract": "San Lorenzo is a city in the south of the Province of Santa Fe, Argentina, located 23 km north of Rosario, on the western shore of the Paraná River, and forming one end of the Greater Rosario metropolitan area. It is the head town of the San Lorenzo Department, and it has about 46,000 inhabitants according to the 2010 census [INDEC].",
+    "description": "City and Port in Santa Fe, Argentina",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Avenida_del_Combate%2C_San_Lorenzo.jpg/330px-Avenida_del_Combate%2C_San_Lorenzo.jpg",
+    "lat": -32.75,
+    "lon": -60.73333333,
+    "es": {
+      "title": "San Lorenzo (Santa Fe)",
+      "url": "https://es.wikipedia.org/wiki/San_Lorenzo_(Santa_Fe)",
+      "extract": "San Lorenzo es una ciudad ubicada en la zona sur de la provincia de Santa Fe, Argentina, a 23 km al norte de la ciudad de Rosario; en la orilla occidental del río Paraná y a 147 km de la capital provincial. Es la ciudad cabecera del departamento San Lorenzo, y tiene 50 954 habitantes."
+    }
+  },
   "santa-clara": {
     "title": "Santa Clara, Cuba",
     "url": "https://en.wikipedia.org/wiki/Santa_Clara%2C_Cuba",
@@ -6891,6 +6973,20 @@
       "title": "Santa Marta (Colombia)",
       "url": "https://es.wikipedia.org/wiki/Santa_Marta_(Colombia)",
       "extract": "Santa Marta, oficialmente Distrito Turístico, Cultural e Histórico de Santa Marta, es un distrito de Colombia, capital del departamento del Magdalena en la Región Caribe. Fue fundada el 29 de julio de 1525 por el español Rodrigo de Bastidas, lo que la convierte en la ciudad en pie más antigua de Colombia y la segunda más antigua de América del Sur. Esta ciudad, emplazada en la bahía de su mismo nombre, es uno de los principales destinos turísticos del país por sus numerosas playas, reservas naturales, su patrimonio cultural e histórico y por ser uno de los accesos a la montaña más alta del mundo en zona costera, la Sierra Nevada de Santa Marta y a sus antiguas comunidades indígenas. Desde 1991 fue organizada constitucionalmente como Distrito Turístico, Cultural e Histórico."
+    }
+  },
+  "santiago-chile": {
+    "title": "Santiago",
+    "url": "https://en.wikipedia.org/wiki/Santiago",
+    "extract": "Santiago, also known as Santiago de Chile, is the capital and largest city of Chile and one of the largest cities in the Americas. Located in the Chilean Central Valley within the Santiago Basin, between the Andes to the east and the Chilean Coastal Range to the west, it anchors the Santiago Metropolitan Region and its conurbation of Greater Santiago, which comprises more than forty communes and concentrates over a third of the national population and around 45% of Chile's GDP. Most of the city lies between 500 and 650 meters above sea level, with recent urban growth extending into the Andean foothills.",
+    "description": "Capital and largest city of Chile",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Palacio_de_La_Moneda_-_miguelreflex.jpg/330px-Palacio_de_La_Moneda_-_miguelreflex.jpg",
+    "lat": -33.4375,
+    "lon": -70.65,
+    "es": {
+      "title": "Santiago de Chile",
+      "url": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "extract": "Santiago, también conocido como Santiago de Chile, es la capital y ciudad más poblada del país. Ubicada en la región Metropolitana de Santiago y situada a orillas del río Mapocho, Santiago fue fundada por el español extremeño Pedro Gutiérrez de Valdivia, bajo el nombre de Santiago de la Nueva Extremadura, en honor al apóstol Santiago, convirtiéndose así en la capital de la Gobernación de la Nueva Extremadura, en el siglo XVI. Es el centro económico y administrativo del país, además de ser la aglomeración urbana más grande."
     }
   },
   "santiago-de-cuba": {
@@ -8100,6 +8196,20 @@
       "extract": "El estrecho del Este, o estrecho de Tsushima , también conocido como estrecho de Tsu Shima o estrecho de Tsu-Shima, es el canal oriental del estrecho de Corea, que se encuentra entre el extremo meridional de la península de Corea y las islas japonesas de Honshū y Kyūshū, conectando el mar del Japón con el mar de China Oriental."
     }
   },
+  "tucuman": {
+    "title": "San Miguel de Tucumán",
+    "url": "https://en.wikipedia.org/wiki/San_Miguel_de_Tucum%C3%A1n",
+    "extract": "San Miguel de Tucumán, usually called simply Tucumán, is the capital and largest city of Tucumán Province, located in northern Argentina 1,311 kilometres (815 mi) from Buenos Aires. It is the fifth-largest city of Argentina after Buenos Aires, Córdoba, Rosario and Mendoza and the most important city of the northern region. The Spanish conquistador Diego de Villarroel founded the city in 1565 in the course of an expedition from present-day Peru. Tucumán moved to its present site in 1685.",
+    "description": "City in Argentina",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Tucuman_San_Miguel_ciudad_capital_vista_de_noche_contexto_srl_revista_gonzaloluciani.jpg/330px-Tucuman_San_Miguel_ciudad_capital_vista_de_noche_contexto_srl_revista_gonzaloluciani.jpg",
+    "lat": -26.81666667,
+    "lon": -65.21666667,
+    "es": {
+      "title": "San Miguel de Tucumán",
+      "url": "https://es.wikipedia.org/wiki/San_Miguel_de_Tucum%C3%A1n",
+      "extract": "San Miguel de Tucumán, a veces llamada simplemente Tucumán, es la capital de la provincia de Tucumán, situada en el noroeste de la República Argentina, a 1311 km de la ciudad de Buenos Aires. Está ubicada muy cerca de la orilla derecha del río Salí, también llamado río Dulce. El Jardín de la República y Cuna de la Independencia Argentina, son sus apodos más conocidos."
+    }
+  },
   "tuileries": {
     "title": "Tuileries Palace",
     "url": "https://en.wikipedia.org/wiki/Tuileries_Palace",
@@ -8263,6 +8373,20 @@
       "title": "Valencia",
       "url": "https://es.wikipedia.org/wiki/Valencia",
       "extract": "Valencia es un municipio y una ciudad de España, capital de la provincia homónima y de la Comunidad Valenciana. Su población es de 840 792 habitantes, alcanzando los 1 615 223 habitantes si se incluye su espacio urbano, mientras que la región metropolitana tiene 2,5 millones. Es la tercera ciudad y área metropolitana más poblada de España, por detrás de Madrid y Barcelona."
+    }
+  },
+  "valparaiso": {
+    "title": "Valparaíso",
+    "url": "https://en.wikipedia.org/wiki/Valpara%C3%ADso",
+    "extract": "Valparaíso is a major city, commune, seaport, and naval base facility in the Valparaíso Region of Chile. Valparaíso was originally named after Valparaíso de Arriba, in Castile-La Mancha, Spain. With a population of 284,938, it is the 10th-largest commune in Chile.",
+    "description": "Second largest city in Chile",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg/330px-Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg",
+    "lat": -33.04611111,
+    "lon": -71.61972222,
+    "es": {
+      "title": "Valparaíso",
+      "url": "https://es.wikipedia.org/wiki/Valpara%C3%ADso",
+      "extract": "Valparaíso es una comuna y ciudad capital de la provincia y Región de Valparaíso. Se sitúa en la zona central de Chile y es el centro histórico, institucional y universitario del Gran Valparaíso, que forma junto a los municipios de Viña del Mar, Quilpué, Villa Alemana y Concón. Como capital de la región, alberga a la Delegación Presidencial y al Gobierno Regional de Valparaíso, además de ser sede del Congreso Nacional, un importante terminal portuario y una de las tres urbes chilenas más pobladas."
     }
   },
   "varennes": {
@@ -8738,6 +8862,20 @@
       "title": "Yan'an",
       "url": "https://es.wikipedia.org/wiki/Yan'an",
       "extract": "Yan'an es una ciudad-prefectura en la provincia de Shaanxi, República Popular de China. Su área es de 37 030 km² y su población total para 2010 superó los 2,18 millones de habitantes."
+    }
+  },
+  "yapeyu": {
+    "title": "Yapeyú, Corrientes",
+    "url": "https://en.wikipedia.org/wiki/Yapey%C3%BA%2C_Corrientes",
+    "extract": "Yapeyú is a town in the province of Corrientes, Argentina, in the San Martín Department. It has about 2,000 inhabitants as per the 2001 census [INDEC], and it is known throughout the country because it was the birthplace of General José de San Martín (1778–1850), hero of the War of Independence. One of its notable monuments is the Arco Trunco.",
+    "description": "Town in Corrientes, Argentina",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Arco-Trunco-Yapeyu-Corrientes.jpg/330px-Arco-Trunco-Yapeyu-Corrientes.jpg",
+    "lat": -29.46666667,
+    "lon": -56.83333333,
+    "es": {
+      "title": "Yapeyú",
+      "url": "https://es.wikipedia.org/wiki/Yapey%C3%BA",
+      "extract": "Yapeyú es una localidad argentina de la provincia de Corrientes, en el departamento San Martín. Fue fundada en 1860 con el nombre de San Martín sobre las ruinas de la antigua reducción de Yapeyú, fundada en 1627 y destruida por fuerzas brasileñas en 1817 durante la Invasión luso-brasileña. En 1899 pasó a denominarse Yapeyú."
     }
   },
   "yavneh": {
