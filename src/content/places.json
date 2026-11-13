@@ -1223,6 +1223,15 @@
       }
     }
   },
+  "chillan": {
+    "label": "Chillán",
+    "wikipedia": "Chillán",
+    "translations": {
+      "es": {
+        "label": "Chillán"
+      }
+    }
+  },
   "cholula": {
     "label": "Cholula",
     "wikipedia": "Cholula, Puebla",
@@ -4244,6 +4253,15 @@
     "translations": {
       "es": {
         "label": "Rainhill"
+      }
+    }
+  },
+  "rancagua": {
+    "label": "Rancagua",
+    "wikipedia": "Rancagua",
+    "translations": {
+      "es": {
+        "label": "Rancagua"
       }
     }
   },

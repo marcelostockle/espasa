@@ -1857,6 +1857,20 @@
       "extract": "Chicago es la ciudad más poblada del estado de Illinois, Estados Unidos, y la tercera del país, después de Nueva York y Los Ángeles.Ubicada a lo largo de la costa suroeste del lago Míchigan, es la sede del condado de Cook y el núcleo principal del área metropolitana de Chicago, una conurbación integrada por los condados periféricos y que cuenta con una población de 9.5 millones de habitantes."
     }
   },
+  "chillan": {
+    "title": "Chillán",
+    "url": "https://en.wikipedia.org/wiki/Chill%C3%A1n",
+    "extract": "Chillán is the capital city of Ñuble Region, Diguillín Province, Chile, located about 400 km (249 mi) south of the country's capital, Santiago, near the center of the country. It has been the capital of the new Ñuble Region since 6 September 2015. Within the city is a railway station, an intercity bus terminal named María Teresa, and a regimental military base. The city features a modern, enclosed shopping centre in addition to the Chillán Market, an iconic multi-block, open-air farmers' market and street fair where fruits, vegetables, crafts, clothing and other goods are sold. The nearby mountains, such as in Laguna del Laja National Park and the Nevados de Chillán are popular destinations for skiing, hiking and their hot springs.",
+    "description": "Capital city of the Ñuble Region, Chile",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Collage_Chillan.jpg/330px-Collage_Chillan.jpg",
+    "lat": -36.6,
+    "lon": -72.11666667,
+    "es": {
+      "title": "Chillán",
+      "url": "https://es.wikipedia.org/wiki/Chill%C3%A1n",
+      "extract": "Chillán es una ciudad y comuna de la zona central de Chile, es capital de la Región de Ñuble. Su área urbana, en conjunto con la comuna de Chillán Viejo, conforman la Conurbación Chillán."
+    }
+  },
   "cholula": {
     "title": "Cholula, Puebla",
     "url": "https://en.wikipedia.org/wiki/Cholula%2C_Puebla",
@@ -6475,6 +6489,20 @@
       "title": "Rainhill",
       "url": "https://es.wikipedia.org/wiki/Rainhill",
       "extract": "Rainhill es un pueblo grande y una parroquia civil dentro del Distrito metropolitano de St Helens, en Merseyside, Inglaterra. La población de la parroquia civil registrada en el censo de 2011 era de 10.853 habitantes."
+    }
+  },
+  "rancagua": {
+    "title": "Rancagua",
+    "url": "https://en.wikipedia.org/wiki/Rancagua",
+    "extract": "Rancagua is a city and commune in central Chile and part of the Rancagua conurbation. It is the capital of the Cachapoal Province and of the O'Higgins Region, located 87 km (54 mi) south of the national capital of Santiago.",
+    "description": "City and commune in O'Higgins Region, Chile",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Bandera_de_Rancagua.png/330px-Bandera_de_Rancagua.png",
+    "lat": -34.16666667,
+    "lon": -70.75,
+    "es": {
+      "title": "Rancagua",
+      "url": "https://es.wikipedia.org/wiki/Rancagua",
+      "extract": "Rancagua es una ciudad y comuna de la zona central de Chile, capital de la provincia de Cachapoal y de la región del Libertador General Bernardo O'Higgins. Debido a la gran expansión de la ciudad durante los últimos años, actualmente conforma el Área Metropolitana de O'Higgins (AMO'H) con las comunas de Machalí, Graneros y Olivar, siendo la octava aglomeración urbana más poblada del país."
     }
   },
   "rance-tidal-power-station": {

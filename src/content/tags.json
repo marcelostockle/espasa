@@ -270,6 +270,20 @@
       }
     }
   },
+  "bernardo-ohiggins": {
+    "label": "Bernardo O'Higgins",
+    "color": "#5d9cec",
+    "description": "Bernardo O'Higgins (1778-1842), Chilean patriot general who fought in the independence wars and ruled Chile as Supreme Director from 1817 to 1823.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Bernardo O'Higgins",
+        "description": "Bernardo O'Higgins (1778-1842), general patriota chileno que combatió en las guerras de independencia y gobernó Chile como Director Supremo entre 1817 y 1823."
+      }
+    }
+  },
   "bible": {
     "label": "The Bible",
     "color": "#a68a64",
