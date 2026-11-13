@@ -1055,6 +1055,21 @@
       }
     }
   },
+  "gran-colombia": {
+    "label": "Gran Colombia",
+    "color": "#7cb342",
+    "description": "The republic (1819-1831) that united present-day Colombia, Venezuela, Ecuador and Panama under Bolívar's leadership, and its breakup.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Gran Colombia",
+        "description": "La república (1819-1831) que unió a las actuales Colombia, Venezuela, Ecuador y Panamá bajo el liderazgo de Bolívar, y su disolución."
+      }
+    }
+  },
   "great-leap-forward": {
     "label": "Great Leap Forward",
     "color": "#d98e04",

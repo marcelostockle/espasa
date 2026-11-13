@@ -237,6 +237,20 @@
       "extract": "Anagni es un municipio de 21 200 habitantes de la provincia de Frosinone, en el Valle Latino. Situada en el Lacio meridional, dista unos 50 kilómetros de Roma. Esta antigua ciudad está situada en las colinas del este de Roma, famosa por su relación con cuatro papas de las familias Conti y Caetani y su bien conservado centro histórico."
     }
   },
+  "angostura": {
+    "title": "Ciudad Bolívar",
+    "url": "https://en.wikipedia.org/wiki/Ciudad_Bol%C3%ADvar",
+    "extract": "Ciudad Bolívar, formerly known as Angostura and St. Thomas de Guyana, is the capital of Venezuela's southeastern Bolívar State. It lies at the spot where the Orinoco River narrows to about 1 mile (1.6 km) in width, is the site of the first bridge across the river, and is a major riverport for the eastern regions of Venezuela.",
+    "description": "City in Bolívar, Venezuela",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ciudad_Bol%C3%ADvar_historical_zone.jpg/330px-Ciudad_Bol%C3%ADvar_historical_zone.jpg",
+    "lat": 8.13793,
+    "lon": -63.548266,
+    "es": {
+      "title": "Ciudad Bolívar",
+      "url": "https://es.wikipedia.org/wiki/Ciudad_Bol%C3%ADvar",
+      "extract": "Ciudad Bolívar es una ciudad venezolana, al sureste de Venezuela. Originalmente bautizada con el nombre de Santo Tomás de la Nueva Guayana en la Angostura del Orinoco el 22 de mayo de 1764, y sería renombrada en junio de 1846 como Ciudad Bolívar. Tiene una población de 395 585 habitantes. Su temperatura se mantiene entre 23 °C y 37 °C todo el año."
+    }
+  },
   "antikythera": {
     "title": "Antikythera",
     "url": "https://en.wikipedia.org/wiki/Antikythera",
@@ -1133,6 +1147,20 @@
       "extract": " Bouvines  es una población y comuna francesa, en la región de Alta Francia, departamento de Norte, en el distrito de Lille y cantón de Cysoing."
     }
   },
+  "boyaca": {
+    "title": "Battle of Boyacá",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Boyac%C3%A1",
+    "extract": "The Battle of Boyacá (1819), also known as the Battle of Boyacá Bridge, was a decisive victory by a combined army of Venezuelan and New Granadan troops along with a British Legion led by General Simon Bolivar over the III Division of the Spanish Expeditionary Army of Costa Firme commanded by Spanish Colonel José María Barreiro. This victory ensured the success of Bolívar's campaign to liberate New Granada. The battle of Boyacá is considered a crucial point in the independence of the north of South America, as it allowed further patriot victories at the battles of Carabobo in Venezuela, Pichincha in Ecuador, and Junín and Ayacucho in Peru. New Granada acquired its definitive independence from the Spanish Monarchy, although fighting with royalist forces would continue for years.",
+    "description": "Part of Bolivar's campaign to liberate New Granada",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Batalla_de_Boyaca_de_Martin_Tovar_y_Tovar.jpg/330px-Batalla_de_Boyaca_de_Martin_Tovar_y_Tovar.jpg",
+    "lat": 5.45,
+    "lon": -73.42916667,
+    "es": {
+      "title": "Batalla de Boyacá",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Boyac%C3%A1",
+      "extract": "La batalla de Boyacá o batalla del puente de Boyacá fue la confrontación más importante de la guerra de independencia de Colombia que garantizó el éxito de la Campaña Libertadora de Nueva Granada. Este acontecimiento tuvo lugar el día 7 de agosto de 1819 en el cruce del río Teatinos, en inmediaciones de Tunja. La batalla finaliza con la rendición en masa de la división realista, y fue la culminación de 78 días de campaña iniciada desde Venezuela para liberar la Nueva Granada."
+    }
+  },
   "brandenburg-gate": {
     "title": "Brandenburg Gate",
     "url": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
@@ -1553,6 +1581,34 @@
       "extract": "Capua es una ciudad de la provincia de Caserta, Italia. En los tiempos antiguos, era la capital regional de la Campania, a 26 km de la actual Nápoles, a orillas del río Volturno. En 2018 contaba con 18 293 habitantes."
     }
   },
+  "carabobo": {
+    "title": "Battle of Carabobo",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Carabobo",
+    "extract": "The Second Battle of Carabobo, on 24 June 1821, was fought between independence fighters, led by Venezuelan General Simón Bolívar, and the Royalist forces, led by Spanish Field Marshal Miguel de la Torre. Bolívar's decisive victory at Carabobo led to the independence of Venezuela and establishment of the Republic of Gran Colombia.",
+    "description": "1821 battle of the Venezuelan War of Independence",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/BatallaCarabobo01.JPG/330px-BatallaCarabobo01.JPG",
+    "lat": 10.0045,
+    "lon": -68.1657,
+    "es": {
+      "title": "Batalla de Carabobo (1821)",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Carabobo_(1821)",
+      "extract": "La batalla de Carabobo o del Cerro de La Mona fue una de las principales acciones militares de la guerra de Independencia de Venezuela en el marco de las guerras de independencia hispanoamericanas que se llevó a cabo en el Campo de Carabobo el 24 de junio de 1821, por parte del ejército patriota, favorable a la libertad de Venezuela, contra el ejército realista, leal a la Corona."
+    }
+  },
+  "caracas": {
+    "title": "Caracas",
+    "url": "https://en.wikipedia.org/wiki/Caracas",
+    "extract": "Caracas, officially Santiago de León de Caracas (CCS), is the capital and largest city of Venezuela, and the center of the Metropolitan Region of Caracas. It is located along the Guaire River in the northern part of Venezuela, within the Caracas Valley of the Venezuelan coastal mountain range. The valley is close to the Caribbean Sea, separated from the shore by a steep 2,200-meter-high (7,200-foot) mountain range, Cerro El Ávila. To the south there are more hills and mountains that form the valley. The Metropolitan Region of Caracas has an estimated population of over 5 million inhabitants.",
+    "description": "Capital and largest city of Venezuela",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Caracas_desde_el_%C3%A1vila.jpg/330px-Caracas_desde_el_%C3%A1vila.jpg",
+    "lat": 10.50611111,
+    "lon": -66.91444444,
+    "es": {
+      "title": "Caracas",
+      "url": "https://es.wikipedia.org/wiki/Caracas",
+      "extract": "Caracas, es la capital y ciudad más poblada de Venezuela. Desde el siglo XIX, ha sido el epicentro del poder político de la nación venezolana. Se encuentra en la Región Capital de Venezuela a 12 km del mar Caribe, dentro de un valle montañoso en el que cursa el río Guaire. A pesar de su proximidad a la costa de La Guaira, la ciudad se ubica a 900 m s. n. m., separada del Litoral Central por la Cordillera de la Costa, la cual, en su tramo urbano, conforma el Parque Nacional Guaraira Repano La autopista Caracas-La Guaira es la principal vía de comunicación entre la ciudad y el Estado La Guaira, además de conectar con el Aeropuerto Internacional de Maiquetía Simón Bolívar y el Puerto de La Guaira, uno de los más importantes del país."
+    }
+  },
   "carchemish": {
     "title": "Carchemish",
     "url": "https://en.wikipedia.org/wiki/Carchemish",
@@ -1593,6 +1649,20 @@
       "title": "Harrán",
       "url": "https://es.wikipedia.org/wiki/Harr%C3%A1n",
       "extract": "Harrán,en arameo: ܚܪܢ Jarán, Haran o Carras es un yacimiento arqueológico localizado al sudeste de la actual Turquía, en el cruce de Damasco, Karkemish y Nínive. La situación de esta antigua ciudad ha sido estratégica a lo largo de la historia. Las inscripciones asirias desde el reinado de Tiglath-Pileser I mencionan este lugar hacia el 1100 a. C. con el nombre de Harrānu, que significaría «carretera, ruta, recorrido» en acadio. Harrán fue incendiada por los hititas."
+    }
+  },
+  "cartagena-colombia": {
+    "title": "Cartagena, Colombia",
+    "url": "https://en.wikipedia.org/wiki/Cartagena%2C_Colombia",
+    "extract": "Cartagena, known since the imperial era as Cartagena de Indias, is a city and one of the major ports on the northern coast of Colombia in the Caribbean Coast Region, along the Caribbean Sea. Cartagena's past role as a link in the route to the West Indies provides it with important historical value for world exploration and preservation of heritage from the great commercial maritime routes. As a former Spanish colony, it was a key port for the export of Bolivian silver to Spain and for the import of enslaved Africans under the asiento system. It was defensible against pirate attacks in the Caribbean. The city's strategic location between the Magdalena and Sinú rivers also gave it easy access to the interior of New Granada and made it a main port for trade between Spain and its overseas empire, establishing its importance by the early 1540s.",
+    "description": "City in coastal northern Colombia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Museo_Naval_del_Caribe.JPG/330px-Museo_Naval_del_Caribe.JPG",
+    "lat": 10.4,
+    "lon": -75.5,
+    "es": {
+      "title": "Cartagena de Indias",
+      "url": "https://es.wikipedia.org/wiki/Cartagena_de_Indias",
+      "extract": "Cartagena de Indias, oficialmente Distrito Turístico y Cultural de Cartagena de Indias o simplemente Cartagena, es la capital del departamento de Bolívar, en Colombia, desde 1991. Ubicada a orillas del mar Caribe. Fue fundada el 1 de junio de 1533 por Pedro de Heredia. Su centro histórico, llamado «Ciudad Amurallada», fue declarado Patrimonio Nacional de Colombia en 1959 y por la UNESCO como Patrimonio de la Humanidad en 1984. Con el tiempo, Cartagena ha desarrollado su zona urbana conservando el centro histórico y convirtiéndose en uno de los célebres destinos turísticos de mayor importancia de Colombia y del Caribe. Cartagena alberga las sedes de la Asamblea Departamental de Bolívar y del Tribunal Administrativo de Bolívar."
     }
   },
   "carthage": {
@@ -3761,6 +3831,20 @@
       "extract": "El Gran Jorasán, Antiguo Jorasán o Jorasán es una región histórica de Persia. Englobaba partes del actual Irán, Afganistán, Tayikistán, Turkmenistán y Uzbekistán."
     }
   },
+  "kingston-jamaica": {
+    "title": "Kingston, Jamaica",
+    "url": "https://en.wikipedia.org/wiki/Kingston%2C_Jamaica",
+    "extract": "Kingston is the capital and largest city of Jamaica, located on the southeastern coast of the island. It faces a natural harbour protected by the Palisadoes, a long sand spit which connects the town of Port Royal and Norman Manley International Airport to the rest of the island. Kingston is the largest English-speaking city south of the United States in the Western Hemisphere.",
+    "description": "Capital and chief port of Jamaica",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/PortofKingston.jpg/330px-PortofKingston.jpg",
+    "lat": 17.97138889,
+    "lon": -76.79305556,
+    "es": {
+      "title": "Kingston",
+      "url": "https://es.wikipedia.org/wiki/Kingston",
+      "extract": "Kingston es la capital de Jamaica. Está situada en el sureste de la isla y tiene una población aproximada de 960.459 habitantes (2024). Se localiza dentro de la Parroquia de Kingston, en el condado de Surrey. Tiene un puerto natural protegido por los palisadoes, nombre que recibe un largo banco de arena que une Port Royal y el Aeropuerto Internacional Norman Manley con el resto de la isla."
+    }
+  },
   "kinmen": {
     "title": "Kinmen",
     "url": "https://en.wikipedia.org/wiki/Kinmen",
@@ -5362,6 +5446,20 @@
       "extract": "Óbninsk es una ciudad en el centro de la parte europea de la Federación de Rusia. Es el primer naukogrado de Rusia. Está situada al norte de la óblast de Kaluga, a 108 km al suroeste de Moscú. No lejos de la orilla del río Protvá."
     }
   },
+  "ocana": {
+    "title": "Ocaña, Colombia",
+    "url": "https://en.wikipedia.org/wiki/Oca%C3%B1a%2C_Colombia",
+    "extract": "Ocaña is a city and municipality in Norte de Santander Department of Colombia. Ocaña is the second largest populated center of this department. It played an important role during the Independence of Colombia from the Spanish monarchy.",
+    "description": "Municipality and city in Norte de Santander, Colombia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Catedral_Santa_Ana_Oca%C3%B1a_Colombia_26-10-2015.jpg/330px-Catedral_Santa_Ana_Oca%C3%B1a_Colombia_26-10-2015.jpg",
+    "lat": 8.23333333,
+    "lon": -73.35,
+    "es": {
+      "title": "Ocaña (Colombia)",
+      "url": "https://es.wikipedia.org/wiki/Oca%C3%B1a_(Colombia)",
+      "extract": "Ocaña es un municipio colombiano ubicado en el departamento de Norte de Santander, al nororiente del país. Se encuentra dentro de la Subregión de Occidente en la región del Catatumbo, conocida coloquialmente como la Provincia de Ocaña. El municipio cuenta con una extensión de 672,27 km² y una altitud media de 1202 m s. n. m. Está ubicado al occidente del departamento, sobre la cordillera oriental y se encuentra atravesado por dos ríos: el Algodonal y el Tejo, además de varias quebradas."
+    }
+  },
   "okinawa-island": {
     "title": "Okinawa Island",
     "url": "https://en.wikipedia.org/wiki/Okinawa_Island",
@@ -5645,6 +5743,20 @@
       "title": "Palermo",
       "url": "https://es.wikipedia.org/wiki/Palermo",
       "extract": "Palermo es una ciudad italiana, capital de la región autónoma de Sicilia y de la Ciudad Metropolitana de Palermo. Tiene una población estimada, a fines de diciembre de 2024, de 625 956 habitantes."
+    }
+  },
+  "panama-city": {
+    "title": "Panama City",
+    "url": "https://en.wikipedia.org/wiki/Panama_City",
+    "extract": "Panama City, also known as Panama, is the capital and largest city of the Republic of Panama. It has a total population of 410,354 in the city proper and 1,086,990 in the Panamá District, which includes the outer corregimientos of the city. The metropolitan area has over 2,100,000 people. The city is at the Pacific entrance of the Panama Canal, in the province of Panama. The city is the political and administrative center of the country, as well as a hub for banking and commerce.",
+    "description": "Capital and largest city of the Republic of Panama",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Panama_Papers_%28148830809%29.jpeg/330px-Panama_Papers_%28148830809%29.jpeg",
+    "lat": 8.9711,
+    "lon": -79.5347,
+    "es": {
+      "title": "Ciudad de Panamá",
+      "url": "https://es.wikipedia.org/wiki/Ciudad_de_Panam%C3%A1",
+      "extract": "La Ciudad de Panamá es la capital y ciudad más poblada de la República de Panamá, de la Provincia de Panamá y cabecera del Distrito de Panamá. Está ubicada a orillas del océano Pacífico y del golfo de Panamá, sobre la margen oriental de la desembocadura del Canal de Panamá. Dada su posición geográfica, es un punto estratégico para el comercio mundial, y su zona financiera es una de las más importantes globalmente. La ciudad es considerada el \"Hub de las Américas\" por ser un centro logístico clave del comercio internacional, epicentro aeronáutico, punto de interconexión de cables submarinos continentales y por contar con uno de los desarrollos inmobiliarios, de transporte, viales y de innovación más elevados de la región, así como altos estándares en tecnologías emergentes, investigación en ciencia, salud, biodeversidad, ecología y biología marina. Es la cuarta ciudad de América en cantidad de rascacielos, y por su modernidad es conocida como la \"Dubái de las Américas\". Asimismo, alberga dos sitios arqueológicos declarados Patrimonio de la Humanidad por la Unesco. En la ciudad conviven descendientes de amerindios, españoles, estadounidenses, italianos, franceses, griegos, europeos del Este, afroantillanos, judíos, chinos y árabes, así como numerosas comunidades latinoamericanas como la colombiana y la venezolana."
     }
   },
   "panias": {
@@ -6725,6 +6837,20 @@
       "extract": "Santa Clara, capital de la provincia de Villa Clara y cabecera del municipio de igual nombre, es una ciudad localizada en las inmediaciones del centro geográfico de Cuba. Imprescindible plaza cultural y significativo enclave industrial y científico del país caribeño, se le conoce por la batalla homónima que diera el triunfo a la Revolución Cubana, así como por acoger en su suelo los restos del comandante guerrillero argentino-cubano, Ernesto Guevara y sus compañeros de lucha."
     }
   },
+  "santa-marta": {
+    "title": "Santa Marta",
+    "url": "https://en.wikipedia.org/wiki/Santa_Marta",
+    "extract": "Santa Marta, officially the Distrito Turístico, Cultural e Histórico de Santa Marta, is a port city on the coast of the Caribbean Sea in northern Colombia. It is renowned in Latin American as the place of death of Simón Bolívar.",
+    "description": "District and city in Caribbean Region, Colombia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Bah%C3%ADa_de_Santa_Marta.jpg/330px-Bah%C3%ADa_de_Santa_Marta.jpg",
+    "lat": 11.24194444,
+    "lon": -74.20527778,
+    "es": {
+      "title": "Santa Marta (Colombia)",
+      "url": "https://es.wikipedia.org/wiki/Santa_Marta_(Colombia)",
+      "extract": "Santa Marta, oficialmente Distrito Turístico, Cultural e Histórico de Santa Marta, es un distrito de Colombia, capital del departamento del Magdalena en la Región Caribe. Fue fundada el 29 de julio de 1525 por el español Rodrigo de Bastidas, lo que la convierte en la ciudad en pie más antigua de Colombia y la segunda más antigua de América del Sur. Esta ciudad, emplazada en la bahía de su mismo nombre, es uno de los principales destinos turísticos del país por sus numerosas playas, reservas naturales, su patrimonio cultural e histórico y por ser uno de los accesos a la montaña más alta del mundo en zona costera, la Sierra Nevada de Santa Marta y a sus antiguas comunidades indígenas. Desde 1991 fue organizada constitucionalmente como Distrito Turístico, Cultural e Histórico."
+    }
+  },
   "santiago-de-cuba": {
     "title": "Santiago de Cuba",
     "url": "https://en.wikipedia.org/wiki/Santiago_de_Cuba",
@@ -7322,6 +7448,20 @@
       "title": "Subiaco",
       "url": "https://es.wikipedia.org/wiki/Subiaco",
       "extract": "Subiaco es un municipio de 9.332 habitantes, a 408 m s. n. m. en el valle superior del Aniene, en la ribera oriental del río."
+    }
+  },
+  "sucre-bolivia": {
+    "title": "Sucre",
+    "url": "https://en.wikipedia.org/wiki/Sucre",
+    "extract": "Sucre, officially La Ilustre y Heroica Sucre is the de jure capital city of Bolivia, the capital of the Chuquisaca Department and the sixth most populous city in Bolivia. Located in the south-central part of the country, Sucre lies at an elevation of 2,790 m (9,150 ft), making it the second-highest capital city in the world after Quito. This relatively high altitude gives the city a subtropical highland climate with cool temperatures year-round. Over the centuries, the city has received various names, including La Plata, Charcas, and Chuquisaca. Today, the region is of predominantly Quechua background, with some Aymara communities and influences.",
+    "description": "Capital city in Chuquisaca Department, Bolivia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Sucre%2C_Capital_de_Bolivia.jpg/330px-Sucre%2C_Capital_de_Bolivia.jpg",
+    "lat": -19.0475,
+    "lon": -65.26,
+    "es": {
+      "title": "Sucre",
+      "url": "https://es.wikipedia.org/wiki/Sucre",
+      "extract": "Sucre, oficialmente La Ilustre y Heroica Sucre, es la capital oficial de Bolivia. Es además la sede del Poder Judicial del país e igualmente es capital del departamento de Chuquisaca. La ciudad ha sido designada Patrimonio de la Humanidad por la Unesco en 1991. Según datos del censo INE 2024, el municipio de Sucre cuenta con una población de 296.746 habitantes. Es la segunda ciudad capital más alta del mundo después de Quito."
     }
   },
   "suez-canal": {

@@ -152,6 +152,15 @@
       }
     }
   },
+  "angostura": {
+    "label": "Angostura (Ciudad Bolívar)",
+    "wikipedia": "Ciudad Bolívar",
+    "translations": {
+      "es": {
+        "label": "Angostura (Ciudad Bolívar)"
+      }
+    }
+  },
   "antikythera": {
     "label": "Antikythera",
     "wikipedia": "Antikythera",
@@ -746,6 +755,15 @@
       }
     }
   },
+  "boyaca": {
+    "label": "Boyacá",
+    "wikipedia": "Battle of Boyacá",
+    "translations": {
+      "es": {
+        "label": "Boyacá"
+      }
+    }
+  },
   "brandenburg-gate": {
     "label": "Brandenburg Gate",
     "wikipedia": "Brandenburg Gate",
@@ -1025,6 +1043,24 @@
       }
     }
   },
+  "carabobo": {
+    "label": "Carabobo",
+    "wikipedia": "Battle of Carabobo",
+    "translations": {
+      "es": {
+        "label": "Carabobo"
+      }
+    }
+  },
+  "caracas": {
+    "label": "Caracas",
+    "wikipedia": "Caracas",
+    "translations": {
+      "es": {
+        "label": "Caracas"
+      }
+    }
+  },
   "carchemish": {
     "label": "Carchemish",
     "wikipedia": "Carchemish",
@@ -1049,6 +1085,15 @@
     "translations": {
       "es": {
         "label": "Carras"
+      }
+    }
+  },
+  "cartagena-colombia": {
+    "label": "Cartagena",
+    "wikipedia": "Cartagena, Colombia",
+    "translations": {
+      "es": {
+        "label": "Cartagena de Indias"
       }
     }
   },
@@ -2474,6 +2519,15 @@
       }
     }
   },
+  "kingston-jamaica": {
+    "label": "Kingston, Jamaica",
+    "wikipedia": "Kingston, Jamaica",
+    "translations": {
+      "es": {
+        "label": "Kingston (Jamaica)"
+      }
+    }
+  },
   "kinmen": {
     "label": "Kinmen",
     "wikipedia": "Kinmen",
@@ -3518,6 +3572,15 @@
       }
     }
   },
+  "ocana": {
+    "label": "Ocaña",
+    "wikipedia": "Ocaña, Norte de Santander",
+    "translations": {
+      "es": {
+        "label": "Ocaña"
+      }
+    }
+  },
   "okinawa-island": {
     "label": "Okinawa Island",
     "wikipedia": "Okinawa Island",
@@ -3704,6 +3767,15 @@
     "translations": {
       "es": {
         "label": "Palermo"
+      }
+    }
+  },
+  "panama-city": {
+    "label": "Panama City",
+    "wikipedia": "Panama City",
+    "translations": {
+      "es": {
+        "label": "Ciudad de Panamá"
       }
     }
   },
@@ -4409,6 +4481,15 @@
       }
     }
   },
+  "santa-marta": {
+    "label": "Santa Marta",
+    "wikipedia": "Santa Marta",
+    "translations": {
+      "es": {
+        "label": "Santa Marta"
+      }
+    }
+  },
   "santiago-de-cuba": {
     "label": "Santiago de Cuba",
     "wikipedia": "Santiago de Cuba",
@@ -4802,6 +4883,15 @@
     "translations": {
       "es": {
         "label": "Subiaco"
+      }
+    }
+  },
+  "sucre-bolivia": {
+    "label": "Sucre (Chuquisaca)",
+    "wikipedia": "Sucre",
+    "translations": {
+      "es": {
+        "label": "Sucre (Chuquisaca)"
       }
     }
   },
