@@ -920,6 +920,20 @@
     "lat": 25,
     "lon": 72.25
   },
+  "birmingham": {
+    "title": "Birmingham",
+    "url": "https://en.wikipedia.org/wiki/Birmingham",
+    "extract": "Birmingham is a city and metropolitan borough in the centre of the West Midlands region of England. It is the largest local authority district in England by population and the second-largest city in Britain – commonly referred to as the second city of the United Kingdom – with a population of 1.2 million people in the city proper in 2025. Birmingham is the centre of the ceremonial West Midlands county, and borders the Black Country to its west and, together with the city of Wolverhampton and towns including Walsall, West Bromwich, Dudley and Solihull, forms the West Midlands conurbation. The Royal Town of Sutton Coldfield is incorporated within the city limits to the north and northeast. Birmingham's urban area has a population of 2.7 million and its wider metropolitan area has a population of 4.3 million. The city of Coventry lies to the east of the city, separated by the Meriden Gap. The cathedral city of Lichfield lies to the north of the city, separated by the M6 Toll.",
+    "description": "City in the West Midlands, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Birmingham_Skyline_from_the_West.jpg/330px-Birmingham_Skyline_from_the_West.jpg",
+    "lat": 52.48,
+    "lon": -1.9025,
+    "es": {
+      "title": "Birmingham",
+      "url": "https://es.wikipedia.org/wiki/Birmingham",
+      "extract": "Birmingham es una ciudad y un municipio metropolitano situado en el condado metropolitano de las Tierras Medias Occidentales, en la región de las Tierras Medias Occidentales de Inglaterra. Según el censo de 2021, tiene una población de 1 144 919 habitantes."
+    }
+  },
   "bogota": {
     "title": "Bogotá",
     "url": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
@@ -1051,6 +1065,20 @@
       "title": "Brielle",
       "url": "https://es.wikipedia.org/wiki/Brielle",
       "extract": "Brielle, también llamada Den Briel, es un municipio y una ciudad de la provincia de Holanda Meridional en los Países Bajos, en la antigua isla Voorne. Tiene una superficie de 31,14 km², de los que 3,58 km² corresponden a la superficie ocupada por el agua. En marzo de 2014 tenía una población de 16 339 habitantes."
+    }
+  },
+  "bristol": {
+    "title": "Bristol",
+    "url": "https://en.wikipedia.org/wiki/Bristol",
+    "extract": "Bristol is a city and ceremonial county in South West England. It is on the River Avon, and bordered by Gloucestershire to the north and Somerset to the south, with a short coastline on the Bristol Channel to the west. The county includes most of the Bristol conurbation, but the urban area extends into South Gloucestershire, Bath and North East Somerset, and North Somerset.",
+    "description": "City and county in England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol%2C_England.jpg/330px-Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol%2C_England.jpg",
+    "lat": 51.45361111,
+    "lon": -2.5975,
+    "es": {
+      "title": "Bristol",
+      "url": "https://es.wikipedia.org/wiki/Bristol",
+      "extract": "Bristol es una ciudad y uno de los cuarenta y siete condados de Inglaterra, Reino Unido. Ubicado en la región Sudoeste limita al noreste con Gloucestershire, al sur y suroeste con Somerset y al noroeste con el canal de Bristol. Es uno de los dos centros administrativos del suroeste de Inglaterra. Desde sus inicios, su prosperidad ha estado ligada a su puerto comercial, el cual dio origen al centro de la ciudad."
     }
   },
   "bromsebro": {
@@ -1561,6 +1589,20 @@
       "extract": "Cnido o Gnido fue una ciudad griega de Asia Menor situada en la antigua región de Caria."
     }
   },
+  "coalbrookdale": {
+    "title": "Coalbrookdale",
+    "url": "https://en.wikipedia.org/wiki/Coalbrookdale",
+    "extract": "Coalbrookdale is a settlement in the Ironbridge Gorge and the Telford and Wrekin borough of Shropshire, England, of great significance in the history of iron ore smelting. It lies within the civil parish called The Gorge, and is sometimes referred to as a town.",
+    "description": "Settlement in Shropshire, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cottages_at_Coalbrookdale_with_Holy_Trinity_Church_behind._-_geograph.org.uk_-_1239753.jpg/330px-Cottages_at_Coalbrookdale_with_Holy_Trinity_Church_behind._-_geograph.org.uk_-_1239753.jpg",
+    "lat": 52.639,
+    "lon": -2.492,
+    "es": {
+      "title": "Coalbrookdale",
+      "url": "https://es.wikipedia.org/wiki/Coalbrookdale",
+      "extract": "Coalbrookdale es un asentamiento en un valle lateral del Ironbridge Gorbe en el distrito de Telford and Wrekin y en el condado de Shropshire, Inglaterra. En este lugar se encuentra la antigua mansión y parroquia eclesiástica de Madeley. Fue uno de los lugares donde se originó la Revolución industrial."
+    }
+  },
   "coimbra": {
     "title": "Coimbra",
     "url": "https://en.wikipedia.org/wiki/Coimbra",
@@ -1935,6 +1977,20 @@
       "title": "Damasco",
       "url": "https://es.wikipedia.org/wiki/Damasco",
       "extract": "Damasco, comúnmente conocida en Siria como الشام ash-Shām y apodada la «Ciudad del Jazmín», es la capital y la segunda ciudad más poblada de Siria después de Alepo. Además de ser una de las ciudades habitadas más antiguas del mundo con más de 4000 años de historia, Damasco es un importante centro cultural y religioso del Levante mediterráneo. La ciudad tenía una población estimada de 1 711 000 habitantes en 2009."
+    }
+  },
+  "darlington": {
+    "title": "Darlington",
+    "url": "https://en.wikipedia.org/wiki/Darlington",
+    "extract": "Darlington is a market town in the Borough of Darlington, County Durham, England. It lies on the River Skerne, 13 miles (21 km) west of Middlesbrough and 17 miles (27 km) south of Durham. Darlington had a population of 107,800 in the 2021 Census, making it a \"large town\" and one of the largest settlements in North East England. The town is linked to London, Leeds, York, Newcastle and Edinburgh by the East Coast Main Line railway and the A1(M) motorway.",
+    "description": "Town in County Durham, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Darlington_clock_tower_and_market_hall_%28geograph_6299652%29.jpg/330px-Darlington_clock_tower_and_market_hall_%28geograph_6299652%29.jpg",
+    "lat": 54.527,
+    "lon": -1.5526,
+    "es": {
+      "title": "Darlington",
+      "url": "https://es.wikipedia.org/wiki/Darlington",
+      "extract": "Darlington es una ciudad y autoridad unitaria en Inglaterra. La ciudad tenía una población de 106.000 habitantes en 2011. La ciudad está a orillas del río Skerne, un afluente del río Tees. La ciudad tiene una historia larga con mucho desarrollo debido a la influencia de los cuáqueros en la época victoriana. La ciudad es conocida por ser terminal de la primera línea de ferrocarril del mundo."
     }
   },
   "decelea": {
@@ -2485,6 +2541,20 @@
       "title": "Gante",
       "url": "https://es.wikipedia.org/wiki/Gante",
       "extract": "Gante es una ciudad de Bélgica, capital de la provincia de Flandes Oriental, en la Región Flamenca. Tiene una población estimada, a inicios de 2025, de 272 657 habitantes. La ciudad está situada entre Brujas y Bruselas, a media hora de ambas en tren."
+    }
+  },
+  "glasgow": {
+    "title": "Glasgow",
+    "url": "https://en.wikipedia.org/wiki/Glasgow",
+    "extract": "Glasgow is the most populous city in Scotland, located on the banks of the River Clyde in west central Scotland. It is the third-most populous city in the United Kingdom and comprises 23 wards which represent the areas within the city boundaries. Glasgow is a leading city in Scotland for university education and research, finance, industry, commerce, shopping, culture and fashion, and was commonly referred to as the \"second city of the British Empire\" for much of the Victorian and Edwardian eras.",
+    "description": "Largest city in Scotland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/330px-Glasgow_-_aerial_-_2025-04-17_14.jpg",
+    "lat": 55.86111111,
+    "lon": -4.25,
+    "es": {
+      "title": "Glasgow",
+      "url": "https://es.wikipedia.org/wiki/Glasgow",
+      "extract": "Glasgow, oficialmente City of Glasgow, es una ciudad y un concejo de Escocia, en el Reino Unido. Es la mayor ciudad de Escocia y la tercera del Reino Unido, después de Londres y Birmingham, y es el consejo más poblado y la décima área metropolitana más poblada del Reino Unido en su conurbación Gran Glasgow, tras el Gran Londres. Está situada a las orillas del río Clyde en las Tierras Bajas de Escocia. La gente de Glasgow es conocida como Glaswegians. Asimismo, Glaswegian es el nombre con que se conoce al dialecto local escocés."
     }
   },
   "goa": {
@@ -3685,6 +3755,20 @@
       "extract": "Lisboa es la capital y la ciudad más poblada de Portugal.Está situada en la desembocadura del río Tajo, es la capital del país, capital del distrito de Lisboa, de la región de Lisboa y del área metropolitana de Lisboa, y es también el principal centro de la subregión de la Gran Lisboa. Lisboa tiene una población de 547 773 habitantes, y su zona metropolitana cuenta con una población de 2 810 923 en una superficie de 2.921,90 km². Esta área contiene el 26% de la población del país. Lisboa es la ciudad más rica de Portugal."
     }
   },
+  "liverpool": {
+    "title": "Liverpool",
+    "url": "https://en.wikipedia.org/wiki/Liverpool",
+    "extract": "Liverpool is a port city and metropolitan borough in Merseyside, England. It is situated on the eastern side of the Mersey Estuary, near the Irish Sea, 178 miles (286 km) north-west of London. It had an estimated population of 507,915 in 2025. The city is within the larger Liverpool City Region, a combined authority area with a population of over 1.5 million.",
+    "description": "City in Merseyside, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Pier_Head%2C_Liverpool_-_geograph.org.uk_-_3059094.jpg/330px-Pier_Head%2C_Liverpool_-_geograph.org.uk_-_3059094.jpg",
+    "lat": 53.4072,
+    "lon": -2.9917,
+    "es": {
+      "title": "Liverpool",
+      "url": "https://es.wikipedia.org/wiki/Liverpool",
+      "extract": "Liverpool es una ciudad y municipio metropolitano del condado de Merseyside, en la región Noroeste de Inglaterra, sobre el lado este del estuario del río Mersey en el Reino Unido. Limita al sur con Gales al este con el de Knowsley, y al sur y oeste con el mencionado río. Fue fundada como villa en 1207 y tuvo ese estatus hasta 1880, cuando recibió el título de ciudad. Según el último censo oficial que data de 2001, Liverpool tenía una población de 439 473 habitantes; esta cifra aumenta ligeramente hasta los 454 654 habitantes según estimaciones para el año 2009. La ciudad se encuentra en el centro del área metropolitana de Liverpool, cuya población asciende a 816 216 habitantes."
+    }
+  },
   "ljubljana": {
     "title": "Ljubljana",
     "url": "https://en.wikipedia.org/wiki/Ljubljana",
@@ -4101,6 +4185,20 @@
       "title": "Menfis",
       "url": "https://es.wikipedia.org/wiki/Menfis",
       "extract": "Menfis, también conocida como Men-nefer, fue la antigua capital de Inebu-hedy, el primer nomo del Bajo Egipto conocido como mḥw (\"norte\"). Sus ruinas se encuentran en las inmediaciones de la actual aldea de Mit Rahina, en el condado de Badrashin, Gobernación de Guiza, Egipto."
+    }
+  },
+  "merthyr-tydfil": {
+    "title": "Merthyr Tydfil",
+    "url": "https://en.wikipedia.org/wiki/Merthyr_Tydfil",
+    "extract": "Merthyr Tydfil is the main town in Merthyr Tydfil County Borough, Wales, administered by Merthyr Tydfil County Borough Council. It is about 23 miles (37 km) north of Cardiff. Often called just Merthyr, it is said to be named after Tydfil, daughter of King Brychan of Brycheiniog, who according to legend was slain at Merthyr by pagans about 480 CE. Merthyr generally means \"martyr\" in modern Welsh, but here closer to the Latin martyrium: a place of worship built over a martyr's relics. Similar place names in south Wales are Merthyr Cynog, Merthyr Dyfan and Merthyr Mawr.",
+    "description": "Town in Wales",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hen_Neuadd_y_Dref_Merthyr.jpg/330px-Hen_Neuadd_y_Dref_Merthyr.jpg",
+    "lat": 51.743,
+    "lon": -3.378,
+    "es": {
+      "title": "Merthyr Tydfil",
+      "url": "https://es.wikipedia.org/wiki/Merthyr_Tydfil",
+      "extract": "Merthyr Tydfil es la principal localidad y capital del condado de Merthyr Tydfil, Gales. Se encuentra a 37 km al norte de Cardiff. Comúnmente llamada Merthyr, se dice que su nombre proviene de Tydfil, hija del rey Brychan de Brycheiniog, quien según la leyenda fue asesinado por paganos en Merthyr alrededor del año 480."
     }
   },
   "merv": {
@@ -5419,6 +5517,20 @@
       "extract": "Praga es la capital de la República Checa y de la región de Bohemia. Situada a orillas del río Moldava, tiene aproximadamente 1,36 millones de habitantes, lo que la convierte en la ciudad más poblada del país y la séptima de Europa Central. El área metropolitana de Praga cuenta con una población de 2,7 millones de habitantes. Su belleza y patrimonio histórico la convierten en una de las veinte ciudades más visitadas del mundo."
     }
   },
+  "providence-rhode-island": {
+    "title": "Providence, Rhode Island",
+    "url": "https://en.wikipedia.org/wiki/Providence%2C_Rhode_Island",
+    "extract": "Providence is the capital and most populous city of the U.S. state of Rhode Island. It is the third-most populous city in New England, with a population of 190,934 at the 2020 census. The Providence metropolitan area extends into Massachusetts and has approximately 1.7 million residents, making it the 39th-largest metropolitan area in the U.S. It is the county seat of Providence County.",
+    "description": "Capital city of Rhode Island, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Providence_RI_skyline.jpg/330px-Providence_RI_skyline.jpg",
+    "lat": 41.82361111,
+    "lon": -71.42222222,
+    "es": {
+      "title": "Providence (Rhode Island)",
+      "url": "https://es.wikipedia.org/wiki/Providence_(Rhode_Island)",
+      "extract": "Providence es la capital y la ciudad más grande de Rhode Island en los Estados Unidos, y una de las primeras ciudades en ser fundadas en ese país. Ubicada en el condado de Providence, la ciudad es la segunda más grande de Nueva Inglaterra. Su población en 2010 era de 178 042 habitantes, mientras que la de su área metropolitana era de 1 600 856 habitantes."
+    }
+  },
   "punta-del-este": {
     "title": "Punta del Este",
     "url": "https://en.wikipedia.org/wiki/Punta_del_Este",
@@ -5529,6 +5641,20 @@
       "title": "Rain (Lech)",
       "url": "https://es.wikipedia.org/wiki/Rain_(Lech)",
       "extract": "Rain es un municipio situado en el distrito de Danubio-Ries, en el estado federado de Baviera (Alemania), con una población a finales de 2016 de unos 8902 habitantes."
+    }
+  },
+  "rainhill": {
+    "title": "Rainhill",
+    "url": "https://en.wikipedia.org/wiki/Rainhill",
+    "extract": "Rainhill is a village and civil parish in the Metropolitan Borough of St Helens, Merseyside, England. The population at the 2011 census was 10,853.",
+    "description": "Village and civil parish in England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/St_Bartholomew%27s_Church%2C_Rainhill.JPG/330px-St_Bartholomew%27s_Church%2C_Rainhill.JPG",
+    "lat": 53.41566,
+    "lon": -2.76253,
+    "es": {
+      "title": "Rainhill",
+      "url": "https://es.wikipedia.org/wiki/Rainhill",
+      "extract": "Rainhill es un pueblo grande y una parroquia civil dentro del Distrito metropolitano de St Helens, en Merseyside, Inglaterra. La población de la parroquia civil registrada en el censo de 2011 era de 10.853 habitantes."
     }
   },
   "raphia": {
@@ -6033,6 +6159,20 @@
       "title": "Sardes",
       "url": "https://es.wikipedia.org/wiki/Sardes",
       "extract": "Sardes fue una antigua ciudad de Asia Menor fundada por el rey lidio Giges (680-644 a. C.) como capital del antiguo reino de Lidia. Se corresponde con la actual Sart, en la provincia turca de Manisa, en la ladera septentrional del monte Tmolo, en el valle medio del río Pactolo, que desemboca en el mar Egeo."
+    }
+  },
+  "savannah-georgia": {
+    "title": "Savannah, Georgia",
+    "url": "https://en.wikipedia.org/wiki/Savannah%2C_Georgia",
+    "extract": "Savannah is a city in and the county seat of Chatham County, Georgia, United States. Established in 1733 on the Savannah River, it is the oldest city in the state, and was the capital of the colonial Province of Georgia and later the first state capital of Georgia. A strategic port city in the American Revolution and during the American Civil War, Savannah today is an industrial center and an important Atlantic seaport. The city is the most populous in the Coastal Georgia region and the fifth-most populous in the state as a whole, with a population of 147,780 at the 2020 census and an estimated 149,440 in 2025. The Savannah metropolitan area, with about 438,000 residents in 2025, is the third-largest metro area in the state.",
+    "description": "City in Georgia, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Savannah.tif/lossy-page1-330px-Savannah.tif.jpg",
+    "lat": 32.08111111,
+    "lon": -81.09111111,
+    "es": {
+      "title": "Savannah",
+      "url": "https://es.wikipedia.org/wiki/Savannah",
+      "extract": "Savannah es la ciudad más antigua del estado estadounidense de Georgia y es la sede del condado de Chatham. Establecida en 1733 en el río Savannah, la ciudad de Savannah se convirtió en la capital colonial británica de la provincia de Georgia y más tarde en la primera capital del estado de Georgia, "
     }
   },
   "schmalkalden": {
@@ -6778,6 +6918,20 @@
       "title": "Timișoara",
       "url": "https://es.wikipedia.org/wiki/Timi%C8%99oara",
       "extract": "Timișoara es una ciudad con estatus de municipiu ubicada en la región occidental de Rumania. Con una población de 250 849 habitantes en 2021, es la capital del distrito de Timiș."
+    }
+  },
+  "tipton": {
+    "title": "Tipton",
+    "url": "https://en.wikipedia.org/wiki/Tipton",
+    "extract": "Tipton is an industrial Black Country town in the metropolitan borough of Sandwell, in the county of the West Midlands, England. It had a population of 38,777 at the 2011 UK census. It is located northwest of Birmingham and southeast of Wolverhampton, and is also contiguous with Darlaston, Dudley, Wednesbury and Bilston.",
+    "description": "Town in the West Midlands, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/View_From_The_Tower_of_St_Matthew%27s_Church%2C_Tipton_-_geograph.org.uk_-_1607806.jpg/330px-View_From_The_Tower_of_St_Matthew%27s_Church%2C_Tipton_-_geograph.org.uk_-_1607806.jpg",
+    "lat": 52.5259,
+    "lon": -2.0751,
+    "es": {
+      "title": "Tipton",
+      "url": "https://es.wikipedia.org/wiki/Tipton",
+      "extract": "Tipton es una localidad situada en el condado de Tierras Medias Occidentales, en Inglaterra, con una población estimada a mediados de 2016 de 44 572 habitantes."
     }
   },
   "tiryns": {

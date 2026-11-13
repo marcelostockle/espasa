@@ -602,6 +602,15 @@
       }
     }
   },
+  "birmingham": {
+    "label": "Birmingham",
+    "wikipedia": "Birmingham",
+    "translations": {
+      "es": {
+        "label": "Birmingham"
+      }
+    }
+  },
   "bogota": {
     "label": "Bogotá",
     "wikipedia": "Bogotá",
@@ -689,6 +698,15 @@
     "translations": {
       "es": {
         "label": "Brielle"
+      }
+    }
+  },
+  "bristol": {
+    "label": "Bristol",
+    "wikipedia": "Bristol",
+    "translations": {
+      "es": {
+        "label": "Bristol"
       }
     }
   },
@@ -1025,6 +1043,15 @@
       }
     }
   },
+  "coalbrookdale": {
+    "label": "Coalbrookdale",
+    "wikipedia": "Coalbrookdale",
+    "translations": {
+      "es": {
+        "label": "Coalbrookdale"
+      }
+    }
+  },
   "coimbra": {
     "label": "Coimbra",
     "wikipedia": "Coimbra",
@@ -1265,6 +1292,15 @@
     "translations": {
       "es": {
         "label": "Damasco"
+      }
+    }
+  },
+  "darlington": {
+    "label": "Darlington",
+    "wikipedia": "Darlington",
+    "translations": {
+      "es": {
+        "label": "Darlington"
       }
     }
   },
@@ -1625,6 +1661,15 @@
     "translations": {
       "es": {
         "label": "Gante"
+      }
+    }
+  },
+  "glasgow": {
+    "label": "Glasgow",
+    "wikipedia": "Glasgow",
+    "translations": {
+      "es": {
+        "label": "Glasgow"
       }
     }
   },
@@ -2420,6 +2465,15 @@
       }
     }
   },
+  "liverpool": {
+    "label": "Liverpool",
+    "wikipedia": "Liverpool",
+    "translations": {
+      "es": {
+        "label": "Liverpool"
+      }
+    }
+  },
   "ljubljana": {
     "label": "Ljubljana",
     "wikipedia": "Ljubljana",
@@ -2687,6 +2741,15 @@
     "translations": {
       "es": {
         "label": "Menfis"
+      }
+    }
+  },
+  "merthyr-tydfil": {
+    "label": "Merthyr Tydfil",
+    "wikipedia": "Merthyr Tydfil",
+    "translations": {
+      "es": {
+        "label": "Merthyr Tydfil"
       }
     }
   },
@@ -3554,6 +3617,15 @@
       }
     }
   },
+  "providence-rhode-island": {
+    "label": "Providence, Rhode Island",
+    "wikipedia": "Providence, Rhode Island",
+    "translations": {
+      "es": {
+        "label": "Providence (Rhode Island)"
+      }
+    }
+  },
   "punta-del-este": {
     "label": "Punta del Este",
     "wikipedia": "Punta del Este",
@@ -3623,6 +3695,15 @@
     "translations": {
       "es": {
         "label": "Rain"
+      }
+    }
+  },
+  "rainhill": {
+    "label": "Rainhill",
+    "wikipedia": "Rainhill",
+    "translations": {
+      "es": {
+        "label": "Rainhill"
       }
     }
   },
@@ -3947,6 +4028,15 @@
     "translations": {
       "es": {
         "label": "Sardes"
+      }
+    }
+  },
+  "savannah-georgia": {
+    "label": "Savannah, Georgia",
+    "wikipedia": "Savannah, Georgia",
+    "translations": {
+      "es": {
+        "label": "Savannah (Georgia)"
       }
     }
   },
@@ -4442,6 +4532,15 @@
     "translations": {
       "es": {
         "label": "Timișoara"
+      }
+    }
+  },
+  "tipton": {
+    "label": "Tipton",
+    "wikipedia": "Tipton",
+    "translations": {
+      "es": {
+        "label": "Tipton"
       }
     }
   },
