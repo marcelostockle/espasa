@@ -5,7 +5,7 @@ date: {"year":1928,"month":6,"day":4}
 tags: ["japan","japanese-empire","republic-of-china","expansionism","politics"]
 places: ["shenyang"]
 sources: ["https://en.wikipedia.org/wiki/Huanggutun_incident","https://www.britannica.com/biography/Zhang-Zuolin"]
-translations: {"es":{"title":"Oficiales japoneses asesinan a Zhang Zuolin","summary":"Oficiales del Ejército de Kwantung vuelan el tren del señor de la guerra Zhang Zuolin cerca de Mukden, buscando provocar una crisis. Sale mal: su hijo Zhang Xueliang se alía con los nacionalistas. Los conjurados apenas son castigados, precedente de Mukden en 1931."}}
+translations: {"es":{"title":"Oficiales japoneses asesinan a Zhang Zuolin","summary":"Cerca de Mukden, oficiales del Ejército de Kwantung vuelan un tren con el caudillo Zhang Zuolin a bordo, buscando provocar una crisis. Sale mal: su hijo Zhang Xueliang se alía con los nacionalistas. Los conspiradores apenas son castigados, creando así un precedente al Incidente de Mukden en 1931."}}
 ---
 
 

@@ -6,7 +6,7 @@ end: {"year":1928}
 tags: ["republic-of-china","politics"]
 places: ["beijing"]
 sources: ["https://en.wikipedia.org/wiki/Warlord_Era"]
-translations: {"es":{"title":"Muere Yuan Shikai y China se fragmenta bajo el dominio de los señores de la guerra","summary":"Tras fracasar en restaurar la monarquía con él como emperador, Yuan muere el 6 de junio. Sin un centro fuerte, los militares regionales se reparten el país y el gobierno de Pekín pierde autoridad real durante más de una década."}}
+translations: {"es":{"title":"Muere Yuan Shikai y China cae bajo control de caudillos","summary":"Tras fracasar en restaurar la monarquía con él como emperador, Yuan muere el 6 de junio. Sin un centro fuerte, milicias regionales se reparten el país y el gobierno de Pekín pierde autoridad genuina por más de una década."}}
 ---
 
 
