@@ -2312,6 +2312,15 @@
       }
     }
   },
+  "kaerntnertortheater": {
+    "label": "Kärntnertortheater, Vienna",
+    "wikipedia": "Kärntnertortheater",
+    "translations": {
+      "es": {
+        "label": "Kärntnertortheater de Viena"
+      }
+    }
+  },
   "kagoshima": {
     "label": "Kagoshima",
     "wikipedia": "Kagoshima",

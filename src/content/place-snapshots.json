@@ -3509,6 +3509,20 @@
       "extract": "Qadesh, también llamada Kadesh o Quidsa, fue una ciudad del Canaán a orillas del río Orontes en lo que hoy es territorio sirio, famosa principalmente por la batalla que enfrentó a hititas y egipcios."
     }
   },
+  "kaerntnertortheater": {
+    "title": "Theater am Kärntnertor",
+    "url": "https://en.wikipedia.org/wiki/Theater_am_K%C3%A4rntnertor",
+    "extract": "Theater am Kärntnertor or Kärntnertortheater was a prestigious theatre in Vienna during the eighteenth and nineteenth centuries. Its official title was Kaiserliches und Königliches Hoftheater zu Wien.",
+    "description": "Former theatre and opera house in Vienna, Austria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Karl_Wenzel_Zajicek_K%C3%A4rtnertortheater.jpg/330px-Karl_Wenzel_Zajicek_K%C3%A4rtnertortheater.jpg",
+    "lat": 48.20333333,
+    "lon": 16.37083333,
+    "es": {
+      "title": "Kärntnertortheater",
+      "url": "https://es.wikipedia.org/wiki/K%C3%A4rntnertortheater",
+      "extract": "El Kärntnertortheater, o Theater am Kärntnertor fue un teatro de Viena, activo durante los siglos XVIII y XIX. Su denominación oficial fue Kaiserliches und Königliches Hoftheater zu Wien."
+    }
+  },
   "kagoshima": {
     "title": "Kagoshima",
     "url": "https://en.wikipedia.org/wiki/Kagoshima",
