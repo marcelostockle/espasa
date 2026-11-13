@@ -578,6 +578,20 @@
       "extract": "Askov es una ciudad ubicada en el condado de Pine, Minnesota, Estados Unidos. Tiene una población estimada, a mediados de 2021, de 333 habitantes."
     }
   },
+  "asuncion": {
+    "title": "Asunción",
+    "url": "https://en.wikipedia.org/wiki/Asunci%C3%B3n",
+    "extract": "Asunción is the capital and the largest city of Paraguay. The city lies on the eastern bank of the Paraguay River, immediately north northeast of the confluence where it is joined by the Pilcomayo River. The Paraguay River separates Asunción from the Occidental Region of Paraguay to the northwest, and from Argentina to the southwest. The eastern part of the city is surrounded by the Central Department.",
+    "description": "Capital and most populous city of Paraguay",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Palacio_de_los_L%C3%B3pez_Asunci%C3%B3n_2.jpg/330px-Palacio_de_los_L%C3%B3pez_Asunci%C3%B3n_2.jpg",
+    "lat": -25.28,
+    "lon": -57.63444444,
+    "es": {
+      "title": "Asunción",
+      "url": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
+      "extract": "Asunción, oficialmente llamada Ciudad de la Asunción,es la capital y ciudad más poblada del Paraguay, ubicada en el centro-oeste de la Región Oriental. Es un municipio de primer orden administrado como distrito capital y no está integrado en ningún departamento. Limita al norte con el río Paraguay que la separa del departamento Presidente Hayes y de la Región Occidental; al este y sur con el departamento Central; y al oeste con el río Paraguay, que la separa de la República Argentina, concretamente del departamento Pilcomayo perteneciente a la provincia de Formosa, por lo que es una ciudad fronteriza. Fue fundada como Nuestra Señora de la Asunción el 15 de agosto de 1537 por Juan de Salazar y Espinosa, lo que la hace una de las ciudades más antiguas de América."
+    }
+  },
   "aswan": {
     "title": "Aswan",
     "url": "https://en.wikipedia.org/wiki/Aswan",
@@ -1815,6 +1829,20 @@
       "extract": "La batalla de las Horcas Caudinas fue un enfrentamiento militar librado en 321 a. C., en el marco de la segunda guerra samnita, entre los ejércitos de la República romana y de los samnitas con victoria de los segundos. La derrota dejó una profunda huella en la memoria romana, siendo recordada como equivalente a Alia y a la posterior en Cannas."
     }
   },
+  "cerro-cora": {
+    "title": "Battle of Cerro Corá",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Cerro_Cor%C3%A1",
+    "extract": "The Battle of Cerro Corá was the last major battle of the Paraguayan War, fought on 1 March 1870, in the vicinity of Cerro Corá, 454 kilometres (280 mi) northeast of Paraguay's capital Asunción. It is known for being the battle in which Francisco Solano López, Paraguayan president, was killed at the hands of the Imperial Brazilian Army.",
+    "description": "1870 final battle of the Paraguayan War",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/CHICO_DIABO_atravessando_com_uma_lan%C3%A7a_Solano_L%C3%B3pez_%28Semana_Illustrada_n_485%2C_27.03.1870%29.JPG/330px-CHICO_DIABO_atravessando_com_uma_lan%C3%A7a_Solano_L%C3%B3pez_%28Semana_Illustrada_n_485%2C_27.03.1870%29.JPG",
+    "lat": -22.65222222,
+    "lon": -56.02527778,
+    "es": {
+      "title": "Combate de Cerro Corá",
+      "url": "https://es.wikipedia.org/wiki/Combate_de_Cerro_Cor%C3%A1",
+      "extract": "El combate de Cerro Corá fue la última batalla de la guerra de la Triple Alianza, se dio en el Cerro Corá, un paraje del departamento de Amambay, en el Paraguay, casi inmediato a la actual frontera con Brasil y una decena de kilómetros al sudoeste de las ciudades de Pedro Juan Caballero y Punta Porá. Se encuentra al sur del río Aquidabán y a un lado del riachuelo, brazo del anterior, el Aquidabán Niguí también conocido como Niguí. Allí, a partir de la madrugada del 1 de marzo de 1870 sucedió el último combate."
+    }
+  },
   "ceuta": {
     "title": "Ceuta",
     "url": "https://en.wikipedia.org/wiki/Ceuta",
@@ -2165,6 +2193,20 @@
       "extract": "Corinto fue una ciudad-Estado (polis) ubicada en el istmo de Corinto, la estrecha franja de tierra que une el Peloponeso con la Grecia continental, a medio camino entre Atenas y Esparta. La ciudad moderna de Corinto se encuentra a aproximadamente 5 km al noreste de las ruinas antiguas. Desde 1896, las excavaciones arqueológicas sistemáticas de Corinto llevadas a cabo por la American School of Classical Studies at Athens han revelado grandes partes de la ciudad antigua e investigaciones recientes dirigidas por el Ministerio de Cultura griego han ilustrado importantes facetas nuevas sobre la Antigüedad."
     }
   },
+  "corrientes": {
+    "title": "Corrientes",
+    "url": "https://en.wikipedia.org/wiki/Corrientes",
+    "extract": "Corrientes is the capital city of the province of Corrientes, Argentina, on the eastern shore of the Paraná River, about 1,000 km (621 mi) from Buenos Aires and 300 km (186 mi) from Posadas, on National Route 12. It has a population of 346,334 according to the 2010 Census. It lies opposite its twin city, Resistencia, Chaco.",
+    "description": "City in Argentina",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Puente_General_Manuel_Belgrano.jpg/330px-Puente_General_Manuel_Belgrano.jpg",
+    "lat": -27.48333333,
+    "lon": -58.81666667,
+    "es": {
+      "title": "Corrientes (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/Corrientes_(ciudad)",
+      "extract": "Corrientes es una ciudad de la Argentina, capital y principal centro administrativo, social y económico de la provincia homónima. Fue fundada el 3 de abril de 1588 por Juan Torres de Vera y Aragón, lo que la convierte en la ciudad más antigua de la región del Nordeste argentino."
+    }
+  },
   "corunna": {
     "title": "A Coruña",
     "url": "https://en.wikipedia.org/wiki/A_Coru%C3%B1a",
@@ -2303,6 +2345,20 @@
       "title": "Cumas",
       "url": "https://es.wikipedia.org/wiki/Cumas",
       "extract": "Cumas es una antigua ciudad de la Magna Grecia, en la costa del mar Tirreno, actual Campania, al sur de Italia, en los municipios de Bacoli y Pozzuoli, suburbio de Nápoles."
+    }
+  },
+  "curupayty": {
+    "title": "Battle of Curupayty",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Curupayty",
+    "extract": "The Battle of Curupayty was a key battle in the Paraguayan War. On the morning on 22 September 1866, the joint force of Brazilian, Argentine, and Uruguayan armies attacked Paraguayan fortified trenches on Curupayty. The Paraguayans were led by general José Eduvigis Díaz. This position was held by 5,000 men and 49 cannons, some of them in hidden places out of the attackers view. The Imperial Brazilian Navy gave support to the 20,000 assailants, but the ships had to keep some distance from the guns at the fortress of Humaitá, which led to the lack of accuracy and impact of the ship's fire. The navy's failure was crucial at the later ground battle result.",
+    "description": "Battle of the Paraguayan War",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/C%C3%A1ndido_Lopez_-_Trinchera_de_Curupayt%C3%AD_-_Google_Art_Project_%28497159%29.jpg/330px-C%C3%A1ndido_Lopez_-_Trinchera_de_Curupayt%C3%AD_-_Google_Art_Project_%28497159%29.jpg",
+    "lat": -27.11305556,
+    "lon": -58.57444444,
+    "es": {
+      "title": "Batalla de Curupaytí",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Curupayt%C3%AD",
+      "extract": "La batalla de Curupayty fue un enfrentamiento militar ocurrido en el marco de la guerra de la Triple Alianza. Fue librada el 22 de septiembre de 1866, en el Fuerte de Curupayty, distante a unos 8 km de la localidad de Humaitá."
     }
   },
   "cusco": {
@@ -3558,6 +3614,15 @@
       "url": "https://es.wikipedia.org/wiki/Huamachuco",
       "extract": "Huamachuco es una ciudad peruana, capital del distrito homónimo y de la provincia de Sánchez Carrión en el departamento de La Libertad. Tenía 78 000 habs., según estimación y proyección del INEI para 2020."
     }
+  },
+  "humaita": {
+    "title": "Siege of Humaitá",
+    "url": "https://en.wikipedia.org/wiki/Siege_of_Humait%C3%A1",
+    "extract": "The siege of Humaitá was a military operation in which the Triple Alliance flanked, besieged and captured the Fortress of Humaitá, a Paraguayan stronghold that was referred to as the Gibraltar of South America. It fell on 26 July 1868. It can be considered the key event of the Paraguayan War since the fortress had frustrated the allied advance into Paraguay for more than two years. However it did not surrender as the defenders escaped, most of them to fight another day.",
+    "description": "Part of the Paraguayan War",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Bird%27s_eye_of_Humait%C3%A1.jpg/330px-Bird%27s_eye_of_Humait%C3%A1.jpg",
+    "lat": -27.07,
+    "lon": -58.5
   },
   "hydaspes": {
     "title": "Jhelum River",
@@ -4840,6 +4905,20 @@
       "extract": "San Carlos y San Severino de Matanzas es una ciudad y municipio de Cuba, capital de la provincia homónima. Fue fundada en octubre de 1693 entre la desembocadura de los ríos Yumurí, San Juan y Canímar."
     }
   },
+  "mato-grosso": {
+    "title": "Mato Grosso",
+    "url": "https://en.wikipedia.org/wiki/Mato_Grosso",
+    "extract": "Mato Grosso is one of the states of Brazil, the third largest by area, located in the Central-West region. The state has 1.66% of the Brazilian population and is responsible for 1.9% of the Brazilian GDP. Neighboring states are: Rondônia, Amazonas, Pará, Tocantins, Goiás and Mato Grosso do Sul. It is divided into 142 municipalities and covers an area of 903,357 square kilometers, \nconsequently the state is roughly 82.2% of the size of its southwest neighbor, the nation of Bolivia.",
+    "description": "State of Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/330px-Bandeira_de_Mato_Grosso.svg.png",
+    "lat": -15.56666667,
+    "lon": -56.075,
+    "es": {
+      "title": "Mato Grosso",
+      "url": "https://es.wikipedia.org/wiki/Mato_Grosso",
+      "extract": "Mato Grosso es uno de los veintiséis estados que, junto con el distrito federal, forman la República Federativa de Brasil. Se ubica en la región Centro-Oeste del país, tiene como límites: Amazonas y Pará al norte, Tocantíns al noreste, Goiás al este, Mato Grosso del Sur, al sur, y Rondonia y el Estado Plurinacional de Bolivia al noroeste. Con 903 358 km² es el tercer estado más extenso —por detrás de Amazonas y Pará— y con 3,58 hab/km², el tercero menos densamente poblado, por delante de Amazonas y Roraima, el menos densamente poblado. El estado, que tiene el 1,66% de la población brasileña, es responsable del 1,9% del PIB brasileño. Su capital es Cuiabá."
+    }
+  },
   "mecca": {
     "title": "Mecca",
     "url": "https://en.wikipedia.org/wiki/Mecca",
@@ -5246,6 +5325,20 @@
       "title": "Monte Pascoal",
       "url": "https://es.wikipedia.org/wiki/Monte_Pascoal",
       "extract": "El monte Pascoal es un pequeño cerro de 586 metros de altura, localizado en el estado de Bahía, cerca de 62 kilómetros de la ciudad de Porto Seguro. Según los registros históricos, el monte Pascoal habría sido la primera porción de tierra avistada por Pedro Álvares Cabral y su tripulación el día 22 de abril de 1500, fecha del Descubrimiento de Brasil. El accidente geográfico recibió este nombre justamente porque el desembarco ocurrió en la época de Pascua del 1500."
+    }
+  },
+  "montevideo": {
+    "title": "Montevideo",
+    "url": "https://en.wikipedia.org/wiki/Montevideo",
+    "extract": "Montevideo is the capital and largest city of Uruguay. As of the 2023 census, the city proper has a population of 1,287,452, making up about 36.8% of the country's total population, in an area of 201 square kilometers (78 sq mi). Montevideo is situated on the southern coast of the country, on the northeastern bank of the Río de la Plata.",
+    "description": "Capital and largest city of Uruguay",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/PALACIO_LEGISLATIVO_01.JPG/330px-PALACIO_LEGISLATIVO_01.JPG",
+    "lat": -34.90555556,
+    "lon": -56.18416667,
+    "es": {
+      "title": "Montevideo",
+      "url": "https://es.wikipedia.org/wiki/Montevideo",
+      "extract": "Montevideo, históricamente llamada La Muy Fiel y Reconquistadora Ciudad de San Felipe y Santiago de Montevideo,es la capital y la ciudad más poblada de la República Oriental del Uruguay, así como la capital del departamento homónimo. Se localiza en la zona sur del país abarcando una extensa región metropolitana con más de 1 862 966 habitantes - el 53% de la población total del país y cuenta con costas sobre el Río de la Plata, donde se encuentran la bahía de Montevideo y el principal puerto de la región. Su población es de 1 325 968 habitantes en el departamento y 1 947 603 en el área metropolitana, lo que la sitúa en el trigésimo puesto en América del Sur."
     }
   },
   "montjuic": {
@@ -6748,6 +6841,20 @@
       "title": "Rodas",
       "url": "https://es.wikipedia.org/wiki/Rodas",
       "extract": "La isla de Rodas es la isla griega más extensa del archipiélago del Dodecaneso con unos 1400 kilómetros cuadrados. La capital de la isla es la ciudad homónima. Administrativamente, conforma la unidad periférica de Rodas."
+    }
+  },
+  "riachuelo": {
+    "title": "Battle of Riachuelo",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Riachuelo",
+    "extract": "The Battle of Riachuelo was a large and decisive naval battle of the Paraguayan War between Paraguay and the Empire of Brazil. By late 1864, Paraguay had scored a series of victories in the war, but on 11 June 1865, its naval defeat by the Brazilians on the Paraná River began to turn the tide in favor of the allies.",
+    "description": "1865 battle of the Paraguayan War",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pal%C3%A1cio_Pedro_Ernesto_-_Batalha_do_Riachuelo_-_c%C3%B3pia.jpg/330px-Pal%C3%A1cio_Pedro_Ernesto_-_Batalha_do_Riachuelo_-_c%C3%B3pia.jpg",
+    "lat": -27.56222222,
+    "lon": -58.83916667,
+    "es": {
+      "title": "Batalla del Riachuelo",
+      "url": "https://es.wikipedia.org/wiki/Batalla_del_Riachuelo",
+      "extract": "La batalla del Riachuelo fue un enfrentamiento naval ocurrido en el marco de la guerra de la Triple Alianza poco después de la invasión paraguaya de Corrientes. Fue una de las más importantes y decisivas batallas de esta guerra. La victoria de la Marina de Brasil sobre la escuadra del Paraguay determinó el aislamiento definitivo del Paraguay, imposibilitado desde entonces hasta el fin de la guerra de comunicarse por el río Paraná con ninguna nación que no fuera enemiga del Paraguay."
     }
   },
   "rijswijk": {
@@ -8416,6 +8523,20 @@
       "extract": "Turín es una ciudad, importante centro cultural y de negocios del norte de Italia, capital de la región de Piamonte, localizada principalmente en el margen izquierdo del río Po y rodeada por los Alpes. Tiene una población de 856 745 habitantes."
     }
   },
+  "tuyuti": {
+    "title": "Battle of Tuyutí",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Tuyut%C3%AD",
+    "extract": "The Battle of Tuyutí was a Paraguayan offensive in the Paraguayan War targeting the Triple Alliance encampment of Tuyutí. It is considered to be the bloodiest battle ever in South America. The result of the battle was an Allied victory, which added to the Paraguayan troubles after the loss of its fleet in the Battle of Riachuelo.",
+    "description": "Part of the Paraguayan War",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Tuyuti.jpg/330px-Tuyuti.jpg",
+    "lat": -27.20444444,
+    "lon": -58.54805556,
+    "es": {
+      "title": "Batalla de Tuyutí",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Tuyut%C3%AD",
+      "extract": "La primera batalla de Tuyutí fue un enfrentamiento armado entre las fuerzas paraguayas contra las aliadas en el marco de la guerra de la Triple Alianza. Tuvo lugar el 24 de mayo de 1866, como consecuencia del ataque del ejército paraguayo al campamento aliado establecido en una zona seca rodeada de pantanos conocida como Tuyutí, dentro del territorio paraguayo."
+    }
+  },
   "tyre": {
     "title": "Tyre, Lebanon",
     "url": "https://en.wikipedia.org/wiki/Tyre%2C_Lebanon",
@@ -8495,6 +8616,20 @@
       "title": "Pecio de Uluburun",
       "url": "https://es.wikipedia.org/wiki/Pecio_de_Uluburun",
       "extract": "El Pecio de Uluburun es un yacimiento submarino de la Edad del Bronce, descubierto en la costa meridional de Turquía, cerca de la ciudad de Kaç, en la provincia de Antalya. Un pescador de esponjas turco lo descubrió en 1982, y fue excavado usando técnicas de arqueología subacuática en once campañas consecutivas de entre tres y cuatro meses de duración cada una, entre los años 1984 y 1994."
+    }
+  },
+  "uruguaiana": {
+    "title": "Uruguaiana",
+    "url": "https://en.wikipedia.org/wiki/Uruguaiana",
+    "extract": "Uruguaiana is a city and municipality in the Brazilian state of Rio Grande do Sul. It is located on the eastern shore of the Uruguay River\nbordering Argentina. Opposite to Uruguaiana, and joined to it by a road/railway bridge, lies the Argentine city of Paso de los Libres, Corrientes. North of Uruguaiana lies the Brazilian municipality of Itaqui, connected by a bridge constructed by the British in 1888 over the Ibicuí River. The municipality also borders the municipalities of Alegrete, Barra do Quaraí and Quaraí, and, also, Uruguay, making it one of the few international triple-border municipalities of Brazil.",
+    "description": "Municipality of Rio Grande do Sul, Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Edificio_de_la_municipalidad_%28Prefeitura%29_de_Uruguayana.jpg/330px-Edificio_de_la_municipalidad_%28Prefeitura%29_de_Uruguayana.jpg",
+    "lat": -29.755,
+    "lon": -57.08777778,
+    "es": {
+      "title": "Uruguayana",
+      "url": "https://es.wikipedia.org/wiki/Uruguayana",
+      "extract": "Uruguayana es un municipio brasileño, situado en el extremo occidental del estado de Río Grande del Sur, teniendo frontera fluvial con la provincia de Corrientes, en Argentina, y al sur con el departamento de Artigas, en Uruguay."
     }
   },
   "usedom": {

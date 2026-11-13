@@ -2320,6 +2320,35 @@
       }
     }
   },
+  "paraguay": {
+    "label": "Paraguay",
+    "color": "#d9534f",
+    "description": "Paraguay, its governments and wars.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Paraguay",
+        "description": "Paraguay, sus gobiernos y guerras."
+      }
+    }
+  },
+  "paraguayan-war": {
+    "label": "War of the Triple Alliance",
+    "color": "#4e8a6b",
+    "description": "The 1864-1870 war in which Paraguay fought Brazil, Argentina and Uruguay, which devastated Paraguay, and its aftermath.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra de la Triple Alianza",
+        "description": "La guerra de 1864-1870 en que Paraguay combatió contra Brasil, Argentina y Uruguay, que devastó a Paraguay, y sus consecuencias."
+      }
+    }
+  },
   "peloponnesian-war": {
     "label": "Peloponnesian War",
     "color": "#64dc5a",
