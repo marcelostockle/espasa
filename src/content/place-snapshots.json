@@ -1,4 +1,18 @@
 {
+  "abadan": {
+    "title": "Abadan, Iran",
+    "url": "https://en.wikipedia.org/wiki/Abadan%2C_Iran",
+    "extract": "Abadan is a city in the Central District of Abadan County, Khuzestan province, Iran, serving as capital of both the county and the district. The city is in the southwest of the county. It lies on Abadan Island. The island is bounded in the west by the Arvand waterway and to the east by the Bahmanshir outlet of the Karun River, 53 kilometres (33 mi) from the Persian Gulf, near the Iran–Iraq border. Abadan is 140 km from the provincial capital city of Ahvaz.",
+    "description": "City in Khuzestan province, Iran",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Rengoonie%27s_Mosque_1.jpg/330px-Rengoonie%27s_Mosque_1.jpg",
+    "lat": 30.34694444,
+    "lon": 48.2825,
+    "es": {
+      "title": "Abadán",
+      "url": "https://es.wikipedia.org/wiki/Abad%C3%A1n",
+      "extract": "Abadán es una ciudad de Irán ubicada en la provincia de Juzestán, en la orilla del río Shatt al-Arab."
+    }
+  },
   "abdera": {
     "title": "Abdera, Thrace",
     "url": "https://en.wikipedia.org/wiki/Abdera%2C_Thrace",
@@ -6179,6 +6193,20 @@
       "extract": "Nagasaki  es una ciudad japonesa, capital de la prefectura de Nagasaki, ubicada sobre la costa sudoeste de la isla de Kyūshū. Tenía una población estimada, en septiembre de 2021, de 401 515 habitantes. Su nombre significa \"cabo largo\"."
     }
   },
+  "najaf": {
+    "title": "Najaf",
+    "url": "https://en.wikipedia.org/wiki/Najaf",
+    "extract": "Najaf is the capital city of the eponymous Najaf Governorate in central Iraq, about 160 km (99 mi) south of Baghdad. Its estimated population in 2024 was about 1.41 million people. It is widely considered amongst the holiest cities of Shia Islam and one of its spiritual capitals, as well as the center of Shia political power in Iraq.",
+    "description": "Metropolis in Iraq",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Shrine_of_Imam_Ali_Najaf_August_2023.jpg/330px-Shrine_of_Imam_Ali_Najaf_August_2023.jpg",
+    "lat": 32,
+    "lon": 44.33,
+    "es": {
+      "title": "Náyaf",
+      "url": "https://es.wikipedia.org/wiki/N%C3%A1yaf",
+      "extract": "Náyaf es una ciudad de Irak, situada unos 160 km al sur de Bagdad. Capital de la gobernación de Nayaf. Es una de las ciudades sagradas de los chiíes y el centro del poder político chií en Irak."
+    }
+  },
   "nanchang": {
     "title": "Nanchang",
     "url": "https://en.wikipedia.org/wiki/Nanchang",
@@ -6247,6 +6275,20 @@
       "title": "Nápoles",
       "url": "https://es.wikipedia.org/wiki/N%C3%A1poles",
       "extract": "Nápoles es la ciudad más poblada del sur de Italia, capital de la ciudad metropolitana homónima y de la región de Campania. Es el tercer municipio italiano por población, teniendo 905 259 habitantes que, unidos a los de la ciudad metropolitana, se elevan a más de tres millones. Está situada a medio camino entre el Vesubio y otra área volcánica, los Campos Flégreos. Nápoles también desempeña un papel clave en la diplomacia y cooperación internacional, ya que alberga el Allied Joint Force Command Naples de la OTAN y, principalmente debido a su histórica vocación global, la Asamblea Parlamentaria del Mediterráneo (PAM)."
+    }
+  },
+  "neauphle-le-chateau": {
+    "title": "Neauphle-le-Château",
+    "url": "https://en.wikipedia.org/wiki/Neauphle-le-Ch%C3%A2teau",
+    "extract": "Neauphle-le-Château is a commune in the Yvelines department in the Île-de-France region in north-central France.",
+    "description": "Commune in Île-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Neauphle-le-Ch%C3%A2teau_Mairie.JPG/330px-Neauphle-le-Ch%C3%A2teau_Mairie.JPG",
+    "lat": 48.8153,
+    "lon": 1.9031,
+    "es": {
+      "title": "Neauphle-le-Château",
+      "url": "https://es.wikipedia.org/wiki/Neauphle-le-Ch%C3%A2teau",
+      "extract": " Neauphle-le-Château  es una población y comuna francesa, en la región de Isla de Francia, departamento de Yvelines, en el distrito de Rambouillet y cantón de Montfort-l'Amaury."
     }
   },
   "neuchatel": {
@@ -7464,6 +7506,20 @@
       "title": "Qingdao",
       "url": "https://es.wikipedia.org/wiki/Qingdao",
       "extract": "Qingdao es una ciudad portuaria de la provincia de Shandong en la República Popular China. Antiguamente era conocida como Jiao'ao. Está situada en la península de Shandong y orientada en dirección al mar Amarillo. Actualmente es un importante puerto marítimo, base naval y centro industrial. Entre 1898 y 1914 fue la capital de la concesión colonial alemana de Jiaozhou. En esta ciudad se realizaron parte de las competiciones náuticas de los Juegos Olímpicos de Pekín 2008. Su área es de 11 282 km² y su población total para 2020 superó los 10 millones de habitantes."
+    }
+  },
+  "qom": {
+    "title": "Qom",
+    "url": "https://en.wikipedia.org/wiki/Qom",
+    "extract": "Qom is the capital of Qom province, Iran. It is also the capital of Qom County and its Central District. It is the seventh largest metropolis and the seventh largest city in Iran. The city is 140 km (87 mi) to the south of Tehran, on the banks of the Qom River. Qom is a holy city in Shia Islam, as it is the site of the Fatima Masumeh Shrine, a descendant of the Islamic prophet Muhammad. She was the granddaughter of Ja'far al-Sadiq, the daughter of Musa al-Kazim, the sister of Ali al-Rida, and the aunt of Muhammad al-Jawad, the sixth, seventh, eighth and ninth of the Twelve Imams. The city is the world's largest center for Shia Islamic scholarship and is a significant destination of pilgrimage, with around 20 million pilgrims visiting every year. Qom's economy is heavily dependent on pilgrimage, and the city is the most conservative in Iran.",
+    "description": "City in Qom province, Iran",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Aerial_photographs_of_Qom%2C_29_March_2018_%2813970109000106636579121753288836_38629%29_%28cropped%29.jpg/330px-Aerial_photographs_of_Qom%2C_29_March_2018_%2813970109000106636579121753288836_38629%29_%28cropped%29.jpg",
+    "lat": 34.64,
+    "lon": 50.87638889,
+    "es": {
+      "title": "Qom (Irán)",
+      "url": "https://es.wikipedia.org/wiki/Qom_(Ir%C3%A1n)",
+      "extract": "Qom, Ghom o Qum es la capital de la provincia iraní de provincia homónima. Situada a 156 km al sudoeste de Teherán, en la ribera del río Qom. Qom es considerada como ciudad sagrada del chiismo islámico, ya que ahí se ubica el sepulcro de Fátima Ma'suma, hermana del imán Reza (798–816 d. C.). La ciudad es el centro mundial de los estudios islámicos chiitas, y es un destino importante de peregrinación."
     }
   },
   "quebec-city": {

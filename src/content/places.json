@@ -1,4 +1,13 @@
 {
+  "abadan": {
+    "label": "Abadan",
+    "wikipedia": "Abadan, Iran",
+    "translations": {
+      "es": {
+        "label": "Abadán"
+      }
+    }
+  },
   "abdera": {
     "label": "Abdera",
     "wikipedia": "Abdera, Thrace",
@@ -4067,6 +4076,15 @@
       }
     }
   },
+  "najaf": {
+    "label": "Najaf",
+    "wikipedia": "Najaf",
+    "translations": {
+      "es": {
+        "label": "Náyaf"
+      }
+    }
+  },
   "nanchang": {
     "label": "Nanchang",
     "wikipedia": "Nanchang",
@@ -4109,6 +4127,15 @@
     "translations": {
       "es": {
         "label": "Nápoles"
+      }
+    }
+  },
+  "neauphle-le-chateau": {
+    "label": "Neauphle-le-Château",
+    "wikipedia": "Neauphle-le-Château",
+    "translations": {
+      "es": {
+        "label": "Neauphle-le-Château"
       }
     }
   },
@@ -4910,6 +4937,15 @@
     "translations": {
       "es": {
         "label": "Qingdao"
+      }
+    }
+  },
+  "qom": {
+    "label": "Qom",
+    "wikipedia": "Qom",
+    "translations": {
+      "es": {
+        "label": "Qom"
       }
     }
   },
