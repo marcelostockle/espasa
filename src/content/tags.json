@@ -285,6 +285,21 @@
       }
     }
   },
+  "belgium": {
+    "label": "Belgium",
+    "color": "#b0a020",
+    "description": "Belgium, its politics and society between the wars.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Bélgica",
+        "description": "Bélgica, su política y sociedad entre las dos guerras."
+      }
+    }
+  },
   "bernardo-ohiggins": {
     "label": "Bernardo O'Higgins",
     "color": "#5d9cec",
@@ -1028,6 +1043,21 @@
       "es": {
         "label": "Fidel Castro",
         "description": "Líder de la Revolución cubana y gobernante de Cuba de 1959 a 2008."
+      }
+    }
+  },
+  "finland": {
+    "label": "Finland",
+    "color": "#5f9fd0",
+    "description": "Finland, its politics and its democracy, between independence and the Second World War.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Finlandia",
+        "description": "Finlandia, su política y su democracia, entre la independencia y la Segunda Guerra Mundial."
       }
     }
   },
@@ -2960,6 +2990,21 @@
       "es": {
         "label": "República romana",
         "description": "Roma desde su fundación legendaria y los siete reyes tradicionales, pasando por la República, sus conquistas y guerras civiles, hasta el acuerdo de Octavio del 27 a. C."
+      }
+    }
+  },
+  "romania": {
+    "label": "Romania",
+    "color": "#e0b030",
+    "description": "Romania, its kingdom, politics and movements between the wars.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Rumanía",
+        "description": "Rumanía, su reino, su política y sus movimientos entre las dos guerras."
       }
     }
   },

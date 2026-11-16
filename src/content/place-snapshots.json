@@ -968,6 +968,15 @@
       "extract": "Barcelona es una ciudad de España, capital de Cataluña, de la provincia de Barcelona y de la comarca del Barcelonés. Con una población de 1 731 649 habitantes, es la segunda ciudad más poblada de España y de la península ibérica después de Madrid, y la décima de la Unión Europea. Su ámbito metropolitano cuenta con una población de 5 797 356 habitantes según Eurostat, siendo así la tercera aglomeración urbana de mayor población y la más densamente poblada de la Unión Europea."
     }
   },
+  "barmen": {
+    "title": "Barmen",
+    "url": "https://en.wikipedia.org/wiki/Barmen",
+    "extract": "Barmen is a former industrial metropolis of the region of Bergisches Land, Germany, which merged with four other towns in 1929 to form the city of Wuppertal.",
+    "description": "Former city in eastern Rhineland, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Barmen_%281870%29.jpg/330px-Barmen_%281870%29.jpg",
+    "lat": 51.26666667,
+    "lon": 7.2
+  },
   "basel": {
     "title": "Basel",
     "url": "https://en.wikipedia.org/wiki/Basel",
@@ -1372,6 +1381,20 @@
       "title": "Puerta de Brandeburgo",
       "url": "https://es.wikipedia.org/wiki/Puerta_de_Brandeburgo",
       "extract": "La Puerta de Brandeburgo es un monumento neoclásico del siglo xviii situado en Berlín, construido por orden del rey de Prusia, Federico Guillermo II, después de reprimir la revuelta popular holandesa y restaurar el poder orangista en los Países Bajos. Es uno de los monumentos más conocidos de Alemania, y fue construida en la ubicación de la antigua puerta de la ciudad en la que comenzaba la carretera que conducía de Berlín a la Ciudad de Brandeburgo, que era la capital del Margraviato de Brandeburgo."
+    }
+  },
+  "bratislava": {
+    "title": "Bratislava",
+    "url": "https://en.wikipedia.org/wiki/Bratislava",
+    "extract": "Bratislava is the capital and largest city of Slovakia and the fourth largest of all cities on the river Danube. Officially, the population of the city proper is about 479,000, with the wider Bratislava Region exceeding 732,000 inhabitants. The metropolitan area has a population of approximately 1.3 million.",
+    "description": "Capital and largest city of Slovakia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Slovakia_bratislava.jpg/330px-Slovakia_bratislava.jpg",
+    "lat": 48.14388889,
+    "lon": 17.10972222,
+    "es": {
+      "title": "Bratislava",
+      "url": "https://es.wikipedia.org/wiki/Bratislava",
+      "extract": "Bratislava es la capital y mayor ciudad de Eslovaquia. En 2025 tenía 480 902 habitantes y está situada a orillas del Danubio, cerca de las fronteras con Austria y Hungría, a unos 60 km de Viena."
     }
   },
   "breitenfeld": {
@@ -2809,6 +2832,20 @@
       "title": "Dresde",
       "url": "https://es.wikipedia.org/wiki/Dresde",
       "extract": "Dresde es la capital del estado federado de Sajonia, en Alemania. Limita al noroeste con el distrito de Meißen, al noreste con el de Bautzen y al sur con el de distrito de Suiza Sajona-Montes Metálicos Orientales. Dresde se encuentra justo en el centro de la conurbación homónima. Esta aglomeración, junto con la de Chemnitz-Zwickau y la de Leipzig-Halle, constituyen la llamada “región metropolitana del triángulo sajón”. La población total de Dresde supera los 550 000 habitantes y su correspondiente Regierungsbezirk o región administrativa, el millón y medio."
+    }
+  },
+  "dublin": {
+    "title": "Dublin",
+    "url": "https://en.wikipedia.org/wiki/Dublin",
+    "extract": "Dublin is the capital and largest city of Ireland. Situated on Dublin Bay at the mouth of the River Liffey, it is in the province of Leinster, and is bordered on the south by the Dublin Mountains, part of the Wicklow Mountains range. Dublin is the largest city by population on the island of Ireland; at the 2022 census, the city council area had a population of 592,713, while the city, including suburbs, had a population of 1,263,219, and County Dublin had a population of 1,501,500. Various definitions of a metropolitan Greater Dublin Area exist.",
+    "description": "Capital and largest city of Ireland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Dublin_-_aerial_-_2025-07-07_01.jpg/330px-Dublin_-_aerial_-_2025-07-07_01.jpg",
+    "lat": 53.35,
+    "lon": -6.26027778,
+    "es": {
+      "title": "Dublín",
+      "url": "https://es.wikipedia.org/wiki/Dubl%C3%ADn",
+      "extract": "Dublín es la capital de la República de Irlanda y la ciudad más poblada de la isla. Está ubicada cerca del centro de la costa este sobre el mar de Irlanda, en la desembocadura del río Liffey y en el centro del condado de Dublín. Fue fundada por los vikingos alrededor de 841 como base militar y centro de comercio de esclavos, y ha sido capital del país desde la Edad Media. Está constituida por diferentes áreas; el Consejo de la Ciudad de Dublín junto con suburbios contiguos en el condado de Dublín, y que a su vez se subdivide en los condados administrativos de Dún Laoghaire-Rathdown, Fine Gall-Fingal y el Consejo del Condado de Dublín Sur. La Gran Área abarca la Ciudad de Dublín y el Consejo junto con los condados contiguos de Kildare, Meath y Wicklow."
     }
   },
   "east-berlin": {
@@ -4333,6 +4370,20 @@
       "extract": "Karlsruhe es la tercera ciudad más grande de Baden-Wurtemberg al suroeste de Alemania, a 15 km de la frontera con Francia."
     }
   },
+  "kaunas": {
+    "title": "Kaunas",
+    "url": "https://en.wikipedia.org/wiki/Kaunas",
+    "extract": "Kaunas is the second-largest city in Lithuania, the fourth-largest city in the Baltic states, and an important centre of Lithuanian economic, academic, and cultural life. Kaunas was the largest city and the centre of Kaunas County in the Duchy of Trakai of the Grand Duchy of Lithuania and Trakai Palatinate since 1413. In the Russian Empire, it was the capital of the Kaunas Governorate from 1843 to 1915.",
+    "description": "Second-largest city in Lithuania",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Kauno_senamiestis_by_Augustas_Didzgalvis.jpg/330px-Kauno_senamiestis_by_Augustas_Didzgalvis.jpg",
+    "lat": 54.89722222,
+    "lon": 23.88611111,
+    "es": {
+      "title": "Kaunas",
+      "url": "https://es.wikipedia.org/wiki/Kaunas",
+      "extract": "Kaunas () es una ciudad lituana ubicada en el centro del país, en la provincia homónima. Se trata de la segunda ciudad más poblada de Lituania después de Vilna, con unos 328 763 habitantes. Fue la capital de la primera República de Lituania, entre 1920 y 1939."
+    }
+  },
   "kensington": {
     "title": "Kensington",
     "url": "https://en.wikipedia.org/wiki/Kensington",
@@ -5160,6 +5211,18 @@
       "title": "Mannheim",
       "url": "https://es.wikipedia.org/wiki/Mannheim",
       "extract": "Mannheim es una ciudad situada en Baden-Wurtemberg, uno de los estados federados de Alemania. Es una ciudad industrial en la que habitan 309 119 personas (2020), lo que la convierte en la segunda ciudad más poblada del estado tras Stuttgart y en la vigésimo primera de Alemania. Forma junto a la ciudad de Ludwigshafen situada al otro lado del Rin una aglomeración urbana que supera los 480.000 habitantes y es el corazón de la región metropolitana Rhein-Neckar, séptima área del país con una población superior a los 2,4 millones de habitantes y más de 900 000 empleos industriales."
+    }
+  },
+  "mantsala": {
+    "title": "Mäntsälä",
+    "url": "https://en.wikipedia.org/wiki/M%C3%A4nts%C3%A4l%C3%A4",
+    "extract": "Mäntsälä is a municipality in the province of Southern Finland, and is part of the Uusimaa region. It has a population of 20,861\n(31 December 2025) and covers an area of 596.11 square kilometres (230.16 sq mi) of\nwhich 15.26 km2 (5.89 sq mi)\nis water. The population density is\n35.91 inhabitants per square kilometre (93.0/sq mi). The municipality is unilingually Finnish. Mäntsälä is one of three municipalities in the Uusimaa region that do not have a Swedish name; the others are Nurmijärvi and Askola.",
+    "description": "Municipality in Uusimaa, Finland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/M%C3%A4nts%C3%A4l%C3%A4n_kirkonm%C3%A4ki_Ehnroosin_m%C3%A4elt%C3%A4_n%C3%A4htyn%C3%A4.jpg/330px-M%C3%A4nts%C3%A4l%C3%A4n_kirkonm%C3%A4ki_Ehnroosin_m%C3%A4elt%C3%A4_n%C3%A4htyn%C3%A4.jpg",
+    "es": {
+      "title": "Mäntsälä",
+      "url": "https://es.wikipedia.org/wiki/M%C3%A4nts%C3%A4l%C3%A4",
+      "extract": " Mäntsälä es un municipio de Finlandia, situado en la región de Uusimaa. Tiene 21.000 habitantes y un área de 596,10 kilómetros cuadrados. Fue fundado en 1585."
     }
   },
   "mantua": {
@@ -7389,6 +7452,20 @@
       "extract": "La batalla del Riachuelo fue un enfrentamiento naval ocurrido en el marco de la guerra de la Triple Alianza poco después de la invasión paraguaya de Corrientes. Fue una de las más importantes y decisivas batallas de esta guerra. La victoria de la Marina de Brasil sobre la escuadra del Paraguay determinó el aislamiento definitivo del Paraguay, imposibilitado desde entonces hasta el fin de la guerra de comunicarse por el río Paraná con ninguna nación que no fuera enemiga del Paraguay."
     }
   },
+  "riga": {
+    "title": "Riga",
+    "url": "https://en.wikipedia.org/wiki/Riga",
+    "extract": "Riga, officially Riga State City, is the capital, primate, and largest city of Latvia and the second most-populous city in the Baltics. Home to 588,911 inhabitants, the city accounts for a third of Latvia's total population. The population of Riga metropolitan area, which stretches beyond the city limits, is estimated at 847,162. The city lies on the Gulf of Riga at the mouth of the Daugava river where it meets the Baltic Sea. Riga's territory covers 307.17 km2 (118.60 sq mi) and lies 1–10 m (3–33 ft) above sea level on a flat and sandy plain.",
+    "description": "Capital and largest city of Latvia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Riga_%2833844464828%29.jpg/330px-Riga_%2833844464828%29.jpg",
+    "lat": 56.94888889,
+    "lon": 24.10638889,
+    "es": {
+      "title": "Riga",
+      "url": "https://es.wikipedia.org/wiki/Riga",
+      "extract": "Riga es la capital y la ciudad más poblada de la República de Letonia, con más de un tercio de la población del país. Se encuentra en el golfo de Riga, en la desembocadura del río Daugava. Con un área de 307,17 km², Riga se encuentra en una llanura arenosa próxima al mar Báltico."
+    }
+  },
   "rijeka": {
     "title": "Rijeka",
     "url": "https://en.wikipedia.org/wiki/Rijeka",
@@ -8276,6 +8353,20 @@
       "extract": "El Sele es un importante río de la región italiana de la Campania, de 64 km de longitud, el segundo de la región y del sur de Italia por volumen medio de aguas después del Volturno, y que desemboca en el Mar Tirreno"
     }
   },
+  "sinaia": {
+    "title": "Sinaia",
+    "url": "https://en.wikipedia.org/wiki/Sinaia",
+    "extract": "Sinaia is a town and a mountain resort in Prahova County, Romania. It is situated in the historical region of Muntenia. The town was named after the Sinaia Monastery of 1695, around which it was built. The monastery, in turn, is named after the Biblical Mount Sinai. King Carol I of Romania also built his summer residence, Peleș Castle, in Sinaia in the late nineteenth century.",
+    "description": "Town in Prahova, Romania",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Camil_Iamandescu-Castelul_Peles.jpg/330px-Camil_Iamandescu-Castelul_Peles.jpg",
+    "lat": 45.35,
+    "lon": 25.55138889,
+    "es": {
+      "title": "Sinaia",
+      "url": "https://es.wikipedia.org/wiki/Sinaia",
+      "extract": "Sinaia es una ciudad y un centro turístico de montaña en Rumania. La ciudad se bautizó con este nombre por el monasterio de Sinaia, alrededor del cual fue construida; el nombre del monasterio proviene del bíblico monte Sinaí. El rey Carlos I de Rumanía construyó su casa de verano, el castillo Peleș, cerca de la ciudad."
+    }
+  },
   "singapore": {
     "title": "Singapore",
     "url": "https://en.wikipedia.org/wiki/Singapore",
@@ -8694,6 +8785,20 @@
       "title": "Río Talas",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Talas",
       "extract": "El río Talas es un importante río del Asia Central, que corre entre Kirguistán y Kazajistán. Tiene una longitud de 661 km y drena una amplia cuenca de 52 700 km²."
+    }
+  },
+  "tallinn": {
+    "title": "Tallinn",
+    "url": "https://en.wikipedia.org/wiki/Tallinn",
+    "extract": "Tallinn is the capital and largest city of Estonia. Located on a bay in northern Estonia, on the shore of the Gulf of Finland of the Baltic Sea, it has a population of 452,563 as of 2026, making it the third most-populous city in the Baltics. As of 2024, the population of the Tallinn metropolitan area is estimated at 646,315. Tallinn is the main governmental, financial, industrial, and cultural centre of Estonia. It is located 187 kilometres (116 mi) northwest of the country's second largest city, Tartu, however, only 80 kilometres (50 mi) south of Helsinki, the capital city of Finland. It is also 320 kilometres (200 mi) west of Saint Petersburg, Russia, 300 kilometres (190 mi) north of Riga, Latvia, and 380 kilometres (240 mi) east of Stockholm, Sweden. From the 13th century until the first half of the 20th century, Tallinn was known in most of the world by variants of its other historical name, Reval.",
+    "description": "Capital and largest city of Estonia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Raekoja_plats_at_night.jpg/330px-Raekoja_plats_at_night.jpg",
+    "lat": 59.43722222,
+    "lon": 24.74527778,
+    "es": {
+      "title": "Tallin",
+      "url": "https://es.wikipedia.org/wiki/Tallin",
+      "extract": "Tallin es la capital de la República de Estonia y del condado de Harju. Ocupa una superficie de 159,3 km² en los que habitan 446 055 habitantes, lo que la convierte en la ciudad más poblada de Estonia y su principal puerto. Está situada en la costa norte del país, a orillas del golfo de Finlandia, a 80 km al sur de Helsinki, situada en la orilla opuesta del golfo."
     }
   },
   "tangier": {
@@ -9912,6 +10017,20 @@
       "extract": "Wittstock es una ciudad alemana que pertenece al distrito de Prignitz Oriental-Ruppin en el noroeste del estado de Brandeburgo. Se encuentra situada junto al río Dosse, 20 km al este de Pritzwalk a unos 95 km al noroeste de la capital Berlín."
     }
   },
+  "wolfsburg": {
+    "title": "Wolfsburg",
+    "url": "https://en.wikipedia.org/wiki/Wolfsburg",
+    "extract": "Wolfsburg is the fifth-largest city in the German state of Lower Saxony. It lies on the river Aller, 75 kilometres (47 mi) east of Hanover and 230 kilometres (143 mi) west of Berlin.",
+    "description": "City in Lower Saxony, German",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Wolfsburgskyline2-2.jpg/330px-Wolfsburgskyline2-2.jpg",
+    "lat": 52.42305556,
+    "lon": 10.78722222,
+    "es": {
+      "title": "Wolfsburgo",
+      "url": "https://es.wikipedia.org/wiki/Wolfsburgo",
+      "extract": "Wolfsburgo es una ciudad de Alemania situada en el estado de Baja Sajonia. Tiene una población estimada, a fines de marzo de 2023, de 126 123 habitantes."
+    }
+  },
   "woolsthorpe-manor": {
     "title": "Woolsthorpe Manor",
     "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
@@ -10088,6 +10207,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Moshavyodfat.jpg/330px-Moshavyodfat.jpg",
     "lat": 32.83694444,
     "lon": 35.27361111
+  },
+  "zagreb": {
+    "title": "Zagreb",
+    "url": "https://en.wikipedia.org/wiki/Zagreb",
+    "extract": "Zagreb is the capital and largest city of Croatia. It is in the north of the country, along the Sava River, at the southern slopes of the Medvednica mountain. Zagreb stands near the international border between Croatia and Slovenia at an elevation of approximately 158 m (518 ft) above sea level. At the 2021 census, the city itself had a population of 767,131, while the population of the Zagreb metropolitan area is 1,086,528.",
+    "description": "Capital city and county in Croatia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Zagreb_%2829255640143%29.jpg/330px-Zagreb_%2829255640143%29.jpg",
+    "lat": 45.81305556,
+    "lon": 15.9775,
+    "es": {
+      "title": "Zagreb",
+      "url": "https://es.wikipedia.org/wiki/Zagreb",
+      "extract": "Zagreb es la capital y ciudad más poblada de Croacia. Está localizada al noroeste del país, entre el río Sava y la ladera sur del monte Medvednica, a unos 122 m s. n. m. Según cifras de 2018, dentro de su municipalidad residen más de 850 000 habitantes, lo que la convierte en la cuarta ciudad más grande de Europa Sudoriental y en la segunda por extensión. Si se tienen en cuenta las poblaciones limítrofes, la cifra del área pequeña metropolitana asciende a 1 100 000 personas empadronadas."
+    }
   },
   "zama": {
     "title": "Zama (Tunisia)",

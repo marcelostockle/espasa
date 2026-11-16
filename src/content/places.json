@@ -629,6 +629,15 @@
       }
     }
   },
+  "barmen": {
+    "label": "Barmen",
+    "wikipedia": "Barmen",
+    "translations": {
+      "es": {
+        "label": "Barmen"
+      }
+    }
+  },
   "basel": {
     "label": "Basel",
     "wikipedia": "Basel",
@@ -905,6 +914,15 @@
     "translations": {
       "es": {
         "label": "Puerta de Brandeburgo"
+      }
+    }
+  },
+  "bratislava": {
+    "label": "Bratislava",
+    "wikipedia": "Bratislava",
+    "translations": {
+      "es": {
+        "label": "Bratislava"
       }
     }
   },
@@ -1841,6 +1859,15 @@
     "translations": {
       "es": {
         "label": "Dresde"
+      }
+    }
+  },
+  "dublin": {
+    "label": "Dublin",
+    "wikipedia": "Dublin",
+    "translations": {
+      "es": {
+        "label": "Dublín"
       }
     }
   },
@@ -2861,6 +2888,15 @@
       }
     }
   },
+  "kaunas": {
+    "label": "Kaunas",
+    "wikipedia": "Kaunas",
+    "translations": {
+      "es": {
+        "label": "Kaunas"
+      }
+    }
+  },
   "kensington": {
     "label": "Kensington",
     "wikipedia": "Kensington",
@@ -3398,6 +3434,15 @@
     "translations": {
       "es": {
         "label": "Mannheim"
+      }
+    }
+  },
+  "mantsala": {
+    "label": "Mäntsälä",
+    "wikipedia": "Mäntsälä",
+    "translations": {
+      "es": {
+        "label": "Mäntsälä"
       }
     }
   },
@@ -4859,6 +4904,15 @@
       }
     }
   },
+  "riga": {
+    "label": "Riga",
+    "wikipedia": "Riga",
+    "translations": {
+      "es": {
+        "label": "Riga"
+      }
+    }
+  },
   "rijeka": {
     "label": "Rijeka",
     "wikipedia": "Rijeka",
@@ -5444,6 +5498,15 @@
       }
     }
   },
+  "sinaia": {
+    "label": "Sinaia",
+    "wikipedia": "Sinaia",
+    "translations": {
+      "es": {
+        "label": "Sinaia"
+      }
+    }
+  },
   "singapore": {
     "label": "Singapore",
     "wikipedia": "Singapore",
@@ -5720,6 +5783,15 @@
     "translations": {
       "es": {
         "label": "Río Talas"
+      }
+    }
+  },
+  "tallinn": {
+    "label": "Tallinn",
+    "wikipedia": "Tallinn",
+    "translations": {
+      "es": {
+        "label": "Tallin"
       }
     }
   },
@@ -6533,6 +6605,15 @@
       }
     }
   },
+  "wolfsburg": {
+    "label": "Wolfsburg",
+    "wikipedia": "Wolfsburg",
+    "translations": {
+      "es": {
+        "label": "Wolfsburgo"
+      }
+    }
+  },
   "woolsthorpe-manor": {
     "label": "Woolsthorpe Manor",
     "wikipedia": "Woolsthorpe Manor",
@@ -6647,6 +6728,15 @@
     "translations": {
       "es": {
         "label": "Yodfat (Jotapata)"
+      }
+    }
+  },
+  "zagreb": {
+    "label": "Zagreb",
+    "wikipedia": "Zagreb",
+    "translations": {
+      "es": {
+        "label": "Zagreb"
       }
     }
   },
