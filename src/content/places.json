@@ -746,6 +746,15 @@
       }
     }
   },
+  "benghazi": {
+    "label": "Benghazi",
+    "wikipedia": "Benghazi",
+    "translations": {
+      "es": {
+        "label": "Bengasi"
+      }
+    }
+  },
   "berlin": {
     "label": "Berlin",
     "wikipedia": "Berlin",
@@ -1772,6 +1781,15 @@
       }
     }
   },
+  "daraa": {
+    "label": "Daraa",
+    "wikipedia": "Daraa",
+    "translations": {
+      "es": {
+        "label": "Daraa"
+      }
+    }
+  },
   "darlington": {
     "label": "Darlington",
     "wikipedia": "Darlington",
@@ -2258,6 +2276,15 @@
       }
     }
   },
+  "ghouta": {
+    "label": "Ghouta",
+    "wikipedia": "Ghouta",
+    "translations": {
+      "es": {
+        "label": "Guta"
+      }
+    }
+  },
   "glasgow": {
     "label": "Glasgow",
     "wikipedia": "Glasgow",
@@ -2453,6 +2480,15 @@
     "translations": {
       "es": {
         "label": "Halicarnaso"
+      }
+    }
+  },
+  "hama": {
+    "label": "Hama",
+    "wikipedia": "Hama",
+    "translations": {
+      "es": {
+        "label": "Hama"
       }
     }
   },
@@ -2969,6 +3005,15 @@
       }
     }
   },
+  "khartoum": {
+    "label": "Khartoum",
+    "wikipedia": "Khartoum",
+    "translations": {
+      "es": {
+        "label": "Jartum"
+      }
+    }
+  },
   "khedivial-opera-house": {
     "label": "Khedivial Opera House, Cairo",
     "wikipedia": "Khedivial Opera House",
@@ -3473,6 +3518,15 @@
       }
     }
   },
+  "manama": {
+    "label": "Manama",
+    "wikipedia": "Manama",
+    "translations": {
+      "es": {
+        "label": "Manama"
+      }
+    }
+  },
   "manchester": {
     "label": "Manchester",
     "wikipedia": "Manchester",
@@ -3920,6 +3974,15 @@
     "translations": {
       "es": {
         "label": "Mostar"
+      }
+    }
+  },
+  "mosul": {
+    "label": "Mosul",
+    "wikipedia": "Mosul",
+    "translations": {
+      "es": {
+        "label": "Mosul"
       }
     }
   },
@@ -5327,6 +5390,15 @@
       }
     }
   },
+  "sanaa": {
+    "label": "Sanaa",
+    "wikipedia": "Sanaa",
+    "translations": {
+      "es": {
+        "label": "Saná"
+      }
+    }
+  },
   "santa-clara": {
     "label": "Santa Clara",
     "wikipedia": "Santa Clara, Cuba",
@@ -5588,6 +5660,15 @@
       }
     }
   },
+  "sidi-bouzid": {
+    "label": "Sidi Bouzid",
+    "wikipedia": "Sidi Bouzid",
+    "translations": {
+      "es": {
+        "label": "Sidi Bouzid"
+      }
+    }
+  },
   "sierra-maestra": {
     "label": "Sierra Maestra",
     "wikipedia": "Sierra Maestra",
@@ -5630,6 +5711,15 @@
     "translations": {
       "es": {
         "label": "Singapur"
+      }
+    }
+  },
+  "sirte": {
+    "label": "Sirte",
+    "wikipedia": "Sirte",
+    "translations": {
+      "es": {
+        "label": "Sirte"
       }
     }
   },
@@ -5891,6 +5981,15 @@
     "translations": {
       "es": {
         "label": "Tacna"
+      }
+    }
+  },
+  "tahrir-square": {
+    "label": "Tahrir Square",
+    "wikipedia": "Tahrir Square",
+    "translations": {
+      "es": {
+        "label": "Plaza Tahrir"
       }
     }
   },
@@ -6323,6 +6422,15 @@
     "translations": {
       "es": {
         "label": "Palacio de las Tullerías"
+      }
+    }
+  },
+  "tunis": {
+    "label": "Tunis",
+    "wikipedia": "Tunis",
+    "translations": {
+      "es": {
+        "label": "Túnez"
       }
     }
   },

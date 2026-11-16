@@ -99,6 +99,20 @@
       }
     }
   },
+  "arab-spring": {
+    "label": "Arab Spring",
+    "color": "#d9653b",
+    "description": "The wave of protests, uprisings and civil wars against Arab governments that began in Tunisia in December 2010, with its roots, repression, counter-revolutions and aftermath.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Primavera Árabe",
+        "description": "La oleada de protestas, levantamientos y guerras civiles contra gobiernos árabes iniciada en Túnez en diciembre de 2010, con sus raíces, su represión, sus contrarrevoluciones y sus consecuencias."
+      }
+    }
+  },
   "archaeology": {
     "label": "Archaeology",
     "color": "#bcaaa4",
@@ -2086,6 +2100,21 @@
       }
     }
   },
+  "libya": {
+    "label": "Libya",
+    "color": "#8f6f2e",
+    "description": "Libya and its governments, including Gaddafi's rule, the 2011 war and the divisions after it.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Libia",
+        "description": "Libia y sus gobiernos, incluidos el régimen de Gadafi, la guerra de 2011 y las divisiones posteriores."
+      }
+    }
+  },
   "liszt": {
     "label": "Franz Liszt",
     "color": "#e3b23c",
@@ -3778,6 +3807,21 @@
       "es": {
         "label": "Toussaint Louverture",
         "description": "Toussaint Louverture (h. 1743-1803), general antes esclavizado que dirigió la Revolución haitiana y gobernó Saint-Domingue hasta su deportación a Francia en 1802."
+      }
+    }
+  },
+  "tunisia": {
+    "label": "Tunisia",
+    "color": "#4a8f7f",
+    "description": "Tunisia and its governments, including the 2011 revolution and the democratic transition that followed.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Túnez",
+        "description": "Túnez y sus gobiernos, incluida la revolución de 2011 y la transición democrática posterior."
       }
     }
   },

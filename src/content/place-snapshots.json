@@ -1138,6 +1138,20 @@
       "extract": "Bengala es una región situada en el noreste del subcontinente indio. Hoy en día está dividida en dos: la República de Bangladés y el estado de Bengala Occidental."
     }
   },
+  "benghazi": {
+    "title": "Benghazi",
+    "url": "https://en.wikipedia.org/wiki/Benghazi",
+    "extract": "Benghazi is the second-largest city in Libya as well as the largest city in Cyrenaica, with an estimated population of 859,000 in 2023. Located on the Gulf of Sidra in the Mediterranean, Benghazi is also a major seaport.",
+    "description": "City in Cyrenaica, Libya",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Al_Daawa_alIslamiyah2.JPG/330px-Al_Daawa_alIslamiyah2.JPG",
+    "lat": 32.11666667,
+    "lon": 20.06666667,
+    "es": {
+      "title": "Bengasi",
+      "url": "https://es.wikipedia.org/wiki/Bengasi",
+      "extract": "Bengasi es una ciudad del noreste de Libia en la costa del mar Mediterráneo, capital de la división administrativa de su nombre, en la costa oriental del golfo de Sidra. Es la segunda ciudad más grande del país. Su emplazamiento coincide con el de la antigua Berenice. Cerca de este lugar se libraron batallas clave durante la Segunda Guerra Mundial entre el Afrika Korps y los aliados y la ciudad fue el baluarte de los opositores a Muamar el Gadafi durante la guerra civil libia. Localizada en la línea de ferrocarril, Bengasi tiene un considerable comercio de caravanas con el interior. Es el centro comercial de cereales, dátiles, aceitunas, lana y ganadería de las áreas que la rodean. Además de la agricultura hay otras actividades importantes como la pesca de atún y la recolección de esponjas. Las esponjas, las pieles y la madera son los productos que más se exportan. En la ciudad se encuentran la Universidad de Garyunis y la Libyan International Medical University."
+    }
+  },
   "berlin": {
     "title": "Berlin",
     "url": "https://en.wikipedia.org/wiki/Berlin",
@@ -2695,6 +2709,20 @@
       "extract": "Damasco, comúnmente conocida en Siria como الشام ash-Shām y apodada la «Ciudad del Jazmín», es la capital y la segunda ciudad más poblada de Siria después de Alepo. Además de ser una de las ciudades habitadas más antiguas del mundo con más de 4000 años de historia, Damasco es un importante centro cultural y religioso del Levante mediterráneo. La ciudad tenía una población estimada de 1 711 000 habitantes en 2009."
     }
   },
+  "daraa": {
+    "title": "Daraa",
+    "url": "https://en.wikipedia.org/wiki/Daraa",
+    "extract": "Daraa is a city in southwestern Syria 13 kilometres (8.1 mi) north of the Jordan–Syria border. It is the capital of Daraa Governorate in the Hauran region. Located 90 kilometres (56 mi) south of Damascus on the Damascus–Amman highway, it serves as a waystation for travelers. Nearby localities include Umm al-Mayazen and Nasib to the southeast, al-Naimah to the east, Ataman to the north, al-Yaduda to the northwest, and ar-Ramtha in Jordan to the southwest.",
+    "description": "City in southwestern Syria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%D8%A7%D9%84%D8%AD%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A_-_panoramio.jpg/330px-%D8%A7%D9%84%D8%AD%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A_-_panoramio.jpg",
+    "lat": 32.62527778,
+    "lon": 36.10611111,
+    "es": {
+      "title": "Daraa",
+      "url": "https://es.wikipedia.org/wiki/Daraa",
+      "extract": "Daraa o Darʿa es una ciudad del suroeste de Siria, trece kilómetros al norte de la frontera con Jordania. Es la capital de la gobernación de Daraa, conocido en la historia como la región de Haurán. La ciudad está situada a unos 100 kilómetros al sur de Damasco."
+    }
+  },
   "darlington": {
     "title": "Darlington",
     "url": "https://en.wikipedia.org/wiki/Darlington",
@@ -3431,6 +3459,20 @@
       "extract": "Gante es una ciudad de Bélgica, capital de la provincia de Flandes Oriental, en la Región Flamenca. Tiene una población estimada, a inicios de 2025, de 272 657 habitantes. La ciudad está situada entre Brujas y Bruselas, a media hora de ambas en tren."
     }
   },
+  "ghouta": {
+    "title": "Ghuta",
+    "url": "https://en.wikipedia.org/wiki/Ghuta",
+    "extract": "Ghouta is a countryside area in southwestern Syria that surrounds the city of Damascus along its eastern and southern rim.",
+    "description": "Suburb of Damascus, Syria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Al_Kiswah_farms_from_mountain_%D8%A7%D9%84%D9%83%D8%B3%D9%88%D8%A9_-_%D8%A3%D9%85_%D8%A7%D9%84%D8%BA%D9%88%D8%B7%D8%A9_%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_-_panoramio.jpg/330px-Al_Kiswah_farms_from_mountain_%D8%A7%D9%84%D9%83%D8%B3%D9%88%D8%A9_-_%D8%A3%D9%85_%D8%A7%D9%84%D8%BA%D9%88%D8%B7%D8%A9_%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_-_panoramio.jpg",
+    "lat": 33.5,
+    "lon": 36.42083333,
+    "es": {
+      "title": "Guta (Siria)",
+      "url": "https://es.wikipedia.org/wiki/Guta_(Siria)",
+      "extract": "Guta(en árabe: غوطة دمشق‎, romanizado: Ghūṭat Dimashq) es una región de la campiña de Damasco, cerca de la zona oriental de Damasco, Siria, que contiene una gran cantidad de tierras rurales. Es una zona verde que recibe agua principalmente del río Barada."
+    }
+  },
   "glasgow": {
     "title": "Glasgow",
     "url": "https://en.wikipedia.org/wiki/Glasgow",
@@ -3725,6 +3767,20 @@
       "title": "Halicarnaso",
       "url": "https://es.wikipedia.org/wiki/Halicarnaso",
       "extract": "Halicarnaso fue una antigua ciudad griega situada en la costa sudoccidental de Caria en el mar Egeo, en una posición privilegiada entre el golfo Cerámico y el golfo de Cos. Originalmente solo ocupaba una pequeña isla cercana a la costa, donde actualmente se ubica el Castillo de San Pedro de Halicarnaso."
+    }
+  },
+  "hama": {
+    "title": "Hama",
+    "url": "https://en.wikipedia.org/wiki/Hama",
+    "extract": "Hama is a city on the banks of the Orontes River in west-central Syria. It is located 213 kilometres (132 mi) north of Damascus and 46 km (29 mi) north of Homs. It is the provincial capital of the Hama Governorate. Hama is one of the four largest cities in Syria, alongside Damascus, Aleppo and Homs. Hama is known for its cheesemaking tradition, notably reflected in a signature local dessert, Halawet el Jibn.",
+    "description": "City in Hama Governorate, Syria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Hama%2C_Panoramic_view%2C_Syria.jpg/330px-Hama%2C_Panoramic_view%2C_Syria.jpg",
+    "lat": 35.135,
+    "lon": 36.75,
+    "es": {
+      "title": "Hama",
+      "url": "https://es.wikipedia.org/wiki/Hama",
+      "extract": "Hama es una ciudad de Siria central, a 50 km de Homs y 150 km de Alepo en el centro de Siria al norte de Damasco. Es la capital provincial de la gobernación de Hama, y está localizada en la histórica ciudad aramea de Hamath. Tiene 996 000 habitantes según el censo de 2023. Es atravesada por el río Orontes. Es la cuarta ciudad más grande de Siria luego de Damasco, Alepo y Homs."
     }
   },
   "hamadan": {
@@ -4494,6 +4550,20 @@
       "title": "Río Jalja",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Jalja",
       "extract": "El río Jalja es un río fronterizo entre Mongolia oriental y China septentrional, cuya longitud es de 232 km. Desemboca en el lago Buir, un lago endorreico compartido por ambos países."
+    }
+  },
+  "khartoum": {
+    "title": "Khartoum",
+    "url": "https://en.wikipedia.org/wiki/Khartoum",
+    "extract": "Khartoum, also spelled Khartum, is the capital and most populous city of Sudan as well as Khartoum State. With an estimated population of 7.1 million people, Greater Khartoum is the largest urban area in Sudan.",
+    "description": "Capital of Sudan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%C2%A9Nile-Project_-Sari_Omer_0025.jpg/330px-%C2%A9Nile-Project_-Sari_Omer_0025.jpg",
+    "lat": 15.6,
+    "lon": 32.5,
+    "es": {
+      "title": "Jartum",
+      "url": "https://es.wikipedia.org/wiki/Jartum",
+      "extract": "Jartum o Jartún es la capital de Sudán y del estado homónimo. Se encuentra en el lugar donde el Nilo Blanco, procedente de Uganda, se une con el Nilo Azul, que viene desde el Lago Tana de Etiopía, formando el Nilo, que sigue su curso desde Jartum hacia Egipto y el mar Mediterráneo."
     }
   },
   "khedivial-opera-house": {
@@ -5269,6 +5339,20 @@
       "extract": "La batalla de Maipú, también conocida como batalla de Maipo, fue un enfrentamiento armado decisivo dentro del contexto de la guerra de la Independencia de Chile. Tuvo lugar el 5 de abril de 1818 en el sector conocido como Cerrillos del Maipo, al poniente de la ciudad de Santiago, donde se enfrentaron las fuerzas patriotas del Ejército Unido Libertador de Chile –formado por las tropas rioplatenses y chilenas– al mando del general José de San Martín, contra el ejército realista al mando del general Mariano Osorio, compuesto por expedicionarios del Virreinato del Perú y de España, así como por tropas de la Capitanía General de Chile."
     }
   },
+  "manama": {
+    "title": "Manama",
+    "url": "https://en.wikipedia.org/wiki/Manama",
+    "extract": "Manama is the capital and largest city of Bahrain, with an approximate population of 743,066 as of the 2025 estimate. Long an important trading center in the Persian Gulf, Manama is home to a diverse population. After periods of Portuguese and Persian control and a short invasion from the ruling dynasty of Saudi Arabia, followed by a longer invasion by Oman, Bahrain established itself as an independent nation in 1971 following a period of British hegemony.",
+    "description": "Capital and largest city of Bahrain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Manama%2C_Bahrain_Decembre_2014.jpg/330px-Manama%2C_Bahrain_Decembre_2014.jpg",
+    "lat": 26.22333333,
+    "lon": 50.5875,
+    "es": {
+      "title": "Manama",
+      "url": "https://es.wikipedia.org/wiki/Manama",
+      "extract": "Manama es la capital de Baréin, ubicada a orillas del golfo Pérsico, en el nordeste de la isla. Es la ciudad más grande del país, con una población estimada para 2009 de 156.872 habitantes, cifra que aumenta hasta 679.467 habitantes en su aglomeración urbana."
+    }
+  },
   "manchester": {
     "title": "Manchester",
     "url": "https://en.wikipedia.org/wiki/Manchester",
@@ -5953,6 +6037,20 @@
       "title": "Mostar",
       "url": "https://es.wikipedia.org/wiki/Mostar",
       "extract": "Mostar o Móstar es una ciudad de Bosnia-Herzegovina, la más importante de Herzegovina, en el centro del cantón de Herzegovina-Neretva."
+    }
+  },
+  "mosul": {
+    "title": "Mosul",
+    "url": "https://en.wikipedia.org/wiki/Mosul",
+    "extract": "Mosul is a major city in northern Iraq, serving as the capital of Nineveh Governorate. It is the second largest city in Iraq overall after the capital Baghdad. Mosul is situated on the banks of Tigris and the ruins of the ancient Assyrian city of Nineveh, once the largest city in the world, are on the east side of the city.",
+    "description": "City in Nineveh Governorate, Iraq",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg/330px-%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg",
+    "lat": 36.34166667,
+    "lon": 43.12916667,
+    "es": {
+      "title": "Mosul",
+      "url": "https://es.wikipedia.org/wiki/Mosul",
+      "extract": "Mosul es una ciudad del norte de Irak, ubicada junto al río Tigris. Con unos 1,4 millones de habitantes, Mosul es la cuarta ciudad más poblada del país."
     }
   },
   "mount-athos": {
@@ -8085,6 +8183,20 @@
       "extract": "San Lorenzo es una ciudad ubicada en la zona sur de la provincia de Santa Fe, Argentina, a 23 km al norte de la ciudad de Rosario; en la orilla occidental del río Paraná y a 147 km de la capital provincial. Es la ciudad cabecera del departamento San Lorenzo, y tiene 50 954 habitantes."
     }
   },
+  "sanaa": {
+    "title": "Sanaa",
+    "url": "https://en.wikipedia.org/wiki/Sanaa",
+    "extract": "Sanaa, officially the Sanaa Municipality, is the capital and largest city of Yemen. The city is the capital of the Sanaa Governorate, but is not part of the governorate, as it forms a separate administrative unit. At an elevation of 2,300 metres (7,500 ft), Sanaa is the seventh highest capital city in the world and is situated between the Sarawat Mountains of Jabal An-Nabi Shu'ayb and Jabal Tiyal, considered the highest mountains in the Arabian Peninsula and one of the highest in the Middle East.",
+    "description": "Capital and largest city of Yemen",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Sana%27a_%282286825748%29.jpg/330px-Sana%27a_%282286825748%29.jpg",
+    "lat": 15.34833333,
+    "lon": 44.20638889,
+    "es": {
+      "title": "Saná",
+      "url": "https://es.wikipedia.org/wiki/San%C3%A1",
+      "extract": "Saná es la capital de Yemen. Posesión etíope en el siglo VI, la ciudad fue ocupada en numerosas ocasiones por el Imperio otomano. Cuando Yemen se independizó en 1918, Saná se convirtió en la capital del país, hasta 1948, año en el que fue trasladada a Ta'izz, antes de volver a Saná en 1962."
+    }
+  },
   "santa-clara": {
     "title": "Santa Clara, Cuba",
     "url": "https://en.wikipedia.org/wiki/Santa_Clara%2C_Cuba",
@@ -8481,6 +8593,20 @@
       "extract": "La central nuclear de Shippingport, está situada en el río Ohio en el Condado de Beaver, Pensilvania cerca de 40 km de Pittsburgh. Empezó a funcionar el 2 de diciembre de 1957, y estuvo funcionando hasta octubre de 1982."
     }
   },
+  "sidi-bouzid": {
+    "title": "Sidi Bouzid",
+    "url": "https://en.wikipedia.org/wiki/Sidi_Bouzid",
+    "extract": "Sidi Bouzid, sometimes called Sidi Bou Zid or Sīdī Bū Zayd, is a city in Tunisia and is the capital of Sidi Bouzid Governorate in the centre of the country. Following the suicide of Mohamed Bouazizi in Sidi Bouzid, it was the site of the first clashes of the Tunisian Revolution and a catalyst for other protests in the region, often known as the Arab Spring.",
+    "description": "City in Sidi Bouzid Governorate, Tunisia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Sidi_bouzid.jpg/330px-Sidi_bouzid.jpg",
+    "lat": 35.03805556,
+    "lon": 9.48583333,
+    "es": {
+      "title": "Sidi Bouzid",
+      "url": "https://es.wikipedia.org/wiki/Sidi_Bouzid",
+      "extract": "Sidi Bouzid es una localidad de Túnez, capital de la gobernación homónima, en el centro del país."
+    }
+  },
   "sierra-maestra": {
     "title": "Sierra Maestra",
     "url": "https://en.wikipedia.org/wiki/Sierra_Maestra",
@@ -8549,6 +8675,20 @@
       "title": "Singapur",
       "url": "https://es.wikipedia.org/wiki/Singapur",
       "extract": "Singapur, oficialmente conocida como República de Singapur, es una ciudad-Estado y país insular, situada en el corazón marítimo del Sudeste asiático. Enclavada entre el estrecho de Malaca, el estrecho de Singapur, el mar de la China Meridional y el estrecho de Johor, tiene una posición geográfica estratégica que ha influido significativamente en la historia de la región. El territorio del país comprende una isla principal y 63 islas e islotes satélites y una periférica. Sus proyectos de tierras ganadas al mar han aumentado la superficie combinada en aproximadamente un 25 % desde la independencia del país."
+    }
+  },
+  "sirte": {
+    "title": "Sirte",
+    "url": "https://en.wikipedia.org/wiki/Sirte",
+    "extract": "Sirte, also spelled Sirt, Surt, Sert or Syrte, is a city in Libya. It is located south of the Gulf of Sirte, almost right in the middle between Tripoli and Benghazi. It is known for its battles, ethnic groups and loyalty to former Libyan ruler Muammar Gaddafi. Due to developments in the First Libyan Civil War, it was briefly the capital of Libya from 1 September to 20 October 2011 as Tripoli's successor after the city's fall. The settlement was established in the early 20th century by the Italians, at the site of a 19th-century fortress built by the Ottomans. It grew into a city after World War II.",
+    "description": "Place in Tripolitania, Libya",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sirte.jpg/330px-Sirte.jpg",
+    "lat": 31.205,
+    "lon": 16.58861111,
+    "es": {
+      "title": "Sirte",
+      "url": "https://es.wikipedia.org/wiki/Sirte",
+      "extract": "Sirte, llamada también Surt es una ciudad del distrito homónimo situada en Libia en la costa sur del golfo de Sidra, a medio camino entre Trípoli y Bengasi."
     }
   },
   "sistine-chapel": {
@@ -8941,6 +9081,20 @@
       "title": "Tacna",
       "url": "https://es.wikipedia.org/wiki/Tacna",
       "extract": "Tacna es una ciudad peruana, capital de la provincia y del departamento homónimo en el extremo sur del país. Su área urbana se extiende por cinco distritos conurbados que albergan una población de 325 160 habitantes según estimación y proyección del INEI para el 2020."
+    }
+  },
+  "tahrir-square": {
+    "title": "Tahrir Square",
+    "url": "https://en.wikipedia.org/wiki/Tahrir_Square",
+    "extract": "Tahrir Square, also known as Martyr Square, is a public town square in downtown Cairo, Egypt. The square has been the location and focus for political demonstrations. The 2011 Egyptian revolution and the resignation of President Hosni Mubarak occurred at the Tahrir Square.",
+    "description": "Town square in Downtown Cairo, Egypt",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/TahrirSQ-2020%281%29.jpg/330px-TahrirSQ-2020%281%29.jpg",
+    "lat": 30.04444444,
+    "lon": 31.23583333,
+    "es": {
+      "title": "Plaza de la Liberación",
+      "url": "https://es.wikipedia.org/wiki/Plaza_de_la_Liberaci%C3%B3n",
+      "extract": "La plaza de la Liberación o plaza Tahrir es la mayor plaza pública del centro urbano de El Cairo, Egipto. La plaza fue llamada originalmente \"Midan Ismailia\", después del mandato del virrey Ismail, quien promovió el nuevo diseño del centro urbano de El Cairo. Después de la Revolución de Egipto de 1952, que transformó a Egipto de una monarquía constitucional en una república, la plaza fue renombrada como \"Midan Tahrir\" o plaza de la Liberación, como ya se ha dicho al principio."
     }
   },
   "taipei": {
@@ -9601,6 +9755,20 @@
       "title": "Palacio de las Tullerías",
       "url": "https://es.wikipedia.org/wiki/Palacio_de_las_Tuller%C3%ADas",
       "extract": "El palacio de las Tullerías fue un palacio imperial y real situado en el centro de París, formando junto al Louvre un único complejo arquitectónico."
+    }
+  },
+  "tunis": {
+    "title": "Tunis",
+    "url": "https://en.wikipedia.org/wiki/Tunis",
+    "extract": "Tunis is the capital and largest city of Tunisia. The greater metropolitan area of Tunis, often referred to as \"Grand Tunis\", has about 2,700,000 inhabitants. As of 2020, it was the third-largest city in the Maghreb region and the fifteenth-largest in the Arab world.",
+    "description": "Capital and largest city of Tunisia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/TunisAveHabibBourguiba.jpg/330px-TunisAveHabibBourguiba.jpg",
+    "lat": 36.80638889,
+    "lon": 10.18166667,
+    "es": {
+      "title": "Túnez (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)",
+      "extract": "Túnez es la capital de la República Tunecina ininterrumpidamente desde que los almohades le dieran ese título en 1159 y la dinastía de los hafsidas confirmase su estatus en 1228. También es la capital de la gobernación homónima desde su creación, en 1956. Es el centro de las actividades industriales, comerciales, culturales y políticas del país. Está situada al norte, al final del golfo de Túnez, separada del mar por el lago de Túnez o laguna del Behira, entre la llanura costera y las colinas que la rodean. Al otro lado del lago se abre al mar un canal en La Goleta. Según el censo de 2004, en ella viven 728.453 habitantes, llamados tunecinos, lo que la convierte en la ciudad más poblada del país; esta cifra aumenta hasta 2.380.500 personas en su área metropolitana."
     }
   },
   "turin": {
