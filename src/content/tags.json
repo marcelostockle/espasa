@@ -974,6 +974,34 @@
       }
     }
   },
+  "fascism": {
+    "label": "Fascism",
+    "color": "#5c1a33",
+    "description": "The interwar movements and regimes of ultranationalist, authoritarian, anti-socialist politics that took power in Italy, Germany and elsewhere, and the conditions that let them rise.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Fascismo",
+        "description": "Los movimientos y regímenes de entreguerras de política ultranacionalista, autoritaria y antisocialista que tomaron el poder en Italia, Alemania y otros países, y las condiciones que les permitieron crecer."
+      }
+    }
+  },
+  "fascist-italy": {
+    "label": "Fascist Italy",
+    "color": "#3d6b3a",
+    "description": "Italy from the rise of fascist squads in 1919-1922 to the fall of the regime in 1943: its government, institutions and policies.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Italia fascista",
+        "description": "Italia desde el auge de las escuadras fascistas en 1919-1922 hasta la caída del régimen en 1943: su gobierno, instituciones y políticas."
+      }
+    }
+  },
   "fidel-castro": {
     "label": "Fidel Castro",
     "color": "#9c2b2b",
@@ -1154,6 +1182,20 @@
       "es": {
         "label": "Gran Colombia",
         "description": "La república (1819-1831) que unió a las actuales Colombia, Venezuela, Ecuador y Panamá bajo el liderazgo de Bolívar, y su disolución."
+      }
+    }
+  },
+  "great-depression": {
+    "label": "Great Depression",
+    "color": "#9d7a5a",
+    "description": "The worldwide economic collapse that began in 1929 and its mass unemployment and political consequences in the 1930s.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Gran Depresión",
+        "description": "El colapso económico mundial que comenzó en 1929 y su desempleo masivo y consecuencias políticas en los años treinta."
       }
     }
   },
@@ -3634,6 +3676,20 @@
       }
     }
   },
+  "weimar-republic": {
+    "label": "Weimar Republic",
+    "color": "#d4b13a",
+    "description": "Germany's democratic republic of 1918-1933: its founding, crises, politics and collapse.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "República de Weimar",
+        "description": "La república democrática alemana de 1918-1933: su fundación, crisis, política y colapso."
+      }
+    }
+  },
   "westward-expansion": {
     "label": "Westward expansion",
     "color": "#a3b34a",
@@ -3659,6 +3715,20 @@
       "es": {
         "label": "Winston Churchill",
         "description": "Estadista británico, primer ministro en 1940-1945 y 1951-1955, figura destacada de la alianza de guerra y de los inicios de la Guerra Fría."
+      }
+    }
+  },
+  "world-war-i": {
+    "label": "First World War",
+    "color": "#7a7a52",
+    "description": "The war of 1914-1918 and its immediate revolutions, treaties and aftermath.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Primera Guerra Mundial",
+        "description": "La guerra de 1914-1918 y sus revoluciones, tratados y secuelas inmediatas."
       }
     }
   },

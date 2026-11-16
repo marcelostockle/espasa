@@ -7347,6 +7347,20 @@
       "extract": "La batalla del Riachuelo fue un enfrentamiento naval ocurrido en el marco de la guerra de la Triple Alianza poco después de la invasión paraguaya de Corrientes. Fue una de las más importantes y decisivas batallas de esta guerra. La victoria de la Marina de Brasil sobre la escuadra del Paraguay determinó el aislamiento definitivo del Paraguay, imposibilitado desde entonces hasta el fin de la guerra de comunicarse por el río Paraná con ninguna nación que no fuera enemiga del Paraguay."
     }
   },
+  "rijeka": {
+    "title": "Rijeka",
+    "url": "https://en.wikipedia.org/wiki/Rijeka",
+    "extract": "Rijeka is the principal seaport and the third-largest city in Croatia. It is located in Primorje-Gorski Kotar County on Kvarner Bay, an inlet of the Adriatic Sea and in 2021 had a population of 107,964 inhabitants. Historically, because of its strategic position and its excellent deep-water port, the city was fiercely contested, especially between the Holy Roman Empire, the Republic of Venice, the Kingdom of Italy and Yugoslavia, changing rulers and demographics many times over centuries. According to the 2021 census data, 85% of its citizens are Croats, along with small numbers of Serbs, Bosniaks and Italians.",
+    "description": "City in Primorje-Gorski Kotar County, Croatia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Rijeka_Riva_promenade_aerial.jpg/330px-Rijeka_Riva_promenade_aerial.jpg",
+    "lat": 45.32722222,
+    "lon": 14.44111111,
+    "es": {
+      "title": "Rijeka",
+      "url": "https://es.wikipedia.org/wiki/Rijeka",
+      "extract": "Rijeka es una ciudad de Croacia ubicada en el interior de la bahía de Carnaro. Alberga el principal puerto de Croacia. Es una ciudad universitaria y además sede de arzobispado. La ciudad cuenta con uno de los teatros nacionales. Tiene 144 043 habitantes, lo que la convierte en la tercera ciudad más poblada del país. Es capital del condado de Litoraneo-montana. La economía de la ciudad depende del transporte marítimo, los astilleros y el turismo."
+    }
+  },
   "rijswijk": {
     "title": "Rijswijk",
     "url": "https://en.wikipedia.org/wiki/Rijswijk",
@@ -7484,6 +7498,20 @@
       "title": "Rubicón (río)",
       "url": "https://es.wikipedia.org/wiki/Rubic%C3%B3n_(r%C3%ADo)",
       "extract": "El Rubicón es un río poco profundo de régimen torrencial del nordeste de Italia, que discurre por la provincia de Forlì-Cesena y desemboca en el mar Adriático. Parece que el nombre deriva del color del agua, ya que discurre por una región arcillosa, que la tiñe de un color rubí."
+    }
+  },
+  "ruhr": {
+    "title": "Ruhr",
+    "url": "https://en.wikipedia.org/wiki/Ruhr",
+    "extract": "The Ruhr area, also referred to as the Ruhr District, Ruhr Region, or Ruhr Valley, is a polycentric urban area in North Rhine-Westphalia, Germany. With a population density of 1,160/km2 and a population of over 5 million (2017), it is the largest urban area in Germany and the third largest in the European Union. It consists of several large cities bordered by the rivers Ruhr to the south, Rhine to the west, and Lippe to the north. In the southwest it borders the Bergisches Land. It is considered part of the larger Rhine-Ruhr metropolitan region of more than 10 million people, which is the third largest in Western Europe, behind only London and Paris.",
+    "description": "Urban area in North Rhine-Westphalia, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Locator_map_RVR_in_Germany.svg/330px-Locator_map_RVR_in_Germany.svg.png",
+    "lat": 51.5,
+    "lon": 7.25,
+    "es": {
+      "title": "Región del Ruhr",
+      "url": "https://es.wikipedia.org/wiki/Regi%C3%B3n_del_Ruhr",
+      "extract": "La región del Ruhr, también conocida como cuenca minera del Ruhr, es una de las áreas metropolitanas más pobladas de Alemania, con 5 millones de habitantes y a su vez, forma parte de la macrorregión metropolitana del Rin-Ruhr, con una población total de 10 millones. Se encuentra en el corazón del estado federado/land de Renania del Norte-Westfalia, a lo largo de la cuenca final del río Ruhr."
     }
   },
   "ruijin": {
@@ -9689,6 +9717,18 @@
     "extract": "The Wadi el-Hol inscriptions are two rock inscriptions which appear to show some of the oldest examples of phonetic alphabetic writing discovered to date.",
     "description": "Inscriptions on the Nile River's west bank",
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wadi_el-Hol_inscriptions_II_drawing.jpg/330px-Wadi_el-Hol_inscriptions_II_drawing.jpg"
+  },
+  "wall-street": {
+    "title": "Wall Street",
+    "url": "https://en.wikipedia.org/wiki/Wall_Street",
+    "extract": "Wall Street is a street in the Financial District of Lower Manhattan in New York City. It runs eight city blocks between Broadway in the west and South Street and the East River in the east with a length of just under 2,000 feet. The term \"Wall Street\" has become a metonym for the New York Stock Exchange (NYSE) and its reports of NYSE-listed companies, financial markets of the United States, American financial services industry, New York-based financial interests, or the Financial District. Anchored by Wall Street, New York has been described as the world's principal fintech and financial center.",
+    "description": "Street in Manhattan, New York",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg",
+    "es": {
+      "title": "Wall Street",
+      "url": "https://es.wikipedia.org/wiki/Wall_Street",
+      "extract": "Wall Street es una calle de ocho cuadras de largo en el distrito financiero de Lower Manhattan en la ciudad de Nueva York, Estados Unidos. Va desde Broadway en el oeste hasta South Street y el East River en el este. El término \"Wall Street\" se ha convertido en una metonimia para los mercados financieros de los Estados Unidos en su conjunto, la industria estadounidense de servicios financieros, los intereses financieros con sede en Nueva York o el propio Distrito Financiero de esa ciudad."
+    }
   },
   "wannsee": {
     "title": "Wannsee",

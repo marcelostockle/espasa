@@ -4832,6 +4832,15 @@
       }
     }
   },
+  "rijeka": {
+    "label": "Rijeka",
+    "wikipedia": "Rijeka",
+    "translations": {
+      "es": {
+        "label": "Rijeka"
+      }
+    }
+  },
   "rijswijk": {
     "label": "Ryswick",
     "wikipedia": "Rijswijk",
@@ -4919,6 +4928,15 @@
     "translations": {
       "es": {
         "label": "Rubicón"
+      }
+    }
+  },
+  "ruhr": {
+    "label": "Ruhr",
+    "wikipedia": "Ruhr",
+    "translations": {
+      "es": {
+        "label": "Ruhr"
       }
     }
   },
@@ -6377,6 +6395,15 @@
     "translations": {
       "es": {
         "label": "Wadi el-Hol"
+      }
+    }
+  },
+  "wall-street": {
+    "label": "Wall Street",
+    "wikipedia": "Wall Street",
+    "translations": {
+      "es": {
+        "label": "Wall Street"
       }
     }
   },
