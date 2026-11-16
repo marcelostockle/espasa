@@ -772,6 +772,20 @@
       "extract": "Azua es un municipio de la República Dominicana, que está situado en la provincia de Azua, de la que es la capital."
     }
   },
+  "babi-yar": {
+    "title": "Babi Yar",
+    "url": "https://en.wikipedia.org/wiki/Babi_Yar",
+    "extract": "Babi Yar or Babyn Yar is a ravine in the Ukrainian capital Kyiv and a site of massacres carried out by Nazi Germany's forces during its campaign against the Soviet Union in World War II. The first and best documented of the massacres took place on 29–30 September 1941, in which some 33,771 Jews were murdered. Other victims of massacres at the site included Soviet prisoners of war, communists and Romanies. It is estimated that a total of between 100,000 and 150,000 people were murdered at Babi Yar during the German occupation.",
+    "description": "Ravine and massacre site in Kyiv, Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Babi_Yar-06-194.jpg/330px-Babi_Yar-06-194.jpg",
+    "lat": 50.47138889,
+    "lon": 30.44888889,
+    "es": {
+      "title": "Babi Yar",
+      "url": "https://es.wikipedia.org/wiki/Babi_Yar",
+      "extract": "Babi Yar es un barranco a las afueras de Kiev, capital de Ucrania, utilizado por los nazis para perpetrar varias masacres durante su campaña contra la Unión Soviética, en la Segunda Guerra Mundial."
+    }
+  },
   "babylon": {
     "title": "Babylon",
     "url": "https://en.wikipedia.org/wiki/Babylon",
@@ -1990,6 +2004,20 @@
       "extract": "Cheb es una ciudad checa de 33.256 habitantes. Está situada en la región de Karlovy Vary, junto al río Ohře, al pie de los montes Smrčiny y cerca de la frontera con Alemania. Antes de 1945 la ciudad era el centro de la región conocida como Egerland, de habla alemana, dentro del área de influencia de los dialectos austrobávaros."
     }
   },
+  "chelmno": {
+    "title": "Chełmno extermination camp",
+    "url": "https://en.wikipedia.org/wiki/Che%C5%82mno_extermination_camp",
+    "extract": "Chełmno, or Kulmhof, was the first of Nazi Germany's extermination camps and was situated 50 km (31 mi) north of Łódź, near the village of Chełmno nad Nerem. Following the invasion of Poland in 1939, Germany annexed the area into the new territory of Reichsgau Wartheland. The camp, which was specifically intended for no other purpose than mass murder, operated from December 8, 1941, to April 11, 1943, parallel to Operation Reinhard during the deadliest phase of the Holocaust, and again from June 23, 1944, to January 18, 1945, during the Soviet counter-offensive. In 1943, modifications were made to the camp's killing methods as the reception building had already been dismantled.",
+    "description": "Nazi extermination camp in Poland (1941–1945)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Chelmno2%28pischmak%29.JPG/330px-Chelmno2%28pischmak%29.JPG",
+    "lat": 52.1542,
+    "lon": 18.7231,
+    "es": {
+      "title": "Chelmno (campo de exterminio)",
+      "url": "https://es.wikipedia.org/wiki/Chelmno_(campo_de_exterminio)",
+      "extract": "Chełmno fue un campo de exterminio de la Alemania nazi, situado cerca de una pequeña villa llamada Chełmno nad Nerem, a 70 km de Lodz, en una región anexada e incorporada a Alemania en 1939 con el nombre de Reichsgau Wartheland. Fue el primer campo de exterminio, abierto en 1941 para matar a los judíos del gueto de Lodz y Warthegau, y el primer lugar en la historia del Holocausto donde se usó gas venenoso."
+    }
+  },
   "chernobyl": {
     "title": "Chernobyl",
     "url": "https://en.wikipedia.org/wiki/Chernobyl",
@@ -2506,6 +2534,20 @@
       "extract": "Cirene fue una antigua ciudad griega —situada en la actual Libia—, la más importante de la Pentápolis, las cinco colonias griegas de la región, a la que dio el nombre de Cirenaica, utilizado todavía hoy en día."
     }
   },
+  "dachau": {
+    "title": "Dachau concentration camp",
+    "url": "https://en.wikipedia.org/wiki/Dachau_concentration_camp",
+    "extract": "Dachau was one of the first concentration camps built by Nazi Germany and the longest-running one, opening on 22 March 1933. The camp was initially intended to intern the Nazi Party's political opponents, which consisted of communists, social democrats, and other dissidents. It was located on the grounds of an abandoned munitions factory northeast of the medieval town of Dachau, about 16 km (10 mi) northwest of Munich in the Gau Munich-Upper Bavaria, in Southern Germany. After its opening by Heinrich Himmler, its purpose was enlarged to include forced labor, and eventually, the imprisonment of Jews, Romani, Germans, and Austrians that the Nazi Party regarded as criminals, and, finally, foreign nationals from countries that Germany occupied or invaded. The Dachau camp system grew to include nearly one hundred sub-camps (see below), which were mostly work camps or arbeitskommandos, and were located throughout southern Germany and Austria. The main camp was liberated by U.S. forces on 29 April 1945. Dachau was the third concentration camp to be liberated by British or American Allied forces.",
+    "description": "Nazi concentration camp in Germany (1933–1945)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/KZDachau1945.jpg/330px-KZDachau1945.jpg",
+    "lat": 48.26888889,
+    "lon": 11.46861111,
+    "es": {
+      "title": "Campo de concentración de Dachau",
+      "url": "https://es.wikipedia.org/wiki/Campo_de_concentraci%C3%B3n_de_Dachau",
+      "extract": "El campo de concentración de Dachau fue un campo de concentración nazi cercano al pueblo de Dachau, a 13 km al noroeste de Múnich, en Baviera."
+    }
+  },
   "dadu": {
     "title": "Dadu (Beijing)",
     "url": "https://en.wikipedia.org/wiki/Dadu_(Beijing)",
@@ -2848,6 +2890,20 @@
       "title": "Eretria",
       "url": "https://es.wikipedia.org/wiki/Eretria",
       "extract": "Eretria fue una ciudad de la Antigua Grecia, localizada en la costa occidental de la isla de Eubea, enfrente de la costa del Ática al otro lado del estrecho golfo de Eubea. Hay una moderna ciudad griega con el mismo nombre en el lugar antiguo. El actual municipio de Eretria contaba en 2011 con una población de 13053 habitantes y la población de la unidad municipal ascendía a 6330."
+    }
+  },
+  "evian-les-bains": {
+    "title": "Évian-les-Bains",
+    "url": "https://en.wikipedia.org/wiki/%C3%89vian-les-Bains",
+    "extract": "Évian-les-Bains, or simply Évian, is a commune in Eastern France, by the Swiss border. It is located in the northern part of the Haute-Savoie department in the Auvergne-Rhône-Alpes region.",
+    "description": "Commune in Auvergne-Rhône-Alpes, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Evian-les-Bains_%28Haute-Savoie%29_%2810055387844%29.jpg/330px-Evian-les-Bains_%28Haute-Savoie%29_%2810055387844%29.jpg",
+    "lat": 46.3833,
+    "lon": 6.5833,
+    "es": {
+      "title": "Évian-les-Bains",
+      "url": "https://es.wikipedia.org/wiki/%C3%89vian-les-Bains",
+      "extract": " Évian-les-Bains  es una comuna de Francia, en la región de Auvernia-Ródano-Alpes, departamento de Alta Saboya, en el distrito de Thonon-les-Bains. Es la cabecera y mayor población del cantón homónimo. Évian-les-Bains está cerca de la frontera con Suiza, y la ciudad de Ginebra se encuentra a solo 41 kilómetros al suroeste, bordeando el lago Lemán."
     }
   },
   "ferapontov-monastery": {
@@ -5094,6 +5150,20 @@
       "title": "Mato Grosso",
       "url": "https://es.wikipedia.org/wiki/Mato_Grosso",
       "extract": "Mato Grosso es uno de los veintiséis estados que, junto con el distrito federal, forman la República Federativa de Brasil. Se ubica en la región Centro-Oeste del país, tiene como límites: Amazonas y Pará al norte, Tocantíns al noreste, Goiás al este, Mato Grosso del Sur, al sur, y Rondonia y el Estado Plurinacional de Bolivia al noroeste. Con 903 358 km² es el tercer estado más extenso —por detrás de Amazonas y Pará— y con 3,58 hab/km², el tercero menos densamente poblado, por delante de Amazonas y Roraima, el menos densamente poblado. El estado, que tiene el 1,66% de la población brasileña, es responsable del 1,9% del PIB brasileño. Su capital es Cuiabá."
+    }
+  },
+  "mauthausen": {
+    "title": "Mauthausen concentration camp",
+    "url": "https://en.wikipedia.org/wiki/Mauthausen_concentration_camp",
+    "extract": "Mauthausen was a Nazi concentration camp on a hill above the market town of Mauthausen in Upper Austria. It was the main camp of a group with nearly 100 further subcamps located throughout Austria and southern Germany. The Nazi Mauthausen concentration camp was established in 1938 in the same municipality where the Austro-Hungarian WWI POW camp had previously operated, holding a total of around 40,000 prisoners, out of whom 8,256 Serbs and up to 5,000 Italians died from 1915 to 1918.",
+    "description": "Nazi concentration camp in Austria (1938–1945)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/New_arrivals_to_Mauthausen_standing_against_a_wall.jpg/330px-New_arrivals_to_Mauthausen_standing_against_a_wall.jpg",
+    "lat": 48.25694444,
+    "lon": 14.50111111,
+    "es": {
+      "title": "Campo de concentración de Mauthausen-Gusen",
+      "url": "https://es.wikipedia.org/wiki/Campo_de_concentraci%C3%B3n_de_Mauthausen-Gusen",
+      "extract": "El campo de concentración de Mauthausen fue un grupo de campos de concentración nazis situados en torno a la pequeña empresa y cantera, de la población de Mauthausen en Austria, a unos 20 km de Linz.\nAl principio había un solo campo en Mauthausen, pero con el tiempo se expandió hasta convertirse en uno de los complejos de campos de concentración más grandes de la zona nazi de Europa. Aparte de los cuatro subcampos en Mauthausen y la cercana Gusen, más de 50 subcampos, localizados por toda Austria y el sur de Alemania, utilizaron a los ocupantes como esclavos. Algunos campos subordinados al complejo de Mauthausen incluían fábricas de munición, minas, fábricas de armamento y plantas de ensamblaje del avión Me 262."
     }
   },
   "mecca": {
@@ -8084,6 +8154,20 @@
       "extract": "Sopron es una ciudad de Hungría. Tiene una población estimada, a inicios de 2021, de 62 900 habitantes."
     }
   },
+  "sosua": {
+    "title": "Sosúa",
+    "url": "https://en.wikipedia.org/wiki/Sos%C3%BAa",
+    "extract": "Sosúa is a beach town and municipality in the Puerto Plata Province of the Dominican Republic. The Gregorio Luperón International Airport is located in the western part of the municipality.",
+    "description": "Municipality in Puerto Plata, Dominican Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Sosua_Beach_Dominican_Republic.jpg/330px-Sosua_Beach_Dominican_Republic.jpg",
+    "lat": 19.75,
+    "lon": -70.52,
+    "es": {
+      "title": "Sosúa",
+      "url": "https://es.wikipedia.org/wiki/Sos%C3%BAa",
+      "extract": "Sosúa es un municipio de la República Dominicana, que está situado en la Provincia de Puerto Plata."
+    }
+  },
   "south-seas-mandate": {
     "title": "South Seas Mandate",
     "url": "https://en.wikipedia.org/wiki/South_Seas_Mandate",
@@ -9305,6 +9389,20 @@
       "extract": "El Palacio de Versalles es una antigua residencia real construida por el rey Luis XIV situada en Versalles, a unos 19 kilómetros al oeste de París (Francia). El palacio es propiedad de la República Francesa y desde 1995 está gestionado, bajo la dirección del Ministerio de Cultura francés, por el Establecimiento Público del Palacio, Museo y Dominio Nacional de Versalles. Alrededor de 15 millones de personas visitan cada año el palacio, el parque o los jardines de Versalles, lo que lo convierte en una de las atracciones turísticas más populares del mundo."
     }
   },
+  "vichy": {
+    "title": "Vichy",
+    "url": "https://en.wikipedia.org/wiki/Vichy",
+    "extract": "Vichy is a city in the central French department of Allier. Located on the Allier river, it is a major spa and resort town and during World War II was the de facto administrative capital of Vichy France. Its population is about 25,000.",
+    "description": "City in central France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2023-07-23_-_vue_sur_Vichy.jpg/330px-2023-07-23_-_vue_sur_Vichy.jpg",
+    "lat": 46.1278,
+    "lon": 3.4267,
+    "es": {
+      "title": "Vichy",
+      "url": "https://es.wikipedia.org/wiki/Vichy",
+      "extract": "Vichy (/vi.'ʃi/) es una ciudad y comuna francesa situada en el departamento de Allier, de la región de Auvernia-Ródano-Alpes. Durante la Segunda Guerra Mundial fue la sede del gobierno de la Francia de Vichy entre 1940 y 1944."
+    }
+  },
   "vienna": {
     "title": "Vienna",
     "url": "https://en.wikipedia.org/wiki/Vienna",
@@ -9409,6 +9507,20 @@
       "title": "Vladivostok",
       "url": "https://es.wikipedia.org/wiki/Vladivostok",
       "extract": "Vladivostok es una ciudad portuaria de Rusia ubicada en el Extremo Oriente Ruso, capital del Distrito federal del Extremo Oriente y centro administrativo del Krai de Primorie. La ciudad se encuentra muy próxima a la frontera rusa con China y Corea del Norte, a 9302 km de Moscú y es el puerto ruso más importante del océano Pacífico. La población de la ciudad era de 592 069 habitantes según el censo de 2010."
+    }
+  },
+  "volga": {
+    "title": "Volga",
+    "url": "https://en.wikipedia.org/wiki/Volga",
+    "extract": "The Volga is the longest river in Europe and the longest endorheic basin river in the world. Situated in Russia, it flows through Central Russia to Southern Russia and into the Caspian Sea. The Volga has a length of 3,531 km (2,194 mi), and a catchment area of 1,360,000 km2 (530,000 sq mi). It is also Europe's largest river in terms of average discharge at delta – between 8,000 and 8,500 cubic metres per second – and of drainage basin. It is widely regarded as the national river of Russia. The hypothetical old Russian state, the Rus' Khaganate, arose along the Volga c. 830 AD. Historically, the river served as an important meeting place of various Eurasian civilizations.",
+    "description": "River in Russia; longest river in Europe",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Yaroslavl._Volga_River._Cathedral_of_the_Dormition_P5212700_2200.jpg/330px-Yaroslavl._Volga_River._Cathedral_of_the_Dormition_P5212700_2200.jpg",
+    "lat": 45.695,
+    "lon": 47.8975,
+    "es": {
+      "title": "Volga",
+      "url": "https://es.wikipedia.org/wiki/Volga",
+      "extract": "El Volga es un río de la Rusia europea que, con sus 3645 km, es el río más largo de Europa y el 15.º más largo del mundo. Administrativamente, recorre diez óblasts —Tver, Yaroslavl, Kostromá, Ivánovo, Nizhni Nóvgorod, Uliánovsk, Samara, Sarátov, Volgogrado y Astracán— y 3 repúblicas —Mari-El, Chuvasia y Tartaristán."
     }
   },
   "volsinii": {
@@ -9519,6 +9631,20 @@
       "title": "Abadía de Westminster",
       "url": "https://es.wikipedia.org/wiki/Abad%C3%ADa_de_Westminster",
       "extract": "La abadía de Westminster, formalmente colegiata de San Pedro en Westminster, es una gran iglesia abacial de estilo predominantemente gótico situada en la Ciudad de Westminster de Londres, justo al oeste del Palacio de Westminster. Es uno de los edificios religiosos más significativos del Reino Unido y el lugar de sepultura de numerosos monarcas ingleses y, posteriormente, británicos. Desde la coronación de Guillermo el Conquistador en 1066, las coronaciones de todos los monarcas ingleses y británicos se han realizado en la abadía de Westminster. Desde 1100, se han celebrado dieciséis bodas reales en la abadía."
+    }
+  },
+  "wielun": {
+    "title": "Wieluń",
+    "url": "https://en.wikipedia.org/wiki/Wielu%C5%84",
+    "extract": "Wieluń is a town in south-central Poland with 21,624 inhabitants (2021). The town is the seat of the Gmina Wieluń and Wieluń County, and is located within the Łódź Voivodeship. Wieluń is a capital of the historical Wieluń Land.",
+    "description": "Town in Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Wielun_z_lotu_ptaka.jpg/330px-Wielun_z_lotu_ptaka.jpg",
+    "lat": 51.22055556,
+    "lon": 18.57,
+    "es": {
+      "title": "Wieluń",
+      "url": "https://es.wikipedia.org/wiki/Wielu%C5%84",
+      "extract": "Wieluń es una ciudad situada en el centro de Polonia. Se encuentra en el voivodato de Łódź desde 1999, ya que entre 1975 y 1998 perteneció al voivodato de Sieradz."
     }
   },
   "wittenberg": {
@@ -9701,6 +9827,20 @@
       "title": "Yavne",
       "url": "https://es.wikipedia.org/wiki/Yavne",
       "extract": "Yavne o Jamnia es una ciudad del distrito Central de Israel. Según la Oficina Central de Estadísticas de Israel (CBS), a finales de 2009 la ciudad tenía una población de 33.800 habitantes. En sus cercanías se hallan las ruinas de la antigua población de Iamnia. En tiempos del Reino de Jerusalén, se le conocía como Ibelín."
+    }
+  },
+  "yellow-river": {
+    "title": "Yellow River",
+    "url": "https://en.wikipedia.org/wiki/Yellow_River",
+    "extract": "The Yellow River, also known as Huang He, is the second-longest river in China and the sixth-longest in the world, with an estimated length of 5,464 km (3,395 mi) and a drainage basin of 795,000 km2 (307,000 sq mi). Beginning in the Bayan Har Mountains, the river flows generally eastwards before entering the 1,500 km (930 mi) long Ordos Loop, which runs northeast at Gansu through the Ordos Plateau and turns east in Inner Mongolia. The river then turns sharply southwards to form the border between Shanxi and Shaanxi, turns eastwards at its confluence with the Wei River, and flows across the North China Plain before emptying into the Bohai Sea. The river is named for the yellow color of its water, which comes from the large amount of sediment discharged into the water as the river flows through the Loess Plateau.",
+    "description": "Major river in China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Yellow_River_-_panoramio.jpg/330px-Yellow_River_-_panoramio.jpg",
+    "lat": 37.763,
+    "lon": 119.162,
+    "es": {
+      "title": "Río Amarillo",
+      "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Amarillo",
+      "extract": "El río Amarillo es un largo río del centro de China que fluye principalmente en dirección este, a través de las provincias de Qinghai, Gansu, Henan, Shandong, Shanxi y Shaanxi, y las regiones autónomas de Mongolia Interior y Ningxia, hasta desaguar en el mar de Bohai. Tiene una longitud de 5464 km, que lo sitúa como el sexto río más largo del mundo, por detrás del Amazonas, Nilo, Yangtsé, el Misisipi-Misuri y el Yeniséi-Angará."
     }
   },
   "yodfat": {

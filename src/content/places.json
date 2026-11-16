@@ -503,6 +503,15 @@
       }
     }
   },
+  "babi-yar": {
+    "label": "Babi Yar",
+    "wikipedia": "Babi Yar",
+    "translations": {
+      "es": {
+        "label": "Babi Yar"
+      }
+    }
+  },
   "babylon": {
     "label": "Babylon",
     "wikipedia": "Babylon",
@@ -1313,6 +1322,15 @@
       }
     }
   },
+  "chelmno": {
+    "label": "Chełmno extermination camp",
+    "wikipedia": "Chełmno extermination camp",
+    "translations": {
+      "es": {
+        "label": "Chełmno"
+      }
+    }
+  },
   "chernobyl": {
     "label": "Chernobyl",
     "wikipedia": "Chernobyl",
@@ -1646,6 +1664,15 @@
       }
     }
   },
+  "dachau": {
+    "label": "Dachau",
+    "wikipedia": "Dachau",
+    "translations": {
+      "es": {
+        "label": "Dachau"
+      }
+    }
+  },
   "dadu": {
     "label": "Dadu (Khanbaliq)",
     "wikipedia": "Khanbaliq",
@@ -1868,6 +1895,15 @@
     "translations": {
       "es": {
         "label": "Eretria"
+      }
+    }
+  },
+  "evian-les-bains": {
+    "label": "Évian-les-Bains",
+    "wikipedia": "Évian-les-Bains",
+    "translations": {
+      "es": {
+        "label": "Évian-les-Bains"
       }
     }
   },
@@ -3353,6 +3389,15 @@
     "translations": {
       "es": {
         "label": "Mato Grosso"
+      }
+    }
+  },
+  "mauthausen": {
+    "label": "Mauthausen concentration camp",
+    "wikipedia": "Mauthausen concentration camp",
+    "translations": {
+      "es": {
+        "label": "Mauthausen"
       }
     }
   },
@@ -5318,6 +5363,15 @@
       }
     }
   },
+  "sosua": {
+    "label": "Sosúa",
+    "wikipedia": "Sosúa",
+    "translations": {
+      "es": {
+        "label": "Sosúa"
+      }
+    }
+  },
   "south-seas-mandate": {
     "label": "South Seas Mandate",
     "wikipedia": "South Seas Mandate",
@@ -6119,6 +6173,15 @@
       }
     }
   },
+  "vichy": {
+    "label": "Vichy",
+    "wikipedia": "Vichy",
+    "translations": {
+      "es": {
+        "label": "Vichy"
+      }
+    }
+  },
   "vienna": {
     "label": "Vienna",
     "wikipedia": "Vienna",
@@ -6188,6 +6251,15 @@
     "translations": {
       "es": {
         "label": "Vladivostok"
+      }
+    }
+  },
+  "volga": {
+    "label": "Volga River",
+    "wikipedia": "Volga River",
+    "translations": {
+      "es": {
+        "label": "Volga"
       }
     }
   },
@@ -6269,6 +6341,15 @@
     "translations": {
       "es": {
         "label": "Abadía de Westminster"
+      }
+    }
+  },
+  "wielun": {
+    "label": "Wieluń",
+    "wikipedia": "Wieluń",
+    "translations": {
+      "es": {
+        "label": "Wieluń"
       }
     }
   },
@@ -6386,6 +6467,15 @@
     "translations": {
       "es": {
         "label": "Yavné (Jamnia)"
+      }
+    }
+  },
+  "yellow-river": {
+    "label": "Yellow River",
+    "wikipedia": "Yellow River",
+    "translations": {
+      "es": {
+        "label": "Río Amarillo"
       }
     }
   },

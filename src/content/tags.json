@@ -960,6 +960,20 @@
       }
     }
   },
+  "famine": {
+    "label": "Famine",
+    "color": "#a57f3a",
+    "description": "Mass starvation caused or worsened by war, blockade, requisition or policy.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Hambrunas",
+        "description": "Hambre masiva causada o agravada por la guerra, el bloqueo, las requisas o las políticas."
+      }
+    }
+  },
   "fidel-castro": {
     "label": "Fidel Castro",
     "color": "#9c2b2b",
@@ -999,6 +1013,20 @@
       "es": {
         "label": "Primera guerra sino-japonesa",
         "description": "La guerra de 1894-1895 entre Japón y la China Qing por Corea, que dio a Japón Taiwán y un lugar entre las grandes potencias."
+      }
+    }
+  },
+  "forced-displacement": {
+    "label": "Forced displacement",
+    "color": "#3a9ab8",
+    "description": "Deportations, expulsions, internment and flight that uproot civilians from their homes, and the refugee relief that followed.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Desplazamientos forzosos",
+        "description": "Deportaciones, expulsiones, internamientos y huidas que arrancan a los civiles de sus hogares, y el socorro a refugiados que siguió."
       }
     }
   },
@@ -1368,6 +1396,20 @@
       }
     }
   },
+  "holocaust": {
+    "label": "The Holocaust",
+    "color": "#6d6d9a",
+    "description": "The Nazi persecution and mass murder of Europe's Jews and other targeted groups, from discriminatory laws to ghettos, camps and killing sites, and its aftermath.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "El Holocausto",
+        "description": "La persecución y el asesinato masivo de los judíos de Europa y otros grupos por los nazis, desde las leyes discriminatorias hasta los guetos, campos y lugares de exterminio, y sus consecuencias."
+      }
+    }
+  },
   "holy-roman-empire": {
     "label": "Holy Roman Empire",
     "color": "#ce93d8",
@@ -1379,6 +1421,20 @@
       "es": {
         "label": "Sacro Imperio Romano Germánico",
         "description": "El Imperio de las tierras alemanas y sus emperadores, hasta 1806."
+      }
+    }
+  },
+  "home-front": {
+    "label": "Home front",
+    "color": "#e0a38a",
+    "description": "Daily life, labour, rationing, evacuation and policy on the civilian side of a war.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Frente interno",
+        "description": "La vida cotidiana, el trabajo, el racionamiento, la evacuación y las políticas del lado civil de una guerra."
       }
     }
   },
@@ -2203,6 +2259,20 @@
       "es": {
         "label": "OTAN",
         "description": "La Organización del Tratado del Atlántico Norte, la alianza militar occidental fundada en 1949, y su composición y estructura."
+      }
+    }
+  },
+  "nazi-germany": {
+    "label": "Nazi Germany",
+    "color": "#2f3b2a",
+    "description": "Germany under Hitler's Nazi regime (1933-1945): its government, policies, occupation of Europe and crimes.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Alemania nazi",
+        "description": "Alemania bajo el régimen nazi de Hitler (1933-1945): su gobierno, políticas, ocupación de Europa y crímenes."
       }
     }
   },
@@ -3216,6 +3286,20 @@
       "es": {
         "label": "Esparta",
         "description": "La ciudad-estado de Esparta: su constitución, los ilotas y el ejército, y sus guerras y ligas."
+      }
+    }
+  },
+  "strategic-bombing": {
+    "label": "Strategic bombing",
+    "color": "#8c4f6e",
+    "description": "Air campaigns against cities and civilian populations, from the 1930s to the end of the Second World War.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Bombardeo estratégico",
+        "description": "Campañas aéreas contra ciudades y poblaciones civiles, desde los años treinta hasta el final de la Segunda Guerra Mundial."
       }
     }
   },
