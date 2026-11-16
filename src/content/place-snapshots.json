@@ -69,6 +69,20 @@
       "extract": "El Álamo o la Misión de San Antonio de Valero, en su denominación original, fue la primera misión española establecida a lo largo del río San Antonio, establecida por fray Antonio de Olivares y los indios Xarames el 1 de mayo de 1718. El día 5 de mayo de 1718 se fundó la villa de Bexar, y se estableció en ella el presidio de San Antonio de Béjar y la Acequia Madre de Valero, siendo la villa el origen de la actual ciudad de San Antonio en Texas."
     }
   },
+  "albacete": {
+    "title": "Albacete",
+    "url": "https://en.wikipedia.org/wiki/Albacete",
+    "extract": "Albacete is a city and municipality in the Spanish autonomous community of Castilla–La Mancha, and capital of the province of Albacete.",
+    "description": "Municipality in Castilla–La Mancha, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Puerta_de_Hierros_de_Albacete.jpg/330px-Puerta_de_Hierros_de_Albacete.jpg",
+    "lat": 38.99555556,
+    "lon": -1.85583333,
+    "es": {
+      "title": "Albacete",
+      "url": "https://es.wikipedia.org/wiki/Albacete",
+      "extract": "Albacete es una ciudad y municipio de España en la comunidad autónoma de Castilla-La Mancha, capital de la provincia homónima. Es la capital más oriental de Castilla-La Mancha, localizada en el sureste de la península ibérica en medio de una vasta campiña de un alto valor natural próxima al cerro de San Blas, sobre el que se emplaza la ciudad medieval de Chinchilla de Montearagón, en la región histórica de La Mancha de Montearagón, encuadrada en la comarca unimunicipal de Los Llanos. Es, ampliamente, la ciudad más grande y más poblada de Castilla-La Mancha, con 175 400 habitantes y la capital más poblada de la submeseta sur tras Madrid. Su área metropolitana, que asciende a 217 774 habitantes, es la mayor de Castilla-La Mancha y una de las treinta mayores aglomeraciones urbanas del país. El término municipal de Albacete es el séptimo más extenso de España, con 1125,91 km²."
+    }
+  },
   "albany-new-york": {
     "title": "Albany, New York",
     "url": "https://en.wikipedia.org/wiki/Albany%2C_New_York",
@@ -6441,6 +6455,20 @@
       "extract": "Ouro Preto es un municipio brasileño del estado de Minas Gerais, en la Región Sudeste del país. Está ubicado a una altitud de 1179 metros. En el censo de 2022 tenía 74 821 habitantes. Fue capital de Minas Gerais hasta el traslado de la capital a Belo Horizonte en 1897. La ciudad histórica de Ouro Preto fue inscrita en la lista del Patrimonio de la Humanidad de la Unesco el 5 de septiembre de 1980 y fue el primer bien cultural brasileño incorporado a la lista."
     }
   },
+  "oviedo": {
+    "title": "Oviedo",
+    "url": "https://en.wikipedia.org/wiki/Oviedo",
+    "extract": "Oviedo, officially known by the bilingual name Oviedo / Uviéu is the capital city of the Principality of Asturias in northern Spain, and the administrative and commercial centre of the region. With a population of 223,576, it is also the 2nd-largest city in Asturias.",
+    "description": "Municipality in Asturias, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Catedral_de_Oviedo_03.jpg/330px-Catedral_de_Oviedo_03.jpg",
+    "lat": 43.36,
+    "lon": -5.845,
+    "es": {
+      "title": "Oviedo",
+      "url": "https://es.wikipedia.org/wiki/Oviedo",
+      "extract": "Oviedo es una ciudad española, capital del Principado de Asturias. Su origen se remonta a la Alta Edad Media —siglo VIII—, o incluso a antes, denominada en origen Ovetum. La ciudad es la capital del concejo homónimo y forma parte de la parroquia de Oviedo."
+    }
+  },
   "oxford": {
     "title": "Oxford",
     "url": "https://en.wikipedia.org/wiki/Oxford",
@@ -8909,6 +8937,20 @@
       "title": "México-Tenochtitlan",
       "url": "https://es.wikipedia.org/wiki/M%C3%A9xico-Tenochtitlan",
       "extract": "Tenochtitlan, también conocida como México-Tenochtitlan (), fue el altépetl (ciudad-estado) de la civilización mexica y capital de la Triple Alianza,de la que formaba parte junto a Tetzcuco y Tlacopan. Durante la conquista española fue destruida y se fundó sobre sus restos la Ciudad de México, que fue la capital del Virreinato de la Nueva España y luego la capital de los Estados Unidos Mexicanos."
+    }
+  },
+  "tetuan": {
+    "title": "Tétouan",
+    "url": "https://en.wikipedia.org/wiki/T%C3%A9touan",
+    "extract": "Tétouan is a city in northern Morocco. It lies along the Martil Valley and is one of the two major ports of Morocco on the Mediterranean Sea, a few miles south of the Strait of Gibraltar, and about 60 kilometres (37 mi) E.S.E. of Tangier. As of 2024, the city has an estimated population of 469,465 inhabitants. It is part of the administrative division Tanger-Tetouan-Al Hoceima.",
+    "description": "City and municipality in Tanger-Tetouan-Al Hoceima, Morocco",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Church_of_Our_Lady_of_Victory_of_T%C3%A9touan.jpg/330px-Church_of_Our_Lady_of_Victory_of_T%C3%A9touan.jpg",
+    "lat": 35.56666667,
+    "lon": -5.36666667,
+    "es": {
+      "title": "Tetuán",
+      "url": "https://es.wikipedia.org/wiki/Tetu%C3%A1n",
+      "extract": "Tetuán, en ocasiones conocida con el sobrenombre de «La paloma blanca», es una ciudad del norte de Marruecos, ubicada en las proximidades del mar Mediterráneo, cerca de Tánger y de la ciudad española de Ceuta. Cuenta con alrededor de 380 787 habitantes, según el censo de 2014. Antigua capital del protectorado español de Marruecos, en la actualidad es residencia veraniega del monarca Mohamed VI. Es la ciudad de Marruecos con más rasgos andalusíes."
     }
   },
   "texas": {

@@ -44,6 +44,15 @@
       }
     }
   },
+  "albacete": {
+    "label": "Albacete",
+    "wikipedia": "Albacete",
+    "translations": {
+      "es": {
+        "label": "Albacete"
+      }
+    }
+  },
   "albany-new-york": {
     "label": "Albany, New York",
     "wikipedia": "Albany, New York",
@@ -4238,6 +4247,15 @@
       }
     }
   },
+  "oviedo": {
+    "label": "Oviedo",
+    "wikipedia": "Oviedo",
+    "translations": {
+      "es": {
+        "label": "Oviedo"
+      }
+    }
+  },
   "oxford": {
     "label": "Oxford",
     "wikipedia": "Oxford",
@@ -5864,6 +5882,15 @@
     "translations": {
       "es": {
         "label": "México-Tenochtitlan"
+      }
+    }
+  },
+  "tetuan": {
+    "label": "Tétouan",
+    "wikipedia": "Tétouan",
+    "translations": {
+      "es": {
+        "label": "Tetuán"
       }
     }
   },

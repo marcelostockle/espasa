@@ -1117,6 +1117,20 @@
       }
     }
   },
+  "francisco-franco": {
+    "label": "Francisco Franco",
+    "color": "#6b5b3a",
+    "description": "Spanish general who led the Nationalist side in the Civil War and ruled Spain as dictator from 1939 until his death in 1975.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Francisco Franco",
+        "description": "General español que dirigió el bando nacional en la guerra civil y gobernó España como dictador desde 1939 hasta su muerte en 1975."
+      }
+    }
+  },
   "francisco-pizarro": {
     "label": "Francisco Pizarro",
     "color": "#e65100",
@@ -3204,6 +3218,20 @@
       "es": {
         "label": "Segunda Guerra Sino-Japonesa",
         "description": "La guerra entre China y Japón de 1937 a 1945, que devastó China y alteró el equilibrio entre nacionalistas y comunistas."
+      }
+    }
+  },
+  "second-spanish-republic": {
+    "label": "Second Spanish Republic",
+    "color": "#9b3d5a",
+    "description": "Spain's democratic republic of 1931-1939: its reforms, crises and defence in the Civil War.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Segunda República española",
+        "description": "La república democrática española de 1931-1939: sus reformas, crisis y defensa en la guerra civil."
       }
     }
   },
