@@ -449,6 +449,15 @@
       }
     }
   },
+  "auschwitz": {
+    "label": "Auschwitz concentration camp",
+    "wikipedia": "Auschwitz concentration camp",
+    "translations": {
+      "es": {
+        "label": "Auschwitz"
+      }
+    }
+  },
   "aventine": {
     "label": "Aventine Hill",
     "wikipedia": "Aventine Hill",
@@ -707,6 +716,15 @@
     "translations": {
       "es": {
         "label": "Benevento"
+      }
+    }
+  },
+  "bengal": {
+    "label": "Bengal",
+    "wikipedia": "Bengal",
+    "translations": {
+      "es": {
+        "label": "Bengala"
       }
     }
   },
@@ -1016,6 +1034,15 @@
       }
     }
   },
+  "burma-railway": {
+    "label": "Burma Railway",
+    "wikipedia": "Burma Railway",
+    "translations": {
+      "es": {
+        "label": "Ferrocarril de Birmania"
+      }
+    }
+  },
   "byblos": {
     "label": "Byblos",
     "wikipedia": "Byblos",
@@ -1322,6 +1349,15 @@
       }
     }
   },
+  "chechnya": {
+    "label": "Chechnya",
+    "wikipedia": "Chechnya",
+    "translations": {
+      "es": {
+        "label": "Chechenia"
+      }
+    }
+  },
   "chelmno": {
     "label": "Chełmno extermination camp",
     "wikipedia": "Chełmno extermination camp",
@@ -1571,6 +1607,15 @@
     "translations": {
       "es": {
         "label": "Creta"
+      }
+    }
+  },
+  "crimea": {
+    "label": "Crimea",
+    "wikipedia": "Crimea",
+    "translations": {
+      "es": {
+        "label": "Crimea"
       }
     }
   },
@@ -2357,6 +2402,15 @@
       }
     }
   },
+  "hanoi": {
+    "label": "Hanoi",
+    "wikipedia": "Hanoi",
+    "translations": {
+      "es": {
+        "label": "Hanói"
+      }
+    }
+  },
   "hattusa": {
     "label": "Hattusa",
     "wikipedia": "Hattusa",
@@ -2417,6 +2471,15 @@
     "translations": {
       "es": {
         "label": "Helsinki"
+      }
+    }
+  },
+  "henan": {
+    "label": "Henan",
+    "wikipedia": "Henan",
+    "translations": {
+      "es": {
+        "label": "Henan"
       }
     }
   },
@@ -3317,6 +3380,15 @@
     "translations": {
       "es": {
         "label": "Mantua"
+      }
+    }
+  },
+  "manzanar": {
+    "label": "Manzanar",
+    "wikipedia": "Manzanar",
+    "translations": {
+      "es": {
+        "label": "Manzanar"
       }
     }
   },
@@ -5516,6 +5588,15 @@
       }
     }
   },
+  "sudetenland": {
+    "label": "Sudetenland",
+    "wikipedia": "Sudetenland",
+    "translations": {
+      "es": {
+        "label": "los Sudetes"
+      }
+    }
+  },
   "suez-canal": {
     "label": "Suez Canal",
     "wikipedia": "Suez Canal",
@@ -5912,6 +5993,15 @@
       }
     }
   },
+  "treblinka": {
+    "label": "Treblinka extermination camp",
+    "wikipedia": "Treblinka extermination camp",
+    "translations": {
+      "es": {
+        "label": "Treblinka"
+      }
+    }
+  },
   "trento": {
     "label": "Trento",
     "wikipedia": "Trento",
@@ -6287,6 +6377,15 @@
     "translations": {
       "es": {
         "label": "Wadi el-Hol"
+      }
+    }
+  },
+  "wannsee": {
+    "label": "Wannsee",
+    "wikipedia": "Wannsee",
+    "translations": {
+      "es": {
+        "label": "Wannsee"
       }
     }
   },

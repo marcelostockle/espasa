@@ -688,6 +688,20 @@
       "extract": "Auhausen es un municipio situado en el distrito de Danubio-Ries, en el estado federado de Baviera (Alemania), con una población a finales de 2016 de unos 1006 habitantes."
     }
   },
+  "auschwitz": {
+    "title": "Auschwitz concentration camp",
+    "url": "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp",
+    "extract": "Auschwitz, also known as Oświęcim, was a complex of over 40 concentration and extermination camps operated by Nazi Germany in occupied Poland during World War II and the Holocaust. It consisted of Auschwitz I, the main camp (Stammlager) in Oświęcim; Auschwitz II-Birkenau, a concentration and extermination camp with gas chambers, Auschwitz III-Monowitz, a labour camp for the chemical conglomerate IG Farben, and dozens of subcamps.",
+    "description": "Nazi concentration camp in Poland (1940–1945)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Auschwitz_I_%2822_May_2010%29_b.jpg/330px-Auschwitz_I_%2822_May_2010%29_b.jpg",
+    "lat": 50.03583333,
+    "lon": 19.17833333,
+    "es": {
+      "title": "Campo de concentración de Auschwitz",
+      "url": "https://es.wikipedia.org/wiki/Campo_de_concentraci%C3%B3n_de_Auschwitz",
+      "extract": "El complejo Auschwitz estuvo formado por diversos campos de concentración y exterminio de la Alemania nazi en los territorios polacos ocupados durante la Segunda Guerra Mundial. Comprendía Auschwitz I —campo original—, Auschwitz II-Birkenau —campo de concentración y exterminio—, Auschwitz III-Monowitz —campo de trabajo para la IG Farben— y 45 campos satélites más. Su denominación oficial en alemán es «Konzentrationslager Auschwitz»."
+    }
+  },
   "aventine": {
     "title": "Aventine Hill",
     "url": "https://en.wikipedia.org/wiki/Aventine_Hill",
@@ -1087,6 +1101,18 @@
       "title": "Benevento",
       "url": "https://es.wikipedia.org/wiki/Benevento",
       "extract": "Benevento es una ciudad italiana de 57 456 habitantes, capital de la provincia homónima, en la región de Campania. La población del área urbana alcanza los 110 000 habitantes."
+    }
+  },
+  "bengal": {
+    "title": "Bengal",
+    "url": "https://en.wikipedia.org/wiki/Bengal",
+    "extract": "Bengal is a geographical, ethnolinguistic, historically geopolitical region in South Asia north of the Bay of Bengal. It is politically divided between the sovereign state of Bangladesh, the Indian state of West Bengal, and Karimganj district in the Indian state of Assam.",
+    "description": "Region in the eastern Indian subcontinent",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Map_of_Bengal_region.png/330px-Map_of_Bengal_region.png",
+    "es": {
+      "title": "Bengala",
+      "url": "https://es.wikipedia.org/wiki/Bengala",
+      "extract": "Bengala es una región situada en el noreste del subcontinente indio. Hoy en día está dividida en dos: la República de Bangladés y el estado de Bengala Occidental."
     }
   },
   "berlin": {
@@ -1531,6 +1557,20 @@
       "title": "Burgtheater",
       "url": "https://es.wikipedia.org/wiki/Burgtheater",
       "extract": "El Burgtheater, originalmente llamado K.K. Theater an der Burg, y a partir de 1920 K.K. Hofburgtheater, es el Teatro Nacional de Austria en Viena y uno de los más importantes teatros del mundo en idioma alemán. El Burgtheater fue inaugurado en 1741 y la población de Viena lo conoce por el nombre \"die Burg\"; su compañía de teatro ha creado un estilo tradicional y el decir de sus locuciones es distintivo del Burgtheater. En la actualidad el edificio que alberga al teatro se encuentra situado en la Ringstraße."
+    }
+  },
+  "burma-railway": {
+    "title": "Burma Railway",
+    "url": "https://en.wikipedia.org/wiki/Burma_Railway",
+    "extract": "The Burma Railway, also known as the Siam–Burma Railway, Thai–Burma Railway and similar names, or locally as the Death Railway, is a 415 km (258 mi) railway between Ban Pong, Thailand, and Thanbyuzayat, Burma. It was built from 1940 to 1943 by abducted Southeast Asian civilians and captured Allied soldiers forced to work by the Japanese, to supply troops and weapons in the Burma campaign of World War II. It completed the rail link between Bangkok, Thailand, and Rangoon, Burma. The name used by the Imperial Japanese Government was Tai–Men Rensetsu Tetsudō (泰緬連接鉄道), which means Thailand-Burma-Link-Railway.",
+    "description": "WWII Japanese Thai–Burma railway",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG/330px-Bridge_on_the_River_Kwai_-_tourist_plaza.JPG",
+    "lat": 14.04083333,
+    "lon": 99.50305556,
+    "es": {
+      "title": "Ferrocarril de Birmania",
+      "url": "https://es.wikipedia.org/wiki/Ferrocarril_de_Birmania",
+      "extract": "El Ferrocarril de Birmania, también conocido como el Ferrocarril de la Muerte, el Ferrocarril Tailandia-Birmania y otros nombres, era una línea de ferrocarril entre Bangkok, Tailandia y Rangún, Birmania, construida por el Imperio del Japón durante la Segunda Guerra Mundial para apoyar a sus tropas en la campaña de Birmania."
     }
   },
   "byblos": {
@@ -2004,6 +2044,20 @@
       "extract": "Cheb es una ciudad checa de 33.256 habitantes. Está situada en la región de Karlovy Vary, junto al río Ohře, al pie de los montes Smrčiny y cerca de la frontera con Alemania. Antes de 1945 la ciudad era el centro de la región conocida como Egerland, de habla alemana, dentro del área de influencia de los dialectos austrobávaros."
     }
   },
+  "chechnya": {
+    "title": "Chechnya",
+    "url": "https://en.wikipedia.org/wiki/Chechnya",
+    "extract": "Chechnya, officially the Chechen Republic, is a republic of Russia. It is situated in the North Caucasus of Eastern Europe, between the Caspian Sea and Black Sea. The republic forms a part of the North Caucasian Federal District, and shares land borders with Georgia to its south; with the Russian republics of Dagestan, Ingushetia, and North Ossetia–Alania to its east, north, and west; and with Stavropol Krai to its northwest.",
+    "description": "Republic of Russia in the North Caucasus",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Locator_map_of_Chechnya%2C_Russia_%282014%E2%80%932022%29.svg/330px-Locator_map_of_Chechnya%2C_Russia_%282014%E2%80%932022%29.svg.png",
+    "lat": 43.4,
+    "lon": 45.71666667,
+    "es": {
+      "title": "Chechenia",
+      "url": "https://es.wikipedia.org/wiki/Chechenia",
+      "extract": "Chechenia, oficialmente República de Chechenia, es una de las veinticuatro repúblicas que, junto con los cuarenta y ocho óblasts, nueve krais, cuatro distritos autónomos, tres ciudades federales y un óblast autónomo, conforman los ochenta y nueve sujetos federales de Rusia. Su capital es Grozni. Se encuentra ubicada en el norte del Cáucaso, en la parte más meridional de Europa del Este y a menos de 100 kilómetros del mar Caspio. Limita con el krai de Stávropol al noroeste, la república de Daguestán al sureste y este, Georgia al sur, y las repúblicas autónomas de Ingusetia y Alania hacia el oeste. Se encuentra ubicada en el distrito federal del Cáucaso Norte. En el censo ruso de 2010, la república contaba con una población de 1 268 989 personas, sin embargo, esa cifra ha sido cuestionada por varios demógrafos, que piensan que un crecimiento de población después de dos cruentas guerras es altamente inverosímil."
+    }
+  },
   "chelmno": {
     "title": "Chełmno extermination camp",
     "url": "https://en.wikipedia.org/wiki/Che%C5%82mno_extermination_camp",
@@ -2394,6 +2448,20 @@
       "title": "Creta",
       "url": "https://es.wikipedia.org/wiki/Creta",
       "extract": "Creta es la isla más grande y poblada de Grecia y la quinta en tamaño del mar Mediterráneo. Se encuentra aproximadamente a 100 km al sur del Peloponeso y a unos 300 km al suroeste de Anatolia. Posee una superficie de 8300 km², una línea costera de 1040 kilómetros de longitud y una población de unos 620 000 habitantes. Delimita la frontera sur del mar Egeo, con el mar de Creta al norte y el mar de Libia al sur. Creta se extiende a lo largo de 260 km de este a oeste este, pero es estrecha de norte a sur, abarcando tres grados de longitud, pero apenas medio grado de latitud."
+    }
+  },
+  "crimea": {
+    "title": "Crimea",
+    "url": "https://en.wikipedia.org/wiki/Crimea",
+    "extract": "Crimea is a peninsula in Eastern Europe, on the northern coast of the Black Sea, almost entirely surrounded by the Black Sea and the smaller Sea of Azov. The Isthmus of Perekop connects the peninsula to Kherson Oblast in mainland Ukraine. To the east, the Crimean Bridge, constructed in 2018, spans the Strait of Kerch, linking the peninsula with Krasnodar Krai in Russia. The Arabat Spit, located to the northeast, is a narrow strip of land that separates the Syvash lagoons from the Sea of Azov. Across the Black Sea to the west lies Romania and to the south is Turkey. The population is 2.4 million, and the largest city is Sevastopol. The region, internationally recognised as part of Ukraine, has been under Russian occupation since 2014.",
+    "description": "Peninsula in Europe",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Crimea_%28orthographic_projection%29.svg/330px-Crimea_%28orthographic_projection%29.svg.png",
+    "lat": 45.3,
+    "lon": 34.4,
+    "es": {
+      "title": "Crimea",
+      "url": "https://es.wikipedia.org/wiki/Crimea",
+      "extract": "Crimea es una península ubicada en la costa septentrional del mar Negro, en Europa Oriental. En la actualidad es un territorio disputado entre Rusia y Ucrania, controlado por el primero pero reconocido por la comunidad internacional como parte del segundo."
     }
   },
   "crotone": {
@@ -3580,6 +3648,20 @@
       "extract": "Hangzhou es la capital y la ciudad más grande de la provincia de Zhejiang en la República Popular China. Está situada en las riberas del río Qiantang, cerca de su desembocadura, y a la cabeza de la bahía de Hangzhou, que separa Shanghái y Ningbo. Hangzhou cobró relevancia al ser el extremo sur del Gran Canal, y ha sido una de las ciudades chinas con más renombre durante el último milenio."
     }
   },
+  "hanoi": {
+    "title": "Hanoi",
+    "url": "https://en.wikipedia.org/wiki/Hanoi",
+    "extract": "Hanoi is the capital and second-most populous centrally-governed city of Vietnam. It covers an area of 3,358.6 km2 (1,296.8 mi2), and as of 2026 has a population of 8.7 million. Hanoi had the second-highest gross regional domestic product of all Vietnamese provinces and centrally-governed cities at US$48 billion in 2023, behind Ho Chi Minh City. It hosts 83 foreign embassies, the headquarters of the Vietnam People's Army (VPA), its Vietnam National University system, and other governmental organizations. Hanoi had 18.7 million domestic and international visitors in 2022. It hosts the Imperial Citadel of Thăng Long, Ho Chi Minh Mausoleum, Hoàn Kiếm Lake, West Lake, and Ba Vì National Park near the outskirts of the municipality. Hanoi's urban area has architectural styles, including pre-colonial Vietnamese architecture, French colonial architecture, brutalist apartments and disorganized alleys and tube houses stemming from the city's growth in the 20th century.",
+    "description": "Capital and centrally-governed city of Vietnam",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hanoi_skyline_with_Ba_Vi_Mountain.jpg/330px-Hanoi_skyline_with_Ba_Vi_Mountain.jpg",
+    "lat": 21,
+    "lon": 105.85,
+    "es": {
+      "title": "Hanói",
+      "url": "https://es.wikipedia.org/wiki/Han%C3%B3i",
+      "extract": "Hanói es la capital de Vietnam, así como la segunda ciudad más grande del país tras la Ciudad Ho Chi Minh. Se encuentra en la zona norte del país, en la margen derecha del río Rojo a una distancia de aproximadamente 1760 km al norte de Ciudad Ho Chi Minh y a unos 120 km al oeste de Hải Phòng, principal puerto de Vietnam. En 2009 tenía una población estimada en 2,6 millones de habitantes en los distritos urbanos que ascendían a unos 6,5 millones en el área metropolitana."
+    }
+  },
   "hattusa": {
     "title": "Hattusa",
     "url": "https://en.wikipedia.org/wiki/Hattusa",
@@ -3671,6 +3753,18 @@
       "title": "Helsinki",
       "url": "https://es.wikipedia.org/wiki/Helsinki",
       "extract": "Helsinki es la capital y la ciudad más grande de la República de Finlandia. Está situada en la costa sur del país, a la orilla del golfo de Finlandia. Forma parte de la región de Uusimaa."
+    }
+  },
+  "henan": {
+    "title": "Henan",
+    "url": "https://en.wikipedia.org/wiki/Henan",
+    "extract": "Henan is a province in Central China. Henan is China's third-most populous province and the most populous among inland provinces, with a population of over 99 million as of 2020. The area around Henan was historically known as the Central Plains (Zhongyuan) and is considered the core region of Chinese cultural history. Four of the historical capitals of China, Luoyang, Anyang, Kaifeng and Zhengzhou, are in Henan.",
+    "description": "Province in Central China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E4%B8%BB%E7%AA%9F_-_panoramio_%281%29.jpg/330px-%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E4%B8%BB%E7%AA%9F_-_panoramio_%281%29.jpg",
+    "es": {
+      "title": "Henan",
+      "url": "https://es.wikipedia.org/wiki/Henan",
+      "extract": "Henan es una provincia de la República Popular China, ubicada en la parte central del país. Con cerca de 100 millones de habitantes es la tercera provincia más poblada del país, solo por detrás de Cantón y Shandong. Su capital es Zhengzhou."
     }
   },
   "heraclea-lucania": {
@@ -5038,6 +5132,20 @@
       "title": "Mantua",
       "url": "https://es.wikipedia.org/wiki/Mantua",
       "extract": "Mantua es una ciudad italiana ubicada en la región de Lombardía, capital de la provincia homónima. Está rodeada en tres de sus lados por el río Mincio. Centro agrícola y turístico, posee fábricas que producen maquinaria agrícola, fertilizantes, muebles, calzado y juguetes. Es el escenario de la ópera Rigoletto. Mantua fue nombrada Capital de la Cultura Italiana en 2016."
+    }
+  },
+  "manzanar": {
+    "title": "Manzanar",
+    "url": "https://en.wikipedia.org/wiki/Manzanar",
+    "extract": "Manzanar is the site of one of ten American concentration camps, where more than 120,000 Japanese Americans were incarcerated during World War II, from March 1942 to November 1945. Although it had over 10,000 inmates at its peak, Manzanar was one of the smaller internment camps. It is located in California's Owens Valley, on the eastern side of the Sierra Nevada mountains, between the towns of Lone Pine to the south and Independence to the north, approximately 230 miles (370 km) north of Los Angeles. Manzanar means \"apple orchard\" in Spanish. The Manzanar National Historic Site, which preserves and interprets the legacy of Japanese American incarceration in the United States, was identified by the United States National Park Service as the best-preserved of the ten former camp sites.",
+    "description": "World War II internment camp in California, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Manzanar_Relocation_Center%2C_Manzanar%2C_California._Street_scene_of_barrack_homes..._-_NARA_-_538128_-_restored.png/330px-Manzanar_Relocation_Center%2C_Manzanar%2C_California._Street_scene_of_barrack_homes..._-_NARA_-_538128_-_restored.png",
+    "lat": 36.72833333,
+    "lon": -118.15444444,
+    "es": {
+      "title": "Manzanar",
+      "url": "https://es.wikipedia.org/wiki/Manzanar",
+      "extract": "Manzanar es el más conocido de los diez campos de concentración estadounidenses, donde más de 110.000 nikkei estadounidenses fueron encarcelados durante la Segunda Guerra Mundial. Está ubicado a los pies de la Sierra Nevada en el valle Owens, California, y entre los poblados de Lone Pine, al sur, e Independence, al norte, aproximadamente a 370 kilómetros al noreste de Los Ángeles."
     }
   },
   "marathon": {
@@ -8382,6 +8490,18 @@
       "extract": "Sucre, oficialmente La Ilustre y Heroica Sucre, es la capital oficial de Bolivia. Es además la sede del Poder Judicial del país e igualmente es capital del departamento de Chuquisaca. La ciudad ha sido designada Patrimonio de la Humanidad por la Unesco en 1991. Según datos del censo INE 2024, el municipio de Sucre cuenta con una población de 296.746 habitantes. Es la segunda ciudad capital más alta del mundo después de Quito."
     }
   },
+  "sudetenland": {
+    "title": "Sudetenland",
+    "url": "https://en.wikipedia.org/wiki/Sudetenland",
+    "extract": "The Sudetenland is the historical German name for the northern, southern, and western areas of former Czechoslovakia which were inhabited primarily by Sudeten Germans. These German speakers had predominated in the border districts of Bohemia, Moravia, and Czech Silesia since the Middle Ages.",
+    "description": "Historical name for areas of Czechoslovakia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Sudetendeutsche.png/330px-Sudetendeutsche.png",
+    "es": {
+      "title": "Sudetes (región)",
+      "url": "https://es.wikipedia.org/wiki/Sudetes_(regi%C3%B3n)",
+      "extract": "Los Sudetes son las áreas norteñas, meridionales y occidentales de la antigua Checoslovaquia que fueron habitadas principalmente por alemanes de los Sudetes. Estos hablantes de alemán habían predominado en los distritos fronterizos de Bohemia, Moravia y la Silesia checa desde la época del Imperio austríaco."
+    }
+  },
   "suez-canal": {
     "title": "Suez Canal",
     "url": "https://en.wikipedia.org/wiki/Suez_Canal",
@@ -8986,6 +9106,20 @@
       "extract": "El Trebia o Trebbia es un río de la Italia septentrional, con una longitud de 115-118 km. Es uno de los cuatro principales afluentes del Po por la derecha; los otros tres son el Tanaro, el Secchia y el Panaro. Atraviesa las provincias de Génova y de Plasencia, firmando también por un tramo muy breve el límite con la provincia de Pavía en el municipio de Brallo di Pregola entre el Monte Lesima y el municipio de Corte Brugnatella."
     }
   },
+  "treblinka": {
+    "title": "Treblinka extermination camp",
+    "url": "https://en.wikipedia.org/wiki/Treblinka_extermination_camp",
+    "extract": "Treblinka was the second-deadliest extermination camp to be built and operated by Nazi Germany in occupied Poland during World War II, second only to Auschwitz. It was in a forest north-east of Warsaw, four kilometres south of the village of Treblinka in what is now the Masovian Voivodeship. The camp operated between 23 July 1942 and 19 October 1943 as part of Operation Reinhard, the deadliest phase of the Final Solution. During this time, it is estimated that between 800,000 and 925,000 Jews were murdered in its gas chambers, along with 2,000 Romani people. More Jews were murdered at Treblinka than at any other Nazi extermination camp apart from Auschwitz-Birkenau.",
+    "description": "Nazi extermination camp in Poland (1942–1943)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Treblinka_-_Rail_tracks.JPG/330px-Treblinka_-_Rail_tracks.JPG",
+    "lat": 52.63111111,
+    "lon": 22.05305556,
+    "es": {
+      "title": "Campo de exterminio de Treblinka",
+      "url": "https://es.wikipedia.org/wiki/Campo_de_exterminio_de_Treblinka",
+      "extract": "Treblinka fue un campo de exterminio construido y operado por la Alemania nazi en la Polonia ocupada durante la Segunda Guerra Mundial. Estaba ubicado en un bosque al noreste de Varsovia, a 4 kilómetros al sur de la estación de trenes de Treblinka, en lo que hoy es el Voivodato de Mazovia. El campo funcionó entre el 23 de julio de 1942 y el 19 de octubre de 1943 como parte de la Operación Reinhard, la fase más mortal de la Solución final. Durante este tiempo, se estima que entre 700 000 y 900 000 judíos fueron asesinados en sus cámaras de gas, junto con 2000 romaníes. En Treblinka fueron asesinados más judíos que en cualquier otro campo de exterminio nazi aparte de Auschwitz."
+    }
+  },
   "trento": {
     "title": "Trento",
     "url": "https://en.wikipedia.org/wiki/Trento",
@@ -9555,6 +9689,15 @@
     "extract": "The Wadi el-Hol inscriptions are two rock inscriptions which appear to show some of the oldest examples of phonetic alphabetic writing discovered to date.",
     "description": "Inscriptions on the Nile River's west bank",
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wadi_el-Hol_inscriptions_II_drawing.jpg/330px-Wadi_el-Hol_inscriptions_II_drawing.jpg"
+  },
+  "wannsee": {
+    "title": "Wannsee",
+    "url": "https://en.wikipedia.org/wiki/Wannsee",
+    "extract": "Wannsee is a locality in the southwestern Berlin borough of Steglitz-Zehlendorf, Germany. It is the westernmost locality of Berlin. In the quarter there are two lakes, the larger Großer Wannsee and the Kleiner Wannsee, located on the Havel and separated by the Wannsee Bridge. The larger of the two lakes covers an area of 2.7 km2 (1.0 mi2) and has a maximum depth of 9 m (30 ft).",
+    "description": "Quarter of Berlin in Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_Steglitz-Zehlendorf_Wannsee.svg/330px-Berlin_Steglitz-Zehlendorf_Wannsee.svg.png",
+    "lat": 52.41666667,
+    "lon": 13.15
   },
   "warsaw": {
     "title": "Warsaw",
