@@ -2709,6 +2709,20 @@
       "extract": "Darlington es una ciudad y autoridad unitaria en Inglaterra. La ciudad tenía una población de 106.000 habitantes en 2011. La ciudad está a orillas del río Skerne, un afluente del río Tees. La ciudad tiene una historia larga con mucho desarrollo debido a la influencia de los cuáqueros en la época victoriana. La ciudad es conocida por ser terminal de la primera línea de ferrocarril del mundo."
     }
   },
+  "dayton-ohio": {
+    "title": "Dayton, Ohio",
+    "url": "https://en.wikipedia.org/wiki/Dayton%2C_Ohio",
+    "extract": "Dayton is a city in Montgomery County, Ohio, United States, and its county seat. It is the \nsixth-most populous city in Ohio, with a population of 137,644 at the time of 2020 United States census. The Dayton metropolitan area has an estimated 822,000 residents and is the state's fourth-largest metropolitan area. Dayton is located within Ohio's Miami Valley region, 40 miles (64 km) north of Cincinnati and 55 miles (89 km) southwest of Columbus, Ohio.",
+    "description": "City in Ohio, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Dayton_Skyline_-_Sunset_September_2022_%28cropped%29.jpg/330px-Dayton_Skyline_-_Sunset_September_2022_%28cropped%29.jpg",
+    "lat": 39.75944444,
+    "lon": -84.19166667,
+    "es": {
+      "title": "Dayton (Ohio)",
+      "url": "https://es.wikipedia.org/wiki/Dayton_(Ohio)",
+      "extract": "Dayton es una ciudad situada en el sudoeste de Ohio, en los Estados Unidos. Es la ciudad más grande y la sede del Condado de Montgomery. Según las estimaciones del censo de 2020, la población era de 137 644 habitantes, mientras que la de su área metropolitana era de 814 049 habitantes."
+    }
+  },
   "decelea": {
     "title": "Decelea",
     "url": "https://en.wikipedia.org/wiki/Decelea",
@@ -2860,6 +2874,20 @@
       "title": "Dublín",
       "url": "https://es.wikipedia.org/wiki/Dubl%C3%ADn",
       "extract": "Dublín es la capital de la República de Irlanda y la ciudad más poblada de la isla. Está ubicada cerca del centro de la costa este sobre el mar de Irlanda, en la desembocadura del río Liffey y en el centro del condado de Dublín. Fue fundada por los vikingos alrededor de 841 como base militar y centro de comercio de esclavos, y ha sido capital del país desde la Edad Media. Está constituida por diferentes áreas; el Consejo de la Ciudad de Dublín junto con suburbios contiguos en el condado de Dublín, y que a su vez se subdivide en los condados administrativos de Dún Laoghaire-Rathdown, Fine Gall-Fingal y el Consejo del Condado de Dublín Sur. La Gran Área abarca la Ciudad de Dublín y el Consejo junto con los condados contiguos de Kildare, Meath y Wicklow."
+    }
+  },
+  "dubrovnik": {
+    "title": "Dubrovnik",
+    "url": "https://en.wikipedia.org/wiki/Dubrovnik",
+    "extract": "Dubrovnik, historically also known as Ragusa, is a city in southern Dalmatia, Croatia, by the Adriatic Sea. It is one of the most prominent tourist destinations in the Mediterranean, a seaport and the centre of the Dubrovnik-Neretva County. In 2021, its total population was 41,562. Recognizing its outstanding medieval architecture and fortifications, UNESCO inscribed the Old City of Dubrovnik as a World Heritage Site in 1979.",
+    "description": "Coastal city in southern Croatia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg/330px-The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg",
+    "lat": 42.64027778,
+    "lon": 18.10833333,
+    "es": {
+      "title": "Dubrovnik",
+      "url": "https://es.wikipedia.org/wiki/Dubrovnik",
+      "extract": "Dubrovnik es una ciudad situada en la parte más meridional de Croacia. Edificada en una península de la costa dálmata fue una importante potencia marítima mediterránea desde el siglo XIII. En la actualidad es el centro administrativo y económico más relevante del condado de Dubrovnik-Neretva. Con una superficie de 143.35 km² en el censo de 2021 cuenta con una población de 41 562 habitantes."
     }
   },
   "east-berlin": {
@@ -4524,6 +4552,20 @@
       "extract": "Kinmen es un pequeño archipiélago administrado por la República de China como el Condado de Kinmen. Abarca unos 153 km² y comprende las islas de Gran Kinmen, Pequeña Kinmen, Wuqiu y varios islotes; se ubica muy cerca de las costas de China continental, a menos de 2 km de Xiamen. Es reclamado por la República Popular China como parte de la prefectura de Quanzhou en la provincia de Fujian."
     }
   },
+  "knin": {
+    "title": "Knin",
+    "url": "https://en.wikipedia.org/wiki/Knin",
+    "extract": "Knin is a city in the Šibenik-Knin County of Croatia, located in the Dalmatian hinterland near the source of the river Krka, an important traffic junction on the rail and road routes between Zagreb and Split. Knin rose to prominence twice in history, as the capital of both the medieval Kingdom of Croatia and briefly of the self-proclaimed Republic of Serbian Krajina within the newly independent Republic of Croatia for the duration of the Croatian War of Independence from 1991 to 1995.",
+    "description": "City in Dalmatia, Croatia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Knin_25.jpg/330px-Knin_25.jpg",
+    "lat": 44.04138889,
+    "lon": 16.19861111,
+    "es": {
+      "title": "Knin",
+      "url": "https://es.wikipedia.org/wiki/Knin",
+      "extract": "Knin es una ciudad histórica ubicada en el condado de Šibenik-Knin en Croacia, cercana al río Krka, en lo que pertenecía a Dalmacia, sobre la carretera Zagreb–Split. Knin fue importante históricamente en dos ocasiones: una cuando fue la capital del Reino de Croacia y más tarde, cuando fue brevemente la capital de la desaparecida República Serbia de Krajina. La ciudad es de alta importancia por razones infraestructurales, ya que las carreteras de Zadar, Split y Šibenik pasan por Knin, dirigiéndose al norte hacia Zagreb."
+    }
+  },
   "knossos": {
     "title": "Knossos",
     "url": "https://en.wikipedia.org/wiki/Knossos",
@@ -5899,6 +5941,20 @@
       "extract": "Mosselbaai es una ciudad portuaria de unos 130 000 habitantes en la provincia Occidental del Cabo en la ruta de los jardines en Sudáfrica. Se trata de un importante centro turístico y de agricultura. Mosselbaai se encuentra a unos 400 kilómetros al este de la capital legislativa, Ciudad del Cabo, y a 400 km al oeste de Puerto Elizabeth, la ciudad más grande en la provincia Oriental del Cabo. Las partes más antiguas de la ciudad se encuentran al norte de la península de Cabo de San Blas, mientras que los nuevos suburbios se sitúan en la península y se han extendido hacia el este a lo largo de la orilla de arena de la bahía."
     }
   },
+  "mostar": {
+    "title": "Mostar",
+    "url": "https://en.wikipedia.org/wiki/Mostar",
+    "extract": "Mostar is a city and the administrative centre of Herzegovina-Neretva Canton of the Federation of Bosnia and Herzegovina, an entity of Bosnia and Herzegovina, and the historical capital of Herzegovina.",
+    "description": "City in Bosnia and Herzegovina",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Stari_Most_viewed_from_North.jpg/330px-Stari_Most_viewed_from_North.jpg",
+    "lat": 43.34361111,
+    "lon": 17.8075,
+    "es": {
+      "title": "Mostar",
+      "url": "https://es.wikipedia.org/wiki/Mostar",
+      "extract": "Mostar o Móstar es una ciudad de Bosnia-Herzegovina, la más importante de Herzegovina, en el centro del cantón de Herzegovina-Neretva."
+    }
+  },
   "mount-athos": {
     "title": "Mount Athos",
     "url": "https://en.wikipedia.org/wiki/Mount_Athos",
@@ -7141,6 +7197,42 @@
       "extract": "Praga es la capital de la República Checa y de la región de Bohemia. Situada a orillas del río Moldava, tiene aproximadamente 1,36 millones de habitantes, lo que la convierte en la ciudad más poblada del país y la séptima de Europa Central. El área metropolitana de Praga cuenta con una población de 2,7 millones de habitantes. Su belleza y patrimonio histórico la convierten en una de las veinte ciudades más visitadas del mundo."
     }
   },
+  "prekaz": {
+    "title": "Prekaz i Epërm",
+    "url": "https://en.wikipedia.org/wiki/Prekaz_i_Ep%C3%ABrm",
+    "extract": "Prekaz i Epërm is a village in Skenderaj municipality, Kosovo. This village was the site of the battle that started the Kosovo War, the Battle of Prekaz and birthplace of KLA leader Adem Jashari and his brother, Hamëz Jashari.",
+    "description": "Village in Mitrovica, Kosovo",
+    "lat": 42.782274,
+    "lon": 20.82898
+  },
+  "prijedor": {
+    "title": "Prijedor",
+    "url": "https://en.wikipedia.org/wiki/Prijedor",
+    "extract": "Prijedor is a city in Republika Srpska, Bosnia and Herzegovina. As of 2013, it had a population of 80,916 inhabitants within its administrative limits. Prijedor is situated in the geographical region of Bosanska Krajina, a northwestern part of the country.",
+    "description": "City in Republika Srpska, Bosnia and Herzegovina",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Prijedor_cl.png/330px-Prijedor_cl.png",
+    "lat": 44.98083333,
+    "lon": 16.71333333,
+    "es": {
+      "title": "Prijedor",
+      "url": "https://es.wikipedia.org/wiki/Prijedor",
+      "extract": "Prijedor es municipio situado en la zona noroccidental de Bosnia y Herzegovina y perteneciente a la República Srpska. Su localidad más importante es la ciudad de Prijedor."
+    }
+  },
+  "pristina": {
+    "title": "Pristina",
+    "url": "https://en.wikipedia.org/wiki/Pristina",
+    "extract": "Pristina is the capital and largest city of Kosovo. It is the administrative center of the eponymous municipality and district.",
+    "description": "Capital and largest city of Kosovo",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/View_of_Prishtina.jpg/330px-View_of_Prishtina.jpg",
+    "lat": 42.66666667,
+    "lon": 21.16666667,
+    "es": {
+      "title": "Pristina",
+      "url": "https://es.wikipedia.org/wiki/Pristina",
+      "extract": "Pristina es la capital de Kosovo y de la Provincia Autónoma de Kosovo y Metojia, territorio en disputa situado en los Balcanes. Cuenta con una población de 198 112 habitantes, según los datos del último censo de 2011."
+    }
+  },
   "promontory-utah": {
     "title": "Promontory, Utah",
     "url": "https://en.wikipedia.org/wiki/Promontory%2C_Utah",
@@ -7317,6 +7409,14 @@
       "url": "https://es.wikipedia.org/wiki/Qumr%C3%A1n",
       "extract": "Qumrán es un sitio arqueológico localizado en Cisjordania (Palestina), en el norte del Valle del Mar Muerto y administrado por el Parque Nacional Qumrandebido a la ocupación israelí. Está emplazado en una meseta de marga seca a unos 1,5 km de la costa noroeste del Mar Muerto, junto al kibutz de Kalia. El asentamiento del período helenístico fue construido durante el reinado del mandatario asmoneo Juan Hircano I entre 134 y 104 a. C., y tuvo diferentes etapas de ocupación hasta probablemente la caída de Jerusalén en el año 70, cuando Tito y la Legio X Fretensis destruyeron el asentamiento esenio en el año 68. La importancia de este wadi es la presencia de las ruinas (khirbet) de Qumrán y de las cuevas descubiertas en 1947, que contenían un valioso tesoro arqueológico y bíblico."
     }
+  },
+  "racak": {
+    "title": "Reçak",
+    "url": "https://en.wikipedia.org/wiki/Re%C3%A7ak",
+    "extract": "Reçak is a village in the Shtime municipality of Kosovo.",
+    "description": "Village in Ferizaj, Kosovo",
+    "lat": 42.429296,
+    "lon": 21.017014
   },
   "raiding": {
     "title": "Raiding, Austria",
@@ -8125,6 +8225,20 @@
       "extract": "São Paulo o San Pablo es la ciudad más poblada de Brasil y de todo el continente americano, capital del estado de São Paulo y la principal ciudad de la región metropolitana de São Paulo, en la región Sudeste de Brasil. Con una población de 11 451 372 habitantes en la ciudad propia y de 22 048 504 habitantes en su área metropolitana, integran la ciudad y la metrópoli más pobladas de América y del hemisferio occidental, además de ser una de las aglomeraciones urbanas más pobladas del mundo. También es la ciudad más poblada de la lusofonía."
     }
   },
+  "sarajevo": {
+    "title": "Sarajevo",
+    "url": "https://en.wikipedia.org/wiki/Sarajevo",
+    "extract": "Sarajevo is the capital and largest city of Bosnia and Herzegovina, with a population of 275,524 in its administrative limits. The Sarajevo Canton, containing the city of Sarajevo and nearby municipalities, is home to 413,593 inhabitants. Located within the greater Sarajevo valley of Bosnia, it is surrounded by the Dinaric Alps and situated along the Miljacka River in the heart of the Balkans, a region of Southeastern Europe.",
+    "description": "Capital and largest city of Bosnia and Herzegovina",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Sarajevo_City_Panorama.JPG/330px-Sarajevo_City_Panorama.JPG",
+    "lat": 43.85638889,
+    "lon": 18.41305556,
+    "es": {
+      "title": "Sarajevo",
+      "url": "https://es.wikipedia.org/wiki/Sarajevo",
+      "extract": "Sarajevo es la capital federal y ciudad más poblada de Bosnia y Herzegovina, con una población de 275 000 habitantes en las cuatro municipalidades que forman la ciudad, y con un área metropolitana de 405 930 habitantes en el cantón de Sarajevo. Es también la capital de la Federación de Bosnia y Herzegovina, así como el centro del cantón de Sarajevo. Contigua a ella se encuentra Sarajevo Oriental que es la ciudad capital de iure de la República Srpska."
+    }
+  },
   "sardinia": {
     "title": "Sardinia",
     "url": "https://en.wikipedia.org/wiki/Sardinia",
@@ -8451,6 +8565,20 @@
       "extract": "La Capilla Sixtina es una capilla del Palacio Apostólico de la Ciudad del Vaticano, la residencia oficial del papa. Es la estancia más conocida del conjunto palaciego y también forma parte de los Museos Vaticanos."
     }
   },
+  "skopje": {
+    "title": "Skopje",
+    "url": "https://en.wikipedia.org/wiki/Skopje",
+    "extract": "Skopje is the capital and largest city of North Macedonia. It lies in the northern part of the country, in the Skopje Valley along the Vardar River, and is the political, economic, and cultural centre of the country. As of the 2021 census, the city had a population of 526,502. Skopje covers 571.46 km2 (220.64 mi2) and includes both urban and rural areas, bordered by several municipalities and close to the borders of Kosovo and Serbia.",
+    "description": "Capital and largest city of North Macedonia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Skopje_view_from_Kale_3.jpg/330px-Skopje_view_from_Kale_3.jpg",
+    "lat": 41.99611111,
+    "lon": 21.43166667,
+    "es": {
+      "title": "Skopie",
+      "url": "https://es.wikipedia.org/wiki/Skopie",
+      "extract": "Skopie o Escopia es la capital y la mayor ciudad de Macedonia del Norte; sus 526 502 habitantes suponen la cuarta parte de la población del país."
+    }
+  },
   "solovetsky-monastery": {
     "title": "Solovetsky Monastery",
     "url": "https://en.wikipedia.org/wiki/Solovetsky_Monastery",
@@ -8559,6 +8687,20 @@
       "title": "Spindletop",
       "url": "https://es.wikipedia.org/wiki/Spindletop",
       "extract": "Spindletop es un campo petrolero ubicado en la parte sur de Beaumont, Texas, en los Estados Unidos. El 10 de enero de 1901, un pozo expulsó petróleo en forma incontrolada en la colina de Spindletop, formando un surtidor, que durante 9 días, expulsó unos 16.000 m³ de petróleo diarios."
+    }
+  },
+  "srebrenica": {
+    "title": "Srebrenica",
+    "url": "https://en.wikipedia.org/wiki/Srebrenica",
+    "extract": "Srebrenica is a town and municipality in Bosnia and Herzegovina, located in the Republika Srpska entity. It is a small mountain town, with its main industry being salt mining and a nearby spa.",
+    "description": "Town and municipality in Bosnia and Herzegovina",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Srebrenica_2.jpg/330px-Srebrenica_2.jpg",
+    "lat": 44.10416667,
+    "lon": 19.29722222,
+    "es": {
+      "title": "Srebrenica",
+      "url": "https://es.wikipedia.org/wiki/Srebrenica",
+      "extract": "Srebrenica es una ciudad y municipio al este de Bosnia y Herzegovina, en la entidad República Srpska, y perteneciente a la región de Vlasenica. Srebrenica es una pequeña ciudad montañosa, y su principal fuente de ingresos hasta la guerra de Bosnia eran las minas de sal y un reconocido balneario. Durante la guerra se produjo en Srebrenica la mayor matanza en suelo europeo desde la Segunda Guerra Mundial, que alteró significativamente la composición étnica de la ciudad."
     }
   },
   "sremski-karlovci": {
@@ -9952,6 +10094,20 @@
       "title": "Vótkinsk",
       "url": "https://es.wikipedia.org/wiki/V%C3%B3tkinsk",
       "extract": "Vótkinsk es una pequeña ciudad industrial de los montes Urales, en la república rusa de Udmurtia. Fue el lugar de nacimiento del músico Piotr Ilich Chaikovski (1840-1893), y donde vivieron sus hermanos Modest, Ippolit, Anatoli y Alexandra. Se encuentra a dos kilómetros de los Montes Urales. Según el censo de 2013 cuenta con una población de 98.287 habitantes."
+    }
+  },
+  "vukovar": {
+    "title": "Vukovar",
+    "url": "https://en.wikipedia.org/wiki/Vukovar",
+    "extract": "Vukovar is a city in Croatia, in the eastern regions of Syrmia and Slavonia. It contains Croatia's largest river port, located at the confluence of the Vuka and the Danube. Vukovar is the seat of Vukovar-Syrmia County and the second-largest city in the county after Vinkovci. The city's registered population was 22,616 in the 2021 census, with a total of 23,536 in the municipality.",
+    "description": "City in Slavonia, Croatia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/20230429.Ansichten_von_Vukovar.-049.jpg/330px-20230429.Ansichten_von_Vukovar.-049.jpg",
+    "lat": 45.34444444,
+    "lon": 19.0025,
+    "es": {
+      "title": "Vukovar",
+      "url": "https://es.wikipedia.org/wiki/Vukovar",
+      "extract": "Vukovar es una ciudad situada en el condado de Vukovar-Sirmia, en Croacia. Según el censo de 2021, tiene una población de 23 175 habitantes."
     }
   },
   "wadi-el-hol": {

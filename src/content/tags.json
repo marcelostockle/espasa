@@ -373,6 +373,21 @@
       }
     }
   },
+  "bosnia-and-herzegovina": {
+    "label": "Bosnia and Herzegovina",
+    "color": "#3b8f5e",
+    "description": "Bosnia and Herzegovina and its history, including the war of 1992-1995 and the Dayton settlement.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Bosnia y Herzegovina",
+        "description": "Bosnia y Herzegovina y su historia, incluida la guerra de 1992-1995 y el acuerdo de Dayton."
+      }
+    }
+  },
   "brahms": {
     "label": "Johannes Brahms",
     "color": "#4f5d75",
@@ -684,6 +699,21 @@
       "es": {
         "label": "Contrarreforma",
         "description": "La respuesta católica al protestantismo: Trento, los jesuitas y la Inquisición."
+      }
+    }
+  },
+  "croatia": {
+    "label": "Croatia",
+    "color": "#c4572f",
+    "description": "Croatia and its history, including its independence in 1991 and the war that followed.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Croacia",
+        "description": "Croacia y su historia, incluida su independencia en 1991 y la guerra posterior."
       }
     }
   },
@@ -1967,6 +1997,21 @@
       "es": {
         "label": "Guerra de Corea",
         "description": "La guerra de 1950-1953 entre Corea del Norte y Corea del Sur, en la que intervinieron fuerzas de la ONU lideradas por Estados Unidos y fuerzas chinas."
+      }
+    }
+  },
+  "kosovo": {
+    "label": "Kosovo",
+    "color": "#4a90a4",
+    "description": "Kosovo, its Albanian and Serb communities, the 1998-1999 war and its path to independence.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Kosovo",
+        "description": "Kosovo, sus comunidades albanesa y serbia, la guerra de 1998-1999 y su camino hacia la independencia."
       }
     }
   },
@@ -3278,6 +3323,21 @@
       }
     }
   },
+  "serbia": {
+    "label": "Serbia",
+    "color": "#7a4fa3",
+    "description": "Serbia and its governments, including its role in the Yugoslav wars and its later democratic transition.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Serbia",
+        "description": "Serbia y sus gobiernos, incluido su papel en las guerras yugoslavas y su posterior transición democrática."
+      }
+    }
+  },
   "siglo-de-oro": {
     "label": "Siglo de Oro",
     "color": "#ff7043",
@@ -3821,6 +3881,20 @@
       }
     }
   },
+  "war-crimes": {
+    "label": "War crimes",
+    "color": "#8b3a62",
+    "description": "Atrocities in war, such as massacres, ethnic cleansing and genocide, and the international courts and trials that judge them.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Crímenes de guerra",
+        "description": "Atrocidades cometidas en la guerra, como masacres, limpieza étnica y genocidio, y los tribunales y juicios internacionales que las juzgan."
+      }
+    }
+  },
   "weimar-republic": {
     "label": "Weimar Republic",
     "color": "#d4b13a",
@@ -3902,6 +3976,20 @@
       "es": {
         "label": "Escritura",
         "description": "La historia de los sistemas de escritura y las pruebas más antiguas de ellos: escrituras, inscripciones y alfabetos, desde los jeroglíficos cretenses y los signos protosinaíticos hasta el alfabeto griego."
+      }
+    }
+  },
+  "yugoslav-wars": {
+    "label": "Yugoslav Wars",
+    "color": "#2e6f95",
+    "description": "The wars that followed the breakup of Yugoslavia (1991-2001) in Slovenia, Croatia, Bosnia, Kosovo and Macedonia, and the peace settlements and trials that ended them.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerras yugoslavas",
+        "description": "Las guerras posteriores a la desintegración de Yugoslavia (1991-2001) en Eslovenia, Croacia, Bosnia, Kosovo y Macedonia, y los acuerdos de paz y juicios que les pusieron fin."
       }
     }
   },

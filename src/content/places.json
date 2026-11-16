@@ -1781,6 +1781,15 @@
       }
     }
   },
+  "dayton-ohio": {
+    "label": "Dayton, Ohio",
+    "wikipedia": "Dayton, Ohio",
+    "translations": {
+      "es": {
+        "label": "Dayton (Ohio)"
+      }
+    }
+  },
   "decelea": {
     "label": "Decelea",
     "wikipedia": "Dekeleia",
@@ -1877,6 +1886,15 @@
     "translations": {
       "es": {
         "label": "Dublín"
+      }
+    }
+  },
+  "dubrovnik": {
+    "label": "Dubrovnik",
+    "wikipedia": "Dubrovnik",
+    "translations": {
+      "es": {
+        "label": "Dubrovnik"
       }
     }
   },
@@ -2987,6 +3005,15 @@
       }
     }
   },
+  "knin": {
+    "label": "Knin",
+    "wikipedia": "Knin",
+    "translations": {
+      "es": {
+        "label": "Knin"
+      }
+    }
+  },
   "knossos": {
     "label": "Knossos",
     "wikipedia": "Knossos",
@@ -3887,6 +3914,15 @@
       }
     }
   },
+  "mostar": {
+    "label": "Mostar",
+    "wikipedia": "Mostar",
+    "translations": {
+      "es": {
+        "label": "Mostar"
+      }
+    }
+  },
   "mount-athos": {
     "label": "Mount Athos",
     "wikipedia": "Mount Athos",
@@ -4697,6 +4733,33 @@
       }
     }
   },
+  "prekaz": {
+    "label": "Prekaz",
+    "wikipedia": "Prekaz i Epërm",
+    "translations": {
+      "es": {
+        "label": "Prekaz"
+      }
+    }
+  },
+  "prijedor": {
+    "label": "Prijedor",
+    "wikipedia": "Prijedor",
+    "translations": {
+      "es": {
+        "label": "Prijedor"
+      }
+    }
+  },
+  "pristina": {
+    "label": "Pristina",
+    "wikipedia": "Pristina",
+    "translations": {
+      "es": {
+        "label": "Pristina"
+      }
+    }
+  },
   "promontory-utah": {
     "label": "Promontory, Utah",
     "wikipedia": "Promontory, Utah",
@@ -4811,6 +4874,15 @@
     "translations": {
       "es": {
         "label": "Qumrán"
+      }
+    }
+  },
+  "racak": {
+    "label": "Račak",
+    "wikipedia": "Reçak",
+    "translations": {
+      "es": {
+        "label": "Račak"
       }
     }
   },
@@ -5345,6 +5417,15 @@
       }
     }
   },
+  "sarajevo": {
+    "label": "Sarajevo",
+    "wikipedia": "Sarajevo",
+    "translations": {
+      "es": {
+        "label": "Sarajevo"
+      }
+    }
+  },
   "sardinia": {
     "label": "Sardinia",
     "wikipedia": "Sardinia",
@@ -5561,6 +5642,15 @@
       }
     }
   },
+  "skopje": {
+    "label": "Skopje",
+    "wikipedia": "Skopje",
+    "translations": {
+      "es": {
+        "label": "Skopje"
+      }
+    }
+  },
   "solovetsky-monastery": {
     "label": "Solovetsky Monastery",
     "wikipedia": "Solovetsky Monastery",
@@ -5630,6 +5720,15 @@
     "translations": {
       "es": {
         "label": "Spindletop"
+      }
+    }
+  },
+  "srebrenica": {
+    "label": "Srebrenica",
+    "wikipedia": "Srebrenica",
+    "translations": {
+      "es": {
+        "label": "Srebrenica"
       }
     }
   },
@@ -6548,6 +6647,15 @@
     "translations": {
       "es": {
         "label": "Votkinsk"
+      }
+    }
+  },
+  "vukovar": {
+    "label": "Vukovar",
+    "wikipedia": "Vukovar",
+    "translations": {
+      "es": {
+        "label": "Vukovar"
       }
     }
   },
