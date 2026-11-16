@@ -3067,6 +3067,20 @@
       "extract": "El valle de Ferganá es una depresión intramontana de Asia Central, localizada entre la cordillera de Talas Alatau al norte y las montañas Alai al sur. Largo valle triangular en una región a menudo seca, Ferganá es la región más fértil y poblada de toda el Asia Central que debe su fertilidad a dos ríos, el Naryn y Kara Daria, que llegan desde el este, uniéndose cerca de Namangan para formar el río Sir Daria."
     }
   },
+  "ferrol": {
+    "title": "Ferrol",
+    "url": "https://en.wikipedia.org/wiki/Ferrol",
+    "extract": "Ferrol is a city in the province of A Coruña in the autonomous community of Galicia in Spain, located in the Rías Altas, in the vicinity of Strabo's Cape Nerium. With a population of 64,358 as of 2024, Ferrol is the 7th-largest city in Galicia. With Eume to the south and Ortegal to the north, Ferrol forms the comarca of Ferrolterra.",
+    "description": "Municipality in Galicia, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/R%C3%ADa_de_Ferrol_desde_o_Coto_de_Ancos.retocada.jpg/330px-R%C3%ADa_de_Ferrol_desde_o_Coto_de_Ancos.retocada.jpg",
+    "lat": 43.48444444,
+    "lon": -8.23277778,
+    "es": {
+      "title": "Ferrol",
+      "url": "https://es.wikipedia.org/wiki/Ferrol",
+      "extract": "Ferrol es una ciudad y un municipio español situado en el norte de la provincia de La Coruña, en Galicia. Es la capital de la comarca que lleva su nombre y cabeza del partido judicial homónimo.\nEl municipio, situado en una península, se asienta hacia la ría de Ferrol, donde se encuentra la ciudad. El término municipal cuenta también con una destacada fachada litoral abierta al océano Atlántico en su zona rural, en la que se encuentran playas frecuentadas por aficionados al surf y windsurf. Por tierra limita únicamente con el municipio de Narón."
+    }
+  },
   "fez": {
     "title": "Fez, Morocco",
     "url": "https://en.wikipedia.org/wiki/Fez%2C_Morocco",
@@ -3844,6 +3858,20 @@
       "title": "Henan",
       "url": "https://es.wikipedia.org/wiki/Henan",
       "extract": "Henan es una provincia de la República Popular China, ubicada en la parte central del país. Con cerca de 100 millones de habitantes es la tercera provincia más poblada del país, solo por detrás de Cantón y Shandong. Su capital es Zhengzhou."
+    }
+  },
+  "hendaye": {
+    "title": "Hendaye",
+    "url": "https://en.wikipedia.org/wiki/Hendaye",
+    "extract": "Hendaye is a commune in the Pyrénées-Atlantiques department and Nouvelle-Aquitaine region of southwestern France.",
+    "description": "Commune in Nouvelle-Aquitaine, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Hendaye%2C_20.3.06.JPG/330px-Hendaye%2C_20.3.06.JPG",
+    "lat": 43.36,
+    "lon": -1.77,
+    "es": {
+      "title": "Hendaya",
+      "url": "https://es.wikipedia.org/wiki/Hendaya",
+      "extract": "Hendaya es una comuna francesa del departamento de Pirineos Atlánticos, en la región de Nueva Aquitania. Ubicada junto a la frontera con España, en el territorio del País Vasco francés, pertenece a la provincia histórica de Labort. Forma parte de la Comunidad de aglomeración del País Vasco. Cuenta con una estación de ferrocarril internacional y un balneario."
     }
   },
   "heraclea-lucania": {
@@ -9612,6 +9640,20 @@
       "extract": "Valencia es un municipio y una ciudad de España, capital de la provincia homónima y de la Comunidad Valenciana. Su población es de 840 792 habitantes, alcanzando los 1 615 223 habitantes si se incluye su espacio urbano, mientras que la región metropolitana tiene 2,5 millones. Es la tercera ciudad y área metropolitana más poblada de España, por detrás de Madrid y Barcelona."
     }
   },
+  "valley-of-the-fallen": {
+    "title": "Valley of the Fallen",
+    "url": "https://en.wikipedia.org/wiki/Valley_of_the_Fallen",
+    "extract": "The Valley of the Fallen officially the Valley of Cuelgamuros since 2022, is a Spanish memorial site in the Sierra de Guadarrama mountain range, dedicated to the memory of those who lost their lives during the Spanish Civil War. Overlooking the municipality of San Lorenzo de El Escorial near Madrid, the memorial was constructed by order of the Nationalist dictator Francisco Franco in 1940. Construction continued until 1958, with the site opening to the public the following year. Franco said that the monument was intended as a \"national act of atonement\" and reconciliation. The site served as Franco's burial place from his death in November 1975—despite it not being his intended burial site—until his exhumation on 24 October 2019, following a long and controversial legal process to remove all public glorification of his dictatorship.",
+    "description": "Spanish monumental memorial and Catholic basilica",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/SPA-2014-San_Lorenzo_de_El_Escorial-Valley_of_the_Fallen_%28Valle_de_los_Ca%C3%ADdos%29.jpg/330px-SPA-2014-San_Lorenzo_de_El_Escorial-Valley_of_the_Fallen_%28Valle_de_los_Ca%C3%ADdos%29.jpg",
+    "lat": 40.64194444,
+    "lon": -4.15527778,
+    "es": {
+      "title": "Valle de los Caídos",
+      "url": "https://es.wikipedia.org/wiki/Valle_de_los_Ca%C3%ADdos",
+      "extract": "El Valle de los Caídos, denominado oficialmente Valle de Cuelgamuros desde 2022, es un conjunto monumental formado por una basílica católica, una abadía y una cruz de 150 m de altura asentada sobre la cumbre de un risco que domina todo el valle circundante; con la peculiaridad de que la basílica es subterránea en su totalidad. Se encuentra situado en el valle de Cuelgamuros de la sierra de Guadarrama, en el municipio de San Lorenzo de El Escorial, Comunidad de Madrid, España, a 9,5 km al norte del monasterio de El Escorial y unos 50 al noroeste de Madrid. Fue construido entre 1940 y 1958 principalmente con mano de obra de presos políticos republicanos, y también trabajadores contratados."
+    }
+  },
   "valparaiso": {
     "title": "Valparaíso",
     "url": "https://en.wikipedia.org/wiki/Valpara%C3%ADso",
@@ -10272,6 +10314,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Battles_second_punic_war.png/330px-Battles_second_punic_war.png",
     "lat": 36.112,
     "lon": 9.2856
+  },
+  "zaragoza": {
+    "title": "Zaragoza",
+    "url": "https://en.wikipedia.org/wiki/Zaragoza",
+    "extract": "Zaragoza, traditionally known in English as Saragossa, is the capital city of the autonomous community of Aragon and the province of Zaragoza in Spain. It lies by the Ebro river and its tributaries, the Huerva and the Gállego, roughly in the centre of both Aragon and the Ebro basin.",
+    "description": "Capital of Aragon, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Zaragoza_-_Bas%C3%ADlica_del_Pilar_y_r%C3%ADo_Ebro.jpg/330px-Zaragoza_-_Bas%C3%ADlica_del_Pilar_y_r%C3%ADo_Ebro.jpg",
+    "lat": 41.65,
+    "lon": -0.88333333,
+    "es": {
+      "title": "Zaragoza",
+      "url": "https://es.wikipedia.org/wiki/Zaragoza",
+      "extract": "Zaragoza es un municipio y ciudad de España, capital de la provincia homónima y de la comunidad autónoma de Aragón. Perteneciente a la Comarca Central, tiene un régimen legal especial como capital de Aragón. Es el cuarto municipio más poblado de España, con una población de 693 091 habitantes, por detrás de Madrid, Barcelona y Valencia."
+    }
   },
   "zela": {
     "title": "Zile",

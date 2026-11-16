@@ -2015,6 +2015,15 @@
       }
     }
   },
+  "ferrol": {
+    "label": "Ferrol, Spain",
+    "wikipedia": "Ferrol, Spain",
+    "translations": {
+      "es": {
+        "label": "El Ferrol"
+      }
+    }
+  },
   "fez": {
     "label": "Fez",
     "wikipedia": "Fez,_Morocco",
@@ -2534,6 +2543,15 @@
     "translations": {
       "es": {
         "label": "Henan"
+      }
+    }
+  },
+  "hendaye": {
+    "label": "Hendaye",
+    "wikipedia": "Hendaye",
+    "translations": {
+      "es": {
+        "label": "Hendaya"
       }
     }
   },
@@ -6326,6 +6344,15 @@
       }
     }
   },
+  "valley-of-the-fallen": {
+    "label": "Valley of the Fallen",
+    "wikipedia": "Valley of the Fallen",
+    "translations": {
+      "es": {
+        "label": "Valle de los Caídos"
+      }
+    }
+  },
   "valparaiso": {
     "label": "Valparaíso",
     "wikipedia": "Valparaíso",
@@ -6773,6 +6800,15 @@
     "translations": {
       "es": {
         "label": "Zama"
+      }
+    }
+  },
+  "zaragoza": {
+    "label": "Zaragoza",
+    "wikipedia": "Zaragoza",
+    "translations": {
+      "es": {
+        "label": "Zaragoza"
       }
     }
   },

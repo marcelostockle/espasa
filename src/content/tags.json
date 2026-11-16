@@ -271,6 +271,21 @@
       }
     }
   },
+  "basque-country": {
+    "label": "Basque Country",
+    "color": "#3d8f6b",
+    "description": "The Basque people and their homeland in Spain and France, including their nationalism and conflicts.",
+    "categories": [
+      "Peoples",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "País Vasco",
+        "description": "El pueblo vasco y su territorio en España y Francia, incluidos su nacionalismo y sus conflictos."
+      }
+    }
+  },
   "beethoven": {
     "label": "Ludwig van Beethoven",
     "color": "#1f5f8b",
@@ -1142,6 +1157,20 @@
       "es": {
         "label": "Francisco Pizarro",
         "description": "Francisco Pizarro (m. 1541), conquistador español que dirigió la conquista del Imperio inca, capturó a Atahualpa y fundó Lima."
+      }
+    }
+  },
+  "francoist-spain": {
+    "label": "Francoist Spain",
+    "color": "#a8763e",
+    "description": "Spain under Franco's regime (1936-1975): its institutions, repression, economy and legacy.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "España franquista",
+        "description": "España bajo el régimen de Franco (1936-1975): sus instituciones, represión, economía y legado."
       }
     }
   },
@@ -3416,6 +3445,20 @@
       "es": {
         "label": "Guerra Civil española",
         "description": "La guerra de 1936-1939 entre la República española y los militares sublevados al mando de Franco, y su dimensión internacional."
+      }
+    }
+  },
+  "spanish-transition": {
+    "label": "Spanish transition",
+    "color": "#d6a13c",
+    "description": "Spain's passage from dictatorship to democracy after Franco's death, c. 1975-1982.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Transición española",
+        "description": "El paso de España de la dictadura a la democracia tras la muerte de Franco, c. 1975-1982."
       }
     }
   },
