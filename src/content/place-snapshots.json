@@ -2960,6 +2960,20 @@
       "extract": "Eretria fue una ciudad de la Antigua Grecia, localizada en la costa occidental de la isla de Eubea, enfrente de la costa del Ática al otro lado del estrecho golfo de Eubea. Hay una moderna ciudad griega con el mismo nombre en el lugar antiguo. El actual municipio de Eretria contaba en 2011 con una población de 13053 habitantes y la población de la unidad municipal ascendía a 6330."
     }
   },
+  "ethiopia": {
+    "title": "Ethiopia",
+    "url": "https://en.wikipedia.org/wiki/Ethiopia",
+    "extract": "Ethiopia, officially the Federal Democratic Republic of Ethiopia (FDRE), is a landlocked country located in the Horn of Africa region of East Africa. It shares borders with Eritrea to the north, Djibouti to the northeast, Somalia to the southeast, Kenya to the south, South Sudan to the west, and Sudan to the northwest. Ethiopia covers a land area of 1,104,300 km2 (426,400 sq mi). As of 2026, it has around 138 million inhabitants, making it the 10th-most populous country in the world and 2nd most populous country in Africa. The national capital and largest city, Addis Ababa, lies several kilometres west of the East African Rift that splits the country into the African and Somali tectonic plates.",
+    "description": "Country in East Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/330px-Flag_of_Ethiopia.svg.png",
+    "lat": 9,
+    "lon": 39,
+    "es": {
+      "title": "Etiopía",
+      "url": "https://es.wikipedia.org/wiki/Etiop%C3%ADa",
+      "extract": "Etiopía, oficialmente la República Democrática Federal de Etiopía, antiguamente conocida como Abisinia, es un país sin litoral situado en el Cuerno de África. Las estimaciones demográficas a 2021 lo sitúan como el segundo país más poblado de África, solo por detrás de Nigeria y el duodécimo a nivel mundial, así como el país sin litoral más poblado del mundo."
+    }
+  },
   "evian-les-bains": {
     "title": "Évian-les-Bains",
     "url": "https://en.wikipedia.org/wiki/%C3%89vian-les-Bains",
@@ -3567,6 +3581,20 @@
       "title": "Guayaquil",
       "url": "https://es.wikipedia.org/wiki/Guayaquil",
       "extract": "Guayaquil, oficialmente Santiago de Guayaquil,es una ciudad ecuatoriana, capital de la provincia del Guayas y cabecera del cantón homónimo. Se encuentra ubicada al centro-sur de la Costa, a orillas del río Guayas, a 20 kilómetros de su desembocadura en el océano Pacífico. Está rodeada por el Estero Salado en su parte suroccidental y el inicio de la cordillera Chongón Colonche, una cadena de montañas de altitud baja, en el noroeste. La ciudad se divide en 16 parroquias urbanas."
+    }
+  },
+  "guernica": {
+    "title": "Guernica",
+    "url": "https://en.wikipedia.org/wiki/Guernica",
+    "extract": "Guernica, officially Gernika in Basque, is a town in the province of Biscay, in the Autonomous Community of the Basque Country, Spain. The town of Guernica is one part of the municipality of Gernika-Lumo, whose population was 17,033 as of 2024.",
+    "description": "City in Basque Country, Spain",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Arbol_de_Gernika_d%C3%ADa.jpg/330px-Arbol_de_Gernika_d%C3%ADa.jpg",
+    "lat": 43.31666667,
+    "lon": -2.66666667,
+    "es": {
+      "title": "Guernica y Luno",
+      "url": "https://es.wikipedia.org/wiki/Guernica_y_Luno",
+      "extract": "Guernica y Luno es un municipio español de Vizcaya, en la comunidad autónoma del País Vasco, perteneciente a la comarca de Busturialdea y enmarcado en el área natural de Urdaibai. Tiene 17 016 habitantes, una extensión de 8,47 km² y una densidad de 1909 habitantes/km² y es una de las localidades más pobladas de la comarca junto con Bermeo."
     }
   },
   "hakata-bay": {
@@ -5021,6 +5049,20 @@
       "title": "Madeira",
       "url": "https://es.wikipedia.org/wiki/Madeira",
       "extract": "Madeira es un archipiélago macaronésico de origen volcánico del océano Atlántico que, junto con las islas Salvajes, constituye una región autónoma de Portugal. Es, asimismo, una región ultraperiférica de la Unión Europea."
+    }
+  },
+  "madison-square-garden": {
+    "title": "Madison Square Garden",
+    "url": "https://en.wikipedia.org/wiki/Madison_Square_Garden",
+    "extract": "Madison Square Garden, colloquially known as the Garden or by its initials MSG, is a multi-purpose indoor arena in Midtown Manhattan, New York City, U.S. The arena is located between Seventh and Eighth avenues, extending from 31st to 33rd streets, atop Pennsylvania Station. The current site hosts the fourth venue to bear the name \"Madison Square Garden\"; the first two, opened in 1879 and 1890, were situated in Madison Square, on East 26th Street and Madison Avenue, with the third Madison Square Garden (1925) farther uptown at Eighth Avenue and 50th Street.",
+    "description": "Multi-purpose indoor arena in New York City, U.S.",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg/330px-Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg",
+    "lat": 40.75055556,
+    "lon": -73.99361111,
+    "es": {
+      "title": "Madison Square Garden",
+      "url": "https://es.wikipedia.org/wiki/Madison_Square_Garden",
+      "extract": "El Madison Square Garden es un recinto deportivo ubicado en la ciudad de Nueva York, Nueva York, Estados Unidos. Alberga los partidos que disputan como locales los New York Knicks de la National Basketball Association (NBA) y los New York Rangers de la National Hockey League (NHL). Fue inaugurado el 11 de febrero de 1968 y cuenta con capacidad para 20.000 espectadores."
     }
   },
   "madrid": {
@@ -7540,6 +7582,18 @@
       "title": "Reino de Ryūkyū",
       "url": "https://es.wikipedia.org/wiki/Reino_de_Ry%C5%ABky%C5%AB",
       "extract": "El Reino de Ryūkyū fue un reino independiente que gobernó la mayoría de las islas Ryūkyū desde el siglo XIV al siglo XIX. Los reyes ryukyuenses unificaron la isla de Okinawa y extendieron el reino a las islas Amami e islas Yaeyama junto a Taiwán. A pesar de su pequeño tamaño, el reino jugó un papel central en las redes de comercio marítimo del este y del sureste de Asia en la época medieval."
+    }
+  },
+  "saarland": {
+    "title": "Saarland",
+    "url": "https://en.wikipedia.org/wiki/Saarland",
+    "extract": "Saarland is a landlocked federal state of Germany in the southwest of the country. With an area of 2,570 km2 (990 sq mi) and a population of 1 million in 2024, it is the smallest German state in area apart from the city-states of Berlin, Bremen, and Hamburg, and the smallest in population apart from Bremen. Saarbrücken is the state capital and largest city; other cities include Neunkirchen and Saarlouis. Saarland is mainly surrounded by the department of Moselle in France to the west and south and the neighboring state of Rhineland-Palatinate in Germany to the north and east; it also shares a short border, about 8 kilometres long, with the canton of Remich in Luxembourg to the northwest.",
+    "description": "State in Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Saarland.svg/330px-Flag_of_Saarland.svg.png",
+    "es": {
+      "title": "Sarre",
+      "url": "https://es.wikipedia.org/wiki/Sarre",
+      "extract": "Sarre es uno de los dieciséis estados federados de Alemania, el cuarto de menor extensión tras Bremen, Hamburgo y Berlín. Su nombre deriva del río Sarre y está situado entre Luxemburgo y la región francesa de Gran Este, territorios con los que está experimentando una creciente convergencia gracias al espacio de cooperación transfronteriza denominado Saar-Lor-Lux."
     }
   },
   "saguntum": {

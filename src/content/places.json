@@ -1943,6 +1943,15 @@
       }
     }
   },
+  "ethiopia": {
+    "label": "Ethiopia",
+    "wikipedia": "Ethiopia",
+    "translations": {
+      "es": {
+        "label": "Etiopía"
+      }
+    }
+  },
   "evian-les-bains": {
     "label": "Évian-les-Bains",
     "wikipedia": "Évian-les-Bains",
@@ -2345,6 +2354,15 @@
     "translations": {
       "es": {
         "label": "Guayaquil"
+      }
+    }
+  },
+  "guernica": {
+    "label": "Guernica",
+    "wikipedia": "Guernica",
+    "translations": {
+      "es": {
+        "label": "Guernica"
       }
     }
   },
@@ -3308,6 +3326,15 @@
     "translations": {
       "es": {
         "label": "Madeira"
+      }
+    }
+  },
+  "madison-square-garden": {
+    "label": "Madison Square Garden",
+    "wikipedia": "Madison Square Garden",
+    "translations": {
+      "es": {
+        "label": "Madison Square Garden"
       }
     }
   },
@@ -4955,6 +4982,15 @@
     "translations": {
       "es": {
         "label": "Reino de Ryukyu"
+      }
+    }
+  },
+  "saarland": {
+    "label": "Saarland",
+    "wikipedia": "Saarland",
+    "translations": {
+      "es": {
+        "label": "Sarre"
       }
     }
   },

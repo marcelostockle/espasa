@@ -184,6 +184,21 @@
       }
     }
   },
+  "austria": {
+    "label": "Austria",
+    "color": "#d95f6a",
+    "description": "Austria as a republic and authoritarian state between the wars, up to its annexation by Germany in 1938.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Austria",
+        "description": "Austria como república y Estado autoritario entre las dos guerras, hasta su anexión por Alemania en 1938."
+      }
+    }
+  },
   "austrian-empire": {
     "label": "Austrian Empire",
     "color": "#f48fb1",
@@ -3314,6 +3329,20 @@
       "es": {
         "label": "Independencia hispanoamericana",
         "description": "Las guerras y crisis políticas (h. 1808-1826) por las que los territorios americanos de España se separaron de la Corona española y se convirtieron en Estados independientes."
+      }
+    }
+  },
+  "spanish-civil-war": {
+    "label": "Spanish Civil War",
+    "color": "#c06a2f",
+    "description": "The war of 1936-1939 between Spain's Republic and the military rebels led by Franco, and its international dimension.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra Civil española",
+        "description": "La guerra de 1936-1939 entre la República española y los militares sublevados al mando de Franco, y su dimensión internacional."
       }
     }
   },
