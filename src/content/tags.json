@@ -431,6 +431,21 @@
       }
     }
   },
+  "british-mandate-palestine": {
+    "label": "Mandatory Palestine",
+    "color": "#a08a5e",
+    "description": "Palestine under British rule (1917-1948), from the conquest of Jerusalem and the Mandate to the conflicts between Jewish and Arab communities that ended it.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Palestina bajo mandato británico",
+        "description": "Palestina bajo dominio británico (1917-1948), desde la conquista de Jerusalén y el Mandato hasta los conflictos entre las comunidades judía y árabe que lo terminaron."
+      }
+    }
+  },
   "bronze-age-aegean": {
     "label": "Bronze Age Aegean",
     "color": "#1edc82",
@@ -1441,6 +1456,20 @@
       "es": {
         "label": "Revolución haitiana",
         "description": "El levantamiento de esclavos y la revolución en la Saint-Domingue francesa, desde la lucha de los libres de color por sus derechos en 1790 hasta la independencia de Haití en 1804, incluidas las intervenciones francesa, española y británica."
+      }
+    }
+  },
+  "hamas": {
+    "label": "Hamas",
+    "color": "#7a9a2f",
+    "description": "The Palestinian Islamist movement and armed group founded in 1987: its politics, its rule in Gaza and its conflicts with Israel and the Palestinian Authority.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Hamás",
+        "description": "El movimiento islamista y grupo armado palestino fundado en 1987: su política, su gobierno en Gaza y sus conflictos con Israel y la Autoridad Palestina."
       }
     }
   },
@@ -4077,6 +4106,20 @@
       "es": {
         "label": "Zheng He",
         "description": "Zheng He (h. 1371-1433), almirante Ming y eunuco de la corte que dirigió los viajes del tesoro por el océano Índico."
+      }
+    }
+  },
+  "zionism": {
+    "label": "Zionism",
+    "color": "#5f7fc4",
+    "description": "The movement for a Jewish national home in Palestine, from its origins in 19th-century Europe through immigration, institution-building and the creation of Israel.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Sionismo",
+        "description": "El movimiento por un hogar nacional judío en Palestina, desde sus orígenes en la Europa del siglo XIX, pasando por la inmigración y la creación de instituciones, hasta la fundación de Israel."
       }
     }
   }

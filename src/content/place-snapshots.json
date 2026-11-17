@@ -1098,6 +1098,20 @@
     "lat": 51.515876,
     "lon": 0.071965
   },
+  "beeri": {
+    "title": "Be'eri",
+    "url": "https://en.wikipedia.org/wiki/Be'eri",
+    "extract": "Be'eri is a kibbutz in southern Israel. Located in the north-western Negev desert near the eastern border with the Gaza Strip, it falls under the jurisdiction of Eshkol Regional Council. In 2024 it had a population of 1,124.",
+    "description": "Kibbutz in southern Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Photographs_from_Kibbutz_Be%27eri%2C_a_few_days_after_the_Be%27eri_massacre_carried_out_in_the_kibbutz_by_Hamas_on_October_7%2C_2023_by_photographer_Micah_Brickman_%281%29_%28cropped%29.jpg/330px-thumbnail.jpg",
+    "lat": 31.42388889,
+    "lon": 34.48972222,
+    "es": {
+      "title": "Beeri",
+      "url": "https://es.wikipedia.org/wiki/Beeri",
+      "extract": "Beeri es un kibutz ubicado en el distrito Sur de Israel. Situado en la zona esteparia del norte del desierto del Néguev, recae bajo la jurisdicción del concejo regional de Eshkol. En 2023 tenía una población de 1077 habitantes."
+    }
+  },
   "beijing": {
     "title": "Beijing",
     "url": "https://en.wikipedia.org/wiki/Beijing",
@@ -2806,6 +2820,20 @@
       "extract": "Deir el-Medina fue un antiguo poblado egipcio fundado por Tutmosis I, faraón de la dinastía XVIII. A la entrada del Valle de las Reinas y cerca del de los Reyes, se encuentran los restos del que fuera el más próspero poblado de obreros y artesanos del Antiguo Egipto: Set Maat \"El lugar de la Verdad\", Deir el-Medina, localidad situada en un pequeño valle en la región tebana, próximo a la colina de Qurnet Mura, en la ribera occidental del Nilo, frente a Tebas, actual Luxor (Egipto)."
     }
   },
+  "deir-yassin": {
+    "title": "Deir Yassin",
+    "url": "https://en.wikipedia.org/wiki/Deir_Yassin",
+    "extract": "Deir Yassin was a Palestinian Arab village of around 600 inhabitants about 5 kilometers (3.1 mi) west of Jerusalem. During the 1948 Palestine war, the village was largely destroyed and its population expelled in the Deir Yassin massacre which killed around 107 of its residents on April 9, 1948. The attack on Deir Yassin was carried out by the Jewish paramilitary groups Irgun and Lehi, with support from the Haganah. In 1949 the village was resettled by Jewish Israelis, becoming part of Givat Shaul and the State of Israel. Some of Deir Yassin's former buildings are today part of the Kfar Shaul Mental Health Center, an Israeli public psychiatric hospital.",
+    "description": "Place in Jerusalem, Mandatory Palestine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Kfar_Shaul_cropped%281%29.jpg/330px-Kfar_Shaul_cropped%281%29.jpg",
+    "lat": 31.78583333,
+    "lon": 35.17805556,
+    "es": {
+      "title": "Deir Yassin",
+      "url": "https://es.wikipedia.org/wiki/Deir_Yassin",
+      "extract": "Deir Yassin, fue una aldea palestina situada a cinco kilómetros al oeste de Jerusalén. Deir Yassin estaba situada en una colina, a 800 m de altura, con una gran vista de los alrededores. Su población era de unos 750 habitantes. Estos eran agricultores. Cultivaban cereales, higos, aceitunas y viñas en el valle. En el emplazamiento de Deir Yassin se levantó el complejo del actual hospital psiquiátrico Kfar Shaul, donde se pueden observar las antiguas casas del pueblo."
+    }
+  },
   "delft": {
     "title": "Delft",
     "url": "https://en.wikipedia.org/wiki/Delft",
@@ -3408,6 +3436,34 @@
       "extract": "Galia es el nombre romano dado a una región de la Europa Occidental actualmente formada por Francia, Bélgica, el oeste de Suiza, el norte de Italia y zonas de Alemania y los Países Bajos al oeste del Rin. También las islas británicas, e Hispania estaban pobladas por tribus celtas. Así, la palabra galo se refiere habitualmente a los habitantes celtas de esa región en tiempos antiguos y fue principalmente empleada por los romanos, que muy raras veces llamaban celtas a este conjunto de diversas tribus. El gentilicio se conservó a través de los tiempos solamente en la extensión de tierras que hoy componen Francia y aún hoy sigue llamándose galos a los franceses, y de hecho Gallia es el nombre griego moderno de Francia. También el nombre de Galicia tiene el mismo origen referido a la población gala o celta."
     }
   },
+  "gaza-city": {
+    "title": "Gaza City",
+    "url": "https://en.wikipedia.org/wiki/Gaza_City",
+    "extract": "Gaza City, often simply called Gaza, is a city in the Gaza Strip, Palestine, and the capital of the Gaza Governorate. Located on the Mediterranean coast, 76.6 kilometres (47.6 mi) southwest of Jerusalem, it was home to Palestine's only port. With a population of 590,481 people as of 2017, Gaza City was the most populous city in Palestine until the Gaza war and ongoing genocide caused most of the population to be displaced or killed.",
+    "description": "City in Palestine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg/330px-Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6315.jpg",
+    "lat": 31.5075,
+    "lon": 34.45972222,
+    "es": {
+      "title": "Gaza",
+      "url": "https://es.wikipedia.org/wiki/Gaza",
+      "extract": "Gaza, también denominada Ciudad de Gaza, es la principal ciudad de la Franja de Gaza, parte del Estado de Palestina. Según la Oficina Central de Estadísticas de Palestina, su población estimada en 2021 era de unos 645 576 habitantes, lo que la colocaba como la ciudad más poblada de Palestina."
+    }
+  },
+  "gaza-strip": {
+    "title": "Gaza Strip",
+    "url": "https://en.wikipedia.org/wiki/Gaza_Strip",
+    "extract": "The Gaza Strip, also known simply as Gaza, is the smaller of the two Palestinian territories that make up the State of Palestine in the Southern Levant region of West Asia. Gaza is bordered by Egypt on the southwest, Israel on the east and north, and the Mediterranean Sea to the west. Its capital and largest city is Gaza City.",
+    "description": "Autonomous territory in the Middle East",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Gaza_Strip_in_Palestine.svg/330px-Gaza_Strip_in_Palestine.svg.png",
+    "lat": 31.5,
+    "lon": 34.45,
+    "es": {
+      "title": "Franja de Gaza",
+      "url": "https://es.wikipedia.org/wiki/Franja_de_Gaza",
+      "extract": "La Franja de Gaza, a veces referida simplemente como Gaza, es una estrecha banda de tierra densamente poblada y situada en el Oriente Próximo, de la que 51 kilómetros lindan con el suroeste de Israel y otros once lo hacen con el noreste de la península del Sinaí (Egipto), mientras que al oeste linda con el mar Mediterráneo. Es el más pequeño de los dos Territorios Palestinos que componen Palestina."
+    }
+  },
   "gdansk": {
     "title": "Gdańsk",
     "url": "https://en.wikipedia.org/wiki/Gda%C5%84sk",
@@ -3760,6 +3816,20 @@
       "extract": "Guernica y Luno es un municipio español de Vizcaya, en la comunidad autónoma del País Vasco, perteneciente a la comarca de Busturialdea y enmarcado en el área natural de Urdaibai. Tiene 17 016 habitantes, una extensión de 8,47 km² y una densidad de 1909 habitantes/km² y es una de las localidades más pobladas de la comarca junto con Bermeo."
     }
   },
+  "haifa": {
+    "title": "Haifa",
+    "url": "https://en.wikipedia.org/wiki/Haifa",
+    "extract": "Haifa is the third-largest city in Israel—after Jerusalem and Tel Aviv—with a population of 297,082 in 2024. The city of Haifa forms part of the Haifa metropolitan area, the third-most populous metropolitan area in Israel. It is home to the Baháʼí Faith's Baháʼí World Centre, a UNESCO World Heritage Site and destination for Baháʼí pilgrimage.",
+    "description": "City in Northern Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/The_Hanging_Gardens_of_Haifa%2C_Israel_%2850099173503%29_%28cropped%29.jpg/330px-The_Hanging_Gardens_of_Haifa%2C_Israel_%2850099173503%29_%28cropped%29.jpg",
+    "lat": 32.81916667,
+    "lon": 34.99916667,
+    "es": {
+      "title": "Haifa",
+      "url": "https://es.wikipedia.org/wiki/Haifa",
+      "extract": "Haifa es la mayor ciudad del norte de Israel y la tercera ciudad más grande del país después de Jerusalén y Tel Aviv. Es la capital del distrito homónimo, con una superficie de 854 km², y uno de seis distritos que forman Israel. Tiene una población de 286 142 habitantes, y otras 300 000 personas viven en ciudades adyacentes, incluyendo las ciudades de las Krayot, así como también Tirat Carmel y Nesher. En su conjunto, forman un área urbana contigua de cerca de 600 000 habitantes, constituyéndose así como núcleo central del área metropolitana de Haifa."
+    }
+  },
   "hakata-bay": {
     "title": "Hakata Bay",
     "url": "https://en.wikipedia.org/wiki/Hakata_Bay",
@@ -3893,6 +3963,20 @@
       "title": "La Habana",
       "url": "https://es.wikipedia.org/wiki/La_Habana",
       "extract": "La Habana es la capital de Cuba, su ciudad más poblada y el principal centro político, económico, cultural y turístico del país. Situada en la costa noroccidental de la isla, junto al estrecho de la Florida, constituye además uno de los principales puertos del Caribe. En 2023 contaba con una población de 1 814 207 habitantes."
+    }
+  },
+  "hebron": {
+    "title": "Hebron",
+    "url": "https://en.wikipedia.org/wiki/Hebron",
+    "extract": "Hebron is a city in the southern West Bank, Palestine, and the capital of the Hebron Governorate, which is the largest in the West Bank. It is located 30 kilometers (19 mi) south of Jerusalem. The population inside in the city limits is 201,063, while the adjacent metropolitan area within the governorate is home to over 700,000 people. Hebron spans across an area of 74.1 square kilometers (28.6 sq mi). It is the third largest city in the country after Gaza and East Jerusalem. Hebron is often considered one of the Four Holy Cities in Judaism. It is also venerated in Christianity and Islam.",
+    "description": "City in the West Bank, Palestine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/BTS_Hebron_Tour_280215_24.jpg/330px-BTS_Hebron_Tour_280215_24.jpg",
+    "lat": 31.52861111,
+    "lon": 35.09694444,
+    "es": {
+      "title": "Hebrón",
+      "url": "https://es.wikipedia.org/wiki/Hebr%C3%B3n",
+      "extract": "Hebrón es una localidad palestina situada en Cisjordania, y una de las ciudades permanentemente habitadas más antiguas de Oriente Próximo. Situada a 30 kilómetros al sur de Jerusalén y enclavada en los montes de Judea, se encuentra a 930 metros por encima del nivel del mar. Es la segunda ciudad más grande de Cisjordania y la tercera más grande del Estado de Palestina, solo detrás de Gaza y Jerusalén Este. A mediados de 2024, se calcula que viven en ella 238.308 palestinos y en torno a 850 colonos judíos, concentrados estos últimos en el barrio antiguo. La ciudad se encuentra dividida en dos sectores: H1, controlada por la Autoridad Nacional Palestina, que supone un 85 % del territorio municipal, y H2, administrada por Israel."
     }
   },
   "heidelberg": {
@@ -4287,6 +4371,20 @@
       "extract": "Jabaliya, Jabalia o Yabalia es una ciudad palestina ubicada cuatro kilómetros al norte de Gaza. La ciudad está en la Gobernación del Norte en la Franja de Gaza. Según la Oficina Central Palestina de Estadística, el municipio tenía una población de 82.877 personas a mediados del año 2006."
     }
   },
+  "jaffa": {
+    "title": "Jaffa",
+    "url": "https://en.wikipedia.org/wiki/Jaffa",
+    "extract": "Jaffa, also called Japho, Joppa or Joppe in English, is an ancient Levantine port city which is part of Tel Aviv-Yafo, Israel, located in its southern part. The city sits atop a naturally elevated outcrop on the Mediterranean coastline.",
+    "description": "Ancient port and city in Tel Aviv, Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/ISR-2013-Aerial-Jaffa-Port_of_Jaffa.jpg/330px-ISR-2013-Aerial-Jaffa-Port_of_Jaffa.jpg",
+    "lat": 32.05222222,
+    "lon": 34.75305556,
+    "es": {
+      "title": "Jaffa",
+      "url": "https://es.wikipedia.org/wiki/Jaffa",
+      "extract": "Jaffa, Jafa o Yafo es una ciudad portuaria de Israel en la costa mediterránea, situada inmediatamente al sur de Tel Aviv, con la cual forma, desde 1950, una misma entidad municipal, Tel Aviv-Yafo, dentro del distrito de Tel Aviv."
+    }
+  },
   "jamestown-virginia": {
     "title": "Jamestown",
     "url": "https://en.wikipedia.org/wiki/Jamestown",
@@ -4564,6 +4662,20 @@
       "title": "Cerámico",
       "url": "https://es.wikipedia.org/wiki/Cer%C3%A1mico",
       "extract": "El Cerámico es el nombre de un demo, barrio de los alfareros de la antigua Atenas, al noroeste de la Acrópolis.\nSegún Heródoto, su nombre proviene del griego κέραμος keramos, tierra cocida. Para Pausanias, el nombre proviene más bien de Céramo, hijo de Ariadna y de Dioniso."
+    }
+  },
+  "kfar-etzion": {
+    "title": "Kfar Etzion",
+    "url": "https://en.wikipedia.org/wiki/Kfar_Etzion",
+    "extract": "Kfar Etzion is an Israeli settlement in the West Bank, organized as a religious kibbutz located in the Judean Hills between Jerusalem and Hebron in the southern West Bank, that has been through cycles of creation, destruction and re-creation. It is located 4.7 kilometres (2.9 mi) east of the Green Line and falls under the jurisdiction of Gush Etzion Regional Council. In 2024, Kfar Etzion had a population of 1,209.",
+    "description": "Israeli settlement in the West Bank",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kfar_Etzion_Small.jpg",
+    "lat": 31.64888889,
+    "lon": 35.11527778,
+    "es": {
+      "title": "Kfar Etzion",
+      "url": "https://es.wikipedia.org/wiki/Kfar_Etzion",
+      "extract": "Kfar Etzion es un asentamiento israelí y un kibutz religioso situado en los Montes de Judea, entre Jerusalén y Hebrón, en la Gobernación de Belén, Cisjordania (Palestina). Según el sistema administrativo israelí para los territorios ocupados, se encuentra en el Consejo Regional de Gush Etzion de Judea y Samaria. El asentamiento está situado a 4 kilómetros y medio de la Línea Verde, aunque al oeste del muro de seguridad. En 2016, Kfar Etzion tenía una población de 1.099 habitantes."
     }
   },
   "khalkhin-gol": {
@@ -8275,6 +8387,20 @@
       "extract": "San Lorenzo es una ciudad ubicada en la zona sur de la provincia de Santa Fe, Argentina, a 23 km al norte de la ciudad de Rosario; en la orilla occidental del río Paraná y a 147 km de la capital provincial. Es la ciudad cabecera del departamento San Lorenzo, y tiene 50 954 habitantes."
     }
   },
+  "san-remo": {
+    "title": "Sanremo",
+    "url": "https://en.wikipedia.org/wiki/Sanremo",
+    "extract": "Sanremo, also spelled San Remo in English and formerly in Italian, is a comune (municipality) on the Mediterranean coast of Liguria, in northwestern Italy. Founded in Roman times, it has a population of about 53,000, and is known as a tourist destination on the Italian Riviera. It hosts numerous cultural events, such as the Sanremo Music Festival and the Milan–San Remo cycling classic. Italo Calvino, the most significant figure of 20th century Italian literature, spent his formative years here.",
+    "description": "City in Liguria, Italy",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Collage_sanremo.png/330px-Collage_sanremo.png",
+    "lat": 43.8175,
+    "lon": 7.775,
+    "es": {
+      "title": "San Remo",
+      "url": "https://es.wikipedia.org/wiki/San_Remo",
+      "extract": "San Remo es una ciudad de Italia perteneciente a la provincia de Imperia, en la región de Liguria. Está ubicada en la costa mediterránea, al noroeste del país. Italo Calvino, la figura más significativa de la literatura italiana del sigo XX, pasó sus años formativos aquí."
+    }
+  },
   "sanaa": {
     "title": "Sanaa",
     "url": "https://en.wikipedia.org/wiki/Sanaa",
@@ -10459,6 +10585,20 @@
       "title": "Plaza de Wenceslao",
       "url": "https://es.wikipedia.org/wiki/Plaza_de_Wenceslao",
       "extract": "La Plaza de Venceslao es una de las plazas más importantes de Praga, República Checa, y el centro cultural y financiero de la Ciudad Nueva. Se han producido aquí muchos sucesos históricos, y es un escenario tradicional para manifestaciones, celebraciones y otras reuniones públicas. La plaza se llama así en honor a San Venceslao, el patrón de Bohemia. Forma parte del centro histórico de Praga, declarado por la UNESCO Patrimonio de la Humanidad."
+    }
+  },
+  "west-bank": {
+    "title": "West Bank",
+    "url": "https://en.wikipedia.org/wiki/West_Bank",
+    "extract": "The West Bank is the larger of the two Palestinian territories that make up Palestine. A landlocked territory located on the western bank of the Jordan River near the coast of the Mediterranean Sea in West Asia's Levant region, it is bordered by Jordan and the Dead Sea to the east, and by Israel to the south, west, and north. Since 1967, the territory has been under Israeli occupation, which is illegal under international law.",
+    "description": "Palestinian territory occupied by Israel",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/West_Bank_in_Palestine_%28%2Bclaimed%29.svg/330px-West_Bank_in_Palestine_%28%2Bclaimed%29.svg.png",
+    "lat": 32,
+    "lon": 35.35,
+    "es": {
+      "title": "Cisjordania",
+      "url": "https://es.wikipedia.org/wiki/Cisjordania",
+      "extract": "Cisjordania es, junto con la Franja de Gaza, una de las dos regiones que conforman Palestina. Se trata de una región de 5860 km² de superficie y de 20 a 40 kilómetros de ancho delimitada al este por el río Jordán y el mar Muerto, y al oeste, norte y sur por la llamada Línea Verde, según la demarcación que se estableció en el armisticio árabe-israelí de 1949."
     }
   },
   "westminster-abbey": {

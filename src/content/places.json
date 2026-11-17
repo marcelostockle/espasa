@@ -719,6 +719,15 @@
       }
     }
   },
+  "beeri": {
+    "label": "Be'eri",
+    "wikipedia": "Be'eri",
+    "translations": {
+      "es": {
+        "label": "Be'eri"
+      }
+    }
+  },
   "beijing": {
     "label": "Beijing",
     "wikipedia": "Beijing",
@@ -1844,6 +1853,15 @@
       }
     }
   },
+  "deir-yassin": {
+    "label": "Deir Yassin",
+    "wikipedia": "Deir Yassin",
+    "translations": {
+      "es": {
+        "label": "Deir Yasin"
+      }
+    }
+  },
   "delft": {
     "label": "Delft",
     "wikipedia": "Delft",
@@ -2240,6 +2258,24 @@
       }
     }
   },
+  "gaza-city": {
+    "label": "Gaza City",
+    "wikipedia": "Gaza City",
+    "translations": {
+      "es": {
+        "label": "Ciudad de Gaza"
+      }
+    }
+  },
+  "gaza-strip": {
+    "label": "Gaza Strip",
+    "wikipedia": "Gaza Strip",
+    "translations": {
+      "es": {
+        "label": "Franja de Gaza"
+      }
+    }
+  },
   "gdansk": {
     "label": "Gdańsk",
     "wikipedia": "Gdańsk",
@@ -2474,6 +2510,15 @@
       }
     }
   },
+  "haifa": {
+    "label": "Haifa",
+    "wikipedia": "Haifa",
+    "translations": {
+      "es": {
+        "label": "Haifa"
+      }
+    }
+  },
   "hakata-bay": {
     "label": "Hakata Bay",
     "wikipedia": "Hakata Bay",
@@ -2561,6 +2606,15 @@
     "translations": {
       "es": {
         "label": "La Habana"
+      }
+    }
+  },
+  "hebron": {
+    "label": "Hebron",
+    "wikipedia": "Hebron",
+    "translations": {
+      "es": {
+        "label": "Hebrón"
       }
     }
   },
@@ -2834,6 +2888,15 @@
       }
     }
   },
+  "jaffa": {
+    "label": "Jaffa",
+    "wikipedia": "Jaffa",
+    "translations": {
+      "es": {
+        "label": "Jafa"
+      }
+    }
+  },
   "jamestown-virginia": {
     "label": "Jamestown, Virginia",
     "wikipedia": "Jamestown, Virginia",
@@ -3011,6 +3074,15 @@
     "translations": {
       "es": {
         "label": "Cerámico"
+      }
+    }
+  },
+  "kfar-etzion": {
+    "label": "Kfar Etzion",
+    "wikipedia": "Kfar Etzion",
+    "translations": {
+      "es": {
+        "label": "Kfar Etzion"
       }
     }
   },
@@ -5453,6 +5525,15 @@
       }
     }
   },
+  "san-remo": {
+    "label": "Sanremo",
+    "wikipedia": "Sanremo",
+    "translations": {
+      "es": {
+        "label": "San Remo"
+      }
+    }
+  },
   "sanaa": {
     "label": "Sanaa",
     "wikipedia": "Sanaa",
@@ -6899,6 +6980,15 @@
     "translations": {
       "es": {
         "label": "Plaza de Wenceslao"
+      }
+    }
+  },
+  "west-bank": {
+    "label": "West Bank",
+    "wikipedia": "West Bank",
+    "translations": {
+      "es": {
+        "label": "Cisjordania"
       }
     }
   },
