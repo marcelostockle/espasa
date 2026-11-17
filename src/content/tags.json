@@ -1542,6 +1542,20 @@
       }
     }
   },
+  "hezbollah": {
+    "label": "Hezbollah",
+    "color": "#3f8f4a",
+    "description": "The Lebanese Shia political party and armed group founded in the early 1980s with Iranian backing: its attacks, wars with Israel and role in Lebanese and regional politics.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Hezbolá",
+        "description": "El partido político y grupo armado chií libanés fundado a principios de los años ochenta con respaldo iraní: sus atentados, sus guerras con Israel y su papel en la política libanesa y regional."
+      }
+    }
+  },
   "hispaniola": {
     "label": "Hispaniola",
     "color": "#8bc34a",

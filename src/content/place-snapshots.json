@@ -27,6 +27,20 @@
       "extract": "Abdera fue una polis ubicada en la región griega de Macedonia oriental y Tracia. En concreto, situada en la costa de Tracia, en el cabo Bulustra, a 17 km al NE de la desembocadura del río Nestos, casi delante de la isla de Tasos."
     }
   },
+  "abu-dhabi": {
+    "title": "Abu Dhabi",
+    "url": "https://en.wikipedia.org/wiki/Abu_Dhabi",
+    "extract": "Abu Dhabi is the capital city of the United Arab Emirates (UAE), and of the Emirate of Abu Dhabi, the seat of the Abu Dhabi Central Capital District and the UAE's second-most populous city, after Dubai. Situated on a T-shaped island, Abu Dhabi extends into the Persian Gulf from the central-western coast of the UAE.",
+    "description": "Capital city of the United Arab Emirates",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Abu_dhabi_skylines_2014.jpg/330px-Abu_dhabi_skylines_2014.jpg",
+    "lat": 24.46666667,
+    "lon": 54.36666667,
+    "es": {
+      "title": "Abu Dabi (ciudad)",
+      "url": "https://es.wikipedia.org/wiki/Abu_Dabi_(ciudad)",
+      "extract": "Abu Dabi es la capital y segunda ciudad más poblada de los Emiratos Árabes Unidos, así como del emirato homónimo. Abu Dabi se encuentra en una isla en forma de T al sureste del golfo Pérsico. El emirato en sí cubre una superficie de 67 340 km² y tenía una población de 860 000 habitantes en 2007."
+    }
+  },
   "actium": {
     "title": "Actium",
     "url": "https://en.wikipedia.org/wiki/Actium",
@@ -6277,6 +6291,15 @@
       "extract": "Nápoles es la ciudad más poblada del sur de Italia, capital de la ciudad metropolitana homónima y de la región de Campania. Es el tercer municipio italiano por población, teniendo 905 259 habitantes que, unidos a los de la ciudad metropolitana, se elevan a más de tres millones. Está situada a medio camino entre el Vesubio y otra área volcánica, los Campos Flégreos. Nápoles también desempeña un papel clave en la diplomacia y cooperación internacional, ya que alberga el Allied Joint Force Command Naples de la OTAN y, principalmente debido a su histórica vocación global, la Asamblea Parlamentaria del Mediterráneo (PAM)."
     }
   },
+  "natanz": {
+    "title": "Natanz",
+    "url": "https://en.wikipedia.org/wiki/Natanz",
+    "extract": "Natanz is a city in the Central District of Natanz County, Isfahan province, Iran, serving as capital of both the county and the district. It is 70 kilometres (43 mi) south-east of Kashan.",
+    "description": "City in Isfahan province, Iran",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Shrine_Complex_of_Sheikh_%27Abd_al-Samad%2C_Natanz_01.jpg/330px-Shrine_Complex_of_Sheikh_%27Abd_al-Samad%2C_Natanz_01.jpg",
+    "lat": 33.50722222,
+    "lon": 51.91361111
+  },
   "neauphle-le-chateau": {
     "title": "Neauphle-le-Château",
     "url": "https://en.wikipedia.org/wiki/Neauphle-le-Ch%C3%A2teau",
@@ -7492,6 +7515,19 @@
       "title": "Pirgi",
       "url": "https://es.wikipedia.org/wiki/Pirgi",
       "extract": "Pirgi fue un antiguo puerto etrusco del Lacio, Italia central, al noroeste de Caere. Su lugar lo ocupa hoy el municipio de Santa Severa."
+    }
+  },
+  "qatif": {
+    "title": "Qatif",
+    "url": "https://en.wikipedia.org/wiki/Qatif",
+    "extract": "Qatif, historically known as Al-Khutt and also referred to as Al-Qatif, is a governorate in the Eastern Province of Saudi Arabia. It covers an area of approximately 481 km². As of 2022, it had a population of 559,442. Its seat is Qatif City. It extends from Ras Tanura and Jubail in the north to Dammam in the south, and from the Persian Gulf in the east to King Fahd International Airport in the west.",
+    "description": "Governorate and urban area in Eastern Province, Saudi Arabia",
+    "lat": 26.556,
+    "lon": 49.996,
+    "es": {
+      "title": "Qatif",
+      "url": "https://es.wikipedia.org/wiki/Qatif",
+      "extract": "Qatif es una localidad de Arabia Saudí, en la región Oriental."
     }
   },
   "qingdao": {

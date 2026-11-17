@@ -17,6 +17,15 @@
       }
     }
   },
+  "abu-dhabi": {
+    "label": "Abu Dhabi",
+    "wikipedia": "Abu Dhabi",
+    "translations": {
+      "es": {
+        "label": "Abu Dabi"
+      }
+    }
+  },
   "actium": {
     "label": "Actium",
     "wikipedia": "Actium",
@@ -4130,6 +4139,15 @@
       }
     }
   },
+  "natanz": {
+    "label": "Natanz",
+    "wikipedia": "Natanz",
+    "translations": {
+      "es": {
+        "label": "Natanz"
+      }
+    }
+  },
   "neauphle-le-chateau": {
     "label": "Neauphle-le-Château",
     "wikipedia": "Neauphle-le-Château",
@@ -4928,6 +4946,15 @@
     "translations": {
       "es": {
         "label": "Pyrgi"
+      }
+    }
+  },
+  "qatif": {
+    "label": "Qatif",
+    "wikipedia": "Qatif",
+    "translations": {
+      "es": {
+        "label": "Qatif"
       }
     }
   },
