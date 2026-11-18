@@ -1,0 +1,171 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { groupIds, items, ui } from '../../lib/about';
+import { localePath, localeStaticPaths, locales, toLocale } from '../../lib/i18n';
+
+export const getStaticPaths = localeStaticPaths;
+
+const locale = toLocale(Astro.currentLocale);
+const copy = ui[locale];
+
+const [entries, tags, places, eras] = await Promise.all([
+  getCollection('entries'),
+  getCollection('tags'),
+  getCollection('places'),
+  getCollection('eras'),
+]);
+const stats: [number, string][] = [
+  [entries.length, copy.stats.entries],
+  [tags.length, copy.stats.topics],
+  [places.length, copy.stats.places],
+  [eras.length, copy.stats.eras],
+  [locales.length, copy.stats.languages],
+];
+
+// Answers are trusted HTML from src/lib/about.ts; site links get the locale prefix.
+const html = (s: string) => s.replace(/href="@(\/[^"]*)"/g, (_, p) => `href="${localePath(locale, p)}"`);
+const sections = groupIds.map((id) => ({
+  id,
+  label: copy.groups[id],
+  items: items.filter((i) => i.group === id).map((i) => ({ id: i.id, ...i[locale] })),
+}));
+---
+
+<Base title={copy.title} description={copy.description}>
+  <h1>{copy.title}</h1>
+  <p class="intro">{copy.intro}</p>
+
+  <dl class="stats">
+    {stats.map(([n, label]) => <div><dt>{n.toLocaleString(locale)}</dt><dd>{label}</dd></div>)}
+  </dl>
+  <p class="zeros">
+    <span class="date">{copy.zerosLabel}:</span>
+    {copy.zeros.map(([n, label]) => <span><strong>{n}</strong> {label}</span>)}
+  </p>
+
+  <div class="controls" hidden>
+    <input id="about-filter" type="search" placeholder={copy.filter} aria-label={copy.filterLabel} autocomplete="off" />
+    <div class="chips" role="group" aria-label={copy.filterLabel}>
+      <button type="button" class="chip" data-group="" aria-pressed="true">{copy.all}</button>
+      {sections.map((s) => <button type="button" class="chip" data-group={s.id} aria-pressed="false">{s.label}</button>)}
+    </div>
+    <div class="actions">
+      <button type="button" id="expand">{copy.expand}</button>
+      <button type="button" id="collapse">{copy.collapse}</button>
+    </div>
+  </div>
+
+  {
+    sections.map((s) => (
+      <section class="group" data-group={s.id}>
+        <h2>{s.label}</h2>
+        {s.items.map((i) => (
+          <details id={i.id} class="qa">
+            <summary>{i.q}</summary>
+            <div class="answer">
+              {i.a.map((p) => <p set:html={html(p)} />)}
+              <a class="permalink" href={`#${i.id}`} title={copy.permalink} aria-label={copy.permalink}>#</a>
+            </div>
+          </details>
+        ))}
+      </section>
+    ))
+  }
+  <p id="about-empty" class="date" role="status" hidden>{copy.noMatches}</p>
+</Base>
+
+<script>
+  const root = document.querySelector('main')!;
+  const controls = root.querySelector<HTMLElement>('.controls')!;
+  const filter = root.querySelector<HTMLInputElement>('#about-filter')!;
+  const chips = [...root.querySelectorAll<HTMLButtonElement>('.chips .chip')];
+  const groups = [...root.querySelectorAll<HTMLElement>('section.group')];
+  const qas = [...root.querySelectorAll<HTMLDetailsElement>('details.qa')];
+  const empty = root.querySelector<HTMLElement>('#about-empty')!;
+  controls.hidden = false;
+
+  // Case- and accent-insensitive, like the topic filter in Compare.
+  const fold = (s: string) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+  const text = new Map(qas.map((d) => [d, fold(d.textContent ?? '')]));
+  let group = '';
+
+  const visible = () => qas.filter((d) => !d.hidden);
+
+  function apply() {
+    const words = fold(filter.value.trim()).split(/\s+/).filter(Boolean);
+    for (const d of qas) {
+      const inGroup = !group || d.closest<HTMLElement>('section.group')!.dataset.group === group;
+      d.hidden = !(inGroup && words.every((w) => text.get(d)!.includes(w)));
+    }
+    for (const g of groups) g.hidden = !g.querySelector('details.qa:not([hidden])');
+    empty.hidden = visible().length > 0;
+  }
+
+  function reveal(d: HTMLDetailsElement) {
+    if (d.hidden) {
+      group = '';
+      filter.value = '';
+      chips.forEach((c) => c.setAttribute('aria-pressed', String(c.dataset.group === '')));
+      apply();
+    }
+    d.open = true;
+    d.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
+  }
+
+  filter.addEventListener('input', apply);
+  for (const chip of chips) {
+    chip.addEventListener('click', () => {
+      group = chip.dataset.group ?? '';
+      chips.forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
+      apply();
+    });
+  }
+  root.querySelector('#expand')!.addEventListener('click', () => visible().forEach((d) => (d.open = true)));
+  root.querySelector('#collapse')!.addEventListener('click', () => qas.forEach((d) => (d.open = false)));
+
+  function fromHash() {
+    const id = decodeURIComponent(location.hash.slice(1));
+    const d = id ? qas.find((q) => q.id === id) : undefined;
+    if (d) reveal(d);
+  }
+  addEventListener('hashchange', fromHash);
+  fromHash();
+</script>
+
+<style>
+  .intro, .qa, .controls { max-width: 46rem; }
+  .intro { font-size: 1.1rem; }
+  .stats { display: flex; flex-wrap: wrap; gap: 0.75rem 2rem; margin: 1.5rem 0 0.5rem; padding: 0; }
+  .stats div { display: flex; flex-direction: column; }
+  .stats dt { font-size: 1.8rem; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.1; }
+  .stats dd { margin: 0; color: var(--muted); font-size: 0.85rem; }
+  .zeros { display: flex; flex-wrap: wrap; gap: 0.25rem 1.1rem; margin: 0 0 1.5rem; font-size: 0.9rem; }
+  .controls { display: grid; gap: 0.75rem; margin: 1.5rem 0 1rem; position: sticky; top: 0; z-index: 1; background: var(--bg); padding: 0.5rem 0; }
+  .controls[hidden] { display: none; }
+  .controls input {
+    width: 100%; padding: 0.55rem 0.8rem; font: inherit; color: inherit;
+    background: transparent; border: 1px solid var(--line); border-radius: 0.4rem;
+  }
+  .chips, .actions { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .chips .chip { font-family: inherit; background: transparent; color: var(--fg); cursor: pointer; }
+  .chips .chip[aria-pressed='true'] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+  .actions button {
+    font: inherit; font-size: 0.9rem; color: var(--muted); background: none; border: 0;
+    padding: 0.1rem 0.4rem; text-decoration: underline; cursor: pointer;
+  }
+  .actions button:hover { color: var(--fg); }
+  .group { margin-top: 2rem; scroll-margin-top: 8rem; }
+  .group[hidden], .qa[hidden] { display: none; }
+  .group h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 0.5rem; }
+  .qa { border-top: 1px solid var(--line); scroll-margin-top: 8rem; }
+  .qa:last-of-type { border-bottom: 1px solid var(--line); }
+  .qa summary { padding: 0.7rem 0; cursor: pointer; font-weight: 600; }
+  .qa summary:hover { text-decoration: underline; }
+  .answer { position: relative; padding: 0 2rem 0.9rem 0; }
+  .answer p { margin: 0 0 0.7rem; }
+  .answer code { font-size: 0.88em; padding: 0.05rem 0.3rem; border-radius: 0.25rem; background: color-mix(in srgb, var(--fg) 8%, transparent); }
+  .permalink { position: absolute; right: 0; top: 0; color: var(--muted); text-decoration: none; }
+  .permalink:hover { color: var(--fg); }
+  @media (max-width: 40rem) { .controls { position: static; } }
+</style>

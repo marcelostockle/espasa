@@ -58,6 +58,8 @@ const path = stripLocale(Astro.url.pathname);
       </ul>
     </aside>
     <footer class="site">
+      <a href={localePath(locale, '/about/')}>{strings.aboutTitle}</a>
+      <a href="https://github.com/marcelostockle/espasa" rel="noopener">GitHub</a>
       <a href={localePath(locale, '/contact/')}>{strings.contact}</a>
       <a href={localePath(locale, '/privacy/')}>{strings.privacy}</a>
     </footer>
