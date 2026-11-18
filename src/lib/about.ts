@@ -563,7 +563,7 @@ export const ui: Record<
     title: 'About this site',
     description: 'How Espasa is built: the stack, search, performance, security and a few quirks.',
     intro:
-      'Espasa is part encyclopedia, part portfolio piece. Here is how it works, in questions you can open, filter, search or have picked for you.',
+      'Espasa is part encyclopedia, part portfolio piece. Here is how it works.',
     groups: {
       stack: 'The stack',
       content: 'Content & data',
@@ -592,7 +592,7 @@ export const ui: Record<
     title: 'Acerca de este sitio',
     description: 'Cómo está hecho Espasa: la pila tecnológica, búsqueda, rendimiento, seguridad y algunas rarezas.',
     intro:
-      'Espasa es en parte enciclopedia y en parte pieza de portafolio. Así funciona, en preguntas que puedes abrir, filtrar, buscar o dejar que te elijan una.',
+      'Espasa es en parte enciclopedia y en parte pieza de portafolio. Así funciona.',
     groups: {
       stack: 'La pila',
       content: 'Contenido y datos',
