@@ -8893,6 +8893,15 @@
       "extract": "Shenzhen es una ciudad subprovincia localizada en el delta del río de las Perlas, en la costa sur de la provincia de Cantón de la República Popular China. Está ubicada en la frontera natural entre China y Hong Kong, en la desembocadura del río de las Perlas."
     }
   },
+  "sheridan-circle": {
+    "title": "Sheridan Circle",
+    "url": "https://en.wikipedia.org/wiki/Sheridan_Circle",
+    "extract": "Sheridan Circle is a traffic circle and park in the Sheridan-Kalorama neighborhood of Washington, D.C. The traffic circle, one of two in the neighborhood, is the intersection of 23rd Street NW, Massachusetts Avenue NW, and R Street NW. The buildings along this stretch of Massachusetts Avenue NW are part of Embassy Row, which runs from Scott Circle to Observatory Circle. Sheridan Circle is a contributing property to the Massachusetts Avenue Historic District and the Sheridan-Kalorama Historic District, both listed on the National Register of Historic Places (NRHP). In addition, the equestrian statue of General Philip Sheridan is 1 of 18 Civil War Monuments in Washington, D.C., that were collectively listed on the NRHP.",
+    "description": "Traffic circle in Washington D.C.",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sheridan_Circle.JPG/330px-Sheridan_Circle.JPG",
+    "lat": 38.91216667,
+    "lon": -77.05066667
+  },
   "shimonoseki": {
     "title": "Shimonoseki",
     "url": "https://en.wikipedia.org/wiki/Shimonoseki",

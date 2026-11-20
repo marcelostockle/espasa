@@ -5858,6 +5858,15 @@
       }
     }
   },
+  "sheridan-circle": {
+    "label": "Sheridan Circle",
+    "wikipedia": "Sheridan Circle",
+    "translations": {
+      "es": {
+        "label": "Sheridan Circle"
+      }
+    }
+  },
   "shimonoseki": {
     "label": "Shimonoseki",
     "wikipedia": "Shimonoseki",
