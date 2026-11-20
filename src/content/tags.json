@@ -184,6 +184,20 @@
       }
     }
   },
+  "augusto-pinochet": {
+    "label": "Augusto Pinochet",
+    "color": "#6d3f8f",
+    "description": "Chilean army general who led the 1973 coup and ruled Chile as head of the military regime until 1990.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Augusto Pinochet",
+        "description": "General del ejército chileno que encabezó el golpe de 1973 y gobernó Chile al frente del régimen militar hasta 1990."
+      }
+    }
+  },
   "augustus": {
     "label": "Augustus",
     "color": "#37474f",
@@ -601,6 +615,20 @@
       "es": {
         "label": "Chile",
         "description": "El territorio del actual Chile como lugar: su costa, el dominio colonial español y los mapuches, desde la llegada de los españoles en 1536 hasta la independencia en 1818."
+      }
+    }
+  },
+  "chilean-dictatorship": {
+    "label": "Chilean military dictatorship",
+    "color": "#c4622d",
+    "description": "The military regime that ruled Chile from the September 1973 coup to March 1990: its repression, economic model, constitution and end.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Dictadura militar chilena",
+        "description": "El régimen militar que gobernó Chile desde el golpe de septiembre de 1973 hasta marzo de 1990: su represión, modelo económico, constitución y final."
       }
     }
   },
@@ -2995,6 +3023,20 @@
       }
     }
   },
+  "popular-unity": {
+    "label": "Popular Unity government",
+    "color": "#2e7d5b",
+    "description": "The Chilean left-wing coalition government of Salvador Allende (1970-1973) and its 'Chilean road to socialism'.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Gobierno de la Unidad Popular",
+        "description": "El gobierno de la coalición de izquierda de Salvador Allende en Chile (1970-1973) y su «vía chilena al socialismo»."
+      }
+    }
+  },
   "portugal": {
     "label": "Portugal",
     "color": "#e040fb",
@@ -3378,6 +3420,20 @@
       "es": {
         "label": "Sadam Huseín",
         "description": "Dirigente baazista iraquí y presidente de 1979 a 2003."
+      }
+    }
+  },
+  "salvador-allende": {
+    "label": "Salvador Allende",
+    "color": "#b23a48",
+    "description": "Chilean Socialist physician and politician, president of Chile from 1970 until his death in the 1973 coup.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Salvador Allende",
+        "description": "Médico y político socialista chileno, presidente de Chile desde 1970 hasta su muerte durante el golpe de Estado de 1973."
       }
     }
   },

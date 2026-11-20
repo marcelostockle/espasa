@@ -2249,6 +2249,20 @@
       "extract": "Chongqing es uno de los cuatro municipios bajo jurisdicción central de la República Popular China. Se creó como municipio, el 14 de marzo de 1997, para potenciar la zona y controlar la presa de las Tres Gargantas. Hasta antes de crearse como municipio formaba parte de la provincia de Sichuan."
     }
   },
+  "chuquicamata": {
+    "title": "Chuquicamata",
+    "url": "https://en.wikipedia.org/wiki/Chuquicamata",
+    "extract": "Chuquicamata is the largest open pit copper mine in terms of excavated volume in the world. It is located in the north of Chile, just outside Calama, at 2,850 m (9,350 ft) above sea level. It is 215 km (134 mi) northeast of Antofagasta and 1,240 km (770 mi) north of the capital, Santiago. Flotation and smelting facilities were installed in 1952, and expansion of the refining facilities in 1968 made 500,000 tons annual copper production possible in the late 1970s. Previously part of Anaconda Copper, the mine is now owned and operated by Codelco, a Chilean state enterprise, since the Chilean nationalization of copper in the late 1960s and early 1970s. Its depth of 850 metres (2,790 ft) makes it the second deepest open-pit mine in the world, after Bingham Canyon Mine in Utah, United States.",
+    "description": "Largest open pit mine in the world by volume",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_110-112_PAN.JPG/330px-Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_110-112_PAN.JPG",
+    "lat": -22.30546111,
+    "lon": -68.90224167,
+    "es": {
+      "title": "Chuquicamata",
+      "url": "https://es.wikipedia.org/wiki/Chuquicamata",
+      "extract": "La mina de Chuquicamata es una mina a cielo abierto de cobre, oro y molibdeno. Está ubicada a 15 km al norte de Calama y a 2870 metros de altitud, en la región de Antofagasta, Chile. Fue considerada la mina más grande del mundo en su tipo y la mayor productora de cobre.[cita requerida]"
+    }
+  },
   "cleveland": {
     "title": "Cleveland",
     "url": "https://en.wikipedia.org/wiki/Cleveland",
@@ -3135,6 +3149,20 @@
       "title": "Eretria",
       "url": "https://es.wikipedia.org/wiki/Eretria",
       "extract": "Eretria fue una ciudad de la Antigua Grecia, localizada en la costa occidental de la isla de Eubea, enfrente de la costa del Ática al otro lado del estrecho golfo de Eubea. Hay una moderna ciudad griega con el mismo nombre en el lugar antiguo. El actual municipio de Eretria contaba en 2011 con una población de 13053 habitantes y la población de la unidad municipal ascendía a 6330."
+    }
+  },
+  "estadio-nacional": {
+    "title": "Julio Martínez Prádanos National Stadium",
+    "url": "https://en.wikipedia.org/wiki/Julio_Mart%C3%ADnez_Pr%C3%A1danos_National_Stadium",
+    "extract": "The Julio Martínez Prádanos National Stadium is an association football stadium in Santiago, Chile. Located in the Ñuñoa commune, it is part of the National Stadium Sports Park, a 62 hectare sporting complex which also features tennis courts, an aquatics center, a modern gymnasium, a velodrome, a BMX circuit, and an assistant ground/warmup athletics track.",
+    "description": "Stadium in Santiago, Chile",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Inicio_del_partido_Chile_-_Uruguay%2C_Copa_Am%C3%A9rica_Chile_2015.jpg/330px-Inicio_del_partido_Chile_-_Uruguay%2C_Copa_Am%C3%A9rica_Chile_2015.jpg",
+    "lat": -33.46444444,
+    "lon": -70.61055556,
+    "es": {
+      "title": "Estadio Nacional Julio Martínez Prádanos",
+      "url": "https://es.wikipedia.org/wiki/Estadio_Nacional_Julio_Mart%C3%ADnez_Pr%C3%A1danos",
+      "extract": "El Estadio Nacional Julio Martínez Prádanos, más conocido como Estadio Nacional, es el principal recinto deportivo de Chile, ubicado en el Parque Deportivo Estadio Nacional, un complejo deportivo multidisciplinario con una extensión de cerca de 64 hectáreas, en la comuna de Ñuñoa en la ciudad de Santiago. El recinto posee una capacidad oficial máxima de 46 190 espectadores sentados, capacidad determinada por Estadio Seguro."
     }
   },
   "ethiopia": {
@@ -4954,6 +4982,20 @@
       "title": "La Isabela",
       "url": "https://es.wikipedia.org/wiki/La_Isabela",
       "extract": "La Isabela fue una villa fundada por Cristóbal Colón en 1494 durante su Segundo Viaje, situada en la provincia de Puerto Plata, República Dominicana."
+    }
+  },
+  "la-moneda": {
+    "title": "La Moneda Palace",
+    "url": "https://en.wikipedia.org/wiki/La_Moneda_Palace",
+    "extract": "La Moneda Palace, or simply La Moneda, is the seat of the president of the Republic of Chile. It also houses the offices of three cabinet ministers: Interior, General Secretariat of the Presidency, and General Secretariat of the Government. Located in downtown Santiago, it occupies an entire block in the Civic District, bordered by Moneda street to the north, Morandé street to the east, Alameda del Libertador Bernardo O'Higgins to the south, and Teatinos street to the west.",
+    "description": "Building in Santiago, Chile",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Palacio_de_La_Moneda_-_miguelreflex.jpg/330px-Palacio_de_La_Moneda_-_miguelreflex.jpg",
+    "lat": -33.443018,
+    "lon": -70.65387,
+    "es": {
+      "title": "Palacio de La Moneda",
+      "url": "https://es.wikipedia.org/wiki/Palacio_de_La_Moneda",
+      "extract": "El Palacio de La Moneda, comúnmente conocido como La Moneda, es la sede del Gobierno de Chile y residencia del presidente de la República de Chile, ubicado en la ciudad capital de Santiago. También alberga la Secretaría General de la Presidencia y a la Secretaría General de Gobierno. Se ubica en la comuna de Santiago, entre la calle Moneda, calle Morandé, Avenida Libertador Bernardo O'Higgins, y calle Teatinos. Al norte se ubica la plaza de la Constitución y al sur, la plaza de la Ciudadanía."
     }
   },
   "la-paz": {

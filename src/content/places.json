@@ -1484,6 +1484,15 @@
       }
     }
   },
+  "chuquicamata": {
+    "label": "Chuquicamata",
+    "wikipedia": "Chuquicamata",
+    "translations": {
+      "es": {
+        "label": "Chuquicamata"
+      }
+    }
+  },
   "cleveland": {
     "label": "Cleveland",
     "wikipedia": "Cleveland",
@@ -2057,6 +2066,15 @@
     "translations": {
       "es": {
         "label": "Eretria"
+      }
+    }
+  },
+  "estadio-nacional": {
+    "label": "Estadio Nacional, Santiago",
+    "wikipedia": "Julio Martínez Prádanos National Stadium",
+    "translations": {
+      "es": {
+        "label": "Estadio Nacional de Santiago"
       }
     }
   },
@@ -3263,6 +3281,15 @@
     "translations": {
       "es": {
         "label": "La Isabela"
+      }
+    }
+  },
+  "la-moneda": {
+    "label": "La Moneda Palace",
+    "wikipedia": "La Moneda Palace",
+    "translations": {
+      "es": {
+        "label": "Palacio de La Moneda"
       }
     }
   },
