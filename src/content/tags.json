@@ -57,6 +57,20 @@
       }
     }
   },
+  "american-revolution": {
+    "label": "American Revolution",
+    "color": "#a6192e",
+    "description": "The conflict between Britain and its Thirteen Colonies (c. 1763-1783): the disputes over taxation and self-government, the break with the Crown and the war that created the United States.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Revolución estadounidense",
+        "description": "El conflicto entre Gran Bretaña y sus Trece Colonias (c. 1763-1783): las disputas sobre impuestos y autogobierno, la ruptura con la Corona y la guerra que creó los Estados Unidos."
+      }
+    }
+  },
   "anwar-sadat": {
     "label": "Anwar Sadat",
     "color": "#8c7a45",

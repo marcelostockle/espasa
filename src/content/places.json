@@ -26,6 +26,15 @@
       }
     }
   },
+  "acadia": {
+    "label": "Acadia",
+    "wikipedia": "Acadia",
+    "translations": {
+      "es": {
+        "label": "Acadia"
+      }
+    }
+  },
   "actium": {
     "label": "Actium",
     "wikipedia": "Actium",
@@ -1571,6 +1580,15 @@
     "translations": {
       "es": {
         "label": "Compiègne"
+      }
+    }
+  },
+  "concord-massachusetts": {
+    "label": "Concord, Massachusetts",
+    "wikipedia": "Concord, Massachusetts",
+    "translations": {
+      "es": {
+        "label": "Concord (Massachusetts)"
       }
     }
   },
@@ -3428,6 +3446,15 @@
       }
     }
   },
+  "lexington-massachusetts": {
+    "label": "Lexington, Massachusetts",
+    "wikipedia": "Lexington, Massachusetts",
+    "translations": {
+      "es": {
+        "label": "Lexington (Massachusetts)"
+      }
+    }
+  },
   "lhasa": {
     "label": "Lhasa",
     "wikipedia": "Lhasa",
@@ -4355,6 +4382,24 @@
       }
     }
   },
+  "norfolk-virginia": {
+    "label": "Norfolk, Virginia",
+    "wikipedia": "Norfolk, Virginia",
+    "translations": {
+      "es": {
+        "label": "Norfolk (Virginia)"
+      }
+    }
+  },
+  "northampton-massachusetts": {
+    "label": "Northampton, Massachusetts",
+    "wikipedia": "Northampton, Massachusetts",
+    "translations": {
+      "es": {
+        "label": "Northampton (Massachusetts)"
+      }
+    }
+  },
   "northwest-territory": {
     "label": "Northwest Territory",
     "wikipedia": "Northwest Territory",
@@ -5018,6 +5063,15 @@
     "translations": {
       "es": {
         "label": "Providence (Rhode Island)"
+      }
+    }
+  },
+  "province-of-quebec-1763": {
+    "label": "Province of Quebec (1763-1791)",
+    "wikipedia": "Province of Quebec (1763–1791)",
+    "translations": {
+      "es": {
+        "label": "Provincia de Quebec (1763-1791)"
       }
     }
   },

@@ -41,6 +41,15 @@
       "extract": "Abu Dabi es la capital y segunda ciudad más poblada de los Emiratos Árabes Unidos, así como del emirato homónimo. Abu Dabi se encuentra en una isla en forma de T al sureste del golfo Pérsico. El emirato en sí cubre una superficie de 67 340 km² y tenía una población de 860 000 habitantes en 2007."
     }
   },
+  "acadia": {
+    "title": "Acadia",
+    "url": "https://en.wikipedia.org/wiki/Acadia",
+    "extract": "Acadia was a colony of New France in northeastern North America which included parts of what are now the Maritime provinces, the Gaspé Peninsula and Maine to the Kennebec River, an area also known as the Maritime Peninsula. Settlers primarily came from the southwestern regions of France, including Poitou-Charentes and the Aquitaine region, as well as Poitou and Anjou. The territory was inhabited by various First Nations of the Wabanaki Confederacy who referred to the region as Dawnland.",
+    "description": "Colony in north-eastern North America",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Royal_flag_of_France.svg/330px-Royal_flag_of_France.svg.png",
+    "lat": 47.66527778,
+    "lon": -65.75416667
+  },
   "actium": {
     "title": "Actium",
     "url": "https://en.wikipedia.org/wiki/Actium",
@@ -2387,6 +2396,20 @@
       "title": "Compiègne",
       "url": "https://es.wikipedia.org/wiki/Compi%C3%A8gne",
       "extract": "Compiègne es una ciudad francesa situada en el departamento del Oise, en la región Alta Francia."
+    }
+  },
+  "concord-massachusetts": {
+    "title": "Concord, Massachusetts",
+    "url": "https://en.wikipedia.org/wiki/Concord%2C_Massachusetts",
+    "extract": "Concord is a town in Middlesex County, Massachusetts, United States. In the 2020 census, the town population was 18,491. It contains the census-designated place of West Concord. The United States Census Bureau considers Concord part of Greater Boston. The town center is near where the Sudbury and Assabet rivers join to form the Concord River.",
+    "description": "Town in Massachusetts, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Middlesex_County_Massachusetts_incorporated_and_unincorporated_areas_Concord_highlighted.svg/330px-Middlesex_County_Massachusetts_incorporated_and_unincorporated_areas_Concord_highlighted.svg.png",
+    "lat": 42.46027778,
+    "lon": -71.34944444,
+    "es": {
+      "title": "Concord (Massachusetts)",
+      "url": "https://es.wikipedia.org/wiki/Concord_(Massachusetts)",
+      "extract": "Concord es un pueblo ubicado en el condado de Middlesex en el estado estadounidense de Massachusetts. En el Censo de 2010 tenía una población de 17 668 habitantes y una densidad poblacional de 264 personas por km²."
     }
   },
   "congo-river": {
@@ -5206,6 +5229,20 @@
       "extract": "Lesbos es una isla griega que forma parte de un gran conjunto de islas cercanas a la costa de Turquía. Su capital es Mitilene. Junto a algunas islas menores, constituye la unidad periférica de Lesbos, siendo su isla homónima la más grande e importante del archipiélago."
     }
   },
+  "lexington-massachusetts": {
+    "title": "Lexington, Massachusetts",
+    "url": "https://en.wikipedia.org/wiki/Lexington%2C_Massachusetts",
+    "extract": "Lexington is a suburban town in Middlesex County, Massachusetts, United States, located 10 miles (16 km) from Downtown Boston. The population was 34,454 as of the 2020 census. The area was originally inhabited by Native Americans, and was first settled by Europeans c. 1642 as a farming community. Lexington is well-known as the site of the first shots of the American Revolutionary War, in the Battle of Lexington on April 19, 1775, where the \"Shot heard 'round the world\" took place. It is home to Minute Man National Historical Park.",
+    "description": "Town in Middlesex County, Massachusetts, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Minute_Man_Statue_Lexington_Massachusetts.jpg/330px-Minute_Man_Statue_Lexington_Massachusetts.jpg",
+    "lat": 42.4475,
+    "lon": -71.2275,
+    "es": {
+      "title": "Lexington (Massachusetts)",
+      "url": "https://es.wikipedia.org/wiki/Lexington_(Massachusetts)",
+      "extract": "Lexington es un pueblo ubicado en el condado de Middlesex en el estado estadounidense de Massachusetts. En el Censo de 2010 tenía una población de 31 394 habitantes y una densidad poblacional de 728,27 personas por km²."
+    }
+  },
   "lhasa": {
     "title": "Lhasa",
     "url": "https://en.wikipedia.org/wiki/Lhasa",
@@ -6622,6 +6659,34 @@
       "extract": "Nördlingen es una localidad con más de 20 000 habitantes del distrito de Danubio-Ries, en Baviera, Alemania. Escenario de dos batallas acontecidas durante la guerra de los Treinta Años, la antigua Ciudad Imperial de Nördlingen se encuentra a lo largo de la Ruta Romántica, en medio de un cráter de meteorito, caído hace 15 millones de años, cuya extensión de casi 25 km de diámetro determina hoy en día la región del Ries de Nördlingen, y a una altitud de 429 m s. n. m."
     }
   },
+  "norfolk-virginia": {
+    "title": "Norfolk, Virginia",
+    "url": "https://en.wikipedia.org/wiki/Norfolk%2C_Virginia",
+    "extract": "Norfolk is an independent city in the U.S. commonwealth of Virginia. It had a population of 238,005 at the 2020 census, making it the third-most populous city in both the Hampton Roads metropolitan area and in Virginia, after neighboring cities Virginia Beach and Chesapeake, as well as the 101st-most populous city in the United States. The city holds a strategic position as the historical, urban, financial, and cultural center of the Hampton Roads area, which has more than 1.8 million inhabitants and is the 37th-largest metropolitan area in the U.S.",
+    "description": "Independent city in Virginia, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/The_Wisconsin_Battleship_in_Norfolk%2C_VA.jpg/330px-The_Wisconsin_Battleship_in_Norfolk%2C_VA.jpg",
+    "lat": 36.84694444,
+    "lon": -76.28527778,
+    "es": {
+      "title": "Norfolk (Virginia)",
+      "url": "https://es.wikipedia.org/wiki/Norfolk_(Virginia)",
+      "extract": "Norfolk es una ciudad independiente situada en la Mancomunidad de Virginia, Estados Unidos. Con una población de 238.005 habitantes, cifras del censo de 2020, Norfolk es una de las ciudades más grandes de Virginia."
+    }
+  },
+  "northampton-massachusetts": {
+    "title": "Northampton, Massachusetts",
+    "url": "https://en.wikipedia.org/wiki/Northampton%2C_Massachusetts",
+    "extract": "Northampton is a city in and the county seat of Hampshire County, Massachusetts, United States. As of the 2020 census, the population of Northampton was 29,571.",
+    "description": "City in Massachusetts, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Northampton%2C_Massachusetts_%28cropped%29.jpg/330px-Northampton%2C_Massachusetts_%28cropped%29.jpg",
+    "lat": 42.31805556,
+    "lon": -72.63194444,
+    "es": {
+      "title": "Northampton (Massachusetts)",
+      "url": "https://es.wikipedia.org/wiki/Northampton_(Massachusetts)",
+      "extract": "Northampton es una ciudad ubicada en el condado de Hampshire en el estado estadounidense de Massachusetts. En el censo de 2010 tenía una población de 28.549 habitantes y una densidad poblacional de 308,31 personas por km². Se encuentra a orillas del río Connecticut."
+    }
+  },
   "northwest-territory": {
     "title": "Northwest Territory",
     "url": "https://en.wikipedia.org/wiki/Northwest_Territory",
@@ -7630,6 +7695,18 @@
       "title": "Providence (Rhode Island)",
       "url": "https://es.wikipedia.org/wiki/Providence_(Rhode_Island)",
       "extract": "Providence es la capital y la ciudad más grande de Rhode Island en los Estados Unidos, y una de las primeras ciudades en ser fundadas en ese país. Ubicada en el condado de Providence, la ciudad es la segunda más grande de Nueva Inglaterra. Su población en 2010 era de 178 042 habitantes, mientras que la de su área metropolitana era de 1 600 856 habitantes."
+    }
+  },
+  "province-of-quebec-1763": {
+    "title": "Province of Quebec (1763–1791)",
+    "url": "https://en.wikipedia.org/wiki/Province_of_Quebec_(1763%E2%80%931791)",
+    "extract": "The Province of Quebec was a colony in British North America which comprised the former French colony of Canada. It was established by the Kingdom of Great Britain in 1763, following the conquest of New France by British forces during the Seven Years' War. As part of the 1763 Treaty of Paris, France gave up its claim to the colony; it instead negotiated to keep the small profitable island of Guadeloupe.",
+    "description": "British colony of North America",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/330px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png",
+    "es": {
+      "title": "Provincia de Quebec (1763-1791)",
+      "url": "https://es.wikipedia.org/wiki/Provincia_de_Quebec_(1763-1791)",
+      "extract": "La provincia de Quebec fue una colonia en América del Norte creada por Gran Bretaña después de la Guerra de los Siete Años. Gran Bretaña adquirió el Canadá francés por el Tratado de París de 1763 en el que Francia negoció para mantener la pequeña pero muy rica isla de Guadalupe en su lugar. Por la Proclamación real británica de 1763, Canadá pasó a llamarse provincia de Quebec. La provincia se extendía desde la costa de Labrador en el océano Atlántico, al suroeste por el río San Lorenzo y los Grandes Lagos y más allá de la confluencia de los ríos Ohio y Misisipi. Algunas partes del sudoeste más tarde fueron cedidas a los Estados Unidos por el Tratado de París (1783) en la conclusión de la Revolución Americana."
     }
   },
   "provincetown-massachusetts": {
