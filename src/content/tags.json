@@ -702,6 +702,35 @@
       }
     }
   },
+  "colombia": {
+    "label": "Colombia",
+    "color": "#c8a21b",
+    "description": "The Republic of Colombia: its politics, parties and internal conflicts after independence.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Colombia",
+        "description": "La República de Colombia: su política, sus partidos y sus conflictos internos tras la independencia."
+      }
+    }
+  },
+  "colombian-armed-conflict": {
+    "label": "Colombian armed conflict",
+    "color": "#2e8b6f",
+    "description": "The decades-long conflict (from 1964) among the Colombian state, left-wing guerrillas, paramilitaries and drug traffickers.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Conflicto armado colombiano",
+        "description": "El conflicto de varias décadas (desde 1964) entre el Estado colombiano, las guerrillas de izquierda, los paramilitares y los narcotraficantes."
+      }
+    }
+  },
   "colonial-north-america": {
     "label": "Colonial North America",
     "color": "#b0603b",
@@ -2100,6 +2129,20 @@
       }
     }
   },
+  "la-violencia": {
+    "label": "La Violencia",
+    "color": "#b5483a",
+    "description": "The Liberal–Conservative civil strife in Colombia, c. 1946–1958, that killed an estimated hundreds of thousands, and the National Front that ended it.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "La Violencia",
+        "description": "La violencia bipartidista entre liberales y conservadores en Colombia, c. 1946-1958, que dejó cientos de miles de muertos según las estimaciones, y el Frente Nacional que le puso fin."
+      }
+    }
+  },
   "late-bronze-age": {
     "label": "Late Bronze Age",
     "color": "#1414b4",
@@ -2707,6 +2750,20 @@
       "es": {
         "label": "Guerra de la Triple Alianza",
         "description": "La guerra de 1864-1870 en que Paraguay combatió contra Brasil, Argentina y Uruguay, que devastó a Paraguay, y sus consecuencias."
+      }
+    }
+  },
+  "paramilitarism": {
+    "label": "Paramilitarism",
+    "color": "#7a4e9c",
+    "description": "Armed groups tolerated, backed or created by states, landowners or elites to fight insurgents outside the regular army.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Paramilitarismo",
+        "description": "Grupos armados tolerados, respaldados o creados por Estados, terratenientes o élites para combatir insurgentes al margen del ejército regular."
       }
     }
   },

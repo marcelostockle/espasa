@@ -3662,6 +3662,15 @@
       }
     }
   },
+  "mapiripan": {
+    "label": "Mapiripán",
+    "wikipedia": "Mapiripán",
+    "translations": {
+      "es": {
+        "label": "Mapiripán"
+      }
+    }
+  },
   "marathon": {
     "label": "Marathon",
     "wikipedia": "Marathon, Greece",
@@ -4814,6 +4823,15 @@
       }
     }
   },
+  "planadas": {
+    "label": "Planadas",
+    "wikipedia": "Planadas",
+    "translations": {
+      "es": {
+        "label": "Planadas"
+      }
+    }
+  },
   "plataea": {
     "label": "Plataea",
     "wikipedia": "Plataea",
@@ -4964,6 +4982,15 @@
     "translations": {
       "es": {
         "label": "Provincetown (Massachusetts)"
+      }
+    }
+  },
+  "puerto-boyaca": {
+    "label": "Puerto Boyacá",
+    "wikipedia": "Puerto Boyacá",
+    "translations": {
+      "es": {
+        "label": "Puerto Boyacá"
       }
     }
   },
@@ -5840,6 +5867,15 @@
       }
     }
   },
+  "simacota": {
+    "label": "Simacota",
+    "wikipedia": "Simacota",
+    "translations": {
+      "es": {
+        "label": "Simacota"
+      }
+    }
+  },
   "sinaia": {
     "label": "Sinaia",
     "wikipedia": "Sinaia",
@@ -6350,6 +6386,15 @@
     "translations": {
       "es": {
         "label": "Tiberíades"
+      }
+    }
+  },
+  "tierralta": {
+    "label": "Tierralta",
+    "wikipedia": "Tierralta",
+    "translations": {
+      "es": {
+        "label": "Tierralta"
       }
     }
   },

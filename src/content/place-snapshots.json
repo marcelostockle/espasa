@@ -5561,6 +5561,20 @@
       "extract": "Manzanar es el más conocido de los diez campos de concentración estadounidenses, donde más de 110.000 nikkei estadounidenses fueron encarcelados durante la Segunda Guerra Mundial. Está ubicado a los pies de la Sierra Nevada en el valle Owens, California, y entre los poblados de Lone Pine, al sur, e Independence, al norte, aproximadamente a 370 kilómetros al noreste de Los Ángeles."
     }
   },
+  "mapiripan": {
+    "title": "Mapiripán",
+    "url": "https://en.wikipedia.org/wiki/Mapirip%C3%A1n",
+    "extract": "Mapiripán is a town and municipality in the Meta Department, Colombia. It was the site of the 1997 Mapiripán Massacre.",
+    "description": "Municipality and town in Meta Department, Colombia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Poligrow_Colombia_en_Mapirip%C3%A1n_-_Meta_05.jpg/330px-Poligrow_Colombia_en_Mapirip%C3%A1n_-_Meta_05.jpg",
+    "lat": 2.88333333,
+    "lon": -72.13333333,
+    "es": {
+      "title": "Mapiripán",
+      "url": "https://es.wikipedia.org/wiki/Mapirip%C3%A1n",
+      "extract": "Mapiripán es un municipio colombiano situado en el departamento del Meta a orillas del río Guaviare. Dista 116 km de San José del Guaviare al norte, 324 km de Villavicencio y 417 km de Bogotá al sur respectivamente."
+    }
+  },
   "marathon": {
     "title": "Marathon, Greece",
     "url": "https://en.wikipedia.org/wiki/Marathon%2C_Greece",
@@ -7323,6 +7337,18 @@
       "extract": "La plaza de la Concordia está situada al comienzo de la avenida de los Campos Elíseos en el VIII Distrito de París, en Francia. Se trata de la segunda más grande de Francia después de la plaza de Quinconces, en Burdeos."
     }
   },
+  "planadas": {
+    "title": "Planadas",
+    "url": "https://en.wikipedia.org/wiki/Planadas",
+    "extract": "Planadas Is a Colombian municipality located in the department of Tolima. It was founded in 1966 during the presidency of Carlos Lleras Restrepo and lies 252 km of Ibagué the capital of the department.",
+    "description": "Municipality and town in Tolima, Colombia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Colombia_-_Tolima_-_Planadas.svg/330px-Colombia_-_Tolima_-_Planadas.svg.png",
+    "es": {
+      "title": "Planadas",
+      "url": "https://es.wikipedia.org/wiki/Planadas",
+      "extract": "Planadas es un municipio colombiano ubicado en el departamento de Tolima. Fue fundado en 1966 durante el gobierno de Carlos Lleras Restrepo y dista 231 km de Ibagué, la capital del departamento."
+    }
+  },
   "plataea": {
     "title": "Plataea",
     "url": "https://en.wikipedia.org/wiki/Plataea",
@@ -7548,6 +7574,20 @@
       "title": "Provincetown",
       "url": "https://es.wikipedia.org/wiki/Provincetown",
       "extract": "Provincetown es un pueblo ubicado en la punta del cabo Cod, en el condado de Barnstable, Massachusetts, Estados Unidos. En el Censo de 2010 tenía una población de 2942 habs. y una densidad poblacional de 65 hab/km²."
+    }
+  },
+  "puerto-boyaca": {
+    "title": "Puerto Boyacá",
+    "url": "https://en.wikipedia.org/wiki/Puerto_Boyac%C3%A1",
+    "extract": "Puerto Boyacá is a Colombian river-port town and municipality by the Magdalena River in the Boyacá Department, where is also considered a Special Trade Zone due to its port status. Its main industries are oil exploration and processing. In the 1980s and early 1990s, Puerto Boyacá was affected intensively by the Colombian Armed Conflict.",
+    "description": "Municipality and town in Boyacá Department, Colombia",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fe/PuertoBoyacaStreet.jpg",
+    "lat": 6,
+    "lon": -74.41666667,
+    "es": {
+      "title": "Puerto Boyacá",
+      "url": "https://es.wikipedia.org/wiki/Puerto_Boyac%C3%A1",
+      "extract": "Puerto Boyacá es un municipio y puerto colombiano del departamento de Boyacá, capital de la Zona de Manejo Especial y antiguamente denominada «Territorio Vásquez». Puerto Boyacá es uno de los principales puertos de la región del Magdalena Medio y con una población cercana a los 50.000 habitantes es la quinta ciudad del departamento. También es a la vez el principal puerto fluvial del departamento de Boyacá."
     }
   },
   "punta-del-este": {
@@ -8867,6 +8907,20 @@
       "extract": "El Sele es un importante río de la región italiana de la Campania, de 64 km de longitud, el segundo de la región y del sur de Italia por volumen medio de aguas después del Volturno, y que desemboca en el Mar Tirreno"
     }
   },
+  "simacota": {
+    "title": "Simacota",
+    "url": "https://en.wikipedia.org/wiki/Simacota",
+    "extract": "Simacota is a town and municipality in the Santander Department in northeastern Colombia. In 1965, the city had briefly been invaded by more than 100 members of the anti-government Ejército de Liberación Nacional (ELN), the \"National Liberation Army\") and \"captured the public imagination\" in its first act as a new guerrilla organization. The invaders murdered three of Simacota's four policemen, robbed the local bank, harassed the townspeople and looted the local pharmacy of its medicines, before being driven out by the Colombian Army. Only three of the 100 ELN men were captured. In 1989, Simacota was the site of the La Rochela massacre, where 15 judicial officials were targeted by gunmen sent by the Medellín Cartel leader José Gonzalo Rodríguez Gacha.",
+    "description": "Place in Colombia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Simacota.jpg/330px-Simacota.jpg",
+    "lat": 6.45,
+    "lon": -73.33333333,
+    "es": {
+      "title": "Simacota",
+      "url": "https://es.wikipedia.org/wiki/Simacota",
+      "extract": "Simacota es un municipio colombiano, el tercero en extensión del departamento de Santander, y forma parte de la Provincia Comunera."
+    }
+  },
   "sinaia": {
     "title": "Sinaia",
     "url": "https://en.wikipedia.org/wiki/Sinaia",
@@ -9639,6 +9693,20 @@
       "title": "Tiberíades",
       "url": "https://es.wikipedia.org/wiki/Tiber%C3%ADades",
       "extract": "Tiberíades es una ciudad emplazada en la orilla occidental del mar de Galilea, en la Baja Galilea, en el Distrito Norte de Israel. Según la Oficina Central de Estadísticas de Israel (CBS), a finales de 2019, la ciudad tenía una población de 44 779 habitantes."
+    }
+  },
+  "tierralta": {
+    "title": "Tierralta",
+    "url": "https://en.wikipedia.org/wiki/Tierralta",
+    "extract": "Tierralta is a town and municipality located in the Córdoba Department, northern Colombia.",
+    "description": "Municipality and town in Córdoba Department, Colombia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Colombia_-_C%C3%B3rdoba_-_Tierralta.svg/330px-Colombia_-_C%C3%B3rdoba_-_Tierralta.svg.png",
+    "lat": 7.91666667,
+    "lon": -76.16666667,
+    "es": {
+      "title": "Tierralta",
+      "url": "https://es.wikipedia.org/wiki/Tierralta",
+      "extract": "Tierralta es un municipio ubicado al sur del departamento de Córdoba, en la región Caribe de Colombia y a 78 kilómetros de Montería. Bajo su jurisdicción se encuentra la Represa Urrá y una parte el Parque nacional natural Paramillo. Tierralta es un municipio agrícola y ganadero."
     }
   },
   "timisoara": {
