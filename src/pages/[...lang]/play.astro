@@ -24,6 +24,7 @@ const strings = t(locale);
       <ol id="cards" class="cards"></ol>
       <p class="edge date">↓ {strings.playLatest}</p>
       <p id="verdict" class="verdict" aria-live="polite" hidden></p>
+      <p id="difficulty" class="date" hidden></p>
       <div class="actions">
         <button type="button" id="check" class="primary">{strings.playCheck}</button>
         <button type="button" id="next" class="primary" hidden></button>
@@ -96,7 +97,7 @@ const strings = t(locale);
   const clear = (a: Item, b: Item) =>
     (a.key > b.end || b.key > a.end) && Math.abs(a.key - b.key) >= (a.circa || b.circa ? 5 : 1);
 
-  function pickSet(): Item[] {
+  function findSet(): Item[] {
     for (;;) {
       const i = rand(pool.length);
       const anchor = pool[i];
@@ -128,6 +129,37 @@ const strings = t(locale);
       box.append(chip);
     }
     return box;
+  }
+
+  // Difficulty = how many of the 6 pairs a typical player gets right (6 = trivial, 3 = coin flips).
+  // Each pair is 50% at zero gap and approaches 100% as the gap grows relative to tau, which
+  // widens for older dates because our sense of distant time is coarser. Circa dates are fuzzier.
+  function expectedScore(set: Item[]): number {
+    let total = 0;
+    for (let i = 0; i < set.length; i++)
+      for (let j = i + 1; j < set.length; j++) {
+        const [a, b] = [set[i], set[j]];
+        const tau = 5 + 0.02 * Math.max(0, 2026 - Math.min(a.key, b.key));
+        const gap = Math.max(0, Math.abs(a.key - b.key) - (a.circa ? 3 : 0) - (b.circa ? 3 : 0));
+        total += 0.5 + 0.5 * (1 - Math.exp(-gap / tau));
+      }
+    return total;
+  }
+  // Bands cut at roughly the 25th and 75th percentile of generated sets.
+  const level = (score: number) => (score < 4.2 ? 0 : score < 5 ? 1 : 2);
+  // Target expected score per round: starts easy, ends hard.
+  const TARGETS = [5.4, 5.0, 4.6, 4.3, 3.95];
+
+  function pickSet(): Item[] {
+    const target = TARGETS[Math.min(round, TARGETS.length - 1)];
+    let best: Item[] = [];
+    let bestDist = Infinity;
+    for (let n = 0; n < 25; n++) {
+      const set = findSet();
+      const dist = Math.abs(expectedScore(set) - target);
+      if (dist < bestDist) [best, bestDist] = [set, dist];
+    }
+    return best;
   }
 
   function render() {
@@ -162,6 +194,7 @@ const strings = t(locale);
 
   function startRound() {
     verdict.hidden = true;
+    $('difficulty').hidden = true;
     nextBtn.hidden = true;
     checkBtn.hidden = false;
     $('roundlabel').textContent = `${strings.playRound} ${round + 1} ${strings.playOf} ${ROUNDS}`;
@@ -207,6 +240,11 @@ const strings = t(locale);
       }
       cards.append(li);
     });
+
+    const expected = expectedScore(order);
+    const diff = $('difficulty');
+    diff.textContent = `${strings.playDifficulty}: ${strings.playLevels[level(expected)]} · ${strings.playExpected} ${expected.toFixed(1)}/${PAIRS}`;
+    diff.hidden = false;
 
     const line = `${right}/${PAIRS} ${strings.playPairs}`;
     verdict.textContent = right === PAIRS ? `${strings.playPerfect} ${line}` : line;
