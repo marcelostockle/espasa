@@ -23,8 +23,11 @@ const strings = t(locale);
       <p class="edge date">↑ {strings.playEarliest}</p>
       <ol id="cards" class="cards"></ol>
       <p class="edge date">↓ {strings.playLatest}</p>
-      <p id="verdict" class="verdict" aria-live="polite" hidden></p>
-      <p id="difficulty" class="date" hidden></p>
+      <div id="verdict" class="verdict" aria-live="polite" hidden>
+        <p class="vhead"><span id="vscore" class="vscore"></span> <span id="vlabel" class="vlabel"></span></p>
+        <div id="meter" class="meter" role="img"></div>
+        <p class="vfoot"><span id="vlevel" class="vlevel"></span></p>
+      </div>
       <div class="actions">
         <button type="button" id="check" class="primary">{strings.playCheck}</button>
         <button type="button" id="next" class="primary" hidden></button>
@@ -200,7 +203,6 @@ const strings = t(locale);
 
   function startRound() {
     verdict.hidden = true;
-    $('difficulty').hidden = true;
     nextBtn.hidden = true;
     checkBtn.hidden = false;
     $('roundlabel').textContent = `${strings.playRound} ${round + 1} ${strings.playOf} ${ROUNDS}`;
@@ -220,14 +222,11 @@ const strings = t(locale);
       for (let j = i + 1; j < order.length; j++) if (order[i].key < order[j].key) right++;
     scores.push(right);
 
-    const truth = [...order].sort((a, b) => a.key - b.key);
     const summaries = await summariesPromise;
     cards.replaceChildren();
     // Keep the player's order, so reading down the dates shows where it went wrong.
-    order.forEach((item, pos) => {
-      const ok = truth[pos] === item;
+    order.forEach((item) => {
       const li = document.createElement('li');
-      li.className = ok ? 'right' : 'wrong';
       const title = document.createElement('a');
       title.className = 'title';
       title.href = localePath(locale, `/entries/${item.id}/`);
@@ -235,7 +234,7 @@ const strings = t(locale);
       title.title = strings.playOpenEntry;
       const date = document.createElement('span');
       date.className = 'date';
-      date.textContent = `${ok ? '✓' : '✗'} ${item.date}`;
+      date.textContent = item.date;
       // Same markup as BookmarkButton.astro; the layout's script wires up clicks and state.
       const mark = document.createElement('button');
       mark.type = 'button';
@@ -258,18 +257,34 @@ const strings = t(locale);
 
     dispatchEvent(new Event(BOOKMARKS_EVENT)); // lets the layout set the new buttons' saved state
 
-    const expected = expectedScore(order);
-    const diff = $('difficulty');
-    diff.textContent = `${strings.playDifficulty}: ${strings.playLevels[level(expected)]} · ${strings.playExpected} ${expected.toFixed(1)}/${PAIRS}`;
-    diff.hidden = false;
-
-    const line = `${right}/${PAIRS} ${strings.playPairs}`;
-    verdict.textContent = right === PAIRS ? `${strings.playPerfect} ${line}` : line;
-    verdict.hidden = false;
+    showVerdict(right, expectedScore(order));
     checkBtn.hidden = true;
     nextBtn.textContent = round + 1 === ROUNDS ? strings.playSeeResults : strings.playNext;
     nextBtn.hidden = false;
     nextBtn.focus();
+  }
+
+  // A meter with one segment per pair: filled for each pair the player got right, with a tick
+  // where a typical player would land, so the score reads against the round's difficulty.
+  function showVerdict(right: number, expected: number) {
+    $('vscore').textContent = `${right}/${PAIRS}`;
+    $('vlabel').textContent = right === PAIRS ? `${strings.playPerfect} ${strings.playPairs}` : strings.playPairs;
+    const meter = $('meter');
+    meter.setAttribute('aria-label', `${right}/${PAIRS} ${strings.playPairs}; ${strings.playTypical}: ${expected.toFixed(1)}/${PAIRS}`);
+    meter.replaceChildren(
+      ...Array.from({ length: PAIRS }, (_, i) => {
+        const seg = document.createElement('span');
+        seg.className = i < right ? 'seg on' : 'seg';
+        return seg;
+      }),
+    );
+    const tick = document.createElement('span');
+    tick.className = 'tick';
+    tick.style.left = `${(expected / PAIRS) * 100}%`;
+    tick.dataset.label = `${strings.playTypical} ${expected.toFixed(1)}`;
+    meter.append(tick);
+    $('vlevel').textContent = `${strings.playDifficulty}: ${strings.playLevels[level(expected)]}`;
+    verdict.hidden = false;
   }
 
   // Summaries are only needed at the reveal, so they come from the timeline index and not game.json.
@@ -363,11 +378,19 @@ const strings = t(locale);
   .game .edge { margin: 0; font-size: 0.85rem; text-align: center; }
   .game { --confirm: #1f9d55; --confirm-fg: #15703c; }
   @media (prefers-color-scheme: dark) { .game { --confirm: #3ddc84; --confirm-fg: #6fe8a4; } }
-  .game .cards li.right { border-color: var(--confirm); background: color-mix(in srgb, var(--confirm) 16%, transparent); }
-  .game .cards li.right > .date { color: var(--confirm-fg); font-weight: 600; }
-  .game .cards li.wrong { border-color: #b4483c; background: color-mix(in srgb, #b4483c 10%, transparent); }
+  .game .cards li > .date { font-weight: 600; }
   .game .summary { flex-basis: 100%; margin: 0; font-size: 0.9rem; color: var(--muted); }
-  .game .verdict { font-weight: 600; margin: 0.75rem 0 0; }
+  .game .verdict { margin: 1rem 0 0; padding: 0.9rem 1rem 1rem; border: 1px solid var(--line); border-radius: 0.5rem; }
+  .game .verdict p { margin: 0; }
+  .game .vscore { font-size: 1.9rem; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+  .game .vlabel { color: var(--muted); }
+  .game .meter { position: relative; display: flex; gap: 4px; margin: 0.8rem 0 1.9rem; }
+  .game .seg { flex: 1; height: 0.8rem; border-radius: 3px; border: 1px solid var(--line); }
+  .game .seg.on { background: var(--confirm); border-color: var(--confirm); }
+  .game .tick { position: absolute; top: -0.35rem; bottom: -0.35rem; width: 2px; margin-left: -1px; background: var(--fg); }
+  .game .tick::after { content: attr(data-label); position: absolute; top: 100%; left: 50%; transform: translateX(-50%); margin-top: 0.15rem; white-space: nowrap; font-size: 0.75rem; color: var(--muted); }
+  .game .vfoot { font-size: 0.9rem; }
+  .game .vlevel { font-weight: 600; }
   .game .total { font-size: 2rem; font-weight: 700; margin: 0.25rem 0; }
   .game .dots { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
   .game .dots span { padding: 0.2rem 0.6rem; border: 1px solid var(--line); border-radius: 999px; font-variant-numeric: tabular-nums; }

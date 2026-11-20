@@ -144,7 +144,7 @@ const en = {
   playCopied: 'Copied!',
   playDifficulty: 'Difficulty',
   playLevels: ['Hard', 'Medium', 'Easy'],
-  playExpected: 'a typical player gets about',
+  playTypical: 'Typical player',
   playNeedsData: 'Could not load the entries. Please try again.',
   playGrades: ['Keep exploring.', 'Not bad.', 'Well read.', 'Historian material.', 'Flawless.'],
 };
@@ -247,7 +247,7 @@ const es: Strings = {
   playCopied: '¡Copiado!',
   playDifficulty: 'Dificultad',
   playLevels: ['Difícil', 'Media', 'Fácil'],
-  playExpected: 'un jugador típico acierta cerca de',
+  playTypical: 'Jugador típico',
   playNeedsData: 'No se pudieron cargar las entradas. Inténtalo de nuevo.',
   playGrades: ['Sigue explorando.', 'Nada mal.', 'Bien leído.', 'Digno de historiador.', 'Impecable.'],
 };
