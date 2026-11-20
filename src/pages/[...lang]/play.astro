@@ -97,13 +97,14 @@ const strings = t(locale);
   const clear = (a: Item, b: Item) =>
     (a.key > b.end || b.key > a.end) && Math.abs(a.key - b.key) >= (a.circa || b.circa ? 5 : 1);
 
-  function findSet(): Item[] {
+  function findSet(window: number): Item[] {
     for (;;) {
       const i = rand(pool.length);
       const anchor = pool[i];
       if (used.has(anchor.id)) continue;
       // Neighbours in the sorted list, so "close in time" adapts to how dense each era is.
-      const near = pool.slice(Math.max(0, i - 30), i + 31).filter((e) => e !== anchor && !used.has(e.id));
+      // `window` is how many entries on each side may be drawn from.
+      const near = pool.slice(Math.max(0, i - window), i + window + 1).filter((e) => e !== anchor && !used.has(e.id));
       const set = [anchor];
       for (const c of shuffle(near)) {
         if (set.every((s) => unrelated(s, c) && clear(s, c))) set.push(c);
@@ -145,17 +146,21 @@ const strings = t(locale);
       }
     return total;
   }
-  // Bands cut at roughly the 25th and 75th percentile of generated sets.
-  const level = (score: number) => (score < 4.2 ? 0 : score < 5 ? 1 : 2);
+  // Band cutoffs match the ramp below: rounds 1-2 land in Easy, round 3 in Medium, round 5 in Hard.
+  const level = (score: number) => (score < 4.6 ? 0 : score < 5.3 ? 1 : 2);
   // Target expected score per round: starts easy, ends hard.
-  const TARGETS = [5.4, 5.0, 4.6, 4.3, 3.95];
+  const TARGETS = [5.8, 5.45, 5.0, 4.5, 4.0];
+  // Easy rounds need events far apart, so they draw from a wide slice of the timeline;
+  // hard rounds stay narrow so the events really are close.
+  const WINDOWS = [400, 200, 80, 30, 30];
 
   function pickSet(): Item[] {
-    const target = TARGETS[Math.min(round, TARGETS.length - 1)];
+    const r = Math.min(round, TARGETS.length - 1);
+    const target = TARGETS[r];
     let best: Item[] = [];
     let bestDist = Infinity;
-    for (let n = 0; n < 25; n++) {
-      const set = findSet();
+    for (let n = 0; n < 50; n++) {
+      const set = findSet(WINDOWS[r]);
       const dist = Math.abs(expectedScore(set) - target);
       if (dist < bestDist) [best, bestDist] = [set, dist];
     }
