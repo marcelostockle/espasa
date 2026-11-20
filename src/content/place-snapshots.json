@@ -1680,6 +1680,20 @@
       "extract": "Biblos es una ciudad ubicada en el Líbano, en la costa del norte del país, a 30 km de Beirut."
     }
   },
+  "cabimas": {
+    "title": "Cabimas",
+    "url": "https://en.wikipedia.org/wiki/Cabimas",
+    "extract": "Cabimas is a city on the Costa Oriental del Lago de Maracaibo in Zulia State in northwestern Venezuela. In 2005, its population was around 200,859.",
+    "description": "City in Zulia, Venezuela",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Autopista_lara_zulia_en_cabimas.jpg/330px-Autopista_lara_zulia_en_cabimas.jpg",
+    "lat": 10.4,
+    "lon": -71.45,
+    "es": {
+      "title": "Cabimas",
+      "url": "https://es.wikipedia.org/wiki/Cabimas",
+      "extract": "Cabimas es una ciudad venezolana ubicada en el estado Zulia, en la costa este del lago de Maracaibo. Es la capital del municipio del mismo nombre. Se posiciona como la segunda ciudad más grande y poblada del estado y decimotercera en el país. Ha sido tradicionalmente un importante centro económico venezolano por su producción de petróleo."
+    }
+  },
   "cadiz": {
     "title": "Cádiz",
     "url": "https://en.wikipedia.org/wiki/C%C3%A1diz",
@@ -5573,6 +5587,20 @@
       "title": "Mapiripán",
       "url": "https://es.wikipedia.org/wiki/Mapirip%C3%A1n",
       "extract": "Mapiripán es un municipio colombiano situado en el departamento del Meta a orillas del río Guaviare. Dista 116 km de San José del Guaviare al norte, 324 km de Villavicencio y 417 km de Bogotá al sur respectivamente."
+    }
+  },
+  "maracay": {
+    "title": "Maracay",
+    "url": "https://en.wikipedia.org/wiki/Maracay",
+    "extract": "Maracay is a city in north-central Venezuela, near the Caribbean coast, and is the capital and most important city of the state of Aragua. Most of it falls under the jurisdiction of Girardot Municipality. The population of Maracay and its surroundings in the 2011 census was 955,362. In Venezuela, Maracay is known as \"Ciudad Jardín\".",
+    "description": "City in Aragua, Venezuela",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/TORRE_SINDONI_4%2CMARACAY_EDO_ARAGUA.jpg/330px-TORRE_SINDONI_4%2CMARACAY_EDO_ARAGUA.jpg",
+    "lat": 10.24694444,
+    "lon": -67.59611111,
+    "es": {
+      "title": "Maracay",
+      "url": "https://es.wikipedia.org/wiki/Maracay",
+      "extract": "Maracay es una ciudad en Venezuela, capital del estado de Aragua y del municipio de Girardot. Está ubicada en la Región Central, al pie de la Cordillera de la Costa, a 119 km al oeste de la ciudad de Caracas, capital del país. Es conocida como la «Ciudad Jardín»y en menor medida como «La Cuna de la Aviación Venezolana»o «La Cuna de Grandes Toreros»."
     }
   },
   "marathon": {
@@ -11002,6 +11030,20 @@
       "title": "Radvaň nad Dunajom",
       "url": "https://es.wikipedia.org/wiki/Radva%C5%88_nad_Dunajom",
       "extract": "Radvaň nad Dunajom es un municipio del distrito de Komárno en la región de Nitra, Eslovaquia, con una población estimada a final del año 2025 de 702 habitantes."
+    }
+  },
+  "zulia": {
+    "title": "Zulia",
+    "url": "https://en.wikipedia.org/wiki/Zulia",
+    "extract": "Zulia State is one of the 23 states of Venezuela. The state capital is Maracaibo. As of the 2011 census, it had a population of 3,704,404, making it the most populous state in the country. Zulia is also notable for being one of the few states in Venezuela where voseo—the use of vos as the second-person singular pronoun—is widespread. The state is coterminous with the eponymous region of Zulia.",
+    "description": "State in Venezuela",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Tres_tetas_desde_Ayapaina.jpg/330px-Tres_tetas_desde_Ayapaina.jpg",
+    "lat": 9.84,
+    "lon": -72.25,
+    "es": {
+      "title": "Estado Zulia",
+      "url": "https://es.wikipedia.org/wiki/Estado_Zulia",
+      "extract": "Zulia es uno de los veintitrés estados que, junto con el Distrito Capital y las Dependencias Federales, forman la República Bolivariana de Venezuela. Su capital es Maracaibo, la segunda ciudad más poblada del país. Está ubicado al noroeste y limitando al norte con el mar Caribe, al este con Falcón, Lara y Trujillo, al sureste con Mérida, al sur con Táchira y al oeste, desde la península de La Guajira hasta las montañas de Perijá, con Colombia. Con 63 100 km² es el quinto estado más extenso y con 7 957 765 habitantes en 2023, el más poblado."
     }
   },
   "zunyi": {

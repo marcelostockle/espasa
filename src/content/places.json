@@ -1115,6 +1115,15 @@
       }
     }
   },
+  "cabimas": {
+    "label": "Cabimas",
+    "wikipedia": "Cabimas",
+    "translations": {
+      "es": {
+        "label": "Cabimas"
+      }
+    }
+  },
   "cadiz": {
     "label": "Cádiz",
     "wikipedia": "Cádiz",
@@ -3668,6 +3677,15 @@
     "translations": {
       "es": {
         "label": "Mapiripán"
+      }
+    }
+  },
+  "maracay": {
+    "label": "Maracay",
+    "wikipedia": "Maracay",
+    "translations": {
+      "es": {
+        "label": "Maracay"
       }
     }
   },
@@ -7259,6 +7277,15 @@
     "translations": {
       "es": {
         "label": "Zsitvatorok"
+      }
+    }
+  },
+  "zulia": {
+    "label": "Zulia",
+    "wikipedia": "Zulia",
+    "translations": {
+      "es": {
+        "label": "Zulia"
       }
     }
   },
