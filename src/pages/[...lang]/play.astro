@@ -1,0 +1,280 @@
+---
+import Base from '../../layouts/Base.astro';
+import { localePath, localeStaticPaths, t, toLocale } from '../../lib/i18n';
+
+export const getStaticPaths = localeStaticPaths;
+
+const locale = toLocale(Astro.currentLocale);
+const strings = t(locale);
+---
+
+<Base title={strings.play} description={strings.playDescription}>
+  <div class="game">
+    <h1>{strings.play}</h1>
+
+    <section id="intro">
+      <p>{strings.playIntro}</p>
+      <button type="button" id="start" class="primary" disabled>{strings.playStart}</button>
+      <p id="error" class="date" hidden>{strings.playNeedsData}</p>
+    </section>
+
+    <section id="round" hidden>
+      <p class="date"><span id="roundlabel"></span></p>
+      <p class="edge date">↑ {strings.playEarliest}</p>
+      <ol id="cards" class="cards"></ol>
+      <p class="edge date">↓ {strings.playLatest}</p>
+      <p id="verdict" class="verdict" aria-live="polite" hidden></p>
+      <div class="actions">
+        <button type="button" id="check" class="primary">{strings.playCheck}</button>
+        <button type="button" id="next" class="primary" hidden></button>
+      </div>
+    </section>
+
+    <section id="results" hidden>
+      <h2>{strings.playResults}</h2>
+      <p class="total"><span id="total"></span></p>
+      <p id="grade" class="date"></p>
+      <div id="dots" class="dots" aria-hidden="true"></div>
+      <div class="actions">
+        <button type="button" id="again" class="primary">{strings.playAgain}</button>
+        <button type="button" id="share">{strings.playShare}</button>
+      </div>
+    </section>
+  </div>
+  <noscript><p>{strings.needsJs} <a href={localePath(locale, '/')}>{strings.needsJsLink}</a> {strings.needsJsEnd}</p></noscript>
+</Base>
+
+<script>
+  import { localePath, t, toLocale } from '../../lib/i18n';
+
+  const locale = toLocale(document.documentElement.lang);
+  const strings = t(locale);
+  const ROUNDS = 5;
+  const PAIRS = 6; // 4 items -> 6 pairs
+
+  type Row = [id: string, title: string, date: string, key: number, circa: number, tags: string[]];
+  interface Item {
+    id: string;
+    title: string;
+    date: string;
+    key: number;
+    circa: boolean;
+    tags: string[];
+  }
+
+  const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+  const intro = $('intro');
+  const roundEl = $('round');
+  const results = $('results');
+  const cards = $<HTMLOListElement>('cards');
+  const startBtn = $<HTMLButtonElement>('start');
+  const checkBtn = $<HTMLButtonElement>('check');
+  const nextBtn = $<HTMLButtonElement>('next');
+  const verdict = $('verdict');
+
+  let pool: Item[] = []; // chronological
+  const used = new Set<string>();
+  let round = 0;
+  let scores: number[] = [];
+  let order: Item[] = []; // what the player sees, in their current order
+
+  const rand = (n: number) => Math.floor(Math.random() * n);
+  function shuffle<T>(a: T[]): T[] {
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = rand(i + 1);
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  // Four events are "unrelated" when they share no tag, and "clear" when no two dates are
+  // too close to order fairly (circa dates need a wider margin).
+  const unrelated = (a: Item, b: Item) => !a.tags.some((t) => b.tags.includes(t));
+  const clear = (a: Item, b: Item) => Math.abs(a.key - b.key) >= (a.circa || b.circa ? 5 : 1);
+
+  function pickSet(): Item[] {
+    for (let attempt = 0; attempt < 500; attempt++) {
+      const i = rand(pool.length);
+      const anchor = pool[i];
+      if (used.has(anchor.id)) continue;
+      // Neighbours in the sorted list, so "close in time" adapts to how dense each era is.
+      const near = pool.slice(Math.max(0, i - 30), i + 31).filter((e) => e !== anchor && !used.has(e.id));
+      const set = [anchor];
+      for (const c of shuffle(near)) {
+        if (set.every((s) => unrelated(s, c) && clear(s, c))) set.push(c);
+        if (set.length === 4) return set;
+      }
+    }
+    // Extremely unlikely fallback: any four distinct entries.
+    return shuffle(pool.slice()).slice(0, 4);
+  }
+
+  function render() {
+    cards.replaceChildren();
+    order.forEach((item, i) => {
+      const li = document.createElement('li');
+      const title = document.createElement('span');
+      title.className = 'title';
+      title.textContent = item.title;
+      const ctl = document.createElement('span');
+      ctl.className = 'ctl';
+      for (const [dir, label, glyph] of [[-1, strings.playMoveUp, '▲'], [1, strings.playMoveDown, '▼']] as const) {
+        const b = document.createElement('button');
+        b.type = 'button';
+        b.textContent = glyph;
+        b.setAttribute('aria-label', `${label}: ${item.title}`);
+        b.disabled = i + dir < 0 || i + dir >= order.length;
+        b.addEventListener('click', () => {
+          const j = i + dir;
+          [order[i], order[j]] = [order[j], order[i]];
+          render();
+          // Keep keyboard focus on the same control after the re-render.
+          const moved = cards.children[j].querySelectorAll('button');
+          (moved[dir === -1 ? 0 : 1] as HTMLButtonElement).focus();
+        });
+        ctl.append(b);
+      }
+      li.append(title, ctl);
+      cards.append(li);
+    });
+  }
+
+  function startRound() {
+    verdict.hidden = true;
+    nextBtn.hidden = true;
+    checkBtn.hidden = false;
+    $('roundlabel').textContent = `${strings.playRound} ${round + 1} ${strings.playOf} ${ROUNDS}`;
+    const set = pickSet();
+    set.forEach((s) => used.add(s.id));
+    // Never start already sorted.
+    do shuffle(set);
+    while (set.every((s, i, a) => i === 0 || a[i - 1].key <= s.key));
+    order = set;
+    render();
+  }
+
+  function check() {
+    // Score = pairs of events the player put in the right relative order.
+    let right = 0;
+    for (let i = 0; i < order.length; i++)
+      for (let j = i + 1; j < order.length; j++) if (order[i].key < order[j].key) right++;
+    scores.push(right);
+
+    const truth = [...order].sort((a, b) => a.key - b.key);
+    cards.replaceChildren();
+    truth.forEach((item, pos) => {
+      const mine = order.indexOf(item);
+      const ok = mine === pos;
+      const li = document.createElement('li');
+      li.className = ok ? 'right' : 'wrong';
+      const title = document.createElement('a');
+      title.className = 'title';
+      title.href = localePath(locale, `/entries/${item.id}/`);
+      title.textContent = item.title;
+      title.title = strings.playOpenEntry;
+      const date = document.createElement('span');
+      date.className = 'date';
+      date.textContent = item.date;
+      const you = document.createElement('span');
+      you.className = 'you date';
+      you.textContent = ok ? '✓' : `✗ ${strings.playYourOrder}: ${mine + 1}`;
+      li.append(title, date, you);
+      cards.append(li);
+    });
+
+    const line = `${right}/${PAIRS} ${strings.playPairs}`;
+    verdict.textContent = right === PAIRS ? `${strings.playPerfect} ${line}` : line;
+    verdict.hidden = false;
+    checkBtn.hidden = true;
+    nextBtn.textContent = round + 1 === ROUNDS ? strings.playSeeResults : strings.playNext;
+    nextBtn.hidden = false;
+    nextBtn.focus();
+  }
+
+  const sum = () => scores.reduce((a, b) => a + b, 0);
+
+  function finish() {
+    roundEl.hidden = true;
+    results.hidden = false;
+    const max = ROUNDS * PAIRS;
+    const pct = Math.round((sum() / max) * 100);
+    $('total').textContent = `${sum()} / ${max} (${pct}%)`;
+    const g = strings.playGrades;
+    $('grade').textContent = g[Math.min(g.length - 1, Math.floor((pct / 100) * g.length))];
+    $('dots').replaceChildren(
+      ...scores.map((s) => {
+        const d = document.createElement('span');
+        d.textContent = `${s}/${PAIRS}`;
+        d.className = s === PAIRS ? 'full' : '';
+        return d;
+      }),
+    );
+    $('again').focus();
+  }
+
+  function begin() {
+    used.clear();
+    scores = [];
+    round = 0;
+    intro.hidden = true;
+    results.hidden = true;
+    roundEl.hidden = false;
+    startRound();
+  }
+
+  startBtn.addEventListener('click', begin);
+  $('again').addEventListener('click', begin);
+  checkBtn.addEventListener('click', check);
+  nextBtn.addEventListener('click', () => {
+    round++;
+    if (round >= ROUNDS) finish();
+    else startRound();
+  });
+  $('share').addEventListener('click', async (ev) => {
+    const btn = ev.currentTarget as HTMLButtonElement;
+    const squares = scores.map((s) => (s === PAIRS ? '🟩' : s >= 4 ? '🟨' : '🟥')).join('');
+    const text = `Espasa · ${strings.play}: ${sum()}/${ROUNDS * PAIRS}\n${squares}\n${location.href}`;
+    try {
+      await navigator.clipboard.writeText(text);
+      const old = btn.textContent;
+      btn.textContent = strings.playCopied;
+      setTimeout(() => (btn.textContent = old), 1500);
+    } catch {
+      // Clipboard unavailable: nothing to do.
+    }
+  });
+
+  fetch(localePath(locale, '/game.json'))
+    .then((r) => (r.ok ? r.json() : Promise.reject()))
+    .then((rows: Row[]) => {
+      pool = rows.map(([id, title, date, key, circa, tags]) => ({ id, title, date, key, circa: !!circa, tags }));
+      startBtn.disabled = false;
+    })
+    .catch(() => ($('error').hidden = false));
+</script>
+
+<style is:global>
+  .game { max-width: 40rem; margin: 0 auto; }
+  .game button { font: inherit; color: var(--fg); background: transparent; border: 1px solid var(--line); border-radius: 0.4rem; padding: 0.4rem 0.9rem; cursor: pointer; }
+  .game button:hover:not(:disabled) { border-color: var(--muted); }
+  .game button:disabled { opacity: 0.35; cursor: default; }
+  .game button.primary { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+  .game [hidden] { display: none; }
+  .game .actions { display: flex; gap: 0.75rem; margin-top: 1rem; }
+  .game .cards { list-style: none; margin: 0.5rem 0; padding: 0; display: grid; gap: 0.5rem; }
+  .game .cards li { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; padding: 0.7rem 0.9rem; border: 1px solid var(--line); border-radius: 0.5rem; }
+  .game .cards .title { flex: 1 1 14rem; font-weight: 600; }
+  .game .cards a.title { text-decoration-color: var(--line); }
+  .game .ctl { display: flex; gap: 0.35rem; }
+  .game .ctl button { padding: 0.25rem 0.6rem; }
+  .game .edge { margin: 0; font-size: 0.85rem; text-align: center; }
+  .game .cards li.right { border-color: #3b8a4f; background: color-mix(in srgb, #3b8a4f 12%, transparent); }
+  .game .cards li.wrong { border-color: #b4483c; background: color-mix(in srgb, #b4483c 10%, transparent); }
+  .game .you { font-size: 0.85rem; flex-basis: 100%; }
+  .game .verdict { font-weight: 600; margin: 0.75rem 0 0; }
+  .game .total { font-size: 2rem; font-weight: 700; margin: 0.25rem 0; }
+  .game .dots { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
+  .game .dots span { padding: 0.2rem 0.6rem; border: 1px solid var(--line); border-radius: 999px; font-variant-numeric: tabular-nums; }
+  .game .dots span.full { border-color: #3b8a4f; }
+  @media (max-width: 40rem) { main:has(.game) { padding-inline: 1.25rem; } }
+</style>

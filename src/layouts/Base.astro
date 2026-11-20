@@ -29,6 +29,7 @@ const path = stripLocale(Astro.url.pathname);
       <nav>
         <a href={localePath(locale, '/eras/')}>{strings.eras}</a>
         <a href={localePath(locale, '/compare/')}>{strings.compare}</a>
+        <a href={localePath(locale, '/play/')}>{strings.play}</a>
         <span class="langs" aria-label={strings.language}>
           {
             locales.map((l) =>
