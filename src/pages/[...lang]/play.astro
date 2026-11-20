@@ -46,6 +46,7 @@ const strings = t(locale);
 </Base>
 
 <script>
+  import { BOOKMARKS_EVENT } from '../../lib/bookmarks';
   import { localePath, t, toLocale } from '../../lib/i18n';
 
   const locale = toLocale(document.documentElement.lang);
@@ -235,7 +236,16 @@ const strings = t(locale);
       const date = document.createElement('span');
       date.className = 'date';
       date.textContent = `${ok ? '✓' : '✗'} ${item.date}`;
-      li.append(title, date, tagChips(item, true));
+      // Same markup as BookmarkButton.astro; the layout's script wires up clicks and state.
+      const mark = document.createElement('button');
+      mark.type = 'button';
+      mark.className = 'bookmark';
+      mark.dataset.id = item.id;
+      mark.setAttribute('aria-pressed', 'false');
+      mark.setAttribute('aria-label', `${strings.bookmark}: ${item.title}`);
+      mark.title = strings.bookmark;
+      mark.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"></path></svg>';
+      li.append(title, date, mark, tagChips(item, true));
       const summary = summaries.get(item.id);
       if (summary) {
         const p = document.createElement('p');
@@ -245,6 +255,8 @@ const strings = t(locale);
       }
       cards.append(li);
     });
+
+    dispatchEvent(new Event(BOOKMARKS_EVENT)); // lets the layout set the new buttons' saved state
 
     const expected = expectedScore(order);
     const diff = $('difficulty');

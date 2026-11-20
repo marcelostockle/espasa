@@ -132,6 +132,28 @@ const strings = t(locale);
 </script>
 
 <style is:global>
+  button.bookmark,
+  .game button.bookmark {
+    flex: none;
+    display: inline-grid;
+    place-items: center;
+    width: 1.9rem;
+    height: 1.9rem;
+    padding: 0;
+    color: var(--bg);
+    background: var(--fg);
+    border: 0;
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 0.55;
+  }
+  button.bookmark:not([hidden]),
+  .game button.bookmark:not([hidden]) { display: inline-grid; }
+  button.bookmark:hover, button.bookmark:focus-visible { opacity: 0.85; }
+  button.bookmark svg { fill: none; stroke: currentColor; stroke-width: 2; stroke-linejoin: round; }
+  /* Saved: full strength with a solid icon. */
+  button.bookmark[aria-pressed='true'] { opacity: 1; }
+  button.bookmark[aria-pressed='true'] svg { fill: currentColor; }
   .bookmarks-trigger {
     display: inline-flex;
     align-items: center;
