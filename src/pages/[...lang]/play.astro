@@ -74,6 +74,7 @@ const strings = t(locale);
   const verdict = $('verdict');
 
   let pool: Item[] = []; // chronological
+  let tagInfo: Record<string, [label: string, color: string]> = {};
   const used = new Set<string>();
   let round = 0;
   let scores: number[] = [];
@@ -110,6 +111,25 @@ const strings = t(locale);
     }
   }
 
+  function tagChips(item: Item, link: boolean) {
+    const box = document.createElement('span');
+    box.className = 'tags';
+    for (const id of item.tags) {
+      const info = tagInfo[id];
+      if (!info) continue;
+      const chip = document.createElement(link ? 'a' : 'span');
+      chip.className = 'chip tinted';
+      chip.style.setProperty('--tint', info[1]);
+      chip.textContent = info[0];
+      if (link) {
+        (chip as HTMLAnchorElement).href = localePath(locale, `/tags/${id}/`);
+        (chip as HTMLAnchorElement).dataset.tag = id;
+      }
+      box.append(chip);
+    }
+    return box;
+  }
+
   function render() {
     cards.replaceChildren();
     order.forEach((item, i) => {
@@ -135,7 +155,7 @@ const strings = t(locale);
         });
         ctl.append(b);
       }
-      li.append(title, ctl);
+      li.append(title, ctl, tagChips(item, false));
       cards.append(li);
     });
   }
@@ -177,7 +197,7 @@ const strings = t(locale);
       const date = document.createElement('span');
       date.className = 'date';
       date.textContent = `${ok ? '✓' : '✗'} ${item.date}`;
-      li.append(title, date);
+      li.append(title, date, tagChips(item, true));
       const summary = summaries.get(item.id);
       if (summary) {
         const p = document.createElement('p');
@@ -262,8 +282,9 @@ const strings = t(locale);
 
   fetch(localePath(locale, '/game.json'))
     .then((r) => (r.ok ? r.json() : Promise.reject()))
-    .then((rows: Row[]) => {
-      pool = rows.map(([id, title, date, key, circa, tags, end]) => ({ id, title, date, key, circa: !!circa, tags, end }));
+    .then((data: { tags: typeof tagInfo; entries: Row[] }) => {
+      tagInfo = data.tags;
+      pool = data.entries.map(([id, title, date, key, circa, tags, end]) => ({ id, title, date, key, circa: !!circa, tags, end }));
       startBtn.disabled = false;
     })
     .catch(() => ($('error').hidden = false));
@@ -281,6 +302,7 @@ const strings = t(locale);
   .game .cards li { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; padding: 0.7rem 0.9rem; border: 1px solid var(--line); border-radius: 0.5rem; }
   .game .cards .title { flex: 1 1 14rem; font-weight: 600; }
   .game .cards a.title { text-decoration-color: var(--line); }
+  .game .tags { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 0.35rem; }
   .game .ctl { display: flex; gap: 0.35rem; }
   .game .ctl button { padding: 0.25rem 0.6rem; }
   .game .edge { margin: 0; font-size: 0.85rem; text-align: center; }
