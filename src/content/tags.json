@@ -4026,6 +4026,20 @@
       }
     }
   },
+  "venezuelan-crisis": {
+    "label": "Venezuelan crisis",
+    "color": "#5f7f3a",
+    "description": "The political, economic and humanitarian crisis in Venezuela since the mid-2010s: contested elections, hyperinflation, sanctions, mass emigration and foreign intervention.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Crisis venezolana",
+        "description": "La crisis política, económica y humanitaria de Venezuela desde mediados de la década de 2010: elecciones disputadas, hiperinflación, sanciones, emigración masiva e intervención extranjera."
+      }
+    }
+  },
   "verdi": {
     "label": "Giuseppe Verdi",
     "color": "#9e3b26",
