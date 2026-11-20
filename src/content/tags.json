@@ -372,6 +372,20 @@
       }
     }
   },
+  "bolivarian-revolution": {
+    "label": "Bolivarian Revolution",
+    "color": "#1f6fb5",
+    "description": "The political project led by Hugo Chávez and continued by Nicolás Maduro from 1999, combining a new constitution, oil-funded social programs and state control of the economy.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Revolución Bolivariana",
+        "description": "El proyecto político liderado por Hugo Chávez y continuado por Nicolás Maduro desde 1999, que combina una nueva constitución, programas sociales financiados con petróleo y control estatal de la economía."
+      }
+    }
+  },
   "bolivia": {
     "label": "Bolivia",
     "color": "#e9b44c",
@@ -2621,6 +2635,20 @@
       "es": {
         "label": "Nueva España",
         "description": "La colonia española de Nueva España, con capital en la Ciudad de México, desde la conquista de Tenochtitlan en 1521 y su virreinato desde 1535."
+      }
+    }
+  },
+  "nicolas-maduro": {
+    "label": "Nicolás Maduro",
+    "color": "#8a8a2e",
+    "description": "Chávez's chosen successor and president of Venezuela from 2013 until his capture by US forces in January 2026.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Nicolás Maduro",
+        "description": "Sucesor elegido por Chávez y presidente de Venezuela desde 2013 hasta su captura por fuerzas de EE. UU. en enero de 2026."
       }
     }
   },
