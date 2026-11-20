@@ -17,6 +17,7 @@ export const GET: APIRoute = async ({ currentLocale }) => {
     sortKey(e.data.date),
     e.data.date.circa ? 1 : 0,
     e.data.tags.map((t) => t.id),
+    sortKey(e.data.end ?? e.data.date),
   ]);
   return new Response(JSON.stringify(body), { headers: { 'Content-Type': 'application/json' } });
 };

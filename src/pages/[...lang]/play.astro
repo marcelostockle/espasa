@@ -52,7 +52,7 @@ const strings = t(locale);
   const ROUNDS = 5;
   const PAIRS = 6; // 4 items -> 6 pairs
 
-  type Row = [id: string, title: string, date: string, key: number, circa: number, tags: string[]];
+  type Row = [id: string, title: string, date: string, key: number, circa: number, tags: string[], end: number];
   interface Item {
     id: string;
     title: string;
@@ -60,6 +60,7 @@ const strings = t(locale);
     key: number;
     circa: boolean;
     tags: string[];
+    end: number; // equals key for single-date entries
   }
 
   const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
@@ -87,13 +88,15 @@ const strings = t(locale);
     return a;
   }
 
-  // Four events are "unrelated" when they share no tag, and "clear" when no two dates are
-  // too close to order fairly (circa dates need a wider margin).
+  // Four events are "unrelated" when they share no tag, and "clear" when they can be ordered
+  // fairly: no two spans overlap (a start/end entry never sits alongside anything inside its
+  // timeframe), and start dates aren't too close (circa dates need a wider margin).
   const unrelated = (a: Item, b: Item) => !a.tags.some((t) => b.tags.includes(t));
-  const clear = (a: Item, b: Item) => Math.abs(a.key - b.key) >= (a.circa || b.circa ? 5 : 1);
+  const clear = (a: Item, b: Item) =>
+    (a.key > b.end || b.key > a.end) && Math.abs(a.key - b.key) >= (a.circa || b.circa ? 5 : 1);
 
   function pickSet(): Item[] {
-    for (let attempt = 0; attempt < 500; attempt++) {
+    for (;;) {
       const i = rand(pool.length);
       const anchor = pool[i];
       if (used.has(anchor.id)) continue;
@@ -105,8 +108,6 @@ const strings = t(locale);
         if (set.length === 4) return set;
       }
     }
-    // Extremely unlikely fallback: any four distinct entries.
-    return shuffle(pool.slice()).slice(0, 4);
   }
 
   function render() {
@@ -153,7 +154,7 @@ const strings = t(locale);
     render();
   }
 
-  function check() {
+  async function check() {
     // Score = pairs of events the player put in the right relative order.
     let right = 0;
     for (let i = 0; i < order.length; i++)
@@ -161,10 +162,11 @@ const strings = t(locale);
     scores.push(right);
 
     const truth = [...order].sort((a, b) => a.key - b.key);
+    const summaries = await summariesPromise;
     cards.replaceChildren();
-    truth.forEach((item, pos) => {
-      const mine = order.indexOf(item);
-      const ok = mine === pos;
+    // Keep the player's order, so reading down the dates shows where it went wrong.
+    order.forEach((item, pos) => {
+      const ok = truth[pos] === item;
       const li = document.createElement('li');
       li.className = ok ? 'right' : 'wrong';
       const title = document.createElement('a');
@@ -174,11 +176,15 @@ const strings = t(locale);
       title.title = strings.playOpenEntry;
       const date = document.createElement('span');
       date.className = 'date';
-      date.textContent = item.date;
-      const you = document.createElement('span');
-      you.className = 'you date';
-      you.textContent = ok ? '✓' : `✗ ${strings.playYourOrder}: ${mine + 1}`;
-      li.append(title, date, you);
+      date.textContent = `${ok ? '✓' : '✗'} ${item.date}`;
+      li.append(title, date);
+      const summary = summaries.get(item.id);
+      if (summary) {
+        const p = document.createElement('p');
+        p.className = 'summary';
+        p.textContent = summary;
+        li.append(p);
+      }
       cards.append(li);
     });
 
@@ -189,6 +195,15 @@ const strings = t(locale);
     nextBtn.textContent = round + 1 === ROUNDS ? strings.playSeeResults : strings.playNext;
     nextBtn.hidden = false;
     nextBtn.focus();
+  }
+
+  // Summaries are only needed at the reveal, so they come from the timeline index and not game.json.
+  let summariesPromise: Promise<Map<string, string>> = Promise.resolve(new Map());
+  function loadSummaries() {
+    summariesPromise = fetch(localePath(locale, '/timeline.json'))
+      .then((r) => (r.ok ? r.json() : Promise.reject()))
+      .then((d: { entries: { id: string; summary: string }[] }) => new Map(d.entries.map((e) => [e.id, e.summary])))
+      .catch(() => new Map());
   }
 
   const sum = () => scores.reduce((a, b) => a + b, 0);
@@ -213,6 +228,7 @@ const strings = t(locale);
   }
 
   function begin() {
+    if (!scores.length && round === 0) loadSummaries();
     used.clear();
     scores = [];
     round = 0;
@@ -247,7 +263,7 @@ const strings = t(locale);
   fetch(localePath(locale, '/game.json'))
     .then((r) => (r.ok ? r.json() : Promise.reject()))
     .then((rows: Row[]) => {
-      pool = rows.map(([id, title, date, key, circa, tags]) => ({ id, title, date, key, circa: !!circa, tags }));
+      pool = rows.map(([id, title, date, key, circa, tags, end]) => ({ id, title, date, key, circa: !!circa, tags, end }));
       startBtn.disabled = false;
     })
     .catch(() => ($('error').hidden = false));
@@ -270,7 +286,7 @@ const strings = t(locale);
   .game .edge { margin: 0; font-size: 0.85rem; text-align: center; }
   .game .cards li.right { border-color: #3b8a4f; background: color-mix(in srgb, #3b8a4f 12%, transparent); }
   .game .cards li.wrong { border-color: #b4483c; background: color-mix(in srgb, #b4483c 10%, transparent); }
-  .game .you { font-size: 0.85rem; flex-basis: 100%; }
+  .game .summary { flex-basis: 100%; margin: 0; font-size: 0.9rem; color: var(--muted); }
   .game .verdict { font-weight: 600; margin: 0.75rem 0 0; }
   .game .total { font-size: 2rem; font-weight: 700; margin: 0.25rem 0; }
   .game .dots { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
