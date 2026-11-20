@@ -306,13 +306,16 @@ const strings = t(locale);
   .game .ctl { display: flex; gap: 0.35rem; }
   .game .ctl button { padding: 0.25rem 0.6rem; }
   .game .edge { margin: 0; font-size: 0.85rem; text-align: center; }
-  .game .cards li.right { border-color: #3b8a4f; background: color-mix(in srgb, #3b8a4f 12%, transparent); }
+  .game { --confirm: #1f9d55; --confirm-fg: #15703c; }
+  @media (prefers-color-scheme: dark) { .game { --confirm: #3ddc84; --confirm-fg: #6fe8a4; } }
+  .game .cards li.right { border-color: var(--confirm); background: color-mix(in srgb, var(--confirm) 16%, transparent); }
+  .game .cards li.right > .date { color: var(--confirm-fg); font-weight: 600; }
   .game .cards li.wrong { border-color: #b4483c; background: color-mix(in srgb, #b4483c 10%, transparent); }
   .game .summary { flex-basis: 100%; margin: 0; font-size: 0.9rem; color: var(--muted); }
   .game .verdict { font-weight: 600; margin: 0.75rem 0 0; }
   .game .total { font-size: 2rem; font-weight: 700; margin: 0.25rem 0; }
   .game .dots { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
   .game .dots span { padding: 0.2rem 0.6rem; border: 1px solid var(--line); border-radius: 999px; font-variant-numeric: tabular-nums; }
-  .game .dots span.full { border-color: #3b8a4f; }
+  .game .dots span.full { border-color: var(--confirm); }
   @media (max-width: 40rem) { main:has(.game) { padding-inline: 1.25rem; } }
 </style>
