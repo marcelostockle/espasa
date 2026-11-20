@@ -1,6 +1,7 @@
 ---
 import { render } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
+import BookmarkButton from '../../../components/BookmarkButton.astro';
 import PlaceChips from '../../../components/PlaceChips.astro';
 import Nearby from '../../../components/Nearby.astro';
 import { getNearbyEntries, getSortedEntries, getTags } from '../../../lib/entries';
@@ -51,6 +52,7 @@ const tagById = new Map(tags.map((t) => [t.id, t]));
         })
       }
       <PlaceChips refs={entry.data.places} {placeById} />
+      <BookmarkButton id={entry.id} />
     </div>
     <Content />
     {

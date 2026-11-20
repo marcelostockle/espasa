@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import BookmarkButton from './BookmarkButton.astro';
 import PlaceChips from './PlaceChips.astro';
 import { getPlaces } from '../lib/places';
 import { localePath, toLocale } from '../lib/i18n';
@@ -25,7 +26,10 @@ const placeById = new Map((await getPlaces()).map((p) => [p.id, p]));
       <li>
         <div class="date">{formatRange(entry.data.date, entry.data.end, locale)}</div>
         <div>
-          <a class="title" href={localePath(locale, `/entries/${entry.id}/`)} lang={lang}>{text.title}</a>
+          <div class="head">
+            <a class="title" href={localePath(locale, `/entries/${entry.id}/`)} lang={lang}>{text.title}</a>
+            <BookmarkButton id={entry.id} />
+          </div>
           <p lang={lang}>{text.summary}</p>
           <div class="tags">
             {entry.data.tags.map((ref) => {
@@ -54,8 +58,17 @@ const placeById = new Map((await getPlaces()).map((p) => [p.id, p]));
     padding: 1rem 0;
     border-top: 1px solid var(--line);
   }
+  .head { display: flex; justify-content: space-between; align-items: flex-start; gap: 0.75rem; }
   .title { font-weight: 600; font-size: 1.1rem; text-decoration: none; }
   .title:hover { text-decoration: underline; }
+  /* Where hover exists, an unsaved entry's button appears only on hover or keyboard focus.
+     Saved entries keep theirs visible; touch screens always show it. */
+  @media (hover: hover) {
+    li :global(button.bookmark[aria-pressed='false']) { opacity: 0; transition: opacity 0.12s; }
+    li:hover :global(button.bookmark[aria-pressed='false']),
+    li :global(button.bookmark[aria-pressed='false']:focus-visible) { opacity: 0.55; }
+    li:hover :global(button.bookmark[aria-pressed='false']:hover) { opacity: 0.85; }
+  }
   p { margin: 0.25rem 0 0.5rem; }
   .tags { display: flex; gap: 0.4rem; flex-wrap: wrap; }
   @media (max-width: 36rem) {

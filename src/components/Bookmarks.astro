@@ -1,0 +1,190 @@
+---
+// Header button plus an overlay listing the reader's bookmarks (stored in localStorage).
+// Also keeps every `button.bookmark` on the page in sync.
+import { localePath, t, toLocale } from '../lib/i18n';
+
+const locale = toLocale(Astro.currentLocale);
+const strings = t(locale);
+---
+
+<button type="button" id="bookmarks-open" class="bookmarks-trigger" aria-haspopup="dialog" hidden>
+  <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"></path></svg>
+  <span>{strings.bookmarks}</span>
+  <span id="bookmarks-count" class="count"></span>
+</button>
+
+<dialog
+  id="bookmarks"
+  aria-labelledby="bookmarks-title"
+  data-src={localePath(locale, '/game.json')}
+  data-remove={strings.remove}
+  data-empty={strings.bookmarksEmpty}
+  data-error={strings.bookmarksLoadError}
+>
+  <div class="head">
+    <h2 id="bookmarks-title">{strings.bookmarks}</h2>
+    <button type="button" id="bookmarks-close" aria-label={strings.close}>×</button>
+  </div>
+  <ul id="bookmarks-list"></ul>
+  <p id="bookmarks-empty" hidden>{strings.bookmarksEmpty}</p>
+</dialog>
+
+<script>
+  import { BOOKMARKS_EVENT, getBookmarks, removeBookmark, toggleBookmark } from '../lib/bookmarks';
+  import { localePath, toLocale } from '../lib/i18n';
+
+  type Index = { entries: [id: string, title: string, date: string, key: number][] };
+
+  const locale = toLocale(document.documentElement.lang);
+  const dialog = document.getElementById('bookmarks') as HTMLDialogElement;
+  const list = document.getElementById('bookmarks-list')!;
+  const empty = document.getElementById('bookmarks-empty')!;
+  const trigger = document.getElementById('bookmarks-open') as HTMLButtonElement;
+  const count = document.getElementById('bookmarks-count')!;
+  let index: Promise<Map<string, Index['entries'][number]>> | undefined;
+
+  // Titles and dates come from the per-locale index, fetched the first time the overlay opens.
+  const load = () =>
+    (index ??= fetch(dialog.dataset.src!)
+      .then((r) => {
+        if (!r.ok) throw new Error(String(r.status));
+        return r.json() as Promise<Index>;
+      })
+      .then((d) => new Map<string, Index['entries'][number]>(d.entries.map((e) => [e[0], e])))
+      .catch((e) => {
+        index = undefined; // allow a retry on the next open
+        throw e;
+      }));
+
+  async function renderList() {
+    const ids = getBookmarks();
+    empty.hidden = ids.length > 0;
+    empty.textContent = dialog.dataset.empty!;
+    if (!ids.length) return list.replaceChildren();
+    let byId: Map<string, Index['entries'][number]>;
+    try {
+      byId = await load();
+    } catch {
+      empty.hidden = false;
+      empty.textContent = dialog.dataset.error!;
+      return list.replaceChildren();
+    }
+    // Chronological order; ids no longer in the index (entry removed) are skipped.
+    const rows = ids
+      .map((id) => byId.get(id))
+      .filter((r): r is Index['entries'][number] => !!r)
+      .sort((a, b) => a[3] - b[3]);
+    list.replaceChildren(
+      ...rows.map(([id, title, date]) => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = localePath(locale, `/entries/${id}/`);
+        const name = document.createElement('span');
+        name.className = 'name';
+        name.textContent = title;
+        const when = document.createElement('span');
+        when.className = 'when';
+        when.textContent = date;
+        a.append(name, when);
+        const rm = document.createElement('button');
+        rm.type = 'button';
+        rm.className = 'rm';
+        rm.dataset.id = id;
+        rm.textContent = '×';
+        rm.setAttribute('aria-label', `${dialog.dataset.remove}: ${title}`);
+        li.append(a, rm);
+        return li;
+      }),
+    );
+  }
+
+  function sync() {
+    const ids = getBookmarks();
+    count.textContent = ids.length ? String(ids.length) : '';
+    document.querySelectorAll<HTMLButtonElement>('button.bookmark').forEach((b) => {
+      b.hidden = false;
+      b.setAttribute('aria-pressed', String(ids.includes(b.dataset.id!)));
+    });
+    if (dialog.open) renderList();
+  }
+
+  trigger.hidden = false; // shown only when scripts run
+  trigger.addEventListener('click', () => {
+    dialog.showModal();
+    renderList();
+  });
+  document.getElementById('bookmarks-close')!.addEventListener('click', () => dialog.close());
+  dialog.addEventListener('click', (e) => {
+    const t = e.target as HTMLElement;
+    if (t === dialog) return dialog.close(); // backdrop
+    const rm = t.closest<HTMLButtonElement>('button.rm');
+    if (rm) removeBookmark(rm.dataset.id!);
+  });
+  document.addEventListener('click', (e) => {
+    const b = (e.target as Element).closest<HTMLButtonElement>('button.bookmark');
+    if (b) toggleBookmark(b.dataset.id!);
+  });
+
+  addEventListener(BOOKMARKS_EVENT, sync);
+  addEventListener('storage', sync); // another tab changed them
+  addEventListener('pageshow', sync); // back/forward cache
+  sync();
+</script>
+
+<style is:global>
+  .bookmarks-trigger {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0;
+    font: inherit;
+    color: var(--muted);
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+  .bookmarks-trigger:not([hidden]) { display: inline-flex; }
+  .bookmarks-trigger:hover { color: var(--fg); }
+  .bookmarks-trigger svg { fill: none; stroke: currentColor; stroke-width: 2; stroke-linejoin: round; }
+  .bookmarks-trigger .count:not(:empty) {
+    min-width: 1.3rem;
+    padding: 0 0.35rem;
+    border-radius: 999px;
+    background: var(--line);
+    color: var(--fg);
+    font-size: 0.75rem;
+    text-align: center;
+  }
+  #bookmarks {
+    width: min(28rem, calc(100vw - 1rem));
+    max-height: 70vh;
+    padding: 0;
+    border: 1px solid var(--line);
+    border-radius: 0.5rem;
+    background: var(--bg);
+    color: var(--fg);
+    box-shadow: 0 6px 24px rgb(0 0 0 / 0.18);
+  }
+  #bookmarks[open] { display: flex; flex-direction: column; }
+  #bookmarks::backdrop { background: rgb(0 0 0 / 0.35); }
+  #bookmarks .head { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1rem; border-bottom: 1px solid var(--line); }
+  #bookmarks h2 { margin: 0; font-size: 1rem; }
+  #bookmarks .head button, #bookmarks .rm {
+    font: inherit;
+    font-size: 1.25rem;
+    line-height: 1;
+    color: var(--muted);
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+  #bookmarks .head button:hover, #bookmarks .rm:hover { color: var(--fg); }
+  #bookmarks ul { list-style: none; margin: 0; padding: 0; overflow: auto; }
+  #bookmarks li { display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 1rem; border-top: 1px solid var(--line); }
+  #bookmarks li:first-child { border-top: 0; }
+  #bookmarks li a { flex: 1; min-width: 0; text-decoration: none; }
+  #bookmarks li a:hover .name { text-decoration: underline; }
+  #bookmarks .name { display: block; font-weight: 600; }
+  #bookmarks .when { display: block; color: var(--muted); font-size: 0.8rem; font-variant-numeric: tabular-nums; }
+  #bookmarks p { margin: 0; padding: 1rem; color: var(--muted); }
+</style>

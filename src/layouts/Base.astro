@@ -1,4 +1,5 @@
 ---
+import Bookmarks from '../components/Bookmarks.astro';
 import PlacePopup from '../components/PlacePopup.astro';
 import { localeNames, localePath, locales, stripLocale, t, toLocale } from '../lib/i18n';
 
@@ -30,6 +31,7 @@ const path = stripLocale(Astro.url.pathname);
         <a href={localePath(locale, '/eras/')}>{strings.eras}</a>
         <a href={localePath(locale, '/compare/')}>{strings.compare}</a>
         <a href={localePath(locale, '/play/')}>{strings.play}</a>
+        <Bookmarks />
         <span class="langs" aria-label={strings.language}>
           {
             locales.map((l) =>
@@ -126,8 +128,8 @@ const path = stripLocale(Astro.url.pathname);
   .disclaimer strong { color: var(--fg); font-weight: 600; }
   .chip {
     display: inline-block;
-    padding: 0.05rem 0.55rem;
-    border-radius: 999px;
+    padding: 0.2rem 0.75rem;
+    border-radius: 8px;
     border: 1px solid var(--chip, var(--line));
     color: var(--chip, var(--fg));
     font-size: 0.8rem;
