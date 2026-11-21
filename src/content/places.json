@@ -1115,6 +1115,15 @@
       }
     }
   },
+  "brasilia": {
+    "label": "Brasília",
+    "wikipedia": "Brasília",
+    "translations": {
+      "es": {
+        "label": "Brasilia"
+      }
+    }
+  },
   "bratislava": {
     "label": "Bratislava",
     "wikipedia": "Bratislava",

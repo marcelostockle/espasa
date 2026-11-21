@@ -1681,6 +1681,20 @@
       "extract": "Branford es un pueblo ubicado en el condado de New Haven en el estado estadounidense de Connecticut. En el año 2005 tenía una población de 29,089 habitantes y una densidad poblacional de 511 personas por km²."
     }
   },
+  "brasilia": {
+    "title": "Brasília",
+    "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+    "extract": "Brasília is the capital city of Brazil and the Federal District. Located in the Brazilian Highlands in the country's Central-West region, it was founded by President Juscelino Kubitschek on 21 April 1960, to replace Rio de Janeiro as the national capital. Brasília is Brazil's third-most populous city after São Paulo and Rio de Janeiro, with a population of 2.8 million. Among major Latin American cities, it has the highest GDP per capita.",
+    "description": "Federal capital of Brazil",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Planalto_Central_%28cropped%29.jpg/330px-Planalto_Central_%28cropped%29.jpg",
+    "lat": -15.79388889,
+    "lon": -47.88277778,
+    "es": {
+      "title": "Brasilia",
+      "url": "https://es.wikipedia.org/wiki/Brasilia",
+      "extract": "Brasilia es la capital federal de Brasil y la sede del Gobierno del Distrito Federal, localizada en la región Centro-Oeste del país. Tiene una población de 3 015 268 habitantes, según estimaciones de 2019 del Instituto Brasileño de Geografía y Estadística, lo que la convierte en la tercera ciudad del país por población. Además, tiene una población de 4 284 676 en la zona metropolitana. Es sede del Gobierno federal, conformado por los tres poderes de la república."
+    }
+  },
   "bratislava": {
     "title": "Bratislava",
     "url": "https://en.wikipedia.org/wiki/Bratislava",
