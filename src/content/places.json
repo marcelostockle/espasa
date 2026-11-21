@@ -44,6 +44,15 @@
       }
     }
   },
+  "accra": {
+    "label": "Accra",
+    "wikipedia": "Accra",
+    "translations": {
+      "es": {
+        "label": "Acra"
+      }
+    }
+  },
   "actium": {
     "label": "Actium",
     "wikipedia": "Actium",
@@ -527,6 +536,15 @@
     "translations": {
       "es": {
         "label": "Austin (Texas)"
+      }
+    }
+  },
+  "austria": {
+    "label": "Austria",
+    "wikipedia": "Austria",
+    "translations": {
+      "es": {
+        "label": "Austria"
       }
     }
   },
@@ -4310,6 +4328,15 @@
       }
     }
   },
+  "manaus": {
+    "label": "Manaus",
+    "wikipedia": "Manaus",
+    "translations": {
+      "es": {
+        "label": "Manaos"
+      }
+    }
+  },
   "manchester": {
     "label": "Manchester",
     "wikipedia": "Manchester",
@@ -6944,6 +6971,15 @@
     "translations": {
       "es": {
         "label": "Sosúa"
+      }
+    }
+  },
+  "south-africa": {
+    "label": "South Africa",
+    "wikipedia": "South Africa",
+    "translations": {
+      "es": {
+        "label": "Sudáfrica"
       }
     }
   },
