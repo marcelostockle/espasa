@@ -3550,6 +3550,34 @@
       }
     }
   },
+  "qin-dynasty": {
+    "label": "Qin dynasty",
+    "color": "#3b3b4f",
+    "description": "The state of Qin and the dynasty it founded (c. 359-206 BCE): its Legalist rise, the unification of China in 221 BCE, the First Emperor's reign and the collapse after his death.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Dinastía Qin",
+        "description": "El Estado de Qin y la dinastía que fundó (c. 359-206 a. C.): su ascenso legalista, la unificación de China en 221 a. C., el reinado del Primer Emperador y el colapso tras su muerte."
+      }
+    }
+  },
+  "qin-shi-huang": {
+    "label": "Qin Shi Huang",
+    "color": "#a3552b",
+    "description": "Ying Zheng, King of Qin and then the First Emperor of China (259-210 BCE): his conquests, reforms, monuments and death.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Qin Shi Huang",
+        "description": "Ying Zheng, rey de Qin y después Primer Emperador de China (259-210 a. C.): sus conquistas, reformas, monumentos y muerte."
+      }
+    }
+  },
   "qing-dynasty": {
     "label": "Qing dynasty",
     "color": "#c19a3b",

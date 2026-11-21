@@ -2933,6 +2933,15 @@
       }
     }
   },
+  "handan": {
+    "label": "Handan",
+    "wikipedia": "Handan",
+    "translations": {
+      "es": {
+        "label": "Handan"
+      }
+    }
+  },
   "hangzhou": {
     "label": "Lin’an (Hangzhou)",
     "wikipedia": "Hangzhou",
@@ -3932,6 +3941,15 @@
       }
     }
   },
+  "lingqu-canal": {
+    "label": "Lingqu Canal",
+    "wikipedia": "Lingqu",
+    "translations": {
+      "es": {
+        "label": "Canal Lingqu"
+      }
+    }
+  },
   "lisbon": {
     "label": "Lisbon",
     "wikipedia": "Lisbon",
@@ -4316,6 +4334,15 @@
     "translations": {
       "es": {
         "label": "Mato Grosso"
+      }
+    }
+  },
+  "mausoleum-of-the-first-qin-emperor": {
+    "label": "Mausoleum of the First Qin Emperor",
+    "wikipedia": "Mausoleum of the First Qin Emperor",
+    "translations": {
+      "es": {
+        "label": "Mausoleo del Primer Emperador Qin"
       }
     }
   },
@@ -8096,6 +8123,15 @@
     "translations": {
       "es": {
         "label": "Xiangyang"
+      }
+    }
+  },
+  "xianyang": {
+    "label": "Xianyang",
+    "wikipedia": "Xianyang",
+    "translations": {
+      "es": {
+        "label": "Xianyang"
       }
     }
   },
