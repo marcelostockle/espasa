@@ -3783,6 +3783,20 @@
       "extract": "Gran Moravia fue un imperio medieval de la Europa central desarrollado entre el 833 y el siglo X, constituyendo la primera realidad estatal que se forjó entre los antepasados de checos, moravos y eslovacos. El núcleo territorial del imperio fue el río Morava, hoy en la República Checa y Eslovaquia, y en su expansión llegó a abarcar zonas de las modernas Hungría, Rumania, Polonia, Austria, Alemania, Serbia, Eslovenia, Croacia y Ucrania."
     }
   },
+  "greenville-ohio": {
+    "title": "Greenville, Ohio",
+    "url": "https://en.wikipedia.org/wiki/Greenville%2C_Ohio",
+    "extract": "Greenville is a city in Darke County, Ohio, United States, and its county seat. It is near Ohio's western edge, about 33 miles (53 km) northwest of Dayton. The population was 12,786 at the 2020 census.",
+    "description": "City in Ohio, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Henry_St._Clair_Memorial_Hall_in_Greenville.jpg/330px-Henry_St._Clair_Memorial_Hall_in_Greenville.jpg",
+    "lat": 40.11944444,
+    "lon": -84.62583333,
+    "es": {
+      "title": "Greenville (Ohio)",
+      "url": "https://es.wikipedia.org/wiki/Greenville_(Ohio)",
+      "extract": "Greenville es una ciudad ubicada en el condado de Darke en el estado estadounidense de Ohio. En el Censo de 2010 tenía una población de 13227 habitantes y una densidad poblacional de 766,01 personas por km²."
+    }
+  },
   "grenada": {
     "title": "Grenada",
     "url": "https://en.wikipedia.org/wiki/Grenada",
@@ -8756,6 +8770,20 @@
       "extract": "Sarajevo es la capital federal y ciudad más poblada de Bosnia y Herzegovina, con una población de 275 000 habitantes en las cuatro municipalidades que forman la ciudad, y con un área metropolitana de 405 930 habitantes en el cantón de Sarajevo. Es también la capital de la Federación de Bosnia y Herzegovina, así como el centro del cantón de Sarajevo. Contigua a ella se encuentra Sarajevo Oriental que es la ciudad capital de iure de la República Srpska."
     }
   },
+  "saratoga-national-historical-park": {
+    "title": "Saratoga National Historical Park",
+    "url": "https://en.wikipedia.org/wiki/Saratoga_National_Historical_Park",
+    "extract": "Saratoga National Historical Park is a United States National Historical Park located in the Town of Stillwater in eastern New York, 30 miles (48 km) north of Albany. \nThe park preserves the site of the Battles of Saratoga. In 2015, the United States Mint released a commemorative quarter as part of the America the Beautiful series honoring the park.",
+    "description": "Park in Stillwater, New York",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Saratoga_National_Historical_Park_entrance_sign%2C_New_York.jpg/330px-Saratoga_National_Historical_Park_entrance_sign%2C_New_York.jpg",
+    "lat": 42.99888889,
+    "lon": -73.6375,
+    "es": {
+      "title": "Parque histórico nacional Saratoga",
+      "url": "https://es.wikipedia.org/wiki/Parque_hist%C3%B3rico_nacional_Saratoga",
+      "extract": "El parque histórico nacional Saratoga es un parque histórico nacional de los Estados Unidos ubicado en la ciudad de Stillwater en el este de Nueva York, 30 millas al norte de Albany. El parque conserva el sitio de las Batallas de Saratoga."
+    }
+  },
   "sardinia": {
     "title": "Sardinia",
     "url": "https://en.wikipedia.org/wiki/Sardinia",
@@ -11071,6 +11099,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Moshavyodfat.jpg/330px-Moshavyodfat.jpg",
     "lat": 32.83694444,
     "lon": 35.27361111
+  },
+  "yorktown-virginia": {
+    "title": "Yorktown, Virginia",
+    "url": "https://en.wikipedia.org/wiki/Yorktown%2C_Virginia",
+    "extract": "Yorktown is a town in York County, Virginia, United States. It is the county seat of York County, one of the eight original shires formed in colonial Virginia in 1682. Yorktown's population was 221 as of the 2020 census, while York County's population was 70,045.",
+    "description": "Town in Virginia, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Yorktown_customhouse.jpg/330px-Yorktown_customhouse.jpg",
+    "lat": 37.23444444,
+    "lon": -76.50972222,
+    "es": {
+      "title": "Yorktown (Virginia)",
+      "url": "https://es.wikipedia.org/wiki/Yorktown_(Virginia)",
+      "extract": "Yorktown es un lugar designado por el censo situado en el condado de York, Virginia. Según el censo de 2010 tenía una población de 195 habitantes."
+    }
   },
   "zagreb": {
     "title": "Zagreb",

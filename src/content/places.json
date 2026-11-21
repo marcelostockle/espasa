@@ -2492,6 +2492,15 @@
       }
     }
   },
+  "greenville-ohio": {
+    "label": "Greenville, Ohio",
+    "wikipedia": "Greenville, Ohio",
+    "translations": {
+      "es": {
+        "label": "Greenville (Ohio)"
+      }
+    }
+  },
   "grenada": {
     "label": "Grenada",
     "wikipedia": "Grenada",
@@ -5768,6 +5777,15 @@
       }
     }
   },
+  "saratoga-national-historical-park": {
+    "label": "Saratoga National Historical Park",
+    "wikipedia": "Saratoga National Historical Park",
+    "translations": {
+      "es": {
+        "label": "Parque Histórico Nacional de Saratoga"
+      }
+    }
+  },
   "sardinia": {
     "label": "Sardinia",
     "wikipedia": "Sardinia",
@@ -7304,6 +7322,15 @@
     "translations": {
       "es": {
         "label": "Yodfat (Jotapata)"
+      }
+    }
+  },
+  "yorktown-virginia": {
+    "label": "Yorktown, Virginia",
+    "wikipedia": "Yorktown, Virginia",
+    "translations": {
+      "es": {
+        "label": "Yorktown (Virginia)"
       }
     }
   },
