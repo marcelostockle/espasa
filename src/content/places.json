@@ -314,6 +314,15 @@
       }
     }
   },
+  "appomattox-court-house": {
+    "label": "Appomattox Court House National Historical Park",
+    "wikipedia": "Appomattox Court House National Historical Park",
+    "translations": {
+      "es": {
+        "label": "Parque Histórico Nacional de Appomattox Court House"
+      }
+    }
+  },
   "aral-sea": {
     "label": "Aral Sea",
     "wikipedia": "Aral Sea",
@@ -2186,6 +2195,15 @@
       }
     }
   },
+  "fords-theatre": {
+    "label": "Ford's Theatre",
+    "wikipedia": "Ford's Theatre",
+    "translations": {
+      "es": {
+        "label": "Teatro Ford"
+      }
+    }
+  },
   "fort-clatsop": {
     "label": "Fort Clatsop",
     "wikipedia": "Fort Clatsop",
@@ -2210,6 +2228,15 @@
     "translations": {
       "es": {
         "label": "Point Comfort (Fort Monroe)"
+      }
+    }
+  },
+  "fort-sumter": {
+    "label": "Fort Sumter",
+    "wikipedia": "Fort Sumter",
+    "translations": {
+      "es": {
+        "label": "Fuerte Sumter"
       }
     }
   },
@@ -2273,6 +2300,15 @@
     "translations": {
       "es": {
         "label": "Galilea"
+      }
+    }
+  },
+  "galveston-texas": {
+    "label": "Galveston, Texas",
+    "wikipedia": "Galveston, Texas",
+    "translations": {
+      "es": {
+        "label": "Galveston (Texas)"
       }
     }
   },
@@ -2363,6 +2399,15 @@
     "translations": {
       "es": {
         "label": "monte Garizim"
+      }
+    }
+  },
+  "gettysburg-pennsylvania": {
+    "label": "Gettysburg, Pennsylvania",
+    "wikipedia": "Gettysburg, Pennsylvania",
+    "translations": {
+      "es": {
+        "label": "Gettysburg (Pensilvania)"
       }
     }
   },
@@ -4154,6 +4199,15 @@
     "translations": {
       "es": {
         "label": "Montmartre"
+      }
+    }
+  },
+  "morris-island-south-carolina": {
+    "label": "Morris Island, South Carolina",
+    "wikipedia": "Morris Island, South Carolina",
+    "translations": {
+      "es": {
+        "label": "Isla Morris (Carolina del Sur)"
       }
     }
   },

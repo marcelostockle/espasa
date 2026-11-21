@@ -744,6 +744,20 @@
       }
     }
   },
+  "civil-rights": {
+    "label": "Civil rights",
+    "color": "#2a8c82",
+    "description": "Struggles and laws over equal citizenship, voting and protection from discrimination and racial violence, with a focus on Black Americans.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Derechos civiles",
+        "description": "Luchas y leyes sobre la igualdad de ciudadanía, el voto y la protección frente a la discriminación y la violencia racial, con especial atención a los afroamericanos."
+      }
+    }
+  },
   "classical-music": {
     "label": "Classical music",
     "color": "#b8860b",

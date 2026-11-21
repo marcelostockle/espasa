@@ -479,6 +479,15 @@
       "extract": "Appleton es una ciudad ubicada en el condado de Outagamie en el estado estadounidense de Wisconsin. En el Censo de 2010 tenía una población de 72 623 habitantes y una densidad poblacional de 1129,96 personas por km²."
     }
   },
+  "appomattox-court-house": {
+    "title": "Appomattox Court House National Historical Park",
+    "url": "https://en.wikipedia.org/wiki/Appomattox_Court_House_National_Historical_Park",
+    "extract": "The Appomattox Court House National Historical Park is the preserved 19th-century village named Appomattox Court House in Appomattox County, Virginia. The village was named for the presence nearby of what is now preserved as the Old Appomattox Court House. The village is the site of the Battle of Appomattox Court House, and contains the McLean House, where the surrender of the Army of Northern Virginia under Robert E. Lee to Union commander Ulysses S. Grant took place on April 9, 1865, commencing the end of the American Civil War. The village itself began as the community of Clover Hill, which was made the county seat of Appomattox County in the 1840s. The village of Appomattox Court House entered a stage of decline after it was bypassed by a railroad in 1854. In 1930, the United States War Department was authorized to erect a monument at the site, and in 1933 the War Department's holdings there were transferred to the National Park Service. The site was greatly enlarged in 1935, and a restoration of the McLean House was planned but was delayed by World War II. In 1949, the restored McLean House was reopened to the public. Several restored buildings, as well as a number of original 19th-century structures are situated at the site.",
+    "description": "Historic area in Virginia, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Appomattox_Court_House_Historical_Park.jpg/330px-Appomattox_Court_House_Historical_Park.jpg",
+    "lat": 37.3775,
+    "lon": -78.796
+  },
   "aral-sea": {
     "title": "Aral Sea",
     "url": "https://en.wikipedia.org/wiki/Aral_Sea",
@@ -3328,6 +3337,20 @@
       "extract": "Fontainebleau es una ciudad del área metropolitana de París (Francia). Se encuentra a 55,5 km al sursureste del centro de París, en el departamento de Sena y Marne. Es la subprefectura del distrito de Fontainebleau."
     }
   },
+  "fords-theatre": {
+    "title": "Ford's Theatre",
+    "url": "https://en.wikipedia.org/wiki/Ford's_Theatre",
+    "extract": "Ford's Theatre is a theater in Washington, D.C., which opened in 1863. In 1865, it was the site of the assassination of Abraham Lincoln by John Wilkes Booth. The theater was later used as a warehouse and government office building. In 1893, part of its interior flooring collapsed, causing 22 deaths, and needed repairs were made. The building became a museum in 1932, and it was renovated and re-opened as a theater in 1968. A related Center for Education and Leadership museum opened in 2012, next to Petersen House.",
+    "description": "Theater in Washington, D.C.",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Ford%27s_Theatre_-_2026_%2855266858418%29.jpg/330px-Ford%27s_Theatre_-_2026_%2855266858418%29.jpg",
+    "lat": 38.89666667,
+    "lon": -77.02583333,
+    "es": {
+      "title": "Teatro Ford",
+      "url": "https://es.wikipedia.org/wiki/Teatro_Ford",
+      "extract": "El Teatro Ford es un teatro histórico de la ciudad de Washington D. C., en los Estados Unidos, que se ha utilizado para diversas representaciones teatrales desde la década de 1860."
+    }
+  },
   "fort-clatsop": {
     "title": "Fort Clatsop",
     "url": "https://en.wikipedia.org/wiki/Fort_Clatsop",
@@ -3363,6 +3386,20 @@
       "title": "Fort Monroe",
       "url": "https://es.wikipedia.org/wiki/Fort_Monroe",
       "extract": "Fort Monroe —en el registro de sitios históricos Monumento Nacional de Fort Monroe— es una instalación militar clausurada en Hampton, Virginia en Old Point Comfort, el extremo sur de la Península de Virginia, Estados Unidos. Junto con Fort Wool, Fort Monroe protegió originalmente el canal de navegación entre Chesapeake Bay y Hampton Roads, la rada natural en la confluencia de los ríos Elizabeth, Nansemond y James. Hasta su baja en 1946, las áreas protegidas por el fuerte eran todas las regiones de la Bahía de Chesapeake y el Río Potomac, incluyendo los accesos por agua a las ciudades de Washington D. C. y Baltimore, Maryland, junto con importantes astilleros y bases navales en el área de Hampton Roads. Rodeado por un foso, el fuerte con un bastión de seis lados es el más grande por área jamás construido en los Estados Unidos."
+    }
+  },
+  "fort-sumter": {
+    "title": "Fort Sumter",
+    "url": "https://en.wikipedia.org/wiki/Fort_Sumter",
+    "extract": "Fort Sumter is a sea fort at the mouth of Charleston Harbor, South Carolina, where the battle that sparked the American Civil War took place. Built on an artificial island in 1829 in response to the War of 1812, which had exposed the inadequacy of American coastal defenses, it remained unfinished on April 12, 1861, when it was attacked by Confederate forces and greatly damaged. Efforts at rebuilding after the Civil War never completed the fort's original plan, but since the middle of the 20th century it has been open to the public and operated by the National Park Service.",
+    "description": "Historic coastal fortress in South Carolina, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/FortSumter2009.jpg/330px-FortSumter2009.jpg",
+    "lat": 32.75222222,
+    "lon": -79.87472222,
+    "es": {
+      "title": "Fort Sumter",
+      "url": "https://es.wikipedia.org/wiki/Fort_Sumter",
+      "extract": "Fort Sumter, en español Fuerte Sumter, es una guarnición en una isla costera del océano Atlántico a la entrada de la bahía de Charleston. La construcción recibe su nombre del general Thomas Sumter (1734-1832) considerado un héroe de la guerra de Independencia de los Estados Unidos."
     }
   },
   "frankfurt": {
@@ -3459,6 +3496,20 @@
       "title": "Galilea",
       "url": "https://es.wikipedia.org/wiki/Galilea",
       "extract": "Galilea es una región histórica montañosa situada al norte de Israel, ubicada entre el mar Mediterráneo y el valle del Zabulón al oeste, la cordillera del Líbano al norte, el valle de Jezreel y Beit She'an al sur, el valle del Jordán, el valle de Hula y el Kinneret al este."
+    }
+  },
+  "galveston-texas": {
+    "title": "Galveston, Texas",
+    "url": "https://en.wikipedia.org/wiki/Galveston%2C_Texas",
+    "extract": "Galveston is a resort city and port on the Gulf Coast of the U.S. state of Texas. It encompasses 211.31 square miles (547.3 km2) on Galveston Island and Pelican Island. As of the 2020 census, the city had a population of 53,695, making it the second-largest municipality in Galveston County, where it also serves as the county seat. Located at the southern end of the Greater Houston metropolitan area, Galveston sits on the northwestern coast of the Gulf of Mexico.",
+    "description": "City in Texas, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Galveston_Texas_Skyline.jpg/330px-Galveston_Texas_Skyline.jpg",
+    "lat": 29.30138889,
+    "lon": -94.795,
+    "es": {
+      "title": "Galveston",
+      "url": "https://es.wikipedia.org/wiki/Galveston",
+      "extract": "Galveston es una ciudad del condado de Galveston en el estado estadounidense de Texas, ubicada al noroeste del golfo de México. Debe su nombre a su fundador, Bernardo de Gálvez y Madrid, gobernador español de Luisiana y participante activo en la guerra de independencia de Estados Unidos con el bando continental de George Washington. En el Censo de 2010, su población era de 47 743 habs. con una densidad de 88 personas por km²."
     }
   },
   "gambia-river": {
@@ -3592,6 +3643,20 @@
       "title": "Monte Guerizín",
       "url": "https://es.wikipedia.org/wiki/Monte_Gueriz%C3%ADn",
       "extract": "El Monte Guerizín o Monte Garizín es uno de los dos montes colindantes con la ciudad cisjordana de Nablus, en Palestina, que delimita por el sur el valle en que se sitúa esta ciudad, mientras que por el norte lo hace el Monte Ebal. Es una de las mayores elevaciones de Cisjordania, ya que alcanza los 868 metros de altura sobre el nivel del mar. Tiene un especial escarpe en su cara que da al norte; está escasamente cubierto de vegetación en su cima, en donde hay un poblado samaritano y un asentamiento israelí llamado Har Brajá. En sus faldas hay una fuente que representa una provisión continua de agua viva para Nablus."
+    }
+  },
+  "gettysburg-pennsylvania": {
+    "title": "Gettysburg, Pennsylvania",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg%2C_Pennsylvania",
+    "extract": "Gettysburg is a borough in Adams County, Pennsylvania, United States, and its county seat. As of the 2020 census, the borough had a population of 7,106 people.",
+    "description": "Borough in Pennsylvania, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Gettysburg_Battlefield%2C_Pennsylvania%2C_US_%2898%29.jpg/330px-Gettysburg_Battlefield%2C_Pennsylvania%2C_US_%2898%29.jpg",
+    "lat": 39.82833333,
+    "lon": -77.23222222,
+    "es": {
+      "title": "Gettysburg (Pensilvania)",
+      "url": "https://es.wikipedia.org/wiki/Gettysburg_(Pensilvania)",
+      "extract": "Gettysburg es un borough ubicado en el condado de Adams en el estado estadounidense de Pensilvania. En el año 2000 tenía una población de 7.490 habitantes y una densidad poblacional de 1.761,5 personas por km². La ciudad sufrió múltiples daños durante la batalla de Gettysburg, la mayor batalla sucedida en América del Norte."
     }
   },
   "ghazni": {
@@ -6313,6 +6378,15 @@
       "url": "https://es.wikipedia.org/wiki/Montmartre",
       "extract": "Montmartre es una colina de 130 metros de altura situada en la ribera derecha del río Sena, en el XVIII Distrito de París, y conocida principalmente por la cúpula blanca de la Basílica del Sacré Cœur, que está en su cumbre. Cerca, otra iglesia, la más antigua de la colina es Saint Pierre de Montmartre, fundada por la reina de Francia en el siglo XII. En la cripta de la capilla del Martyrium, ubicada en la calle Yvonne Le Tac, se fundó la orden de sacerdotes jesuitas el 15 de agosto de 1534."
     }
+  },
+  "morris-island-south-carolina": {
+    "title": "Morris Island",
+    "url": "https://en.wikipedia.org/wiki/Morris_Island",
+    "extract": "Morris Island is an 840-acre (3.4 km2) uninhabited island in Charleston Harbor in South Carolina, accessible only by boat. The island lies in the outer reaches of the harbor and was thus a strategic location in the American Civil War. The island is part of the cities of Charleston and Folly Beach, in Charleston County.",
+    "description": "Uninhabited island in South Carolina, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Morris_Island.jpg/330px-Morris_Island.jpg",
+    "lat": 32.71583333,
+    "lon": -79.89027778
   },
   "moscow": {
     "title": "Moscow",
