@@ -27,6 +27,20 @@
       "extract": "Abdera fue una polis ubicada en la región griega de Macedonia oriental y Tracia. En concreto, situada en la costa de Tracia, en el cabo Bulustra, a 17 km al NE de la desembocadura del río Nestos, casi delante de la isla de Tasos."
     }
   },
+  "abqaiq": {
+    "title": "Abqaiq",
+    "url": "https://en.wikipedia.org/wiki/Abqaiq",
+    "extract": "Abqaiq is a city in the Eastern Province of Saudi Arabia, located in the desert 60 km southwest of the Dhahran-Dammam-Khobar metropolitan area, and north of the Rub' al-Khali, the second largest sand desert in the world also known as the \"Empty Quarter\".",
+    "description": "Place in Eastern Province, Saudi Arabia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Abqaiq_at_Night%2C_Saudi_Arabia_in_the_1960s_06.jpg/330px-Abqaiq_at_Night%2C_Saudi_Arabia_in_the_1960s_06.jpg",
+    "lat": 25.935,
+    "lon": 49.66611111,
+    "es": {
+      "title": "Abqaiq",
+      "url": "https://es.wikipedia.org/wiki/Abqaiq",
+      "extract": "Abqaiq o Buqayq es un campamento de la Saudi Aramco situado de la Provincia Oriental de Arabia Saudita. Construida en 1940, está situada en el desierto, a 60 km al suroeste del área metropolitana de Dammam, la capital de la provincia."
+    }
+  },
   "abu-dhabi": {
     "title": "Abu Dhabi",
     "url": "https://en.wikipedia.org/wiki/Abu_Dhabi",
@@ -5041,6 +5055,20 @@
       "extract": "La Ópera del Jedive o la Ópera Real fue un teatro de ópera en El Cairo, Egipto, el más antiguo de toda África. Se inauguró el 1 de noviembre de 1869 y se incendió el 28 de octubre de 1971."
     }
   },
+  "khmeimim": {
+    "title": "Khmeimim Air Base",
+    "url": "https://en.wikipedia.org/wiki/Khmeimim_Air_Base",
+    "extract": "Khmeimim Air Base, also Hmeimim Air Base, is a Syrian airbase currently operated by Russia, located south-east of the city of Latakia in Hmeimim, Latakia Governorate, Syria and approximately 2 miles north-east of the coastal town of Jableh. The airbase shares some airfield facilities with Latakia Airport. The legal status of the base is regulated by a treaty Russia and Syria signed in August 2015. At the end of 2017, Russia said it had decided to turn the Khmeimim base into a component of its permanent military contingent stationed in Syria.",
+    "description": "Russian airbase near Latakia, Syria",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/71/NASA_FIRMS_2024-10-14_Khmeimim.png",
+    "lat": 35.41166667,
+    "lon": 35.945,
+    "es": {
+      "title": "Base aérea de Jmeimim",
+      "url": "https://es.wikipedia.org/wiki/Base_a%C3%A9rea_de_Jmeimim",
+      "extract": "Base aérea de Jmeimim, es una base aérea en Siria utilizada por las Fuerzas Armadas de Rusia y ubicada en al sureste de la gobernación de Latakia, en Jmeimim. La base aérea comparte algunas instalaciones del aeródromo con el Aeropuerto Internacional Basel al-Ásad, ambas instalaciones están en el mismo lugar. El estatus legal de la base está regulado por un tratado firmado por Rusia y Siria en agosto de 2015."
+    }
+  },
   "khorasan": {
     "title": "Khorasan",
     "url": "https://en.wikipedia.org/wiki/Khorasan",
@@ -6036,6 +6064,18 @@
       "extract": "Marburgo es una ciudad del estado federado de Hesse, Alemania, en el valle del río Lahn, que atraviesa la ciudad. Desde el siglo XII es una ciudad libre y es por esta herencia medieval que junto a otras seis ciudades de Hesse tiene actualmente un estatuto especial. Es uno de los mayores empleadores y el factor económico más importante de la región. Tiene aproximadamente 80 000 habitantes."
     }
   },
+  "marib": {
+    "title": "Marib",
+    "url": "https://en.wikipedia.org/wiki/Marib",
+    "extract": "Marib is the capital city of Marib Governorate, Yemen. It was the capital of the ancient kingdom of Sabaʾ, which some scholars believe to be the ancient Sheba of biblical fame. It is about 120 kilometres east of Yemen's modern capital, Sanaa, and is in the region of the Sarawat Mountains. In 2005 it had a population of 16,794. However, in 2021, it had absorbed close to a million refugees fleeing the Yemeni Civil War.",
+    "description": "City in Marib Governorate, Yemen",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/MaribCity001.jpg/330px-MaribCity001.jpg",
+    "es": {
+      "title": "Marib",
+      "url": "https://es.wikipedia.org/wiki/Marib",
+      "extract": "Ma'rib o Marib es una ciudad de Yemen situada en los alrededores de: 15°25′0″N, 45°21′0″E, siendo la ciudad antigua más importante del país. Las investigaciones históricas realizadas desde los años cincuenta han confirmado que se trata de la ciudad preislámica del estado de Saba. Se cree que Ma'rib fue la ciudad natal de la Reina de Saba en cuyo templo, Mahram Bilqis, ya se han realizado los primeros hallazgos históricos relevantes."
+    }
+  },
   "mariel": {
     "title": "Mariel, Cuba",
     "url": "https://en.wikipedia.org/wiki/Mariel%2C_Cuba",
@@ -6773,6 +6813,20 @@
       "title": "Nagasaki",
       "url": "https://es.wikipedia.org/wiki/Nagasaki",
       "extract": "Nagasaki  es una ciudad japonesa, capital de la prefectura de Nagasaki, ubicada sobre la costa sudoeste de la isla de Kyūshū. Tenía una población estimada, en septiembre de 2021, de 401 515 habitantes. Su nombre significa \"cabo largo\"."
+    }
+  },
+  "nagorno-karabakh": {
+    "title": "Nagorno-Karabakh",
+    "url": "https://en.wikipedia.org/wiki/Nagorno-Karabakh",
+    "extract": "Nagorno-Karabakh is a region located within the territory of present-day Azerbaijan, covering the southeastern stretch of the Lesser Caucasus mountain range. Part of the greater region of Karabakh, it spans the area between Lower Karabakh and Syunik. Its terrain mostly consists of mountains and forestland.",
+    "description": "Geopolitical region in Azerbaijan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Location_Nagorno-Karabakh2.png/330px-Location_Nagorno-Karabakh2.png",
+    "lat": 39.81527778,
+    "lon": 46.75194444,
+    "es": {
+      "title": "Alto Karabaj",
+      "url": "https://es.wikipedia.org/wiki/Alto_Karabaj",
+      "extract": "El Alto Karabaj o Nagorno Karabaj fue una unidad administrativa de la República Socialista Soviética de Azerbaiyán, desde 1923 hasta 1991, cuando la Asamblea Nacional de Azerbaiyán tomó la decisión sobre la abolición de la Región Autónoma de Nagorno-Karabaj."
     }
   },
   "najaf": {

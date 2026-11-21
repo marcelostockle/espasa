@@ -17,6 +17,15 @@
       }
     }
   },
+  "abqaiq": {
+    "label": "Abqaiq",
+    "wikipedia": "Abqaiq",
+    "translations": {
+      "es": {
+        "label": "Abqaiq"
+      }
+    }
+  },
   "abu-dhabi": {
     "label": "Abu Dhabi",
     "wikipedia": "Abu Dhabi",
@@ -3338,6 +3347,15 @@
       }
     }
   },
+  "khmeimim": {
+    "label": "Khmeimim Air Base",
+    "wikipedia": "Khmeimim Air Base",
+    "translations": {
+      "es": {
+        "label": "Base aérea de Hmeimim"
+      }
+    }
+  },
   "khorasan": {
     "label": "Khorasan",
     "wikipedia": "Greater Khorasan",
@@ -3986,6 +4004,15 @@
       }
     }
   },
+  "marib": {
+    "label": "Marib",
+    "wikipedia": "Marib",
+    "translations": {
+      "es": {
+        "label": "Marib"
+      }
+    }
+  },
   "mariel": {
     "label": "Mariel",
     "wikipedia": "Mariel, Cuba",
@@ -4469,6 +4496,15 @@
     "translations": {
       "es": {
         "label": "Nagasaki"
+      }
+    }
+  },
+  "nagorno-karabakh": {
+    "label": "Nagorno-Karabakh",
+    "wikipedia": "Nagorno-Karabakh",
+    "translations": {
+      "es": {
+        "label": "Nagorno-Karabaj"
       }
     }
   },
