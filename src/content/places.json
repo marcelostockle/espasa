@@ -2105,6 +2105,15 @@
       }
     }
   },
+  "down-house": {
+    "label": "Down House",
+    "wikipedia": "Down House",
+    "translations": {
+      "es": {
+        "label": "Down House"
+      }
+    }
+  },
   "dresden": {
     "label": "Dresden",
     "wikipedia": "Dresden",
@@ -2255,6 +2264,15 @@
     "translations": {
       "es": {
         "label": "Évian-les-Bains"
+      }
+    }
+  },
+  "falmouth": {
+    "label": "Falmouth",
+    "wikipedia": "Falmouth, Cornwall",
+    "translations": {
+      "es": {
+        "label": "Falmouth (Cornualles)"
       }
     }
   },
@@ -2417,6 +2435,15 @@
     "translations": {
       "es": {
         "label": "Fulton (Misuri)"
+      }
+    }
+  },
+  "galapagos-islands": {
+    "label": "Galápagos Islands",
+    "wikipedia": "Galápagos Islands",
+    "translations": {
+      "es": {
+        "label": "Islas Galápagos"
       }
     }
   },
@@ -5309,6 +5336,15 @@
       }
     }
   },
+  "plymouth": {
+    "label": "Plymouth",
+    "wikipedia": "Plymouth",
+    "translations": {
+      "es": {
+        "label": "Plymouth"
+      }
+    }
+  },
   "poltava": {
     "label": "Poltava",
     "wikipedia": "Poltava",
@@ -6386,6 +6422,15 @@
     "translations": {
       "es": {
         "label": "Central atómica de Shippingport"
+      }
+    }
+  },
+  "shrewsbury": {
+    "label": "Shrewsbury",
+    "wikipedia": "Shrewsbury",
+    "translations": {
+      "es": {
+        "label": "Shrewsbury"
       }
     }
   },

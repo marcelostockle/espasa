@@ -645,6 +645,20 @@
       }
     }
   },
+  "charles-darwin": {
+    "label": "Charles Darwin",
+    "color": "#8a9a3c",
+    "description": "English naturalist (1809-1882), whose Beagle voyage and theory of evolution by natural selection transformed biology.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Charles Darwin",
+        "description": "Naturalista inglés (1809-1882), cuyo viaje en el Beagle y cuya teoría de la evolución por selección natural transformaron la biología."
+      }
+    }
+  },
   "che-guevara": {
     "label": "Che Guevara",
     "color": "#6e8b3d",
@@ -1259,6 +1273,20 @@
       "es": {
         "label": "Unión Europea",
         "description": "La Unión Europea y sus instituciones, su ampliación, sus políticas comunes y su papel en la seguridad y la economía."
+      }
+    }
+  },
+  "evolution": {
+    "label": "Evolution",
+    "color": "#4f8f6f",
+    "description": "The science of how living species change and share common descent, from early evolutionary ideas and natural selection to the controversies they provoked.",
+    "categories": [
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Evolución",
+        "description": "La ciencia de cómo cambian las especies vivas y comparten un origen común, desde las primeras ideas evolutivas y la selección natural hasta las controversias que provocaron."
       }
     }
   },

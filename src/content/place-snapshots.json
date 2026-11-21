@@ -3193,6 +3193,20 @@
       "extract": "Douai es una ciudad y comuna francesa situada en el departamento de Norte en la región de Alta Francia, capital de la comarca del douaisis."
     }
   },
+  "down-house": {
+    "title": "Down House",
+    "url": "https://en.wikipedia.org/wiki/Down_House",
+    "extract": "Down House is the former home of the English naturalist Charles Darwin and his family. It was in this house and garden that Darwin worked on his theory of evolution by natural selection, which he had conceived in London before moving to Down.",
+    "description": "Former home of Charles Darwin",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Down_House.jpg/330px-Down_House.jpg",
+    "lat": 51.33138889,
+    "lon": 0.05333333,
+    "es": {
+      "title": "Down House",
+      "url": "https://es.wikipedia.org/wiki/Down_House",
+      "extract": "Down House fue la casa del naturalista inglés Charles Darwin y su familia. Está ubicada en Downe, municipio situado en el distrito londinense de Bromley a 22,9 kilómetros al sureste de Charing Cross. Fue en esta casa y en sus jardines donde Darwin trabajó sus teorías acerca de la evolución a través del mecanismo de la selección natural. Actualmente es un museo dependiente del English Heritage."
+    }
+  },
   "dresden": {
     "title": "Dresden",
     "url": "https://en.wikipedia.org/wiki/Dresden",
@@ -3424,6 +3438,20 @@
       "title": "Évian-les-Bains",
       "url": "https://es.wikipedia.org/wiki/%C3%89vian-les-Bains",
       "extract": " Évian-les-Bains  es una comuna de Francia, en la región de Auvernia-Ródano-Alpes, departamento de Alta Saboya, en el distrito de Thonon-les-Bains. Es la cabecera y mayor población del cantón homónimo. Évian-les-Bains está cerca de la frontera con Suiza, y la ciudad de Ginebra se encuentra a solo 41 kilómetros al suroeste, bordeando el lago Lemán."
+    }
+  },
+  "falmouth": {
+    "title": "Falmouth, Cornwall",
+    "url": "https://en.wikipedia.org/wiki/Falmouth%2C_Cornwall",
+    "extract": "Falmouth is a town, civil parish and port on the River Fal on the south coast of Cornwall, England.",
+    "description": "Town in Cornwall, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Falmouth_from_the_river.jpg/330px-Falmouth_from_the_river.jpg",
+    "lat": 50.15,
+    "lon": -5.07,
+    "es": {
+      "title": "Falmouth",
+      "url": "https://es.wikipedia.org/wiki/Falmouth",
+      "extract": "Falmouth es un pueblo y puerto marítimo en la desembocadura del río Fal, en la costa sur de Cornualles, en Inglaterra. Tiene una población, según el censo de 1999 de 20.775 habitantes. Se llamó originariamente Peny-cwm-ciuc, que se convirtió en 'Pennycomequick'."
     }
   },
   "ferapontov-monastery": {
@@ -3669,6 +3697,20 @@
       "title": "Fulton (Misuri)",
       "url": "https://es.wikipedia.org/wiki/Fulton_(Misuri)",
       "extract": "Fulton es una ciudad ubicada en el condado de Callaway en el estado estadounidense de Misuri. En el Censo de 2010 tenía una población de 12790 habitantes y una densidad poblacional de 398,47 personas por km²."
+    }
+  },
+  "galapagos-islands": {
+    "title": "Galápagos Islands",
+    "url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
+    "extract": "The Galápagos Islands are an archipelago of volcanic islands in the Eastern Pacific, located around the equator, 485 nautical miles west of the mainland of South America. They form the Galápagos Province of the Republic of Ecuador, with a population of slightly over 33,450 in 2020. The province is divided into the cantons of San Cristóbal, Santa Cruz, and Isabela, the three most populated islands in the chain. The Galápagos are famous for their large number of endemic species, which were studied by Charles Darwin in the 1830s and inspired his theory of evolution by means of natural selection. All of these islands are protected as part of Ecuador's Galápagos National Park and Marine Reserve.",
+    "description": "Ecuadorian volcanic archipelago",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG/330px-Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG",
+    "lat": -0.5,
+    "lon": -90.5,
+    "es": {
+      "title": "Islas Galápagos",
+      "url": "https://es.wikipedia.org/wiki/Islas_Gal%C3%A1pagos",
+      "extract": "Las islas Galápagos constituyen un archipiélago del océano Pacífico ubicado a 972 km de la costa de Ecuador. Fueron descubiertas en 1535 por la tripulación del barco del fray Tomás de Berlanga. Está conformado por trece islas grandes con una superficie mayor a 10 km², nueve islas medianas con una superficie de 1 km² a 10 km² y otros 107 islotes de tamaño pequeño, además de promontorios rocosos de pocos metros cuadrados, distribuidos alrededor de la línea ecuatorial, que conjuntamente con el archipiélago malayo, son los únicos archipiélagos del planeta que tienen territorio tanto en el hemisferio norte como en el hemisferio sur."
     }
   },
   "galilee": {
@@ -8053,6 +8095,20 @@
       "extract": "Platea fue una antigua ciudad de Beocia, en la antigua Grecia. Estaba situada entre los montes Helicón y Citerón, de los cuales este último hacía de frontera entre Mégara, Ática y Beocia."
     }
   },
+  "plymouth": {
+    "title": "Plymouth",
+    "url": "https://en.wikipedia.org/wiki/Plymouth",
+    "extract": "Plymouth is a port city and unitary authority in Devon, England. It is located on the county's south coast between the rivers Plym and Tamar, about 36 miles (58 km) south-west of Exeter and 193 miles (311 km) south-west of London. It is the most populous settlement in Devon.",
+    "description": "City and unitary authority in Devon, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Plymouth_City.JPG/330px-Plymouth_City.JPG",
+    "lat": 50.37138889,
+    "lon": -4.14222222,
+    "es": {
+      "title": "Plymouth",
+      "url": "https://es.wikipedia.org/wiki/Plymouth",
+      "extract": "Plymouth () es una ciudad del condado de Devon, en el suroeste de Inglaterra. Se encuentra entre el río Plym y el río Tamar, y es parte de uno de los más grandes y espectaculares puertos naturales en el mundo. La ciudad tiene un rico pasado marítimo y fue una de las más importantes bases del Reino Unido. Debido a esto fue un objetivo principal para la Luftwaffe durante la Segunda Guerra Mundial.En Plymouth queda un astillero y base para la Marina Real Británica, en el distrito de Devonport. Una línea de ferry la conecta con la ciudad española de Santander."
+    }
+  },
   "poltava": {
     "title": "Poltava",
     "url": "https://en.wikipedia.org/wiki/Poltava",
@@ -9665,6 +9721,20 @@
       "title": "Central nuclear de Shippingport",
       "url": "https://es.wikipedia.org/wiki/Central_nuclear_de_Shippingport",
       "extract": "La central nuclear de Shippingport, está situada en el río Ohio en el Condado de Beaver, Pensilvania cerca de 40 km de Pittsburgh. Empezó a funcionar el 2 de diciembre de 1957, y estuvo funcionando hasta octubre de 1982."
+    }
+  },
+  "shrewsbury": {
+    "title": "Shrewsbury",
+    "url": "https://en.wikipedia.org/wiki/Shrewsbury",
+    "extract": "Shrewsbury is a market town and civil parish in Shropshire, England. It is sited on the River Severn, 33 miles (53 km) northwest of Wolverhampton, 15 miles (24 km) west of Telford, 31 miles (50 km) southeast of Wrexham and 53 miles (85 km) north of Hereford. At the 2021 census, the parish had a population of 76,782. It is the county town of the ceremonial county of Shropshire.",
+    "description": "County town of Shropshire, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Square%2C_Shrewsbury.JPG/330px-The_Square%2C_Shrewsbury.JPG",
+    "lat": 52.708,
+    "lon": -2.754,
+    "es": {
+      "title": "Shrewsbury",
+      "url": "https://es.wikipedia.org/wiki/Shrewsbury",
+      "extract": "Shrewsbury es la ciudad condado de Shropshire, en Midlands del Oeste, Inglaterra, Reino Unido. Se encuentra cerca del País de Gales. Se encuentra a orillas del río Severn. Es el principal asentamiento del borough de Shrewsbury and Atcham, con una población de 95.850 habitantes. En consecuencia, es la segunda ciudad más grande de su condado ceremonial, después de Telford."
     }
   },
   "sidi-bouzid": {
