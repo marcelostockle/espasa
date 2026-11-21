@@ -762,6 +762,20 @@
       "extract": "Atenas es la capital de Grecia y actualmente la ciudad más grande, importante y poblada del país. La población del municipio de Atenas era de 643,452 (2021), y su área metropolitana comprende una población de 3,6 millones. Es el centro principal de la vida económica, cultural y política griega."
     }
   },
+  "atlanta": {
+    "title": "Atlanta",
+    "url": "https://en.wikipedia.org/wiki/Atlanta",
+    "extract": "Atlanta is the capital and most populous city of the U.S. state of Georgia. It is the county seat of Fulton County and extends into neighboring DeKalb County. With a population of 498,715 at the 2020 census and an estimated 529,110 in 2025, Atlanta is the eighth-most populous city in the Southeast and the 36th-most populous city in the United States. Atlanta is classified as a Beta+ global city. The Atlanta metropolitan area has an estimated population of over 6.4 million and is the sixth-largest metropolitan area in the United States. Situated among the foothills of the Appalachian Mountains at an elevation of just over 1,000 feet (300 m) above sea level, Atlanta features a unique topography that includes rolling hills, lush greenery, and the densest urban tree coverage of any major city in the United States.",
+    "description": "Capital and most populous city of Georgia, U.S.",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/A2ATL20250614-0721_%28cropped%29.jpg/330px-A2ATL20250614-0721_%28cropped%29.jpg",
+    "lat": 33.74888889,
+    "lon": -84.39,
+    "es": {
+      "title": "Atlanta",
+      "url": "https://es.wikipedia.org/wiki/Atlanta",
+      "extract": "Atlanta es la capital y ciudad más extensa y poblada del estado de Georgia y la trigésimo tercera en Estados Unidos en cantidad de habitantes en 2008. Tiene una población estimada de 537 958 habitantes. Su área metropolitana, cuyo nombre oficial es Atlanta-Sandy Springs-Marietta, GA MSA, es la octava área metropolitana con mayor población del país, con aproximadamente 6,2 millones de habitantes. Como en la mayor parte del Cinturón del Sol, la región de Atlanta experimentó un importante crecimiento en los años 2000, ya que añadió más de un millón de habitantes entre 2000 y 2008. Este fue el mayor crecimiento de cualquier área estadounidense por detrás del Dallas-Fort Worth metroplex. Con un ingreso bruto de 270 000 millones de dólares, la economía de Atlanta está clasificada en el puesto número 15 entre las ciudades del mundo y en el sexto puesto en los Estados Unidos."
+    }
+  },
   "augsburg": {
     "title": "Augsburg",
     "url": "https://en.wikipedia.org/wiki/Augsburg",
@@ -1707,6 +1721,20 @@
       "title": "Bratislava",
       "url": "https://es.wikipedia.org/wiki/Bratislava",
       "extract": "Bratislava es la capital y mayor ciudad de Eslovaquia. En 2025 tenía 480 902 habitantes y está situada a orillas del Danubio, cerca de las fronteras con Austria y Hungría, a unos 60 km de Viena."
+    }
+  },
+  "brazil": {
+    "title": "Brazil",
+    "url": "https://en.wikipedia.org/wiki/Brazil",
+    "extract": "Brazil, officially the Federative Republic of Brazil, is the largest country in South America, the world's fifth-largest country by area, and the seventh-largest country by population, with over 214 million people. Brazil is a federation composed of 26 states and a Federal District, which hosts the capital, Brasília. Its most populous city is São Paulo, followed by Rio de Janeiro. Brazil has the largest Lusophone population in the world and is the only Portuguese-speaking country in the Americas, where it is the official language.",
+    "description": "Country in South America",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png",
+    "lat": -10,
+    "lon": -52,
+    "es": {
+      "title": "Brasil",
+      "url": "https://es.wikipedia.org/wiki/Brasil",
+      "extract": "Brasil, oficialmente República Federativa de Brasil, es un país soberano de América del Sur que comprende la mitad oriental del subcontinente y algunos grupos de pequeñas islas en el océano Atlántico. Su capital es Brasilia y su ciudad más poblada, São Paulo. Con una superficie estimada en más de 8 500 000 km², es el tercer mayor país de América y el quinto mayor del mundo en área total."
     }
   },
   "breitenfeld": {
@@ -3457,6 +3485,20 @@
       "title": "Dubrovnik",
       "url": "https://es.wikipedia.org/wiki/Dubrovnik",
       "extract": "Dubrovnik es una ciudad situada en la parte más meridional de Croacia. Edificada en una península de la costa dálmata fue una importante potencia marítima mediterránea desde el siglo XIII. En la actualidad es el centro administrativo y económico más relevante del condado de Dubrovnik-Neretva. Con una superficie de 143.35 km² en el censo de 2021 cuenta con una población de 41 562 habitantes."
+    }
+  },
+  "durban": {
+    "title": "Durban",
+    "url": "https://en.wikipedia.org/wiki/Durban",
+    "extract": "Durban is the third-most populous city in South Africa, after Johannesburg and Cape Town, and the largest city in the province of KwaZulu-Natal. Situated on the east coast of South Africa, on the Natal Bay of the Indian Ocean, Durban is the busiest port city in sub-Saharan Africa and was formerly named Port Natal. North of the harbour and city centre lies the mouth of the Umgeni River; the flat city centre rises to the hills of the Berea on the west; and to the south, running along the coast, is the Bluff.",
+    "description": "City in South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg/330px-Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg",
+    "lat": -29.88333333,
+    "lon": 31.05,
+    "es": {
+      "title": "Durban",
+      "url": "https://es.wikipedia.org/wiki/Durban",
+      "extract": "Durban es una ciudad de Sudáfrica en la provincia de KwaZulu-Natal, a orillas del océano Índico."
     }
   },
   "east-berlin": {
@@ -7378,6 +7420,20 @@
       "title": "Monte Athos",
       "url": "https://es.wikipedia.org/wiki/Monte_Athos",
       "extract": "Monte Athos o Monte Atos es el nombre que recibe el área montañosa que conforma la península más oriental de las tres que se extienden hacia el sur desde la península Calcídica, situada en Macedonia Central, al norte de Grecia. En griego moderno se la llama Άγιον Όρος. En épocas clásicas, la península se llamaba en griego antiguo: Ἀκτή (Acté)."
+    }
+  },
+  "mumbai": {
+    "title": "Mumbai",
+    "url": "https://en.wikipedia.org/wiki/Mumbai",
+    "extract": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial capital of India. Located on the Konkan coast along the west coast of India, it has a deep natural harbour. As per the 2011 Census of India, it is the most populous city proper in India, with a population of almost 12.5 million, while the Mumbai Metropolitan Region, which is among the most populous metropolitan areas in the world, has a population of over 20 million. The city forms part of the Mumbai City and Mumbai Suburban districts and is administered by the Brihanmumbai Municipal Corporation, which was established in 1888.",
+    "description": "Capital of Maharashtra, India",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/330px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+    "lat": 19.07611111,
+    "lon": 72.8775,
+    "es": {
+      "title": "Bombay",
+      "url": "https://es.wikipedia.org/wiki/Bombay",
+      "extract": "Bombay, oficialmente Mumbai, es la capital del estado indio de Maharastra y la ciudad portuaria más importante del subcontinente indio con cerca del 40 % del tráfico exterior del país. El nombre deriva de la diosa local Mumba Devī. Entre 1626 y 1995 se llamó oficialmente Bombay, nombre tradicional cuyo uso sigue siendo recomendado en español por la Asociación de Academias de la Lengua Española."
     }
   },
   "munich": {
@@ -12073,6 +12129,20 @@
       "title": "Valparaíso",
       "url": "https://es.wikipedia.org/wiki/Valpara%C3%ADso",
       "extract": "Valparaíso es una comuna y ciudad capital de la provincia y Región de Valparaíso. Se sitúa en la zona central de Chile y es el centro histórico, institucional y universitario del Gran Valparaíso, que forma junto a los municipios de Viña del Mar, Quilpué, Villa Alemana y Concón. Como capital de la región, alberga a la Delegación Presidencial y al Gobierno Regional de Valparaíso, además de ser sede del Congreso Nacional, un importante terminal portuario y una de las tres urbes chilenas más pobladas."
+    }
+  },
+  "vancouver": {
+    "title": "Vancouver",
+    "url": "https://en.wikipedia.org/wiki/Vancouver",
+    "extract": "Vancouver is a major city in Western Canada, located in the Lower Mainland region of British Columbia. As the most populous city in the province, the 2021 Canadian census recorded 662,248 people in the city, up from 631,486 in 2016. The Greater Vancouver area had a population of 2.6 million in 2021, making it the third-largest metropolitan area in Canada after Toronto and Montreal. The region, together with the Fraser Valley, makes up the Lower Mainland, which has a total population of over 3 million. Vancouver has the highest population density in Canada, with over 5,700 inhabitants per square kilometre (15,000/sq mi), and the fourth highest in North America.",
+    "description": "City in British Columbia, Canada",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Skyline_of_Vancouver%2C_Canada.jpg/330px-Skyline_of_Vancouver%2C_Canada.jpg",
+    "lat": 49.26083333,
+    "lon": -123.11388889,
+    "es": {
+      "title": "Vancouver",
+      "url": "https://es.wikipedia.org/wiki/Vancouver",
+      "extract": "Vancouver es una ciudad de la costa pacífica de Canadá, ubicada en el suroeste de la provincia de Columbia Británica, entre el estrecho de Georgia y las Montañas Costeras. La ciudad fue nombrada así en homenaje al capitán George Vancouver, un explorador inglés."
     }
   },
   "varennes": {

@@ -503,6 +503,15 @@
       }
     }
   },
+  "atlanta": {
+    "label": "Atlanta",
+    "wikipedia": "Atlanta",
+    "translations": {
+      "es": {
+        "label": "Atlanta"
+      }
+    }
+  },
   "augsburg": {
     "label": "Augsburg",
     "wikipedia": "Augsburg",
@@ -1130,6 +1139,15 @@
     "translations": {
       "es": {
         "label": "Bratislava"
+      }
+    }
+  },
+  "brazil": {
+    "label": "Brazil",
+    "wikipedia": "Brazil",
+    "translations": {
+      "es": {
+        "label": "Brasil"
       }
     }
   },
@@ -2273,6 +2291,15 @@
     "translations": {
       "es": {
         "label": "Dubrovnik"
+      }
+    }
+  },
+  "durban": {
+    "label": "Durban",
+    "wikipedia": "Durban",
+    "translations": {
+      "es": {
+        "label": "Durban"
       }
     }
   },
@@ -4865,6 +4892,15 @@
     "translations": {
       "es": {
         "label": "Monte Athos"
+      }
+    }
+  },
+  "mumbai": {
+    "label": "Mumbai",
+    "wikipedia": "Mumbai",
+    "translations": {
+      "es": {
+        "label": "Bombay"
       }
     }
   },
@@ -7961,6 +7997,15 @@
     "translations": {
       "es": {
         "label": "Valparaíso"
+      }
+    }
+  },
+  "vancouver": {
+    "label": "Vancouver",
+    "wikipedia": "Vancouver",
+    "translations": {
+      "es": {
+        "label": "Vancouver"
       }
     }
   },

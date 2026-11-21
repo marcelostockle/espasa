@@ -2054,6 +2054,20 @@
       }
     }
   },
+  "hiv-aids": {
+    "label": "HIV/AIDS",
+    "color": "#b5179e",
+    "description": "The HIV/AIDS epidemic since 1981: the discovery of the virus, treatment and prevention, activism, and the politics and economics of access to drugs.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "VIH/sida",
+        "description": "La epidemia de VIH/sida desde 1981: el descubrimiento del virus, el tratamiento y la prevención, el activismo, y la política y la economía del acceso a los fármacos."
+      }
+    }
+  },
   "holocaust": {
     "label": "The Holocaust",
     "color": "#6d6d9a",
