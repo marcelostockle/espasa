@@ -1268,6 +1268,20 @@
       "extract": "Bengasi es una ciudad del noreste de Libia en la costa del mar Mediterráneo, capital de la división administrativa de su nombre, en la costa oriental del golfo de Sidra. Es la segunda ciudad más grande del país. Su emplazamiento coincide con el de la antigua Berenice. Cerca de este lugar se libraron batallas clave durante la Segunda Guerra Mundial entre el Afrika Korps y los aliados y la ciudad fue el baluarte de los opositores a Muamar el Gadafi durante la guerra civil libia. Localizada en la línea de ferrocarril, Bengasi tiene un considerable comercio de caravanas con el interior. Es el centro comercial de cereales, dátiles, aceitunas, lana y ganadería de las áreas que la rodean. Además de la agricultura hay otras actividades importantes como la pesca de atún y la recolección de esponjas. Las esponjas, las pieles y la madera son los productos que más se exportan. En la ciudad se encuentran la Universidad de Garyunis y la Libyan International Medical University."
     }
   },
+  "berkeley-california": {
+    "title": "Berkeley, California",
+    "url": "https://en.wikipedia.org/wiki/Berkeley%2C_California",
+    "extract": "Berkeley is a city on the eastern shore of San Francisco Bay in northern Alameda County, California, United States. It is named after the 18th-century Anglo-Irish bishop and philosopher George Berkeley. It borders the cities of Oakland and Emeryville to the south and the city of Albany and the unincorporated community of Kensington to the north. Its eastern border with Contra Costa County generally follows the ridge of the Berkeley Hills. The 2020 census recorded a population of 124,321.",
+    "description": "City in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Berkeley_cityscape.jpg/330px-Berkeley_cityscape.jpg",
+    "lat": 37.87166667,
+    "lon": -122.27277778,
+    "es": {
+      "title": "Berkeley (California)",
+      "url": "https://es.wikipedia.org/wiki/Berkeley_(California)",
+      "extract": "Berkeley es una ciudad situada en el condado de Alameda, en el estado de California. Tiene una población estimada, a mediados de 2022, de 118 950 habitantes."
+    }
+  },
   "berkeley-gloucestershire": {
     "title": "Berkeley, Gloucestershire",
     "url": "https://en.wikipedia.org/wiki/Berkeley%2C_Gloucestershire",
@@ -1595,6 +1609,20 @@
       "title": "Puerta de Brandeburgo",
       "url": "https://es.wikipedia.org/wiki/Puerta_de_Brandeburgo",
       "extract": "La Puerta de Brandeburgo es un monumento neoclásico del siglo xviii situado en Berlín, construido por orden del rey de Prusia, Federico Guillermo II, después de reprimir la revuelta popular holandesa y restaurar el poder orangista en los Países Bajos. Es uno de los monumentos más conocidos de Alemania, y fue construida en la ubicación de la antigua puerta de la ciudad en la que comenzaba la carretera que conducía de Berlín a la Ciudad de Brandeburgo, que era la capital del Margraviato de Brandeburgo."
+    }
+  },
+  "branford-connecticut": {
+    "title": "Branford, Connecticut",
+    "url": "https://en.wikipedia.org/wiki/Branford%2C_Connecticut",
+    "extract": "Branford is a shoreline town located on Long Island Sound in New Haven County, Connecticut, United States, about 6 miles (10 km) east of downtown New Haven. The town is part of the South Central Connecticut Planning Region. Branford borders East Haven to the west, Guilford to the east, and North Branford to the north. The population was 28,273 in the 2020 census.",
+    "description": "Town in Connecticut, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Branford_Town_Green%2C_Connecticut.jpg/330px-Branford_Town_Green%2C_Connecticut.jpg",
+    "lat": 41.27777778,
+    "lon": -72.79972222,
+    "es": {
+      "title": "Branford (Connecticut)",
+      "url": "https://es.wikipedia.org/wiki/Branford_(Connecticut)",
+      "extract": "Branford es un pueblo ubicado en el condado de New Haven en el estado estadounidense de Connecticut. En el año 2005 tenía una población de 29,089 habitantes y una densidad poblacional de 511 personas por km²."
     }
   },
   "bratislava": {
@@ -3019,6 +3047,20 @@
       "title": "Darlington",
       "url": "https://es.wikipedia.org/wiki/Darlington",
       "extract": "Darlington es una ciudad y autoridad unitaria en Inglaterra. La ciudad tenía una población de 106.000 habitantes en 2011. La ciudad está a orillas del río Skerne, un afluente del río Tees. La ciudad tiene una historia larga con mucho desarrollo debido a la influencia de los cuáqueros en la época victoriana. La ciudad es conocida por ser terminal de la primera línea de ferrocarril del mundo."
+    }
+  },
+  "davis-california": {
+    "title": "Davis, California",
+    "url": "https://en.wikipedia.org/wiki/Davis%2C_California",
+    "extract": "Davis is the most populous city in Yolo County, California, United States. Located in the Sacramento Valley region of Northern California, the city had a population of 66,850 in 2020, not including the on-campus population of the University of California, Davis, which was over 9,400 in 2016. As of 2023, there were 40,850 students enrolled at the university, which is known as the biking capital of America.",
+    "description": "City in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Davis_station_facing_west%2C_November_2017.JPG/330px-Davis_station_facing_west%2C_November_2017.JPG",
+    "lat": 38.55388889,
+    "lon": -121.73805556,
+    "es": {
+      "title": "Davis (California)",
+      "url": "https://es.wikipedia.org/wiki/Davis_(California)",
+      "extract": "Davis es una ciudad en el norte del estado de California, en Estados Unidos. Según el censo de 2010, en ese momento tenía una población de 65,622 habitantes. Tiene una población estimada, a mediados de 2019, de 69,413 habitantes."
     }
   },
   "dayton-ohio": {

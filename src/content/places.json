@@ -836,6 +836,15 @@
       }
     }
   },
+  "berkeley-california": {
+    "label": "Berkeley, California",
+    "wikipedia": "Berkeley, California",
+    "translations": {
+      "es": {
+        "label": "Berkeley (California)"
+      }
+    }
+  },
   "berkeley-gloucestershire": {
     "label": "Berkeley, Gloucestershire",
     "wikipedia": "Berkeley, Gloucestershire",
@@ -1058,6 +1067,15 @@
     "translations": {
       "es": {
         "label": "Puerta de Brandeburgo"
+      }
+    }
+  },
+  "branford-connecticut": {
+    "label": "Branford, Connecticut",
+    "wikipedia": "Branford, Connecticut",
+    "translations": {
+      "es": {
+        "label": "Branford (Connecticut)"
       }
     }
   },
@@ -1985,6 +2003,15 @@
     "translations": {
       "es": {
         "label": "Darlington"
+      }
+    }
+  },
+  "davis-california": {
+    "label": "Davis, California",
+    "wikipedia": "Davis, California",
+    "translations": {
+      "es": {
+        "label": "Davis (California)"
       }
     }
   },
