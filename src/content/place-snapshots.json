@@ -1310,6 +1310,20 @@
       "extract": "El Muro de Berlín fue un muro de seguridad que formaba parte de la frontera interalemana desde el 13 de agosto de 1961 hasta el 9 de noviembre de 1989. Rodeaba y separaba la zona de la ciudad berlinesa encuadrada en el espacio económico de la República Federal de Alemania (RFA), Berlín Oeste, de la capital de la República Democrática Alemana (RDA), Berlín Este, durante esos años. Es el símbolo más conocido de la Guerra Fría y de la división de Alemania. Este muro era denominado Muro de Protección Antifascista por la RDA, mientras que los medios de comunicación y parte de la opinión pública occidental se referían a él como Muro de la vergüenza (Schandmauer)."
     }
   },
+  "bermuda": {
+    "title": "Bermuda",
+    "url": "https://en.wikipedia.org/wiki/Bermuda",
+    "extract": "Bermuda is a British Overseas Territory in the North Atlantic Ocean. The closest land outside the territory is in the US state of North Carolina, about 1,035 km (643 mi) to the west-northwest.",
+    "description": "British Overseas Territory in the North Atlantic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/330px-Flag_of_Bermuda.svg.png",
+    "lat": 32.32,
+    "lon": -64.74,
+    "es": {
+      "title": "Bermudas",
+      "url": "https://es.wikipedia.org/wiki/Bermudas",
+      "extract": "Bermudas o las islas Bermudas es un territorio británico de ultramar miembro de la comunidad del Caribe situado en un archipiélago del océano Atlántico Norte, frente a la costa este de Estados Unidos en América del Norte. El punto del continente americano más cercano a las islas es el cabo Hatteras en el estado estadounidense de Carolina del Norte, situado a 1030 km al noroeste, mientras que la ciudad de Miami se halla a 1770 km al suroeste. La capital de las Bermudas es Hamilton. Es uno de los diecisiete territorios no autónomos bajo supervisión del Comité de Descolonización de las Naciones Unidas."
+    }
+  },
   "bern": {
     "title": "Bern",
     "url": "https://en.wikipedia.org/wiki/Bern",
@@ -3727,6 +3741,20 @@
       "extract": "Fulton es una ciudad ubicada en el condado de Callaway en el estado estadounidense de Misuri. En el Censo de 2010 tenía una población de 12790 habitantes y una densidad poblacional de 398,47 personas por km²."
     }
   },
+  "gaithersburg-maryland": {
+    "title": "Gaithersburg, Maryland",
+    "url": "https://en.wikipedia.org/wiki/Gaithersburg%2C_Maryland",
+    "extract": "Gaithersburg is a city in Montgomery County, Maryland, United States. At the time of the 2020 United States census, Gaithersburg had a population of 69,657, making it the third-largest incorporated city and the ninth-most populous community in the state. Gaithersburg is located to the northwest of Washington, D.C., and is considered a suburb and a primary city within the Washington metropolitan area. Gaithersburg was incorporated as a town in 1878 and as a city in 1968.",
+    "description": "City in Maryland, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Gaithersburg%2C_Maryland%2C_Infobox_Montage_1.png/330px-Gaithersburg%2C_Maryland%2C_Infobox_Montage_1.png",
+    "lat": 39.14222222,
+    "lon": -77.19333333,
+    "es": {
+      "title": "Gaithersburg (Maryland)",
+      "url": "https://es.wikipedia.org/wiki/Gaithersburg_(Maryland)",
+      "extract": "Gaithersburg es una ciudad del condado de Montgomery. Es la segunda ciudad del condado, con 58.091 habitantes en 2004 y 70.686 habitantes según estimaciones de 2024. Es la capital del condado de Montgomery."
+    }
+  },
   "galapagos-islands": {
     "title": "Galápagos Islands",
     "url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
@@ -4540,6 +4568,15 @@
       "url": "https://es.wikipedia.org/wiki/H%C3%ADmera",
       "extract": "Hímera (Himéra) era la más occidental de las ciudades griegas de la costa norte de Sicilia, en la desembocadura del río Hímera, entre Panormo y Cefaledio (Cefalú). Estuvo en contacto con los fenicios de Solunte y Panormo, sus rivales comerciales."
     }
+  },
+  "hinxton": {
+    "title": "Hinxton",
+    "url": "https://en.wikipedia.org/wiki/Hinxton",
+    "extract": "Hinxton is a village in South Cambridgeshire, England.",
+    "description": "Village in Cambridgeshire, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Hinxton.JPG/330px-Hinxton.JPG",
+    "lat": 52.083,
+    "lon": 0.183
   },
   "hippo-regius": {
     "title": "Hippo Regius",
@@ -8940,6 +8977,20 @@
       "extract": "La Universidad Rockefeller está localizada en la zona este de la isla de Manhattan en Nueva York. Es una universidad pequeña dedicada a las ciencias biomédicas, la más antigua institución de este tipo en el continente americano. El Instituto Rockefeller para la Investigación Médica, precursor de la universidad, fue fundado en 1901 por John D. Rockefeller, quien anteriormente había fundado la Universidad de Chicago. El Instituto cambió su nombre a universidad en 1965 al incluir entre sus fines la enseñanza."
     }
   },
+  "rockville-maryland": {
+    "title": "Rockville, Maryland",
+    "url": "https://en.wikipedia.org/wiki/Rockville%2C_Maryland",
+    "extract": "Rockville is a city in and the county seat of Montgomery County, Maryland, United States, and is part of the Washington metropolitan area. The 2020 census tabulated Rockville's population at 67,117, making it the fourth most populous incorporated city in Maryland.",
+    "description": "City in Maryland, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Rockville%2C_Maryland_Infobox_Montage_1.png/330px-Rockville%2C_Maryland_Infobox_Montage_1.png",
+    "lat": 39.08,
+    "lon": -77.14277778,
+    "es": {
+      "title": "Rockville (Maryland)",
+      "url": "https://es.wikipedia.org/wiki/Rockville_(Maryland)",
+      "extract": "Rockville es una ciudad situada en el condado de Montgomery, Maryland, Estados Unidos. Tiene una población estimada, a mediados de 2022, de 66 924 habitantes."
+    }
+  },
   "rocroi": {
     "title": "Rocroi",
     "url": "https://en.wikipedia.org/wiki/Rocroi",
@@ -9021,6 +9072,20 @@
       "title": "Le Roncole",
       "url": "https://es.wikipedia.org/wiki/Le_Roncole",
       "extract": "Le Roncole es un pueblo en la provincia de Parma de Italia, una frazione de la comune de Busseto. Está localizado 140 km al sureste de Milán."
+    }
+  },
+  "roslin-midlothian": {
+    "title": "Roslin, Midlothian",
+    "url": "https://en.wikipedia.org/wiki/Roslin%2C_Midlothian",
+    "extract": "Roslin is a village in Midlothian, Scotland, 11 kilometres (7 mi) to the south of the capital city Edinburgh. It stands on high ground, near the northwest bank of the river North Esk.",
+    "description": "Village in Midlothian, Scotland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Roslin%2C_Midlothian.jpg/330px-Roslin%2C_Midlothian.jpg",
+    "lat": 55.85822,
+    "lon": -3.16942,
+    "es": {
+      "title": "Roslin",
+      "url": "https://es.wikipedia.org/wiki/Roslin",
+      "extract": "Roslin es un pueblo en Midlothian, Escocia, al sur de la capital escocesa de Edimburgo. Está situado aproximadamente a 12 millas del aeropuerto de Edimburgo."
     }
   },
   "rubicon": {
@@ -9387,6 +9452,20 @@
       "title": "Santa Clara (Cuba)",
       "url": "https://es.wikipedia.org/wiki/Santa_Clara_(Cuba)",
       "extract": "Santa Clara, capital de la provincia de Villa Clara y cabecera del municipio de igual nombre, es una ciudad localizada en las inmediaciones del centro geográfico de Cuba. Imprescindible plaza cultural y significativo enclave industrial y científico del país caribeño, se le conoce por la batalla homónima que diera el triunfo a la Revolución Cubana, así como por acoger en su suelo los restos del comandante guerrillero argentino-cubano, Ernesto Guevara y sus compañeros de lucha."
+    }
+  },
+  "santa-cruz-california": {
+    "title": "Santa Cruz, California",
+    "url": "https://en.wikipedia.org/wiki/Santa_Cruz%2C_California",
+    "extract": "Santa Cruz is the largest city in, and the county seat of, Santa Cruz County, California, United States. As of the 2020 census, the city population was 62,956. Situated on the northern edge of Monterey Bay, Santa Cruz is a popular tourist destination, owing to its beaches, surf culture, and historic landmarks.",
+    "description": "City in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mission_Santa_Cruz_%288321945663%29.jpg/330px-Mission_Santa_Cruz_%288321945663%29.jpg",
+    "lat": 36.97194444,
+    "lon": -122.02638889,
+    "es": {
+      "title": "Santa Cruz (California)",
+      "url": "https://es.wikipedia.org/wiki/Santa_Cruz_(California)",
+      "extract": "Santa Cruz es la capital y mayor ciudad del condado homónimo, en el estado de California. Se encuentra situada en el borde norte de la bahía de Monterey, aproximadamente a 115 kilómetros al sur de San Francisco."
     }
   },
   "santa-fe-new-mexico": {

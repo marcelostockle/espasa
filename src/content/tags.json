@@ -2011,6 +2011,20 @@
       }
     }
   },
+  "human-genome-project": {
+    "label": "Human Genome Project",
+    "color": "#e0609a",
+    "description": "The international effort (1990–2003), and its commercial rival Celera, to sequence the human genome, together with the genome-sequencing milestones that led up to it.",
+    "categories": [
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Proyecto Genoma Humano",
+        "description": "El esfuerzo internacional (1990–2003), y su rival comercial Celera, por secuenciar el genoma humano, junto con los hitos de secuenciación de genomas que lo precedieron."
+      }
+    }
+  },
   "humanism": {
     "label": "Humanism",
     "color": "#6d9eeb",

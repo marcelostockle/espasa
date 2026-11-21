@@ -863,6 +863,15 @@
       }
     }
   },
+  "bermuda": {
+    "label": "Bermuda",
+    "wikipedia": "Bermuda",
+    "translations": {
+      "es": {
+        "label": "Bermudas"
+      }
+    }
+  },
   "bern": {
     "label": "Bern",
     "wikipedia": "Bern",
@@ -2456,6 +2465,15 @@
       }
     }
   },
+  "gaithersburg-maryland": {
+    "label": "Gaithersburg, Maryland",
+    "wikipedia": "Gaithersburg, Maryland",
+    "translations": {
+      "es": {
+        "label": "Gaithersburg (Maryland)"
+      }
+    }
+  },
   "galapagos-islands": {
     "label": "Galápagos Islands",
     "wikipedia": "Galápagos Islands",
@@ -2993,6 +3011,15 @@
     "translations": {
       "es": {
         "label": "Himera"
+      }
+    }
+  },
+  "hinxton": {
+    "label": "Hinxton",
+    "wikipedia": "Hinxton",
+    "translations": {
+      "es": {
+        "label": "Hinxton"
       }
     }
   },
@@ -5903,6 +5930,15 @@
       }
     }
   },
+  "rockville-maryland": {
+    "label": "Rockville, Maryland",
+    "wikipedia": "Rockville, Maryland",
+    "translations": {
+      "es": {
+        "label": "Rockville (Maryland)"
+      }
+    }
+  },
   "rocroi": {
     "label": "Rocroi",
     "wikipedia": "Rocroi",
@@ -5954,6 +5990,15 @@
     "translations": {
       "es": {
         "label": "Le Roncole"
+      }
+    }
+  },
+  "roslin-midlothian": {
+    "label": "Roslin, Midlothian",
+    "wikipedia": "Roslin, Midlothian",
+    "translations": {
+      "es": {
+        "label": "Roslin (Midlothian)"
       }
     }
   },
@@ -6197,6 +6242,15 @@
     "translations": {
       "es": {
         "label": "Santa Clara"
+      }
+    }
+  },
+  "santa-cruz-california": {
+    "label": "Santa Cruz, California",
+    "wikipedia": "Santa Cruz, California",
+    "translations": {
+      "es": {
+        "label": "Santa Cruz (California)"
       }
     }
   },
