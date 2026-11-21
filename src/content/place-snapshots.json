@@ -2351,6 +2351,20 @@
       "extract": "Queronea es una ciudad y un municipio perteneciente a la Prefectura de Beocia, en la desembocadura del río Cefiso y contigua a la región de la Fócida. Esta ciudad se hizo famosa en la historia por haber sido el escenario de batallas muy importantes y decisivas para el devenir de Atenas."
     }
   },
+  "changan": {
+    "title": "Chang'an",
+    "url": "https://en.wikipedia.org/wiki/Chang'an",
+    "extract": "Chang'an, located in China's Shaanxi Province, was the capital city of several Chinese dynasties, including the Western Han and the Tang, from 202 BC to 907 AD. At various times, it was the largest city in the world. Its name was subsequently changed, and during the Ming dynasty period its modern name of Xi'an was adopted.",
+    "description": "Ancient capital of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Prince_Yide%27s_tomb%2C_towers.jpg/330px-Prince_Yide%27s_tomb%2C_towers.jpg",
+    "lat": 34.30833333,
+    "lon": 108.85833333,
+    "es": {
+      "title": "Chang'an",
+      "url": "https://es.wikipedia.org/wiki/Chang'an",
+      "extract": "Chang'an fue la capital antigua de China, que en su momento de esplendor llegó a alcanzar los dos millones de habitantes, en el emplazamiento de la actual Xi'an. Llegó a ser la capital de más de diez dinastías en la historia de China."
+    }
+  },
   "changchun": {
     "title": "Changchun",
     "url": "https://en.wikipedia.org/wiki/Changchun",
@@ -3075,6 +3089,20 @@
       "title": "Darlington",
       "url": "https://es.wikipedia.org/wiki/Darlington",
       "extract": "Darlington es una ciudad y autoridad unitaria en Inglaterra. La ciudad tenía una población de 106.000 habitantes en 2011. La ciudad está a orillas del río Skerne, un afluente del río Tees. La ciudad tiene una historia larga con mucho desarrollo debido a la influencia de los cuáqueros en la época victoriana. La ciudad es conocida por ser terminal de la primera línea de ferrocarril del mundo."
+    }
+  },
+  "datong": {
+    "title": "Datong",
+    "url": "https://en.wikipedia.org/wiki/Datong",
+    "extract": "Datong is a prefecture-level city in northern Shanxi Province in the People's Republic of China. It is located in the Datong Basin at an elevation of 1,040 metres (3,410 ft) and borders Inner Mongolia to the north and west and Hebei to the east. As of the 2020 census, it had a population of 3,105,591 of whom 1,790,452 lived in the built-up area made of the 2 out 4 urban districts of Pingcheng and Yungang as Yunzhou and Xinrong are not conurbated yet.",
+    "description": "Prefecture-level city in Shanxi, People's Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Datong_Ancient_City_Wall_%2854578074197%29.jpg/330px-Datong_Ancient_City_Wall_%2854578074197%29.jpg",
+    "lat": 40.097,
+    "lon": 113.367,
+    "es": {
+      "title": "Datong",
+      "url": "https://es.wikipedia.org/wiki/Datong",
+      "extract": "Datong es una ciudad-prefectura de la provincia de Shanxi en la República Popular China. Situada a 1040 metros sobre el nivel del mar en la cuenca Datong, al oeste de Beijing. Su área es de 14 056 km² y su población total para 2010 superó los 3,3 millones de habitantes."
     }
   },
   "davis-california": {
@@ -4109,6 +4137,18 @@
       "title": "Goa Vieja",
       "url": "https://es.wikipedia.org/wiki/Goa_Vieja",
       "extract": "Goa Vieja o Goa Velha en portugués, fue una ciudad del Distrito Norte de Goa en el Estado Indio de Goa. La ciudad fue construida durante el Sultanato de Bijapur en el siglo XV y sirvió como capital de la India Portuguesa desde el siglo XVI hasta su abandono en el siglo XVIII debido a una plaga. Se dice que llegó a tener casi 200.000 habitantes y los portugueses la usaron para el comercio. Los restos de la ciudad son Patrimonio de la Humanidad. La vieja Goa está apenas a diez kilómetros de Panaji, capital del distrito."
+    }
+  },
+  "gojoseon": {
+    "title": "Old Chosŏn",
+    "url": "https://en.wikipedia.org/wiki/Old_Chos%C5%8Fn",
+    "extract": "Old Chosŏn, also known as Gojoseon and its contemporary name Joseon, was the first kingdom on the Korean Peninsula. According to Korean mythology, the kingdom was established by the legendary king Tan'gun. Old Chosŏn possessed the most advanced culture in the Korean Peninsula at the time and was an important marker in the progression towards the more centralized states of later periods. The addition of Go, meaning \"old\" or \"ancient\", is used in historiography to distinguish the kingdom from the Joseon, which was founded in 1392.",
+    "description": "? – 108 BC state in East Asia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Old_Chos%C5%8Fn.png/330px-Old_Chos%C5%8Fn.png",
+    "es": {
+      "title": "Gojoseon",
+      "url": "https://es.wikipedia.org/wiki/Gojoseon",
+      "extract": "Gojoseon o Koyoseon fue el primer reino en la península de Corea. El término Go-, que significa \"antiguo\", lo distingue de uno de los varios nombres de Joseon."
     }
   },
   "gonaives": {
@@ -5539,6 +5579,19 @@
       "extract": "Kosovo Polje, literalmente \"campo de Kosovo\" o \"campo de los mirlos\", a veces en alemán: Amselfeld) es una ciudad y municipio en el distrito de Pristina, en Kosovo (Serbia), 8 km al suroeste de la capital, Pristina. En 2003 la ciudad tenía una población total de 28.600 habitantes. La población estimada del municipio es de unas 50.000 personas, según datos de la OSCE."
     }
   },
+  "kucha": {
+    "title": "Kucha",
+    "url": "https://en.wikipedia.org/wiki/Kucha",
+    "extract": "Kucha was an ancient Tocharian Buddhist kingdom located on the branch of the Silk Road that ran along the northern edge of what is now the Taklamakan Desert in the Tarim Basin and south of the Muzat River. The people of Kucha spoke Kuchean and a local variant of Gandhārī Prakrit, known as Kucha Prakrit, was used by Kucha for official and administrative purposes, with evidence indicating that it remained in use until 6th century.",
+    "description": "Ancient Buddhist kingdom on the northern edge of the Taklamakan Desert",
+    "lat": 41.71555556,
+    "lon": 82.93222222,
+    "es": {
+      "title": "Kucha",
+      "url": "https://es.wikipedia.org/wiki/Kucha",
+      "extract": "Kucha, o Kuche, fue un antiguo reino budista ubicado en el ramal de la Ruta de la Seda que corría a lo largo del borde norte del desierto de Taklamakán en la cuenca del Tarim y al sur del río Muzat."
+    }
+  },
   "kufa": {
     "title": "Kufa",
     "url": "https://en.wikipedia.org/wiki/Kufa",
@@ -6144,6 +6197,20 @@
       "title": "Lucca",
       "url": "https://es.wikipedia.org/wiki/Lucca",
       "extract": "Lucca es una ciudad y municipio italiano ubicado en la región de Toscana, en el centro-norte del país. Situada a orillas del río Serchio, en una fértil llanura cercana al mar Tirreno, es la capital de la provincia homónima y cuenta con unos 88 000 habitantes."
+    }
+  },
+  "luoyang": {
+    "title": "Luoyang",
+    "url": "https://en.wikipedia.org/wiki/Luoyang",
+    "extract": "Luoyang is a city located in the confluence area of the Luo River and the Yellow River in the west of Henan province, China. Governed as a prefecture-level city, it borders the provincial capital of Zhengzhou to the east, Pingdingshan to the southeast, Nanyang to the south, Sanmenxia to the west, Jiyuan to the north, and Jiaozuo to the northeast. As of December 31, 2018, Luoyang had a population of 6,888,500 inhabitants with 2,751,400 people living in the built-up area made of the city's five out of six urban districts and Yanshi District, later being conurbated. By the end of 2022, Luoyang Municipality had jurisdiction over 7 municipal districts, 7 counties and 1 development zone. The permanent population was 7.079 million as of 2022.",
+    "description": "City in Henan, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Longmen_Grottoes_3.jpg/330px-Longmen_Grottoes_3.jpg",
+    "lat": 34.6197,
+    "lon": 112.4539,
+    "es": {
+      "title": "Luoyang",
+      "url": "https://es.wikipedia.org/wiki/Luoyang",
+      "extract": "Luoyang es una ciudad-prefectura de la provincia de Henan en la República Popular China. Limita al norte con Jiyuan, al sur con Nanyang, al oeste con Sanmenxia y al este con Zhengzhou. Su área es de 15235,85 km² y su población total para 2020 superó los 7 millones de habitantes."
     }
   },
   "lusitania": {
@@ -7325,6 +7392,18 @@
       "title": "Nanyang",
       "url": "https://es.wikipedia.org/wiki/Nanyang",
       "extract": "Nanyang es una ciudad-prefectura en la provincia de Henan, en la República Popular China. Las fronteras son: Sanmenxia al norte, la provincia de Hubei, al sur, Shaanxi al oeste y Zhumadian al este. Su área es de 26 511 km² y su población total para 2020 superó los 9,7 millones de habitantes."
+    }
+  },
+  "nanyue": {
+    "title": "Nanyue",
+    "url": "https://en.wikipedia.org/wiki/Nanyue",
+    "extract": "Nanyue was an ancient kingdom founded in 204 BC by the Chinese general Zhao Tuo, whose family continued to rule until 111 BC. Nanyue's geographical expanse covered the modern Chinese subdivisions of Guangdong, Guangxi, Hainan, Hong Kong, Macau, southern Fujian and central to northern Vietnam. Zhao Tuo, then Commander of Nanhai Commandery of the Qin dynasty, established Nanyue in 204 BC after the collapse of the Qin dynasty. At first, it consisted of the commanderies of Nanhai, Guilin, and Xiang.",
+    "description": "Kingdom in East Asia (204 BC – 111 BC)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nanyue.svg/330px-Nanyue.svg.png",
+    "es": {
+      "title": "Nanyue",
+      "url": "https://es.wikipedia.org/wiki/Nanyue",
+      "extract": "Nanyue fue un antiguo reino que abarcaba partes de las modernas provincias chinas de Guangdong, Guangxi y Yunnan y la mayor parte del norte del actual Vietnam. El reino fue establecido por el general han Zhao Tuo de la dinastía Qin, quien asimiló las costumbres del pueblo Yue y de China central en su territorio. Su capital se llamaba Panyu, lo que hoy en día es Cantón, China. En Vietnam, el nombre Dinastía Triệu se usa en referencia al linaje de los reyes de Nanyue, y por extensión a la era del gobierno Nanyue."
     }
   },
   "naples": {
@@ -10821,6 +10900,20 @@
       "extract": "La batalla de Tarapacá fue una acción ocurrida el 27 de noviembre de 1879 en la localidad de Tarapacá, entonces parte del departamento peruano de Tarapacá, durante la campaña terrestre de la guerra del Pacífico. En ella se enfrentaron fuerzas peruanas al mando del general Juan Buendía y fuerzas chilenas comandadas por el coronel Luis Arteaga, y finalizó con una victoria táctica del ejército del Perú, aunque sin alterar el curso general de la guerra."
     }
   },
+  "taraz": {
+    "title": "Taraz",
+    "url": "https://en.wikipedia.org/wiki/Taraz",
+    "extract": "Taraz is a city and the administrative center of Jambyl Region in Kazakhstan, located on the Talas (Taraz) River in the south of the country near the border with Kyrgyzstan. It had a population of 330,100 as of the 1999 census, up 9% from 1989, making it one of the fastest-growing cities in the country, after Astana and Turkistan. The current population of Taraz is 428,000.",
+    "description": "City in Jambyl Region, Kazakhstan",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Karakhan_Mausoleum.JPG/330px-Karakhan_Mausoleum.JPG",
+    "lat": 42.9,
+    "lon": 71.36666667,
+    "es": {
+      "title": "Taraz",
+      "url": "https://es.wikipedia.org/wiki/Taraz",
+      "extract": "Taraz, anteriormente denominada Talas, Zhambyl (Жамбы́л) y Aulie-Ata es la capital de la provincia de Jambyl, Kazajistán. Situada en el sur del país, cerca de la frontera con Kirguistán, junto al río Talas. Una de las ciudades con más rápido crecimiento en el país, después de Astaná y Turkestán."
+    }
+  },
   "tehran": {
     "title": "Tehran",
     "url": "https://en.wikipedia.org/wiki/Tehran",
@@ -12310,6 +12403,20 @@
       "title": "Xianyang",
       "url": "https://es.wikipedia.org/wiki/Xianyang",
       "extract": "Xianyang es una ciudad-prefectura en la provincia de Shaanxi, República Popular China. A una distancia aproximada de 25 km de la capital provincial. Limita al norte con Tongchuan, al sur y este con Xi'an y al este con Baoji. Su área es de 10 323 km² y su población total para 2010 superó los 3,95 millones de habitantes."
+    }
+  },
+  "xuchang": {
+    "title": "Xuchang",
+    "url": "https://en.wikipedia.org/wiki/Xuchang",
+    "extract": "Xuchang is a prefecture-level city in central Henan province in Central China. It is bordered by the provincial capital of Zhengzhou to the northwest, Kaifeng to the northeast, Zhoukou to the east, Luohe to the southeast, and Pingdingshan to the southwest.",
+    "description": "Prefecture-level city in Henan, People's Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/20240427_Getian_Avenue_in_Changge.jpg/330px-20240427_Getian_Avenue_in_Changge.jpg",
+    "lat": 34.037,
+    "lon": 113.852,
+    "es": {
+      "title": "Xuchang",
+      "url": "https://es.wikipedia.org/wiki/Xuchang",
+      "extract": "Puyang es una ciudad-prefectura en la provincia de Henan, en la República Popular China. Limita con la capital provincial de Zhengzhou al noroeste y Kaifeng al noreste, con Zhoukou al este y Luohe al sur. Su área es de 4978 km² y su población total para 2010 superó los 4,3 millones de habitantes."
     }
   },
   "yalta": {

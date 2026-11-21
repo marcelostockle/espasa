@@ -1278,6 +1278,20 @@
       }
     }
   },
+  "emperor-wu-of-han": {
+    "label": "Emperor Wu of Han",
+    "color": "#d98a2b",
+    "description": "Liu Che, seventh emperor of the Han dynasty (156-87 BCE, reigned 141-87 BCE): his wars of expansion, state monopolies, Confucian turn and court historians.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Emperador Wu de Han",
+        "description": "Liu Che, séptimo emperador de la dinastía Han (156-87 a. C., reinó 141-87 a. C.): sus guerras de expansión, monopolios estatales, giro confuciano y cronistas de corte."
+      }
+    }
+  },
   "energy": {
     "label": "Energy",
     "color": "#b5651d",
@@ -1827,6 +1841,20 @@
       "es": {
         "label": "Hamás",
         "description": "El movimiento islamista y grupo armado palestino fundado en 1987: su política, su gobierno en Gaza y sus conflictos con Israel y la Autoridad Palestina."
+      }
+    }
+  },
+  "han-dynasty": {
+    "label": "Han dynasty",
+    "color": "#b8453a",
+    "description": "The Han dynasty of China (202 BCE-220 CE), including the Xin interregnum of Wang Mang: its emperors, wars, institutions and eventual collapse into the Three Kingdoms.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Dinastía Han",
+        "description": "La dinastía Han de China (202 a. C.-220 d. C.), incluido el interregno Xin de Wang Mang: sus emperadores, guerras, instituciones y su colapso final en los Tres Reinos."
       }
     }
   },
@@ -4820,6 +4848,21 @@
       "es": {
         "label": "Escritura",
         "description": "La historia de los sistemas de escritura y las pruebas más antiguas de ellos: escrituras, inscripciones y alfabetos, desde los jeroglíficos cretenses y los signos protosinaíticos hasta el alfabeto griego."
+      }
+    }
+  },
+  "xiongnu": {
+    "label": "Xiongnu",
+    "color": "#7d6b4f",
+    "description": "The nomadic confederation of the eastern steppe (c. 209 BCE-1st century CE and after), the great rival of Qin and Han China, and its wars, treaties and splits.",
+    "categories": [
+      "Peoples",
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Xiongnu",
+        "description": "La confederación nómada de la estepa oriental (c. 209 a. C.-siglo I d. C. y después), gran rival de la China Qin y Han, con sus guerras, tratados y escisiones."
       }
     }
   },
