@@ -872,6 +872,20 @@
       }
     }
   },
+  "cossacks": {
+    "label": "Cossacks",
+    "color": "#a33b3b",
+    "description": "The Cossack communities of the Ukrainian and Russian steppe, their hosts, uprisings and the Cossack Hetmanate (1648-1764).",
+    "categories": [
+      "Peoples"
+    ],
+    "translations": {
+      "es": {
+        "label": "Cosacos",
+        "description": "Las comunidades cosacas de la estepa ucraniana y rusa, sus huestes, levantamientos y el Hetmanato cosaco (1648-1764)."
+      }
+    }
+  },
   "counter-reformation": {
     "label": "Counter-Reformation",
     "color": "#90a4ae",
@@ -2299,6 +2313,20 @@
       }
     }
   },
+  "kyivan-rus": {
+    "label": "Kyivan Rus'",
+    "color": "#b8860e",
+    "description": "The medieval state centered on Kyiv (c. 882-1240), the shared origin claimed by Ukraine, Russia and Belarus, and its conversion to Christianity.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Rus' de Kiev",
+        "description": "El Estado medieval centrado en Kiev (c. 882-1240), origen común reclamado por Ucrania, Rusia y Bielorrusia, y su conversión al cristianismo."
+      }
+    }
+  },
   "la-violencia": {
     "label": "La Violencia",
     "color": "#b5483a",
@@ -3105,6 +3133,20 @@
       "es": {
         "label": "Polonia",
         "description": "Polonia en el siglo XX, incluida la República Popular comunista y la transición a la democracia."
+      }
+    }
+  },
+  "polish-lithuanian-commonwealth": {
+    "label": "Polish-Lithuanian Commonwealth",
+    "color": "#c0392b",
+    "description": "The joint state of Poland and Lithuania (1569-1795), which ruled much of present-day Ukraine and Belarus.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "República de las Dos Naciones",
+        "description": "El Estado conjunto de Polonia y Lituania (1569-1795), que gobernó buena parte de las actuales Ucrania y Bielorrusia."
       }
     }
   },

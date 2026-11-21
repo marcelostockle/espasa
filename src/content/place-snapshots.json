@@ -1521,6 +1521,20 @@
       "extract": "Bremen es una ciudad del noroeste de Alemania, que forma junto con el puerto de Bremen o Bremerhaven, a unos 60 km al noroeste, la Ciudad Libre Hanseática de Bremen, o Estado de Bremen. La ciudad que alberga más de 566 573 habitantes, es la tercera ciudad del norte de Alemania por población, tan sólo por detrás de Berlín y Hamburgo y la undécima a nivel nacional."
     }
   },
+  "brest-belarus": {
+    "title": "Brest, Belarus",
+    "url": "https://en.wikipedia.org/wiki/Brest%2C_Belarus",
+    "extract": "Brest, formerly Brest-Litovsk (1600s–1923) and Brest-on-the-Bug (1923–1939), is a city in south-western Belarus at the border with Poland opposite the Polish town of Terespol, where the Bug and Mukhavets rivers meet, making it a border town. It serves as the administrative center of Brest Region and Brest District, though it is administratively separated from the district. As of 2026, it has a population of 347,138.",
+    "description": "City in Brest Region, Belarus",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Brest_BY_collage.jpg/330px-Brest_BY_collage.jpg",
+    "lat": 52.13472222,
+    "lon": 23.65694444,
+    "es": {
+      "title": "Brest (Bielorrusia)",
+      "url": "https://es.wikipedia.org/wiki/Brest_(Bielorrusia)",
+      "extract": "Brest, anteriormente conocida como Brest-Litovsk, es una ciudad de Bielorrusia, cercana a la frontera con Polonia, en la confluencia de los ríos Bug Occidental y Mujavéts. La población es de 347 576 habitantes (2018). Brest es la capital de la provincia homónima; dentro de dicha provincia, está constituida como ciudad subprovincial y al mismo tiempo es la sede administrativa del vecino distrito homónimo sin formar parte del mismo."
+    }
+  },
   "bretton-woods": {
     "title": "Bretton Woods, New Hampshire",
     "url": "https://en.wikipedia.org/wiki/Bretton_Woods%2C_New_Hampshire",
@@ -5599,6 +5613,20 @@
       "extract": "Lübeck () —en español también Lubeca—, oficialmente Ciudad hanseática de Lübeck, es la segunda ciudad más poblada del estado federado de Schleswig-Holstein, en el norte de Alemania, después de Kiel. El casco medieval de la ciudad fue declarado Patrimonio de la Humanidad por la Unesco en 1987, destacando las construcciones de ladrillo en estilo gótico báltico, como la Puerta de Holsten."
     }
   },
+  "lublin": {
+    "title": "Lublin",
+    "url": "https://en.wikipedia.org/wiki/Lublin",
+    "extract": "Lublin is the eighth-largest city in Poland and the second-largest city of historical Lesser Poland. It is the capital and the centre of Lublin Voivodeship with a population of 336,339. Lublin is the largest Polish city east of the Vistula River, located 153 km (95 mi) southeast of Warsaw.",
+    "description": "City in Lublin Voivodeship, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lublin_Panorama.jpg/330px-Lublin_Panorama.jpg",
+    "lat": 51.25,
+    "lon": 22.56666667,
+    "es": {
+      "title": "Lublin",
+      "url": "https://es.wikipedia.org/wiki/Lublin",
+      "extract": "Lublin es la novena ciudad más grande de Polonia y la capital del voivodato homónimo. Con una población de 339 850 habitantes, es el mayor centro académico a la orilla derecha del río Vístula y uno de los mayores de Polonia. Se encuentra en la región histórica de Pequeña Polonia."
+    }
+  },
   "lucca": {
     "title": "Lucca",
     "url": "https://en.wikipedia.org/wiki/Lucca",
@@ -5652,6 +5680,20 @@
       "title": "Lützen",
       "url": "https://es.wikipedia.org/wiki/L%C3%BCtzen",
       "extract": "Lützen es un municipio alemán del distrito de Burgenland del estado de Sajonia-Anhalt situado aproximadamente a 18 km al suroeste de Leipzig y 14 al noreste de Weissenfels, y que cuenta con 3.629 habitantes."
+    }
+  },
+  "lviv": {
+    "title": "Lviv",
+    "url": "https://en.wikipedia.org/wiki/Lviv",
+    "extract": "Lviv is the sixth-largest city in Ukraine, as well as the largest city in the western part of the country, with a population of 723,403. It serves as the administrative center of Lviv Oblast and Lviv Raion, and is one of the main cultural centers of Ukraine. The city also hosts the administration of Lviv urban hromada. Lviv was named after Leo I of Galicia, the eldest son of Daniel, King of Ruthenia. During its history the city has had several names.",
+    "description": "City in Lviv Oblast, Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%29_16.jpg/330px-%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%29_16.jpg",
+    "lat": 49.8425,
+    "lon": 24.03222222,
+    "es": {
+      "title": "Leópolis",
+      "url": "https://es.wikipedia.org/wiki/Le%C3%B3polis",
+      "extract": "Leópolis es la ciudad más importante del oeste de Ucrania y la sexta más poblada del país; es centro administrativo de la óblast de Leópolis y centro histórico de la región de Galicia con una población de 717 510 habitantes. Es uno de los centros turísticos, culturales y educativos más importantes del país."
     }
   },
   "machaerus": {
@@ -7492,6 +7534,20 @@
       "extract": "Pelusio fue una antigua ciudad del Bajo Egipto, situada en el extremo nordeste del delta del Nilo, en la desembocadura más oriental del Nilo llamada boca Pelusia, conocida como Ostium Pelusiacum. Su nombre egipcio era Per-Amón, Peromi o Sena. Cerca estaba Balouza derivado de Pelusium. Fue la ciudad más importante del este del Bajo Egipto."
     }
   },
+  "pereiaslav": {
+    "title": "Pereiaslav",
+    "url": "https://en.wikipedia.org/wiki/Pereiaslav",
+    "extract": "Pereiaslav is a historical city in Boryspil Raion, Kyiv Oblast, central Ukraine. It is located near the confluence of the Alta and Trubizh rivers some 95 km (59.03 mi) southeast of the capital Kyiv. It was one of the key regional centers of power during the Middle Ages and served as the capital of a principality. Pereiaslav hosts the administration of Pereiaslav urban hromada, one of the hromadas of Ukraine. Its population is approximately 26,273.",
+    "description": "City in Kyiv Oblast, Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%9F%D0%B5%D1%82%D1%80%D1%83%D1%81%D1%8C.jpg/330px-%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%9F%D0%B5%D1%82%D1%80%D1%83%D1%81%D1%8C.jpg",
+    "lat": 50.065,
+    "lon": 31.445,
+    "es": {
+      "title": "Pereiáslav",
+      "url": "https://es.wikipedia.org/wiki/Perei%C3%A1slav",
+      "extract": "Pereiáslav es una ciudad ucraniana perteneciente al óblast de Kiev. Situado en el centro del país, forma parte del raión de Boríspil y centro del municipio (hromada) homónimo. Su historia se remonta a siglos atrás, Pereiáslav es conocida por su patrimonio cultural, sus festivales tradicionales y su entorno rural."
+    }
+  },
   "pergamon": {
     "title": "Pergamon",
     "url": "https://en.wikipedia.org/wiki/Pergamon",
@@ -7712,6 +7768,20 @@
       "title": "Platea (ciudad)",
       "url": "https://es.wikipedia.org/wiki/Platea_(ciudad)",
       "extract": "Platea fue una antigua ciudad de Beocia, en la antigua Grecia. Estaba situada entre los montes Helicón y Citerón, de los cuales este último hacía de frontera entre Mégara, Ática y Beocia."
+    }
+  },
+  "poltava": {
+    "title": "Poltava",
+    "url": "https://en.wikipedia.org/wiki/Poltava",
+    "extract": "Poltava is a city on the Vorskla River in Central Ukraine. It serves as the administrative center of Poltava Oblast as well as Poltava Raion within the oblast. It also hosts the administration of Poltava urban hromada, one of the hromadas of Ukraine. It had an estimated population of 279,593 in 2022.",
+    "description": "City and administrative center of Poltava Oblast, Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7%D0%B5%D0%BC%D1%81%D1%82%D0%B2%D0%B0_P1230868_%D0%BF%D0%BB._%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D1%96%D1%97%2C_2.jpg/330px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7%D0%B5%D0%BC%D1%81%D1%82%D0%B2%D0%B0_P1230868_%D0%BF%D0%BB._%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D1%96%D1%97%2C_2.jpg",
+    "lat": 49.58944444,
+    "lon": 34.55138889,
+    "es": {
+      "title": "Poltava",
+      "url": "https://es.wikipedia.org/wiki/Poltava",
+      "extract": "Poltava es una ciudad en Ucrania. Es la capital de la óblast de Poltava y del raión de Poltava y tiene una población de 284 879 habitantes. Es un ciudad de gran importancia para la historia de Ucrania, refiriéndose a ella a veces como el centro espiritual de Ucrania, además, en Poltava han nacido importantes figuras ucranianas, como por ejemplo Iván Kotlyarevsky o Simon Petliura. En la ciudad se libró la más famosa de las batallas de la Gran Guerra del Norte, la batalla de Poltava."
     }
   },
   "pontus": {

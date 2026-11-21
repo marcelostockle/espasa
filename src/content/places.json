@@ -1016,6 +1016,15 @@
       }
     }
   },
+  "brest-belarus": {
+    "label": "Brest, Belarus",
+    "wikipedia": "Brest, Belarus",
+    "translations": {
+      "es": {
+        "label": "Brest (Bielorrusia)"
+      }
+    }
+  },
   "bretton-woods": {
     "label": "Bretton Woods",
     "wikipedia": "Bretton Woods, New Hampshire",
@@ -3698,6 +3707,15 @@
       }
     }
   },
+  "lublin": {
+    "label": "Lublin",
+    "wikipedia": "Lublin",
+    "translations": {
+      "es": {
+        "label": "Lublin"
+      }
+    }
+  },
   "lucca": {
     "label": "Luca (Lucca)",
     "wikipedia": "Lucca",
@@ -3731,6 +3749,15 @@
     "translations": {
       "es": {
         "label": "Lützen"
+      }
+    }
+  },
+  "lviv": {
+    "label": "Lviv",
+    "wikipedia": "Lviv",
+    "translations": {
+      "es": {
+        "label": "Leópolis"
       }
     }
   },
@@ -4940,6 +4967,15 @@
       }
     }
   },
+  "pereiaslav": {
+    "label": "Pereiaslav",
+    "wikipedia": "Pereiaslav",
+    "translations": {
+      "es": {
+        "label": "Pereyáslav"
+      }
+    }
+  },
   "pergamon": {
     "label": "Pergamon",
     "wikipedia": "Pergamon",
@@ -5081,6 +5117,15 @@
     "translations": {
       "es": {
         "label": "Platea"
+      }
+    }
+  },
+  "poltava": {
+    "label": "Poltava",
+    "wikipedia": "Poltava",
+    "translations": {
+      "es": {
+        "label": "Poltava"
       }
     }
   },
