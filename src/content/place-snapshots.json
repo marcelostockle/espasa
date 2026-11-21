@@ -986,6 +986,20 @@
       "extract": "Se denomina sierra de Bahoruco a la parte en territorio de la República Dominicana de una cordillera submarina que recorre gran parte de la plataforma tectónica del Caribe. Esta cordillera emerge al sur de la Isla Hispaniola creando la península de Barahona en la República Dominicana y su parte más alta se eleva hacia el Oeste penetrando en la República de Haití, en donde se conoce con los nombres de Massif de la Selle y Massif de la Hotte. En la parte que recorre el territorio dominicano, se conoce como sierra de Bahoruco."
     }
   },
+  "baidicheng": {
+    "title": "Baidicheng",
+    "url": "https://en.wikipedia.org/wiki/Baidicheng",
+    "extract": "Baidicheng or Baidi Fortress is an ancient fortress and temple complex on a hill on the northern shore of the Yangtze River in China, 8 km east of the present day Fengjie County seat in Chongqing municipality.",
+    "description": "Ancient fortress and temple complex",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/20250523_Baidi_Miao.jpg/330px-20250523_Baidi_Miao.jpg",
+    "lat": 31.0432,
+    "lon": 109.5703,
+    "es": {
+      "title": "Baidi",
+      "url": "https://es.wikipedia.org/wiki/Baidi",
+      "extract": "Baidi es una antigua fortaleza y complejo de templos situada en la ribera norte del río Yangtsé, en la garganta de Qutang, en el condado de Fengjie, Chongqing. Se encuentra a 8 kilómetros al este de la ciudad de Fengjie y es una importante atracción turística en las Tres Gargantas del Yangtsé. Fue declarada como la sexta unidad nacional clave de protección de reliquias culturales el 25 de mayo de 2006."
+    }
+  },
   "baikonur-cosmodrome": {
     "title": "Baikonur Cosmodrome",
     "url": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
@@ -2435,6 +2449,20 @@
       "extract": "Chełmno fue un campo de exterminio de la Alemania nazi, situado cerca de una pequeña villa llamada Chełmno nad Nerem, a 70 km de Lodz, en una región anexada e incorporada a Alemania en 1939 con el nombre de Reichsgau Wartheland. Fue el primer campo de exterminio, abierto en 1941 para matar a los judíos del gueto de Lodz y Warthegau, y el primer lugar en la historia del Holocausto donde se usó gas venenoso."
     }
   },
+  "chengdu": {
+    "title": "Chengdu",
+    "url": "https://en.wikipedia.org/wiki/Chengdu",
+    "extract": "Chengdu is the capital city of the Chinese province of Sichuan. With a population of 20,937,757 at the 2020 census, it is the country's fourth most populous city and the only city with a population of over 20 million apart from provincial-level municipalities. It is traditionally the hub of Western China.",
+    "description": "Capital of Sichuan, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg/330px-%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg",
+    "lat": 30.66,
+    "lon": 104.06333333,
+    "es": {
+      "title": "Chengdu",
+      "url": "https://es.wikipedia.org/wiki/Chengdu",
+      "extract": "Chengdu es una ciudad subprovincial y la capital de la provincia de Sichuan, situada en el suroeste de la República Popular China. Con una población de 20 937 757 habitantes según el censo de 2020, es la cuarta ciudad más poblada del país y la mayor de China que no posee rango administrativo de municipalidad directamente subordinada al Gobierno central."
+    }
+  },
   "chernobyl": {
     "title": "Chernobyl",
     "url": "https://en.wikipedia.org/wiki/Chernobyl",
@@ -2447,6 +2475,20 @@
       "title": "Chernóbil",
       "url": "https://es.wikipedia.org/wiki/Chern%C3%B3bil",
       "extract": "Chernóbil es una ciudad situada al norte de Ucrania, en la óblast de Kiev, cerca de la frontera con Bielorrusia."
+    }
+  },
+  "chibi": {
+    "title": "Chibi, Hubei",
+    "url": "https://en.wikipedia.org/wiki/Chibi%2C_Hubei",
+    "extract": "Chibi is a county-level city in southeastern Hubei province, China. Neighboring Wuhan in the north and Yueyang in the south, Chibi is called the \"South Gate of Hubei\". It is under the administration of Xianning prefecture-level city. Chibi was called Puqi until 11 June 1998, when the State Council approved its renaming to \"Chibi\" since it was alleged as the site of the famous Battle of Chibi that took place in the winter of 208/9 CE.",
+    "description": "County-level city in Hubei, People's Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chibi.jpg/330px-Chibi.jpg",
+    "lat": 29.71666667,
+    "lon": 113.9,
+    "es": {
+      "title": "Chibi (Xianning)",
+      "url": "https://es.wikipedia.org/wiki/Chibi_(Xianning)",
+      "extract": "Chibi es un municipio bajo la administración directa de la Prefectura Xianning en la Provincia de Hubei, República Popular China. Su área es de 1717 km² y su población total para 2010 superó los 470 mil habitantes."
     }
   },
   "chicago": {

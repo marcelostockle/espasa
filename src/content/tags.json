@@ -2343,6 +2343,20 @@
       }
     }
   },
+  "jin-dynasty": {
+    "label": "Jin dynasty (266-420)",
+    "color": "#7a3b6e",
+    "description": "The Jin dynasty of China (266-420 CE), founded by the Sima family: Western Jin and its reunification of China in 280, and Eastern Jin after the loss of the north.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Dinastía Jin (266-420)",
+        "description": "La dinastía Jin de China (266-420 d. C.), fundada por la familia Sima: los Jin Occidentales y su reunificación de China en 280, y los Jin Orientales tras la pérdida del norte."
+      }
+    }
+  },
   "john-calvin": {
     "label": "John Calvin",
     "color": "#4b5d8a",
@@ -4532,6 +4546,21 @@
       "es": {
         "label": "Thomas Hunt Morgan",
         "description": "Biólogo estadounidense (1866-1945) cuyo trabajo con moscas de la fruta en Columbia y Caltech demostró que los genes están en los cromosomas; premio Nobel en 1933."
+      }
+    }
+  },
+  "three-kingdoms": {
+    "label": "Three Kingdoms",
+    "color": "#2f6f5e",
+    "description": "The late Han warlord wars and the Three Kingdoms of Wei, Shu and Wu (c. 184-280 CE), their leaders, battles and reunification under the Jin, plus the histories and novel that retell them.",
+    "categories": [
+      "States",
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Tres Reinos",
+        "description": "Las guerras de caudillos del final de los Han y los Tres Reinos de Wei, Shu y Wu (c. 184-280 d. C.), sus líderes, batallas y la reunificación bajo los Jin, además de las crónicas y la novela que los narran."
       }
     }
   },

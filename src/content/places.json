@@ -647,6 +647,15 @@
       }
     }
   },
+  "baidicheng": {
+    "label": "Baidicheng",
+    "wikipedia": "Baidicheng",
+    "translations": {
+      "es": {
+        "label": "Baidicheng"
+      }
+    }
+  },
   "baikonur-cosmodrome": {
     "label": "Baikonur Cosmodrome",
     "wikipedia": "Baikonur Cosmodrome",
@@ -1610,12 +1619,30 @@
       }
     }
   },
+  "chengdu": {
+    "label": "Chengdu",
+    "wikipedia": "Chengdu",
+    "translations": {
+      "es": {
+        "label": "Chengdú"
+      }
+    }
+  },
   "chernobyl": {
     "label": "Chernobyl",
     "wikipedia": "Chernobyl",
     "translations": {
       "es": {
         "label": "Chernóbil"
+      }
+    }
+  },
+  "chibi": {
+    "label": "Chibi",
+    "wikipedia": "Chibi, Hubei",
+    "translations": {
+      "es": {
+        "label": "Chibi"
       }
     }
   },
