@@ -1102,6 +1102,20 @@
       }
     }
   },
+  "cyrillic-script": {
+    "label": "Cyrillic script",
+    "color": "#3a7d5c",
+    "description": "The origin, spread and reforms of the Cyrillic alphabet and its rivals (Glagolitic, Latin), from the Slavonic mission to Bulgaria and Rus' to modern national scripts.",
+    "categories": [
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Escritura cirílica",
+        "description": "El origen, la difusión y las reformas del alfabeto cirílico y de sus rivales (glagolítico, latino), desde la misión eslava a Bulgaria y la Rus' hasta las escrituras nacionales modernas."
+      }
+    }
+  },
   "czechoslovakia": {
     "label": "Czechoslovakia",
     "color": "#3c8dbc",
@@ -1516,6 +1530,20 @@
       "es": {
         "label": "Finlandia",
         "description": "Finlandia, su política y su democracia, entre la independencia y la Segunda Guerra Mundial."
+      }
+    }
+  },
+  "first-bulgarian-empire": {
+    "label": "First Bulgarian Empire",
+    "color": "#b8527a",
+    "description": "The Bulgarian state of 681-1018, its rulers Boris I, Simeon and Samuel, its conversion to Christianity and its Pliska, Preslav and Ohrid literary schools.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Primer Imperio búlgaro",
+        "description": "El estado búlgaro de 681-1018, sus gobernantes Boris I, Simeón y Samuel, su cristianización y las escuelas literarias de Pliska, Preslav y Ohrid."
       }
     }
   },

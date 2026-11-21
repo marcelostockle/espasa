@@ -1268,6 +1268,15 @@
       }
     }
   },
+  "bulgaria": {
+    "label": "Bulgaria",
+    "wikipedia": "Bulgaria",
+    "translations": {
+      "es": {
+        "label": "Bulgaria"
+      }
+    }
+  },
   "burgos": {
     "label": "Burgos",
     "wikipedia": "Burgos",
@@ -5273,6 +5282,15 @@
       }
     }
   },
+  "ohrid": {
+    "label": "Ohrid",
+    "wikipedia": "Ohrid",
+    "translations": {
+      "es": {
+        "label": "Ojrid"
+      }
+    }
+  },
   "okinawa-island": {
     "label": "Okinawa Island",
     "wikipedia": "Okinawa Island",
@@ -7910,6 +7928,15 @@
       }
     }
   },
+  "ulaanbaatar": {
+    "label": "Ulaanbaatar",
+    "wikipedia": "Ulaanbaatar",
+    "translations": {
+      "es": {
+        "label": "Ulán Bator"
+      }
+    }
+  },
   "ulm": {
     "label": "Ulm",
     "wikipedia": "Ulm",
@@ -8033,6 +8060,24 @@
     "translations": {
       "es": {
         "label": "Veyes"
+      }
+    }
+  },
+  "veliki-preslav": {
+    "label": "Veliki Preslav",
+    "wikipedia": "Veliki Preslav",
+    "translations": {
+      "es": {
+        "label": "Veliki Preslav"
+      }
+    }
+  },
+  "veliky-novgorod": {
+    "label": "Veliky Novgorod",
+    "wikipedia": "Veliky Novgorod",
+    "translations": {
+      "es": {
+        "label": "Nóvgorod"
       }
     }
   },

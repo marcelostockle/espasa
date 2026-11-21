@@ -1908,6 +1908,20 @@
       "extract": "Buenos Aires, históricamente llamada Santa María del Buen Aire, es la capital y ciudad más poblada de Argentina. Sus nombres oficiales son Ciudad de Buenos Aires o Ciudad Autónoma de Buenos Aires (CABA). Su denominación previa fue Capital Federal, al declararse sede del Gobierno nacional. Está situada en la región centro-este del país, sobre la orilla sur del Río de la Plata, en la región pampeana. Es uno de los 24 distritos, o «jurisdicciones de primer orden», que conforman el país."
     }
   },
+  "bulgaria": {
+    "title": "Bulgaria",
+    "url": "https://en.wikipedia.org/wiki/Bulgaria",
+    "extract": "Bulgaria, officially the Republic of Bulgaria, is a country in Southeastern Europe. It is situated on the eastern portion of the Balkans directly south of the Danube river and west of the Black Sea. Bulgaria is bordered by Greece and Turkey to the south, Serbia and North Macedonia to the west, and Romania across the Danube river to the north. It covers a territory of 110,994 square kilometres (42,855 sq mi), making it the tenth largest within the European Union and the sixteenth-largest country in Europe by area. Sofia is the nation's capital and largest city; other major cities include Plovdiv, Varna, and Burgas.",
+    "description": "Country in Southeastern Europe",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/330px-Flag_of_Bulgaria.svg.png",
+    "lat": 43,
+    "lon": 25,
+    "es": {
+      "title": "Bulgaria",
+      "url": "https://es.wikipedia.org/wiki/Bulgaria",
+      "extract": "Bulgaria, oficialmente República de Bulgaria, es uno de los veintisiete Estados soberanos que forman la Unión Europea. Está situado en Europa Oriental, Europa meridional, y Europa del Sudeste. Limita con Rumania al norte, Serbia y Macedonia del Norte al oeste, con Grecia y Turquía al sur, y con el mar Negro al este."
+    }
+  },
   "burgos": {
     "title": "Burgos",
     "url": "https://en.wikipedia.org/wiki/Burgos",
@@ -7999,6 +8013,20 @@
       "extract": "Ohkay Owingeh es un lugar designado por el censo ubicado en el condado de Río Arriba, en el estado estadounidense de Nuevo México. En el Censo de 2010 tenía una población de 1143 habitantes. Tiene una población estimada, en 2019, de 1256 habitantes."
     }
   },
+  "ohrid": {
+    "title": "Ohrid",
+    "url": "https://en.wikipedia.org/wiki/Ohrid",
+    "extract": "Ohrid is a city in North Macedonia and is the seat of the Ohrid Municipality. It is the largest city on Lake Ohrid and the eighth-largest city in the country, with it recording a population of over 38,000 inhabitants as of 2021. Ohrid is known for once having 365 churches, one for each day of the year, and has been referred to as the \"Jerusalem of the Balkans\". The city is rich in picturesque houses and monuments, and tourism is predominant. It is located southwest of Skopje, west of Resen and Bitola. In 1979 and in 1980, respectively, Ohrid and Lake Ohrid were accepted as Cultural and Natural World Heritage Sites by UNESCO. Ohrid is one of only 40 sites that are part of UNESCO's World Heritage that are Cultural as well as Natural sites.",
+    "description": "City in southwestern North Macedonia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/03760-Ohrid_%2816064511578%29.jpg/330px-03760-Ohrid_%2816064511578%29.jpg",
+    "lat": 41.11694444,
+    "lon": 20.80166667,
+    "es": {
+      "title": "Ohrid",
+      "url": "https://es.wikipedia.org/wiki/Ohrid",
+      "extract": "Ohrid, conocida en español y otros idiomas como Ocrida, es una localidad del oeste de Macedonia del Norte. Se asienta a orillas del lago del mismo nombre. A 700 metros de altitud, el lago Ocrida, una parte del cual pertenece a la vecina Albania, está rodeado de montañas. La ciudad antigua ocupa las faldas de un monte que la domina. No muy lejos y también en la orilla del lago, se encuentra la pequeña ciudad cultural de Struga."
+    }
+  },
   "okinawa-island": {
     "title": "Okinawa Island",
     "url": "https://en.wikipedia.org/wiki/Okinawa_Island",
@@ -11991,6 +12019,20 @@
       "extract": "Ujjain es una ciudad del estado de Madhia Pradesh, en el noroeste de la India. Se encuentra ubicada a orillas del río Ksipra."
     }
   },
+  "ulaanbaatar": {
+    "title": "Ulaanbaatar",
+    "url": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+    "extract": "Ulaanbaatar is the capital and largest city of Mongolia. It has a population of 1.79 million, and is the coldest capital city in the world by average yearly temperature. The municipality is located in north central Mongolia at an elevation of about 1,300 metres (4,300 ft) in a valley on the Tuul River. The city was founded in 1639 as a nomadic Buddhist monastic centre, changing location 29 times, and was permanently settled at its modern location in 1778.",
+    "description": "Capital and largest city of Mongolia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/UB_downtown.jpg/330px-UB_downtown.jpg",
+    "lat": 47.92194444,
+    "lon": 106.91527778,
+    "es": {
+      "title": "Ulán Bator",
+      "url": "https://es.wikipedia.org/wiki/Ul%C3%A1n_Bator",
+      "extract": "Ulán Bator nombre tradicional en occidente para Ulaanbaatar es la capital y ciudad más poblada de Mongolia. La ciudad es un municipio independiente y no forma parte de otra provincia."
+    }
+  },
   "ulm": {
     "title": "Ulm",
     "url": "https://en.wikipedia.org/wiki/Ulm",
@@ -12185,6 +12227,34 @@
       "title": "Veyes",
       "url": "https://es.wikipedia.org/wiki/Veyes",
       "extract": "Veyes fue en la antigüedad una importante ciudad etrusca, situada a 16 km al NNO de Roma, en Italia. Se halla en la actual comuna de Formello, en la ciudad metropolitana de Roma Capital."
+    }
+  },
+  "veliki-preslav": {
+    "title": "Veliki Preslav",
+    "url": "https://en.wikipedia.org/wiki/Veliki_Preslav",
+    "extract": "The modern Veliki Preslav or Great Preslav, former Preslav, is a city and the seat of government of the Veliki Preslav Municipality, which in turn is part of Shumen Province, Bulgaria. Veliki Preslav is situated at an altitude of 132 m.",
+    "description": "Place in Shumen, Bulgaria",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Preslav_fortress_11.jpg/330px-Preslav_fortress_11.jpg",
+    "lat": 43.16666667,
+    "lon": 26.817,
+    "es": {
+      "title": "Preslav",
+      "url": "https://es.wikipedia.org/wiki/Preslav",
+      "extract": "Preslav es una ciudad de Bulgaria en la provincia de Shumen. Fue la capital del Primer Imperio Búlgaro de 893 a 972. Las ruinas de Preslav están situadas a unos 20 km al sudoeste de la capital regional de Shumen, y constituyen en la actualidad una reserva arqueológica nacional."
+    }
+  },
+  "veliky-novgorod": {
+    "title": "Veliky Novgorod",
+    "url": "https://en.wikipedia.org/wiki/Veliky_Novgorod",
+    "extract": "Veliky Novgorod, also known simply as Novgorod, is the largest city and the administrative centre of Novgorod Oblast, Russia. The city lies along the Volkhov River, just 6 kilometres (3.7 mi) downstream of its outflow from Lake Ilmen, and is situated on the M10 federal highway, which connects Moscow and Saint Petersburg. The city has a population of 224,286 (2021 census).",
+    "description": "City in Novgorod Oblast, Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Veliky_Novgorod_montage_%282015%29.png/330px-Veliky_Novgorod_montage_%282015%29.png",
+    "lat": 58.55,
+    "lon": 31.26666667,
+    "es": {
+      "title": "Veliki Nóvgorod",
+      "url": "https://es.wikipedia.org/wiki/Veliki_N%C3%B3vgorod",
+      "extract": "Veliki Nóvgorod, también conocido como Nóvgorod el Grande\n o simplemente Nóvgorod, es una ciudad de la Federación de Rusia, situada a 190 km al sureste de San Petersburgo, a orillas del río Vóljov tras desaguar del lago Ilmen. Es capital de la óblast homónima, con una población de unos 232 200 habitantes. Hasta el año 1478 la ciudad era llamada Gospodín Veliki Nóvgorod. Luego, hasta 1999 su nombre oficial era Nóvgorod (Новгород)."
     }
   },
   "venice": {
