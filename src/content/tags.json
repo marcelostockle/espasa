@@ -4133,6 +4133,21 @@
       }
     }
   },
+  "space-race": {
+    "label": "Space Race",
+    "color": "#0a2a6b",
+    "description": "The Cold War competition between the United States and Soviet Union to lead in spaceflight (c. 1957-1975): satellites, crewed flights, probes and the race to the Moon.",
+    "categories": [
+      "Society",
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Carrera espacial",
+        "description": "La competencia de la Guerra Fría entre Estados Unidos y la Unión Soviética por liderar la exploración espacial (c. 1957-1975): satélites, vuelos tripulados, sondas y la carrera hacia la Luna."
+      }
+    }
+  },
   "spain": {
     "label": "Spain",
     "color": "#00695c",

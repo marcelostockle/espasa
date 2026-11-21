@@ -647,6 +647,15 @@
       }
     }
   },
+  "baikonur-cosmodrome": {
+    "label": "Baikonur Cosmodrome",
+    "wikipedia": "Baikonur Cosmodrome",
+    "translations": {
+      "es": {
+        "label": "Cosmódromo de Baikonur"
+      }
+    }
+  },
   "baja-california": {
     "label": "Baja California",
     "wikipedia": "Baja California Peninsula",
@@ -1364,6 +1373,15 @@
     "translations": {
       "es": {
         "label": "cabo Bojador"
+      }
+    }
+  },
+  "cape-canaveral": {
+    "label": "Cape Canaveral",
+    "wikipedia": "Cape Canaveral",
+    "translations": {
+      "es": {
+        "label": "Cabo Cañaveral"
       }
     }
   },
@@ -2399,6 +2417,15 @@
     "translations": {
       "es": {
         "label": "Teatro Ford"
+      }
+    }
+  },
+  "fort-bliss": {
+    "label": "Fort Bliss",
+    "wikipedia": "Fort Bliss",
+    "translations": {
+      "es": {
+        "label": "Fort Bliss"
       }
     }
   },
@@ -3443,6 +3470,15 @@
     "translations": {
       "es": {
         "label": "Kempton Park"
+      }
+    }
+  },
+  "kennedy-space-center": {
+    "label": "Kennedy Space Center",
+    "wikipedia": "Kennedy Space Center",
+    "translations": {
+      "es": {
+        "label": "Centro Espacial Kennedy"
       }
     }
   },
@@ -5282,6 +5318,15 @@
       }
     }
   },
+  "peenemunde": {
+    "label": "Peenemünde",
+    "wikipedia": "Peenemünde",
+    "translations": {
+      "es": {
+        "label": "Peenemünde"
+      }
+    }
+  },
   "pella": {
     "label": "Pella",
     "wikipedia": "Pella",
@@ -5882,6 +5927,15 @@
     "translations": {
       "es": {
         "label": "Riachuelo"
+      }
+    }
+  },
+  "rice-university": {
+    "label": "Rice University",
+    "wikipedia": "Rice University",
+    "translations": {
+      "es": {
+        "label": "Universidad Rice"
       }
     }
   },

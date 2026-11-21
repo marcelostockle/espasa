@@ -986,6 +986,20 @@
       "extract": "Se denomina sierra de Bahoruco a la parte en territorio de la República Dominicana de una cordillera submarina que recorre gran parte de la plataforma tectónica del Caribe. Esta cordillera emerge al sur de la Isla Hispaniola creando la península de Barahona en la República Dominicana y su parte más alta se eleva hacia el Oeste penetrando en la República de Haití, en donde se conoce con los nombres de Massif de la Selle y Massif de la Hotte. En la parte que recorre el territorio dominicano, se conoce como sierra de Bahoruco."
     }
   },
+  "baikonur-cosmodrome": {
+    "title": "Baikonur Cosmodrome",
+    "url": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+    "extract": "The Baikonur Cosmodrome is a spaceport operated by Russia within Kazakhstan. Located in the Kazakh city of Baikonur, it is the largest operational space launch facility in terms of area. All Russian crewed spaceflights are launched from Baikonur.",
+    "description": "Spaceport in Kazakhstan leased to Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Baikonur_Cosmodrome_Soyuz_launch_pad.jpg/330px-Baikonur_Cosmodrome_Soyuz_launch_pad.jpg",
+    "lat": 45.965,
+    "lon": 63.305,
+    "es": {
+      "title": "Cosmódromo de Baikonur",
+      "url": "https://es.wikipedia.org/wiki/Cosm%C3%B3dromo_de_Baikonur",
+      "extract": "El Cosmódromo de Baikonur, construido cerca de la localidad de Tiuratam (Kazajistán), es la más antigua y mayor base espacial del mundo. Está situada a 2500 kilómetros de Moscú y en las cercanías de la ciudad de Baikonur, donde se aloja gran parte del personal de las instalaciones."
+    }
+  },
   "baja-california": {
     "title": "Baja California peninsula",
     "url": "https://en.wikipedia.org/wiki/Baja_California_peninsula",
@@ -2059,6 +2073,20 @@
       "title": "Cabo Bojador",
       "url": "https://es.wikipedia.org/wiki/Cabo_Bojador",
       "extract": "El cabo Bojador es un destacado cabo de la costa atlántica norteafricana, situado en la costa norte del Sahara Occidental, al sursudeste de las Canarias. La ciudad Cabo Bojador se encuentra en el mismo."
+    }
+  },
+  "cape-canaveral": {
+    "title": "Cape Canaveral",
+    "url": "https://en.wikipedia.org/wiki/Cape_Canaveral",
+    "extract": "Cape Canaveral is a cape in Brevard County, Florida, in the United States, near the center of the state's Atlantic coast. Officially Cape Kennedy from 1963 to 1973, Cape Canaveral is situated east of Merritt Island, and is separated from it by the Banana River. It is considered part of what is known as the Space Coast, and is the site of the Cape Canaveral Space Force Station. Since many U.S. spacecraft have been launched from both the station and the Kennedy Space Center on adjacent Merritt Island, the two are sometimes conflated.",
+    "description": "Cape on the Atlantic coast of Florida in the United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Cape_canaveral.jpg/330px-Cape_canaveral.jpg",
+    "lat": 28.46,
+    "lon": -80.53,
+    "es": {
+      "title": "Cabo Cañaveral",
+      "url": "https://es.wikipedia.org/wiki/Cabo_Ca%C3%B1averal",
+      "extract": "El cabo Cañaveral está situado en la costa este del estado de Florida al norte de la ciudad homónima. Es ampliamente conocido por ser, desde 1950, el principal centro de las actividades espaciales de los Estados Unidos. Desde el punto de vista geográfico es un estrecho promontorio que se extiende sobre el océano Atlántico."
     }
   },
   "cape-of-good-hope": {
@@ -3650,6 +3678,20 @@
       "extract": "El Teatro Ford es un teatro histórico de la ciudad de Washington D. C., en los Estados Unidos, que se ha utilizado para diversas representaciones teatrales desde la década de 1860."
     }
   },
+  "fort-bliss": {
+    "title": "Fort Bliss",
+    "url": "https://en.wikipedia.org/wiki/Fort_Bliss",
+    "extract": "Fort Bliss is a United States Army post in New Mexico and Texas, with its headquarters in El Paso, Texas. Established in 1848, the fort was renamed in 1854 to honor Bvt.Lieut.Colonel William W.S. Bliss. It is the largest installation in the United States Army Forces Command (FORSCOM) and second-largest in the Army overall, the largest being the adjacent White Sands Missile Range. Fort Bliss provides the largest contiguous tract of restricted airspace in the continental United States, used for missile and artillery training and testing, and at 992,000 acres (401,000 ha) has the largest maneuver area, ahead of the National Training Center, which has 642,000 acres (260,000 ha). In August 2025, Immigration and Customs Enforcement (ICE) opened a detention facility named Camp East Montana with a capacity of 1,000, eventually 5,000, detainees on Fort Bliss.",
+    "description": "US Army post in New Mexico and Texas, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/M1_Abrams_at_Ft._Bliss_2019.jpg/330px-M1_Abrams_at_Ft._Bliss_2019.jpg",
+    "lat": 31.801847,
+    "lon": -106.424608,
+    "es": {
+      "title": "Fort Bliss",
+      "url": "https://es.wikipedia.org/wiki/Fort_Bliss",
+      "extract": "Fort Bliss es un lugar designado por el censo ubicado en el condado de El Paso, en el estado estadounidense de Texas. En el Censo de 2010 tenía una población de 8591 habitantes y una densidad poblacional de 540,05 personas por km²."
+    }
+  },
   "fort-clatsop": {
     "title": "Fort Clatsop",
     "url": "https://en.wikipedia.org/wiki/Fort_Clatsop",
@@ -5203,6 +5245,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kempton_Park_CBD.jpg/330px-Kempton_Park_CBD.jpg",
     "lat": -26.1,
     "lon": 28.23333333
+  },
+  "kennedy-space-center": {
+    "title": "Kennedy Space Center",
+    "url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center",
+    "extract": "The John F. Kennedy Space Center, located on Merritt Island, Florida, is one of the ten field centers of NASA. Since 1968, KSC has been NASA's primary launch center of American spaceflight, research, and technology. Launch operations for the Apollo, Skylab, Space Shuttle and Artemis programs were carried out from Kennedy Space Center Launch Complex 39 and managed by KSC. Located on the east coast of Florida, KSC is adjacent to Cape Canaveral Space Force Station (CCSFS). The management of the two entities work very closely together, share resources, and operate facilities on each other's property.",
+    "description": "NASA launch facility in Florida",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/NASA_logo_%282023_colors%29.svg/330px-NASA_logo_%282023_colors%29.svg.png",
+    "lat": 28.52472222,
+    "lon": -80.64861111,
+    "es": {
+      "title": "Centro espacial John F. Kennedy",
+      "url": "https://es.wikipedia.org/wiki/Centro_espacial_John_F._Kennedy",
+      "extract": "El centro espacial John F. Kennedy fue construido en los Estados Unidos con el objetivo inicial de servir como sitio de lanzamiento para el cohete Saturno V, el vehículo espacial funcional más grande y poderoso de la historia. Propuesto por el presidente estadounidense John F. Kennedy, buscaba servir al programa espacial Apolo. El nombre del centro espacial en honor a Kennedy fue dado por su sucesor, Lyndon B. Johnson, después de que Kennedy muriera asesinado en 1963. Desde el fin del programa Apolo de la agencia espacial NASA en 1972, el Centro Espacial Kennedy ha sido usado para todas las misiones espaciales tripuladas desde diciembre de 1968."
+    }
   },
   "kensington": {
     "title": "Kensington",
@@ -8008,6 +8064,20 @@
       "extract": "Pearl Harbor es un puerto natural en el interior de una laguna costera de la isla de Oahu, Hawái. Se halla \nen inmediaciones de Pearl City y al oeste de la capital del archipiélago, Honolulu. Gran parte del puerto y alrededores pertenecen a una base naval de la Armada de los Estados Unidos, donde opera el cuartel general de la Flota del Pacífico."
     }
   },
+  "peenemunde": {
+    "title": "Peenemünde",
+    "url": "https://en.wikipedia.org/wiki/Peenem%C3%BCnde",
+    "extract": "Peenemünde is a municipality on the Baltic Sea island of Usedom in the Vorpommern-Greifswald district in Mecklenburg-Vorpommern in north-eastern Germany. It is part of the Amt of Usedom-Nord. The community is known for the Peenemünde Army Research Center, where the world's first functional large-scale liquid-propellant rocket, the V-2, was developed.",
+    "description": "Municipality in Mecklenburg-Vorpommern, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Peenemuende%2C_Hafen%2C_U461.JPG/330px-Peenemuende%2C_Hafen%2C_U461.JPG",
+    "lat": 54.13333333,
+    "lon": 13.76666667,
+    "es": {
+      "title": "Peenemünde",
+      "url": "https://es.wikipedia.org/wiki/Peenem%C3%BCnde",
+      "extract": "Peenemünde es una localidad del noreste de Alemania, situada al norte de la isla de Usedom, cerca de la desembocadura del río Peene, en la porción más oriental de la costa báltica alemana."
+    }
+  },
   "pella": {
     "title": "Pella",
     "url": "https://en.wikipedia.org/wiki/Pella",
@@ -8911,6 +8981,20 @@
       "title": "Batalla del Riachuelo",
       "url": "https://es.wikipedia.org/wiki/Batalla_del_Riachuelo",
       "extract": "La batalla del Riachuelo fue un enfrentamiento naval ocurrido en el marco de la guerra de la Triple Alianza poco después de la invasión paraguaya de Corrientes. Fue una de las más importantes y decisivas batallas de esta guerra. La victoria de la Marina de Brasil sobre la escuadra del Paraguay determinó el aislamiento definitivo del Paraguay, imposibilitado desde entonces hasta el fin de la guerra de comunicarse por el río Paraná con ninguna nación que no fuera enemiga del Paraguay."
+    }
+  },
+  "rice-university": {
+    "title": "Rice University",
+    "url": "https://en.wikipedia.org/wiki/Rice_University",
+    "extract": "William Marsh Rice University, also known as Rice University, is a private research university in Houston, Texas, United States. Established in 1912, it spans 300 acres. The university consists of eight constituent schools in the fields of architecture, business, continuing studies, engineering, humanities, music, natural sciences, and social sciences.",
+    "description": "Private university in Houston, Texas, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c7/Rice_University_seal.svg/330px-Rice_University_seal.svg.png",
+    "lat": 29.71694444,
+    "lon": -95.40277778,
+    "es": {
+      "title": "Universidad Rice",
+      "url": "https://es.wikipedia.org/wiki/Universidad_Rice",
+      "extract": "La Universidad William Marsh Rice, conocida como Universidad Rice es una universidad privada ubicada en Houston, Texas."
     }
   },
   "riga": {
