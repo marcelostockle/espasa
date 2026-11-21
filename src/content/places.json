@@ -3797,6 +3797,15 @@
       }
     }
   },
+  "maidan-nezalezhnosti": {
+    "label": "Maidan Nezalezhnosti, Kyiv",
+    "wikipedia": "Maidan Nezalezhnosti",
+    "translations": {
+      "es": {
+        "label": "Plaza de la Independencia (Maidán), Kiev"
+      }
+    }
+  },
   "maipu": {
     "label": "Maipú",
     "wikipedia": "Battle of Maipú",
@@ -6047,6 +6056,15 @@
       }
     }
   },
+  "sevastopol": {
+    "label": "Sevastopol",
+    "wikipedia": "Sevastopol",
+    "translations": {
+      "es": {
+        "label": "Sebastopol"
+      }
+    }
+  },
   "seville": {
     "label": "Seville",
     "wikipedia": "Seville",
@@ -6971,6 +6989,15 @@
     "translations": {
       "es": {
         "label": "Tuyutí"
+      }
+    }
+  },
+  "tuzla-island": {
+    "label": "Tuzla Island",
+    "wikipedia": "Tuzla Island",
+    "translations": {
+      "es": {
+        "label": "Isla de Tuzla"
       }
     }
   },

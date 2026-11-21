@@ -886,6 +886,21 @@
       }
     }
   },
+  "crimea": {
+    "label": "Crimea",
+    "color": "#1f9e8f",
+    "description": "The Crimean peninsula, its peoples and its changing rulers, from the Khanate and Russian rule to Soviet and Ukrainian administration and the 2014 annexation.",
+    "categories": [
+      "Places",
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Crimea",
+        "description": "La península de Crimea, sus pueblos y sus cambiantes gobernantes, desde el kanato y el dominio ruso hasta la administración soviética y ucraniana y la anexión de 2014."
+      }
+    }
+  },
   "croatia": {
     "label": "Croatia",
     "color": "#c4572f",
@@ -2847,6 +2862,20 @@
       "es": {
         "label": "Guerras del Opio",
         "description": "Las dos guerras (1839-1842, 1856-1860) en las que Gran Bretaña, y luego Francia, obligaron a China a abrirse al comercio y aceptar tratados desiguales."
+      }
+    }
+  },
+  "orange-revolution": {
+    "label": "Orange Revolution",
+    "color": "#ef7d00",
+    "description": "The mass protests in Ukraine in 2004-2005 against a rigged presidential election, and the rerun that brought Viktor Yushchenko to power.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Revolución Naranja",
+        "description": "Las protestas masivas de 2004-2005 en Ucrania contra unas elecciones presidenciales fraudulentas y la repetición que llevó al poder a Víktor Yúshchenko."
       }
     }
   },
