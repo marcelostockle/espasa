@@ -11426,6 +11426,20 @@
       "extract": "Tiro es una ciudad situada en el sur del Líbano. Con 117 100 habitantes, Tiro se encuentra en la costa oriental del mar Mediterráneo, unos 37 km al norte de Acre (Israel), y 32 km al sur de Sidón. El nombre de la ciudad significa ‘roca’. A sus habitantes se les denomina «tirios» en español. La ciudad fue declarada Patrimonio de la Humanidad por la Unesco en 1984, por sus vestigios arqueológicos de diversas civilizaciones."
     }
   },
+  "uc-irvine": {
+    "title": "University of California, Irvine",
+    "url": "https://en.wikipedia.org/wiki/University_of_California%2C_Irvine",
+    "extract": "The University of California, Irvine is a public land-grant research university in Irvine, California, United States. One of the ten campuses of the University of California system, UCI offers 87 undergraduate degrees and 129 graduate and professional degrees, and roughly 30,000 undergraduates and 7,000 graduate students were enrolled at UCI as of Fall 2024. The university is classified among \"R1: Doctoral Universities – Very high research activity\" and had $609.6 million in research and development expenditures in 2023, ranking it 56th nationally. UCI became a member of the Association of American Universities in 1996.",
+    "description": "Public university in Irvine, California, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/The_University_of_California_Irvine.svg/330px-The_University_of_California_Irvine.svg.png",
+    "lat": 33.64555556,
+    "lon": -117.8425,
+    "es": {
+      "title": "Universidad de California en Irvine",
+      "url": "https://es.wikipedia.org/wiki/Universidad_de_California_en_Irvine",
+      "extract": "La Universidad de California en Irvine es una universidad pública estadounidense localizada en Irvine, California. Es una de las diez instituciones pertenecientes a la red de la Universidad de California y es, habitualmente, conocida como UCI o UC Irvine. Su nombre procede de la Irvine Company que donó el terreno donde se enclava la universidad y que también diseñó la población colindante."
+    }
+  },
   "uffizi": {
     "title": "Uffizi",
     "url": "https://en.wikipedia.org/wiki/Uffizi",

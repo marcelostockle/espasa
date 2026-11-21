@@ -7541,6 +7541,15 @@
       }
     }
   },
+  "uc-irvine": {
+    "label": "University of California, Irvine",
+    "wikipedia": "University of California, Irvine",
+    "translations": {
+      "es": {
+        "label": "Universidad de California en Irvine"
+      }
+    }
+  },
   "uffizi": {
     "label": "Uffizi",
     "wikipedia": "Uffizi",

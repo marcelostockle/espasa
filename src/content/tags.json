@@ -915,6 +915,21 @@
       }
     }
   },
+  "computing": {
+    "label": "Computing",
+    "color": "#6c8ebf",
+    "description": "The history of computers, software and databases: the ideas and tools of information processing.",
+    "categories": [
+      "Knowledge",
+      "Material culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Informática",
+        "description": "La historia de los computadores, el software y las bases de datos: las ideas y herramientas del procesamiento de información."
+      }
+    }
+  },
   "cossacks": {
     "label": "Cossacks",
     "color": "#a33b3b",
@@ -1027,6 +1042,21 @@
       "es": {
         "label": "Revolución Cultural",
         "description": "La década de convulsión política (1966-1976) lanzada por Mao Zedong para purgar a sus rivales y a los elementos «burgueses», con Guardias Rojos, persecución masiva y disrupción económica."
+      }
+    }
+  },
+  "cybersecurity": {
+    "label": "Cybersecurity",
+    "color": "#a31f5c",
+    "description": "Protecting computer systems and their users: authentication, encryption, attacks and defenses.",
+    "categories": [
+      "Knowledge",
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Ciberseguridad",
+        "description": "La protección de los sistemas informáticos y de sus usuarios: autenticación, cifrado, ataques y defensas."
       }
     }
   },
@@ -4648,6 +4678,21 @@
       "es": {
         "label": "Crímenes de guerra",
         "description": "Atrocidades cometidas en la guerra, como masacres, limpieza étnica y genocidio, y los tribunales y juicios internacionales que las juzgan."
+      }
+    }
+  },
+  "web-development": {
+    "label": "Web development",
+    "color": "#d1218f",
+    "description": "The practices, protocols and ideas behind building web sites and applications, from cookies and Ajax to responsive design and passkeys.",
+    "categories": [
+      "Knowledge",
+      "Material culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Desarrollo web",
+        "description": "Las prácticas, protocolos e ideas detrás de la construcción de sitios y aplicaciones web, desde las cookies y Ajax hasta el diseño adaptable y las passkeys."
       }
     }
   },
