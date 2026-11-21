@@ -2146,6 +2146,20 @@
       "extract": "Changchun es una subprovincia y la capital de la provincia de Jilin en la República Popular China. Entre 1932 y 1945 la ciudad fue renombrada Hsinking y se convirtió en la capital del estado títere japonés de Manchukuo. Después de la fundación de la República Popular China, en 1954 Changchun se convirtió en la capital de la provincia de Jilin."
     }
   },
+  "charleston-south-carolina": {
+    "title": "Charleston, South Carolina",
+    "url": "https://en.wikipedia.org/wiki/Charleston%2C_South_Carolina",
+    "extract": "Charleston is the most populous city in the U.S. state of South Carolina. The city lies just south of the geographical midpoint of South Carolina's coastline on Charleston Harbor, an inlet of the Atlantic Ocean formed by the confluence of the Ashley, Cooper, and Wando rivers. Charleston had a population of 150,227 at the 2020 census, while the Charleston metropolitan area, comprising Berkeley, Charleston, and Dorchester counties, has an estimated 870,000 residents. It ranks as the third-most-populous metropolitan area in the state and the 71st-most-populous in the U.S. It is the county seat of Charleston County.",
+    "description": "City in South Carolina, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/East_Battery_Street_Charleston_Aug2010.jpg/330px-East_Battery_Street_Charleston_Aug2010.jpg",
+    "lat": 32.81388889,
+    "lon": -79.93194444,
+    "es": {
+      "title": "Charleston (Carolina del Sur)",
+      "url": "https://es.wikipedia.org/wiki/Charleston_(Carolina_del_Sur)",
+      "extract": "Charleston es una ciudad de Carolina del Sur, Estados Unidos. Con 150 000 habitantes en 2020 es la más poblada del estado, la segunda más poblada es la capital estatal, Columbia. Sede del condado homónimo, se encuentra además en el de Berkeley, al este del estado, sobre la costa del océano Atlántico."
+    }
+  },
   "cheb": {
     "title": "Cheb",
     "url": "https://en.wikipedia.org/wiki/Cheb",
@@ -4016,6 +4030,20 @@
       "extract": "Hanói es la capital de Vietnam, así como la segunda ciudad más grande del país tras la Ciudad Ho Chi Minh. Se encuentra en la zona norte del país, en la margen derecha del río Rojo a una distancia de aproximadamente 1760 km al norte de Ciudad Ho Chi Minh y a unos 120 km al oeste de Hải Phòng, principal puerto de Vietnam. En 2009 tenía una población estimada en 2,6 millones de habitantes en los distritos urbanos que ascendían a unos 6,5 millones en el área metropolitana."
     }
   },
+  "harpers-ferry-west-virginia": {
+    "title": "Harpers Ferry, West Virginia",
+    "url": "https://en.wikipedia.org/wiki/Harpers_Ferry%2C_West_Virginia",
+    "extract": "Harpers Ferry is a historic town in Jefferson County, West Virginia, United States. The population was 269 at the 2020 United States census. Situated at the confluence of the Potomac and Shenandoah Rivers in the lower Shenandoah Valley, where Maryland, Virginia, and West Virginia meet, it is the easternmost town in West Virginia as well as its lowest point above sea level.",
+    "description": "Town in West Virginia, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Jefferson_County_West_Virginia_Incorporated_and_Unincorporated_areas_Harpers_Ferry_Highlighted.svg/330px-Jefferson_County_West_Virginia_Incorporated_and_Unincorporated_areas_Harpers_Ferry_Highlighted.svg.png",
+    "lat": 39.32777778,
+    "lon": -77.74638889,
+    "es": {
+      "title": "Harpers Ferry",
+      "url": "https://es.wikipedia.org/wiki/Harpers_Ferry",
+      "extract": "Harpers Ferry es un pueblo ubicado en el condado de Jefferson en el estado estadounidense de Virginia Occidental. En el Censo de 2010 tenía una población de 286 habitantes y una densidad poblacional de 181,02 personas por km²."
+    }
+  },
   "hattusa": {
     "title": "Hattusa",
     "url": "https://en.wikipedia.org/wiki/Hattusa",
@@ -4657,6 +4685,20 @@
       "title": "Kalmar",
       "url": "https://es.wikipedia.org/wiki/Kalmar",
       "extract": "Kalmar es una ciudad en Småland al sureste de Suecia, situada a orillas del mar Báltico."
+    }
+  },
+  "kansas-territory": {
+    "title": "Kansas Territory",
+    "url": "https://en.wikipedia.org/wiki/Kansas_Territory",
+    "extract": "The Territory of Kansas was an organized incorporated territory of the United States that existed from May 30, 1854, until January 29, 1861, when the eastern portion of the territory was admitted to the Union as the free state of Kansas. The territory extended from the Missouri border west to the summit of the Rocky Mountains and from the 37th parallel north to the 40th parallel north. Originally part of Missouri Territory, it was unorganized from 1821 to 1854. Much of the eastern region of what is now the State of Colorado was part of Kansas Territory. The Territory of Colorado was created to govern this western region of the former Kansas Territory on February 28, 1861.",
+    "description": "Territory of the United States between 1854 and 1861",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Kansasterritory.PNG/330px-Kansasterritory.PNG",
+    "lat": 39.31,
+    "lon": -94.92,
+    "es": {
+      "title": "Territorio de Kansas",
+      "url": "https://es.wikipedia.org/wiki/Territorio_de_Kansas",
+      "extract": "El Territorio de Kansas fue un territorio incorporado organizado de los Estados Unidos que existió del 30 de mayo de 1854 hasta el 29 de enero de 1861, cuando la porción oriental del territorio fue admitida en la Unión como el Estado de Kansas."
     }
   },
   "karakorum": {
@@ -9241,6 +9283,20 @@
       "title": "Mandato del Pacífico Sur",
       "url": "https://es.wikipedia.org/wiki/Mandato_del_Pac%C3%ADfico_Sur",
       "extract": "El Mandato del Pacífico Sur o el Mandato de las Islas del Mar del Sur  consistió en una serie de archipiélagos situados en Micronesia y administrados por el Imperio del Japón como Mandato de la Sociedad de las Naciones, entre los años 1919 y 1947. Este territorio abarcaba los actuales países de Islas Marshall, Estados Federados de Micronesia, Palaos y la Mancomunidad de las Islas Marianas del Norte, bajo control estadounidense."
+    }
+  },
+  "southampton-county-virginia": {
+    "title": "Southampton County, Virginia",
+    "url": "https://en.wikipedia.org/wiki/Southampton_County%2C_Virginia",
+    "extract": "Southampton County is a county located on the southern border of the Commonwealth of Virginia. North Carolina is to the south. As of the 2020 United States census, the population was 17,996. Its county seat is Courtland.",
+    "description": "County in Virginia, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Southampton_VA_courthouse.JPG/330px-Southampton_VA_courthouse.JPG",
+    "lat": 36.77083333,
+    "lon": -77.16055556,
+    "es": {
+      "title": "Condado de Southampton",
+      "url": "https://es.wikipedia.org/wiki/Condado_de_Southampton",
+      "extract": "El condado de Southampton, fundado en 1749, es uno de 95 condados del estado estadounidense de Virginia. En el año 2000, el condado tenía una población de 17 482 habitantes y una densidad poblacional de 11 personas por km². La sede del condado es Courtland. El condado forma parte del área metropolitana de Washington D. C."
     }
   },
   "sparta": {

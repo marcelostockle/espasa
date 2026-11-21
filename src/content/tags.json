@@ -1,4 +1,18 @@
 {
+  "abolitionism": {
+    "label": "Abolitionism",
+    "color": "#c9822b",
+    "description": "Movements and acts to end slavery and the slave trade, from enslaved people's own resistance to organized campaigns and laws.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Abolicionismo",
+        "description": "Movimientos y actos para acabar con la esclavitud y la trata, desde la resistencia de los propios esclavizados hasta las campañas organizadas y las leyes."
+      }
+    }
+  },
   "achaemenid-persia": {
     "label": "Achaemenid Persia",
     "color": "#5a1edc",
@@ -54,6 +68,20 @@
       "es": {
         "label": "Alejandro Magno",
         "description": "Alejandro III de Macedonia (356-323 a. C.): su conquista del Imperio persa y el mundo que dejó tras de sí."
+      }
+    }
+  },
+  "american-civil-war": {
+    "label": "American Civil War",
+    "color": "#41507a",
+    "description": "The sectional crisis over slavery and the war that followed (c. 1850-1877): the Compromise of 1850, secession, the Union-Confederate war and Reconstruction.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra de Secesión estadounidense",
+        "description": "La crisis seccional por la esclavitud y la guerra que siguió (c. 1850-1877): el Compromiso de 1850, la secesión, la guerra entre la Unión y la Confederación y la Reconstrucción."
       }
     }
   },

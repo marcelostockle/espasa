@@ -1421,6 +1421,15 @@
       }
     }
   },
+  "charleston-south-carolina": {
+    "label": "Charleston, South Carolina",
+    "wikipedia": "Charleston, South Carolina",
+    "translations": {
+      "es": {
+        "label": "Charleston (Carolina del Sur)"
+      }
+    }
+  },
   "cheb": {
     "label": "Cheb (Eger)",
     "wikipedia": "Cheb",
@@ -2645,6 +2654,15 @@
       }
     }
   },
+  "harpers-ferry-west-virginia": {
+    "label": "Harpers Ferry, West Virginia",
+    "wikipedia": "Harpers Ferry, West Virginia",
+    "translations": {
+      "es": {
+        "label": "Harpers Ferry (Virginia Occidental)"
+      }
+    }
+  },
   "hattusa": {
     "label": "Hattusa",
     "wikipedia": "Hattusa",
@@ -3074,6 +3092,15 @@
     "translations": {
       "es": {
         "label": "Kalmar"
+      }
+    }
+  },
+  "kansas-territory": {
+    "label": "Kansas Territory",
+    "wikipedia": "Kansas Territory",
+    "translations": {
+      "es": {
+        "label": "Territorio de Kansas"
       }
     }
   },
@@ -6089,6 +6116,15 @@
     "translations": {
       "es": {
         "label": "Mandato de los Mares del Sur"
+      }
+    }
+  },
+  "southampton-county-virginia": {
+    "label": "Southampton County, Virginia",
+    "wikipedia": "Southampton County, Virginia",
+    "translations": {
+      "es": {
+        "label": "Condado de Southampton (Virginia)"
       }
     }
   },
