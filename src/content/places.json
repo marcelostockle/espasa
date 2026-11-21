@@ -665,6 +665,15 @@
       }
     }
   },
+  "baltimore": {
+    "label": "Baltimore",
+    "wikipedia": "Baltimore",
+    "translations": {
+      "es": {
+        "label": "Baltimore"
+      }
+    }
+  },
   "bandung": {
     "label": "Bandung",
     "wikipedia": "Bandung",
@@ -2213,6 +2222,15 @@
       }
     }
   },
+  "emeryville": {
+    "label": "Emeryville",
+    "wikipedia": "Emeryville, California",
+    "translations": {
+      "es": {
+        "label": "Emeryville (California)"
+      }
+    }
+  },
   "enkomi": {
     "label": "Enkomi",
     "wikipedia": "Enkomi",
@@ -3113,6 +3131,15 @@
       }
     }
   },
+  "indianapolis": {
+    "label": "Indianapolis",
+    "wikipedia": "Indianapolis",
+    "translations": {
+      "es": {
+        "label": "Indianápolis"
+      }
+    }
+  },
   "ipsus": {
     "label": "Ipsus",
     "wikipedia": "Ipsus",
@@ -3707,6 +3734,15 @@
       }
     }
   },
+  "leicester": {
+    "label": "Leicester",
+    "wikipedia": "Leicester",
+    "translations": {
+      "es": {
+        "label": "Leicester"
+      }
+    }
+  },
   "leiden": {
     "label": "Leiden",
     "wikipedia": "Leiden",
@@ -3851,6 +3887,15 @@
       }
     }
   },
+  "los-angeles": {
+    "label": "Los Angeles",
+    "wikipedia": "Los Angeles",
+    "translations": {
+      "es": {
+        "label": "Los Ángeles"
+      }
+    }
+  },
   "lowell": {
     "label": "Lowell, Massachusetts",
     "wikipedia": "Lowell, Massachusetts",
@@ -3956,6 +4001,15 @@
     "translations": {
       "es": {
         "label": "Madison Square Garden"
+      }
+    }
+  },
+  "madison-wisconsin": {
+    "label": "Madison, Wisconsin",
+    "wikipedia": "Madison, Wisconsin",
+    "translations": {
+      "es": {
+        "label": "Madison (Wisconsin)"
       }
     }
   },
@@ -4973,6 +5027,15 @@
     "translations": {
       "es": {
         "label": "Oxford"
+      }
+    }
+  },
+  "pacific-grove": {
+    "label": "Pacific Grove",
+    "wikipedia": "Pacific Grove, California",
+    "translations": {
+      "es": {
+        "label": "Pacific Grove (California)"
       }
     }
   },
@@ -6557,6 +6620,15 @@
     "translations": {
       "es": {
         "label": "Sosúa"
+      }
+    }
+  },
+  "south-san-francisco": {
+    "label": "South San Francisco",
+    "wikipedia": "South San Francisco, California",
+    "translations": {
+      "es": {
+        "label": "South San Francisco (California)"
       }
     }
   },

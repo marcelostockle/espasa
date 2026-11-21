@@ -1014,6 +1014,20 @@
       "extract": "Bakú es la capital y ciudad más poblada de Azerbaiyán, del mar Caspio y del Cáucaso. Está situada en la costa sur de la península de Absheron, que se proyecta en el Caspio. La ciudad se compone de dos partes principales: el centro y la ciudad vieja interior. En enero de 2018, Bakú tenía una población de 2 262 600 habitantes, de los cuales 153 400 eran desplazados internos y 143 400 refugiados de la guerra de Alto Karabaj."
     }
   },
+  "baltimore": {
+    "title": "Baltimore",
+    "url": "https://en.wikipedia.org/wiki/Baltimore",
+    "extract": "Baltimore, also known as Baltimore City is the most populous city in the U.S. state of Maryland. It is the 30th-most-populous U.S. city, with a population of 585,708 at the 2020 census and estimated at 569,997 in 2025; the Baltimore metropolitan area, at 2.86 million residents, is the 22nd-largest metropolitan area in the nation. The city is also part of the Washington–Baltimore combined statistical area, which had a population of 9.97 million in 2020. Baltimore was designated as an independent city by the Constitution of Maryland in 1851. Though not located under the jurisdiction of any county in the state, it forms part of the Central Maryland region together with the surrounding county that shares its name.",
+    "description": "Largest city in Maryland, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Fell%27s_Point_Aerial_2022.jpg/330px-Fell%27s_Point_Aerial_2022.jpg",
+    "lat": 39.28944444,
+    "lon": -76.61527778,
+    "es": {
+      "title": "Baltimore",
+      "url": "https://es.wikipedia.org/wiki/Baltimore",
+      "extract": "Baltimore es la ciudad más poblada del estado estadounidense de Maryland. Está situada en el centro del estado, junto al río Patapsco, que desemboca en la bahía de Chesapeake. Fundada en 1729, es un importante centro portuario, el más próximo de la Costa Este a los mercados del Medio Oeste, y, antiguamente, el segundo puerto que mayor volumen de entrada de inmigrantes recibía en los Estados Unidos y un importante centro manufacturero."
+    }
+  },
   "bandung": {
     "title": "Bandung",
     "url": "https://en.wikipedia.org/wiki/Bandung",
@@ -3357,6 +3371,20 @@
       "extract": "Emar fue una antigua ciudad amorita situada en el norte de Siria, en la actual línea costera del lago artificial de Buhayrat al Asad, cerca de la ciudad de Maskanah. Ha sido fuente de muchas tablillas de arcilla de escritura cuneiforme, siendo junto a Ugarit, Mari y Ebla uno de los sitios arqueológicos más importantes de Siria. Los textos de las tablillas datan desde el siglo XIV a. C. hasta la caída de Emar en 1187 a. C."
     }
   },
+  "emeryville": {
+    "title": "Emeryville, California",
+    "url": "https://en.wikipedia.org/wiki/Emeryville%2C_California",
+    "extract": "Emeryville is a city in northwestern Alameda County, California, United States. It lies in a corridor between the cities of Berkeley and Oakland, with a border on the shore of San Francisco Bay. The resident population was 12,905 as of 2020. Its proximity to San Francisco, the Bay Bridge, the University of California, Berkeley, and Silicon Valley has been a catalyst for recent economic growth.",
+    "description": "City in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emeryfromhilton.jpg/330px-Emeryfromhilton.jpg",
+    "lat": 37.83138889,
+    "lon": -122.28527778,
+    "es": {
+      "title": "Emeryville",
+      "url": "https://es.wikipedia.org/wiki/Emeryville",
+      "extract": "Emeryville es una ciudad ubicada en el condado de Alameda en el estado estadounidense de California. Según las estimaciones de 2020, tenía una población de 12 905 habitantes y una densidad poblacional de 2 200 personas por km². Su proximidad a San Francisco, el Puente de la Bahía, la Universidad de California en Berkeley y Silicon Valley ha sido un catalizador para el crecimiento económico reciente."
+    }
+  },
   "enkomi": {
     "title": "Enkomi",
     "url": "https://en.wikipedia.org/wiki/Enkomi",
@@ -4709,6 +4737,20 @@
       "extract": "El Territorio Indio o territorios indios fue un terreno ofrecido por el gobierno de Estados Unidos para la reubicación de los nativos estadounidenses que habían tenido sus hogares en esas tierras. En general, las tribus las cedieron al gobierno a cambio de unos territorios que Estados Unidos había adquirido de Napoleón Bonaparte, la compra de la Luisiana. El concepto de un «territorio indio» viene de una política de deportación de los nativos. Después de la guerra civil estadounidense, la política del gobierno se convirtió en una de asimilación cultural."
     }
   },
+  "indianapolis": {
+    "title": "Indianapolis",
+    "url": "https://en.wikipedia.org/wiki/Indianapolis",
+    "extract": "Indianapolis, colloquially known as Indy, is the capital and most populous city of the U.S. state of Indiana and the county seat of Marion County. Indianapolis is situated in the state's central till plain region along the west fork of the White River. The city's official slogan, \"Crossroads of America\", reflects its historic importance as a transportation hub and its relative proximity to other major North American markets.",
+    "description": "Capital and most populous city of Indiana, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Indianapolis-1872529_1920_%28cropped%29.jpg/330px-Indianapolis-1872529_1920_%28cropped%29.jpg",
+    "lat": 39.76861111,
+    "lon": -86.15805556,
+    "es": {
+      "title": "Indianápolis",
+      "url": "https://es.wikipedia.org/wiki/Indian%C3%A1polis",
+      "extract": "Indianápolis, coloquialmente conocido como Indy, es la capital del estado de Indiana y la Sede del Condado de Marion. Según los cálculos de 2019 de la Oficina del Censo, la población de Indianápolis y del condado de Marion fue de 886 220 habitantes. La población de «equilibrio», que excluye los municipios semiautónomos en el condado de Marion, fue de 876 384. Es la decimoséptima ciudad más poblada de Estados Unidos, la tercera ciudad más poblada del Medio Oeste, después de Chicago y Columbus y la cuarta capital de estado más poblada después de Phoenix, Austin y Columbus. El área metropolitana de Indianápolis es la 33.ª área estadística metropolitana más poblada de Estados Unidos con 2 048 703 habitantes. Su área estadística combinada ocupa el puesto 28, con una población de 2 431 361 habitantes. Cubre 950 km², lo que la convierte en la decimosexta ciudad más grande por área terrestre en Estados Unidos."
+    }
+  },
   "ipsus": {
     "title": "Ipsus",
     "url": "https://en.wikipedia.org/wiki/Ipsus",
@@ -5611,6 +5653,20 @@
       "extract": "Legnica es una ciudad y un distrito situado en el suroeste de Polonia. Pertenece al voivodato de la Baja Silesia. Importante nodo de ferrocarril y autopista. Es la tercera ciudad de Baja Silesia, después de Breslavia y Wałbrzych."
     }
   },
+  "leicester": {
+    "title": "Leicester",
+    "url": "https://en.wikipedia.org/wiki/Leicester",
+    "extract": "Leicester is a city, unitary authority area, and the county town of Leicestershire, in the East Midlands of England. It is the largest city in the East Midlands, with a population of 383,116 in 2025. The greater Leicester urban area had a population of 559,017 in 2021, making it the 11th most populous in England, and the 13th most populous in the United Kingdom. For three years running, the annual Good Growth for Cities Index has ranked Leicester as the best place to live and work in the East Midlands. The latest study, which is based on a range of economic factors, rated Leicester as the best performing city in the East Midlands in 2024 and 20th overall out of 52 other UK cities.",
+    "description": "City and unitary authority in England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Leicester_Clock_Tower_wide_view.jpg/330px-Leicester_Clock_Tower_wide_view.jpg",
+    "lat": 52.6361,
+    "lon": -1.1331,
+    "es": {
+      "title": "Leicester",
+      "url": "https://es.wikipedia.org/wiki/Leicester",
+      "extract": "Leicester es la ciudad capital del condado de Leicestershire, en la región Midlands del Este, Inglaterra. Se encuentra junto al río Soar, a las afueras de la Región Forestal Nacional. Su población es de 348.300 habitantes, con 650 mil personas viviendo en el área urbana, haciendo de esta ciudad la más poblada de la región, la undécima de Inglaterra y la decimotercera del Reino Unido."
+    }
+  },
   "leiden": {
     "title": "Leiden",
     "url": "https://en.wikipedia.org/wiki/Leiden",
@@ -5830,6 +5886,20 @@
       "extract": "El Lop Nor, llamado también lago Lop es un grupo de pequeños, y hoy en día estacionales, lagos salados y marjales localizados entre el desierto de Taklamakán y el desierto de Gobi, al sur de las montañas Kuruktag, en la esquina suroriental de la Región Autónoma Uigur de Sinkiang, al noroeste de la República Popular China. Históricamente, era un gran lago que hoy está totalmente seco dado que el caudal de los ríos que lo alimentaban ha sido empleado para usos humanos y agrícolas. Hoy día la región forma parte del desierto de Lop."
     }
   },
+  "los-angeles": {
+    "title": "Los Angeles",
+    "url": "https://en.wikipedia.org/wiki/Los_Angeles",
+    "extract": "Los Angeles is the most populous city in the U.S. state of California, and the commercial, financial, and cultural center of Southern California. With an estimated 3.87 million residents within the city limits as of 2025, it is the second-most populous city in the United States, behind New York City, and the largest city in the Western United States. The city has an ethnically and culturally diverse population, and is the principal city of a metropolitan area of 12.9 million people (2024). Greater Los Angeles, a combined statistical area that includes the Los Angeles and Riverside–San Bernardino metropolitan areas, is a sprawling metropolis of over 18 million residents.",
+    "description": "Most populous city in California, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg",
+    "lat": 34.05,
+    "lon": -118.25,
+    "es": {
+      "title": "Los Ángeles",
+      "url": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles",
+      "extract": "Los Ángeles oficialmente Ciudad de Los Ángeles y abreviado LA, es la ciudad más poblada del estado de California y la segunda ciudad más poblada de Estados Unidos, tras Nueva York. Tiene, según el censo de 2020, una población de 3 983 540 habitantes, experimentando un crecimiento de un 4.9 % en diez años. Está ubicada en el sur de California y abarca una superficie de 1215 km²."
+    }
+  },
   "lowell": {
     "title": "Lowell, Massachusetts",
     "url": "https://en.wikipedia.org/wiki/Lowell%2C_Massachusetts",
@@ -5995,6 +6065,20 @@
       "title": "Madison Square Garden",
       "url": "https://es.wikipedia.org/wiki/Madison_Square_Garden",
       "extract": "El Madison Square Garden es un recinto deportivo ubicado en la ciudad de Nueva York, Nueva York, Estados Unidos. Alberga los partidos que disputan como locales los New York Knicks de la National Basketball Association (NBA) y los New York Rangers de la National Hockey League (NHL). Fue inaugurado el 11 de febrero de 1968 y cuenta con capacidad para 20.000 espectadores."
+    }
+  },
+  "madison-wisconsin": {
+    "title": "Madison, Wisconsin",
+    "url": "https://en.wikipedia.org/wiki/Madison%2C_Wisconsin",
+    "extract": "Madison is the capital of the U.S. state of Wisconsin. It is the second-most populous city in the state, with a population of 269,840 at the 2020 census. The Madison metropolitan area has an estimated 709,685 residents. With a downtown centrally located on an isthmus between Lakes Mendota and Monona, the city also encompasses Lake Wingra. Founded in 1836, Madison is named after American Founding Father and President James Madison. The city is the county seat of Dane County.",
+    "description": "Capital of Wisconsin, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Aerial_View_of_Campus%2C_with_Helen_C._White_Hall_in_foreground_%2814070186173%29.jpg/330px-Aerial_View_of_Campus%2C_with_Helen_C._White_Hall_in_foreground_%2814070186173%29.jpg",
+    "lat": 43.07472222,
+    "lon": -89.38416667,
+    "es": {
+      "title": "Madison (Wisconsin)",
+      "url": "https://es.wikipedia.org/wiki/Madison_(Wisconsin)",
+      "extract": "Madison es una ciudad ubicada en el condado de Dane y capital estatal del estado estadounidense de Wisconsin. En el Censo de 2020 tenía una población de 269.840 habitantes y una densidad poblacional de 1.309,33 personas por km², siendo la segunda ciudad más poblada del estado, después de Milwaukee. Se encuentra en el Condado de Dane y es famosa por albergar la Universidad de Wisconsin. Junto con las poblaciones cercanas el área metropolitana de Madison contaba de acuerdo con el censo del año 2020 con 680.796 personas."
     }
   },
   "madrid": {
@@ -7544,6 +7628,20 @@
       "title": "Oxford",
       "url": "https://es.wikipedia.org/wiki/Oxford",
       "extract": "Oxford es una ciudad universitaria británica ubicada en el condado de Oxfordshire, en Inglaterra, y es la sede de la Universidad de Oxford, la universidad más antigua en el mundo anglófono. Corresponde a la ubicación de la Torre Carfax, a la que se considera el centro de la ciudad."
+    }
+  },
+  "pacific-grove": {
+    "title": "Pacific Grove, California",
+    "url": "https://en.wikipedia.org/wiki/Pacific_Grove%2C_California",
+    "extract": "Pacific Grove is a city situated on the southern edge of Monterey Bay, on the Central Coast of California, United States. Located in Monterey County, the city had a population of 15,090 at the 2020 census. Pacific Grove is a popular tourist destination on the Central Coast, hosting notable attractions the Monarch Grove Sanctuary, Asilomar Conference Center, the Pacific Grove Marine Gardens, and Point Pinos Lighthouse, among others.",
+    "description": "City in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Pacific_Grove%2C_California_-_2022_5.jpg/330px-Pacific_Grove%2C_California_-_2022_5.jpg",
+    "lat": 36.61777778,
+    "lon": -121.91666667,
+    "es": {
+      "title": "Pacific Grove",
+      "url": "https://es.wikipedia.org/wiki/Pacific_Grove",
+      "extract": "Pacific Grove, fundada en 1889, es una ciudad ubicada en el condado de Monterrey en el estado estadounidense de California. En el año 2000 tenía una población de 15,522 habitantes y una densidad poblacional de 1,507 personas por km²."
     }
   },
   "padua": {
@@ -9929,6 +10027,20 @@
       "title": "Sosúa",
       "url": "https://es.wikipedia.org/wiki/Sos%C3%BAa",
       "extract": "Sosúa es un municipio de la República Dominicana, que está situado en la Provincia de Puerto Plata."
+    }
+  },
+  "south-san-francisco": {
+    "title": "South San Francisco, California",
+    "url": "https://en.wikipedia.org/wiki/South_San_Francisco%2C_California",
+    "extract": "South San Francisco is a city in San Mateo County, California, United States, on the San Francisco Peninsula in the San Francisco Bay Area. The city is colloquially termed \"South City\". The population was 66,105 as of the 2020 census, and was estimated at 64,941 in 2025.",
+    "description": "City in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Southsanfrancisco.jpg/330px-Southsanfrancisco.jpg",
+    "lat": 37.6551,
+    "lon": -122.3762,
+    "es": {
+      "title": "South San Francisco",
+      "url": "https://es.wikipedia.org/wiki/South_San_Francisco",
+      "extract": "South San Francisco es una ciudad en el condado de San Mateo, California, Estados Unidos, situada en la península de San Francisco en el área de la bahía de San Francisco. La ciudad queda muy cerca de la ciudad y condado de San Francisco y su nombre significa literalmente San Francisco Sur. La población era de 60.552 en el censo 2000."
     }
   },
   "south-seas-mandate": {

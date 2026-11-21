@@ -441,6 +441,35 @@
       }
     }
   },
+  "bioethics": {
+    "label": "Bioethics",
+    "color": "#8f6fd6",
+    "description": "Public, legal and scientific debates over the risks and ethics of biological research, such as the recombinant DNA controversy, gene patents and human experimentation.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Bioética",
+        "description": "Los debates públicos, jurídicos y científicos sobre los riesgos y la ética de la investigación biológica, como la polémica del ADN recombinante, las patentes de genes y la experimentación con seres humanos."
+      }
+    }
+  },
+  "biotechnology": {
+    "label": "Biotechnology",
+    "color": "#e0762f",
+    "description": "The use of living cells and their DNA as tools and products, from recombinant DNA and PCR to DNA sequencing machines and genetically engineered drugs.",
+    "categories": [
+      "Knowledge",
+      "Material culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Biotecnología",
+        "description": "El uso de células vivas y de su ADN como herramientas y productos, desde el ADN recombinante y la PCR hasta las máquinas de secuenciación y los fármacos de ingeniería genética."
+      }
+    }
+  },
   "bohemia": {
     "label": "Bohemia",
     "color": "#9575cd",
