@@ -51,6 +51,7 @@ const strings = t(locale);
 <script>
   import { BOOKMARKS_EVENT } from '../../lib/bookmarks';
   import { localePath, t, toLocale } from '../../lib/i18n';
+  import { sortable } from '../../lib/sortable';
 
   const locale = toLocale(document.documentElement.lang);
   const strings = t(locale);
@@ -175,6 +176,10 @@ const strings = t(locale);
     cards.replaceChildren();
     order.forEach((item, i) => {
       const li = document.createElement('li');
+      const grip = document.createElement('span');
+      grip.className = 'grip';
+      grip.setAttribute('aria-hidden', 'true'); // keyboard and screen-reader users have the buttons
+      grip.textContent = '⠿';
       const title = document.createElement('span');
       title.className = 'title';
       title.textContent = item.title;
@@ -196,10 +201,20 @@ const strings = t(locale);
         });
         ctl.append(b);
       }
-      li.append(title, ctl, tagChips(item, false));
+      li.append(grip, title, ctl, tagChips(item, false));
       cards.append(li);
     });
   }
+
+  // Drag-and-drop is layered on top of the buttons; during the reveal the cards have no grip,
+  // so it does nothing there.
+  sortable(cards, {
+    handle: '.grip',
+    onMove: (from, to) => {
+      order.splice(to, 0, ...order.splice(from, 1));
+      render();
+    },
+  });
 
   function startRound() {
     verdict.hidden = true;
@@ -373,6 +388,10 @@ const strings = t(locale);
   .game .cards .title { flex: 1 1 14rem; font-weight: 600; }
   .game .cards a.title { text-decoration-color: var(--line); }
   .game .tags { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 0.35rem; }
+  .game .grip { flex: none; cursor: grab; touch-action: none; user-select: none; color: var(--muted); font-size: 1.3rem; line-height: 1; padding: 0.3rem 0.2rem; margin: -0.3rem 0 -0.3rem -0.3rem; }
+  .game .cards.sorting li { transition: transform 0.15s ease; }
+  .game .cards.sorting li.dragging { transition: none; position: relative; z-index: 1; cursor: grabbing; background: var(--bg); box-shadow: 0 6px 18px rgb(0 0 0 / 0.2); }
+  .game .cards.sorting { user-select: none; }
   .game .ctl { display: flex; gap: 0.35rem; }
   .game .ctl button { padding: 0.25rem 0.6rem; }
   .game .edge { margin: 0; font-size: 0.85rem; text-align: center; }
