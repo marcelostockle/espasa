@@ -3383,6 +3383,15 @@
       }
     }
   },
+  "kyiv": {
+    "label": "Kyiv",
+    "wikipedia": "Kyiv",
+    "translations": {
+      "es": {
+        "label": "Kiev"
+      }
+    }
+  },
   "kyoto": {
     "label": "Kyoto",
     "wikipedia": "Kyoto",
@@ -6899,6 +6908,15 @@
     "translations": {
       "es": {
         "label": "Troya"
+      }
+    }
+  },
+  "tskhinvali": {
+    "label": "Tskhinvali",
+    "wikipedia": "Tskhinvali",
+    "translations": {
+      "es": {
+        "label": "Tskhinvali"
       }
     }
   },

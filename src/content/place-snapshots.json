@@ -5118,6 +5118,20 @@
       "extract": "La ciudad de Kuwait es la capital del Estado de Kuwait y de la gobernación de Al Asimah. Tiene una población de 63 600 habitantes, que llegan a más de 2 300 000 habitantes en su conurbación. Es el centro económico, comercial, cultural y de transportes del emirato."
     }
   },
+  "kyiv": {
+    "title": "Kyiv",
+    "url": "https://en.wikipedia.org/wiki/Kyiv",
+    "extract": "Kyiv, also spelt Kiev, is the capital and most populous city of Ukraine. Located in the north-central part of the country, it straddles both banks of the Dnieper River. As of January 2022, the population of Kyiv was 2,952,301, making it the seventh-most populous city in Europe. Kyiv is an important industrial, scientific, educational, and cultural center. It is home to high-tech industries, higher education institutions, and historical landmarks. The city has an extensive public transport system, which includes the Kyiv Metro.",
+    "description": "Capital and largest city of Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg/330px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg",
+    "lat": 50.45,
+    "lon": 30.52333333,
+    "es": {
+      "title": "Kiev",
+      "url": "https://es.wikipedia.org/wiki/Kiev",
+      "extract": "Kiev es la capital y la mayor ciudad de Ucrania, con una población de 2 954 300 habitantes y aproximadamente 3 650 000 en su área metropolitana. Es un importante centro industrial, científico, educativo, cultural e histórico, además de sede de muchas industrias de alta tecnología. Kiev dispone de una amplia infraestructura, en la que se incluye su sistema de transporte público del que forma parte el Metro de Kiev, el sistema de metro más profundo del mundo, alcanzando los 105 metros de profundidad."
+    }
+  },
   "kyoto": {
     "title": "Kyoto",
     "url": "https://en.wikipedia.org/wiki/Kyoto",
@@ -10448,6 +10462,20 @@
       "title": "Troya",
       "url": "https://es.wikipedia.org/wiki/Troya",
       "extract": "Troya o Ilión es una antigua ciudad anatolia situada en el emplazamiento hoy conocido como la colina de Hisarlik,. Según los estudios de Frank Starke (1997), de J. David Hawkins (1998) y de W. D. Niemeier (1999), la palabra Wilusa era la denominación usada en hitita para la ciudad de Troya."
+    }
+  },
+  "tskhinvali": {
+    "title": "Tskhinvali",
+    "url": "https://en.wikipedia.org/wiki/Tskhinvali",
+    "extract": "Tskhinvali or Tskhinval, occasionally called Stalinir during specific contexts, is the capital of the disputed de facto independent Republic of South Ossetia, internationally considered part of Shida Kartli, Georgia. Tskhinvali Region was also known historically as Samachablo by Georgians. It is located on the Great Liakhvi River approximately 100 kilometres (62 mi) northwest of the Georgian capital Tbilisi.",
+    "description": "Disputed city in Georgia or South Ossetia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Tskhinval.jpg/330px-Tskhinval.jpg",
+    "lat": 42.225,
+    "lon": 43.97,
+    "es": {
+      "title": "Tsjinvali",
+      "url": "https://es.wikipedia.org/wiki/Tsjinvali",
+      "extract": "Tsjinvali, Tsjinval o Chreba es la capital de la república de Osetia del Sur, una región independiente de facto de Georgia. De 1934 a 1961, la ciudad fue llamada Staliniri, en homenaje a Iósif Stalin. Los osetios llaman a la ciudad sin la i final, que es un caso nominativo en georgiano."
     }
   },
   "tsushima-strait": {

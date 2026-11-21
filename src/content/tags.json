@@ -1458,6 +1458,21 @@
       }
     }
   },
+  "georgia": {
+    "label": "Georgia",
+    "color": "#a8363a",
+    "description": "The Republic of Georgia in the Caucasus, its independence and its conflicts with Russia.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Georgia",
+        "description": "La república de Georgia, en el Cáucaso, su independencia y sus conflictos con Rusia."
+      }
+    }
+  },
   "gracchi": {
     "label": "The Gracchi",
     "color": "#70347c",
@@ -3449,6 +3464,21 @@
       }
     }
   },
+  "russia": {
+    "label": "Russia",
+    "color": "#8b1a4a",
+    "description": "Russia and its governments since 1991, and its relations with its neighbors and the West.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Rusia",
+        "description": "Rusia y sus gobiernos desde 1991, y sus relaciones con sus vecinos y con Occidente."
+      }
+    }
+  },
   "russian-church-schism": {
     "label": "Russian Church Schism",
     "color": "#d0663f",
@@ -4133,6 +4163,21 @@
       "es": {
         "label": "Túnez",
         "description": "Túnez y sus gobiernos, incluida la revolución de 2011 y la transición democrática posterior."
+      }
+    }
+  },
+  "ukraine": {
+    "label": "Ukraine",
+    "color": "#0f5fb4",
+    "description": "Ukraine, its independence from 1991, its relations with Russia and the West, and the war that followed.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Ucrania",
+        "description": "Ucrania, su independencia desde 1991, sus relaciones con Rusia y Occidente y la guerra que siguió."
       }
     }
   },
