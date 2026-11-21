@@ -2249,6 +2249,15 @@
       }
     }
   },
+  "eindhoven-university-of-technology": {
+    "label": "Eindhoven University of Technology",
+    "wikipedia": "Eindhoven University of Technology",
+    "translations": {
+      "es": {
+        "label": "Universidad Tecnológica de Eindhoven"
+      }
+    }
+  },
   "eisenstadt": {
     "label": "Eisenstadt",
     "wikipedia": "Eisenstadt",
@@ -4814,6 +4823,15 @@
       }
     }
   },
+  "national-physical-laboratory": {
+    "label": "National Physical Laboratory, Teddington",
+    "wikipedia": "National Physical Laboratory (United Kingdom)",
+    "translations": {
+      "es": {
+        "label": "Laboratorio Nacional de Física, Teddington"
+      }
+    }
+  },
   "neauphle-le-chateau": {
     "label": "Neauphle-le-Château",
     "wikipedia": "Neauphle-le-Château",
@@ -6350,6 +6368,15 @@
     "translations": {
       "es": {
         "label": "Santa Marta"
+      }
+    }
+  },
+  "santa-monica-california": {
+    "label": "Santa Monica, California",
+    "wikipedia": "Santa Monica, California",
+    "translations": {
+      "es": {
+        "label": "Santa Mónica, California"
       }
     }
   },

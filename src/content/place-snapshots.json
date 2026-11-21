@@ -3415,6 +3415,19 @@
       "extract": "El periodo helenístico de Egipto, también llamado como el Egipto ptolemaico, el Reino ptelomaico o el Imperio ptolemaico, fue un período artístico e histórico en el que la dinastía ptolemaica ostentaba el poder en todo Egipto y en algunas regiones más de Oriente Medio. Fue una entidad política griega con sede en Egipto durante el periodo helenístico. El reino fue fundado en el año 305 a. C. por el general macedonio-griego Ptolomeo I Sóter —compañero de Alejandro Magno— y gobernado por la dinastía ptolemaica hasta la muerte de Cleopatra VII en el año 30 a. C., que dejó en manos de los romanos todo Egipto.Con un reinado de casi tres siglos, los Ptolomeos constituyeron la dinastía más longeva y la última del antiguo Egipto, marcando el inicio de una era distintiva de sincretismo religioso y cultural entre las culturas griega y egipcia."
     }
   },
+  "eindhoven-university-of-technology": {
+    "title": "Eindhoven University of Technology",
+    "url": "https://en.wikipedia.org/wiki/Eindhoven_University_of_Technology",
+    "extract": "The Eindhoven University of Technology is a public technical university in the Netherlands, situated in Eindhoven. In 2025–26, around 14,000 students were enrolled in its BSc and MSc programs and around 2200 students were enrolled in its PhD and EngD programs. In 2025, the TU/e employed around 4300 people.",
+    "description": "University in Eindhoven, Netherlands",
+    "lat": 51.44805556,
+    "lon": 5.48972222,
+    "es": {
+      "title": "Universidad Técnica de Eindhoven",
+      "url": "https://es.wikipedia.org/wiki/Universidad_T%C3%A9cnica_de_Eindhoven",
+      "extract": "Universidad de Eindhoven o Universidad Tecnológica de Eindhoven, conocida como TU/e es una universidad politécnica localizada en la ciudad de Eindhoven, en los Países Bajos. Es una de las universidades técnicas con más prestigio de Europa y del mundo. La Unión Europea la considera una de las mejores de Europa, basándose en el impacto de su producción científica«Copia archivada». Archivado desde el original el 9 de julio de 2011. Consultado el 25 de agosto de 2015. Fue fundada en 1956 por el gobierno neerlandés, y hasta mediados de los 80 se llamó Technische Hogeschool Eindhoven, abreviada THE."
+    }
+  },
   "eisenstadt": {
     "title": "Eisenstadt",
     "url": "https://en.wikipedia.org/wiki/Eisenstadt",
@@ -7295,6 +7308,20 @@
     "lat": 33.50722222,
     "lon": 51.91361111
   },
+  "national-physical-laboratory": {
+    "title": "National Physical Laboratory (United Kingdom)",
+    "url": "https://en.wikipedia.org/wiki/National_Physical_Laboratory_(United_Kingdom)",
+    "extract": "The National Physical Laboratory (NPL) is the national measurement standards laboratory of the United Kingdom. It sets and maintains physical standards for British industry.",
+    "description": "National measurement institution of the UK",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/National_Physical_Laboratory_-_geograph.org.uk_-_16240.jpg/330px-National_Physical_Laboratory_-_geograph.org.uk_-_16240.jpg",
+    "lat": 51.42638889,
+    "lon": -0.34361111,
+    "es": {
+      "title": "National Physical Laboratory",
+      "url": "https://es.wikipedia.org/wiki/National_Physical_Laboratory",
+      "extract": "El National Physical Laboratory (NPL) –Laboratorio Nacional de Física– es el instituto nacional de metrología del Reino Unido. Se dedica a desarrollar y aplicar estándares de la ciencia y de la tecnología."
+    }
+  },
   "neauphle-le-chateau": {
     "title": "Neauphle-le-Château",
     "url": "https://en.wikipedia.org/wiki/Neauphle-le-Ch%C3%A2teau",
@@ -9620,6 +9647,20 @@
       "title": "Santa Marta (Colombia)",
       "url": "https://es.wikipedia.org/wiki/Santa_Marta_(Colombia)",
       "extract": "Santa Marta, oficialmente Distrito Turístico, Cultural e Histórico de Santa Marta, es un distrito de Colombia, capital del departamento del Magdalena en la Región Caribe. Fue fundada el 29 de julio de 1525 por el español Rodrigo de Bastidas, lo que la convierte en la ciudad en pie más antigua de Colombia y la segunda más antigua de América del Sur. Esta ciudad, emplazada en la bahía de su mismo nombre, es uno de los principales destinos turísticos del país por sus numerosas playas, reservas naturales, su patrimonio cultural e histórico y por ser uno de los accesos a la montaña más alta del mundo en zona costera, la Sierra Nevada de Santa Marta y a sus antiguas comunidades indígenas. Desde 1991 fue organizada constitucionalmente como Distrito Turístico, Cultural e Histórico."
+    }
+  },
+  "santa-monica-california": {
+    "title": "Santa Monica, California",
+    "url": "https://en.wikipedia.org/wiki/Santa_Monica%2C_California",
+    "extract": "Santa Monica is a city in Los Angeles County, California, United States. It is situated along Santa Monica Bay on California's South Coast. As of the 2020 census, Santa Monica had a population of 93,076. Companies including Hulu, Activision Blizzard, Game Show Network, Universal Music Group, Starz Entertainment, Lionsgate Studios, Illumination, and Snap Inc. are headquartered in Santa Monica.",
+    "description": "Coastal city in Los Angeles County, California",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Casa_del_Mar_Santa_Monica_%28cropped%29.jpg/330px-Casa_del_Mar_Santa_Monica_%28cropped%29.jpg",
+    "lat": 34.02194444,
+    "lon": -118.48138889,
+    "es": {
+      "title": "Santa Mónica (California)",
+      "url": "https://es.wikipedia.org/wiki/Santa_M%C3%B3nica_(California)",
+      "extract": "Santa Mónica es una ciudad situada en el condado de Los Ángeles, California, Estados Unidos. Tiene una población estimada, a mediados de 2023, de 89 922 habitantes."
     }
   },
   "santiago-chile": {

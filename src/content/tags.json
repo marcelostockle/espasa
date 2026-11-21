@@ -2127,6 +2127,21 @@
       }
     }
   },
+  "internet-history": {
+    "label": "Internet history",
+    "color": "#2e4057",
+    "description": "How computer networks became the Internet: packet switching, ARPANET, TCP/IP and the protocol standards around them.",
+    "categories": [
+      "Knowledge",
+      "Material culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Historia de Internet",
+        "description": "Cómo las redes de computadores se convirtieron en Internet: conmutación de paquetes, ARPANET, TCP/IP y los estándares de protocolos que los rodean."
+      }
+    }
+  },
   "iran": {
     "label": "Iran",
     "color": "#12a37f",
