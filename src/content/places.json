@@ -863,6 +863,15 @@
       }
     }
   },
+  "black-sea": {
+    "label": "Black Sea",
+    "wikipedia": "Black Sea",
+    "translations": {
+      "es": {
+        "label": "Mar Negro"
+      }
+    }
+  },
   "bloemfontein": {
     "label": "Bloemfontein",
     "wikipedia": "Bloemfontein",
@@ -1985,6 +1994,15 @@
     "translations": {
       "es": {
         "label": "Distrito Seis, Ciudad del Cabo"
+      }
+    }
+  },
+  "dnipro": {
+    "label": "Dnipro",
+    "wikipedia": "Dnipro",
+    "translations": {
+      "es": {
+        "label": "Dnipró"
       }
     }
   },
@@ -3164,6 +3182,15 @@
     "translations": {
       "es": {
         "label": "Kairuán"
+      }
+    }
+  },
+  "kakhovka-dam": {
+    "label": "Kakhovka Dam",
+    "wikipedia": "Kakhovka Dam",
+    "translations": {
+      "es": {
+        "label": "Presa de Kajovka"
       }
     }
   },
@@ -4577,6 +4604,15 @@
     "translations": {
       "es": {
         "label": "Nicópolis del Istro"
+      }
+    }
+  },
+  "nord-stream": {
+    "label": "Nord Stream",
+    "wikipedia": "Nord Stream",
+    "translations": {
+      "es": {
+        "label": "Nord Stream"
       }
     }
   },
@@ -7619,6 +7655,15 @@
     "translations": {
       "es": {
         "label": "Yavné (Jamnia)"
+      }
+    }
+  },
+  "yelabuga": {
+    "label": "Yelabuga (Alabuga)",
+    "wikipedia": "Yelabuga",
+    "translations": {
+      "es": {
+        "label": "Yelábuga (Alabuga)"
       }
     }
   },

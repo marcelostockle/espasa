@@ -1089,6 +1089,21 @@
       }
     }
   },
+  "drone-warfare": {
+    "label": "Drone warfare",
+    "color": "#4f7a28",
+    "description": "Military use of uncrewed aircraft, ships and ground vehicles, from loitering munitions to mass-produced FPV and long-range drones.",
+    "categories": [
+      "Knowledge",
+      "Material culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra con drones",
+        "description": "El uso militar de aeronaves, buques y vehículos terrestres no tripulados, desde las municiones merodeadoras hasta los drones FPV y de largo alcance producidos en masa."
+      }
+    }
+  },
   "duchy-of-savoy": {
     "label": "Duchy of Savoy",
     "color": "#8e6e95",
@@ -1230,6 +1245,20 @@
       "es": {
         "label": "Euromaidán",
         "description": "Las protestas de 2013-2014 en Kiev contra el rechazo de Yanukóvich al pacto con la UE, las muertes y la caída de su gobierno (también llamada Revolución de la Dignidad)."
+      }
+    }
+  },
+  "european-union": {
+    "label": "European Union",
+    "color": "#2d4fa8",
+    "description": "The European Union and its institutions, enlargement, common policies and role in security and economic affairs.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Unión Europea",
+        "description": "La Unión Europea y sus instituciones, su ampliación, sus políticas comunes y su papel en la seguridad y la economía."
       }
     }
   },
@@ -2864,6 +2893,21 @@
       }
     }
   },
+  "north-korea": {
+    "label": "North Korea",
+    "color": "#7b2d52",
+    "description": "The Democratic People's Republic of Korea since 1948, its leadership, nuclear program and alliances.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Corea del Norte",
+        "description": "La República Popular Democrática de Corea desde 1948, su liderazgo, su programa nuclear y sus alianzas."
+      }
+    }
+  },
   "nuclear-weapons": {
     "label": "Nuclear weapons",
     "color": "#e8c11a",
@@ -3661,6 +3705,20 @@
       "es": {
         "label": "Salvador Allende",
         "description": "Médico y político socialista chileno, presidente de Chile desde 1970 hasta su muerte durante el golpe de Estado de 1973."
+      }
+    }
+  },
+  "sanctions": {
+    "label": "Sanctions",
+    "color": "#9a4f2a",
+    "description": "Economic and financial sanctions as an instrument of foreign policy, including asset freezes, embargoes and trade restrictions.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Sanciones",
+        "description": "Las sanciones económicas y financieras como instrumento de política exterior, incluidos los embargos, la congelación de activos y las restricciones comerciales."
       }
     }
   },

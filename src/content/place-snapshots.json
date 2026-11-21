@@ -1300,6 +1300,20 @@
       "extract": "Birmingham es una ciudad y un municipio metropolitano situado en el condado metropolitano de las Tierras Medias Occidentales, en la región de las Tierras Medias Occidentales de Inglaterra. Según el censo de 2021, tiene una población de 1 144 919 habitantes."
     }
   },
+  "black-sea": {
+    "title": "Black Sea",
+    "url": "https://en.wikipedia.org/wiki/Black_Sea",
+    "extract": "The Black Sea is a marginal sea located between Europe and Asia, east of the Balkans, south of the East European Plain, west of the Caucasus, and north of Anatolia. It is bordered by Bulgaria, Georgia, Romania, Russia, Turkey, and Ukraine. The Black Sea is supplied by major rivers, principally the Danube, Dnieper and Dniester. Consequently, while six countries have a coastline on the sea, its drainage basin includes parts of 24 countries in Europe.",
+    "description": "Eurasian sea northeast of the Mediterranean",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Black_Sea_Nasa_May_25_2004.jpg/330px-Black_Sea_Nasa_May_25_2004.jpg",
+    "lat": 44,
+    "lon": 35,
+    "es": {
+      "title": "Mar Negro",
+      "url": "https://es.wikipedia.org/wiki/Mar_Negro",
+      "extract": "El mar Negro es un mar ubicado entre Europa Oriental y Asia Occidental. Se encuentra encerrado entre los Balcanes, la estepa póntica, Crimea, el Cáucaso y la península de Anatolia. El estrecho del Bósforo lo conecta con el pequeño mar de Mármara, y el estrecho de los Dardanelos conecta al mar anterior con el mar Egeo, que es una división del mar Mediterráneo. También está conectado con el mar de Azov, situado al noreste, por el estrecho de Kerch. El mar Negro forma una depresión elíptica con una pendiente de este a oeste, y tiene una superficie de 436 400 km², una profundidad máxima de 2212 m y un volumen de 547 000 km³. Los países ribereños del mar Negro son, empezando por el sur y en sentido horario, Turquía, Bulgaria, Rumania, Ucrania, Rusia y Georgia."
+    }
+  },
   "bloemfontein": {
     "title": "Bloemfontein",
     "url": "https://en.wikipedia.org/wiki/Bloemfontein",
@@ -3012,6 +3026,20 @@
     "extract": "District Six is a residential neighborhood in Cape Town, South Africa, located next to the city's CBD. In 1959, people of color were banned from the area and most of them were resettled in Gugulethu. In the following years, District Six was then declared a whites-only area and most of the residents were resettled in the Cape Flats. Over the course of a decade, over 60,000 of its inhabitants were forcibly removed and in 1970 the area was renamed Zonnebloem, a name that makes reference to an 18th-century colonial farm. At the time of the proclamation, 56% of the district's property was White-owned, 29% Black-owned, 26% Coloured-owned and 18% Indian-owned. The vision of a new white neighbourhood was not realised and the land has mostly remained barren and unoccupied. The original area of District Six is now partly divided between the suburbs of Walmer Estate, Zonnebloem, and Lower Vrede, while the rest is generally undeveloped land.",
     "description": "Former area of Cape Town, South Africa",
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/District_Six_from_Signal_Hill.jpg/330px-District_Six_from_Signal_Hill.jpg"
+  },
+  "dnipro": {
+    "title": "Dnipro",
+    "url": "https://en.wikipedia.org/wiki/Dnipro",
+    "extract": "Dnipro is Ukraine's fourth-largest city, with about one million inhabitants. It is located in the eastern part of Ukraine, 391 km (243 mi) southeast of the Ukrainian capital Kyiv on the Dnipro River, from which it takes its name. Dnipro is the administrative centre of Dnipropetrovsk Oblast. It hosts the administration of Dnipro urban hromada. Dnipro has a population of 968,502.",
+    "description": "City and administrative center of Dnipropetrovsk Oblast, Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%BE%D0%B2%D0%B5%D1%82.JPG/330px-%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%BE%D0%B2%D0%B5%D1%82.JPG",
+    "lat": 48.4675,
+    "lon": 35.04,
+    "es": {
+      "title": "Dnipró",
+      "url": "https://es.wikipedia.org/wiki/Dnipr%C3%B3",
+      "extract": "Dnipró, también conocida por la denominación de Dnipropetrovsk, es la cuarta ciudad más poblada de Ucrania, con aproximadamente 980 948 habitantes. Está situada en la parte central de Ucrania, a 391 km al sureste de la capital ucraniana, Kiev, junto al río Dniéper, que le da nombre. Dnipró es el centro administrativo de la región de la óblast de Dnipropetrovsk."
+    }
   },
   "donauworth": {
     "title": "Donauwörth",
@@ -4784,6 +4812,15 @@
       "url": "https://es.wikipedia.org/wiki/Keru%C3%A1n",
       "extract": "Keruán es una ciudad de Túnez y la capital de la gobernación de Keruán, localizada a unos 160 kilómetros al sur de la capital. En 2003 la ciudad tenía una población de unos 150 000 habitantes aproximadamente. Fundada alrededor del año 670, el nombre original deriva del persa Kâravân y acabó convirtiéndose en kairuwân. El 11 de agosto de 2021, fue registrada la temperatura máxima histórica de 50,3 grados Celsius (122,5 °F)."
     }
+  },
+  "kakhovka-dam": {
+    "title": "Kakhovka Dam",
+    "url": "https://en.wikipedia.org/wiki/Kakhovka_Dam",
+    "extract": "The Kakhovka Dam was a dam on the Dnieper River in Kherson Oblast, Ukraine, completed in 1956 and destroyed in 2023, which provided water for the Kakhovka Hydroelectric Station. The primary purposes of the dam were hydroelectric power generation, irrigation, and navigation. It was the sixth and last dam in the Dnieper reservoir cascade.",
+    "description": "Dam and power plant in Kherson, Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D1%96_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1_03.jpg/330px-%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D1%96_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1_03.jpg",
+    "lat": 46.77611111,
+    "lon": 33.37166667
   },
   "kalka-river": {
     "title": "Kalchyk (river)",
@@ -6941,6 +6978,18 @@
       "title": "Nicópolis del Istro",
       "url": "https://es.wikipedia.org/wiki/Nic%C3%B3polis_del_Istro",
       "extract": "Nicópolis del Istro fue una ciudad antigua romana que se mantuvo activa hasta los primeros tiempos del imperio Bizantino. La ciudad fue fundada por Trajano alrededor del año 101-106 d. C. en el cruce de los ríos Yantra y Rositsa en memoria de su victoria contra los Dacios. Sus ruinas se encuentran ubicadas en las inmediaciones de la localidad de Nikyup, a 20 km al norte de Veliko Tarnovo en Bulgaria. La ciudad tuvo su apogeo bajo los reinados de Trajano, Adriano, dinastía Antonina y dinastía Severa.\nEn 1984 este lugar fue inscrito en la Lista Indicativa de Bulgaria como paso previo para ser considerado como Patrimonio de la Humanidad por la UNESCO.\n\n\n \n"
+    }
+  },
+  "nord-stream": {
+    "title": "Nord Stream",
+    "url": "https://en.wikipedia.org/wiki/Nord_Stream",
+    "extract": "Nord Stream is a set of offshore natural gas pipelines which run under the Baltic Sea from Russia to Germany to provide Western Europe with natural gas.",
+    "description": "Index of articles associated with the same name",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Nordstream.png/330px-Nordstream.png",
+    "es": {
+      "title": "Nord Stream",
+      "url": "https://es.wikipedia.org/wiki/Nord_Stream",
+      "extract": "Nord Stream es el nombre genérico que designa dos gasoductos de gas natural que cruzan el mar Báltico desde Rusia hasta Greifswald en Alemania. El Nord Stream 1, inaugurado en 2012, parte de Víborg mientras que el Nord Stream 2, cuya construcción terminó en 2021, parte de Ust-Luga. A veces el término Nord Stream incluye también el gasoducto de alimentación terrestre en Rusia y conexiones en Europa Occidental. Mientras estuvo en operación, Nord Stream 1 fue uno de los gasoductos más importantes del mundo. En 2018 transitaron por él un 16% de todas las importaciones europeas de gas natural."
     }
   },
   "nordlingen": {
@@ -11532,6 +11581,20 @@
       "title": "Yavne",
       "url": "https://es.wikipedia.org/wiki/Yavne",
       "extract": "Yavne o Jamnia es una ciudad del distrito Central de Israel. Según la Oficina Central de Estadísticas de Israel (CBS), a finales de 2009 la ciudad tenía una población de 33.800 habitantes. En sus cercanías se hallan las ruinas de la antigua población de Iamnia. En tiempos del Reino de Jerusalén, se le conocía como Ibelín."
+    }
+  },
+  "yelabuga": {
+    "title": "Yelabuga",
+    "url": "https://en.wikipedia.org/wiki/Yelabuga",
+    "extract": "Yelabuga is a town in Tatarstan, Russia, located on the right bank of the Kama River and 200 kilometers (120 mi) east from Kazan. Population: 70,728 (2010 census); 68,663 (2002 census); 53,537 (1989 Soviet census).",
+    "description": "Town in the Republic of Tatarstan, Russia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Aerial_photographs_of_Elabuga-10.jpg/330px-Aerial_photographs_of_Elabuga-10.jpg",
+    "lat": 55.76666667,
+    "lon": 52.08333333,
+    "es": {
+      "title": "Yelábuga",
+      "url": "https://es.wikipedia.org/wiki/Yel%C3%A1buga",
+      "extract": "Yelábuga, también Alábuga o Elábuga, es una localidad de la República de Tartaristán en la Federación de Rusia, situada en la rivera derecha del río Kama. Situada cerca del parque nacional Nízhniaya Kama y está erigido en ella un castillo en la antigua frontera de Bulgaria del Volga, Şaytan qalası."
     }
   },
   "yellow-river": {
