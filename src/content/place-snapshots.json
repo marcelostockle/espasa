@@ -3826,6 +3826,20 @@
       "extract": "Fort Sumter, en español Fuerte Sumter, es una guarnición en una isla costera del océano Atlántico a la entrada de la bahía de Charleston. La construcción recibe su nombre del general Thomas Sumter (1734-1832) considerado un héroe de la guerra de Independencia de los Estados Unidos."
     }
   },
+  "france": {
+    "title": "France",
+    "url": "https://en.wikipedia.org/wiki/France",
+    "extract": "France, officially the French Republic, is a country primarily located in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Metropolitan France shares borders with Belgium and Luxembourg to the north; Germany to the northeast; Switzerland to the east; Italy and Monaco to the southeast; Andorra and Spain to the south; and a maritime border with the United Kingdom to the northwest. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. Its 18 integral regions—five of which are overseas—span a combined area of 632,702 km2 (244,288 sq mi), with a total population estimated at over 69.1 million in 2026. Its capital, largest city and main cultural and economic centre is Paris, with a metropolitan population of over 13 million.",
+    "description": "Country primarily in Western Europe",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png",
+    "lat": 47,
+    "lon": 2,
+    "es": {
+      "title": "Francia",
+      "url": "https://es.wikipedia.org/wiki/Francia",
+      "extract": "Francia, oficialmente República Francesa, es un país soberano transcontinental que se extiende por Europa Occidental y por regiones y territorios de ultramar en América y los océanos Atlántico, Pacífico e Índico. Es uno de los veintisiete Estados soberanos que integran la Unión Europea. Se constituye en república semipresidencialista unitaria con capital en París, la mayor ciudad del país y principal centro cultural y comercial; otras zonas urbanas importantes son Marsella, Lyon, Toulouse, Lille, Burdeos, Montpellier y Niza. La Francia metropolitana se extiende desde el río Rin hasta el océano Atlántico y desde el mar Mediterráneo y los montes Pirineos hasta el canal de la Mancha y el mar del Norte. Los territorios de ultramar incluyen la Guayana Francesa en América del Sur, San Pedro y Miquelón en el Atlántico Norte, las Antillas francesas y muchas islas en Oceanía y el océano Índico. Debido a sus diversos territorios costeros, Francia posee la mayor zona económica exclusiva del mundo. Sus dieciocho regiones integrales abarcan una superficie combinada de 643 801 km2 y más de 68 millones de personas. Culturalmente, pertenece a la Europa latina."
+    }
+  },
   "frankfurt": {
     "title": "Frankfurt",
     "url": "https://en.wikipedia.org/wiki/Frankfurt",
@@ -4097,6 +4111,20 @@
       "extract": "El Monte Guerizín o Monte Garizín es uno de los dos montes colindantes con la ciudad cisjordana de Nablus, en Palestina, que delimita por el sur el valle en que se sitúa esta ciudad, mientras que por el norte lo hace el Monte Ebal. Es una de las mayores elevaciones de Cisjordania, ya que alcanza los 868 metros de altura sobre el nivel del mar. Tiene un especial escarpe en su cara que da al norte; está escasamente cubierto de vegetación en su cima, en donde hay un poblado samaritano y un asentamiento israelí llamado Har Brajá. En sus faldas hay una fuente que representa una provisión continua de agua viva para Nablus."
     }
   },
+  "germany": {
+    "title": "Germany",
+    "url": "https://en.wikipedia.org/wiki/Germany",
+    "extract": "Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. It lies between the Baltic Sea and the North Sea to the north with the Alps to the south. Its 16 constituent states have a total population of over 83 million, making it the most populous member state of the European Union (EU). Germany borders Denmark to the north; Poland and the Czech Republic to the east; Austria and Switzerland to the south; and France, Luxembourg, Belgium, and the Netherlands to the west. The nation's capital and most populous city is Berlin and its main financial centre is Frankfurt; the largest urban area is the Ruhr.",
+    "description": "Country in Europe",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/330px-Flag_of_Germany.svg.png",
+    "lat": 51,
+    "lon": 9,
+    "es": {
+      "title": "Alemania",
+      "url": "https://es.wikipedia.org/wiki/Alemania",
+      "extract": "Alemania, oficialmente la República Federal de Alemania, es un país soberano de Europa central y el Estado de la Unión Europea con mayor población y PIB. Está constituido en Estado social, democrático y de derecho, y su forma de gobierno es una república parlamentaria y federal con capital en Berlín. Está formado por dieciséis estados federados (Bundesländer) y limita al norte con el mar del Norte, Dinamarca, Suecia y el mar Báltico; al este con Polonia y la República Checa; al sur con Austria y Suiza; y al oeste con Francia, Luxemburgo, Bélgica y los Países Bajos. El municipio Büsingen am Hochrhein, enclavado en Suiza, también forma parte de Alemania. El territorio de Alemania abarca 357 376 km² de extensión y tiene una población de 84 millones de habitantes. En 2014 Alemania fue el segundo destino de las migraciones más popular del mundo, después de Estados Unidos."
+    }
+  },
   "gettysburg-pennsylvania": {
     "title": "Gettysburg, Pennsylvania",
     "url": "https://en.wikipedia.org/wiki/Gettysburg%2C_Pennsylvania",
@@ -4298,6 +4326,20 @@
       "title": "Graz",
       "url": "https://es.wikipedia.org/wiki/Graz",
       "extract": "Graz históricamente conocida en español como Graetz, es una ciudad austriaca, capital del estado federado de Estiria. Es la segunda ciudad más grande del país. Ciudad universitaria por excelencia, fue nombrada Capital Europea de la Cultura en el año 2003."
+    }
+  },
+  "great-barrington-massachusetts": {
+    "title": "Great Barrington, Massachusetts",
+    "url": "https://en.wikipedia.org/wiki/Great_Barrington%2C_Massachusetts",
+    "extract": "Great Barrington is a town in Berkshire County, Massachusetts, United States. It is part of the Pittsfield, Massachusetts, Metropolitan Statistical Area. The population was 7,172 at the 2020 census. Both a summer resort and home to Ski Butternut, a ski resort, Great Barrington includes the villages of Great Barrington, Van Deusenville, and Housatonic.",
+    "description": "Town in Massachusetts, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Great_Barrington_2.jpg/330px-Great_Barrington_2.jpg",
+    "lat": 42.19583333,
+    "lon": -73.3625,
+    "es": {
+      "title": "Great Barrington (Massachusetts)",
+      "url": "https://es.wikipedia.org/wiki/Great_Barrington_(Massachusetts)",
+      "extract": "Great Barrington es un pueblo ubicado en el condado de Berkshire en el estado estadounidense de Massachusetts. En el Censo de 2010 tenía una población de 7.104 habitantes y una densidad poblacional de 59,92 personas por km²."
     }
   },
   "great-bitter-lake": {
@@ -4955,6 +4997,20 @@
       "extract": "Independence es una ciudad ubicada en el condado de Jackson en el estado estadounidense de Misuri. En el censo de 2010 tenía una población de 116 830 habs. y una densidad poblacional de 576,49 hab/km². Se encuentra sobre la orilla derecha del río Misuri, y forma parte del área metropolitana de Kansas City."
     }
   },
+  "india": {
+    "title": "India",
+    "url": "https://en.wikipedia.org/wiki/India",
+    "extract": "India, officially the Republic of India, is a country in South Asia. It is the world's seventh-largest country by area and its most populous. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west, China, Nepal, and Bhutan to the north, and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives.",
+    "description": "Country in South Asia",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/330px-Flag_of_India.svg.png",
+    "lat": 21,
+    "lon": 78,
+    "es": {
+      "title": "India",
+      "url": "https://es.wikipedia.org/wiki/India",
+      "extract": "La India, oficialmente República de la India, es un país soberano ubicado en Asia del Sur. Con un estimado de más de 1476 millones de habitantes, es el país más poblado del mundo desde el año 2023. Su superficie es de 3 287 263 km2, lo cual lo ubica en el séptimo lugar entre los países más extensos del planeta."
+    }
+  },
   "indian-territory": {
     "title": "Indian Territory",
     "url": "https://en.wikipedia.org/wiki/Indian_Territory",
@@ -5042,6 +5098,20 @@
       "title": "Istmia",
       "url": "https://es.wikipedia.org/wiki/Istmia",
       "extract": "Istmia es un sitio arqueológico, antiguo santuario de Poseidón, situado al noreste del Peloponeso (Grecia) cerca del istmo de Corinto, donde en la Antigüedad tenían lugar los Juegos Ístmicos."
+    }
+  },
+  "italy": {
+    "title": "Italy",
+    "url": "https://en.wikipedia.org/wiki/Italy",
+    "extract": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula, which extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia. Italy shares land borders with France to the west; Switzerland and Austria to the north; Slovenia to the east; and the two enclaves of Vatican City and San Marino. It is the tenth-largest country in Europe by area, covering 301,340 km2 (116,350 sq mi), and the third-most populous member state of the European Union, with nearly 59 million inhabitants. Rome is the capital of Italy; other major cities include Milan, Naples, Turin, Palermo, Bologna, Florence, Genoa, Bari, and Venice.",
+    "description": "Country in Southern and Western Europe",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/330px-Flag_of_Italy.svg.png",
+    "lat": 43,
+    "lon": 12,
+    "es": {
+      "title": "Italia",
+      "url": "https://es.wikipedia.org/wiki/Italia",
+      "extract": "Italia, oficialmente la República Italiana, es un país soberano ubicado en Europa meridional, y uno de los \nveintisiete Estados miembros de la Unión Europea. Está constituido en una república parlamentaria compuesta por veinte regiones, integradas a su vez por ciento diez provincias. Su capital y ciudad más poblada es Roma. Aunque casi todo su territorio se encuentra en el continente europeo, Italia es un país transcontinental: pues a él pertenecen algunas pequeñas islas africanas, próximas a la costa de Túnez."
     }
   },
   "jabalia": {
@@ -10508,6 +10578,20 @@
       "extract": "Soweto es un área urbana situada 24 km al suroeste de Johannesburgo, en la provincia de Gauteng, Sudáfrica."
     }
   },
+  "spain": {
+    "title": "Spain",
+    "url": "https://en.wikipedia.org/wiki/Spain",
+    "extract": "Spain, officially the Kingdom of Spain, is a country in Southern and Western Europe with territories in North Africa. Featuring the southernmost point of continental Europe, it is the largest country in Southern Europe and the fourth-most populous European Union (EU) member state. Spanning the majority of the Iberian Peninsula, its territory also includes the Canary Islands, in the Eastern Atlantic Ocean; the Balearic Islands, in the Western Mediterranean Sea; and the autonomous cities of Ceuta and Melilla, in mainland Africa. Spain is bordered to the north by France, Andorra, and the Bay of Biscay; to the east and south by the Mediterranean Sea, Gibraltar and Morocco ; and to the west by Portugal and the Atlantic Ocean. Spain's capital and largest city is Madrid; other major urban areas include Barcelona, Valencia, Zaragoza, Seville, Bilbao, Málaga, Murcia, Palma de Mallorca and Las Palmas.",
+    "description": "Country in Southern and Western Europe",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/330px-Flag_of_the_Kingdom_of_Spain.svg.png",
+    "lat": 40,
+    "lon": -4,
+    "es": {
+      "title": "España",
+      "url": "https://es.wikipedia.org/wiki/Espa%C3%B1a",
+      "extract": "España, formalmente Reino de España, es un país soberano transcontinental situado principalmente en el suroeste de Europa, con territorios en el norte de África. Constituido en un Estado social y Estado de Derecho, su forma de gobierno es la monarquía parlamentaria. Es uno de los veintisiete Estados de la Unión Europea y su capital y ciudad más poblada es Madrid."
+    }
+  },
   "sparta": {
     "title": "Sparta",
     "url": "https://en.wikipedia.org/wiki/Sparta",
@@ -10788,6 +10872,20 @@
       "title": "Susa",
       "url": "https://es.wikipedia.org/wiki/Susa",
       "extract": "Susa era una antigua ciudad de los imperios iraníes protoelamita, elamita, primer imperio persa, seleúcida y parto, y una de las ciudades más importantes del Antiguo Oriente Próximo. Se encuentra situada en la parte inferior de los montes Zagros a unos 250 km al este del río Tigris, entre los ríos Karkheh y Dez, en el sudoeste del actual Irán."
+    }
+  },
+  "sweden": {
+    "title": "Sweden",
+    "url": "https://en.wikipedia.org/wiki/Sweden",
+    "extract": "Sweden, formally the Kingdom of Sweden, is a Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, Finland to the east, and shares a maritime border with Denmark to the south. At 450,295 square kilometres (173,860 sq mi) and with a population of 10.6 million, Sweden is the largest and most populous Nordic country, and is the fifth-largest country in Europe. Its capital and largest city is Stockholm. The population density is 25.5 inhabitants per square kilometre (66/sq mi), and 88% of Swedes reside in urban areas, mostly in the southern and central portions of the country. Sweden's urban areas together cover 1.5% of its land area. Sweden has a diverse climate owing to the length of the country, which ranges from 55°N to 69°N.",
+    "description": "Country in Northern Europe",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/330px-Flag_of_Sweden.svg.png",
+    "lat": 63,
+    "lon": 16,
+    "es": {
+      "title": "Suecia",
+      "url": "https://es.wikipedia.org/wiki/Suecia",
+      "extract": "Suecia, oficialmente el Reino de Suecia, es un país escandinavo de Europa del Norte, constituido en estado social y democrático, con la monarquía parlamentaria como sistema de gobierno. Es uno de los veintisiete Estados soberanos que forman la Unión Europea. Limita al norte con Noruega y Finlandia, al este con Finlandia y el golfo de Botnia, al sur con el mar Báltico y al oeste con el mar del Norte y Noruega. Tiene fronteras terrestres con Noruega y Finlandia, y está conectado a Dinamarca por el puente de Øresund. Su capital es Estocolmo, que es también su ciudad más poblada."
     }
   },
   "syracuse": {

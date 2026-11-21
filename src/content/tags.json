@@ -972,6 +972,20 @@
       }
     }
   },
+  "covid-19": {
+    "label": "COVID-19",
+    "color": "#2e8b57",
+    "description": "The COVID-19 pandemic (2019-2023): the emergence of SARS-CoV-2, lockdowns and other public-health measures, vaccines and variants, and the economic and political consequences.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "COVID-19",
+        "description": "La pandemia de COVID-19 (2019-2023): la aparición del SARS-CoV-2, los confinamientos y otras medidas de salud pública, las vacunas y variantes, y las consecuencias económicas y políticas."
+      }
+    }
+  },
   "crimea": {
     "label": "Crimea",
     "color": "#1f9e8f",
@@ -1259,6 +1273,20 @@
       "es": {
         "label": "Bloque del Este",
         "description": "Los Estados comunistas de Europa central y oriental bajo influencia soviética después de 1945, y las instituciones que los ataron a Moscú."
+      }
+    }
+  },
+  "economy": {
+    "label": "Economy",
+    "color": "#00a6a6",
+    "description": "Economic crises, recoveries and policy: recessions, central banks, stimulus, trade and employment.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Economía",
+        "description": "Crisis económicas, recuperaciones y políticas: recesiones, bancos centrales, estímulos, comercio y empleo."
       }
     }
   },
@@ -3274,6 +3302,20 @@
       "es": {
         "label": "Palestinos",
         "description": "El pueblo árabe de Palestina, su desplazamiento en 1948, su vida bajo ocupación y su movimiento nacional."
+      }
+    }
+  },
+  "pandemic": {
+    "label": "Pandemics",
+    "color": "#8e5ea2",
+    "description": "Epidemics that spread across continents, from the plague and cholera to influenza and COVID-19, and how societies responded to them.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Pandemias",
+        "description": "Epidemias que se extienden por varios continentes, desde la peste y el cólera hasta la gripe y la COVID-19, y cómo respondieron las sociedades."
       }
     }
   },

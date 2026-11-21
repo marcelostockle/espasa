@@ -2519,6 +2519,15 @@
       }
     }
   },
+  "france": {
+    "label": "France",
+    "wikipedia": "France",
+    "translations": {
+      "es": {
+        "label": "Francia"
+      }
+    }
+  },
   "frankfurt": {
     "label": "Frankfurt",
     "wikipedia": "Frankfurt",
@@ -2699,6 +2708,15 @@
       }
     }
   },
+  "germany": {
+    "label": "Germany",
+    "wikipedia": "Germany",
+    "translations": {
+      "es": {
+        "label": "Alemania"
+      }
+    }
+  },
   "gettysburg-pennsylvania": {
     "label": "Gettysburg, Pennsylvania",
     "wikipedia": "Gettysburg, Pennsylvania",
@@ -2831,6 +2849,15 @@
     "translations": {
       "es": {
         "label": "Graz"
+      }
+    }
+  },
+  "great-barrington-massachusetts": {
+    "label": "Great Barrington, Massachusetts",
+    "wikipedia": "Great Barrington, Massachusetts",
+    "translations": {
+      "es": {
+        "label": "Great Barrington (Massachusetts)"
       }
     }
   },
@@ -3275,6 +3302,15 @@
       }
     }
   },
+  "india": {
+    "label": "India",
+    "wikipedia": "India",
+    "translations": {
+      "es": {
+        "label": "India"
+      }
+    }
+  },
   "indian-territory": {
     "label": "Indian Territory",
     "wikipedia": "Indian Territory",
@@ -3335,6 +3371,15 @@
     "translations": {
       "es": {
         "label": "Istmia"
+      }
+    }
+  },
+  "italy": {
+    "label": "Italy",
+    "wikipedia": "Italy",
+    "translations": {
+      "es": {
+        "label": "Italia"
       }
     }
   },
@@ -6938,6 +6983,15 @@
       }
     }
   },
+  "spain": {
+    "label": "Spain",
+    "wikipedia": "Spain",
+    "translations": {
+      "es": {
+        "label": "España"
+      }
+    }
+  },
   "sparta": {
     "label": "Sparta",
     "wikipedia": "Sparta",
@@ -7124,6 +7178,15 @@
     "translations": {
       "es": {
         "label": "Susa"
+      }
+    }
+  },
+  "sweden": {
+    "label": "Sweden",
+    "wikipedia": "Sweden",
+    "translations": {
+      "es": {
+        "label": "Suecia"
       }
     }
   },
