@@ -1997,6 +1997,15 @@
       }
     }
   },
+  "donbas": {
+    "label": "Donbas",
+    "wikipedia": "Donbas",
+    "translations": {
+      "es": {
+        "label": "Donbás"
+      }
+    }
+  },
   "dordrecht": {
     "label": "Dordrecht",
     "wikipedia": "Dordrecht",
@@ -3248,6 +3257,15 @@
       }
     }
   },
+  "kerch-strait": {
+    "label": "Kerch Strait",
+    "wikipedia": "Kerch Strait",
+    "translations": {
+      "es": {
+        "label": "Estrecho de Kerch"
+      }
+    }
+  },
   "kfar-etzion": {
     "label": "Kfar Etzion",
     "wikipedia": "Kfar Etzion",
@@ -3263,6 +3281,15 @@
     "translations": {
       "es": {
         "label": "Río Khalkhin Gol"
+      }
+    }
+  },
+  "kharkiv": {
+    "label": "Kharkiv",
+    "wikipedia": "Kharkiv",
+    "translations": {
+      "es": {
+        "label": "Járkov"
       }
     }
   },

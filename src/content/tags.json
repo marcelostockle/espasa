@@ -1219,6 +1219,20 @@
       }
     }
   },
+  "euromaidan": {
+    "label": "Euromaidan",
+    "color": "#2f6fe0",
+    "description": "The 2013-2014 protests in Kyiv against Yanukovych's rejection of the EU deal, the killings, and the fall of his government (also called the Revolution of Dignity).",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Euromaidán",
+        "description": "Las protestas de 2013-2014 en Kiev contra el rechazo de Yanukóvich al pacto con la UE, las muertes y la caída de su gobierno (también llamada Revolución de la Dignidad)."
+      }
+    }
+  },
   "expansionism": {
     "label": "Expansionism",
     "color": "#00c853",
@@ -3605,6 +3619,20 @@
       "es": {
         "label": "Guerra ruso-japonesa",
         "description": "La guerra de 1904-1905 entre Japón y Rusia por Manchuria y Corea, ganada por Japón."
+      }
+    }
+  },
+  "russo-ukrainian-war": {
+    "label": "Russo-Ukrainian War",
+    "color": "#8c2f2f",
+    "description": "The conflict between Russia and Ukraine since 2014: the annexation of Crimea, the Donbas war and the full-scale invasion of 2022 and its aftermath.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Guerra ruso-ucraniana",
+        "description": "El conflicto entre Rusia y Ucrania desde 2014: la anexión de Crimea, la guerra del Donbás y la invasión a gran escala de 2022 y sus consecuencias."
       }
     }
   },

@@ -3027,6 +3027,18 @@
       "extract": "Donauwörth es una ciudad en la región administrativa de Suabia del Estado libre de Baviera, en Alemania."
     }
   },
+  "donbas": {
+    "title": "Donbas",
+    "url": "https://en.wikipedia.org/wiki/Donbas",
+    "extract": "The Donbas or Donbass is a historical, cultural, and economic region on the Russia–Ukraine border, lying predominantly in Ukraine. The vast majority of the Donbas is occupied by Russia as a result of the Russo-Ukrainian war, as the Russian Armed Forces controlled about 90% of the region as of October 2025. At the last census in 2001, the population of the Donbas region of Ukraine was about 58% ethnic Ukrainian and 38% ethnic Russian.",
+    "description": "Region in eastern Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Sviatohirsk_Cave_Monastery_in_Ukraine.jpg/330px-Sviatohirsk_Cave_Monastery_in_Ukraine.jpg",
+    "es": {
+      "title": "Dombás",
+      "url": "https://es.wikipedia.org/wiki/Domb%C3%A1s",
+      "extract": "La cuenca del Donets, abreviada por sus siglas en alfabeto cirílico como Donbas ;, y también conocida como Dombás en español, es una región histórica, cultural y económica de Ucrania, que actualmente está ocupada por Rusia. El nombre adaptado a la ortografía española como «Dombás» es un sustantivo compuesto de Donets y bassein (сuenca), de modo que Dombás significa literalmente «cuenca del Donets»."
+    }
+  },
   "dordrecht": {
     "title": "Dordrecht",
     "url": "https://en.wikipedia.org/wiki/Dordrecht",
@@ -4908,6 +4920,20 @@
       "extract": "El Cerámico es el nombre de un demo, barrio de los alfareros de la antigua Atenas, al noroeste de la Acrópolis.\nSegún Heródoto, su nombre proviene del griego κέραμος keramos, tierra cocida. Para Pausanias, el nombre proviene más bien de Céramo, hijo de Ariadna y de Dioniso."
     }
   },
+  "kerch-strait": {
+    "title": "Kerch Strait",
+    "url": "https://en.wikipedia.org/wiki/Kerch_Strait",
+    "extract": "The Kerch Strait is a strait in Eastern Europe. It connects the Black Sea and the Sea of Azov, separating the Kerch Peninsula of Crimea in the west from the Taman Peninsula of Russia's Krasnodar Krai in the east. The strait is 3.1 kilometres (1.9 mi) to 15 kilometres (9.3 mi) wide and up to 18 metres (59 ft) deep. The most important harbor, the Crimean city of Kerch, gives its name to the strait, formerly known as the Cimmerian Bosporus or Straits of Taman. It has also been called the Straits of Yenikale after the Yeni-Kale fortress in Kerch.",
+    "description": "Strait connecting the Black Sea and the Sea of Azov",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kerch_Strait%2C_Ukraine%2C_Russia%2C_near_natural_colors_satellite_image%2C_LandSat-5%2C_2011-08-30.jpg/330px-Kerch_Strait%2C_Ukraine%2C_Russia%2C_near_natural_colors_satellite_image%2C_LandSat-5%2C_2011-08-30.jpg",
+    "lat": 45.25,
+    "lon": 36.5,
+    "es": {
+      "title": "Estrecho de Kerch",
+      "url": "https://es.wikipedia.org/wiki/Estrecho_de_Kerch",
+      "extract": "El estrecho de Kerch es un estrecho marino que conecta el mar Negro con el mar de Azov, separando las penínsulas de Kerch en Crimea, Ucrania, al oeste, y la de Tamán en Rusia, al este. El estrecho tiene una anchura entre 4.5 y 15 km y 18 metros de profundidad. La ciudad más importante es Kerch."
+    }
+  },
   "kfar-etzion": {
     "title": "Kfar Etzion",
     "url": "https://en.wikipedia.org/wiki/Kfar_Etzion",
@@ -4934,6 +4960,20 @@
       "title": "Río Jalja",
       "url": "https://es.wikipedia.org/wiki/R%C3%ADo_Jalja",
       "extract": "El río Jalja es un río fronterizo entre Mongolia oriental y China septentrional, cuya longitud es de 232 km. Desemboca en el lago Buir, un lago endorreico compartido por ambos países."
+    }
+  },
+  "kharkiv": {
+    "title": "Kharkiv",
+    "url": "https://en.wikipedia.org/wiki/Kharkiv",
+    "extract": "Kharkiv, also known as Kharkov, is the second-largest city in Ukraine. Located in the northeast of the country, it is the largest city of the historic region of Sloboda Ukraine. Kharkiv is the administrative center of Kharkiv Oblast and Kharkiv Raion. Prior to the Russian invasion of Ukraine in early 2022, it had an estimated population of 1,421,125.",
+    "description": "City in Ukraine",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%2830%29_VIEW_ON_PEDESTRIAN_BRIDGE_OVER_KHARKIV_RIVER_IN_CITY_OF_KHARKIV_STATE_OF_UKRAINE_PHOTOGRAPH_BY_VIKTOR_O_LEDENYOV_20160616.jpg/330px-%2830%29_VIEW_ON_PEDESTRIAN_BRIDGE_OVER_KHARKIV_RIVER_IN_CITY_OF_KHARKIV_STATE_OF_UKRAINE_PHOTOGRAPH_BY_VIKTOR_O_LEDENYOV_20160616.jpg",
+    "lat": 49.9925,
+    "lon": 36.23111111,
+    "es": {
+      "title": "Járkov",
+      "url": "https://es.wikipedia.org/wiki/J%C3%A1rkov",
+      "extract": "Járkov, también llamada Járkiv, es la segunda mayor ciudad de Ucrania, con una población estimada (2021) de 1 433 886 habitantes y aproximadamente 2 032 400 en su área metropolitana. Es el centro administrativo del óblast de Járkov y del raión de Járkov."
     }
   },
   "khartoum": {
