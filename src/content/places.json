@@ -4238,6 +4238,15 @@
       }
     }
   },
+  "lyon": {
+    "label": "Lyon",
+    "wikipedia": "Lyon",
+    "translations": {
+      "es": {
+        "label": "Lyon"
+      }
+    }
+  },
   "machaerus": {
     "label": "Machaerus",
     "wikipedia": "Machaerus",
@@ -5048,6 +5057,24 @@
       }
     }
   },
+  "new-brunswick": {
+    "label": "New Brunswick, New Jersey",
+    "wikipedia": "New Brunswick, New Jersey",
+    "translations": {
+      "es": {
+        "label": "New Brunswick (Nueva Jersey)"
+      }
+    }
+  },
+  "new-delhi": {
+    "label": "New Delhi",
+    "wikipedia": "New Delhi",
+    "translations": {
+      "es": {
+        "label": "Nueva Delhi"
+      }
+    }
+  },
   "new-jerusalem-monastery": {
     "label": "New Jerusalem Monastery",
     "wikipedia": "New Jerusalem Monastery",
@@ -5549,6 +5576,15 @@
     "translations": {
       "es": {
         "label": "Pelusio"
+      }
+    }
+  },
+  "peoria": {
+    "label": "Peoria, Illinois",
+    "wikipedia": "Peoria, Illinois",
+    "translations": {
+      "es": {
+        "label": "Peoria (Illinois)"
       }
     }
   },
@@ -8303,6 +8339,15 @@
     "translations": {
       "es": {
         "label": "Wuhan"
+      }
+    }
+  },
+  "wuppertal": {
+    "label": "Wuppertal",
+    "wikipedia": "Wuppertal",
+    "translations": {
+      "es": {
+        "label": "Wuppertal"
       }
     }
   },

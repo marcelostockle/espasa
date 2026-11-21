@@ -113,6 +113,20 @@
       }
     }
   },
+  "antibiotics": {
+    "label": "Antibiotics and resistance",
+    "color": "#e6a23c",
+    "description": "The discovery, development and mass production of antibacterial drugs from Salvarsan and penicillin onward, and the rise of bacterial resistance to them.",
+    "categories": [
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Antibióticos y resistencia",
+        "description": "El descubrimiento, desarrollo y producción masiva de fármacos antibacterianos, desde el Salvarsán y la penicilina en adelante, y el aumento de la resistencia bacteriana a ellos."
+      }
+    }
+  },
   "anwar-sadat": {
     "label": "Anwar Sadat",
     "color": "#8c7a45",

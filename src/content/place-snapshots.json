@@ -6422,6 +6422,20 @@
       "extract": "Leópolis es la ciudad más importante del oeste de Ucrania y la sexta más poblada del país; es centro administrativo de la óblast de Leópolis y centro histórico de la región de Galicia con una población de 717 510 habitantes. Es uno de los centros turísticos, culturales y educativos más importantes del país."
     }
   },
+  "lyon": {
+    "title": "Lyon",
+    "url": "https://en.wikipedia.org/wiki/Lyon",
+    "extract": "Lyon is a city in France. It is located at the confluence of the rivers Rhône and Saône, to the northwest of the French Alps, 391 km (243 mi) southeast of Paris, 278 km (173 mi) north of Marseille, and 113 km (70 mi) southwest of Geneva, Switzerland.",
+    "description": "City in France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lyon-part-dieu-2023.jpg/330px-Lyon-part-dieu-2023.jpg",
+    "lat": 45.7675,
+    "lon": 4.835,
+    "es": {
+      "title": "Lyon",
+      "url": "https://es.wikipedia.org/wiki/Lyon",
+      "extract": "Lyon o Lion, históricamente conocida como León de Francia, es una ciudad ubicada en el sureste de Francia, en la confluencia de los ríos Ródano y Saona. Sede del concejo de la metrópoli de Lyon, es la capital del Distrito de Lyon, ubicado en el departamento del Ródano, en la región de Auvernia-Ródano-Alpes."
+    }
+  },
   "machaerus": {
     "title": "Machaerus",
     "url": "https://en.wikipedia.org/wiki/Machaerus",
@@ -7653,6 +7667,34 @@
       "extract": "Nevada City es un pueblo ubicado en el Estado de California. Es la sede del condado de Nevada. Sus primeros pobladores se establecieron en 1849."
     }
   },
+  "new-brunswick": {
+    "title": "New Brunswick, New Jersey",
+    "url": "https://en.wikipedia.org/wiki/New_Brunswick%2C_New_Jersey",
+    "extract": "New Brunswick is a city in Middlesex County, in the U.S. state of New Jersey. A regional commercial hub for Central New Jersey, the city is both a college town and a commuter town for residents working in New York City within the New York metropolitan area. The New Brunswick station is a major stop for NJ Transit on the Northeast Corridor rail line, 33 miles (53 km) southwest of New York Penn Station in Midtown Manhattan. The city is located on the southern banks of the Raritan River, in the heart of the Raritan Valley region.",
+    "description": "City in Middlesex County, New Jersey, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/New_brunswick_from_the_air_in_February_2026.jpg/330px-New_brunswick_from_the_air_in_February_2026.jpg",
+    "lat": 40.486678,
+    "lon": -74.444414,
+    "es": {
+      "title": "Nuevo Brunswick (Nueva Jersey)",
+      "url": "https://es.wikipedia.org/wiki/Nuevo_Brunswick_(Nueva_Jersey)",
+      "extract": "Nuevo Brunswick es una ciudad en el condado de Middlesex, Nueva Jersey, Estados Unidos. Se encuentra a 50 km al sur de la ciudad de Nueva York, en el banco sur del río Raritan, a 24 km de su desembocadura. La población de Nuevo Brunswick en el censo de 2020 era de 55 266 habitantes. La ciudad es la sede de condado del Condado de Middlesex."
+    }
+  },
+  "new-delhi": {
+    "title": "New Delhi",
+    "url": "https://en.wikipedia.org/wiki/New_Delhi",
+    "extract": "New Delhi is the capital city of India and a part of the National Capital Territory of Delhi (NCT). New Delhi is the seat of all three branches of the Government of India, hosting the Rashtrapati Bhavan, Sansad Bhavan, and the Supreme Court. New Delhi is a municipality within the NCT, administered by the New Delhi Municipal Council (NDMC), which covers mostly Lutyens' Delhi and a few adjacent areas. The municipal area is part of a larger administrative district, the New Delhi district.",
+    "description": "Capital city of India",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/330px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+    "lat": 28.6139,
+    "lon": 77.2089,
+    "es": {
+      "title": "Nueva Delhi",
+      "url": "https://es.wikipedia.org/wiki/Nueva_Delhi",
+      "extract": "Nueva Delhi o Nueva Deli es la capital federal de la República de la India y sede del poder ejecutivo, legislativo y judicial. Es parte del Territorio de la Capital Nacional de Delhi y del distrito de Nueva Delhi."
+    }
+  },
   "new-jerusalem-monastery": {
     "title": "New Jerusalem Monastery",
     "url": "https://en.wikipedia.org/wiki/New_Jerusalem_Monastery",
@@ -8420,6 +8462,20 @@
       "title": "Pelusio",
       "url": "https://es.wikipedia.org/wiki/Pelusio",
       "extract": "Pelusio fue una antigua ciudad del Bajo Egipto, situada en el extremo nordeste del delta del Nilo, en la desembocadura más oriental del Nilo llamada boca Pelusia, conocida como Ostium Pelusiacum. Su nombre egipcio era Per-Amón, Peromi o Sena. Cerca estaba Balouza derivado de Pelusium. Fue la ciudad más importante del este del Bajo Egipto."
+    }
+  },
+  "peoria": {
+    "title": "Peoria, Illinois",
+    "url": "https://en.wikipedia.org/wiki/Peoria%2C_Illinois",
+    "extract": "Peoria is a city in Peoria County, Illinois, United States, and its county seat. Located on the Illinois River, the city had a population of 113,150 as of the 2020 census, making it the eighth-most populous city in Illinois. It is the principal city of the Peoria metropolitan area in Central Illinois, consisting of Fulton, Marshall, Peoria, Stark, Tazewell, and Woodford counties and had a combined population of 402,391 in 2020.",
+    "description": "City in Illinois, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Peoria_City_Hall.JPG/330px-Peoria_City_Hall.JPG",
+    "lat": 40.69277778,
+    "lon": -89.59055556,
+    "es": {
+      "title": "Peoria (Illinois)",
+      "url": "https://es.wikipedia.org/wiki/Peoria_(Illinois)",
+      "extract": "Peoria es una ciudad ubicada en el condado de Peoria en el estado estadounidense de Illinois. En el Censo de 2010 tenía una población de 115 007 habitantes y una densidad poblacional de 884,08 personas por km². Se encuentra sobre la orilla derecha del río Illinois."
     }
   },
   "pereiaslav": {
@@ -12571,6 +12627,20 @@
       "title": "Wuhan",
       "url": "https://es.wikipedia.org/wiki/Wuhan",
       "extract": "Wuhan es la capital de la provincia de Hubei y la ciudad más poblada en la zona central de la República Popular China. Está localizada en la confluencia de los ríos Yangtsé y Han. Tiene una población aproximada de 11 millones de habitantes en un área de 8467 km² cuando se incluye el área metropolitana."
+    }
+  },
+  "wuppertal": {
+    "title": "Wuppertal",
+    "url": "https://en.wikipedia.org/wiki/Wuppertal",
+    "extract": "Wuppertal is a city in North Rhine-Westphalia, in western Germany, with a population of 355,000. Wuppertal is the seventh-largest city in North Rhine-Westphalia and 17th-largest in Germany. It was founded in 1929 by the merger of Elberfeld, Barmen, Ronsdorf, Cronenberg and Vohwinkel, and was initially called \"Barmen-Elberfeld\" before adopting its present name in 1930. It is the capital and largest city of the Bergisches Land.",
+    "description": "City in North Rhine-Westphalia, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Wuppertal_ansicht.jpg/330px-Wuppertal_ansicht.jpg",
+    "lat": 51.26666667,
+    "lon": 7.18333333,
+    "es": {
+      "title": "Wuppertal",
+      "url": "https://es.wikipedia.org/wiki/Wuppertal",
+      "extract": "Wuppertal es una ciudad de Alemania, perteneciente al estado federado de Renania del Norte-Westfalia."
     }
   },
   "wurzburg": {
