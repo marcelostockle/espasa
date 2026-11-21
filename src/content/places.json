@@ -521,6 +521,15 @@
       }
     }
   },
+  "austin-texas": {
+    "label": "Austin, Texas",
+    "wikipedia": "Austin, Texas",
+    "translations": {
+      "es": {
+        "label": "Austin (Texas)"
+      }
+    }
+  },
   "aventine": {
     "label": "Aventine Hill",
     "wikipedia": "Aventine Hill",
@@ -860,6 +869,15 @@
     "translations": {
       "es": {
         "label": "Bet Horón"
+      }
+    }
+  },
+  "bethesda": {
+    "label": "Bethesda",
+    "wikipedia": "Bethesda, Maryland",
+    "translations": {
+      "es": {
+        "label": "Bethesda"
       }
     }
   },
@@ -1616,6 +1634,15 @@
     "translations": {
       "es": {
         "label": "Coímbra"
+      }
+    }
+  },
+  "cold-spring-harbor": {
+    "label": "Cold Spring Harbor",
+    "wikipedia": "Cold Spring Harbor, New York",
+    "translations": {
+      "es": {
+        "label": "Cold Spring Harbor"
       }
     }
   },
@@ -3005,6 +3032,15 @@
       }
     }
   },
+  "hyncice": {
+    "label": "Hynčice (Heinzendorf)",
+    "wikipedia": "Hynčice (Vražné)",
+    "translations": {
+      "es": {
+        "label": "Hynčice (Heinzendorf)"
+      }
+    }
+  },
   "idumea": {
     "label": "Idumea",
     "wikipedia": "Idumaea",
@@ -3686,6 +3722,15 @@
     "translations": {
       "es": {
         "label": "Lesbos"
+      }
+    }
+  },
+  "lexington-kentucky": {
+    "label": "Lexington, Kentucky",
+    "wikipedia": "Lexington, Kentucky",
+    "translations": {
+      "es": {
+        "label": "Lexington (Kentucky)"
       }
     }
   },
@@ -5039,6 +5084,15 @@
       }
     }
   },
+  "pasadena": {
+    "label": "Pasadena",
+    "wikipedia": "Pasadena, California",
+    "translations": {
+      "es": {
+        "label": "Pasadena"
+      }
+    }
+  },
   "passy-haute-savoie": {
     "label": "Passy, Haute-Savoie",
     "wikipedia": "Passy, Haute-Savoie",
@@ -5738,6 +5792,15 @@
     "translations": {
       "es": {
         "label": "Isla Robben"
+      }
+    }
+  },
+  "rockefeller-university": {
+    "label": "Rockefeller Institute, New York",
+    "wikipedia": "Rockefeller University",
+    "translations": {
+      "es": {
+        "label": "Instituto Rockefeller, Nueva York"
       }
     }
   },
@@ -6551,12 +6614,30 @@
       }
     }
   },
+  "st-thomas-abbey-brno": {
+    "label": "St Thomas's Abbey, Brno",
+    "wikipedia": "St Thomas's Abbey, Brno",
+    "translations": {
+      "es": {
+        "label": "Abadía de Santo Tomás, Brno"
+      }
+    }
+  },
   "stadtlohn": {
     "label": "Stadtlohn",
     "wikipedia": "Stadtlohn",
     "translations": {
       "es": {
         "label": "Stadtlohn"
+      }
+    }
+  },
+  "stanford-university": {
+    "label": "Stanford University",
+    "wikipedia": "Stanford University",
+    "translations": {
+      "es": {
+        "label": "Universidad Stanford"
       }
     }
   },
@@ -7133,6 +7214,15 @@
     "translations": {
       "es": {
         "label": "Estrecho de Tsushima"
+      }
+    }
+  },
+  "tubingen": {
+    "label": "Tübingen",
+    "wikipedia": "Tübingen",
+    "translations": {
+      "es": {
+        "label": "Tubinga"
       }
     }
   },

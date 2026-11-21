@@ -790,6 +790,20 @@
       "extract": "El complejo Auschwitz estuvo formado por diversos campos de concentración y exterminio de la Alemania nazi en los territorios polacos ocupados durante la Segunda Guerra Mundial. Comprendía Auschwitz I —campo original—, Auschwitz II-Birkenau —campo de concentración y exterminio—, Auschwitz III-Monowitz —campo de trabajo para la IG Farben— y 45 campos satélites más. Su denominación oficial en alemán es «Konzentrationslager Auschwitz»."
     }
   },
+  "austin-texas": {
+    "title": "Austin, Texas",
+    "url": "https://en.wikipedia.org/wiki/Austin%2C_Texas",
+    "extract": "Austin is the capital city of the U.S. state of Texas. With a population of 961,855 at the 2020 census, it is the 12th-most populous city in the U.S., fifth-most populous city in Texas, and second-most populous U.S. state capital, while the Austin metro area with an estimated 2.55 million residents is the 25th-largest metropolitan area in the nation. Austin is the county seat and most populous city of Travis County, with portions extending into Hays and Williamson counties. Incorporated on December 27, 1839, it has been one of the fastest-growing large cities in the United States since 2010.",
+    "description": "Capital city of Texas, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Skyline_of_Austin%2C_Texas_%28cropped%29.jpg/330px-Skyline_of_Austin%2C_Texas_%28cropped%29.jpg",
+    "lat": 30.26722222,
+    "lon": -97.74305556,
+    "es": {
+      "title": "Austin",
+      "url": "https://es.wikipedia.org/wiki/Austin",
+      "extract": "Austin es la capital del estado estadounidense de Texas y del condado de Travis. Localizada en el suroeste de Estados Unidos, concretamente en Texas Central, es la 11.º ciudad más poblada en los Estados Unidos y la 4.º más grande en el estado de Texas. Fue la tercera ciudad en crecimiento poblacional en los Estados Unidos entre 2000 y 2006. Austin es también la segunda capital estatal más grande de Estados Unidos. Para julio de 2012, tenía una población de más de un millón de habitantes."
+    }
+  },
   "aventine": {
     "title": "Aventine Hill",
     "url": "https://en.wikipedia.org/wiki/Aventine_Hill",
@@ -1304,6 +1318,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bethoron_Elyon_-_Upper_Bethoron_1880.jpg/330px-Bethoron_Elyon_-_Upper_Bethoron_1880.jpg",
     "lat": 31.87722222,
     "lon": 35.11861111
+  },
+  "bethesda": {
+    "title": "Bethesda, Maryland",
+    "url": "https://en.wikipedia.org/wiki/Bethesda%2C_Maryland",
+    "extract": "Bethesda is an unincorporated, census-designated place in southern Montgomery County, Maryland, United States. Located just northwest of Washington, D.C., it is a major business and government center of the Washington metropolitan region and a national center for medical research. According to the 2020 census, the community had a population of 68,056.",
+    "description": "Census-designated place in Maryland, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Bethesda_Montage.jpg/330px-Bethesda_Montage.jpg",
+    "lat": 38.98472222,
+    "lon": -77.11305556,
+    "es": {
+      "title": "Bethesda (Maryland)",
+      "url": "https://es.wikipedia.org/wiki/Bethesda_(Maryland)",
+      "extract": "Bethesda es un área no incorporada y un lugar designado por el censo al sur del condado de Montgomery en el estado de Maryland, en los Estados Unidos. Es un suburbio al noroeste de Washington D. C.. Toma su nombre de una iglesia presbiteriana local, la Bethesda Meeting House, que a su vez tomó su nombre del Estanque de Betesda en Jerusalén. El campus principal de los Institutos Nacionales de Salud (NIH) y el Centro Médico Militar Nacional Walter Reed se ubican en la localidad, además de una serie de sedes corporativas y gubernamentales."
+    }
   },
   "bethlehem": {
     "title": "Bethlehem",
@@ -2447,6 +2475,20 @@
       "title": "Coímbra",
       "url": "https://es.wikipedia.org/wiki/Co%C3%ADmbra",
       "extract": "Coímbra es una ciudad portuguesa, capital del distrito homónimo, en Beira Litoral, situada en la Región Centro y comunidad intermunicipal de Coímbra. Cuenta con 143 396 habitantes, de acuerdo con el censo de 2011."
+    }
+  },
+  "cold-spring-harbor": {
+    "title": "Cold Spring Harbor, New York",
+    "url": "https://en.wikipedia.org/wiki/Cold_Spring_Harbor%2C_New_York",
+    "extract": "Cold Spring Harbor is a hamlet and census-designated place (CDP) in the Town of Huntington, in Suffolk County, on the North Shore of Long Island in New York. As of the 2020 census, Cold Spring Harbor had a population of 3,064.",
+    "description": "Hamlet and census-designated place in New York, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cold_Spring_Harbor%2C_NY_Post_Office%3B_11724.jpg/330px-Cold_Spring_Harbor%2C_NY_Post_Office%3B_11724.jpg",
+    "lat": 40.86666667,
+    "lon": -73.45,
+    "es": {
+      "title": "Cold Spring Harbor (Nueva York)",
+      "url": "https://es.wikipedia.org/wiki/Cold_Spring_Harbor_(Nueva_York)",
+      "extract": "Cold Spring Harbor es un lugar designado por el censo ubicado en el condado de Suffolk en el estado estadounidense de Nueva York. En el año 2000 tenía una población de 4.975 habitantes y una densidad poblacional de 516 personas por km²."
     }
   },
   "colline-gate": {
@@ -4545,6 +4587,20 @@
       "extract": "El río Jhelum es el río más grande y más occidental de los ríos del Panyab pakistaní. Atraviesa el distrito homónimo de Jhelum. Es uno de los afluentes del río Indo y tiene una longitud de cerca de 772 km.Vyeth; en cachemir\nझेलम en idioma hindí\nਜੇਹਲਮ en panyabí\nਜੇਹਲਮ en gurmukhí\nدریاۓ جہلم en shahmukhí"
     }
   },
+  "hyncice": {
+    "title": "Hynčice (Vražné)",
+    "url": "https://en.wikipedia.org/wiki/Hyn%C4%8Dice_(Vra%C5%BEn%C3%A9)",
+    "extract": "Hynčice is a Silesian village, administratively part of Vražné municipality, located about 13 km west of Nový Jičín in Moravian-Silesian Region, today part of the Czech Republic. As of the 2021 census, the village reported a population of 197, marking a 15% decline from the 2001 census figure of 232. The name of the village is thought to derive from the given name Hynek. This village is well known for being the birthplace of geneticist Gregor Mendel.",
+    "description": "Place in Czech Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Hyn%C4%8Dice_%28Vra%C5%BEn%C3%A9%29%2C_rodn%C3%BD_d%C5%AFm_G._Mendla.jpg/330px-Hyn%C4%8Dice_%28Vra%C5%BEn%C3%A9%29%2C_rodn%C3%BD_d%C5%AFm_G._Mendla.jpg",
+    "lat": 49.61888889,
+    "lon": 17.83527778,
+    "es": {
+      "title": "Hynčice",
+      "url": "https://es.wikipedia.org/wiki/Hyn%C4%8Dice",
+      "extract": "Hynčice es un pueblo de la República Checa."
+    }
+  },
   "idumea": {
     "title": "Edom",
     "url": "https://en.wikipedia.org/wiki/Edom",
@@ -5581,6 +5637,20 @@
       "title": "Lesbos",
       "url": "https://es.wikipedia.org/wiki/Lesbos",
       "extract": "Lesbos es una isla griega que forma parte de un gran conjunto de islas cercanas a la costa de Turquía. Su capital es Mitilene. Junto a algunas islas menores, constituye la unidad periférica de Lesbos, siendo su isla homónima la más grande e importante del archipiélago."
+    }
+  },
+  "lexington-kentucky": {
+    "title": "Lexington, Kentucky",
+    "url": "https://en.wikipedia.org/wiki/Lexington%2C_Kentucky",
+    "extract": "Lexington is a consolidated city coterminous with Fayette County, Kentucky, United States, of which it is also the county seat. As of the 2020 census the city's population was 322,570, making it the second-most populous city in Kentucky, the 14th-most populous city in the Southeast, and the 59th-most populous city in the United States. By area, it is the country's 33rd-largest city.",
+    "description": "City in Kentucky, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/LexingtonDowntown.JPG/330px-LexingtonDowntown.JPG",
+    "lat": 38.04638889,
+    "lon": -84.49694444,
+    "es": {
+      "title": "Lexington (Kentucky)",
+      "url": "https://es.wikipedia.org/wiki/Lexington_(Kentucky)",
+      "extract": "Lexington es la segunda ciudad más poblada de Kentucky y la 69.ª en todo Estados Unidos. Se localiza en la región conocida como blue grass —literalmente «hierba azul»—, una variedad local en el condado de Fayette. Fue fundada en 1775, cuando el área era parte de Virginia —en 1792 una parte de Virginia fue escindida formando el nuevo estado de Kentucky—. Su nombre fue tomada de Lexington, Massachusetts, sitio de la primera batalla de la guerra de Independencia de los Estados Unidos, también de 1775."
     }
   },
   "lexington-massachusetts": {
@@ -7635,6 +7705,20 @@
       "extract": "Partia es una región histórica situada en el noreste de Irán. Fue conquistada y subyugada por el imperio de los medos durante el siglo VII a. C., fue incorporada al posterior imperio aqueménida bajo Ciro el Grande en el siglo VI a. C., y formó parte del Imperio seléucida tras las conquistas de Alejandro Magno en el siglo IV a. C.. Más tarde la región sirvió como base política y cultural de los parnos y de la dinastía arsácida, gobernantes del imperio parto (247 a. C.-224 d. C.). El imperio sasánida, el último estado del Irán preislámico, también dominó la región y mantuvo a los siete clanes partos como parte de su aristocracia feudal."
     }
   },
+  "pasadena": {
+    "title": "Pasadena, California",
+    "url": "https://en.wikipedia.org/wiki/Pasadena%2C_California",
+    "extract": "Pasadena is a city in Los Angeles County, California, United States, 10 miles (16 km) northeast of downtown Los Angeles. It is the primary cultural center of the San Gabriel Valley. Old Pasadena is the city's original commercial district.",
+    "description": "City in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Pasadena_City_Hall_David_Wakely_%28cropped%29.jpg/330px-Pasadena_City_Hall_David_Wakely_%28cropped%29.jpg",
+    "lat": 34.1475,
+    "lon": -118.1439,
+    "es": {
+      "title": "Pasadena (California)",
+      "url": "https://es.wikipedia.org/wiki/Pasadena_(California)",
+      "extract": "Pasadena, fundada en 1874, es una ciudad de Estados Unidos del condado de Los Ángeles en el estado estadounidense de California. En 2009 tenía una población de 143 667 habitantes y una densidad poblacional de 2477,1 personas por kilómetro cuadrado. Es la sexta ciudad más grande del condado."
+    }
+  },
   "passy-haute-savoie": {
     "title": "Passy, Haute-Savoie",
     "url": "https://en.wikipedia.org/wiki/Passy%2C_Haute-Savoie",
@@ -8686,6 +8770,20 @@
       "title": "Isla Robben",
       "url": "https://es.wikipedia.org/wiki/Isla_Robben",
       "extract": "La isla Robben es una isla en Table Bay, a 12 km de la costa de Ciudad del Cabo, la provincia Occidental del Cabo, Sudáfrica. El nombre en neerlandés significa ‘isla de las focas’."
+    }
+  },
+  "rockefeller-university": {
+    "title": "Rockefeller University",
+    "url": "https://en.wikipedia.org/wiki/Rockefeller_University",
+    "extract": "The Rockefeller University is a private biomedical research and graduate-only university in New York City, United States. It focuses primarily on the biological and medical sciences and provides doctoral and postdoctoral education. It is classified as a \"Special Focus – Research Institution\". Rockefeller is the oldest biomedical research institute in the United States.",
+    "description": "Research university in New York City",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/47/Rockefeller_University_seal.svg/330px-Rockefeller_University_seal.svg.png",
+    "lat": 40.7625,
+    "lon": -73.95555556,
+    "es": {
+      "title": "Universidad Rockefeller",
+      "url": "https://es.wikipedia.org/wiki/Universidad_Rockefeller",
+      "extract": "La Universidad Rockefeller está localizada en la zona este de la isla de Manhattan en Nueva York. Es una universidad pequeña dedicada a las ciencias biomédicas, la más antigua institución de este tipo en el continente americano. El Instituto Rockefeller para la Investigación Médica, precursor de la universidad, fue fundado en 1901 por John D. Rockefeller, quien anteriormente había fundado la Universidad de Chicago. El Instituto cambió su nombre a universidad en 1965 al incluir entre sus fines la enseñanza."
     }
   },
   "rocroi": {
@@ -9912,6 +10010,20 @@
       "extract": "La basílica papal de San Pedro, conocida comúnmente como basílica de San Pedro, es un templo católico situado en la Ciudad del Vaticano."
     }
   },
+  "st-thomas-abbey-brno": {
+    "title": "St Thomas's Abbey, Brno",
+    "url": "https://en.wikipedia.org/wiki/St_Thomas's_Abbey%2C_Brno",
+    "extract": "St Thomas's Abbey is an Augustinian abbey and church located in Brno in the Czech Republic. The geneticist and abbot Gregor Mendel was its most famous religious leader to date, who between 1856 and 1863 conducted his experiments on pea plants in the monastery garden. His experiments brought forth two generalizations which later became known as Mendel's Laws of Inheritance.",
+    "description": "Augustinian monastery in Brno, Czech Republic",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Bazilika_nanebevzet%C3%AD_panny_Marie.jpg/330px-Bazilika_nanebevzet%C3%AD_panny_Marie.jpg",
+    "lat": 49.19083333,
+    "lon": 16.59305556,
+    "es": {
+      "title": "Abadía de Santo Tomás de Brno",
+      "url": "https://es.wikipedia.org/wiki/Abad%C3%ADa_de_Santo_Tom%C3%A1s_de_Brno",
+      "extract": "La abadía de Santo Tomás es un monasterio de los agustinos (OSA.), situado en Brno, en la República Checa. Allí vivió y trabajó el genetista y abad Gregor Mendel, que entre 1856 y 1863 llevó a cabo, en las huertas de la abadía, sus famosos experimentos con guisantes, que le llevaron a proponer lo que después se conocieron como leyes de la herencia de Mendel. Es la única abadía agustiniana en el mundo. Alberga un museo dedicado a Mendel. La iglesia está dedicada a la Asunción de la Virgen María."
+    }
+  },
   "stadtlohn": {
     "title": "Stadtlohn",
     "url": "https://en.wikipedia.org/wiki/Stadtlohn",
@@ -9924,6 +10036,20 @@
       "title": "Stadtlohn",
       "url": "https://es.wikipedia.org/wiki/Stadtlohn",
       "extract": "Stadtlohn es una ciudad en el noroeste de Renania del Norte-Westfalia, Alemania, parte del distrito Borken. El río Berkel fluye a través de ella hacia los Países Bajos."
+    }
+  },
+  "stanford-university": {
+    "title": "Stanford University",
+    "url": "https://en.wikipedia.org/wiki/Stanford_University",
+    "extract": "Leland Stanford Junior University, commonly referred to as Stanford University, is a private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Leland Stanford and his wife, Jane, in memory of their only child, Leland Stanford Jr., who died from typhoid at the age of 15.",
+    "description": "Private university in California, US",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/330px-Seal_of_Leland_Stanford_Junior_University.svg.png",
+    "lat": 37.4275,
+    "lon": -122.17027778,
+    "es": {
+      "title": "Universidad Stanford",
+      "url": "https://es.wikipedia.org/wiki/Universidad_Stanford",
+      "extract": "La Universidad Leland Stanford Junior, conocida simplemente como Universidad Stanford, es una universidad privada estadounidense ubicada en Stanford (California), a unos 56 km al sureste de San Francisco. Stanford es célebre por la calidad de su enseñanza y su proximidad a Silicon Valley, cuna de algunas de las más importantes empresas de tecnología de punta. Es considerada como una de las diez mejores universidades del mundo."
     }
   },
   "stary-targ": {
@@ -10801,6 +10927,20 @@
       "title": "Estrecho de Tsushima",
       "url": "https://es.wikipedia.org/wiki/Estrecho_de_Tsushima",
       "extract": "El estrecho del Este, o estrecho de Tsushima , también conocido como estrecho de Tsu Shima o estrecho de Tsu-Shima, es el canal oriental del estrecho de Corea, que se encuentra entre el extremo meridional de la península de Corea y las islas japonesas de Honshū y Kyūshū, conectando el mar del Japón con el mar de China Oriental."
+    }
+  },
+  "tubingen": {
+    "title": "Tübingen",
+    "url": "https://en.wikipedia.org/wiki/T%C3%BCbingen",
+    "extract": "Tübingen is a traditional university city in central Baden-Württemberg, Germany, 30 km (19 mi) south of the state capital, Stuttgart. With students accounting for almost one in three of Tübingen's 90,000 residents, the city has one of the youngest profiles in Germany, with an average age of just under 40.",
+    "description": "City in Baden-Württemberg, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Altstadt-tuebingen-1.jpg/330px-Altstadt-tuebingen-1.jpg",
+    "lat": 48.52,
+    "lon": 9.05555556,
+    "es": {
+      "title": "Tubinga",
+      "url": "https://es.wikipedia.org/wiki/Tubinga",
+      "extract": "Tubinga es una ciudad universitaria rica en tradiciones, situada a orillas del río Neckar, y casi 40 km al sur de Stuttgart, en el estado federado alemán de Baden-Wurtemberg. La ciudad es la sede administrativa del distrito de Tubinga y el distrito gubernamental del mismo nombre y fue la capital de Württemberg-Hohenzollern de 1947 a 1952. Pertenece a la región de Neckar-Alb y la región metropolitana europea de Stuttgart. Junto con la ciudad vecina de Reutlingen, forma uno de los 14 centros regionales del país."
     }
   },
   "tucuman": {

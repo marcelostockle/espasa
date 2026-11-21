@@ -1530,6 +1530,20 @@
       }
     }
   },
+  "genetics": {
+    "label": "Genetics",
+    "color": "#6fbf73",
+    "description": "The science of heredity: from Mendel's pea crosses and the chromosome theory to DNA as the carrier of genes, the genetic code and genome sequencing.",
+    "categories": [
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Genética",
+        "description": "La ciencia de la herencia: desde los cruces de guisantes de Mendel y la teoría cromosómica hasta el ADN como portador de los genes, el código genético y la secuenciación de genomas."
+      }
+    }
+  },
   "georgia": {
     "label": "Georgia",
     "color": "#a8363a",
@@ -1627,6 +1641,20 @@
       "es": {
         "label": "Filosofía griega",
         "description": "La filosofía del mundo griego, desde los presocráticos de Jonia hasta Platón, Aristóteles y sus escuelas."
+      }
+    }
+  },
+  "gregor-mendel": {
+    "label": "Gregor Mendel",
+    "color": "#e07fb0",
+    "description": "Augustinian friar and scientist (1822-1884) whose pea-plant experiments in Brno laid down the laws of inheritance.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Gregor Mendel",
+        "description": "Fraile agustino y científico (1822-1884) cuyos experimentos con guisantes en Brno establecieron las leyes de la herencia."
       }
     }
   },
@@ -4303,6 +4331,20 @@
       "es": {
         "label": "Guerra de los Treinta Años",
         "description": "La guerra general europea de 1618-1648, desde la revuelta de Bohemia y la Defenestración de Praga hasta la Paz de Westfalia."
+      }
+    }
+  },
+  "thomas-hunt-morgan": {
+    "label": "Thomas Hunt Morgan",
+    "color": "#3fb8af",
+    "description": "American biologist (1866-1945) whose fruit-fly work at Columbia and Caltech showed that genes lie on chromosomes; Nobel laureate 1933.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Thomas Hunt Morgan",
+        "description": "Biólogo estadounidense (1866-1945) cuyo trabajo con moscas de la fruta en Columbia y Caltech demostró que los genes están en los cromosomas; premio Nobel en 1933."
       }
     }
   },
