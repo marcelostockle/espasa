@@ -587,6 +587,20 @@
       }
     }
   },
+  "buddhism": {
+    "label": "Buddhism",
+    "color": "#e0803a",
+    "description": "Buddhism's spread, institutions, texts and art, with its arrival and growth in China, and the patronage and persecution it faced.",
+    "categories": [
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Budismo",
+        "description": "La difusión, las instituciones, los textos y el arte del budismo, con su llegada y crecimiento en China, y el patrocinio y la persecución que enfrentó."
+      }
+    }
+  },
   "byzantine-empire": {
     "label": "Byzantine Empire",
     "color": "#6a5acd",
@@ -3136,6 +3150,34 @@
       }
     }
   },
+  "northern-and-southern-dynasties": {
+    "label": "Northern and Southern Dynasties",
+    "color": "#4a7c8c",
+    "description": "The division of China between northern dynasties and southern Han-led dynasties (420-589 CE), from the Liu Song and Northern Wei to the Sui reunification.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Dinastías del Norte y del Sur",
+        "description": "La división de China entre dinastías del norte y dinastías del sur dirigidas por los han (420-589 d. C.), desde los Liu Song y los Wei del Norte hasta la reunificación Sui."
+      }
+    }
+  },
+  "northern-wei": {
+    "label": "Northern Wei",
+    "color": "#a0623d",
+    "description": "The Northern Wei dynasty (386-535 CE), founded by the Xianbei Tuoba clan: its unification of the north, Buddhist art and persecution, and sinicization policies.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Wei del Norte",
+        "description": "La dinastía Wei del Norte (386-535 d. C.), fundada por el clan xianbei Tuoba: su unificación del norte, su arte budista y su persecución, y sus políticas de sinización."
+      }
+    }
+  },
   "nuclear-weapons": {
     "label": "Nuclear weapons",
     "color": "#e8c11a",
@@ -4159,6 +4201,20 @@
       "es": {
         "label": "Ruptura chino-soviética",
         "description": "La ruptura de la alianza entre la URSS y la República Popular China desde finales de los años cincuenta, por motivos ideológicos, de liderazgo y de fronteras."
+      }
+    }
+  },
+  "sixteen-kingdoms": {
+    "label": "Sixteen Kingdoms",
+    "color": "#6b5b95",
+    "description": "The fragmentation of northern China into short-lived states, many founded by Xiongnu, Xianbei, Di, Jie and Qiang leaders (304-439 CE), after the fall of the Western Jin.",
+    "categories": [
+      "States"
+    ],
+    "translations": {
+      "es": {
+        "label": "Dieciséis Reinos",
+        "description": "La fragmentación del norte de China en Estados efímeros, muchos fundados por caudillos xiongnu, xianbei, di, jie y qiang (304-439 d. C.), tras la caída de los Jin Occidentales."
       }
     }
   },

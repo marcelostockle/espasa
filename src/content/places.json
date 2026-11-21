@@ -6704,6 +6704,15 @@
       }
     }
   },
+  "shaoxing": {
+    "label": "Shaoxing",
+    "wikipedia": "Shaoxing",
+    "translations": {
+      "es": {
+        "label": "Shaoxing"
+      }
+    }
+  },
   "sharpeville": {
     "label": "Sharpeville",
     "wikipedia": "Sharpeville",
@@ -8312,6 +8321,15 @@
     "translations": {
       "es": {
         "label": "Yorktown (Virginia)"
+      }
+    }
+  },
+  "yungang-grottoes": {
+    "label": "Yungang Grottoes",
+    "wikipedia": "Yungang Grottoes",
+    "translations": {
+      "es": {
+        "label": "Grutas de Yungang"
       }
     }
   },

@@ -10152,6 +10152,20 @@
       "extract": "Shanghái es la ciudad más poblada de China y una de las más grandes del mundo. Administrativamente, es uno de los cuatro municipios a nivel central. Cuenta con más de 24 millones de habitantes. Situada en la China del Este, Shanghái yace en el delta del río Yangtsé, centrada en la costa del mar de la China Oriental y es administrada al máximo nivel con la categoría de municipio de control directo."
     }
   },
+  "shaoxing": {
+    "title": "Shaoxing",
+    "url": "https://en.wikipedia.org/wiki/Shaoxing",
+    "extract": "Shaoxing is a prefecture-level city on the southern shore of Hangzhou Bay in northeastern Zhejiang province, China. Located on the south bank of the Qiantang River estuary, it borders Ningbo to the east, Taizhou to the southeast, Jinhua to the southwest, and Hangzhou to the west. As of the 2020 census, its population was 5,270,977 inhabitants, among which 2,958,643 lived in the built-up area of Hangzhou–Shaoxing, with a total of 13,035,326 inhabitants.",
+    "description": "Prefecture-level city in Zhejiang, People's Republic of China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg/330px-Shaoxing_Bazi_Qiao_2017.12.09_16-16-06.jpg",
+    "lat": 30.0511,
+    "lon": 120.5833,
+    "es": {
+      "title": "Shaoxing",
+      "url": "https://es.wikipedia.org/wiki/Shaoxing",
+      "extract": "Shaoxing (léase en chino: Sháo-Sing, lit. 'Shao4xing1.ogg' es una ciudad-prefectura en la provincia de Zhejiang, República Popular de China. Limita al norte con el río Qiantang, al sur con Jinhua, al oeste con Hangzhou y al este con Ningbo. Su área es de 8256 km² y su población es cerca de 5 millones. La ciudad se volvió mundialmente famosa por el vino de Shaoxing."
+    }
+  },
   "sharpeville": {
     "title": "Sharpeville",
     "url": "https://en.wikipedia.org/wiki/Sharpeville",
@@ -12580,6 +12594,20 @@
       "title": "Yorktown (Virginia)",
       "url": "https://es.wikipedia.org/wiki/Yorktown_(Virginia)",
       "extract": "Yorktown es un lugar designado por el censo situado en el condado de York, Virginia. Según el censo de 2010 tenía una población de 195 habitantes."
+    }
+  },
+  "yungang-grottoes": {
+    "title": "Yungang Grottoes",
+    "url": "https://en.wikipedia.org/wiki/Yungang_Grottoes",
+    "extract": "The Yungang Grottoes, formerly the Wuzhoushan Grottoes, are ancient Chinese Buddhist temple grottoes built during the Northern Wei dynasty near the city of Datong, then called Pingcheng, in the province of Shanxi. They are excellent examples of rock-cut architecture and one of the three most famous ancient Buddhist sculptural sites of China, along with Longmen and Mogao.",
+    "description": "Buddhist temple grottoes in Shanxi, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/61292-Yungang-Grottoes_%2828498548881%29.jpg/330px-61292-Yungang-Grottoes_%2828498548881%29.jpg",
+    "lat": 40.1105,
+    "lon": 113.1259,
+    "es": {
+      "title": "Grutas de Yungang",
+      "url": "https://es.wikipedia.org/wiki/Grutas_de_Yungang",
+      "extract": "Las grutas de Yungang son un conjunto de 53 grutas y unas 1200 hornacinas budistas, con más de 51.000 estatuas de piedra que se esparcen por un área de un kilómetro cuadrado de extensión. Se sitúan en Yungang, a las afueras de la ciudad de Datong, en la provincia de Shanxi, en el norte de República Popular China, era la capital de la dinastía Wei del norte."
     }
   },
   "zagreb": {
