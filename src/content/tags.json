@@ -2470,6 +2470,20 @@
       }
     }
   },
+  "louis-pasteur": {
+    "label": "Louis Pasteur",
+    "color": "#7fa650",
+    "description": "French chemist and microbiologist (1822-1895), founder of microbiology and of the vaccines against anthrax and rabies.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Louis Pasteur",
+        "description": "Químico y microbiólogo francés (1822-1895), fundador de la microbiología y de las vacunas contra el ántrax y la rabia."
+      }
+    }
+  },
   "macedon": {
     "label": "Macedon",
     "color": "#9e9d24",
@@ -2523,6 +2537,20 @@
       "es": {
         "label": "Marco Polo",
         "description": "Marco Polo (h. 1254-1324), mercader veneciano cuyos viajes por Asia y cuyo libro, los Viajes, marcaron el conocimiento europeo de Oriente."
+      }
+    }
+  },
+  "marie-curie": {
+    "label": "Marie Curie",
+    "color": "#c77dff",
+    "description": "Polish-French physicist and chemist (1867-1934), pioneer of radioactivity and the first person to win Nobel Prizes in two sciences.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Marie Curie",
+        "description": "Física y química polaco-francesa (1867-1934), pionera de la radiactividad y primera persona en ganar premios Nobel en dos ciencias."
       }
     }
   },
@@ -2607,6 +2635,20 @@
       "es": {
         "label": "Casa de Médici",
         "description": "La familia Médici de Florencia, desde la fundación de su banco en 1397 hasta la muerte del último gran duque Médici en 1737, incluidos su gobierno, sus papas y su mecenazgo de las artes y el saber."
+      }
+    }
+  },
+  "medicine": {
+    "label": "Medicine",
+    "color": "#0fa3b1",
+    "description": "The understanding and treatment of disease and the body: anatomy, surgery, germ theory, vaccines, antibiotics and public health.",
+    "categories": [
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Medicina",
+        "description": "La comprensión y el tratamiento de la enfermedad y del cuerpo: anatomía, cirugía, teoría germinal, vacunas, antibióticos y salud pública."
       }
     }
   },

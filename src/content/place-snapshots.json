@@ -384,6 +384,20 @@
       "extract": "Ciudad Bolívar es una ciudad venezolana, al sureste de Venezuela. Originalmente bautizada con el nombre de Santo Tomás de la Nueva Guayana en la Angostura del Orinoco el 22 de mayo de 1764, y sería renombrada en junio de 1846 como Ciudad Bolívar. Tiene una población de 395 585 habitantes. Su temperatura se mantiene entre 23 °C y 37 °C todo el año."
     }
   },
+  "ann-arbor": {
+    "title": "Ann Arbor, Michigan",
+    "url": "https://en.wikipedia.org/wiki/Ann_Arbor%2C_Michigan",
+    "extract": "Ann Arbor is a city in Washtenaw County, Michigan, United States. The county seat, it had a population of 123,851 in 2020, making it the fifth-most populous city in Michigan.",
+    "description": "City in Michigan, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/University_of_Michigan_Law_School.jpg/330px-University_of_Michigan_Law_School.jpg",
+    "lat": 42.28138889,
+    "lon": -83.74833333,
+    "es": {
+      "title": "Ann Arbor",
+      "url": "https://es.wikipedia.org/wiki/Ann_Arbor",
+      "extract": "Ann Arbor es una ciudad estadounidense localizada en el estado de Míchigan y en el condado de Washtenaw. Es la séptima ciudad más grande del estado con una población de 123,851 habitantes según datos del censo del año 2020, según el cual 38.892 (32%) eran estudiantes universitarios o de colleges. Se encuentra 72 kilómetros al oeste de Detroit y 56 kilómetros al norte de Ohio."
+    }
+  },
   "antikythera": {
     "title": "Antikythera",
     "url": "https://en.wikipedia.org/wiki/Antikythera",
@@ -1224,6 +1238,20 @@
       "title": "Bengasi",
       "url": "https://es.wikipedia.org/wiki/Bengasi",
       "extract": "Bengasi es una ciudad del noreste de Libia en la costa del mar Mediterráneo, capital de la división administrativa de su nombre, en la costa oriental del golfo de Sidra. Es la segunda ciudad más grande del país. Su emplazamiento coincide con el de la antigua Berenice. Cerca de este lugar se libraron batallas clave durante la Segunda Guerra Mundial entre el Afrika Korps y los aliados y la ciudad fue el baluarte de los opositores a Muamar el Gadafi durante la guerra civil libia. Localizada en la línea de ferrocarril, Bengasi tiene un considerable comercio de caravanas con el interior. Es el centro comercial de cereales, dátiles, aceitunas, lana y ganadería de las áreas que la rodean. Además de la agricultura hay otras actividades importantes como la pesca de atún y la recolección de esponjas. Las esponjas, las pieles y la madera son los productos que más se exportan. En la ciudad se encuentran la Universidad de Garyunis y la Libyan International Medical University."
+    }
+  },
+  "berkeley-gloucestershire": {
+    "title": "Berkeley, Gloucestershire",
+    "url": "https://en.wikipedia.org/wiki/Berkeley%2C_Gloucestershire",
+    "extract": "Berkeley is a market town and civil parish in the Stroud District in Gloucestershire, England. It lies in the Vale of Berkeley between the east bank of the River Severn and the M5 motorway. The town is noted for Berkeley Castle, where the imprisoned King Edward II is believed to have been murdered, as well as the birthplace of the physician Edward Jenner, pioneer of the smallpox vaccine, the world's first vaccine.",
+    "description": "Town in Gloucestershire, England",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Berkeley_town_hall.JPG/330px-Berkeley_town_hall.JPG",
+    "lat": 51.691,
+    "lon": -2.459,
+    "es": {
+      "title": "Berkeley (Gloucestershire)",
+      "url": "https://es.wikipedia.org/wiki/Berkeley_(Gloucestershire)",
+      "extract": "Berkeley es una localidad situada en el condado de Gloucestershire, en Inglaterra, con una población estimada a mediados de 2016 de 2065 habitantes."
     }
   },
   "berlin": {
@@ -3053,6 +3081,20 @@
       "title": "Dnipró",
       "url": "https://es.wikipedia.org/wiki/Dnipr%C3%B3",
       "extract": "Dnipró, también conocida por la denominación de Dnipropetrovsk, es la cuarta ciudad más poblada de Ucrania, con aproximadamente 980 948 habitantes. Está situada en la parte central de Ucrania, a 391 km al sureste de la capital ucraniana, Kiev, junto al río Dniéper, que le da nombre. Dnipró es el centro administrativo de la región de la óblast de Dnipropetrovsk."
+    }
+  },
+  "dole-jura": {
+    "title": "Dole, Jura",
+    "url": "https://en.wikipedia.org/wiki/Dole%2C_Jura",
+    "extract": "Dole is a commune in the eastern French department of Jura, of which it is a subprefecture (sous-préfecture).",
+    "description": "Subprefecture and commune in Bourgogne-Franche-Comté, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Dole_quartier_des_tanneurs.jpg/330px-Dole_quartier_des_tanneurs.jpg",
+    "lat": 47.0931,
+    "lon": 5.4906,
+    "es": {
+      "title": "Dole (Jura)",
+      "url": "https://es.wikipedia.org/wiki/Dole_(Jura)",
+      "extract": "Dole es una ciudad y comuna francesa, situada en el departamento de Jura, de la región de Borgoña-Franco Condado. Célebre por ser la cuna del famoso químico y biólogo Louis Pasteur, y fue escenario de la película de 1995 Le bonheur est dans le pré."
     }
   },
   "donauworth": {
@@ -7593,6 +7635,20 @@
       "extract": "Partia es una región histórica situada en el noreste de Irán. Fue conquistada y subyugada por el imperio de los medos durante el siglo VII a. C., fue incorporada al posterior imperio aqueménida bajo Ciro el Grande en el siglo VI a. C., y formó parte del Imperio seléucida tras las conquistas de Alejandro Magno en el siglo IV a. C.. Más tarde la región sirvió como base política y cultural de los parnos y de la dinastía arsácida, gobernantes del imperio parto (247 a. C.-224 d. C.). El imperio sasánida, el último estado del Irán preislámico, también dominó la región y mantuvo a los siete clanes partos como parte de su aristocracia feudal."
     }
   },
+  "passy-haute-savoie": {
+    "title": "Passy, Haute-Savoie",
+    "url": "https://en.wikipedia.org/wiki/Passy%2C_Haute-Savoie",
+    "extract": "Passy is a commune in the Haute-Savoie department in the Auvergne-Rhône-Alpes region in south-eastern France. It is part of the urban area of Sallanches.",
+    "description": "Commune in Auvergne-Rhône-Alpes, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/00_Passy_-_Haute-Savoie_-_Mont_Blanc.JPG/330px-00_Passy_-_Haute-Savoie_-_Mont_Blanc.JPG",
+    "lat": 45.9244,
+    "lon": 6.6872,
+    "es": {
+      "title": "Passy (Alta Saboya)",
+      "url": "https://es.wikipedia.org/wiki/Passy_(Alta_Saboya)",
+      "extract": " Passy  es una población y comuna francesa, en la región de Ródano-Alpes, departamento de Alta Saboya, en el distrito de Bonneville y cantón de Saint-Gervais-les-Bains."
+    }
+  },
   "pasto": {
     "title": "Pasto, Colombia",
     "url": "https://en.wikipedia.org/wiki/Pasto%2C_Colombia",
@@ -10539,6 +10595,20 @@
       "extract": "Torgau o Turgovia es una ciudad alemana junto al Elba, en el noroeste del Estado federado de Sajonia."
     }
   },
+  "toronto": {
+    "title": "Toronto",
+    "url": "https://en.wikipedia.org/wiki/Toronto",
+    "extract": "Toronto is the most populous city in Canada and the capital city of the Canadian province of Ontario. It is located on a harbour at the northwestern shore of Lake Ontario. The city is the fourth-most populous city in North America, behind Mexico City, New York City, and Los Angeles, with a census population of 2,794,356 as of 2021. The Greater Toronto Area (GTA) is constituted of Toronto proper and four surrounding regions, Peel, York, Durham, and Halton, and has a population of 6,712,341, while the Toronto census metropolitan area (CMA), with a somewhat different definition, has a population of 7,106,379. Toronto is an international centre of business, finance, arts, sports, and culture, and is recognized as one of the most multicultural and cosmopolitan cities in the world.",
+    "description": "Most populous city in Canada",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Toronto_Skyline_from_Snake_Island%2C_September_11_2026_%2801%29.jpg/330px-Toronto_Skyline_from_Snake_Island%2C_September_11_2026_%2801%29.jpg",
+    "lat": 43.6525,
+    "lon": -79.38166667,
+    "es": {
+      "title": "Toronto",
+      "url": "https://es.wikipedia.org/wiki/Toronto",
+      "extract": "Toronto es la capital de la provincia de Ontario y, con una población de 2 794 356 de habitantes, la ciudad más grande y más poblada de Canadá, además del centro financiero de dicho país. Su área metropolitana suma más de 6 202 225 habitantes en total."
+    }
+  },
   "tortuga": {
     "title": "Tortuga",
     "url": "https://en.wikipedia.org/wiki/Tortuga",
@@ -11134,6 +11204,20 @@
       "extract": "El Palacio de Versalles es una antigua residencia real construida por el rey Luis XIV situada en Versalles, a unos 19 kilómetros al oeste de París (Francia). El palacio es propiedad de la República Francesa y desde 1995 está gestionado, bajo la dirección del Ministerio de Cultura francés, por el Establecimiento Público del Palacio, Museo y Dominio Nacional de Versalles. Alrededor de 15 millones de personas visitan cada año el palacio, el parque o los jardines de Versalles, lo que lo convierte en una de las atracciones turísticas más populares del mundo."
     }
   },
+  "vert-saint-denis": {
+    "title": "Vert-Saint-Denis",
+    "url": "https://en.wikipedia.org/wiki/Vert-Saint-Denis",
+    "extract": "Vert-Saint-Denis is a commune in the Seine-et-Marne department in the Île-de-France region in north-central France.",
+    "description": "Commune in Île-de-France, France",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Mairievsd.jpg/330px-Mairievsd.jpg",
+    "lat": 48.565,
+    "lon": 2.6147,
+    "es": {
+      "title": "Vert-Saint-Denis",
+      "url": "https://es.wikipedia.org/wiki/Vert-Saint-Denis",
+      "extract": " Vert-Saint-Denis  es una población y comuna francesa, en la región de Isla de Francia, departamento de Sena y Marne, en el distrito de Melun y cantón de Le Mée-sur-Seine."
+    }
+  },
   "vichy": {
     "title": "Vichy",
     "url": "https://en.wikipedia.org/wiki/Vichy",
@@ -11483,6 +11567,15 @@
       "extract": "Wolfsburgo es una ciudad de Alemania situada en el estado de Baja Sajonia. Tiene una población estimada, a fines de marzo de 2023, de 126 123 habitantes."
     }
   },
+  "wolsztyn": {
+    "title": "Wolsztyn",
+    "url": "https://en.wikipedia.org/wiki/Wolsztyn",
+    "extract": "Wolsztyn is a town in western Poland, on the western edge of Greater Poland Voivodeship. It is the seat of Wolsztyn County, and of Gmina Wolsztyn.",
+    "description": "Town in Greater Poland Voivodeship, Poland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Wolsztyn_251028.jpg/330px-Wolsztyn_251028.jpg",
+    "lat": 52.11666667,
+    "lon": 16.11666667
+  },
   "woolsthorpe-manor": {
     "title": "Woolsthorpe Manor",
     "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
@@ -11537,6 +11630,20 @@
       "title": "Wuhan",
       "url": "https://es.wikipedia.org/wiki/Wuhan",
       "extract": "Wuhan es la capital de la provincia de Hubei y la ciudad más poblada en la zona central de la República Popular China. Está localizada en la confluencia de los ríos Yangtsé y Han. Tiene una población aproximada de 11 millones de habitantes en un área de 8467 km² cuando se incluye el área metropolitana."
+    }
+  },
+  "wurzburg": {
+    "title": "Würzburg",
+    "url": "https://en.wikipedia.org/wiki/W%C3%BCrzburg",
+    "extract": "Würzburg is the second-largest city in Franconia after Nuremberg and is located in the north of Bavaria. Würzburg is the administrative seat of the Regierungsbezirk Lower Franconia. It spans the banks of the Main river.",
+    "description": "City in Bavaria, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Marienberg_wuerzburg.jpg/330px-Marienberg_wuerzburg.jpg",
+    "lat": 49.78333333,
+    "lon": 9.93333333,
+    "es": {
+      "title": "Wurzburgo",
+      "url": "https://es.wikipedia.org/wiki/Wurzburgo",
+      "extract": "Wurzburgo es una ciudad del estado federado alemán de Baviera, capital de la Baja Franconia. Ubicada a orillas del Meno, fue antigua sede episcopal."
     }
   },
   "xian": {

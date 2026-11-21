@@ -251,6 +251,15 @@
       }
     }
   },
+  "ann-arbor": {
+    "label": "Ann Arbor",
+    "wikipedia": "Ann Arbor, Michigan",
+    "translations": {
+      "es": {
+        "label": "Ann Arbor"
+      }
+    }
+  },
   "antikythera": {
     "label": "Antikythera",
     "wikipedia": "Antikythera",
@@ -806,6 +815,15 @@
     "translations": {
       "es": {
         "label": "Bengasi"
+      }
+    }
+  },
+  "berkeley-gloucestershire": {
+    "label": "Berkeley, Gloucestershire",
+    "wikipedia": "Berkeley, Gloucestershire",
+    "translations": {
+      "es": {
+        "label": "Berkeley (Gloucestershire)"
       }
     }
   },
@@ -2012,6 +2030,15 @@
     "translations": {
       "es": {
         "label": "Dnipró"
+      }
+    }
+  },
+  "dole-jura": {
+    "label": "Dole, Jura",
+    "wikipedia": "Dole, Jura",
+    "translations": {
+      "es": {
+        "label": "Dole"
       }
     }
   },
@@ -5012,6 +5039,15 @@
       }
     }
   },
+  "passy-haute-savoie": {
+    "label": "Passy, Haute-Savoie",
+    "wikipedia": "Passy, Haute-Savoie",
+    "translations": {
+      "es": {
+        "label": "Passy (Alta Saboya)"
+      }
+    }
+  },
   "pasto": {
     "label": "Pasto",
     "wikipedia": "Pasto, Colombia",
@@ -6965,6 +7001,15 @@
       }
     }
   },
+  "toronto": {
+    "label": "Toronto",
+    "wikipedia": "Toronto",
+    "translations": {
+      "es": {
+        "label": "Toronto"
+      }
+    }
+  },
   "tortuga": {
     "label": "Tortuga",
     "wikipedia": "Tortuga (Haiti)",
@@ -7352,6 +7397,15 @@
       }
     }
   },
+  "vert-saint-denis": {
+    "label": "Vert-Saint-Denis",
+    "wikipedia": "Vert-Saint-Denis",
+    "translations": {
+      "es": {
+        "label": "Vert-Saint-Denis"
+      }
+    }
+  },
   "vichy": {
     "label": "Vichy",
     "wikipedia": "Vichy",
@@ -7595,6 +7649,15 @@
       }
     }
   },
+  "wolsztyn": {
+    "label": "Wolsztyn",
+    "wikipedia": "Wolsztyn",
+    "translations": {
+      "es": {
+        "label": "Wolsztyn"
+      }
+    }
+  },
   "woolsthorpe-manor": {
     "label": "Woolsthorpe Manor",
     "wikipedia": "Woolsthorpe Manor",
@@ -7628,6 +7691,15 @@
     "translations": {
       "es": {
         "label": "Wuhan"
+      }
+    }
+  },
+  "wurzburg": {
+    "label": "Würzburg",
+    "wikipedia": "Würzburg",
+    "translations": {
+      "es": {
+        "label": "Wurzburgo"
       }
     }
   },
