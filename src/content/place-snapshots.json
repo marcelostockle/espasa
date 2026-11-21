@@ -1300,6 +1300,20 @@
       "extract": "Birmingham es una ciudad y un municipio metropolitano situado en el condado metropolitano de las Tierras Medias Occidentales, en la región de las Tierras Medias Occidentales de Inglaterra. Según el censo de 2021, tiene una población de 1 144 919 habitantes."
     }
   },
+  "bloemfontein": {
+    "title": "Bloemfontein",
+    "url": "https://en.wikipedia.org/wiki/Bloemfontein",
+    "extract": "Bloemfontein, also known as Bloem, is the capital and the largest city of the Free State province in South Africa. It is often, and has been traditionally, referred to as the country's \"judicial capital\", as it hosts the Supreme Court of Appeal, alongside the legislative capital Cape Town and executive capital Pretoria. However, the highest court in South Africa, the Constitutional Court, has been in Johannesburg since 1994.",
+    "description": "Judicial capital of South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bloemfontein%2C_Free_State%2C_South_Africa_%2820349855518%29.jpg/330px-Bloemfontein%2C_Free_State%2C_South_Africa_%2820349855518%29.jpg",
+    "lat": -29.11666667,
+    "lon": 26.21666667,
+    "es": {
+      "title": "Bloemfontein",
+      "url": "https://es.wikipedia.org/wiki/Bloemfontein",
+      "extract": "Bloemfontein es una de las tres capitales de Sudáfrica, junto con Pretoria y Ciudad del Cabo. Bloemfontein es la capital judicial del país, así como también la capital de la provincia del Estado Libre. El nombre sesotho de la ciudad es Mangaung, que significa «el lugar donde moran los guepardos»."
+    }
+  },
   "bobrka": {
     "title": "Bóbrka, Gmina Chorkówka",
     "url": "https://en.wikipedia.org/wiki/B%C3%B3brka%2C_Gmina_Chork%C3%B3wka",
@@ -1905,6 +1919,20 @@
       "title": "Cabo de Buena Esperanza",
       "url": "https://es.wikipedia.org/wiki/Cabo_de_Buena_Esperanza",
       "extract": "El cabo de Buena Esperanza es un cabo localizado en el extremo sur de África. El primer europeo en avistarlo fue el navegante portugués Bartolomeu Dias en 1488."
+    }
+  },
+  "cape-town": {
+    "title": "Cape Town",
+    "url": "https://en.wikipedia.org/wiki/Cape_Town",
+    "extract": "Cape Town is the legislative capital of South Africa. It is the country's oldest city and the seat of the Parliament of South Africa. Cape Town is the capital and largest city of the Western Cape, and the country's second-most populous city, after Johannesburg. The city is part of the City of Cape Town metropolitan municipality.",
+    "description": "Legislative capital of South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Camps_bay_%2853460319478%29_%28cropped%29.jpg/330px-Camps_bay_%2853460319478%29_%28cropped%29.jpg",
+    "lat": -33.92527778,
+    "lon": 18.42388889,
+    "es": {
+      "title": "Ciudad del Cabo",
+      "url": "https://es.wikipedia.org/wiki/Ciudad_del_Cabo",
+      "extract": "Ciudad del Cabo comparte capital con Pretoria y Bloemfontein además de ser la segunda ciudad más poblada de Sudáfrica, después de Johannesburgo. Forma parte del municipio metropolitano de la Ciudad del Cabo. Es la capital de la Provincia Occidental del Cabo, así como la capital legislativa de Sudáfrica, donde se ubican tanto el Parlamento Nacional como muchas otras sedes gubernamentales. Ciudad del Cabo es famosa por su puerto, así como por su conjunción natural de flora, la Montaña de la Mesa y Punta del Cabo. Es también el destino turístico más popular de África."
     }
   },
   "capitoline-hill": {
@@ -2963,6 +2991,13 @@
       "url": "https://es.wikipedia.org/wiki/Dessau-Ro%C3%9Flau",
       "extract": "Dessau-Roßlau es una ciudad del estado alemán de Sajonia-Anhalt. Se ubica en el este del estado y es una de las tres ciudades del estado que no pertenece a ningún distrito, hallándose enclavada entre los distritos de Anhalt-Bitterfeld al oeste y Wittenberg al este."
     }
+  },
+  "district-six": {
+    "title": "District Six",
+    "url": "https://en.wikipedia.org/wiki/District_Six",
+    "extract": "District Six is a residential neighborhood in Cape Town, South Africa, located next to the city's CBD. In 1959, people of color were banned from the area and most of them were resettled in Gugulethu. In the following years, District Six was then declared a whites-only area and most of the residents were resettled in the Cape Flats. Over the course of a decade, over 60,000 of its inhabitants were forcibly removed and in 1970 the area was renamed Zonnebloem, a name that makes reference to an 18th-century colonial farm. At the time of the proclamation, 56% of the district's property was White-owned, 29% Black-owned, 26% Coloured-owned and 18% Indian-owned. The vision of a new white neighbourhood was not realised and the land has mostly remained barren and unoccupied. The original area of District Six is now partly divided between the suburbs of Walmer Estate, Zonnebloem, and Lower Vrede, while the rest is generally undeveloped land.",
+    "description": "Former area of Cape Town, South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/District_Six_from_Signal_Hill.jpg/330px-District_Six_from_Signal_Hill.jpg"
   },
   "donauworth": {
     "title": "Donauwörth",
@@ -4822,6 +4857,15 @@
       "extract": "Kaunas () es una ciudad lituana ubicada en el centro del país, en la provincia homónima. Se trata de la segunda ciudad más poblada de Lituania después de Vilna, con unos 328 763 habitantes. Fue la capital de la primera República de Lituania, entre 1920 y 1939."
     }
   },
+  "kempton-park": {
+    "title": "Kempton Park, Gauteng",
+    "url": "https://en.wikipedia.org/wiki/Kempton_Park%2C_Gauteng",
+    "extract": "Kempton Park is a city in the East Rand region of Gauteng province, South Africa. It is part of the City of Ekurhuleni Metropolitan Municipality. It is situated south of Thembisa, one of the largest townships in South Africa, which is also part of Ekurhuleni. South Africa's busiest airport, O. R. Tambo International Airport is located in Kempton Park.",
+    "description": "City in Gauteng, South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kempton_Park_CBD.jpg/330px-Kempton_Park_CBD.jpg",
+    "lat": -26.1,
+    "lon": 28.23333333
+  },
   "kensington": {
     "title": "Kensington",
     "url": "https://en.wikipedia.org/wiki/Kensington",
@@ -4946,6 +4990,20 @@
       "title": "Kinmen",
       "url": "https://es.wikipedia.org/wiki/Kinmen",
       "extract": "Kinmen es un pequeño archipiélago administrado por la República de China como el Condado de Kinmen. Abarca unos 153 km² y comprende las islas de Gran Kinmen, Pequeña Kinmen, Wuqiu y varios islotes; se ubica muy cerca de las costas de China continental, a menos de 2 km de Xiamen. Es reclamado por la República Popular China como parte de la prefectura de Quanzhou en la provincia de Fujian."
+    }
+  },
+  "kliptown": {
+    "title": "Kliptown",
+    "url": "https://en.wikipedia.org/wiki/Kliptown",
+    "extract": "Kliptown is a suburb of the formerly black township of Soweto in Gauteng, South Africa, located about 17 km south-west of Johannesburg. Kliptown is the oldest residential district of Soweto, and was first laid out in 1891 on land which formed part of Klipspruit farm. The farm was named after the klipspruit that runs nearby. Historically, the area was home to informal settlements. The area now contains a mixture of purpose-built housing and many shacks and other informal homes which form the Chris Hani and Dlamini settlements.",
+    "description": "Place in Gauteng, South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Kliptown_is_one_of_the_most_destitute_areas_of_the_large_Soweto_township%2C_South_Africa%2C_November_2012._%28S._Honorine_VOA%29.jpg/330px-Kliptown_is_one_of_the_most_destitute_areas_of_the_large_Soweto_township%2C_South_Africa%2C_November_2012._%28S._Honorine_VOA%29.jpg",
+    "lat": -26.284,
+    "lon": 27.887,
+    "es": {
+      "title": "Kliptown",
+      "url": "https://es.wikipedia.org/wiki/Kliptown",
+      "extract": "Kliptown es un barrio del antiguo municipio negro de Soweto en Gauteng, Sudáfrica, ubicado a unos 17 km al suroeste de Johannesburgo. La población de Kliptown se sitúa entre 38.000 y 45.000 habitantes, según el sitio web oficial de la Ciudad de Johannesburgo. Kliptown es el barrio residencial más antiguo de Soweto, y empezó a construirse por primera vez en 1891, sobre terrenos que formaban parte de la finca Klipspruit. El nombre de la granja deriva del término klipspruit, que pasan cerca. A partir de 1903 empezaron a instalarse en la zona asentamientos informales, y el barrio ahora contiene una mezcla de viviendas construidas especialmente y de un gran número de chozas y otras viviendas informales que forman la Hani Chris Dlamini y los asentamientos."
     }
   },
   "knin": {
@@ -7771,6 +7829,20 @@
     "lat": 42.782274,
     "lon": 20.82898
   },
+  "pretoria": {
+    "title": "Pretoria",
+    "url": "https://en.wikipedia.org/wiki/Pretoria",
+    "extract": "Pretoria is the executive capital of South Africa, serving as the seat of the executive branch of government, and as the host to all foreign embassies to the country.",
+    "description": "Executive capital of South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Uniegebou.jpg/330px-Uniegebou.jpg",
+    "lat": -25.74611111,
+    "lon": 28.18805556,
+    "es": {
+      "title": "Pretoria",
+      "url": "https://es.wikipedia.org/wiki/Pretoria",
+      "extract": "Pretoria es una ciudad situada en la parte norte de la provincia de Gauteng, en Sudáfrica, dentro de la Municipalidad Metropolitana de la Ciudad de Tshwane. Es la capital administrativa de Sudáfrica, junto a las ciudades capitales legislativa de Ciudad del Cabo y la judicial de Bloemfontein. El Poder Ejecutivo está ubicado en Pretoria. El área metropolitana de Pretoria es la quinta en importancia de Sudáfrica, con una población estimada en 2.985.997 para 2011."
+    }
+  },
   "prijedor": {
     "title": "Prijedor",
     "url": "https://en.wikipedia.org/wiki/Prijedor",
@@ -8283,6 +8355,14 @@
       "extract": "Río de Janeiro, fundada como São Sebastião do Rio de Janeiro, es una ciudad y municipio brasileño, capital del estado homónimo, ubicada en el sureste del país. Es la segunda ciudad más poblada de Brasil después de São Paulo. Es considerada la ciudad de Brasil más conocida a nivel Internacional."
     }
   },
+  "rivonia": {
+    "title": "Rivonia",
+    "url": "https://en.wikipedia.org/wiki/Rivonia",
+    "extract": "Rivonia is a suburb of Johannesburg, South Africa in the Sandton area. It is located in Region E of the City of Johannesburg Metropolitan Municipality. Rivonia is one of the most affluent residential and business suburbs of Johannesburg, and regarded as the hub of upstart and established I.T. companies. The main retail thoroughfare in the area, Rivonia Boulevard, is the location of several shopping complexes as well as many other shops and restaurants. The area known as Rivonia includes the original township of Edenburg, Edenburg Extension 1, and 19 smaller extensions designated 'Rivonia Extension ...', numbered from 0 to 25. There is no designated township called Rivonia. The post code for Rivonia is 2128.",
+    "description": "Place in Gauteng, South Africa",
+    "lat": -26.05138889,
+    "lon": 28.06305556
+  },
   "roanoke-island": {
     "title": "Roanoke Island",
     "url": "https://en.wikipedia.org/wiki/Roanoke_Island",
@@ -8295,6 +8375,20 @@
       "title": "Isla de Roanoke",
       "url": "https://es.wikipedia.org/wiki/Isla_de_Roanoke",
       "extract": "La isla de Roanoke es una isla del condado de Dare, limítrofe con los Bancos Externos de Carolina del Norte. Debe su nombre al histórico pueblo roanoke, un pueblo algonquino que habitaba la zona en el siglo XVI, en el comienzo de la colonización británica de América."
+    }
+  },
+  "robben-island": {
+    "title": "Robben Island",
+    "url": "https://en.wikipedia.org/wiki/Robben_Island",
+    "extract": "Robben Island is an island in Table Bay, 6.9 kilometers west of the coast of Bloubergstrand, north of Cape Town, South Africa. It takes its name from the archaic Dutch word for seals (robben).",
+    "description": "Island in Table Bay, South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg/330px-Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg",
+    "lat": -33.805,
+    "lon": 18.37,
+    "es": {
+      "title": "Isla Robben",
+      "url": "https://es.wikipedia.org/wiki/Isla_Robben",
+      "extract": "La isla Robben es una isla en Table Bay, a 12 km de la costa de Ciudad del Cabo, la provincia Occidental del Cabo, Sudáfrica. El nombre en neerlandés significa ‘isla de las focas’."
     }
   },
   "rocroi": {
@@ -9086,6 +9180,19 @@
       "extract": "Shanghái es la ciudad más poblada de China y una de las más grandes del mundo. Administrativamente, es uno de los cuatro municipios a nivel central. Cuenta con más de 24 millones de habitantes. Situada en la China del Este, Shanghái yace en el delta del río Yangtsé, centrada en la costa del mar de la China Oriental y es administrada al máximo nivel con la categoría de municipio de control directo."
     }
   },
+  "sharpeville": {
+    "title": "Sharpeville",
+    "url": "https://en.wikipedia.org/wiki/Sharpeville",
+    "extract": "Sharpeville is a township situated between two large industrial cities, Vanderbijlpark and Vereeniging, in southern Gauteng, South Africa. Sharpeville is one of the oldest of six townships in the Vaal Triangle. It was named after John Lillie Sharpe who came to South Africa from Glasgow, Scotland, as secretary of Stewarts & Lloyds. Sharpe was elected to the Vereeniging City Council in 1932 and held the position of mayor from 1934 to 1937.",
+    "description": "Place in Gauteng, South Africa",
+    "lat": -26.68861111,
+    "lon": 27.87138889,
+    "es": {
+      "title": "Sharpeville",
+      "url": "https://es.wikipedia.org/wiki/Sharpeville",
+      "extract": "Sharpeville es una localidad ubicada entre las dos grandes ciudades industriales de Vanderbijlpark y Vereeniging el sur de la provincia sudafricana de Gauteng; Sharpeville es una de los seis poblados más antiguos en Vaal Triangle. Su nombre se debe a John Lillie Sharpe quien arribó a Sudáfrica proveniente de Glasgow, Escocia, para ocupar el puesto de secretario de Stewarts & Lloyds. Sharpe fue elegido concejal de Vereeniging en 1932 y fue alcalde desde 1934 a 1937."
+    }
+  },
   "shenyang": {
     "title": "Shenyang",
     "url": "https://en.wikipedia.org/wiki/Shenyang",
@@ -9371,6 +9478,20 @@
       "title": "Condado de Southampton",
       "url": "https://es.wikipedia.org/wiki/Condado_de_Southampton",
       "extract": "El condado de Southampton, fundado en 1749, es uno de 95 condados del estado estadounidense de Virginia. En el año 2000, el condado tenía una población de 17 482 habitantes y una densidad poblacional de 11 personas por km². La sede del condado es Courtland. El condado forma parte del área metropolitana de Washington D. C."
+    }
+  },
+  "soweto": {
+    "title": "Soweto",
+    "url": "https://en.wikipedia.org/wiki/Soweto",
+    "extract": "Soweto is a township of the City of Johannesburg Metropolitan Municipality in Gauteng, South Africa and one of the suburbs of Johannesburg, bordering the city's mining belt in the south. Its name is an English syllabic abbreviation for South Western Townships. Formerly a separate municipality, it was incorporated in the City of Johannesburg Metropolitan Municipality in 2002.",
+    "description": "Township in Metropolitan Johannesburg, Gauteng, South Africa",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Soweto-002.jpg/330px-Soweto-002.jpg",
+    "lat": -26.26781,
+    "lon": 27.85849,
+    "es": {
+      "title": "Soweto",
+      "url": "https://es.wikipedia.org/wiki/Soweto",
+      "extract": "Soweto es un área urbana situada 24 km al suroeste de Johannesburgo, en la provincia de Gauteng, Sudáfrica."
     }
   },
   "sparta": {
@@ -10231,6 +10352,20 @@
       "extract": "El Sendero de Lágrimas fue una serie de desplazamientos forzados de aproximadamente 100 000 indígenas de las denominadas Cinco Tribus Civilizadas entre 1830 y 1850 por parte del gobierno de Estados Unidos. Esta limpieza étnica, que formaba parte de la expulsión de los nativos, fue gradual y se produjo durante un periodo de casi dos décadas. Los miembros de las naciones cherokee, muscogee (creek), seminola, chickasaw y choctaw fueron expulsados por la fuerza desde sus tierras ancestrales en el sureste de Estados Unidos a zonas al oeste del río Misisipi que habían sido designadas Territorio Indio por el gobierno de Estados Unidos. Los traslados forzosos fueron llevados a cabo por las autoridades gubernamentales tras la aprobación de la Ley de Traslado Forzoso de los Indios en 1830. El traslado de los cherokees en 1838 fue provocado por el descubrimiento de oro cerca de Dahlonega (Georgia) en 1828, lo que dio lugar a la fiebre del oro de Georgia."
     }
   },
+  "transkei": {
+    "title": "Transkei",
+    "url": "https://en.wikipedia.org/wiki/Transkei",
+    "extract": "Transkei, officially the Republic of Transkei, was an unrecognised state in the southeastern region of South Africa from 1976 to 1994. It was, along with Ciskei, a Bantustan for the Xhosa people, and operated as a nominally independent parliamentary democracy. Its capital was Umtata.",
+    "description": "Bantustan in South Africa (1976–1994)",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Transkei.svg/330px-Flag_of_Transkei.svg.png",
+    "lat": -31,
+    "lon": 29,
+    "es": {
+      "title": "Transkei",
+      "url": "https://es.wikipedia.org/wiki/Transkei",
+      "extract": "Transkei fue un bantustán situado en Sudáfrica, que en la actualidad forma parte de la provincia Oriental del Cabo. Su capital era Umtata."
+    }
+  },
   "trasimene": {
     "title": "Lake Trasimeno",
     "url": "https://en.wikipedia.org/wiki/Lake_Trasimeno",
@@ -10478,6 +10613,20 @@
       "title": "Pecio de Uluburun",
       "url": "https://es.wikipedia.org/wiki/Pecio_de_Uluburun",
       "extract": "El Pecio de Uluburun es un yacimiento submarino de la Edad del Bronce, descubierto en la costa meridional de Turquía, cerca de la ciudad de Kaç, en la provincia de Antalya. Un pescador de esponjas turco lo descubrió en 1982, y fue excavado usando técnicas de arqueología subacuática en once campañas consecutivas de entre tres y cuatro meses de duración cada una, entre los años 1984 y 1994."
+    }
+  },
+  "union-buildings": {
+    "title": "Union Buildings",
+    "url": "https://en.wikipedia.org/wiki/Union_Buildings",
+    "extract": "The Union Buildings form the official seat of the South African Government and also house the offices of the President of South Africa. The imposing buildings are located in Pretoria, atop Meintjeskop at the northern end of Arcadia, close to historic Church Square. The large gardens of the Buildings are nestled between Government Avenue, Vermeulen Street East, Church Street, the R104 and Blackwood Street. Fairview Avenue is a closed road through which only officials can enter the Union Buildings. Though not in the centre of Pretoria, the Union Buildings occupy the highest point of Pretoria, and constitute a South African national heritage site.",
+    "description": "Seat of the South African Government",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Uniegebou.jpg/330px-Uniegebou.jpg",
+    "lat": -25.74046667,
+    "lon": 28.21202222,
+    "es": {
+      "title": "Union Buildings",
+      "url": "https://es.wikipedia.org/wiki/Union_Buildings",
+      "extract": "Los Edificios de la Unión constituyen la sede oficial del gobierno de Sudáfrica y también albergan las oficinas del presidente de Sudáfrica. Los imponentes edificios están situados en Pretoria, en el extremo norte de Arcadia, cerca de la histórica Plaza de la Iglesia y el Monumento al voortrekker. Los amplios jardines de los edificios están ubicados entre la avenida del Gobierno, Vermeulen Street East, Church Street, la R104 y Blackwood Street. Fairview Avenue es un camino cerrado en el que sólo los funcionarios pueden entrar a los edificios de la Unión. Aunque no es el centro de Pretoria, los edificios de la Unión ocupan el punto más alto de Pretoria, y constituyen un patrimonio nacional de Sudáfrica.\nLos edificios son uno de los centros de la vida política en Sudáfrica, \"los edificios\" y \"Arcadia\" se han convertido en metonimias por el gobierno sudafricano. Se ha convertido en un icono de Pretoria y Sudáfrica, en general, y es una de las atracciones turísticas más populares de la ciudad y un emblema de la democracia."
     }
   },
   "uruguaiana": {

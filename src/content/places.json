@@ -863,6 +863,15 @@
       }
     }
   },
+  "bloemfontein": {
+    "label": "Bloemfontein",
+    "wikipedia": "Bloemfontein",
+    "translations": {
+      "es": {
+        "label": "Bloemfontein"
+      }
+    }
+  },
   "bobrka": {
     "label": "Bóbrka",
     "wikipedia": "Bóbrka, Krosno County",
@@ -1265,6 +1274,15 @@
     "translations": {
       "es": {
         "label": "cabo de Buena Esperanza"
+      }
+    }
+  },
+  "cape-town": {
+    "label": "Cape Town",
+    "wikipedia": "Cape Town",
+    "translations": {
+      "es": {
+        "label": "Ciudad del Cabo"
       }
     }
   },
@@ -1949,6 +1967,15 @@
     "translations": {
       "es": {
         "label": "Dessau"
+      }
+    }
+  },
+  "district-six": {
+    "label": "District Six, Cape Town",
+    "wikipedia": "District Six",
+    "translations": {
+      "es": {
+        "label": "Distrito Seis, Ciudad del Cabo"
       }
     }
   },
@@ -3185,6 +3212,15 @@
       }
     }
   },
+  "kempton-park": {
+    "label": "Kempton Park",
+    "wikipedia": "Kempton Park, Gauteng",
+    "translations": {
+      "es": {
+        "label": "Kempton Park"
+      }
+    }
+  },
   "kensington": {
     "label": "Kensington",
     "wikipedia": "Kensington",
@@ -3263,6 +3299,15 @@
     "translations": {
       "es": {
         "label": "Kinmen (Quemoy)"
+      }
+    }
+  },
+  "kliptown": {
+    "label": "Kliptown",
+    "wikipedia": "Kliptown",
+    "translations": {
+      "es": {
+        "label": "Kliptown"
       }
     }
   },
@@ -5120,6 +5165,15 @@
       }
     }
   },
+  "pretoria": {
+    "label": "Pretoria",
+    "wikipedia": "Pretoria",
+    "translations": {
+      "es": {
+        "label": "Pretoria"
+      }
+    }
+  },
   "prijedor": {
     "label": "Prijedor",
     "wikipedia": "Prijedor",
@@ -5462,12 +5516,30 @@
       }
     }
   },
+  "rivonia": {
+    "label": "Rivonia",
+    "wikipedia": "Rivonia",
+    "translations": {
+      "es": {
+        "label": "Rivonia"
+      }
+    }
+  },
   "roanoke-island": {
     "label": "Roanoke Island",
     "wikipedia": "Roanoke Island",
     "translations": {
       "es": {
         "label": "Isla Roanoke"
+      }
+    }
+  },
+  "robben-island": {
+    "label": "Robben Island",
+    "wikipedia": "Robben Island",
+    "translations": {
+      "es": {
+        "label": "Isla Robben"
       }
     }
   },
@@ -5993,6 +6065,15 @@
       }
     }
   },
+  "sharpeville": {
+    "label": "Sharpeville",
+    "wikipedia": "Sharpeville",
+    "translations": {
+      "es": {
+        "label": "Sharpeville"
+      }
+    }
+  },
   "shenyang": {
     "label": "Shenyang",
     "wikipedia": "Shenyang",
@@ -6179,6 +6260,15 @@
     "translations": {
       "es": {
         "label": "Condado de Southampton (Virginia)"
+      }
+    }
+  },
+  "soweto": {
+    "label": "Soweto",
+    "wikipedia": "Soweto",
+    "translations": {
+      "es": {
+        "label": "Soweto"
       }
     }
   },
@@ -6749,6 +6839,15 @@
       }
     }
   },
+  "transkei": {
+    "label": "Transkei",
+    "wikipedia": "Transkei",
+    "translations": {
+      "es": {
+        "label": "Transkei"
+      }
+    }
+  },
   "trasimene": {
     "label": "Lake Trasimene",
     "wikipedia": "Lake Trasimene",
@@ -6908,6 +7007,15 @@
     "translations": {
       "es": {
         "label": "Naufragio de Uluburun"
+      }
+    }
+  },
+  "union-buildings": {
+    "label": "Union Buildings, Pretoria",
+    "wikipedia": "Union Buildings",
+    "translations": {
+      "es": {
+        "label": "Union Buildings, Pretoria"
       }
     }
   },

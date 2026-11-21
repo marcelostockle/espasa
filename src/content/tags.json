@@ -99,6 +99,20 @@
       }
     }
   },
+  "anti-apartheid-movement": {
+    "label": "Anti-apartheid movement",
+    "color": "#2a9d8f",
+    "description": "Resistance to apartheid inside and outside South Africa, from the ANC and Black Consciousness to boycotts, sanctions and negotiations.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Movimiento contra el apartheid",
+        "description": "La resistencia al apartheid dentro y fuera de Sudáfrica, desde el CNA y la Conciencia Negra hasta los boicots, las sanciones y las negociaciones."
+      }
+    }
+  },
   "anwar-sadat": {
     "label": "Anwar Sadat",
     "color": "#8c7a45",
@@ -110,6 +124,20 @@
       "es": {
         "label": "Anwar el Sadat",
         "description": "Presidente de Egipto (1970-1981), que libró la guerra de 1973 y luego hizo la paz con Israel."
+      }
+    }
+  },
+  "apartheid": {
+    "label": "Apartheid",
+    "color": "#7a2e1d",
+    "description": "South Africa's system of legalized racial segregation and white minority rule (1948-1994): its laws, enforcement, resistance and dismantling.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Apartheid",
+        "description": "El sistema sudafricano de segregación racial legalizada y dominio de la minoría blanca (1948-1994): sus leyes, su aplicación, la resistencia y su desmantelamiento."
       }
     }
   },
@@ -2678,6 +2706,20 @@
       }
     }
   },
+  "nelson-mandela": {
+    "label": "Nelson Mandela",
+    "color": "#4b7f52",
+    "description": "Anti-apartheid leader (1918-2013), prisoner for 27 years and South Africa's first democratically elected president.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Nelson Mandela",
+        "description": "Líder contra el apartheid (1918-2013), preso durante 27 años y primer presidente de Sudáfrica elegido democráticamente."
+      }
+    }
+  },
   "netherlands": {
     "label": "Netherlands",
     "color": "#4dd0e1",
@@ -3716,6 +3758,21 @@
       "es": {
         "label": "Solidaridad",
         "description": "El sindicato independiente polaco fundado en 1980 y el movimiento de oposición en torno a él, que contribuyó a derribar el comunismo."
+      }
+    }
+  },
+  "south-africa": {
+    "label": "South Africa",
+    "color": "#e6a817",
+    "description": "South Africa, its governments and its peoples from union in 1910 to the present.",
+    "categories": [
+      "States",
+      "Places"
+    ],
+    "translations": {
+      "es": {
+        "label": "Sudáfrica",
+        "description": "Sudáfrica, sus gobiernos y sus pueblos desde la unión de 1910 hasta hoy."
       }
     }
   },
