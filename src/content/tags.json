@@ -1218,6 +1218,20 @@
       }
     }
   },
+  "donald-trump": {
+    "label": "Donald Trump",
+    "color": "#d9480f",
+    "description": "Donald Trump (b. 1946), US president in 2017-2021 and again from 2025: decisions and policies of his administrations and public events centred on him.",
+    "categories": [
+      "Figures"
+    ],
+    "translations": {
+      "es": {
+        "label": "Donald Trump",
+        "description": "Donald Trump (n. 1946), presidente de EE. UU. en 2017-2021 y de nuevo desde 2025: decisiones y políticas de sus gobiernos y hechos públicos centrados en él."
+      }
+    }
+  },
   "drone-warfare": {
     "label": "Drone warfare",
     "color": "#4f7a28",
