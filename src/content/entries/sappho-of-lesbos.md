@@ -5,7 +5,7 @@ date: {"year":-600,"circa":true}
 tags: ["greek-city-states","literature"]
 places: ["lesbos"]
 sources: ["https://en.wikipedia.org/wiki/Sappho"]
-translations: {"es":{"title":"Safo escribe en Lesbos","summary":"La poeta lírica Safo está activa en Lesbos hacia 600 a. C. De los unos 10.000 versos que se cree que compuso se conservan unos 650, y la Oda a Afrodita es el único poema completo. Da nombre a la estrofa sáfica."}}
+translations: {"es":{"title":"Safo escribe en Lesbos","summary":"La poeta lírica Safo aparece en Lesbos hacia 600 a. C. De los unos 10.000 versos que se cree que compuso se conservan unos 650, y la Oda a Afrodita es el único poema completo. Da nombre a la estrofa sáfica."}}
 ---
 
 
