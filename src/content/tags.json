@@ -4546,6 +4546,21 @@
       }
     }
   },
+  "streaming": {
+    "label": "Streaming",
+    "color": "#ffb703",
+    "description": "Digital distribution of music and video over the internet, from Napster and the iTunes Store to Spotify, Apple Music and Netflix, and its effects on the culture industries.",
+    "categories": [
+      "Culture",
+      "Material culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Streaming",
+        "description": "La distribución digital de música y vídeo por internet, desde Napster y la tienda iTunes hasta Spotify, Apple Music y Netflix, y sus efectos sobre las industrias culturales."
+      }
+    }
+  },
   "suez-crisis": {
     "label": "Suez Crisis",
     "color": "#d17a3a",
