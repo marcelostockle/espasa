@@ -5500,6 +5500,20 @@
       "extract": "La ciudad de Kagoshima  es la ciudad capital de la prefectura de Kagoshima, sobre la región de Kyushu en la isla de Kyushu, al suroeste de Japón.\nSe estimaba que el 1 de enero de 2005 la ciudad tenía 605 650 habitantes, lo que representa una densidad de población de 1107,81 personas por km². Su extensión es de 546,71 km². La ciudad es apodada \"Nápoles de Oriente\" por su localización en una bahía, su clima templado y su localización junto al estratovolcán Sakurajima, parecido al Vesubio."
     }
   },
+  "kaifeng": {
+    "title": "Kaifeng",
+    "url": "https://en.wikipedia.org/wiki/Kaifeng",
+    "extract": "Kaifeng is a prefecture-level city in east-central Henan province, China. It is one of the Eight Ancient Capitals of China, having been the capital eight times in history.",
+    "description": "City in Henan, China",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%E9%BE%99%E4%BA%AD%E5%85%AC%E5%9B%AD_-_panoramio_%282%29.jpg/330px-%E9%BE%99%E4%BA%AD%E5%85%AC%E5%9B%AD_-_panoramio_%282%29.jpg",
+    "lat": 34.795,
+    "lon": 114.345,
+    "es": {
+      "title": "Kaifeng",
+      "url": "https://es.wikipedia.org/wiki/Kaifeng",
+      "extract": "Kaifeng es una ciudad-prefectura en la provincia de Henan, en la República Popular China. Está situada a orillas del río Amarillo y a unos 70 kilómetros de la capital provincial, Zhengzhou. Su área es de 6240 km² y su población total para 2018 superó los 4,56 millones de habitantes."
+    }
+  },
   "kairouan": {
     "title": "Kairouan",
     "url": "https://en.wikipedia.org/wiki/Kairouan",
@@ -9518,6 +9532,20 @@
       "extract": "Recife es una ciudad situada en la costa del océano Atlántico del noreste de Brasil. Es la capital del Estado de Pernambuco. Tiene una población estimada, en 2025, de 1.710.000 habitantes."
     }
   },
+  "redmond-washington": {
+    "title": "Redmond, Washington",
+    "url": "https://en.wikipedia.org/wiki/Redmond%2C_Washington",
+    "extract": "Redmond is a city in King County, Washington, United States, located 15 miles (24 km) east of Seattle. The population was 73,256 at the 2020 census. The city has a large technology industry in addition to being a bedroom community for Seattle, which lies across Lake Washington on State Route 520.",
+    "description": "City in Washington, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Redmond_aerial%2C_April_2023.png/330px-Redmond_aerial%2C_April_2023.png",
+    "lat": 47.67611111,
+    "lon": -122.11694444,
+    "es": {
+      "title": "Redmond (Washington)",
+      "url": "https://es.wikipedia.org/wiki/Redmond_(Washington)",
+      "extract": "Redmond es una ciudad localizada en el Condado de King. Está situado a 26 km al este de Seattle, en el borde este del área metropolitana de Seattle. En 2010 la Oficina del Censo estimó que la ciudad tenía una población total de 54.144 personas, mayor a la del censo de 2000, de 45 256. Redmond es conocida por tener en ella la sede de Microsoft y de Nintendo of America. Redmond es también conocida como \"Bicycle Capital of the Northwest\", por la celebración anual de una carrera de bicicletas en su ciudad y en el único velódromo del estado."
+    }
+  },
   "redruth": {
     "title": "Redruth",
     "url": "https://en.wikipedia.org/wiki/Redruth",
@@ -11098,6 +11126,20 @@
       "title": "Basílica de San Pedro",
       "url": "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_San_Pedro",
       "extract": "La basílica papal de San Pedro, conocida comúnmente como basílica de San Pedro, es un templo católico situado en la Ciudad del Vaticano."
+    }
+  },
+  "st-petersburg-florida": {
+    "title": "St. Petersburg, Florida",
+    "url": "https://en.wikipedia.org/wiki/St._Petersburg%2C_Florida",
+    "extract": "St. Petersburg is a city in Pinellas County, Florida, United States. As of the 2020 census, the population was 258,308, making it the fifth-most populous city in Florida and the most populous city in the state that is not a county seat. It is the second-most populous city in the Tampa Bay area, which is the second-largest metropolitan area in Florida with an estimated population of about 3.29 million in 2022.",
+    "description": "City in Florida, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/St._Pete_Pier_-_East.jpg/330px-St._Pete_Pier_-_East.jpg",
+    "lat": 27.82222222,
+    "lon": -82.67055556,
+    "es": {
+      "title": "San Petersburgo (Florida)",
+      "url": "https://es.wikipedia.org/wiki/San_Petersburgo_(Florida)",
+      "extract": "Conocida en español como San Petersburgo, en inglés oficialmente St. Petersburg, también llamada St. Pete, es una ciudad situada en el Sudeste de Estados Unidos de Norteamérica, en el condado de Pinellas, del estado de Florida. Es un famoso destino turístico para norteamericanos y europeos, así como una ciudad clave en la política presidencial de Estados Unidos, siendo un territorio en disputa en cada elección según datos de 2020. Su población es de 258.308 habitantes, lo que la convierte en la cuarta ciudad más grande del estado de Florida."
     }
   },
   "st-thomas-abbey-brno": {

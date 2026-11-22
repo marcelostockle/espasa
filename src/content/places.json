@@ -3635,6 +3635,15 @@
       }
     }
   },
+  "kaifeng": {
+    "label": "Kaifeng",
+    "wikipedia": "Kaifeng",
+    "translations": {
+      "es": {
+        "label": "Kaifeng"
+      }
+    }
+  },
   "kairouan": {
     "label": "Kairouan",
     "wikipedia": "Kairouan",
@@ -6281,6 +6290,15 @@
       }
     }
   },
+  "redmond-washington": {
+    "label": "Redmond, Washington",
+    "wikipedia": "Redmond, Washington",
+    "translations": {
+      "es": {
+        "label": "Redmond (Washington)"
+      }
+    }
+  },
   "redruth": {
     "label": "Redruth",
     "wikipedia": "Redruth",
@@ -7322,6 +7340,15 @@
     "translations": {
       "es": {
         "label": "Basílica de San Pedro"
+      }
+    }
+  },
+  "st-petersburg-florida": {
+    "label": "St. Petersburg, Florida",
+    "wikipedia": "St. Petersburg, Florida",
+    "translations": {
+      "es": {
+        "label": "San Petersburgo (Florida)"
       }
     }
   },

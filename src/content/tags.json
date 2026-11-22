@@ -1391,6 +1391,21 @@
       }
     }
   },
+  "encyclopedias": {
+    "label": "Encyclopedias",
+    "color": "#9a6b2f",
+    "description": "Attempts to gather and organize human knowledge in one work, from Pliny's Natural History and the Chinese leishu to Britannica, the Encyclopédie and Wikipedia.",
+    "categories": [
+      "Knowledge",
+      "Culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Enciclopedias",
+        "description": "Intentos de reunir y ordenar el saber humano en una sola obra, desde la Historia natural de Plinio y los leishu chinos hasta la Britannica, la Encyclopédie y Wikipedia."
+      }
+    }
+  },
   "energy": {
     "label": "Energy",
     "color": "#b5651d",
