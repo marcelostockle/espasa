@@ -557,6 +557,15 @@
       }
     }
   },
+  "australia": {
+    "label": "Australia",
+    "wikipedia": "Australia",
+    "translations": {
+      "es": {
+        "label": "Australia"
+      }
+    }
+  },
   "austria": {
     "label": "Austria",
     "wikipedia": "Austria",
@@ -1742,6 +1751,15 @@
     "translations": {
       "es": {
         "label": "Chongqing"
+      }
+    }
+  },
+  "christchurch": {
+    "label": "Christchurch",
+    "wikipedia": "Christchurch",
+    "translations": {
+      "es": {
+        "label": "Christchurch"
       }
     }
   },
@@ -4949,6 +4967,15 @@
       }
     }
   },
+  "myanmar": {
+    "label": "Myanmar",
+    "wikipedia": "Myanmar",
+    "translations": {
+      "es": {
+        "label": "Myanmar"
+      }
+    }
+  },
   "mycale": {
     "label": "Mycale",
     "wikipedia": "Mycale",
@@ -6791,6 +6818,15 @@
     "translations": {
       "es": {
         "label": "Mar de los Sargazos"
+      }
+    }
+  },
+  "sausalito": {
+    "label": "Sausalito, California",
+    "wikipedia": "Sausalito, California",
+    "translations": {
+      "es": {
+        "label": "Sausalito (California)"
       }
     }
   },

@@ -4359,6 +4359,21 @@
       }
     }
   },
+  "social-media": {
+    "label": "Social media",
+    "color": "#ff6f91",
+    "description": "Online platforms for sharing personal and public content, from bulletin boards and blogs to Facebook, YouTube, Twitter/X and TikTok, and the business, political and regulatory debates around them.",
+    "categories": [
+      "Society",
+      "Knowledge"
+    ],
+    "translations": {
+      "es": {
+        "label": "Redes sociales",
+        "description": "Plataformas en línea para compartir contenido personal y público, desde los foros y los blogs hasta Facebook, YouTube, Twitter/X y TikTok, y los debates empresariales, políticos y regulatorios que las rodean."
+      }
+    }
+  },
   "socrates": {
     "label": "Socrates",
     "color": "#8cd21e",
