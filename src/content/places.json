@@ -80,6 +80,15 @@
       }
     }
   },
+  "akron": {
+    "label": "Akron, Ohio",
+    "wikipedia": "Akron, Ohio",
+    "translations": {
+      "es": {
+        "label": "Akron (Ohio)"
+      }
+    }
+  },
   "alamo-mission": {
     "label": "The Alamo, San Antonio",
     "wikipedia": "Alamo Mission in San Antonio",
@@ -4904,6 +4913,15 @@
       }
     }
   },
+  "muelheim": {
+    "label": "Mülheim an der Ruhr",
+    "wikipedia": "Mülheim an der Ruhr",
+    "translations": {
+      "es": {
+        "label": "Mülheim an der Ruhr"
+      }
+    }
+  },
   "mumbai": {
     "label": "Mumbai",
     "wikipedia": "Mumbai",
@@ -4991,6 +5009,15 @@
     "translations": {
       "es": {
         "label": "Nagorno-Karabaj"
+      }
+    }
+  },
+  "nairobi": {
+    "label": "Nairobi",
+    "wikipedia": "Nairobi",
+    "translations": {
+      "es": {
+        "label": "Nairobi"
       }
     }
   },
@@ -6758,6 +6785,15 @@
       }
     }
   },
+  "sargasso-sea": {
+    "label": "Sargasso Sea",
+    "wikipedia": "Sargasso Sea",
+    "translations": {
+      "es": {
+        "label": "Mar de los Sargazos"
+      }
+    }
+  },
   "savannah-georgia": {
     "label": "Savannah, Georgia",
     "wikipedia": "Savannah, Georgia",
@@ -8360,6 +8396,15 @@
       }
     }
   },
+  "wilmington-delaware": {
+    "label": "Wilmington, Delaware",
+    "wikipedia": "Wilmington, Delaware",
+    "translations": {
+      "es": {
+        "label": "Wilmington (Delaware)"
+      }
+    }
+  },
   "wittenberg": {
     "label": "Wittenberg",
     "wikipedia": "Wittenberg",
@@ -8555,6 +8600,15 @@
     "translations": {
       "es": {
         "label": "Yodfat (Jotapata)"
+      }
+    }
+  },
+  "yonkers": {
+    "label": "Yonkers, New York",
+    "wikipedia": "Yonkers, New York",
+    "translations": {
+      "es": {
+        "label": "Yonkers (Nueva York)"
       }
     }
   },

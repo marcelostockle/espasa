@@ -1377,6 +1377,20 @@
       }
     }
   },
+  "environment": {
+    "label": "Environment",
+    "color": "#6a994e",
+    "description": "Pollution, conservation and environmental policy: how human activity changes ecosystems and how governments respond.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Medio ambiente",
+        "description": "Contaminación, conservación y política ambiental: cómo la actividad humana modifica los ecosistemas y cómo responden los gobiernos."
+      }
+    }
+  },
   "etruscans": {
     "label": "Etruscans",
     "color": "#d2a679",
@@ -3516,6 +3530,21 @@
       "es": {
         "label": "Filipo II de Macedonia",
         "description": "Filipo II (382-336 a. C.), rey de Macedonia, que unificó Grecia bajo liderazgo macedonio y preparó la invasión de Persia."
+      }
+    }
+  },
+  "plastics": {
+    "label": "Polymers and plastics",
+    "color": "#17a2b8",
+    "description": "The chemistry of polymers and the invention, manufacture and use of rubber, plastics and synthetic fibres, from vulcanization and celluloid to nylon, polyethylene and PET.",
+    "categories": [
+      "Knowledge",
+      "Material culture"
+    ],
+    "translations": {
+      "es": {
+        "label": "Polímeros y plásticos",
+        "description": "La química de los polímeros y la invención, fabricación y uso del caucho, los plásticos y las fibras sintéticas, desde la vulcanización y el celuloide hasta el nailon, el polietileno y el PET."
       }
     }
   },

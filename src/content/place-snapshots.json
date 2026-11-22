@@ -120,6 +120,20 @@
       "extract": "Aix-en-Provence, o Aix en Provenza, es una ciudad francesa, antigua capital de la región histórica de Provenza. Aunque está a unos 30 km al norte de Marsella, se considera parte de su área metropolitana, siendo la tercera aglomeración urbana más grande del país tras París y Lyon. Es una de las subprefecturas del departamento de Bocas del Ródano, en la región de Provenza-Alpes-Costa Azul."
     }
   },
+  "akron": {
+    "title": "Akron, Ohio",
+    "url": "https://en.wikipedia.org/wiki/Akron%2C_Ohio",
+    "extract": "Akron is a city in Summit County, Ohio, United States, and its county seat. It is located in Northeast Ohio along the Little Cuyahoga River, approximately 40 miles (64 km) south of Cleveland. Akron had a population of 190,469 at the 2020 census, making it the fifth-most populous city in Ohio. The Akron metropolitan area has an estimated 702,000 residents.",
+    "description": "City in the United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Stan_Hywet_Hall_2.jpg/330px-Stan_Hywet_Hall_2.jpg",
+    "lat": 41.08055556,
+    "lon": -81.52222222,
+    "es": {
+      "title": "Akron",
+      "url": "https://es.wikipedia.org/wiki/Akron",
+      "extract": "Akron es una ciudad ubicada en el condado de Summit en el estado estadounidense de Ohio. En el Censo de 2010 tenía una población de 212.110 habitantes y una densidad poblacional de 1232,53 personas por km²."
+    }
+  },
   "alamo-mission": {
     "title": "Alamo Mission",
     "url": "https://en.wikipedia.org/wiki/Alamo_Mission",
@@ -7436,6 +7450,20 @@
       "extract": "Monte Athos o Monte Atos es el nombre que recibe el área montañosa que conforma la península más oriental de las tres que se extienden hacia el sur desde la península Calcídica, situada en Macedonia Central, al norte de Grecia. En griego moderno se la llama Άγιον Όρος. En épocas clásicas, la península se llamaba en griego antiguo: Ἀκτή (Acté)."
     }
   },
+  "muelheim": {
+    "title": "Mülheim",
+    "url": "https://en.wikipedia.org/wiki/M%C3%BClheim",
+    "extract": "Mülheim, officially Mülheim an der Ruhr and also described as \"City on the River\", is a city in North Rhine-Westphalia in western Germany. It is located in the Ruhr Area between Duisburg, Essen, Oberhausen and Ratingen. It is home to many companies, and two Max Planck Institutes.",
+    "description": "City in North Rhine-Westphalia, Germany",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Schloss-Broich-2013-01-Alternative.jpg/330px-Schloss-Broich-2013-01-Alternative.jpg",
+    "lat": 51.4275,
+    "lon": 6.8825,
+    "es": {
+      "title": "Mülheim an der Ruhr",
+      "url": "https://es.wikipedia.org/wiki/M%C3%BClheim_an_der_Ruhr",
+      "extract": "Mülheim an der Ruhr es una ciudad alemana del estado de Renania del Norte-Westfalia, situada entre las ciudades de Essen y Duisburgo, a orillas del Ruhr. Es sede de diversas empresas, especialmente de la industria alimentaria, como la Compañía Aldi Süd, el Grupo Harke y el Grupo Tengelmann."
+    }
+  },
   "mumbai": {
     "title": "Mumbai",
     "url": "https://en.wikipedia.org/wiki/Mumbai",
@@ -7574,6 +7602,20 @@
       "title": "Alto Karabaj",
       "url": "https://es.wikipedia.org/wiki/Alto_Karabaj",
       "extract": "El Alto Karabaj o Nagorno Karabaj fue una unidad administrativa de la República Socialista Soviética de Azerbaiyán, desde 1923 hasta 1991, cuando la Asamblea Nacional de Azerbaiyán tomó la decisión sobre la abolición de la Región Autónoma de Nagorno-Karabaj."
+    }
+  },
+  "nairobi": {
+    "title": "Nairobi",
+    "url": "https://en.wikipedia.org/wiki/Nairobi",
+    "extract": "Nairobi is the capital and largest city of Kenya, located in the south-central part of the country. As of 2026, it has a population of 5.6 million and a metropolitan population of 15.95 million, making it the 8th most populous city in Africa and the 4th most populous metropolitan area. The city goes beyond its borders and has expanded into neighbouring counties, making it the 4th largest metropolitan area in Africa.",
+    "description": "Capital and largest city of Kenya",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nairobi_skyline_from_Gem_Hotel.jpg/330px-Nairobi_skyline_from_Gem_Hotel.jpg",
+    "lat": -1.28638889,
+    "lon": 36.81722222,
+    "es": {
+      "title": "Nairobi",
+      "url": "https://es.wikipedia.org/wiki/Nairobi",
+      "extract": "Nairobi es la capital y ciudad más grande de la República de Kenia. El nombre Nairobi proviene de la frase masái Enkare Nyorobi, que significa «el lugar de aguas frescas», en referencia al río Nairobi que la atraviesa. No obstante, es conocida popularmente como «la ciudad verde en el sol». Se encuentra en la zona centro-sur del país, a una altitud de entre 1661 y 1795 metros, a orillas del río Nairobi."
     }
   },
   "najaf": {
@@ -10246,6 +10288,20 @@
       "extract": "Sardes fue una antigua ciudad de Asia Menor fundada por el rey lidio Giges (680-644 a. C.) como capital del antiguo reino de Lidia. Se corresponde con la actual Sart, en la provincia turca de Manisa, en la ladera septentrional del monte Tmolo, en el valle medio del río Pactolo, que desemboca en el mar Egeo."
     }
   },
+  "sargasso-sea": {
+    "title": "Sargasso Sea",
+    "url": "https://en.wikipedia.org/wiki/Sargasso_Sea",
+    "extract": "The Sargasso Sea is a region of the Atlantic Ocean bounded by four currents forming an ocean gyre. It is the only named sea without land boundaries. It is distinguished from other parts of the Atlantic Ocean by its characteristic brown Sargassum seaweed and calm blue waters.",
+    "description": "Region of the North Atlantic Ocean",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sargasso_2.svg/330px-Sargasso_2.svg.png",
+    "lat": 28,
+    "lon": -66,
+    "es": {
+      "title": "Mar de los Sargazos",
+      "url": "https://es.wikipedia.org/wiki/Mar_de_los_Sargazos",
+      "extract": "Mar de los Sargazos es el nombre de una región del océano Atlántico septentrional que se extiende entre los meridianos 70° y 40° O y los paralelos 25° a 35° N. Es un área caracterizada por sus aguas relativamente calmas y la presencia de numerosas algas del género Sargassum, que le dan su nombre."
+    }
+  },
   "savannah-georgia": {
     "title": "Savannah, Georgia",
     "url": "https://en.wikipedia.org/wiki/Savannah%2C_Georgia",
@@ -12662,6 +12718,20 @@
       "extract": "Wieluń es una ciudad situada en el centro de Polonia. Se encuentra en el voivodato de Łódź desde 1999, ya que entre 1975 y 1998 perteneció al voivodato de Sieradz."
     }
   },
+  "wilmington-delaware": {
+    "title": "Wilmington, Delaware",
+    "url": "https://en.wikipedia.org/wiki/Wilmington%2C_Delaware",
+    "extract": "Wilmington is the most populous city in the U.S. state of Delaware. It lies at the confluence of the Christina River and Brandywine Creek, near where the Christina flows into the Delaware River. \nThe population was 70,898 at the 2020 census. It is the county seat of New Castle County. Wilmington is one of the major cities in the Philadelphia metropolitan area and the core city of the Wilmington metropolitan division, which had 740,426 residents in 2020.",
+    "description": "Largest city in Delaware, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Wilmington%2C_Delaware%2C_USA.jpg/330px-Wilmington%2C_Delaware%2C_USA.jpg",
+    "lat": 39.74583333,
+    "lon": -75.54666667,
+    "es": {
+      "title": "Wilmington (Delaware)",
+      "url": "https://es.wikipedia.org/wiki/Wilmington_(Delaware)",
+      "extract": "Wilmington es la mayor ciudad del estado de Delaware, Estados Unidos, y se encuentra localizada donde el río Christina y el riachuelo de Brandywine desembocan en el río Delaware. Es la capital del condado de New Castle, y uno de los conos urbanos más extensos del área metropolitana del valle de Delaware. Fue fundada por el propietario Thomas Penn para su amigo Spencer Compton, conde de Wilmington, quien fue a su vez el primer ministro durante el reinado de Jorge II de Gran Bretaña."
+    }
+  },
   "wittenberg": {
     "title": "Wittenberg",
     "url": "https://en.wikipedia.org/wiki/Wittenberg",
@@ -12959,6 +13029,20 @@
     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Moshavyodfat.jpg/330px-Moshavyodfat.jpg",
     "lat": 32.83694444,
     "lon": 35.27361111
+  },
+  "yonkers": {
+    "title": "Yonkers, New York",
+    "url": "https://en.wikipedia.org/wiki/Yonkers%2C_New_York",
+    "extract": "Yonkers is a city in Westchester County, New York, United States. With a population of 211,569 at the 2020 census, its highest decennial census count ever, Yonkers is the third-most populous city in New York state and the most populous city in Westchester County. Yonkers is classified as an inner suburb of New York City, immediately north of the Bronx and approximately 2.4 miles (4 km) north of Marble Hill.",
+    "description": "City in the United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Yonkers%2C_NY_%2853566551424%29.jpg/330px-Yonkers%2C_NY_%2853566551424%29.jpg",
+    "lat": 40.94138889,
+    "lon": -73.86444444,
+    "es": {
+      "title": "Yonkers",
+      "url": "https://es.wikipedia.org/wiki/Yonkers",
+      "extract": "Yonkers es una ciudad ubicada en el condado de Westchester, en el Estado estadounidense de Nueva York. En 2008, tenía una población de 201.588 habitantes y una densidad de población de 4.189,9 personas por km², convirtiéndola en la cuarta ciudad más poblada del Estado y la más poblada del condado."
+    }
   },
   "yorktown-virginia": {
     "title": "Yorktown, Virginia",
