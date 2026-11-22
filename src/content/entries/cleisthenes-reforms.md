@@ -5,7 +5,7 @@ date: {"year":-508}
 tags: ["greek-city-states","athens","politics"]
 places: ["athens"]
 sources: ["https://en.wikipedia.org/wiki/Cleisthenes"]
-translations: {"es":{"title":"Las reformas de Clístenes: nace la democracia ateniense","summary":"En 508 a. C., tras el fracaso de Iságoras, Clístenes sustituye las cuatro tribus de parentesco por diez tribus basadas en la residencia, amplía el consejo a 500 miembros e introduce el sorteo. Se le llama padre de la democracia ateniense, aunque él la llamaba isonomía."}}
+translations: {"es":{"title":"Las reformas de Clístenes: nace la democracia ateniense","summary":"En 508 a. C., tras el fracaso de Iságoras, Clístenes sustituye las cuatro tribus de parentesco por diez tribus basadas en la residencia, amplía el ayuntamiento a 500 miembros e introduce el sorteo. Se le llama padre de la democracia ateniense, aunque él la llamaba isonomía."}}
 ---
 
 

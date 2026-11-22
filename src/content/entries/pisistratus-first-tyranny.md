@@ -5,7 +5,7 @@ date: {"year":-561}
 tags: ["greek-city-states","athens","politics"]
 places: ["athens"]
 sources: ["https://en.wikipedia.org/wiki/Peisistratos_(tyrant)"]
-translations: {"es":{"title":"Pisístrato toma el poder en Atenas","summary":"Tras lograr una guardia personal con una herida fingida, Pisístrato toma la Acrópolis en 561 a. C. y se convierte en tirano de Atenas. Las facciones rivales lo expulsan dos veces en los años siguientes."}}
+translations: {"es":{"title":"Pisístrato toma el poder en Atenas","summary":"Fingiendo heridas, Pisístrato asegura una guardia personal y toma la Acrópolis en 561 a. C., convirtiéndose en tirano de Atenas. Bandos rivales lo expulsan dos veces en los años siguientes."}}
 ---
 
 

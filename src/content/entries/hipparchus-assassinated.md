@@ -5,7 +5,7 @@ date: {"year":-514}
 tags: ["greek-city-states","athens"]
 places: ["athens"]
 sources: ["https://en.wikipedia.org/wiki/Cleisthenes"]
-translations: {"es":{"title":"Asesinato de Hiparco","summary":"En 514 a. C. Harmodio y Aristogitón matan a Hiparco, hermano del tirano Hipias. La conjura no acaba con la tiranía y el gobierno de Hipias se vuelve más duro."}}
+translations: {"es":{"title":"Asesinato de Hiparco","summary":"En 514 a. C. Harmodio y Aristogitón matan a Hiparco, hermano del tirano Hipias. El complot no acaba con la tiranía y el gobierno de Hipias se vuelve más severo."}}
 ---
 
 

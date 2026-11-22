@@ -5,7 +5,7 @@ date: {"year":1811}
 end: {"year":1812,"month":3}
 tags: ["cuba","spain","slave-trade","politics"]
 sources: ["https://en.wikipedia.org/wiki/Aponte_Rebellion"]
-translations: {"es":{"title":"Se descubre en Cuba la conspiración abolicionista de José Antonio Aponte","summary":"Una conspiración dirigida desde La Habana por el carpintero negro libre José Antonio Aponte se extiende por la isla entre 1811 y marzo de 1812, mientras crece la economía azucarera. Las autoridades españolas la aplastan y ejecutan a sus jefes."}}
+translations: {"es":{"title":"Se descubre en Cuba la conspiración abolicionista de José Antonio Aponte","summary":"Una conspiración dirigida desde La Habana por el carpintero negro libre José Antonio Aponte se extiende por la isla entre 1811 y marzo de 1812, mientras crece la economía azucarera. Las autoridades españolas la impiden y ejecutan a sus jefes."}}
 ---
 
 

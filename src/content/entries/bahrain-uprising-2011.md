@@ -5,7 +5,7 @@ date: {"year":2011,"month":2,"day":14}
 tags: ["arab-spring","politics","saudi-arabia"]
 places: ["manama"]
 sources: ["https://en.wikipedia.org/wiki/Bahraini_uprising_of_2011"]
-translations: {"es":{"title":"Las protestas en Manama son aplastadas con tropas lideradas por Arabia Saudí","summary":"Desde el 14 de febrero los manifestantes, en su mayoría chiíes, ocupan la rotonda de la Perla en Manama para exigir reformas a la monarquía suní de Baréin. El 14 de marzo entran fuerzas saudíes y emiratíes, y el campamento es desalojado dos días después."}}
+translations: {"es":{"title":"Tropas lideradas por Arabia Saudí suprimen las protestas en Manama","summary":"Desde el 14 de febrero los manifestantes, en su mayoría chiíes, ocupan la rotonda de la Perla en Manama para exigir reformas a la monarquía suní de Baréin. El 14 de marzo entran fuerzas saudíes y emiratíes, y el campamento es desalojado dos días después."}}
 ---
 
 
