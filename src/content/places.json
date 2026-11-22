@@ -1871,6 +1871,15 @@
       }
     }
   },
+  "colorado-state-fair": {
+    "label": "Colorado State Fair",
+    "wikipedia": "Colorado State Fair",
+    "translations": {
+      "es": {
+        "label": "Feria Estatal de Colorado"
+      }
+    }
+  },
   "compiegne": {
     "label": "Compiègne",
     "wikipedia": "Compiègne",
@@ -4964,6 +4973,15 @@
     "translations": {
       "es": {
         "label": "Monte Athos"
+      }
+    }
+  },
+  "mountain-view-california": {
+    "label": "Mountain View, California",
+    "wikipedia": "Mountain View, California",
+    "translations": {
+      "es": {
+        "label": "Mountain View (California)"
       }
     }
   },
@@ -8168,6 +8186,15 @@
     "translations": {
       "es": {
         "label": "Biblioteca Apostólica Vaticana"
+      }
+    }
+  },
+  "vatican-city": {
+    "label": "Vatican City",
+    "wikipedia": "Vatican City",
+    "translations": {
+      "es": {
+        "label": "Ciudad del Vaticano"
       }
     }
   },

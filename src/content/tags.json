@@ -254,6 +254,21 @@
       }
     }
   },
+  "artificial-intelligence": {
+    "label": "Artificial intelligence",
+    "color": "#e8590c",
+    "description": "Machine learning, large language models and generative AI as a social and cultural phenomenon: the events, disputes, laws and fears that shaped how the public sees them.",
+    "categories": [
+      "Knowledge",
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Inteligencia artificial",
+        "description": "El aprendizaje automático, los grandes modelos de lenguaje y la IA generativa como fenómeno social y cultural: los hechos, disputas, leyes y temores que moldearon cómo los ve el público."
+      }
+    }
+  },
   "athens": {
     "label": "Athens",
     "color": "#1eb41e",

@@ -2841,6 +2841,15 @@
       "extract": "Colonia del Sacramento, conocida en el medio local como Colonia, es la capital del departamento de Colonia, en el suroeste de Uruguay. Está ubicada en la ribera norte —izquierda— del Río de la Plata, a 177 km de Montevideo y a 50 km de la ciudad de Buenos Aires en barco."
     }
   },
+  "colorado-state-fair": {
+    "title": "Colorado State Fair",
+    "url": "https://en.wikipedia.org/wiki/Colorado_State_Fair",
+    "extract": "The Colorado State Fair is an event held annually in late August in Pueblo, Colorado. The state fair has been a tradition since October 9, 1872.",
+    "description": "Annual event",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/be/Colorado_State_Fair_Logo.png/330px-Colorado_State_Fair_Logo.png",
+    "lat": 38.24903,
+    "lon": -104.63924
+  },
   "compiegne": {
     "title": "Compiègne",
     "url": "https://en.wikipedia.org/wiki/Compi%C3%A8gne",
@@ -7532,6 +7541,20 @@
       "title": "Monte Athos",
       "url": "https://es.wikipedia.org/wiki/Monte_Athos",
       "extract": "Monte Athos o Monte Atos es el nombre que recibe el área montañosa que conforma la península más oriental de las tres que se extienden hacia el sur desde la península Calcídica, situada en Macedonia Central, al norte de Grecia. En griego moderno se la llama Άγιον Όρος. En épocas clásicas, la península se llamaba en griego antiguo: Ἀκτή (Acté)."
+    }
+  },
+  "mountain-view-california": {
+    "title": "Mountain View, California",
+    "url": "https://en.wikipedia.org/wiki/Mountain_View%2C_California",
+    "extract": "Mountain View is a city in Santa Clara County, California, United States, part of the San Francisco Bay Area. Named for its views of the Santa Cruz Mountains, the population was 82,376 at the 2020 census.",
+    "description": "City in California, United States",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Moffett_Field.jpg/330px-Moffett_Field.jpg",
+    "lat": 37.38611111,
+    "lon": -122.08388889,
+    "es": {
+      "title": "Mountain View (condado de Santa Clara)",
+      "url": "https://es.wikipedia.org/wiki/Mountain_View_(condado_de_Santa_Clara)",
+      "extract": "Mountain View es una ciudad situada en el condado de Santa Clara, California, Estados Unidos. Tiene una población estimada, a mediados de 2023, de 81 785 habitantes."
     }
   },
   "muelheim": {
@@ -12390,6 +12413,20 @@
       "title": "Biblioteca Apostólica Vaticana",
       "url": "https://es.wikipedia.org/wiki/Biblioteca_Apost%C3%B3lica_Vaticana",
       "extract": "La Biblioteca Apostólica Vaticana es la biblioteca de la Santa Sede, ubicada en Ciudad del Vaticano. Lleva el nombre de \"apostólica\", porque es una institución que, desde su fundación, es considerada la \"Biblioteca del Papa\", ya que le pertenece directamente. Es una de las más antiguas bibliotecas del mundo y custodia una muy importante colección de textos históricos."
+    }
+  },
+  "vatican-city": {
+    "title": "Vatican City",
+    "url": "https://en.wikipedia.org/wiki/Vatican_City",
+    "extract": "Vatican City, officially the Vatican City State, is a landlocked sovereign city-state in Southern Europe. Ruled by the pope, it is an enclave within the city of Rome, Italy, and serves as the administrative centre of the Catholic Church. Vatican City is governed by the Holy See, the episcopal see of the Diocese of Rome and central authority of the church worldwide, which is itself a sovereign entity under international law.",
+    "description": "Enclaved Holy See's independent city-state",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/330px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png",
+    "lat": 41.9025,
+    "lon": 12.4525,
+    "es": {
+      "title": "Ciudad del Vaticano",
+      "url": "https://es.wikipedia.org/wiki/Ciudad_del_Vaticano",
+      "extract": "La Ciudad del Vaticano, oficialmente Estado de la Ciudad del Vaticano, o simplemente el Vaticano, es un micro-Estado soberano cuyo territorio es un enclave dentro de la ciudad de Roma, en Italia. Es el país más pequeño del mundo en extensión y población. Su forma de gobierno, de acuerdo con la clasificación internacional, es la de una teocracia organizada como una monarquía electiva."
     }
   },
   "veii": {
