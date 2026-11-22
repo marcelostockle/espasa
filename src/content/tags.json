@@ -4705,6 +4705,20 @@
       }
     }
   },
+  "tariffs": {
+    "label": "Tariffs",
+    "color": "#5f3dc4",
+    "description": "Import duties and trade wars: tariffs as a tool of revenue, protection and pressure, and the disputes, deals and court rulings they provoke.",
+    "categories": [
+      "Society"
+    ],
+    "translations": {
+      "es": {
+        "label": "Aranceles",
+        "description": "Derechos de importación y guerras comerciales: los aranceles como instrumento de recaudación, protección y presión, y las disputas, acuerdos y sentencias que provocan."
+      }
+    }
+  },
   "tchaikovsky": {
     "label": "Pyotr Ilyich Tchaikovsky",
     "color": "#7ec8e3",

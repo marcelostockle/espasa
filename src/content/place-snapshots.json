@@ -1992,6 +1992,20 @@
       "extract": "El Ferrocarril de Birmania, también conocido como el Ferrocarril de la Muerte, el Ferrocarril Tailandia-Birmania y otros nombres, era una línea de ferrocarril entre Bangkok, Tailandia y Rangún, Birmania, construida por el Imperio del Japón durante la Segunda Guerra Mundial para apoyar a sus tropas en la campaña de Birmania."
     }
   },
+  "busan": {
+    "title": "Busan",
+    "url": "https://en.wikipedia.org/wiki/Busan",
+    "extract": "Busan, officially Busan Metropolitan City, is the second most populous city in South Korea, after Seoul; it has a population of over 3.3 million as of 2024. It is the economic, cultural and educational center of southeastern South Korea, with its port being South Korea's busiest and the sixth-busiest in the world. The surrounding \"Southeastern Maritime Industrial Region\" is South Korea's largest industrial area. The large volumes of port traffic and urban population in excess of 1 million makes Busan a Large-Port metropolis using the Southampton System of Port-City classification. As of 2025, Busan Port is the primary port in Korea and the world's sixth-largest container port.",
+    "description": "City in South Korea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Busan_City_Haeundae_District_%2801%29.jpg/330px-Busan_City_Haeundae_District_%2801%29.jpg",
+    "lat": 35.18,
+    "lon": 129.075,
+    "es": {
+      "title": "Busan",
+      "url": "https://es.wikipedia.org/wiki/Busan",
+      "extract": "Busan, pronunciado: [pu.san], oficialmente Ciudad Metropolitana de Busan, anteriormente conocida como Pusan, es una de las seis ciudades metropolitanas que, junto a las nueve provincias, la ciudad especial y la ciudad autónoma especial, forman Corea del Sur."
+    }
+  },
   "byblos": {
     "title": "Byblos",
     "url": "https://en.wikipedia.org/wiki/Byblos",
@@ -2158,6 +2172,20 @@
       "title": "Campamento Dubois",
       "url": "https://es.wikipedia.org/wiki/Campamento_Dubois",
       "extract": "El Campamento Dubois, ubicado cerca del actual Wood River, Illinois, sirvió como campamento de invierno y punto de partida para la expedición de Lewis y Clark."
+    }
+  },
+  "canada": {
+    "title": "Canada",
+    "url": "https://en.wikipedia.org/wiki/Canada",
+    "extract": "Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the second-largest country by total area, with the longest coastline of any country. Its border with the United States is the longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. With a population of over 41 million, it has widely varying population densities, with the majority residing in its urban areas and large areas being sparsely populated. Its capital is Ottawa and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.",
+    "description": "Country in North America",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/330px-Flag_of_Canada_%28Pantone%29.svg.png",
+    "lat": 60,
+    "lon": -100,
+    "es": {
+      "title": "Canadá",
+      "url": "https://es.wikipedia.org/wiki/Canad%C3%A1",
+      "extract": "Canadá es un país soberano ubicado en América del Norte, cuya forma de gobierno es la monarquía parlamentaria federal. Su territorio está organizado en diez provincias y tres territorios. Su capital es la ciudad de Ottawa y su ciudad más poblada es Toronto, seguida por Montreal y Vancouver."
     }
   },
   "cannae": {
@@ -3285,6 +3313,20 @@
       "title": "Davis (California)",
       "url": "https://es.wikipedia.org/wiki/Davis_(California)",
       "extract": "Davis es una ciudad en el norte del estado de California, en Estados Unidos. Según el censo de 2010, en ese momento tenía una población de 65,622 habitantes. Tiene una población estimada, a mediados de 2019, de 69,413 habitantes."
+    }
+  },
+  "davos": {
+    "title": "Davos",
+    "url": "https://en.wikipedia.org/wiki/Davos",
+    "extract": "Davos is an Alpine resort town and municipality in the Prättigau/Davos Region in the canton of the Grisons, Switzerland. It has a permanent population of 10,832 (2020). Davos is located on the Landwasser river, in the Rhaetian Alps, between the Plessur and Albula Ranges.",
+    "description": "Municipality in the Grisons, Switzerland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/City_of_Davos.jpg/330px-City_of_Davos.jpg",
+    "lat": 46.8,
+    "lon": 9.83333333,
+    "es": {
+      "title": "Davos",
+      "url": "https://es.wikipedia.org/wiki/Davos",
+      "extract": "Davos es una ciudad y comuna suiza del cantón de los Grisones, situada en la región de Prettigovia/Davos."
     }
   },
   "dayton-ohio": {
@@ -4506,6 +4548,20 @@
       "title": "Gran Moravia",
       "url": "https://es.wikipedia.org/wiki/Gran_Moravia",
       "extract": "Gran Moravia fue un imperio medieval de la Europa central desarrollado entre el 833 y el siglo X, constituyendo la primera realidad estatal que se forjó entre los antepasados de checos, moravos y eslovacos. El núcleo territorial del imperio fue el río Morava, hoy en la República Checa y Eslovaquia, y en su expansión llegó a abarcar zonas de las modernas Hungría, Rumania, Polonia, Austria, Alemania, Serbia, Eslovenia, Croacia y Ucrania."
+    }
+  },
+  "greenland": {
+    "title": "Greenland",
+    "url": "https://en.wikipedia.org/wiki/Greenland",
+    "extract": "Greenland is an autonomous territory of the Kingdom of Denmark and is the largest of the kingdom's three constituent parts by land area, the others being Denmark proper and the Faroe Islands. Citizens of Greenland are citizens of Denmark. They are thus citizens of the European Union (EU), although Greenland is not part of the EU. It is the world's largest island and lies between the Arctic and Atlantic oceans, east of the Canadian Arctic Archipelago. It shares a small 1.2-kilometre (0.75 mi) border with Canada on Hans Island. The capital and largest city is Nuuk. Kaffeklubben Island off the northern coast is the world's northernmost undisputed point of land – Cape Morris Jesup on the main island was thought to be so until the 1960s. Economically, Greenland is heavily reliant on aid from Denmark, which has averaged 5.4 billion kr. annually in the period 2019–2023, amounting to more than 20% of the territory's gross domestic product.",
+    "description": "Autonomous territory of Denmark",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/330px-Flag_of_Greenland.svg.png",
+    "lat": 72,
+    "lon": -40,
+    "es": {
+      "title": "Groenlandia",
+      "url": "https://es.wikipedia.org/wiki/Groenlandia",
+      "extract": "Groenlandia es una isla situada en el hemisferio Norte, entre los océanos Atlántico y Glacial Ártico, que políticamente es una nación constituyente del Reino de Dinamarca. Con un total de 2 166 086 km², se considera la isla más grande del mundo, tomando la definición de Australia como masa continental. Su capital y ciudad más poblada es Nuuk. Durante más de un milenio Groenlandia ha estado asociada cultural y políticamente con Europa Septentrional."
     }
   },
   "greenville-ohio": {
@@ -11939,6 +11995,15 @@
       "url": "https://es.wikipedia.org/wiki/Troya",
       "extract": "Troya o Ilión es una antigua ciudad anatolia situada en el emplazamiento hoy conocido como la colina de Hisarlik,. Según los estudios de Frank Starke (1997), de J. David Hawkins (1998) y de W. D. Niemeier (1999), la palabra Wilusa era la denominación usada en hitita para la ciudad de Troya."
     }
+  },
+  "trump-turnberry": {
+    "title": "Trump Turnberry",
+    "url": "https://en.wikipedia.org/wiki/Trump_Turnberry",
+    "extract": "Trump Turnberry is a golf resort in Turnberry, South Ayrshire, located on the Firth of Clyde in southwest Scotland. It comprises three links golf courses, a golf academy, a five-star James Miller-designed hotel from 1906, along with lodge and cottage accommodations. Turnberry was a popular golf course and resort from its inception, made accessible because of the Maidens and Dunure Light Railway. It closed in both World Wars for military use, and there was concern it would not open following World War II, but it was redesigned by Mackenzie Ross and re-opened in 1951.",
+    "description": "Golf resort on the Firth of Clyde in South Ayrshire, southwest Scotland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/43/Trump_Turnberry_crest.svg/330px-Trump_Turnberry_crest.svg.png",
+    "lat": 55.31527778,
+    "lon": -4.83277778
   },
   "tskhinvali": {
     "title": "Tskhinvali",
