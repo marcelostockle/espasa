@@ -6,7 +6,7 @@ end: {"year":1628,"month":10,"day":28}
 tags: ["french-monarchy","huguenots","calvinism","war","politics"]
 places: ["la-rochelle"]
 sources: ["https://en.wikipedia.org/wiki/Siege_of_La_Rochelle"]
-translations: {"es":{"title":"Richelieu sitia La Rochelle y aplasta el poder militar de los hugonotes","summary":"Las fuerzas reales sitian la plaza hugonote de La Rochelle desde agosto de 1627 hasta su rendición el 28 de octubre de 1628, pese a tres expediciones inglesas de socorro fallidas. Su población baja de unos 27 000 a 5000 habitantes."}}
+translations: {"es":{"title":"Richelieu sitia La Rochelle y destruye el poder militar de los hugonotes","summary":"Las fuerzas reales sitian la plaza hugonote de La Rochelle desde agosto de 1627 hasta su rendición el 28 de octubre de 1628, pese a tres expediciones inglesas de socorro fallidas. Su población baja de unos 27 000 a 5000 habitantes."}}
 ---
 
 

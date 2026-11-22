@@ -5,7 +5,7 @@ date: {"year":1524,"month":8,"day":24}
 end: {"year":1525}
 tags: ["protestant-reformation","martin-luther","war","politics","holy-roman-empire"]
 sources: ["https://en.wikipedia.org/wiki/German_Peasants%27_War"]
-translations: {"es":{"title":"La Guerra de los Campesinos alemanes se alza contra los señores","summary":"Desde agosto de 1524 los campesinos se alzan en tierras alemanas y adoptan los Doce Artículos en marzo de 1525. Lutero pide a los nobles que los aplasten, y los rebeldes pierden en Frankenhausen el 15 de mayo de 1525. Mueren hasta 100 000."}}
+translations: {"es":{"title":"La Guerra de los Campesinos alemanes se alza contra los señores","summary":"Desde agosto de 1524 los campesinos se alzan en tierras alemanas y adoptan los Doce Artículos en marzo de 1525. Lutero pide a los nobles que los repriman, y los rebeldes pierden en Frankenhausen el 15 de mayo de 1525. Mueren hasta 100 000."}}
 ---
 
 

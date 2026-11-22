@@ -5,7 +5,7 @@ date: {"year":1936,"month":2,"day":26}
 tags: ["japan","japanese-empire","politics"]
 places: ["tokyo"]
 sources: ["https://en.wikipedia.org/wiki/February_26_incident","https://www.britannica.com/event/February-26-Incident"]
-translations: {"es":{"title":"Incidente del 26 de febrero en Tokio","summary":"Unos 1500 soldados, dirigidos por jóvenes oficiales, toman el centro de Tokio y asesinan a altos funcionarios para instaurar el gobierno imperial directo. Hirohito ordena aplastar la revuelta. Su desenlace refuerza la influencia del ejército sobre el gobierno."}}
+translations: {"es":{"title":"Incidente del 26 de febrero en Tokio","summary":"Unos 1500 soldados, dirigidos por jóvenes oficiales, toman el centro de Tokio y asesinan a altos funcionarios para instaurar el gobierno imperial directo. Hirohito ordena suprimir la revuelta. Su desenlace refuerza la influencia del ejército sobre el gobierno."}}
 ---
 
 

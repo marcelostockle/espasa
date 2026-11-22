@@ -6,7 +6,7 @@ end: {"year":1934,"month":2,"day":16}
 tags: ["austria","fascism","politics"]
 places: ["vienna"]
 sources: ["https://en.wikipedia.org/wiki/Austrian_Civil_War","https://en.wikipedia.org/wiki/Engelbert_Dollfuss"]
-translations: {"es":{"title":"El gobierno austríaco aplasta a los socialdemócratas en una breve guerra civil","summary":"Del 12 al 16 de febrero de 1934 el gobierno del canciller Engelbert Dollfuss, respaldado por el ejército y la Heimwehr, bombardea los bloques de viviendas obreras de Viena y derrota un levantamiento socialdemócrata. El partido es ilegalizado y Austria queda como Estado autoritario de partido único."}}
+translations: {"es":{"title":"El gobierno austríaco derrota a los socialdemócratas en una breve guerra civil","summary":"Del 12 al 16 de febrero de 1934 el gobierno del canciller Engelbert Dollfuss, respaldado por el ejército y la Heimwehr, bombardea los bloques de viviendas obreras de Viena y derrota un levantamiento socialdemócrata. El partido es ilegalizado y Austria queda como Estado autoritario de partido único."}}
 ---
 
 

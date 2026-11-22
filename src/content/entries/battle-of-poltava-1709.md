@@ -5,7 +5,7 @@ date: {"year":1709,"month":7,"day":8}
 tags: ["russian-empire","cossacks","sweden","ukraine","war"]
 places: ["poltava"]
 sources: ["https://en.wikipedia.org/wiki/Battle_of_Poltava","https://en.wikipedia.org/wiki/Ivan_Mazepa"]
-translations: {"es":{"title":"Batalla de Poltava: Pedro el Grande derrota a Carlos XII y al hetman cosaco Mazepa","summary":"Rusia aplasta al ejército sueco de Carlos XII, aliado del hetman ucraniano Iván Mazepa. Fracasa el intento de Mazepa de romper con Moscú, Suecia declina como potencia y la autonomía del Hetmanato frente a Rusia empieza a reducirse."}}
+translations: {"es":{"title":"Batalla de Poltava: Pedro el Grande derrota a Carlos XII y al hetman cosaco Mazepa","summary":"Rusia derrota al ejército sueco de Carlos XII, aliado del hetman ucraniano Iván Mazepa. Fracasa el intento de Mazepa de romper con Moscú, Suecia declina como potencia y la autonomía del Hetmanato frente a Rusia empieza a reducirse."}}
 ---
 
 

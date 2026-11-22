@@ -5,7 +5,7 @@ date: {"year":1956,"month":11,"day":4}
 tags: ["hungarian-revolution-of-1956","hungary","eastern-bloc","soviet-union","nikita-khrushchev","cold-war","war"]
 places: ["budapest"]
 sources: ["https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"]
-translations: {"es":{"title":"Los tanques soviéticos aplastan la Revolución húngara","summary":"Tras anunciar Nagy el 1 de noviembre la salida de Hungría del Pacto de Varsovia, las fuerzas soviéticas atacan Budapest el 4 de noviembre. Mueren unos 2500 húngaros y 700 soldados soviéticos, y unos 200 000 huyen. Occidente, distraído por Suez, solo protesta."}}
+translations: {"es":{"title":"Los tanques soviéticos sofocan la Revolución húngara","summary":"Tras anunciar Nagy el 1 de noviembre la salida de Hungría del Pacto de Varsovia, las fuerzas soviéticas atacan Budapest el 4 de noviembre. Mueren unos 2500 húngaros y 700 soldados soviéticos, y unos 200 000 huyen. Occidente, distraído por Suez, solo protesta."}}
 ---
 
 

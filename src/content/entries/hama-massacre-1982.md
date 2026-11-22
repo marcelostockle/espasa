@@ -5,7 +5,7 @@ date: {"year":1982,"month":2}
 tags: ["syria","political-islam","politics","war"]
 places: ["hama"]
 sources: ["https://en.wikipedia.org/wiki/Hama_massacre"]
-translations: {"es":{"title":"El ejército sirio aplasta una revuelta de los Hermanos Musulmanes en Hama","summary":"En febrero las fuerzas de Hafez al Asad sitian y bombardean la ciudad de Hama para acabar con un levantamiento de los Hermanos Musulmanes. Las estimaciones de muertos van de unos 10 000 a 40 000. La ciudad se convierte en símbolo del precio de desafiar al régimen de los Asad."}}
+translations: {"es":{"title":"El ejército sirio suprime una revuelta de los Hermanos Musulmanes en Hama","summary":"En febrero las fuerzas de Hafez al Asad sitian y bombardean la ciudad de Hama para acabar con un levantamiento de los Hermanos Musulmanes. Las estimaciones de muertos van de unos 10 000 a 40 000. La ciudad se convierte en símbolo del precio de desafiar al régimen de los Asad."}}
 ---
 
 

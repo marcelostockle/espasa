@@ -5,7 +5,7 @@ date: {"year":-190}
 tags: ["roman-republic","hellenistic-kingdoms","seleucid-empire"]
 places: ["magnesia"]
 sources: ["https://en.wikipedia.org/wiki/Roman%E2%80%93Seleucid_War"]
-translations: {"es":{"title":"Batalla de Magnesia: derrota de Antíoco III","summary":"Roma y Pérgamo aplastan al rey seléucida Antíoco III en Magnesia del Sípilo en diciembre de 190 a. C. La caballería de Pérgamo es decisiva; Antíoco pierde su control de Asia Menor."}}
+translations: {"es":{"title":"Batalla de Magnesia: derrota de Antíoco III","summary":"Roma y Pérgamo derrotan al rey seléucida Antíoco III en Magnesia del Sípilo en diciembre de 190 a. C. La caballería de Pérgamo es decisiva; Antíoco pierde su control de Asia Menor."}}
 ---
 
 

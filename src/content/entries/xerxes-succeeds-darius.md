@@ -5,7 +5,7 @@ date: {"year":-486}
 tags: ["achaemenid-persia"]
 places: ["persepolis"]
 sources: ["https://en.wikipedia.org/wiki/Xerxes_I","https://en.wikipedia.org/wiki/Greco-Persian_Wars"]
-translations: {"es":{"title":"Muere Darío; Jerjes se convierte en rey","summary":"Darío muere en 486 a. C. cuando preparaba una segunda campaña contra Grecia, aplazada por una revuelta egipcia. Su hijo Jerjes, de unos 32 años, lo sucede en otoño y aplasta la revuelta. Más tarde completa la Apadana y la Puerta de Todas las Naciones en Persépolis."}}
+translations: {"es":{"title":"Muere Darío; Jerjes se convierte en rey","summary":"Darío muere en 486 a. C. cuando preparaba una segunda campaña contra Grecia, aplazada por una revuelta egipcia. Su hijo Jerjes, de unos 32 años, lo sucede en otoño y sofoca la revuelta. Más tarde completa la Apadana y la Puerta de Todas las Naciones en Persépolis."}}
 ---
 
 

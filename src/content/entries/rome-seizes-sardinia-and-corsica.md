@@ -5,7 +5,7 @@ date: {"year":-238,"circa":true}
 tags: ["roman-republic","carthage","punic-wars"]
 places: ["sardinia"]
 sources: ["https://en.wikipedia.org/wiki/Mercenary_War"]
-translations: {"es":{"title":"Roma se apodera de Cerdeña y Córcega","summary":"Mientras Cartago aplasta a sus mercenarios amotinados, Roma toma Cerdeña y Córcega en 238 a. C. y exige 1200 talentos más. Polibio la considera la mayor causa de la guerra siguiente."}}
+translations: {"es":{"title":"Roma se apodera de Cerdeña y Córcega","summary":"Mientras Cartago derrota a sus mercenarios amotinados, Roma toma Cerdeña y Córcega en 238 a. C. y exige 1200 talentos más. Polibio la considera la mayor causa de la guerra siguiente."}}
 ---
 
 
