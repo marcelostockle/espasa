@@ -20,7 +20,10 @@ const path = stripLocale(Astro.url.pathname);
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" sizes="16x16 32x32" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
     {locales.map((l) => <link rel="alternate" hreflang={l} href={localePath(l, path)} />)}
     <title>{fullTitle}</title>
   </head>
